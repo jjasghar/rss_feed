@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-02-17 19:18:09 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-17 20:07:38 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: WIRED -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, February 17, 2026 - 19:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, February 17, 2026 - 20:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/17/nx-s1-5667015/sexual-violence-girls-safe-space" target="_blank">A safe space for girls who&#x27;ve faced sexual violence</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-17 19:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/17/us-judge-says-wrongfully-deported-kilmar-abrego-garcia-cant-be-re-detained?traffic_source=rss" target="_blank">US judge says wrongfully deported Kilmar Abrego Garcia can’t be re-detained</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-17 19:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +94,6 @@
                 <span class="time">2026-02-17 16:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-iran-irgc-exercise_7167014.jpg?20260217081746" alt="Middle East seemingly moving closer to war as Trump moves warships" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/middle-east-seemingly-moving-closer-to-war-as-donald-trump-moves-warships-and-iran-drops-any-subtlety-in-response-13508634" target="_blank">Middle East seemingly moving closer to war as Trump moves warships</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-17 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/17/irans-khamenei-maintains-tough-rhetoric-with-us-despite-nuclear-talks?traffic_source=rss" target="_blank">Iran’s Khamenei maintains tough rhetoric with US despite nuclear talks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-17 16:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,6 +106,15 @@
                 <span class="title"><a href="https://www.wired.com/story/2026-winter-olympics-curling-controversy-canada-sweden/" target="_blank">The Curling Controversy at the Winter Olympics Isn&#x27;t What You Think</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-17 19:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/17/climactic-launches-hybrid-fund-to-get-startups-through-the-valley-of-death/" target="_blank">Climactic launches hybrid fund to get startups through the ‘valley of death’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-17 18:57</span>
             </div>
         </div>
 <div class="story">
@@ -148,20 +153,29 @@
                 <span class="time">2026-02-17 16:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/grogu-500x500.jpg" alt="Here&#x27;s the fun, action-packed trailer for Mandolorian and Grogu" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/02/heres-the-fun-action-packed-trailer-for-mandolorian-and-grogu/" target="_blank">Here&#x27;s the fun, action-packed trailer for Mandolorian and Grogu</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-17 16:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ansonchan/building-a-privacy-first-file-converter-that-runs-100-in-your-browser-5g8a" target="_blank">Building a Privacy-First File Converter That Runs 100% in Your Browser</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-17 19:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Faster-Close-Range" target="_blank">Linux 7.0 Merges &quot;Significant Improvement&quot; For close_range System Call</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-17 19:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmulzk4ss97amaz7gutnl.png" alt="How I Built an &quot;Agentic&quot; AWS Cost Optimizer (That Doesn&#x27;t Break Production)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -172,48 +186,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18882754&w=600" alt="Beyond Ingestion: Teaching Your NiFi Flows to Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/beyond-ingestion-teaching-nifi-flows-to-think" target="_blank">Beyond Ingestion: Teaching Your NiFi Flows to Think</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-17 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/maintainers/securing-the-ai-software-supply-chain-security-results-across-67-open-source-projects/" target="_blank">Securing the AI software supply chain: Security results across 67 open source projects</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-02-17 19:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.anthropic.com/news/claude-sonnet-4-6" target="_blank">Claude Sonnet 4.6</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-17 17:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!4VEI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F203166c0-3345-4162-9176-4f9a1cac804f_1600x1067.jpeg" alt="How Codex is built" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/how-codex-is-built" target="_blank">How Codex is built</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-02-17 17:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GhostBSD-Eyes-XLibre" target="_blank">GhostBSD To Use XLibre Server, MATE vs. Gershwin Desktop Decision In Future</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-17 17:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18881388&w=600" alt="Leading Through the Chaos of Large-Scale Cloud Operations: 7 Best Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/large-scale-cloud-ops-best-practices" target="_blank">Leading Through the Chaos of Large-Scale Cloud Operations: 7 Best Practices</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-17 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/debian-universal-operating-system/" target="_blank">Why is Debian Called the Universal Operating System, Again?</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-17 16:51</span>
             </div>
         </div>
 </div>
@@ -235,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/09/4aaa7636e55a0b96b2c5b2d06e2fba00-1024x576.jpg" alt="Ethereum Creator Starting to Think This Whole Prediction Market Thing Might be Gambling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ethereum-creator-starting-to-think-this-whole-prediction-market-thing-might-be-gambling-2000722910" target="_blank">Ethereum Creator Starting to Think This Whole Prediction Market Thing Might be Gambling</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-17 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/barack-obama-aliens-feb-14-2026-1280x853.jpg" alt="Conspiracy Theorists Think Obama Is Sending Secret Messages With Talk About Aliens" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +285,6 @@
                 <span class="time">2026-02-17 18:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/colbert_ftc-1280x853.jpg" alt="Stephen Colbert Says CBS Bowed to FTC Pressure, Dropped Interview With Democrat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/stephen-colbert-says-cbs-bowed-to-ftc-pressure-dropped-interview-with-democrat-2000722812" target="_blank">Stephen Colbert Says CBS Bowed to FTC Pressure, Dropped Interview With Democrat</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-17 17:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,22 +299,13 @@
                 <span class="time">2026-02-17 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/16/scarathon" target="_blank">Scarathon</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-02-16 20:07</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 249 |
-        🔄 Last Updated: 19:18 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 247 |
+        🔄 Last Updated: 20:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
