@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-17 04:33:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-17 05:25:37 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, February 17, 2026 - 04:34 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, February 17, 2026 - 05:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/17/us-iran-talks-set-to-begin-at-omans-embassy-in-switzerland?traffic_source=rss" target="_blank">US-Iran talks live: Second round to begin at Oman’s embassy in Geneva</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-17 05:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Pawtucket-2-ap-er-260216_1771276718535_hpMain_4x3t_384.jpg" alt="2 killed, critically injured in &#x27;targeted&#x27; shooting at ice skating rink: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/16/1184170407/frederick-wiseman-obituary" target="_blank">Frederick Wiseman, who captured the weirdness and wonder of everyday life, dies at 96</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-16 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/16/us-homeland-security-departments-funding-negotiations-stall?traffic_source=rss" target="_blank">US Homeland Security Department’s funding negotiations stall</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-16 22:22</span>
             </div>
         </div>
 </div>
@@ -166,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgvctirj8c00th0gup8ge.png" alt="🟢 Part 2: Android HCE Implementation — Build a Complete Type 4 NFC Tag with HostApduService" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sky1309/part-2-android-hce-implementation-build-a-complete-type-4-nfc-tag-with-hostapduservice-1ka7" target="_blank">🟢 Part 2: Android HCE Implementation — Build a Complete Type 4 NFC Tag with HostApduService</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-17 05:06</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,15 +213,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cx2gn239exlo" target="_blank">Dark web agent spotted bedroom wall clue to rescue girl from abuse</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-17 01:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/karayel_b8db3c5b2df2c5f40/i-built-a-privacy-first-zakat-calculator-with-react-heres-what-i-learned-2f8d" target="_blank">I Built a Privacy-First Zakat Calculator with React—Here&#x27;s What I Learned</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-16 23:39</span>
             </div>
         </div>
 </div>
@@ -324,22 +320,13 @@
                 <span class="time">2026-02-16 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/snews.png" alt="SNEWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3208/" target="_blank">SNEWS</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-02-16 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 41 | 📸 With Images: 240 |
-        🔄 Last Updated: 04:34 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 41 | 📸 With Images: 240 |
+        🔄 Last Updated: 05:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
