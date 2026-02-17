@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-17 05:25:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-17 06:16:23 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, February 17, 2026 - 05:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, February 17, 2026 - 06:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/17/trump-ups-pressure-on-kyiv-as-russia-ukraine-hold-peace-talks-in-geneva?traffic_source=rss" target="_blank">Trump ups pressure on Kyiv as Russia, Ukraine hold peace talks in Geneva</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-17 05:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/16/us-deploys-100-soldiers-to-nigeria-for-training-mission-nigerian-military?traffic_source=rss" target="_blank">US deploys 100 soldiers to Nigeria as attacks by armed groups surge</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-16 23:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/16/1184170407/frederick-wiseman-obituary" target="_blank">Frederick Wiseman, who captured the weirdness and wonder of everyday life, dies at 96</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-16 22:48</span>
             </div>
         </div>
 </div>
@@ -162,6 +168,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/02/17/data-is-the-new-oil/" target="_blank">Data is the new oil, and your database is the only way to extract it</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-02-17 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzq01czvq1w8dxirdav3g.gif" alt="🚀 Stop Writing Separate Skeleton Components in React" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shanukj/stop-writing-separate-skeleton-components-in-react-52b0" target="_blank">🚀 Stop Writing Separate Skeleton Components in React</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-17 06:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgvctirj8c00th0gup8ge.png" alt="🟢 Part 2: Android HCE Implementation — Build a Complete Type 4 NFC Tag with HostApduService" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -195,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/wellallytech/privacy-first-chat-with-your-medical-reports-locally-using-llama-3-and-mlx-on-mac-3616" target="_blank">Privacy First: Chat with Your Medical Reports Locally using Llama-3 and MLX on Mac 🍎</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-17 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Gentoo-Starts-Codeberg-Use" target="_blank">Gentoo Linux Begins Codeberg Migration In Moving Away From GitHub, Avoiding Copilot</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-17 01:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2gn239exlo" target="_blank">Dark web agent spotted bedroom wall clue to rescue girl from abuse</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-17 01:01</span>
             </div>
         </div>
 </div>
@@ -326,7 +332,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 41 | 📸 With Images: 240 |
-        🔄 Last Updated: 05:25 UTC
+        🔄 Last Updated: 06:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
