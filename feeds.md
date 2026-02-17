@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-17 17:19:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-17 18:14:09 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, February 17, 2026 - 17:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, February 17, 2026 - 18:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,9 +50,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/17/g-s1-110410/homeland-security-department-mclaughlin-departure" target="_blank">Top Trump administration immigration spokesperson is leaving</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-17 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/02/17/nx-s1-5717011/a-photojournalist-details-her-rebellion-against-the-syrian-regime-and-her-father" target="_blank">A photojournalist details her rebellion against the Syrian regime -- and her father</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-17 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-iran-irgc-exercise_7167014.jpg?20260217081746" alt="Middle East seemingly moving closer to war as Trump moves warships" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/middle-east-seemingly-moving-closer-to-war-as-donald-trump-moves-warships-and-iran-drops-any-subtlety-in-response-13508634" target="_blank">Middle East seemingly moving closer to war as Trump moves warships</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-17 16:51</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +100,20 @@
                 <span class="time">2026-02-17 15:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/jesse-jackson-1-gty-gmh-251124_1763996634417_hpMain_4x3t_384.jpg" alt="Rev. Jesse Jackson, civil rights icon, dies at 84" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/rev-jesse-jackson-civil-rights-icon-dies-aged/story?id=130225140" target="_blank">Rev. Jesse Jackson, civil rights icon, dies at 84</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-17 14:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771331677862_tdy_news_7a_jesse_jackson_obit_260217_1920x1080-anqjp8.jpg" alt="Rev. Jesse Jackson Dies at 84: Look Back at His Life and Legacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/rev-jesse-jackson-civil-rights-champion-dies-at-84-257784901627" target="_blank">Rev. Jesse Jackson Dies at 84: Look Back at His Life and Legacy</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-17 12:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026" target="_blank">Here are the best Presidents Day deals you can still grab</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-17 18:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +159,20 @@
                 <span class="time">2026-02-17 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/879964/shein-eu-dsa-investigation-illegal-products-addictive-design" target="_blank">EU investigates Shein’s ‘addictive design’ and illegal products</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-17 15:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!4VEI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F203166c0-3345-4162-9176-4f9a1cac804f_1600x1067.jpeg" alt="How Codex is built" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/how-codex-is-built" target="_blank">How Codex is built</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-02-17 17:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,6 +194,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/debian-universal-operating-system/" target="_blank">Why is Debian Called the Universal Operating System, Again?</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-17 16:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/anandvikkath/shellgpt-in-corporate-env-3bed" target="_blank">ShellGPT in Corporate env</a></span>
                 <span class="feed">DEV Community</span>
@@ -194,24 +216,6 @@
                 <span class="title"><a href="https://dzone.com/articles/citizen-developer-boom-how-gen-ai-lowers-barrier" target="_blank">The Citizen Developer Boom: How Generative AI Lowers the Barrier to Entry</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-17 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!4fqY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ebd13e4-94a9-483d-aebe-0aa298f25590_2688x1792.jpeg" alt="The Pragmatic Summit recordings and summaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-recordings" target="_blank">The Pragmatic Summit recordings and summaries</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-02-17 15:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kancherla_venkatadileep/enterprise-salesforce-integration-patterns-with-dell-boomi-3m91" target="_blank">Enterprise Salesforce Integration Patterns with Dell Boomi</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-17 15:08</span>
             </div>
         </div>
 </div>
@@ -233,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/image-23-1280x720.jpg" alt="Indie Game Engine Manager Says Getting Bombarded With AI Slop Is ‘Increasingly Draining And Demoralizing’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/godot-ai-github-code-indie-unity-2000669746" target="_blank">Indie Game Engine Manager Says Getting Bombarded With AI Slop Is ‘Increasingly Draining And Demoralizing’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-17 18:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/colbert_ftc-1280x853.jpg" alt="Stephen Colbert Says CBS Bowed to FTC Pressure, Dropped Interview With Democrat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/stephen-colbert-says-cbs-bowed-to-ftc-pressure-dropped-interview-with-democrat-2000722812" target="_blank">Stephen Colbert Says CBS Bowed to FTC Pressure, Dropped Interview With Democrat</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-17 17:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KHP87JVNR0XHHJ3W6RRRJ4HH/hero-image.jpg" alt="Apple&#x27;s Next macOS Update Could Extend the Lifespan of Your MacBook&#x27;s Battery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/macos-could-extend-the-lifespan-of-your-macbooks-battery?utm_medium=RSS" target="_blank">Apple&#x27;s Next macOS Update Could Extend the Lifespan of Your MacBook&#x27;s Battery</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-17 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/04/Pete-Hegseth-1280x853.jpg" alt="Pentagon Considers Designating Anthropic AI as a ‘Supply Chain Risk’: Report" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,38 +291,20 @@
                 <span class="time">2026-02-17 15:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHP2027W5DTEX9XP7T68W61V/hero-image.jpg" alt="Four Ways to Recover Your &#x27;Lost&#x27; Work in Microsoft Word" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/recover-lost-work-in-microsoft-word?utm_medium=RSS" target="_blank">Four Ways to Recover Your &#x27;Lost&#x27; Work in Microsoft Word</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-17 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/mandalorian-and-grogu-trailer-2-1280x853.jpg" alt="Finally, an Actual New ‘The Mandalorian and Grogu’ Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/mandalorian-and-grogu-trailer-star-wars-lucasfilm-disney-2000721679" target="_blank">Finally, an Actual New ‘The Mandalorian and Grogu’ Trailer</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-17 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/ss_cb49dfbcd7175c86e297b35ffc54cf779708f0ae-1280x720.jpg" alt="Unity Promises Deluge Of New Games Prompted Into Existence By AI As Its Stock Tanks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/unity-promises-deluge-of-new-games-prompted-into-existence-by-ai-as-its-stock-tanks-2000669483" target="_blank">Unity Promises Deluge Of New Games Prompted Into Existence By AI As Its Stock Tanks</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-17 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1771278178-20260217.png" alt="Saturday Morning Breakfast Cereal - Opportunity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/opportunity" target="_blank">Saturday Morning Breakfast Cereal - Opportunity</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-02-17 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -306,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 245 |
-        🔄 Last Updated: 17:19 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 246 |
+        🔄 Last Updated: 18:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
