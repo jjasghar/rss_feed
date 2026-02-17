@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-17 14:16:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-17 15:14:12 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 12 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, February 17, 2026 - 14:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, February 17, 2026 - 15:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/17/ramadan-mubarak-2026-hear-greetings-in-different-languages?traffic_source=rss" target="_blank">Ramadan Mubarak 2026: Hear greetings in different languages</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-17 15:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/jesse-jackson-1-gty-gmh-251124_1763996634417_hpMain_4x3t_384.jpg" alt="Rev. Jesse Jackson, civil rights icon, dies at 84" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +97,29 @@
                 <span class="time">2026-02-17 11:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/planet-money/2026/02/17/g-s1-110042/the-record-breaking-cocaine-boom-and-its-deadly-fallout" target="_blank">The record-breaking cocaine boom — and its deadly fallout</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-17 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/879964/shein-eu-dsa-investigation-illegal-products-addictive-design" target="_blank">EU investigates Shein’s ‘addictive design’ and illegal products</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-17 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/2026_Toyota_bZ_Woodland_Premium_Bronze_050-500x500.jpg" alt="Looks a lot like an electric station wagon: the 2026 Toyota bZ Woodland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/02/looks-a-lot-like-an-electric-station-wagon-the-2026-toyota-bz-woodland/" target="_blank">Looks a lot like an electric station wagon: the 2026 Toyota bZ Woodland</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-17 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +156,47 @@
                 <span class="time">2026-02-17 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69932d52d52a54addf004671/master/pass/GettyImages-2159154233.jpg" alt="The Small English Town Swept Up in the Global AI Arms Race" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/" target="_blank">The Small English Town Swept Up in the Global AI Arms Race</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-17 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis" target="_blank">Valve’s Steam Deck OLED will be ‘intermittently’ out of stock because of the RAM crisis</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-17 02:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kancherla_venkatadileep/enterprise-salesforce-integration-patterns-with-dell-boomi-3m91" target="_blank">Enterprise Salesforce Integration Patterns with Dell Boomi</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-17 15:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/gentoo-github-switch-begins/" target="_blank">Gentoo Takes the First Step to Ditch Microsoft Copilot-Infested GitHub</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-17 15:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-xeon-mrdimm-scaling" target="_blank">Intel Xeon 6 Granite Rapids Memory Scaling Performance From 6 To 12 MRDIMMs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-17 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18882279&w=600" alt="Open Notebook: A Secure Alternative to Google NotebookLM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/open-notebook-secure-alternative" target="_blank">Open Notebook: A Secure Alternative to Google NotebookLM</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-17 14:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -178,42 +213,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/announcing-fips-140-3-for-ubuntu-core22" target="_blank">Announcing FIPS 140-3 for Ubuntu Core22</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-02-17 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhocw4w3crfqdbwndsul7.png" alt="CLAUDE.md Best Practices: Mermaid for Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cleverhoods/claudemd-best-practices-mermaid-for-workflows-khb" target="_blank">CLAUDE.md Best Practices: Mermaid for Workflows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-17 12:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/leapwork-ai-testing/en/headerimage/generatedHeaderImage-1771070027501.jpg" alt="Leapwork Research Shows Why AI in Testing Still Depends on Reliability, Not Just Innovation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/leapwork-ai-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Leapwork Research Shows Why AI in Testing Still Depends on Reliability, Not Just Innovation</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-17 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-MFD" target="_blank">Nova Lake S Support Added To Intel LPSS Driver In Linux 7.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-17 11:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/DNF-5.4-Released" target="_blank">DNF 5.4 Released With Some New Options &amp; AI Contributions Policy</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-17 11:06</span>
             </div>
         </div>
 </div>
@@ -235,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Apple-MacBook-Air-Sky-Blue-1280x853.jpg" alt="Apple Might Announce Colorful, Low-Cost MacBook on March 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/apple-might-announce-colorful-low-cost-macbook-on-march-4-2000722772" target="_blank">Apple Might Announce Colorful, Low-Cost MacBook on March 4</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-17 15:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/mandalorian-and-grogu-trailer-2-1280x853.jpg" alt="Finally, an Actual New ‘The Mandalorian and Grogu’ Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +288,6 @@
                 <span class="time">2026-02-16 22:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/evidence-of-a-subsurfa-1-1280x853.jpg" alt="Scientists Found a Massive Lava Tube Hiding Beneath the Surface of Venus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/scientists-found-a-massive-lava-tube-hiding-beneath-the-surface-of-venus-2000722596" target="_blank">Scientists Found a Massive Lava Tube Hiding Beneath the Surface of Venus</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-16 22:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 243 |
-        🔄 Last Updated: 14:16 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 242 |
+        🔄 Last Updated: 15:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
