@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-17 11:13:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-17 12:06:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, February 17, 2026 - 11:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, February 17, 2026 - 12:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,10 +51,46 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/17/imran-khan-must-be-given-immediate-medical-attention-cricket-legends-say?traffic_source=rss" target="_blank">Imran Khan must be given immediate medical attention, cricket legends say</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-17 11:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/planet-money/2026/02/17/g-s1-110042/the-record-breaking-cocaine-boom-and-its-deadly-fallout" target="_blank">The record-breaking cocaine boom — and its deadly fallout</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-17 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/17/trim-slugs-to-kenya-authorities-israel-tech-crack-activists-phone-report" target="_blank">Kenyan authorities used Israeli tech to crack activist’s phone, report claims</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-17 11:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/02/17/963124454/jesse-jackson-civil-rights-leader-rainbow-coalition-dies" target="_blank">Longtime civil rights leader Rev. Jesse Jackson dies at 84</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-17 10:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/jesse_jackson-q36hnj.jpg" alt="Civil rights icon Rev. Jesse Jackson dies at 84" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/rev-jesse-jackson-dies-at-84-257781317847" target="_blank">Civil rights icon Rev. Jesse Jackson dies at 84</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-17 10:29</span>
             </div>
         </div>
 <div class="story">
@@ -66,42 +100,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/rev-jesse-jackson-civil-rights-icon-dies-aged/story?id=130225140" target="_blank">Rev. Jesse Jackson, civil rights icon, dies at age 84</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-17 10:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/17/nx-s1-5698320/fema-reform-trump-hurricane-earthquake" target="_blank">3 big changes are proposed for FEMA. This is what experts really think of them</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-17 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/17/us-civil-rights-leader-jesse-jackson-dies-aged-84?traffic_source=rss" target="_blank">US civil rights leader Jesse Jackson dies aged 84</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-17 09:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ad3/live/30c5f7a0-0be6-11f1-8d90-772c0d7aea09.jpg" alt="Councils face &#x27;uphill struggle&#x27; after elections delay U-turn" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c043z5rzwg7o?at_medium=RSS&at_campaign=rss" target="_blank">Councils face &#x27;uphill struggle&#x27; after elections delay U-turn</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-17 09:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250725-jesse-jackson-obit-main-jg-eab35e.jpg" alt="Rev. Jesse Jackson, civil rights icon and two-time presidential candidate, dies at 84" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/obituaries/rev-jesse-jackson-civil-rights-activist-dies-rcna42408" target="_blank">Rev. Jesse Jackson, civil rights icon and two-time presidential candidate, dies at 84</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-17 09:30</span>
             </div>
         </div>
 </div>
@@ -169,6 +167,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhocw4w3crfqdbwndsul7.png" alt="CLAUDE.md Best Practices: Mermaid for Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cleverhoods/claudemd-best-practices-mermaid-for-workflows-khb" target="_blank">CLAUDE.md Best Practices: Mermaid for Workflows</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-17 12:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/leapwork-ai-testing/en/headerimage/generatedHeaderImage-1771070027501.jpg" alt="Leapwork Research Shows Why AI in Testing Still Depends on Reliability, Not Just Innovation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/leapwork-ai-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Leapwork Research Shows Why AI in Testing Still Depends on Reliability, Not Just Innovation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-17 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-MFD" target="_blank">Nova Lake S Support Added To Intel LPSS Driver In Linux 7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-17 11:22</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -195,45 +220,18 @@
                 <span class="time">2026-02-17 10:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftheu15dqkh9drd76n28i.png" alt="10 top Claude Code plugins to use in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/composiodev/10-top-claude-code-plugins-to-use-in-2026-4gn6" target="_blank">10 top Claude Code plugins to use in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-17 10:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mystrix/building-interactive-stories-with-nextjs-and-ai-5fnf" target="_blank">Building Interactive Stories with Next.js and AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-17 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/proactive-autoscaling-edge-kubernetes/en/headerimage/proactive-autoscaling-edge-kubernetes-header-1770721062673.jpg" alt="Article: Proactive Autoscaling for Edge Applications in Kubernetes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/proactive-autoscaling-edge-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Proactive Autoscaling for Edge Applications in Kubernetes</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-17 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.schneier.com/wp-content/uploads/2026/02/promptware-kill-chain-660w.jpg" alt="The Promptware Kill Chain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/the-promptware-kill-chain.html" target="_blank">The Promptware Kill Chain</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/side-channel-attacks-against-llms.html" target="_blank">Side-Channel Attacks Against LLMs</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-16 12:04</span>
+                <span class="time">2026-02-17 12:01</span>
             </div>
         </div>
 </div>
@@ -241,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Mint-Moblie-Holiday-1280x853.jpg" alt="Mint Mobile Pairs Its 50% Off Unlimited Plan With Samsung Smartphones, $1 Galaxy A16 or $20 Galaxy A17 in Final Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/mint-mobile-pairs-its-50-off-unlimited-plan-with-samsung-smartphones-1-galaxy-a16-or-20-galaxy-a17-in-final-days-2000716351" target="_blank">Mint Mobile Pairs Its 50% Off Unlimited Plan With Samsung Smartphones, $1 Galaxy A16 or $20 Galaxy A17 in Final Days</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-17 11:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/western-digital-hdd-1-1280x853.jpg" alt="Because of AI, Western Digital Hard Drives Are Sold Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +293,6 @@
                 <span class="time">2026-02-16 19:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/ss_322285fcb1937f1acbe1fb349c019d7e68d91017.1920x1080-1280x720.jpg" alt="Massive Open-World Adventure Crimson Desert Promises No Microtransaction Cash Grab At Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/crimson-desert-mtx-microtransactions-deluxe-price-2000669462" target="_blank">Massive Open-World Adventure Crimson Desert Promises No Microtransaction Cash Grab At Launch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-16 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 237 |
-        🔄 Last Updated: 11:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 239 |
+        🔄 Last Updated: 12:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
