@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-02-17 00:08:21 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-17 01:30:57 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, February 17, 2026 - 00:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, February 17, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +41,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771285541341_nn_lkr_sheriffclearsguthriefamily_260216_1920x1080-x3unu2.jpg" alt="Sheriff says Nancy Guthrie’s family, spouses not suspects in abduction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/sheriff-says-nancy-guthrie-s-family-spouses-not-suspects-in-abduction-257767493520" target="_blank">Sheriff says Nancy Guthrie’s family, spouses not suspects in abduction</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-16 23:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/16/us-deploys-100-soldiers-to-nigeria-for-training-mission-nigerian-military?traffic_source=rss" target="_blank">US deploys 100 soldiers to Nigeria as attacks by armed groups surge</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-16 23:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/16/1184170407/frederick-wiseman-obituary" target="_blank">Frederick Wiseman, who captured the weirdness and wonder of everyday life, dies at 96</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-16 22:48</span>
             </div>
         </div>
 <div class="story">
@@ -78,24 +92,6 @@
                 <span class="title"><a href="https://news.sky.com/story/imran-khans-doctor-not-allowed-to-treat-him-in-jail-spokesman-claims-13508283" target="_blank">Imran Khan&#x27;s doctor not allowed to treat him in jail, spokesman claims</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-02-16 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Nancy-guthrie-new-photo-ap-bh-260215_1771180604616_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: Guthrie family cleared as possible suspects, sheriff says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: Guthrie family cleared as possible suspects, sheriff says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-16 20:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/16/robert-duvall-oscar-winning-actor-and-star-of-the-godfather-dies-aged-95?traffic_source=rss" target="_blank">Robert Duvall, Oscar-winning actor and star of The Godfather, dies aged 95</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-16 20:07</span>
             </div>
         </div>
 </div>
@@ -166,6 +162,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wellallytech/privacy-first-chat-with-your-medical-reports-locally-using-llama-3-and-mlx-on-mac-3616" target="_blank">Privacy First: Chat with Your Medical Reports Locally using Llama-3 and MLX on Mac 🍎</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-17 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Gentoo-Starts-Codeberg-Use" target="_blank">Gentoo Linux Begins Codeberg Migration In Moving Away From GitHub, Avoiding Copilot</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-17 01:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/karayel_b8db3c5b2df2c5f40/i-built-a-privacy-first-zakat-calculator-with-react-heres-what-i-learned-2f8d" target="_blank">I Built a Privacy-First Zakat Calculator with React—Here&#x27;s What I Learned</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-16 23:39</span>
@@ -196,24 +210,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/DRM-Panic-Nicer-Fedora-Idea" target="_blank">Idea Raised For Nicer DRM Panic Screen Integration On Fedora Linux</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-16 20:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18864626&w=600" alt="My Learning About Password Hashing After Moving Beyond Bcrypt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/password-hashing-after-moving-beyond-bcrypt" target="_blank">My Learning About Password Hashing After Moving Beyond Bcrypt</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-16 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-RISC-V" target="_blank">RISC-V In Linux 7.0 Brings User-Space CFI &amp; Optimized strlen Assembly</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-16 19:05</span>
             </div>
         </div>
 </div>
@@ -330,22 +326,13 @@
                 <span class="time">2026-02-16 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5766.png" alt="Teens" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5766" target="_blank">Teens</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-02-16 01:08</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 243 |
-        🔄 Last Updated: 00:08 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 241 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
