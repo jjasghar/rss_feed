@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-17 06:16:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-17 07:19:12 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, February 17, 2026 - 06:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, February 17, 2026 - 07:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/17/nx-s1-5716762/australia-wont-repatriate-34-women-and-children-from-syria" target="_blank">Australia won&#x27;t repatriate 34 women and children from Syria</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-17 07:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +98,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/sheriff-says-nancy-guthrie-s-family-spouses-not-suspects-in-abduction-257767493520" target="_blank">Sheriff says Nancy Guthrie’s family, spouses not suspects in abduction</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-16 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/16/us-deploys-100-soldiers-to-nigeria-for-training-mission-nigerian-military?traffic_source=rss" target="_blank">US deploys 100 soldiers to Nigeria as attacks by armed groups surge</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-16 23:13</span>
             </div>
         </div>
 </div>
@@ -331,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 41 | 📸 With Images: 240 |
-        🔄 Last Updated: 06:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 238 |
+        🔄 Last Updated: 07:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
