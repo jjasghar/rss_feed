@@ -1,28 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-18 02:56:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-18 03:51:04 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 20 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, February 18, 2026 - 02:56 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, February 18, 2026 - 03:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Nancy-guthrie-new-photo-ap-bh-260215_1771180604616_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: No CODIS match for glove DNA; this option could be next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: No CODIS match for glove DNA; this option could be next</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-18 03:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,28 +89,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/17/nx-s1-5717497/olympics-womens-figure-skating-amber-glenn-alysa-liu" target="_blank">The U.S. falters again in figure skating, but the women still have time to make it up</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-17 23:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/17/tributes-pour-in-after-us-civil-rights-icon-jesse-jackson-dies-at-84?traffic_source=rss" target="_blank">Tributes pour in after US civil rights icon Jesse Jackson dies at 84</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-17 22:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-real-madrid-vinicius-junior_7167736.jpg?20260217222028" alt="&#x27;A disgrace to football&#x27;: Champions League match halted over alleged racist slur" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/real-madrid-game-against-benfica-halted-over-alleged-racial-slur-13508809" target="_blank">&#x27;A disgrace to football&#x27;: Champions League match halted over alleged racist slur</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-17 22:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-real-madrid-vinicius-junior_7167736.jpg?20260217222028" alt="Real Madrid game against Benfica halted over alleged racial slur" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/real-madrid-game-against-benfica-halted-over-alleged-racial-slur-13508809" target="_blank">Real Madrid game against Benfica halted over alleged racial slur</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-17 22:06</span>
             </div>
         </div>
 </div>
@@ -159,6 +171,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cverports/ghsa-pg2v-8xwh-qhcc-the-call-is-coming-from-inside-the-house-openclaw-ssrf-analysis-1pni" target="_blank">GHSA-PG2V-8XWH-QHCC: The Call Is Coming From Inside the House: OpenClaw SSRF Analysis</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-18 03:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.sceneandheardnu.com/content/halt-and-catch-fire" target="_blank">Halt and Catch Fire: TV&#x27;s Best Drama You&#x27;ve Probably Never Heard Of (2021)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-18 02:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/GNOME-50-Mutter-sdr-native" target="_blank">GNOME 50 Merges &quot;sdr-native&quot; Color Mode Support For Wide Color Gamut Displays</a></span>
                 <span class="feed">Phoronix</span>
@@ -175,39 +205,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Uber and OpenAI Retool Rate Limiting Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/uber-openai-rate-limiting/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber and OpenAI Retool Rate Limiting Systems</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-17 23:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-RMPOPT-Linux" target="_blank">AMD Preparing Linux Kernel For &quot;RMPOPT&quot; To Help Reduce Overhead On SEV-SNP Servers</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-17 21:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18900389&w=600" alt="Diffs Are Dead. Why You Need Scalable Previews." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/diffs-are-dead-why-you-need-scalable-previews" target="_blank">Diffs Are Dead. Why You Need Scalable Previews.</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-17 20:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ansonchan/building-a-privacy-first-file-converter-that-runs-100-in-your-browser-5g8a" target="_blank">Building a Privacy-First File Converter That Runs 100% in Your Browser</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-17 19:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://asteroidos.org/news/2-0-release/index.html" target="_blank">Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-17 19:24</span>
             </div>
         </div>
 </div>
@@ -229,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/perforce-1280x853.jpg" alt="SaaS Companies Take Unusual Step to Prove AI Has Not Mortally Wounded Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/saas-companies-take-unusual-step-to-prove-ai-has-not-mortally-wounded-them-2000722626" target="_blank">SaaS Companies Take Unusual Step to Prove AI Has Not Mortally Wounded Them</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-18 01:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/Intern-Pikachu-Plush-Returns-in-1.jpg" alt="Nintendo Tells Pokémon Store That Got Robbed To Change Its Name" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +295,6 @@
                 <span class="time">2026-02-17 22:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHPM03ZJFRAKBM337N5306KQ/hero-image.jpg" alt="Here Are the New Features Coming in iOS 26.4" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/here-are-the-new-features-coming-in-ios-264?utm_medium=RSS" target="_blank">Here Are the New Features Coming in iOS 26.4</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-17 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 248 |
-        🔄 Last Updated: 02:56 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 248 |
+        🔄 Last Updated: 03:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
