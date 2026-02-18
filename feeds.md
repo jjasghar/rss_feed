@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-18 18:10:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-18 19:17:57 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, February 18, 2026 - 18:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, February 18, 2026 - 19:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +53,15 @@
                 <span class="title"><a href="https://abcnews.com/US/600-acre-ai-data-center-cost-wisconsin-residents/story?id=130153006" target="_blank">A 600-acre AI data center could cost some Wisconsin residents their land</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-18 17:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/politics/2026/feb/18/countries-do-not-embrace-ai-left-behind-george-osborne" target="_blank">Countries that do not embrace AI could be left behind, says OpenAI’s George Osborne</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-18 17:57</span>
             </div>
         </div>
 <div class="story">
@@ -93,15 +100,6 @@
                 <span class="time">2026-02-18 16:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/avalanche-1-ht-gmh-260218_1771424636857_hpMain_4x3t_384.jpg" alt="Desperate search continues for 9 missing skiers following California avalanche" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/backcountry-skiers-missing-avalanche-northern-california-authorities/story?id=130247691" target="_blank">Desperate search continues for 9 missing skiers following California avalanche</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-18 16:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,6 +112,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/" target="_blank">World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-18 18:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6994e530da5070f98b77fc89/master/pass/Mega-Trove-of-Exposed-Social-Security-Numbers-Security-2249961752.jpg" alt="A Vast Trove of Exposed Social Security Numbers May Put Millions at Risk of Identity Theft" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-mega-trove-of-exposed-social-security-numbers-underscores-critical-identity-theft-risks/" target="_blank">A Vast Trove of Exposed Social Security Numbers May Put Millions at Risk of Identity Theft</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-18 17:22</span>
             </div>
         </div>
 <div class="story">
@@ -152,20 +159,38 @@
                 <span class="time">2026-02-18 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/880395/toyota-chr-ev-price-range-specs" target="_blank">Toyota’s C-HR electric hatchback starts at $38,135</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-18 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Retires-Mwave" target="_blank">Linux 7.0 Retires The IBM Mwave ACP Modem Driver Used By Some 1990s ThinkPads</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-18 18:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/maintainers/what-to-expect-for-open-source-in-2026/" target="_blank">What to expect for open source in 2026</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-02-18 18:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/kde-plasma-6-6-release/" target="_blank">KDE Plasma 6.6 Turns Spectacle Into an OCR Tool and Ships a New Setup Wizard</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-18 18:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnpm42c618pnt0bs4pe9u.png" alt="GraphQL: Una introducción para nuevos desarrolladores." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,33 +218,6 @@
                 <span class="time">2026-02-18 17:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tailscale.com/blog/peer-relays-ga" target="_blank">Tailscale Peer Relays is now generally available</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-18 16:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/stewartjarod/a-ci-tool-that-stops-ai-from-undoing-your-teams-architectural-decisions-1e32" target="_blank">A CI tool that stops AI from undoing your team&#x27;s architectural decisions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-18 16:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18882802&w=600" alt="Testing Legacy JSP Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/testing-legacy-jsp" target="_blank">Testing Legacy JSP Code</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-18 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Spider-Man-Brand-New-Day-suit-reveal-1280x853.jpg" alt="A ‘Spider-Man: Brand New Day’ Book Just Accidentally Told Us What the Film Is About" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-spider-man-brand-new-day-book-just-accidentially-told-us-what-the-film-is-about-2000723535" target="_blank">A ‘Spider-Man: Brand New Day’ Book Just Accidentally Told Us What the Film Is About</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-18 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K07M51JBHCWEW964PCDFEKPW/hero-image.png" alt="The Ultrawide Gaming Monitor I Wish I Owned Is Over $350 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/samsung-odyssey-oled-g93sc-sale-february-2026?utm_medium=RSS" target="_blank">The Ultrawide Gaming Monitor I Wish I Owned Is Over $350 Off</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-18 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/trump-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Trump pardoned a man convicted of trafficking 400 tons of cocaine, then gave him a ride to the Waldorf Astoria" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/18/trump-pardoned-a-man-convicted-of-trafficking-400-tons-of-cocaine-then-gave-him-a-ride-to-the-waldorf-astoria.html" target="_blank">Trump pardoned a man convicted of trafficking 400 tons of cocaine, then gave him a ride to the Waldorf Astoria</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-18 18:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-1-09-1280x853.jpg" alt="Good Luck Banning Smart Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,38 +291,20 @@
                 <span class="time">2026-02-18 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/Watch-Dogs-2-1280x864.jpg" alt="The Feds Reportedly Want Discord, Reddit, And Others To Doxx Users Who Criticize ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ice-reddit-discord-doxxing-dhs-subpoena-2000670648" target="_blank">The Feds Reportedly Want Discord, Reddit, And Others To Doxx Users Who Criticize ICE</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-18 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/sea-otter.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="The adorable reason sea otters hold hands while they sleep" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/18/the-adorable-reason-sea-otters-hold-hands-while-they-sleep.html" target="_blank">The adorable reason sea otters hold hands while they sleep</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-18 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/star-trek-idw-comics-relaunch-2026-seven-of-nine-1280x853.jpg" alt="The Future of ‘Star Trek’ Comics Is Ready for a New Next Generation (Exclusive)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-trek-idw-comics-2026-seven-of-nine-legacy-2000723368" target="_blank">The Future of ‘Star Trek’ Comics Is Ready for a New Next Generation (Exclusive)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-18 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/bird-of-the-year/" target="_blank">Bird of the Year</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-02-18 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1771278220-20260218.png" alt="Saturday Morning Breakfast Cereal - Fluid" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -330,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 18:11 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 19:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
