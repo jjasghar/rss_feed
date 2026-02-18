@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-18 04:35:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-18 05:27:03 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, February 18, 2026 - 04:35 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, February 18, 2026 - 05:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/18/over-80-un-member-states-condemn-israels-de-facto-annexation-of-west-bank?traffic_source=rss" target="_blank">Over 80 UN member states condemn Israel’s de-facto annexation of West Bank</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-18 04:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Nancy-guthrie-new-photo-ap-bh-260215_1771180604616_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: No CODIS match for glove DNA; this option could be next" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/17/nx-s1-5717497/olympics-womens-figure-skating-amber-glenn-alysa-liu" target="_blank">The U.S. falters again in figure skating, but the women still have time to make it up</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-17 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/17/tributes-pour-in-after-us-civil-rights-icon-jesse-jackson-dies-at-84?traffic_source=rss" target="_blank">Tributes pour in after US civil rights icon Jesse Jackson dies at 84</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-17 22:20</span>
             </div>
         </div>
 </div>
@@ -163,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcoo26q6txk12sd8k6fsr.jpg" alt="Build a Pro Random Color Generator with Python and Tkinter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/matetechnologie/build-a-pro-random-color-generator-with-python-and-tkinter-4n2o" target="_blank">Build a Pro Random Color Generator with Python and Tkinter</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-18 05:19</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/yves_accad_93532d683d2a05/the-complete-guide-to-spf-dkim-and-dmarc-5ea6" target="_blank">The Complete Guide to SPF, DKIM, and DMARC</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-18 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Uber and OpenAI Retool Rate Limiting Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/uber-openai-rate-limiting/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber and OpenAI Retool Rate Limiting Systems</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-17 23:02</span>
             </div>
         </div>
 </div>
@@ -317,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 247 |
-        🔄 Last Updated: 04:35 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 248 |
+        🔄 Last Updated: 05:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
