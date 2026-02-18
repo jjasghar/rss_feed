@@ -1,38 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-02-18 07:19:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-18 08:09:15 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, February 18, 2026 - 07:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, February 18, 2026 - 08:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/18/nx-s1-5718010/shark-caught-on-camera-antarctica" target="_blank">Surprise shark caught on camera for first time in Antarctica&#x27;s near-freezing deep</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-18 07:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/18/ronda-rousey-gina-carano-end-mma-retirements-to-fight-in-may?traffic_source=rss" target="_blank">Ronda Rousey, Gina Carano end MMA retirements to fight in May</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-18 07:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +108,20 @@
                 <span class="time">2026-02-18 03:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/18/jesse-jackson-helped-empower-us-arabs-and-raise-palestinian-cause?traffic_source=rss" target="_blank">How Jesse Jackson helped empower US Arabs and lift up the Palestinian cause</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-18 01:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f46a/live/c29b6760-0b36-11f1-9972-d3f265c101c6.jpg" alt="I would scream in my sleep: Women from Syria&#x27;s Alawite minority tell of kidnap and rape" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn5g751pl7lo?at_medium=RSS&at_campaign=rss" target="_blank">I would scream in my sleep: Women from Syria&#x27;s Alawite minority tell of kidnap and rape</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-18 00:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/" target="_blank">U.S. court bars OpenAI from using ‘Cameo’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-18 06:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" alt="Lovehoney Discount Codes and Deals: Up to 70% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +167,29 @@
                 <span class="time">2026-02-18 00:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/880009/stephen-colbert-cbs-fcc-brendan-carr-talarico-interview" target="_blank">Stephen Colbert says CBS banned him from airing this James Talarico interview</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-17 23:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhihx1ygv003p2zyeh9lk.png" alt="Codebase Intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nancy_kataria/codebase-intelligence-c7m" target="_blank">Codebase Intelligence</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-18 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/dropbox-context-engine/en/headerimage/generatedHeaderImage-1771284814159.jpg" alt="How Dropbox Built a Scalable Context Engine for Enterprise Knowledge Search" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/dropbox-context-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Dropbox Built a Scalable Context Engine for Enterprise Knowledge Search</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-18 07:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +226,6 @@
                 <span class="time">2026-02-18 04:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cverports/ghsa-pg2v-8xwh-qhcc-the-call-is-coming-from-inside-the-house-openclaw-ssrf-analysis-1pni" target="_blank">GHSA-PG2V-8XWH-QHCC: The Call Is Coming From Inside the House: OpenClaw SSRF Analysis</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-18 03:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.sceneandheardnu.com/content/halt-and-catch-fire" target="_blank">Halt and Catch Fire: TV&#x27;s Best Drama You&#x27;ve Probably Never Heard Of (2021)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-18 02:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Tesla-Cuts-Autopilot-1280x854.jpg" alt="Tesla Relents, Reportedly Stops Using the Term ‘Autopilot’ in California" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tesla-relents-reportedly-stops-using-the-term-autopilot-in-california-2000723253" target="_blank">Tesla Relents, Reportedly Stops Using the Term ‘Autopilot’ in California</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-18 04:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/perforce-1280x853.jpg" alt="SaaS Companies Take Unusual Step to Prove AI Has Not Mortally Wounded Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,20 +299,20 @@
                 <span class="time">2026-02-18 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/siwtch2-1280x720.jpg" alt="Skyrim On Switch 2 Less Of A Mess After New Update Adds 60FPS Option And Fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/skyrim-switch-2-60fps-update-2000669806" target="_blank">Skyrim On Switch 2 Less Of A Mess After New Update Adds 60FPS Option And Fixes</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-17 22:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/02/18/flagrant-llama-abuse" target="_blank">Flagrant Llama Abuse</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-02-18 08:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5767.png" alt="Comics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -321,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 248 |
-        🔄 Last Updated: 07:19 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 155 | 📡 Total Sources: 42 | 📸 With Images: 249 |
+        🔄 Last Updated: 08:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
