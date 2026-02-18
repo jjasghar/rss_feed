@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-18 03:51:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-18 04:35:19 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, February 18, 2026 - 03:51 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, February 18, 2026 - 04:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +106,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/17/tesla-dodges-30-day-suspension-in-california-after-removing-autopilot/" target="_blank">Tesla dodges 30-day suspension in California after removing Autopilot</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-18 04:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips" target="_blank">Meta&amp;#8217;s new deal with Nvidia buys up millions of AI chips</a></span>
                 <span class="feed">The Verge</span>
@@ -154,20 +157,20 @@
                 <span class="time">2026-02-17 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/gamehub-500x500-1771366644.png" alt="GameHub will give Mac owners another imperfect way to play Windows games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/02/gamehub-will-give-mac-owners-another-imperfect-way-to-play-windows-games/" target="_blank">GameHub will give Mac owners another imperfect way to play Windows games</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-17 22:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shubham_mohite_3034/why-angular-is-easier-to-learn-and-master-than-reactjs-or-vuejs-angular-developers-take-1me6" target="_blank">Why Angular is Easier to Learn and Master Than React.js or Vue.js: A Developer&#x27;s Take</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-18 04:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +214,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/02/uber-openai-rate-limiting/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber and OpenAI Retool Rate Limiting Systems</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-02-17 23:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-RMPOPT-Linux" target="_blank">AMD Preparing Linux Kernel For &quot;RMPOPT&quot; To Help Reduce Overhead On SEV-SNP Servers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-17 21:22</span>
             </div>
         </div>
 </div>
@@ -323,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 248 |
-        🔄 Last Updated: 03:51 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 247 |
+        🔄 Last Updated: 04:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
