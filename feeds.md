@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-18 19:17:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-18 22:05:33 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, February 18, 2026 - 19:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, February 18, 2026 - 22:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/avalanche-1-ht-gmh-260218_1771424636857_hpMain_4x3t_384.jpg" alt="8 of 9 missing skiers found dead following California avalanche" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/backcountry-skiers-missing-avalanche-northern-california-authorities/story?id=130247691" target="_blank">8 of 9 missing skiers found dead following California avalanche</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-18 21:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a3/live/87f7fc50-0d10-11f1-9972-d3f265c101c6.jpg" alt="Eight skiers found dead after California avalanche" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg19dp4vxgo?at_medium=RSS&at_campaign=rss" target="_blank">Eight skiers found dead after California avalanche</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-18 21:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/tom_saukville-28-ht-er-260217_1771362054813_hpMain_4x3t_384.jpg" alt="A 600-acre AI data center could cost some Wisconsin residents their land" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,30 +90,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f9a/live/2ff23460-0ccc-11f1-b5e2-dd58fc65f0f6.jpg" alt="Teenage girls lured into forced sex by gangs in London, BBC finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/18/nx-s1-5702503/trump-government-lawsuits-pay-himself-billions" target="_blank">Trump would like the government he leads to pay him billions</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-18 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/making-peace/2026/2/18/still-together-ep-2-new-york?traffic_source=rss" target="_blank">Still Together | Ep 2 – New York</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-18 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/18/nx-s1-5702706/russia-hybrid-warfare-poland" target="_blank">Russia&#x27;s hybrid warfare rattles Poland and NATO</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-18 16:09</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cjd9xnjyy8po?at_medium=RSS&at_campaign=rss" target="_blank">Teenage girls lured into forced sex by gangs in London, BBC finds</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-18 17:01</span>
             </div>
         </div>
 </div>
@@ -105,6 +103,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/880850/social-media-lawsuits-meta-facebook-instagram-tiktok" target="_blank">Social media on trial: tech giants face lawsuits over addiction, safety, and mental health</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-18 21:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/05/getty-verizon-500x500-1747846759.jpg" alt="Verizon acknowledges &quot;pain&quot; of new unlock policy, suggests change is coming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/verizon-might-drop-its-annoying-35-day-wait-for-unlocking-paid-off-phones/" target="_blank">Verizon acknowledges &quot;pain&quot; of new unlock policy, suggests change is coming</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-18 20:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +157,20 @@
                 <span class="time">2026-02-18 16:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/" target="_blank">Kana emerges from stealth with $15M to build flexible AI agents for marketers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-18 15:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6994a739da5070f98b77f796/master/pass/Google%20Pixel%2010a%20hero%20image%20SOURCE%20Julian%20Chokkattu.jpg" alt="The Google Pixel 10a Is Barely Different From the Pixel 9a" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/google-pixel-10a/" target="_blank">The Google Pixel 10a Is Barely Different From the Pixel 9a</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-18 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/linux-7-panther-lake" target="_blank">Linux 7.0 Showing Some Early Performance Regressions On Intel Panther Lake</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-18 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +214,6 @@
                 <span class="title"><a href="https://dzone.com/articles/10-go-best-practices-every-backend-developer-shoul" target="_blank">10 Go Best Practices Every Backend Developer Should Know</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-18 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/red-hat-digital-sovereignty-assessment-tool/" target="_blank">Think You&amp;#x27;re Digitally Sovereign? Red Hat Built a Tool to Find Out</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-18 17:08</span>
             </div>
         </div>
 </div>
@@ -337,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 19:18 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 22:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
