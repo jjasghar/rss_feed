@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-18 22:05:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-18 23:06:03 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, February 18, 2026 - 22:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, February 18, 2026 - 23:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -63,6 +63,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/2261696306-oez03e.jpg" alt="Authorities announce death toll from avalanche near Lake Tahoe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/authorities-announce-death-toll-from-avalanche-near-lake-tahoe-257918021943" target="_blank">Authorities announce death toll from avalanche near Lake Tahoe</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-18 20:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/tom_saukville-28-ht-er-260217_1771362054813_hpMain_4x3t_384.jpg" alt="A 600-acre AI data center could cost some Wisconsin residents their land" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -89,15 +98,6 @@
                 <span class="time">2026-02-18 17:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f9a/live/2ff23460-0ccc-11f1-b5e2-dd58fc65f0f6.jpg" alt="Teenage girls lured into forced sex by gangs in London, BBC finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cjd9xnjyy8po?at_medium=RSS&at_campaign=rss" target="_blank">Teenage girls lured into forced sex by gangs in London, BBC finds</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-18 17:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,6 +110,15 @@
                 <span class="title"><a href="https://www.theverge.com/policy/880850/social-media-lawsuits-meta-facebook-instagram-tiktok" target="_blank">Social media on trial: tech giants face lawsuits over addiction, safety, and mental health</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-18 21:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68f969fa9b7885126c50ccf8/master/pass/Bose%E2%80%99s%20New%20QuietComfort%20Ultra%20Headphones%20Are%20Worth%20the%20Splurge.png" alt="The Bose QuietComfort Ultra Gen 2 Headphones Are at Their Lowest Price in Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/bose-quietcomfort-ultra-2-deal-0218/" target="_blank">The Bose QuietComfort Ultra Gen 2 Headphones Are at Their Lowest Price in Months</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-18 21:15</span>
             </div>
         </div>
 <div class="story">
@@ -148,15 +157,6 @@
                 <span class="time">2026-02-18 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6994a5ceb9a628d3ca165ab5/master/pass/Kidde's%20First%20Battery-Only%20Smart%20Smoke%20Alarm%20Is%20Here.png" alt="Ring and Kidde’s Newest Smoke Detector Is Here, and It’s Battery Powered (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/kidde-ring-new-smoke-alarm-2026/" target="_blank">Ring and Kidde’s Newest Smoke Detector Is Here, and It’s Battery Powered (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-18 16:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,10 +165,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/narnaiezzsshaa/privilege-isnt-about-the-tool-its-about-the-transmission-2e2a" target="_blank">Privilege Isn&#x27;t About the Tool—It&#x27;s About the Transmission</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-18 23:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/review/linux-7-panther-lake" target="_blank">Linux 7.0 Showing Some Early Performance Regressions On Intel Panther Lake</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-18 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18868673&w=600" alt="Production-Ready Observability for Analytics Agents: An Open Telemetry Blueprint Across Retrieval, SQL, Redaction, and Tool Calls" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/production-ready-observability-for-analytics-agent" target="_blank">Production-Ready Observability for Analytics Agents: An Open Telemetry Blueprint Across Retrieval, SQL, Redaction, and Tool Calls</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-18 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +216,6 @@
                 <span class="time">2026-02-18 18:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnpm42c618pnt0bs4pe9u.png" alt="GraphQL: Una introducción para nuevos desarrolladores." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ramtoearth/graphql-una-introduccion-para-nuevos-desarrolladores-1bfg" target="_blank">GraphQL: Una introducción para nuevos desarrolladores.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-18 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18884852&w=600" alt="10 Go Best Practices Every Backend Developer Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/10-go-best-practices-every-backend-developer-shoul" target="_blank">10 Go Best Practices Every Backend Developer Should Know</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-18 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KHSAMNHPJ7T5BJYA9VTPS2R7/hero-image.jpg" alt="Apple Is Adding ChatGPT, Claude, and Gemini to CarPlay in iOS 26.4" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-is-adding-chatgpt-claude-and-gemini-to-carplay?utm_medium=RSS" target="_blank">Apple Is Adding ChatGPT, Claude, and Gemini to CarPlay in iOS 26.4</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-18 22:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/1min.AI-1200-x-675-px.png?fit=1200%2C675&amp;quality=55&amp;ssl=1" alt="1.minAI: Lifetime convenience for just $75" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/18/1-minai-lifetime-convenience-for-just-75.html" target="_blank">1.minAI: Lifetime convenience for just $75</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-18 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/Spider-Man-Brand-New-Day-suit-reveal-1280x853.jpg" alt="A ‘Spider-Man: Brand New Day’ Book Just Accidentally Told Us What the Film Is About" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/good-luck-banning-smart-glasses-2000723392" target="_blank">Good Luck Banning Smart Glasses</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-18 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/falcon-9-launch-1280x853.jpeg" alt="A Year After Starship’s Debris Rained Over the Caribbean, SpaceX Returns to the Bahamas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-year-after-starships-debris-rained-over-the-caribbean-spacex-returns-to-the-bahamas-2000723370" target="_blank">A Year After Starship’s Debris Rained Over the Caribbean, SpaceX Returns to the Bahamas</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-18 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHRKMRTQQZSRSTPSKWCJ1GCW/hero-image.jpg" alt="Gemini Now Lets You Generate AI Music for Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/gemini-now-lets-you-generate-ai-music-for-free?utm_medium=RSS" target="_blank">Gemini Now Lets You Generate AI Music for Free</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-18 16:00</span>
             </div>
         </div>
 </div>
@@ -335,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 22:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 23:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
