@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-18 09:13:28 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-02-18 10:13:08 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, February 18, 2026 - 09:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, February 18, 2026 - 10:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260218-Mikaela-Shiffrin-3-rs-54b487.jpg" alt="After days of disappointment, Mikaela Shiffrin storms to slalom lead after first run" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/sports/olympics/mikaela-shiffrin-slalom-milan-cortina-winter-olympics-rcna259503" target="_blank">After days of disappointment, Mikaela Shiffrin storms to slalom lead after first run</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-18 09:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/avalanche-2-17_1771377814979_hpMain_4x3t_384.jpg" alt="6 rescued as efforts for missing continue following California avalanche: Authorities" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/18/ronda-rousey-gina-carano-end-mma-retirements-to-fight-in-may?traffic_source=rss" target="_blank">Ronda Rousey, Gina Carano end MMA retirements to fight in May</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-18 07:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/18/washington-appoints-new-us-envoy-on-tibetan-human-rights?traffic_source=rss" target="_blank">Washington appoints new US envoy on Tibetan human rights</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-18 05:05</span>
             </div>
         </div>
 </div>
@@ -165,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/StacklokLabs/model-context-shell" target="_blank">model-context-shell: Unix-style pipelines for MCP. Deterministic tool calls</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-02-18 10:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgc1p63g3pnhsyowr0z70.png" alt="useReducer or Redux Reducer? How to Tell Which You Need" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +214,6 @@
                 <span class="time">2026-02-18 06:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcoo26q6txk12sd8k6fsr.jpg" alt="Build a Pro Random Color Generator with Python and Tkinter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/matetechnologie/build-a-pro-random-color-generator-with-python-and-tkinter-4n2o" target="_blank">Build a Pro Random Color Generator with Python and Tkinter</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-18 05:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/ford-taurus-1280x853.jpg" alt="Detroit Wants to Make Cars Normal Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/detroit-wants-to-make-cars-normal-again-2000723248" target="_blank">Detroit Wants to Make Cars Normal Again</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-18 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Tesla-Cuts-Autopilot-1280x854.jpg" alt="Tesla Relents, Reportedly Stops Using the Term ‘Autopilot’ in California" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +287,6 @@
                 <span class="time">2026-02-18 00:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/antarctica-seen-from-space-nasa-e1771361418464-1280x852.jpg" alt="Antarctica’s ‘Gravity Hole’ Has Been Quietly Growing Stronger" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/antarcticas-gravity-hole-has-been-quietly-growing-stronger-2000722955" target="_blank">Antarctica’s ‘Gravity Hole’ Has Been Quietly Growing Stronger</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-18 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 156 | 📡 Total Sources: 42 | 📸 With Images: 252 |
-        🔄 Last Updated: 09:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 254 |
+        🔄 Last Updated: 10:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
