@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-02-18 11:13:30 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-18 12:07:03 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, February 18, 2026 - 11:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, February 18, 2026 - 12:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +100,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1322471137-500x500.jpg" alt="Hallucinogen DMT an effective antidepressant in small clinical trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/02/hallucinogen-dmt-an-effective-antidepressant-in-small-clinical-trial/" target="_blank">Hallucinogen DMT an effective antidepressant in small clinical trial</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-18 12:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -148,20 +153,29 @@
                 <span class="time">2026-02-18 04:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips" target="_blank">Meta&amp;#8217;s new deal with Nvidia buys up millions of AI chips</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-18 00:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18882770&w=600" alt="When Kubernetes Forgets: The 90-Second Evidence Gap" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/kubernetes-the-90-second-evidence-gap" target="_blank">When Kubernetes Forgets: The 90-Second Evidence Gap</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-18 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Apple-M3-Asahi-Linux-2026" target="_blank">Apple M3 With Asahi Linux Continues Making Progress, No ETA Yet For Shipping</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-18 11:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +212,6 @@
                 <span class="time">2026-02-18 07:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/suhas_mallesh/your-azure-bill-hit-10k-and-nobody-noticed-deploy-budget-alerts-as-code-with-terraform-1ei2" target="_blank">Your Azure Bill Hit $10K and Nobody Noticed 😱 Deploy Budget Alerts as Code with Terraform</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-18 07:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/asteroidos-2-release/" target="_blank">8 Years Later, Linux-based AsteroidOS 2.0 is Here to Add New Life to Your Old Smartwatch</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-18 06:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -225,9 +221,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/side-channel-attacks-against-llms.html" target="_blank">Side-Channel Attacks Against LLMs</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/ai-found-twelve-new-vulnerabilities-in-openssl.html" target="_blank">AI Found Twelve New Vulnerabilities in OpenSSL</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-17 12:01</span>
+                <span class="time">2026-02-18 12:03</span>
             </div>
         </div>
 </div>
@@ -326,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 253 |
-        🔄 Last Updated: 11:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 253 |
+        🔄 Last Updated: 12:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
