@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-18 10:13:08 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-02-18 11:13:30 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, February 18, 2026 - 10:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, February 18, 2026 - 11:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +106,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/880562/perplexity-ditches-ai-ads" target="_blank">Perplexity joins anti-ad camp as AI companies battle over trust and revenue</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-18 11:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/698d01968e167d36db00b1f9/master/pass/RentAHuman-Culture-948646328.jpg" alt="How Two Zoomers Created RentAHuman, the First Marketplace for Bots to Hire Humans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ai-agent-rentahuman-bots-hire-humans/" target="_blank">How Two Zoomers Created RentAHuman, the First Marketplace for Bots to Hire Humans</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-18 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/" target="_blank">U.S. court bars OpenAI from using ‘Cameo’</a></span>
                 <span class="feed">TechCrunch</span>
@@ -135,24 +155,6 @@
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips" target="_blank">Meta&amp;#8217;s new deal with Nvidia buys up millions of AI chips</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-18 00:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6994f061872c5ae7a0fede78/master/pass/How%20to%20Pay%20Your%20Taxes%20Online.png" alt="The Best Way to Pay Your Taxes Online (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-pay-taxes-online/" target="_blank">The Best Way to Pay Your Taxes Online (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-18 00:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/17/intellexas-predator-spyware-used-to-hack-iphone-of-journalist-in-angola-research-says/" target="_blank">Intellexa’s Predator spyware used to hack iPhone of journalist in Angola, research says</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-18 00:01</span>
             </div>
         </div>
 </div>
@@ -324,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 254 |
-        🔄 Last Updated: 10:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 253 |
+        🔄 Last Updated: 11:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
