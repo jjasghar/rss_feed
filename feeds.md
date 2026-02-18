@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-18 14:15:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-18 15:14:25 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, February 18, 2026 - 14:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, February 18, 2026 - 15:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/18/japans-sanae-takaichi-reappointed-as-pm?traffic_source=rss" target="_blank">Japan’s Sanae Takaichi reappointed as PM</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-18 14:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +102,38 @@
                 <span class="time">2026-02-18 12:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/18/vonns-skis-didnt-release-in-olympic-crash-as-safety-concerns-resurface?traffic_source=rss" target="_blank">Vonn’s skis didn’t release in Olympic crash as safety concerns resurface</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-18 12:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/" target="_blank">Kana emerges from stealth with $15M to build flexible AI agents for marketers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-18 15:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6994a739da5070f98b77f796/master/pass/Google%20Pixel%2010a%20hero%20image%20SOURCE%20Julian%20Chokkattu.jpg" alt="The Google Pixel 10a Is Barely Different From the Pixel 9a" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/google-pixel-10a/" target="_blank">The Google Pixel 10a Is Barely Different From the Pixel 9a</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-18 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/880395/toyota-chr-ev-price-range-specs" target="_blank">Toyota’s C-HR electric hatchback starts at $38,135</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-18 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,38 +161,20 @@
                 <span class="time">2026-02-18 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/880562/perplexity-ditches-ai-ads" target="_blank">Perplexity joins anti-ad camp as AI companies battle over trust and revenue</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-18 11:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698d01968e167d36db00b1f9/master/pass/RentAHuman-Culture-948646328.jpg" alt="How Two Zoomers Created RentAHuman, the First Marketplace for Bots to Hire Humans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ai-agent-rentahuman-bots-hire-humans/" target="_blank">How Two Zoomers Created RentAHuman, the First Marketplace for Bots to Hire Humans</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-18 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/" target="_blank">U.S. court bars OpenAI from using ‘Cameo’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-18 06:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18882802&w=600" alt="Testing Legacy JSP Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/testing-legacy-jsp" target="_blank">Testing Legacy JSP Code</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-18 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18882790&w=600" alt="Why “At-Least-Once” Is a Lie: Lessons from Java Event Systems at Global Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +220,6 @@
                 <span class="time">2026-02-18 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Apple-M3-Asahi-Linux-2026" target="_blank">Apple M3 With Asahi Linux Continues Making Progress, No ETA Yet For Shipping</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-18 11:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +239,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/star-trek-idw-comics-relaunch-2026-seven-of-nine-1280x853.jpg" alt="The Future of ‘Star Trek’ Comics Is Ready for a New Next Generation (Exclusive)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-trek-idw-comics-2026-seven-of-nine-legacy-2000723368" target="_blank">The Future of ‘Star Trek’ Comics Is Ready for a New Next Generation (Exclusive)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-18 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/HG_Screenshot_4-1280x720.jpg" alt="Highguard Devs ‘Focused On Delivering Updates’ Amid Radio Silence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/highguard-update-roadmap-servers-discord-2000670633" target="_blank">Highguard Devs ‘Focused On Delivering Updates’ Amid Radio Silence</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-18 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KHQ10B9ZQJQ043MGKDS9KF50/hero-image.png" alt="What People Are Getting Wrong This Week: Is This February an Unusually Lucky Month?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-lucky-february?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: Is This February an Unusually Lucky Month?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-18 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/Predator-Badlands-holograms-1280x853.jpg" alt="‘Badlands’ Almost Had Even Bigger Links to the Other ‘Predator’ and ‘Alien’ Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,33 +291,6 @@
                 <span class="title"><a href="https://gizmodo.com/tesla-relents-reportedly-stops-using-the-term-autopilot-in-california-2000723253" target="_blank">Tesla Relents, Reportedly Stops Using the Term ‘Autopilot’ in California</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-18 04:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/perforce-1280x853.jpg" alt="SaaS Companies Take Unusual Step to Prove AI Has Not Mortally Wounded Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/saas-companies-take-unusual-step-to-prove-ai-has-not-mortally-wounded-them-2000722626" target="_blank">SaaS Companies Take Unusual Step to Prove AI Has Not Mortally Wounded Them</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-18 01:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/Intern-Pikachu-Plush-Returns-in-1.jpg" alt="Nintendo Tells Pokémon Store That Got Robbed To Change Its Name" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-poke-court-nintendo-trainer-nyc-store-robbed-2000669827" target="_blank">Nintendo Tells Pokémon Store That Got Robbed To Change Its Name</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-18 01:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/09/Red_Onion_on_White-scaled.jpeg?fit=2560%2C2560&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s aid freeze is killing US-funded privacy tools like TOR" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/17/trumps-aid-freeze-is-killing-us-funded-privacy-tools-like-tor.html" target="_blank">Trump&#x27;s aid freeze is killing US-funded privacy tools like TOR</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-18 01:34</span>
             </div>
         </div>
 </div>
@@ -330,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 41 | 📸 With Images: 253 |
-        🔄 Last Updated: 14:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 15:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
