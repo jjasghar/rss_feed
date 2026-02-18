@@ -1,38 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-02-18 15:14:25 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-02-18 16:16:08 UTC -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, February 18, 2026 - 15:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, February 18, 2026 - 16:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +40,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/18/nx-s1-5702706/russia-hybrid-warfare-poland" target="_blank">Russia&#x27;s hybrid warfare rattles Poland and NATO</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-18 16:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/brittany-bowe-hilary-knight-me-260218-929cd5.png" alt="Olympians Hilary Knight and Brittany Bowe engaged at Milan Cortina Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/sports/olympics/hilary-knight-brittany-bowe-engaged-milan-cortina-games-rcna259564" target="_blank">Olympians Hilary Knight and Brittany Bowe engaged at Milan Cortina Games</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-18 15:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/18/russia-ukraine-talks-all-the-mediation-efforts-and-where-they-stand?traffic_source=rss" target="_blank">Russia-Ukraine talks: All the mediation efforts, and where they stand</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-18 14:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,33 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/18/pro-palestine-activists-acquitted-of-burglary-at-israeli-arms-site-in-uk?traffic_source=rss" target="_blank">Pro-Palestine activists acquitted of burglary at Israeli arms site in UK</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-18 13:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260217-Jadin-OBrien-gk-51ca53.jpg" alt="Two summer hopefuls find their Olympic debuts on snow and ice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/sports/olympics/anna-gibson-jadin-obrien-compete-winter-olympics-vying-spots-paris-rcna259370" target="_blank">Two summer hopefuls find their Olympic debuts on snow and ice</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-18 13:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5592/live/677dc670-0cc6-11f1-9972-d3f265c101c6.jpg" alt="&#x27;Difficult&#x27; Russia-Ukraine peace talks end without breakthrough" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Difficult&#x27; Russia-Ukraine peace talks end without breakthrough</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-18 12:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/18/g-s1-110537/up-first-newsletter-cbs-anderson-cooper-mark-zuckerberg-iran-nuclear-program-dhs-tricia" target="_blank">Mark Zuckerberg faces a jury today. And, the top DHS spokesperson resigns her post</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-18 12:42</span>
             </div>
         </div>
 </div>
@@ -167,6 +159,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/stewartjarod/a-ci-tool-that-stops-ai-from-undoing-your-teams-architectural-decisions-1e32" target="_blank">A CI tool that stops AI from undoing your team&#x27;s architectural decisions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-18 16:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18882802&w=600" alt="Testing Legacy JSP Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -211,15 +212,6 @@
                 <span class="time">2026-02-18 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18882770&w=600" alt="When Kubernetes Forgets: The 90-Second Evidence Gap" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/kubernetes-the-90-second-evidence-gap" target="_blank">When Kubernetes Forgets: The 90-Second Evidence Gap</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-18 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +231,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Watch-Dogs-2-1280x864.jpg" alt="The Feds Reportedly Want Discord, Reddit, And Others To Doxx Users Who Criticize ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ice-reddit-discord-doxxing-dhs-subpoena-2000670648" target="_blank">The Feds Reportedly Want Discord, Reddit, And Others To Doxx Users Who Criticize ICE</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-18 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/sea-otter.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="The adorable reason sea otters hold hands while they sleep" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/18/the-adorable-reason-sea-otters-hold-hands-while-they-sleep.html" target="_blank">The adorable reason sea otters hold hands while they sleep</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-18 15:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/star-trek-idw-comics-relaunch-2026-seven-of-nine-1280x853.jpg" alt="The Future of ‘Star Trek’ Comics Is Ready for a New Next Generation (Exclusive)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +283,6 @@
                 <span class="title"><a href="https://gizmodo.com/badlands-almost-had-even-bigger-links-to-the-other-predator-and-alien-movies-2000723206" target="_blank">‘Badlands’ Almost Had Even Bigger Links to the Other ‘Predator’ and ‘Alien’ Movies</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-18 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/ford-taurus-1280x853.jpg" alt="Detroit Wants to Make Cars Normal Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/detroit-wants-to-make-cars-normal-again-2000723248" target="_blank">Detroit Wants to Make Cars Normal Again</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-18 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Tesla-Cuts-Autopilot-1280x854.jpg" alt="Tesla Relents, Reportedly Stops Using the Term ‘Autopilot’ in California" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tesla-relents-reportedly-stops-using-the-term-autopilot-in-california-2000723253" target="_blank">Tesla Relents, Reportedly Stops Using the Term ‘Autopilot’ in California</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-18 04:23</span>
             </div>
         </div>
 </div>
@@ -330,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 15:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 253 |
+        🔄 Last Updated: 16:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
