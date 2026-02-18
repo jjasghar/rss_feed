@@ -1,44 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-18 08:09:15 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-18 09:13:28 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 35 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, February 18, 2026 - 08:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, February 18, 2026 - 09:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/avalanche-2-17_1771377814979_hpMain_4x3t_384.jpg" alt="6 rescued as efforts for missing continue following California avalanche: Authorities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/backcountry-skiers-missing-avalanche-northern-california-authorities/story?id=130247691" target="_blank">6 rescued as efforts for missing continue following California avalanche: Authorities</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-18 08:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/2/18/amid-destruction-loss-gaza-clings-to-ramadan-traditions-with-resilience?traffic_source=rss" target="_blank">Amid destruction, loss, Gaza clings to Ramadan traditions with resilience</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-18 08:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/734c/live/62395cf0-0c8b-11f1-b5e2-dd58fc65f0f6.jpg" alt="US says &#x27;meaningful progress&#x27; made as Ukraine talks enter second day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgk2mlv2k1ro?at_medium=RSS&at_campaign=rss" target="_blank">US says &#x27;meaningful progress&#x27; made as Ukraine talks enter second day</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-18 07:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,33 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/18/washington-appoints-new-us-envoy-on-tibetan-human-rights?traffic_source=rss" target="_blank">Washington appoints new US envoy on Tibetan human rights</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-18 05:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/18/over-80-un-member-states-condemn-israels-de-facto-annexation-of-west-bank?traffic_source=rss" target="_blank">Over 80 UN member states condemn Israel’s de-facto annexation of West Bank</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-18 04:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/avalanche-2-17_1771377814979_hpMain_4x3t_384.jpg" alt="California avalanche: 10 backcountry skiers missing, authorities say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/backcountry-skiers-missing-avalanche-northern-california-authorities/story?id=130247691" target="_blank">California avalanche: 10 backcountry skiers missing, authorities say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-18 03:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Nancy-guthrie-new-photo-ap-bh-260215_1771180604616_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: No CODIS match for glove DNA; this option could be next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: No CODIS match for glove DNA; this option could be next</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-18 03:02</span>
             </div>
         </div>
 </div>
@@ -173,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgc1p63g3pnhsyowr0z70.png" alt="useReducer or Redux Reducer? How to Tell Which You Need" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aneeqakhan/usereducer-or-redux-reducer-how-to-tell-which-you-need-19b4" target="_blank">useReducer or Redux Reducer? How to Tell Which You Need</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-18 09:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhihx1ygv003p2zyeh9lk.png" alt="Codebase Intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -215,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/matetechnologie/build-a-pro-random-color-generator-with-python-and-tkinter-4n2o" target="_blank">Build a Pro Random Color Generator with Python and Tkinter</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-18 05:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shubham_mohite_3034/why-angular-is-easier-to-learn-and-master-than-reactjs-or-vuejs-angular-developers-take-1me6" target="_blank">Why Angular is Easier to Learn and Master Than React.js or Vue.js: A Developer&#x27;s Take</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-18 04:20</span>
             </div>
         </div>
 </div>
@@ -336,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 155 | 📡 Total Sources: 42 | 📸 With Images: 249 |
-        🔄 Last Updated: 08:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 156 | 📡 Total Sources: 42 | 📸 With Images: 252 |
+        🔄 Last Updated: 09:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
