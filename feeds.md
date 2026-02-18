@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-18 12:07:03 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-18 13:26:45 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, February 18, 2026 - 12:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, February 18, 2026 - 13:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5592/live/677dc670-0cc6-11f1-9972-d3f265c101c6.jpg" alt="&#x27;Difficult&#x27; Russia-Ukraine peace talks end without breakthrough" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Difficult&#x27; Russia-Ukraine peace talks end without breakthrough</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-18 12:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/18/g-s1-110537/up-first-newsletter-cbs-anderson-cooper-mark-zuckerberg-iran-nuclear-program-dhs-tricia" target="_blank">Mark Zuckerberg faces a jury today. And, the top DHS spokesperson resigns her post</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-18 12:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/18/vonns-skis-didnt-release-in-olympic-crash-as-safety-concerns-resurface?traffic_source=rss" target="_blank">Vonn’s skis didn’t release in Olympic crash as safety concerns resurface</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-18 12:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260218-Mikaela-Shiffrin-3-rs-54b487.jpg" alt="After days of disappointment, Mikaela Shiffrin storms to slalom lead after first run" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,38 +99,29 @@
                 <span class="time">2026-02-18 08:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/734c/live/62395cf0-0c8b-11f1-b5e2-dd58fc65f0f6.jpg" alt="US says &#x27;meaningful progress&#x27; made as Ukraine talks enter second day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgk2mlv2k1ro?at_medium=RSS&at_campaign=rss" target="_blank">US says &#x27;meaningful progress&#x27; made as Ukraine talks enter second day</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-18 07:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/18/nx-s1-5718010/shark-caught-on-camera-antarctica" target="_blank">Surprise shark caught on camera for first time in Antarctica&#x27;s near-freezing deep</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-18 07:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/18/ronda-rousey-gina-carano-end-mma-retirements-to-fight-in-may?traffic_source=rss" target="_blank">Ronda Rousey, Gina Carano end MMA retirements to fight in May</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-18 07:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/18/indias-sarvam-wants-to-bring-its-ai-models-to-feature-phones-cars-and-smart-glasses/" target="_blank">India’s Sarvam wants to bring its AI models to feature phones, cars and smart glasses</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-18 13:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/880375/meta-ceo-mark-zuckerberg-testimony-los-angeles-social-media-addiction-trial" target="_blank">Mark Zuckerberg is taking the stand as social media goes on trial</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-18 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1322471137-500x500.jpg" alt="Hallucinogen DMT an effective antidepressant in small clinical trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,29 +158,29 @@
                 <span class="time">2026-02-18 06:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" alt="Lovehoney Discount Codes and Deals: Up to 70% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lovehoney-discount-code/" target="_blank">Lovehoney Discount Codes and Deals: Up to 70% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-18 06:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/17/tesla-dodges-30-day-suspension-in-california-after-removing-autopilot/" target="_blank">Tesla dodges 30-day suspension in California after removing Autopilot</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-18 04:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsq4xi8g5p1gkpgzy6u6v.png" alt="When a Robot Demo Turns Into a PR Crisis: Lessons from an AI Summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/maibhushan/when-a-robot-demo-turns-into-a-pr-crisis-lessons-from-an-ai-summit-3lgl" target="_blank">When a Robot Demo Turns Into a PR Crisis: Lessons from an AI Summit</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-18 13:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/github-agentic-workflows/en/headerimage/github-agentic-workflows-1771415135302.jpeg" alt="GitHub Agentic Workflows Unleash AI-Driven Repository Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/github-agentic-workflows/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Agentic Workflows Unleash AI-Driven Repository Automation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-18 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18882770&w=600" alt="When Kubernetes Forgets: The 90-Second Evidence Gap" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -194,24 +217,6 @@
                 <span class="time">2026-02-18 09:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhihx1ygv003p2zyeh9lk.png" alt="Codebase Intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nancy_kataria/codebase-intelligence-c7m" target="_blank">Codebase Intelligence</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-18 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/dropbox-context-engine/en/headerimage/generatedHeaderImage-1771284814159.jpg" alt="How Dropbox Built a Scalable Context Engine for Enterprise Knowledge Search" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/dropbox-context-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Dropbox Built a Scalable Context Engine for Enterprise Knowledge Search</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-18 07:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Predator-Badlands-holograms-1280x853.jpg" alt="‘Badlands’ Almost Had Even Bigger Links to the Other ‘Predator’ and ‘Alien’ Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/badlands-almost-had-even-bigger-links-to-the-other-predator-and-alien-movies-2000723206" target="_blank">‘Badlands’ Almost Had Even Bigger Links to the Other ‘Predator’ and ‘Alien’ Movies</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-18 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/ford-taurus-1280x853.jpg" alt="Detroit Wants to Make Cars Normal Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +290,6 @@
                 <span class="time">2026-02-18 01:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/sorry-post-it-note-1280x853.jpg" alt="Does ‘Sorry’ Count When AI Writes It for You?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/does-sorry-count-when-ai-writes-it-for-you-2000723176" target="_blank">Does ‘Sorry’ Count When AI Writes It for You?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-18 00:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 253 |
-        🔄 Last Updated: 12:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 41 | 📸 With Images: 255 |
+        🔄 Last Updated: 13:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
