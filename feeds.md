@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-18 00:08:42 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-18 01:31:05 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, February 18, 2026 - 00:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, February 18, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/18/jesse-jackson-helped-empower-us-arabs-and-raise-palestinian-cause?traffic_source=rss" target="_blank">How Jesse Jackson helped empower US Arabs and lift up the Palestinian cause</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-18 01:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771372336727_nn_olympics_sgo_oly_nod_malinin_interview_260217_1920x1080-eqfddm.jpg" alt="Team USA’s ‘Blade Angels’ take to Olympic ice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/team-usa-s-blade-angels-take-to-olympic-ice-257827397911" target="_blank">Team USA’s ‘Blade Angels’ take to Olympic ice</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-17 23:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +102,20 @@
                 <span class="time">2026-02-17 20:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/17/yemeni-americans-feel-betrayed-as-trump-revokes-immigration-protections?traffic_source=rss" target="_blank">Yemeni Americans feel ‘betrayed’ as Trump revokes immigration protections</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-17 20:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/jesse-jackson-1-gty-jef-260217_1771344260366_hpMain_4x3t_384.jpg" alt="&#x27;I am somebody&#x27;: Tributes pour in for Rev. Jesse Jackson after his death" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/civil-rights-leaders-politicians-honor-rev-jesse-jacksons/story?id=130225754" target="_blank">&#x27;I am somebody&#x27;: Tributes pour in for Rev. Jesse Jackson after his death</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-17 20:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6994f061872c5ae7a0fede78/master/pass/How%20to%20Pay%20Your%20Taxes%20Online.png" alt="The Best Way to Pay Your Taxes Online (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-pay-taxes-online/" target="_blank">The Best Way to Pay Your Taxes Online (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-18 00:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +161,20 @@
                 <span class="time">2026-02-17 20:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/07/password-login-500x500.jpeg" alt="Password managers&#x27; promise that they can&#x27;t see your vaults isn&#x27;t always true" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/" target="_blank">Password managers&#x27; promise that they can&#x27;t see your vaults isn&#x27;t always true</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-17 20:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yves_accad_93532d683d2a05/the-complete-guide-to-spf-dkim-and-dmarc-5ea6" target="_blank">The Complete Guide to SPF, DKIM, and DMARC</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-18 01:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +220,6 @@
                 <span class="time">2026-02-17 19:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Faster-Close-Range" target="_blank">Linux 7.0 Merges &quot;Significant Improvement&quot; For close_range System Call</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-17 19:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/sorry-post-it-note-1280x853.jpg" alt="Does ‘Sorry’ Count When AI Writes It for You?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/does-sorry-count-when-ai-writes-it-for-you-2000723176" target="_blank">Does ‘Sorry’ Count When AI Writes It for You?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-18 00:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/antarctica-seen-from-space-nasa-e1771361418464-1280x852.jpg" alt="Antarctica’s ‘Gravity Hole’ Has Been Quietly Growing Stronger" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,20 +293,20 @@
                 <span class="time">2026-02-17 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/potential-header-1280x744.jpg" alt="The Source Of Highguard‘s Mysterious Funding Was Reportedly Chinese Tech Giant Tencent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/highguard-wildlight-tencent-funding-layoffs-servers-2000669790" target="_blank">The Source Of Highguard‘s Mysterious Funding Was Reportedly Chinese Tech Giant Tencent</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-17 20:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5767.png" alt="Comics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5767" target="_blank">Comics</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-02-18 01:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1771278178-20260217.png" alt="Saturday Morning Breakfast Cereal - Opportunity" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -308,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 248 |
-        🔄 Last Updated: 00:08 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 248 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
