@@ -1,43 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-18 06:18:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-18 07:19:41 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 34 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, February 18, 2026 - 06:18 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, February 18, 2026 - 07:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -72,6 +67,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/avalanche-2-17_1771377814979_hpMain_4x3t_384.jpg" alt="California avalanche: 10 backcountry skiers missing, authorities say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/backcountry-skiers-missing-avalanche-northern-california-authorities/story?id=130247691" target="_blank">California avalanche: 10 backcountry skiers missing, authorities say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-18 03:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/Nancy-guthrie-new-photo-ap-bh-260215_1771180604616_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: No CODIS match for glove DNA; this option could be next" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -98,20 +102,20 @@
                 <span class="time">2026-02-18 00:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771372336727_nn_olympics_sgo_oly_nod_malinin_interview_260217_1920x1080-eqfddm.jpg" alt="Team USA’s ‘Blade Angels’ take to Olympic ice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/team-usa-s-blade-angels-take-to-olympic-ice-257827397911" target="_blank">Team USA’s ‘Blade Angels’ take to Olympic ice</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-17 23:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" alt="Lovehoney Discount Codes and Deals: Up to 70% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/lovehoney-discount-code/" target="_blank">Lovehoney Discount Codes and Deals: Up to 70% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-18 06:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -157,20 +161,29 @@
                 <span class="time">2026-02-17 23:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals" target="_blank">The best deals on MacBooks right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-17 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/suhas_mallesh/your-azure-bill-hit-10k-and-nobody-noticed-deploy-budget-alerts-as-code-with-terraform-1ei2" target="_blank">Your Azure Bill Hit $10K and Nobody Noticed 😱 Deploy Budget Alerts as Code with Terraform</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-18 07:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/asteroidos-2-release/" target="_blank">8 Years Later, Linux-based AsteroidOS 2.0 is Here to Add New Life to Your Old Smartwatch</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-18 06:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcoo26q6txk12sd8k6fsr.jpg" alt="Build a Pro Random Color Generator with Python and Tkinter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,24 +218,6 @@
                 <span class="title"><a href="https://www.sceneandheardnu.com/content/halt-and-catch-fire" target="_blank">Halt and Catch Fire: TV&#x27;s Best Drama You&#x27;ve Probably Never Heard Of (2021)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-18 02:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-50-Mutter-sdr-native" target="_blank">GNOME 50 Merges &quot;sdr-native&quot; Color Mode Support For Wide Color Gamut Displays</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-18 01:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yves_accad_93532d683d2a05/the-complete-guide-to-spf-dkim-and-dmarc-5ea6" target="_blank">The Complete Guide to SPF, DKIM, and DMARC</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-18 01:20</span>
             </div>
         </div>
 </div>
@@ -326,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 248 |
-        🔄 Last Updated: 06:18 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 248 |
+        🔄 Last Updated: 07:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
