@@ -1,38 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-02-18 01:31:05 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-02-18 02:56:51 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, February 18, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, February 18, 2026 - 02:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -85,6 +75,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-real-madrid-vinicius-junior_7167736.jpg?20260217222028" alt="&#x27;A disgrace to football&#x27;: Champions League match halted over alleged racist slur" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/real-madrid-game-against-benfica-halted-over-alleged-racial-slur-13508809" target="_blank">&#x27;A disgrace to football&#x27;: Champions League match halted over alleged racist slur</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-17 22:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/02/1920x1080/skynews-real-madrid-vinicius-junior_7167736.jpg?20260217222028" alt="Real Madrid game against Benfica halted over alleged racial slur" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -93,20 +92,20 @@
                 <span class="time">2026-02-17 22:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56ca/live/32f8af20-0c33-11f1-aea9-35917f4e91eb.jpg" alt="Police assessing Stansted Airport private flights over Epstein ties" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c98q4mz831mo?at_medium=RSS&at_campaign=rss" target="_blank">Police assessing Stansted Airport private flights over Epstein ties</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-17 20:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips" target="_blank">Meta&amp;#8217;s new deal with Nvidia buys up millions of AI chips</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-18 00:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6994f061872c5ae7a0fede78/master/pass/How%20to%20Pay%20Your%20Taxes%20Online.png" alt="The Best Way to Pay Your Taxes Online (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +151,20 @@
                 <span class="time">2026-02-17 22:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/17/metas-own-research-found-parental-supervision-doesnt-really-help-curb-teens-compulsive-social-media-use/" target="_blank">Meta’s own research found parental supervision doesn’t really help curb teens’ compulsive social media use</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-17 20:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-50-Mutter-sdr-native" target="_blank">GNOME 50 Merges &quot;sdr-native&quot; Color Mode Support For Wide Color Gamut Displays</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-18 01:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +210,6 @@
                 <span class="time">2026-02-17 19:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/a-year-of-documentation-driven-development" target="_blank">A year of documentation-driven development</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-02-17 19:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +229,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Intern-Pikachu-Plush-Returns-in-1.jpg" alt="Nintendo Tells Pokémon Store That Got Robbed To Change Its Name" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-poke-court-nintendo-trainer-nyc-store-robbed-2000669827" target="_blank">Nintendo Tells Pokémon Store That Got Robbed To Change Its Name</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-18 01:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/09/Red_Onion_on_White-scaled.jpeg?fit=2560%2C2560&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s aid freeze is killing US-funded privacy tools like TOR" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/17/trumps-aid-freeze-is-killing-us-funded-privacy-tools-like-tor.html" target="_blank">Trump&#x27;s aid freeze is killing US-funded privacy tools like TOR</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-18 01:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/sorry-post-it-note-1280x853.jpg" alt="Does ‘Sorry’ Count When AI Writes It for You?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +283,6 @@
                 <span class="time">2026-02-17 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Meta-Ray-Ban-Display-review-18-1280x853.jpg" alt="Meta’s Holy Grail AR Smart Glasses Have One Big Puck-Shaped Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/heres-what-the-puck-on-metas-xr-glasses-will-probably-look-like-2000719635" target="_blank">Meta’s Holy Grail AR Smart Glasses Have One Big Puck-Shaped Problem</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-17 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHPAYVF4J3DZ0GBWXFDNFH3N/hero-image.png" alt="Update Chrome ASAP to Patch This High-Severity Security Flaw" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/update-chrome-asap-to-patch-the-latest-zero-day?utm_medium=RSS" target="_blank">Update Chrome ASAP to Patch This High-Severity Security Flaw</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-17 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 248 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 248 |
+        🔄 Last Updated: 02:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
