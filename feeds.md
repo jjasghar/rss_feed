@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-18 13:26:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-18 14:15:54 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, February 18, 2026 - 13:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, February 18, 2026 - 14:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/18/nx-s1-5716783/sweet-redemption-for-shiffrin-who-wins-olympic-gold" target="_blank">Sweet redemption for Mikaela Shiffrin, who wins Olympic gold</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-18 13:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/18/pro-palestine-activists-acquitted-of-burglary-at-israeli-arms-site-in-uk?traffic_source=rss" target="_blank">Pro-Palestine activists acquitted of burglary at Israeli arms site in UK</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-18 13:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260217-Jadin-OBrien-gk-51ca53.jpg" alt="Two summer hopefuls find their Olympic debuts on snow and ice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/sports/olympics/anna-gibson-jadin-obrien-compete-winter-olympics-vying-spots-paris-rcna259370" target="_blank">Two summer hopefuls find their Olympic debuts on snow and ice</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-18 13:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5592/live/677dc670-0cc6-11f1-9972-d3f265c101c6.jpg" alt="&#x27;Difficult&#x27; Russia-Ukraine peace talks end without breakthrough" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,33 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/18/vonns-skis-didnt-release-in-olympic-crash-as-safety-concerns-resurface?traffic_source=rss" target="_blank">Vonn’s skis didn’t release in Olympic crash as safety concerns resurface</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-18 12:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260218-Mikaela-Shiffrin-3-rs-54b487.jpg" alt="After days of disappointment, Mikaela Shiffrin storms to slalom lead after first run" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/sports/olympics/mikaela-shiffrin-slalom-milan-cortina-winter-olympics-rcna259503" target="_blank">After days of disappointment, Mikaela Shiffrin storms to slalom lead after first run</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-18 09:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/avalanche-2-17_1771377814979_hpMain_4x3t_384.jpg" alt="6 rescued as efforts for missing continue following California avalanche: Authorities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/backcountry-skiers-missing-avalanche-northern-california-authorities/story?id=130247691" target="_blank">6 rescued as efforts for missing continue following California avalanche: Authorities</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-18 08:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/2/18/amid-destruction-loss-gaza-clings-to-ramadan-traditions-with-resilience?traffic_source=rss" target="_blank">Amid destruction, loss, Gaza clings to Ramadan traditions with resilience</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-18 08:39</span>
             </div>
         </div>
 </div>
@@ -164,6 +167,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18882790&w=600" alt="Why “At-Least-Once” Is a Lie: Lessons from Java Event Systems at Global Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/at-least-once-java-events-lessons" target="_blank">Why “At-Least-Once” Is a Lie: Lessons from Java Event Systems at Global Scale</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-18 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-LoongArch" target="_blank">LoongArch Ready With New Features In Linux 7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-18 13:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsq4xi8g5p1gkpgzy6u6v.png" alt="When a Robot Demo Turns Into a PR Crisis: Lessons from an AI Summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -197,24 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Apple-M3-Asahi-Linux-2026" target="_blank">Apple M3 With Asahi Linux Continues Making Progress, No ETA Yet For Shipping</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-18 11:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/StacklokLabs/model-context-shell" target="_blank">model-context-shell: Unix-style pipelines for MCP. Deterministic tool calls</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-02-18 10:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgc1p63g3pnhsyowr0z70.png" alt="useReducer or Redux Reducer? How to Tell Which You Need" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aneeqakhan/usereducer-or-redux-reducer-how-to-tell-which-you-need-19b4" target="_blank">useReducer or Redux Reducer? How to Tell Which You Need</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-18 09:10</span>
             </div>
         </div>
 </div>
@@ -327,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 41 | 📸 With Images: 255 |
-        🔄 Last Updated: 13:26 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 41 | 📸 With Images: 253 |
+        🔄 Last Updated: 14:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
