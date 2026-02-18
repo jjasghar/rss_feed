@@ -1,44 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-17 23:04:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-18 00:08:42 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 35 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, February 17, 2026 - 23:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, February 18, 2026 - 00:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/17/us-immigration-judge-rejects-trump-bid-to-deport-columbia-student-mahdawi?traffic_source=rss" target="_blank">US immigration judge rejects Trump bid to deport Columbia student Mahdawi</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-17 23:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -99,20 +98,29 @@
                 <span class="time">2026-02-17 20:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/17/nx-s1-5667015/sexual-violence-girls-safe-space" target="_blank">A safe space for girls who&#x27;ve faced sexual violence</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-17 19:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/17/intellexas-predator-spyware-used-to-hack-iphone-of-journalist-in-angola-research-says/" target="_blank">Intellexa’s Predator spyware used to hack iPhone of journalist in Angola, research says</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-18 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/880009/stephen-colbert-cbs-fcc-brendan-carr-talarico-interview" target="_blank">Stephen Colbert says CBS banned him from airing this James Talarico interview</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-17 23:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,24 +155,6 @@
                 <span class="title"><a href="https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/" target="_blank">Password managers&#x27; promise that they can&#x27;t see your vaults isn&#x27;t always true</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-02-17 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6994c1f1c7a79dde7cf0617c/master/pass/Our%20Favorite%20Wireless%20Headset%20for%20Traveling%20Is%20$50%20Off.png" alt="The Best Noise-Canceling Headphones for Traveling Are $50 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/bose-quietcomfort-ultra-2-deal-226/" target="_blank">The Best Noise-Canceling Headphones for Traveling Are $50 Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-17 20:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69948c792ce5fe77685929d6/master/pass/021726_Olympics-Curling-Canada.jpg" alt="The Curling Controversy at the Winter Olympics Isn&#x27;t What You Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/2026-winter-olympics-curling-controversy-canada-sweden/" target="_blank">The Curling Controversy at the Winter Olympics Isn&#x27;t What You Think</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-17 19:15</span>
             </div>
         </div>
 </div>
@@ -246,6 +236,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/antarctica-seen-from-space-nasa-e1771361418464-1280x852.jpg" alt="Antarctica’s ‘Gravity Hole’ Has Been Quietly Growing Stronger" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/antarcticas-gravity-hole-has-been-quietly-growing-stronger-2000722955" target="_blank">Antarctica’s ‘Gravity Hole’ Has Been Quietly Growing Stronger</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-18 00:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/siwtch2-1280x720.jpg" alt="Skyrim On Switch 2 Less Of A Mess After New Update Adds 60FPS Option And Fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -290,15 +289,6 @@
                 <span class="time">2026-02-17 20:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HBGM85J04S76AK1A4TCHA/hero-image.png" alt="When to Choose Resistance Bands vs. Dumbbells" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/how-to-decide-between-resistance-bands-and-dumbbells?utm_medium=RSS" target="_blank">When to Choose Resistance Bands vs. Dumbbells</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-17 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 248 |
-        🔄 Last Updated: 23:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 248 |
+        🔄 Last Updated: 00:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
