@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-19 21:05:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-19 22:04:33 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, February 19, 2026 - 21:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, February 19, 2026 - 22:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/19/us-trade-deficit-swells-in-december-as-imports-surge?traffic_source=rss" target="_blank">US trade deficit swells in December as imports surge</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-19 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/andrew-5-rt-gmh-260219_1771532673926_hpMain_4x3t_384.jpg" alt="Andrew Mountbatten-Windsor released after arrest on suspicion of misconduct" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +99,20 @@
                 <span class="time">2026-02-19 18:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/19/nx-s1-5718087/winter-olympics-jordan-stolz-speedskating-medal" target="_blank">American Jordan Stolz speedskates to a third Olympic medal -- silver this time</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-19 18:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/19/second-and-last-chance-for-innovators-to-win-scaling-perks-belden-extends-nomination-window/" target="_blank">Second and last chance for innovators to win scaling perks: Belden extends nomination window</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-19 21:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69960d4dd24ffdc6fd7d60f3/master/pass/MAGAs-Secretive-Members-Only-Club-Business-2243452650.jpg" alt="Donald Trump Jr.’s Private DC Club Has Mysterious Ties to an Ex-Cop With a Controversial Past" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +158,20 @@
                 <span class="time">2026-02-19 18:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/881386/apple-tv-the-hunt-premiere-date" target="_blank">Apple TV’s The Hunt finally has a premiere date</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-19 17:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.04-OpenJDK-25" target="_blank">Ubuntu 26.04 LTS Moving To OpenJDK 25 By Default</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-19 21:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhwj04xoc2z6qmojd26x.jpg" alt="Encodings: Por Qué Importan Más de lo Que Crees" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -183,6 +191,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/0670c776-9138-4879-aeae-af43635b1555_420x300.png" alt="The Pulse #162: Even fewer middle managers and more flexible teams?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-162-even-fewer-middle-managers" target="_blank">The Pulse #162: Even fewer middle managers and more flexible teams?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-02-19 19:09</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -198,24 +215,6 @@
                 <span class="title"><a href="https://dzone.com/articles/automating-unix-security-across-hybrid-clouds" target="_blank">Automating Unix Security Across Hybrid Clouds</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-19 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18886320&w=600" alt="Tools for Building Deterministic LLM Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/tools-for-building-deterministic-llm-systems" target="_blank">Tools for Building Deterministic LLM Systems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-19 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/" target="_blank">How AI is reshaping developer choice (and Octoverse data proves it)</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-02-19 17:00</span>
             </div>
         </div>
 </div>
@@ -238,12 +237,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KHVJ9ZQ85MG5ESKGRCA2XW7M/hero-image.png" alt="You Can Finally Back Up Your Android&#x27;s Local Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/android-backup-settings-local-files?utm_medium=RSS" target="_blank">You Can Finally Back Up Your Android&#x27;s Local Files</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-19 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KHVRY6PHMXXG5Z5SYP5THH65/hero-image.png" alt="Samsung’s Brightest OLED TV Is Now Over $1,000 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/samsung-refurbished-oled-tv-deal-february-2026?utm_medium=RSS" target="_blank">Samsung’s Brightest OLED TV Is Now Over $1,000 Off</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-19 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/08/straight_outta_compton_ver7_xlg.jpg?fit=947%2C1500&amp;quality=60&amp;ssl=1" alt="An Eazy-E classic is now a country ditty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/19/an-eazy-e-classic-now-a-country-ditty.html" target="_blank">An Eazy-E classic is now a country ditty</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-19 20:24</span>
             </div>
         </div>
 <div class="story">
@@ -271,24 +288,6 @@
                 <span class="title"><a href="https://gizmodo.com/prime-video-sucks-for-anime-science-saru-the-ghost-in-the-shell-exclusive-streaming-2000723977" target="_blank">Prime Video Sucks for Anime</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-19 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Shrinking-Harrison-Ford-Michael-J-Fox-1280x853.jpg" alt="Indiana Jones Exists in the ‘Shrinking’ Universe, But Who Plays Him?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/indiana-jones-exists-in-the-shrinking-universe-but-who-plays-him-2000724107" target="_blank">Indiana Jones Exists in the ‘Shrinking’ Universe, But Who Plays Him?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-19 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/image-9-1.jpg" alt="Toy Story 5’s First Trailer Pits Woody And The Gang Against An Evil iPad" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/toy-story-5-trailer-woody-tablet-buzz-jesse-bonnie-cast-2000671373" target="_blank">Toy Story 5’s First Trailer Pits Woody And The Gang Against An Evil iPad</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-19 17:45</span>
             </div>
         </div>
 </div>
@@ -328,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 21:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 22:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
