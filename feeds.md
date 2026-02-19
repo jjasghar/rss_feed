@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-19 07:19:36 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-02-19 08:09:20 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, February 19, 2026 - 07:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, February 19, 2026 - 08:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +105,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/" target="_blank">OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-19 05:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/policy/881210/mark-zuckerberg-meta-ceo-testimony-filters" target="_blank">Mark Zuckerberg and his Ray-Ban entourage have their day in court</a></span>
                 <span class="feed">The Verge</span>
@@ -154,20 +156,20 @@
                 <span class="time">2026-02-18 23:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/18/etsy-sells-secondhand-clothing-marketplace-depop-to-ebay-for-1-2b/" target="_blank">Etsy sells secondhand clothing marketplace Depop to eBay for $1.2B</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-18 22:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fairpricework/what-to-do-when-a-client-wont-tell-you-their-budget-2kha" target="_blank">What To Do When a Client Won&#x27;t Tell You Their Budget</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-19 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-GFX1170-More-ISA-Diffs" target="_blank">More ISA Differences Come To Light With The New AMD GFX1170 &quot;RDNA 4m&quot;</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-18 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://pudding.cool/2026/02/womens-sizing/" target="_blank">Sizing chaos</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-18 21:18</span>
             </div>
         </div>
 </div>
@@ -336,22 +329,13 @@
                 <span class="time">2026-02-18 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/02/18/flagrant-llama-abuse" target="_blank">Flagrant Llama Abuse</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-02-18 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 07:19 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 08:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
