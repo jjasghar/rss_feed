@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-19 20:05:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-19 21:05:55 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, February 19, 2026 - 20:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, February 19, 2026 - 21:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/andrew-5-rt-gmh-260219_1771532673926_hpMain_4x3t_384.jpg" alt="Andrew Mountbatten-Windsor released after arrest on suspicion of misconduct" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/british-police-arrest-andrew-mountbatten-windsor-suspicion-misconduct/story?id=130292161" target="_blank">Andrew Mountbatten-Windsor released after arrest on suspicion of misconduct</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-19 20:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +100,20 @@
                 <span class="time">2026-02-19 18:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/19/rsf-siege-el-fasher-sudan-hallmarks-of-genocide-un-mission-north-darfur" target="_blank">RSF siege of El Fasher in Sudan has ‘hallmarks of genocide’, UN mission finds</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-19 17:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69960d4dd24ffdc6fd7d60f3/master/pass/MAGAs-Secretive-Members-Only-Club-Business-2243452650.jpg" alt="Donald Trump Jr.’s Private DC Club Has Mysterious Ties to an Ex-Cop With a Controversial Past" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/magas-secretive-members-only-club-is-partly-owned-by-an-ex-cop/" target="_blank">Donald Trump Jr.’s Private DC Club Has Mysterious Ties to an Ex-Cop With a Controversial Past</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-19 20:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/warlocksigil-500x500-1771526842.png" alt="Diablo II’s new Warlock is a great excuse to revisit a classic game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +159,20 @@
                 <span class="time">2026-02-19 17:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/699724a480ce473f0f3a40c2/master/pass/biz-palantir-dhs-2228106302.jpg" alt="DHS Opens a Billion-Dollar Tab With Palantir" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/department-homeland-security-ice-billion-dollar-agreement-palantir/" target="_blank">DHS Opens a Billion-Dollar Tab With Palantir</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-19 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhwj04xoc2z6qmojd26x.jpg" alt="Encodings: Por Qué Importan Más de lo Que Crees" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fromchiapasdev/encodings-por-que-importan-mas-de-lo-que-crees-41a5" target="_blank">Encodings: Por Qué Importan Más de lo Que Crees</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-19 20:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18885870&w=600" alt="From Prompts to Platforms: Scaling Agentic AI (Part 2)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -213,15 +218,6 @@
                 <span class="time">2026-02-19 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AI-50-80x-IO-uring" target="_blank">AI Helped Uncover A &quot;50-80x Improvement&quot; For Linux&#x27;s IO_uring</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-19 16:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KHVRY6PHMXXG5Z5SYP5THH65/hero-image.png" alt="Samsung’s Brightest OLED TV Is Now Over $1,000 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-refurbished-oled-tv-deal-february-2026?utm_medium=RSS" target="_blank">Samsung’s Brightest OLED TV Is Now Over $1,000 Off</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-19 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KHVG27WFSRWTGJG62XZW4E7K/hero-image.png" alt="Eight Gadgets That Can Turn Your Microwave Into a More Versatile Appliance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +291,6 @@
                 <span class="time">2026-02-19 17:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/Dead-or-alive.jpg" alt="Gaming’s Console War Has Been Replaced By An ‘Attention War’ With Gambling, Porn, And Memes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/why-the-video-game-industry-is-dying-2000671338" target="_blank">Gaming’s Console War Has Been Replaced By An ‘Attention War’ With Gambling, Porn, And Memes</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-19 17:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 20:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 21:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
