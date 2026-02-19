@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-19 16:14:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-19 17:17:39 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, February 19, 2026 - 16:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, February 19, 2026 - 17:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/19/gaza-stabilization-force-commander-outlines-security-plans?traffic_source=rss" target="_blank">Gaza ‘stabilization force’ commander outlines security plans</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-19 16:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/19/nx-s1-5719173/amazon-walmart-biggest-company-by-sales" target="_blank">Amazon dethrones Walmart as the world&#x27;s biggest company by sales</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-19 16:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87ac/live/e50f5ac0-0d8b-11f1-ab35-e1029910cb11.jpg" alt="Andrew arrested on suspicion of misconduct in public office" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +96,29 @@
                 <span class="time">2026-02-19 13:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/19/g-s1-110710/up-first-newsletter-trump-board-of-peace-ukraine-russia-prince-andrew-arrest" target="_blank">Police arrest Ex-Prince Andrew. And, Trump hosts the first Board of Peace meeting</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-19 12:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/andrew-mountbatten-windsor-ap-jef-260216_1771275842803_hpMain_4x3t_384.jpg" alt="British police arrest Andrew Mountbatten-Windsor on suspicion of misconduct" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/british-police-arrest-andrew-mountbatten-windsor-suspicion-misconduct/story?id=130292161" target="_blank">British police arrest Andrew Mountbatten-Windsor on suspicion of misconduct</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-19 11:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/699724a480ce473f0f3a40c2/master/pass/biz-palantir-dhs-2228106302.jpg" alt="DHS Opens a Billion-Dollar Tab With Palantir" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/department-homeland-security-ice-billion-dollar-agreement-palantir/" target="_blank">DHS Opens a Billion-Dollar Tab With Palantir</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-19 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/2026-Ice-Racing-005-500x500.jpg" alt="Zero grip, maximum fun: A practical guide to getting into amateur ice racing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/02/zero-grip-maximum-fun-a-practical-guide-to-getting-into-amateur-ice-racing/" target="_blank">Zero grip, maximum fun: A practical guide to getting into amateur ice racing</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-19 16:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +155,20 @@
                 <span class="time">2026-02-19 13:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6994f134872c5ae7a0fede7e/master/pass/Spot_Salesforce%20Beefcake.jpg" alt="Inside the Gay Tech Mafia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/inside-the-gay-tech-mafia/" target="_blank">Inside the Gay Tech Mafia</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-19 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6994ad030520b9cafe8c9c78/master/pass/sec-protest-security-2241905185.jpg" alt="How to Organize Safely in the Age of Surveillance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/" target="_blank">How to Organize Safely in the Age of Surveillance</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-19 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18886320&w=600" alt="Tools for Building Deterministic LLM Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/tools-for-building-deterministic-llm-systems" target="_blank">Tools for Building Deterministic LLM Systems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-19 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18886302&w=600" alt="Jetpack Navigation 3: A New Era for Navigation in Compose-Driven Android Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,28 +199,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.governance.fyi/p/america-vs-singapore-you-cant-save" target="_blank">America vs. Singapore: You Can&#x27;t Save Your Way Out of Economic Shocks</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-19 14:52</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-26-08/" target="_blank">FOSS Weekly #26.08: KDE Plasma 6.6, Mint Release Schedule Change, ASCII Weather, Firefox Tweaking and More Linux Stuff</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-19 14:54</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/theonemohitsharma/the-5-future-proof-language-framework-combos-crushing-it-right-now-15me" target="_blank">The 5 Future-Proof Language + Framework Combos Crushing It Right Now 🔥</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-19 14:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18886271&w=600" alt="The Future of Agentic AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/future-of-agentic-ai" target="_blank">The Future of Agentic AI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-19 14:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.governance.fyi/p/america-vs-singapore-you-cant-save" target="_blank">America vs. Singapore: You Can&#x27;t Save Your Way Out of Economic Shocks</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-19 14:52</span>
             </div>
         </div>
 </div>
@@ -235,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/Dead-or-alive.jpg" alt="Gaming’s Console War Has Been Replaced By An ‘Attention War’ With Gambling, Porn, And Memes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/why-the-video-game-industry-is-dying-2000671338" target="_blank">Gaming’s Console War Has Been Replaced By An ‘Attention War’ With Gambling, Porn, And Memes</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-19 17:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01J593J9HDSJKYEMV57Q64FSQ7/hero-image.jpg" alt="The 30 Best Movies on Hulu Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +287,6 @@
                 <span class="time">2026-02-19 11:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/bloodtest-1280x853.jpg" alt="A Simple Blood Test Could Eventually Tell You When Alzheimer’s Is Coming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-simple-blood-test-could-eventually-tell-you-when-alzheimers-is-coming-2000723492" target="_blank">A Simple Blood Test Could Eventually Tell You When Alzheimer’s Is Coming</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-19 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,31 +310,13 @@
                 <span class="time">2026-02-19 02:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/bird-of-the-year/" target="_blank">Bird of the Year</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-02-18 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1771278220-20260218.png" alt="Saturday Morning Breakfast Cereal - Fluid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/fluid" target="_blank">Saturday Morning Breakfast Cereal - Fluid</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-02-18 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 16:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 17:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
