@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-19 06:18:25 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-19 07:19:36 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, February 19, 2026 - 06:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, February 19, 2026 - 07:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/19/live-south-korea-convicts-ex-president-yoon-suk-yeol-for-insurrection?traffic_source=rss" target="_blank">LIVE: South Korea convicts ex-President Yoon Suk Yeol for insurrection</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-19 07:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/19/g-s1-110679/peru-new-president" target="_blank">José María Balcázar becomes Peru&#x27;s eighth president in a decade</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-19 06:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ef1/live/25603cf0-0d43-11f1-b20c-af552a549c33.jpg" alt="White House says Iran would be &#x27;wise&#x27; to make deal, as US ramps up military presence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,24 +102,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/world/iran/us-military-pushes-weaponry-middle-east-possible-strikes-iran-rcna259632" target="_blank">U.S. military pushes more weaponry into the Middle East for possible strikes on Iran</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-19 04:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/19/activist-group-extinction-rebellion-says-it-is-under-fbi-investigation?traffic_source=rss" target="_blank">Activist group Extinction Rebellion says it is under FBI investigation</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-19 04:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/18/nx-s1-5718567/olympic-mens-hockey-usa-beats-sweden" target="_blank">With a win over Sweden, the U.S. men&#x27;s hockey team will play for an Olympic medal</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-19 00:01</span>
             </div>
         </div>
 </div>
@@ -170,6 +171,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/vidbee/" target="_blank">This is Probably the Best Video Downloader App (And it is Free and Open Source)</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-19 07:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://eutechmap.com/map" target="_blank">European Tech Alternatives</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-19 05:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Staging" target="_blank">Linux Still Working To Clean Up The Realtek RTL8723BS 802.11b/g/n WiFi Driver In 2026</a></span>
                 <span class="feed">Phoronix</span>
@@ -201,24 +220,6 @@
                 <span class="title"><a href="https://pudding.cool/2026/02/womens-sizing/" target="_blank">Sizing chaos</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-18 21:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-7-panther-lake" target="_blank">Linux 7.0 Showing Some Early Performance Regressions On Intel Panther Lake</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-18 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18868673&w=600" alt="Production-Ready Observability for Analytics Agents: An Open Telemetry Blueprint Across Retrieval, SQL, Redaction, and Tool Calls" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/production-ready-observability-for-analytics-agent" target="_blank">Production-Ready Observability for Analytics Agents: An Open Telemetry Blueprint Across Retrieval, SQL, Redaction, and Tool Calls</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-18 20:00</span>
             </div>
         </div>
 </div>
@@ -349,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 06:18 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 07:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
