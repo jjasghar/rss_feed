@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-19 03:50:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-19 04:34:07 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, February 19, 2026 - 03:50 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, February 19, 2026 - 04:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/19/activist-group-extinction-rebellion-says-it-is-under-fbi-investigation?traffic_source=rss" target="_blank">Activist group Extinction Rebellion says it is under FBI investigation</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-19 04:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +96,20 @@
                 <span class="time">2026-02-18 22:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/avalanche-1-ht-gmh-260218_1771424636857_hpMain_4x3t_384.jpg" alt="8 of 9 missing skiers found dead following California avalanche" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/backcountry-skiers-missing-avalanche-northern-california-authorities/story?id=130247691" target="_blank">8 of 9 missing skiers found dead following California avalanche</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-18 21:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/881210/mark-zuckerberg-meta-ceo-testimony-filters" target="_blank">Mark Zuckerberg and his Ray-Ban entourage have their day in court</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-19 04:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +153,6 @@
                 <span class="title"><a href="https://www.wired.com/story/bose-quietcomfort-ultra-2-deal-0218/" target="_blank">The Bose QuietComfort Ultra Gen 2 Headphones Are at Their Lowest Price in Months</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-18 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/05/getty-verizon-500x500-1747846759.jpg" alt="Verizon acknowledges &quot;pain&quot; of new unlock policy, suggests change is coming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/verizon-might-drop-its-annoying-35-day-wait-for-unlocking-paid-off-phones/" target="_blank">Verizon acknowledges &quot;pain&quot; of new unlock policy, suggests change is coming</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-18 20:58</span>
             </div>
         </div>
 </div>
@@ -331,13 +328,22 @@
                 <span class="time">2026-02-18 08:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/plums.png" alt="Plums" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3209/" target="_blank">Plums</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-02-18 05:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 03:50 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 04:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
