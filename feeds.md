@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-18 23:06:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-19 00:08:32 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, February 18, 2026 - 23:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, February 19, 2026 - 00:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Nancy-guthrie-new-photo-ap-bh-260215_1771180604616_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: FBI has reached out to Mexican authorities, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: FBI has reached out to Mexican authorities, sources say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-18 22:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/avalanche-1-ht-gmh-260218_1771424636857_hpMain_4x3t_384.jpg" alt="8 of 9 missing skiers found dead following California avalanche" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +104,29 @@
                 <span class="time">2026-02-18 17:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/politics/2026/feb/18/countries-do-not-embrace-ai-left-behind-george-osborne" target="_blank">Countries that do not embrace AI could be ‘left behind’, says OpenAI’s George Osborne</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-18 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/880594/dyson-pencilwash-wet-floor-cleaner-thin-battery-handle" target="_blank">Dyson turned its skinny PencilVac into a lightweight wet floor cleaner</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-18 23:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/18/etsy-sells-secondhand-clothing-marketplace-depop-to-ebay-for-1-2b/" target="_blank">Etsy sells secondhand clothing marketplace Depop to eBay for $1.2B</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-18 22:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +163,6 @@
                 <span class="time">2026-02-18 18:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6994e530da5070f98b77fc89/master/pass/Mega-Trove-of-Exposed-Social-Security-Numbers-Security-2249961752.jpg" alt="A Vast Trove of Exposed Social Security Numbers May Put Millions at Risk of Identity Theft" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-mega-trove-of-exposed-social-security-numbers-underscores-critical-identity-theft-risks/" target="_blank">A Vast Trove of Exposed Social Security Numbers May Put Millions at Risk of Identity Theft</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-18 17:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/18/audibles-new-read-listen-feature-syncs-your-kindle-ebooks-with-audiobooks/" target="_blank">Audible’s new ‘Read &amp; Listen’ feature syncs your Kindle ebooks with audiobooks</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-18 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +175,24 @@
                 <span class="title"><a href="https://dev.to/narnaiezzsshaa/privilege-isnt-about-the-tool-its-about-the-transmission-2e2a" target="_blank">Privilege Isn&#x27;t About the Tool—It&#x27;s About the Transmission</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-18 23:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-GFX1170-More-ISA-Diffs" target="_blank">More ISA Differences Come To Light With The New AMD GFX1170 &quot;RDNA 4m&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-18 22:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://pudding.cool/2026/02/womens-sizing/" target="_blank">Sizing chaos</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-18 21:18</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Retires-Mwave" target="_blank">Linux 7.0 Retires The IBM Mwave ACP Modem Driver Used By Some 1990s ThinkPads</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-18 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/maintainers/what-to-expect-for-open-source-in-2026/" target="_blank">What to expect for open source in 2026</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-02-18 18:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/kde-plasma-6-6-release/" target="_blank">KDE Plasma 6.6 Turns Spectacle Into an OCR Tool and Ships a New Setup Wizard</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-18 18:19</span>
             </div>
         </div>
 </div>
@@ -254,6 +260,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/07/Kotaku_The-Bests_Switch2@2x-1280x720.jpg" alt="The 12 Best Games On The Nintendo Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-best-games-mario-kart-donkey-kong-1851786840" target="_blank">The 12 Best Games On The Nintendo Switch 2</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-18 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/Spider-Man-Brand-New-Day-suit-reveal-1280x853.jpg" alt="A ‘Spider-Man: Brand New Day’ Book Just Accidentally Told Us What the Film Is About" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -278,15 +293,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/18/trump-pardoned-a-man-convicted-of-trafficking-400-tons-of-cocaine-then-gave-him-a-ride-to-the-waldorf-astoria.html" target="_blank">Trump pardoned a man convicted of trafficking 400 tons of cocaine, then gave him a ride to the Waldorf Astoria</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-18 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-1-09-1280x853.jpg" alt="Good Luck Banning Smart Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/good-luck-banning-smart-glasses-2000723392" target="_blank">Good Luck Banning Smart Glasses</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-18 18:00</span>
             </div>
         </div>
 </div>
@@ -335,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 23:06 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 00:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
