@@ -1,28 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-19 13:27:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-19 14:17:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 19 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, February 19, 2026 - 13:27 UTC</div>
+    <div class="newspaper-date">Thursday, February 19, 2026 - 14:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -66,6 +73,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771499269803_now_spec_brk_prince_andrew_arrest_260219_1920x1080-x71eng.jpg" alt="Former Prince Andrew arrested following scrutiny over Epstein relationship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/former-prince-andrew-arrested-following-scrutiny-over-epstein-relationship-257951813887" target="_blank">Former Prince Andrew arrested following scrutiny over Epstein relationship</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-19 11:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aa9/live/370e5590-0d7f-11f1-9972-d3f265c101c6.jpg" alt="Police statement in full after Andrew arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -83,20 +99,29 @@
                 <span class="time">2026-02-19 10:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/19/nx-s1-5716941/nancy-guthrie-investigation-dna-forensic-genetic-genealogy" target="_blank">How a recent shift in DNA sleuthing might help investigators in the Nancy Guthrie case</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-19 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/bluecrayfish-500x500.jpg" alt="OpenClaw security fears lead Meta, other AI firms to restrict its use" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/02/openclaw-security-fears-lead-meta-other-ai-firms-to-restrict-its-use/" target="_blank">OpenClaw security fears lead Meta, other AI firms to restrict its use</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-19 14:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/19/this-former-big-tech-engineers-are-using-ai-to-navigate-trumps-trade-chaos/" target="_blank">This former Big Tech engineers are using AI to navigate Trump’s trade chaos</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-19 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6994f134872c5ae7a0fede7e/master/pass/Spot_Salesforce%20Beefcake.jpg" alt="Inside the Gay Tech Mafia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,29 +158,29 @@
                 <span class="time">2026-02-19 04:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/" target="_blank">OpenAI deepens India push with Pine Labs fintech partnership</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-19 03:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6995c2f97e4cc95339d7d7a7/master/pass/GettyImages-1990850095.jpg" alt="Mark Zuckerberg Tries to Play It Safe in Social Media Addiction Trial Testimony" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mark-zuckerberg-testifies-social-media-addiction-trial-meta/" target="_blank">Mark Zuckerberg Tries to Play It Safe in Social Media Addiction Trial Testimony</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-19 02:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/theonemohitsharma/the-5-future-proof-language-framework-combos-crushing-it-right-now-15me" target="_blank">The 5 Future-Proof Language + Framework Combos Crushing It Right Now 🔥</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-19 14:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18886271&w=600" alt="The Future of Agentic AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/future-of-agentic-ai" target="_blank">The Future of Agentic AI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-19 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -175,39 +200,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://repebble.com/blog/february-pebble-production-and-software-updates" target="_blank">Pebble Production: February Update</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-19 12:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18884231&w=600" alt="Embedding Store as a Platform on AWS: OpenSearch + Bedrock + S3 Needs SLAs, Governance, and Quotas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/aws-embedding-store-opensearch-bedrock-s3" target="_blank">Embedding Store as a Platform on AWS: OpenSearch + Bedrock + S3 Needs SLAs, Governance, and Quotas</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-19 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/simdjson-4.3" target="_blank">Simdjson Shows More Speed-Ups Possible For SIMD In JSON Parsing: Another 30% Boost</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-19 11:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F46lzs1jedv1f3f1gvzab.png" alt="Building in Public: Adsloty, a Newsletter Ad Marketplace" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/miraclejudeiv/building-in-public-adsloty-a-newsletter-ad-marketplace-2nh8" target="_blank">Building in Public: Adsloty, a Newsletter Ad Marketplace</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-19 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/hugging-face-evals/en/headerimage/generatedHeaderImage-1771448477065.jpg" alt="Hugging Face Introduces Community Evals for Transparent Model Benchmarking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/hugging-face-evals/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Hugging Face Introduces Community Evals for Transparent Model Benchmarking</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-19 10:55</span>
             </div>
         </div>
 </div>
@@ -229,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KHTMFCR9YDB2QQDAZ3RY4J7J/hero-image.png" alt="This Massive Samsung Smart TV Is $500 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-2025-qned-smart-tv-sale-february-2026?utm_medium=RSS" target="_blank">This Massive Samsung Smart TV Is $500 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-19 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/Predator-Badlands-3-2-1280x853.jpg" alt="‘Predator: Badlands’ Is a Huge Hulu Hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +288,6 @@
                 <span class="title"><a href="https://gizmodo.com/this-galaxy-is-99-dark-matter-and-basically-invisible-2000723695" target="_blank">This Galaxy Is 99% Dark Matter—and Basically Invisible</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-19 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHSBF5T36DN9YA6HX01AZN37/hero-image.png" alt="You Can Preorder the Google Pixel 10a for $500 and Get a $100 Amazon Gift Card" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-pixel-10a-preorder-deal-february-2026?utm_medium=RSS" target="_blank">You Can Preorder the Google Pixel 10a for $500 and Get a $100 Amazon Gift Card</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-18 22:30</span>
             </div>
         </div>
 </div>
@@ -329,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 13:27 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 14:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
