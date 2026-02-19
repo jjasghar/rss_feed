@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-19 14:17:31 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-19 15:14:17 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, February 19, 2026 - 14:17 UTC</div>
+    <div class="newspaper-date">Thursday, February 19, 2026 - 15:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/19/trumps-board-of-peace-convenes-for-first-time?traffic_source=rss" target="_blank">Trump’s ‘Board of Peace’ convenes for first time</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-19 14:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cd6zjl58734o?at_medium=RSS&at_campaign=rss" target="_blank">Police statement in full after Andrew arrest</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-19 10:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250814-prince-andrew-rs-cc4948.jpg" alt="Former Prince Andrew arrested following Epstein files revelations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/united-kingdom/former-prince-andrew-arrested-epstein-files-revelations-rcna259691" target="_blank">Former Prince Andrew arrested following Epstein files revelations</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-19 10:17</span>
             </div>
         </div>
 </div>
@@ -164,6 +163,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18886302&w=600" alt="Jetpack Navigation 3: A New Era for Navigation in Compose-Driven Android Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/jetpack-navigation-3-compose-android-guide" target="_blank">Jetpack Navigation 3: A New Era for Navigation in Compose-Driven Android Apps</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-19 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/amazon-key-event-driven-platform/en/headerimage/generatedHeaderImage-1771041547572.jpg" alt="Reducing Onboarding From 48 Hours to 4: Inside Amazon Key’s Event-Driven Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/amazon-key-event-driven-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Reducing Onboarding From 48 Hours to 4: Inside Amazon Key’s Event-Driven Platform</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-19 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkj700zh8m2v9wn99z84q.png" alt="5 Cognitive Traps That Make Us Miss Tasks: Overcoming PM&#x27;s Blind Spots" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/_jeongyuhyeon_03de1/5-cognitive-traps-that-make-us-miss-tasks-overcoming-pms-blind-spots-1oa6" target="_blank">5 Cognitive Traps That Make Us Miss Tasks: Overcoming PM&#x27;s Blind Spots</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-19 15:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -190,33 +216,6 @@
                 <span class="time">2026-02-19 13:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/devops-modernization-ai-agents/en/mediumimage/infoq-live-medium-1771422477828.jpg" alt="Presentation: DevOps Modernization: AI Agents, Intelligent Observability and Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/devops-modernization-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: DevOps Modernization: AI Agents, Intelligent Observability and Automation</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-19 13:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://repebble.com/blog/february-pebble-production-and-software-updates" target="_blank">Pebble Production: February Update</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-19 12:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18884231&w=600" alt="Embedding Store as a Platform on AWS: OpenSearch + Bedrock + S3 Needs SLAs, Governance, and Quotas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/aws-embedding-store-opensearch-bedrock-s3" target="_blank">Embedding Store as a Platform on AWS: OpenSearch + Bedrock + S3 Needs SLAs, Governance, and Quotas</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-19 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/fallout2.jpg" alt="Elder Scrolls And Fallout Boss Says AI’s ‘Not A Fad’ But Doesn’t Want It To Replace ‘Handcrafted Human Intention’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/elder-scrolls-6-fallout-5-ai-todd-howard-2000671289" target="_blank">Elder Scrolls And Fallout Boss Says AI’s ‘Not A Fad’ But Doesn’t Want It To Replace ‘Handcrafted Human Intention’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-19 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KHTMFCR9YDB2QQDAZ3RY4J7J/hero-image.png" alt="This Massive Samsung Smart TV Is $500 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +287,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/18/apples-building-a-wearable-panopticon-and-calling-it-siri.html" target="_blank">Apple&#x27;s building a wearable panopticon and calling it Siri</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-19 01:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/cdg-2-hubble-e1771446805546-1280x853.jpg" alt="This Galaxy Is 99% Dark Matter—and Basically Invisible" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-galaxy-is-99-dark-matter-and-basically-invisible-2000723695" target="_blank">This Galaxy Is 99% Dark Matter—and Basically Invisible</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-19 00:00</span>
             </div>
         </div>
 </div>
@@ -336,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 14:17 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 15:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
