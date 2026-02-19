@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-19 02:56:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-19 03:50:12 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, February 19, 2026 - 02:56 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, February 19, 2026 - 03:50 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -233,6 +237,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/907d83d7-4d46-48b1-8de9-091895da20fe_1266x992.webp?fit=1266%2C992&amp;quality=55&amp;ssl=1" alt="Apple&#x27;s building a wearable panopticon and calling it Siri" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/18/apples-building-a-wearable-panopticon-and-calling-it-siri.html" target="_blank">Apple&#x27;s building a wearable panopticon and calling it Siri</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-19 01:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/cdg-2-hubble-e1771446805546-1280x853.jpg" alt="This Galaxy Is 99% Dark Matter—and Basically Invisible" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-galaxy-is-99-dark-matter-and-basically-invisible-2000723695" target="_blank">This Galaxy Is 99% Dark Matter—and Basically Invisible</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-19 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KHSBF5T36DN9YA6HX01AZN37/hero-image.png" alt="You Can Preorder the Google Pixel 10a for $500 and Get a $100 Amazon Gift Card" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-pixel-10a-preorder-deal-february-2026?utm_medium=RSS" target="_blank">You Can Preorder the Google Pixel 10a for $500 and Get a $100 Amazon Gift Card</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-18 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KHSAMNHPJ7T5BJYA9VTPS2R7/hero-image.jpg" alt="Apple Is Adding ChatGPT, Claude, and Gemini to CarPlay in iOS 26.4" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -259,38 +290,20 @@
                 <span class="time">2026-02-18 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Spider-Man-Brand-New-Day-suit-reveal-1280x853.jpg" alt="A ‘Spider-Man: Brand New Day’ Book Just Accidentally Told Us What the Film Is About" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-spider-man-brand-new-day-book-just-accidentially-told-us-what-the-film-is-about-2000723535" target="_blank">A ‘Spider-Man: Brand New Day’ Book Just Accidentally Told Us What the Film Is About</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-18 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K07M51JBHCWEW964PCDFEKPW/hero-image.png" alt="The Ultrawide Gaming Monitor I Wish I Owned Is Over $350 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/samsung-odyssey-oled-g93sc-sale-february-2026?utm_medium=RSS" target="_blank">The Ultrawide Gaming Monitor I Wish I Owned Is Over $350 Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-18 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/trump-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Trump pardoned a man convicted of trafficking 400 tons of cocaine, then gave him a ride to the Waldorf Astoria" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/18/trump-pardoned-a-man-convicted-of-trafficking-400-tons-of-cocaine-then-gave-him-a-ride-to-the-waldorf-astoria.html" target="_blank">Trump pardoned a man convicted of trafficking 400 tons of cocaine, then gave him a ride to the Waldorf Astoria</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-18 18:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5768.png" alt="The Dumbest Gender" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5768" target="_blank">The Dumbest Gender</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-02-19 02:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -323,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 02:56 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 03:50 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
