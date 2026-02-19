@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-19 10:12:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-19 11:13:42 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, February 19, 2026 - 10:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, February 19, 2026 - 11:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +48,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250814-prince-andrew-rs-cc4948.jpg" alt="Former Prince Andrew arrested following Epstein files revelations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/united-kingdom/former-prince-andrew-arrested-epstein-files-revelations-rcna259691" target="_blank">Former Prince Andrew arrested following Epstein files revelations</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-19 10:17</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/02/19/nx-s1-5716941/nancy-guthrie-investigation-dna-forensic-genetic-genealogy" target="_blank">How a recent shift in DNA sleuthing might help investigators in the Nancy Guthrie case</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-19 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab04/live/3ed0c190-0d71-11f1-b1f2-a50c2c5773ab.jpg" alt="South Korea&#x27;s ex-president jailed for life over martial law attempt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx28y8xd1vjo?at_medium=RSS&at_campaign=rss" target="_blank">South Korea&#x27;s ex-president jailed for life over martial law attempt</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-19 09:46</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +101,20 @@
                 <span class="time">2026-02-19 06:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ef1/live/25603cf0-0d43-11f1-b20c-af552a549c33.jpg" alt="White House says Iran would be &#x27;wise&#x27; to make deal, as US ramps up military presence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c204zpz0lyro?at_medium=RSS&at_campaign=rss" target="_blank">White House says Iran would be &#x27;wise&#x27; to make deal, as US ramps up military presence</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-19 06:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/19/houthi-threats-and-us-iran-conflict-escalate-ramadan-fears-in-yemen?traffic_source=rss" target="_blank">Houthi threats and US-Iran conflict escalate Ramadan fears in Yemen</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-19 05:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6994f134872c5ae7a0fede7e/master/pass/Spot_Salesforce%20Beefcake.jpg" alt="Inside the Gay Tech Mafia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/inside-the-gay-tech-mafia/" target="_blank">Inside the Gay Tech Mafia</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-19 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6994ad030520b9cafe8c9c78/master/pass/sec-protest-security-2241905185.jpg" alt="How to Organize Safely in the Age of Surveillance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +160,38 @@
                 <span class="time">2026-02-19 02:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/881062/ram-shortage-kill-products-companies-phison-ceo-interview" target="_blank">The RAM crunch could kill products and even entire companies, memory exec admits</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-19 00:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/simdjson-4.3" target="_blank">Simdjson Shows More Speed-Ups Possible For SIMD In JSON Parsing: Another 30% Boost</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-19 11:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F46lzs1jedv1f3f1gvzab.png" alt="Building in Public: Adsloty, a Newsletter Ad Marketplace" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/miraclejudeiv/building-in-public-adsloty-a-newsletter-ad-marketplace-2nh8" target="_blank">Building in Public: Adsloty, a Newsletter Ad Marketplace</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-19 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/hugging-face-evals/en/headerimage/generatedHeaderImage-1771448477065.jpg" alt="Hugging Face Introduces Community Evals for Transparent Model Benchmarking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/hugging-face-evals/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Hugging Face Introduces Community Evals for Transparent Model Benchmarking</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-19 10:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/enterprise-spec-driven-development/en/headerimage/enterprise-spec-driven-development-header-1771319821996.jpg" alt="Article: Spec-Driven Development – Adoption at Enterprise Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -188,33 +217,6 @@
                 <span class="title"><a href="https://dev.to/fairpricework/what-to-do-when-a-client-wont-tell-you-their-budget-2kha" target="_blank">What To Do When a Client Won&#x27;t Tell You Their Budget</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-19 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/vidbee/" target="_blank">This is Probably the Best Video Downloader App (And it is Free and Open Source)</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-19 07:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://eutechmap.com/map" target="_blank">European Tech Alternatives</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-19 05:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Staging" target="_blank">Linux Still Working To Clean Up The Realtek RTL8723BS 802.11b/g/n WiFi Driver In 2026</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-19 01:25</span>
             </div>
         </div>
 </div>
@@ -336,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 10:12 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 11:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
