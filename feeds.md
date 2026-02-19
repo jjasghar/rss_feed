@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-19 19:15:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-19 20:05:14 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, February 19, 2026 - 19:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, February 19, 2026 - 20:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/19/kenyan-families-demand-return-of-loved-ones-conscripted-by-russian-army?traffic_source=rss" target="_blank">Kenyan families demand return of loved ones recruited into Russian army</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-19 19:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/royals-1-gty-gmh-260219_1771513047054_hpMain_4x3t_384.jpg" alt="Former Prince Andrew&#x27;s arrest a &#x27;threat to the monarchy,&#x27; royal expert says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/News/prince-andrew-arrest-threat-monarchy-royal-expert/story?id=130298267" target="_blank">Former Prince Andrew&#x27;s arrest a &#x27;threat to the monarchy,&#x27; royal expert says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-19 19:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +104,38 @@
                 <span class="time">2026-02-19 17:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/19/les-wexner-how-the-billionaire-enabled-jeffrey-epsteins-rise?traffic_source=rss" target="_blank">Les Wexner: How the billionaire enabled Jeffrey Epstein’s rise</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-19 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/19/gaza-stabilization-force-commander-outlines-security-plans?traffic_source=rss" target="_blank">Gaza ‘stabilization force’ commander outlines security plans</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-19 16:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/warlocksigil-500x500-1771526842.png" alt="Diablo II’s new Warlock is a great excuse to revisit a classic game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/02/diablo-iis-new-warlock-is-a-great-excuse-to-revisit-a-classic-game/" target="_blank">Diablo II’s new Warlock is a great excuse to revisit a classic game</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-19 20:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/699502dfc4d411f9d42d67a1/master/pass/Show-Guide-Wonder-Man-Culture-BLE1550_102_prores_11148_SrcSeqFrame_1257_R2.jpg" alt="The 10 Best Shows to Stream Right Now (February 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-best-shows-to-stream-right-now/" target="_blank">The 10 Best Shows to Stream Right Now (February 2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-19 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/881339/after-search-party-backlash-ring-is-still-avoiding-the-bigger-questions" target="_blank">After Search Party backlash, Ring is still avoiding the bigger questions</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-19 19:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,38 +163,20 @@
                 <span class="time">2026-02-19 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/2026-Ice-Racing-005-500x500.jpg" alt="Zero grip, maximum fun: A practical guide to getting into amateur ice racing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/02/zero-grip-maximum-fun-a-practical-guide-to-getting-into-amateur-ice-racing/" target="_blank">Zero grip, maximum fun: A practical guide to getting into amateur ice racing</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-19 16:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/881365/ge-profile-opal-mini-nugget-ice-maker-pro-chewable-appliance" target="_blank">GE made a smaller version of its nugget ice maker that needs less counter space</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-19 16:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/bluecrayfish-500x500.jpg" alt="OpenClaw security fears lead Meta, other AI firms to restrict its use" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/02/openclaw-security-fears-lead-meta-other-ai-firms-to-restrict-its-use/" target="_blank">OpenClaw security fears lead Meta, other AI firms to restrict its use</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-19 14:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18885870&w=600" alt="From Prompts to Platforms: Scaling Agentic AI (Part 2)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/from-prompts-to-platforms-scaling-agentic-ai-part" target="_blank">From Prompts to Platforms: Scaling Agentic AI (Part 2)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-19 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +222,6 @@
                 <span class="time">2026-02-19 16:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://deepmind.google/models/model-cards/gemini-3-1-pro/" target="_blank">Gemini 3.1 Pro</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-19 16:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KHVG27WFSRWTGJG62XZW4E7K/hero-image.png" alt="Eight Gadgets That Can Turn Your Microwave Into a More Versatile Appliance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/best-microwave-accessories?utm_medium=RSS" target="_blank">Eight Gadgets That Can Turn Your Microwave Into a More Versatile Appliance</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-19 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/shutterstock_1097152-scaled.jpg?fit=2560%2C1919&amp;quality=60&amp;ssl=1" alt="The &quot;brain isn&#x27;t done until 25&quot; factoid is based on a funding cutoff" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/19/new-research-debunks-the-brain-at-25-factoid.html" target="_blank">The &quot;brain isn&#x27;t done until 25&quot; factoid is based on a funding cutoff</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-19 19:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/Amazon-The-Ghost-in-the-Shell-Prime-Video-Science-Saru-1280x853.jpg" alt="Prime Video Sucks for Anime" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +293,6 @@
                 <span class="title"><a href="https://kotaku.com/why-the-video-game-industry-is-dying-2000671338" target="_blank">Gaming’s Console War Has Been Replaced By An ‘Attention War’ With Gambling, Porn, And Memes</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-19 17:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JMMKAXWR7K76QZ9XRTZCEG0H/hero-image.png" alt="This Samsung Galaxy Watch Is the One I’d Recommend to Athletes and Adventurers, and It’s $150 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-watch-ultra-deal-february-2026?utm_medium=RSS" target="_blank">This Samsung Galaxy Watch Is the One I’d Recommend to Athletes and Adventurers, and It’s $150 Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-19 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01J593J9HDSJKYEMV57Q64FSQ7/hero-image.jpg" alt="The 30 Best Movies on Hulu Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/best-movies-on-hulu?utm_medium=RSS" target="_blank">The 30 Best Movies on Hulu Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-19 15:30</span>
             </div>
         </div>
 </div>
@@ -329,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 19:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 20:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
