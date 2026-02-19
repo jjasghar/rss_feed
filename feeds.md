@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-19 05:25:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-19 06:18:25 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, February 19, 2026 - 05:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, February 19, 2026 - 06:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +50,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ef1/live/25603cf0-0d43-11f1-b20c-af552a549c33.jpg" alt="White House says Iran would be &#x27;wise&#x27; to make deal, as US ramps up military presence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c204zpz0lyro?at_medium=RSS&at_campaign=rss" target="_blank">White House says Iran would be &#x27;wise&#x27; to make deal, as US ramps up military presence</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-19 06:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/19/houthi-threats-and-us-iran-conflict-escalate-ramadan-fears-in-yemen?traffic_source=rss" target="_blank">Houthi threats and US-Iran conflict escalate Ramadan fears in Yemen</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-19 05:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/CALIFORNIA-AVALANCHE_1_1771477575919_hpMain_4x3t_384.jpg" alt="Parents of students at ski academy among California avalanche victims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/parents-students-ski-academy-california-avalanche-victims/story?id=130288970" target="_blank">Parents of students at ski academy among California avalanche victims</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-19 05:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260203-uss-abraham-lincoln-vl-414p-0a7131.jpg" alt="U.S. military pushes more weaponry into the Middle East for possible strikes on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/iran/us-military-pushes-weaponry-middle-east-possible-strikes-iran-rcna259632" target="_blank">U.S. military pushes more weaponry into the Middle East for possible strikes on Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-19 04:21</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -67,42 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/18/nx-s1-5718567/olympic-mens-hockey-usa-beats-sweden" target="_blank">With a win over Sweden, the U.S. men&#x27;s hockey team will play for an Olympic medal</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-19 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771458424161_nn_lja_Meta_testifies_250218_1920x1080-1yjnof.jpg" alt="Mark Zuckerberg testifies in social media addiction trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/mark-zuckerberg-testifies-in-social-media-addiction-trial-257930309970" target="_blank">Mark Zuckerberg testifies in social media addiction trial</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-18 23:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/18/white-house-says-iran-would-be-wise-to-take-deal-amid-military-buildup?traffic_source=rss" target="_blank">White House says Iran would be ‘wise’ to take deal amid military buildup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-18 23:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-jordan-trump_7168653.png?20260218213514" alt="How US military is assembling within striking distance of Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/how-the-us-military-is-assembling-within-striking-distance-of-iran-13509295" target="_blank">How US military is assembling within striking distance of Iran</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-18 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Nancy-guthrie-new-photo-ap-bh-260215_1771180604616_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: FBI has reached out to Mexican authorities, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: FBI has reached out to Mexican authorities, sources say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-18 22:22</span>
             </div>
         </div>
 </div>
@@ -126,6 +124,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/" target="_blank">OpenAI deepens India push with Pine Labs fintech partnership</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-19 03:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6995c2f97e4cc95339d7d7a7/master/pass/GettyImages-1990850095.jpg" alt="Mark Zuckerberg Tries to Play It Safe in Social Media Addiction Trial Testimony" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mark-zuckerberg-testifies-social-media-addiction-trial-meta/" target="_blank">Mark Zuckerberg Tries to Play It Safe in Social Media Addiction Trial Testimony</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-19 02:04</span>
             </div>
         </div>
 <div class="story">
@@ -153,15 +160,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/18/etsy-sells-secondhand-clothing-marketplace-depop-to-ebay-for-1-2b/" target="_blank">Etsy sells secondhand clothing marketplace Depop to eBay for $1.2B</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-18 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/880850/social-media-lawsuits-meta-facebook-instagram-tiktok" target="_blank">Social media on trial: tech giants face lawsuits over addiction, safety, and mental health</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-18 21:27</span>
             </div>
         </div>
 </div>
@@ -302,6 +300,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/19/flagrant-llama-abuse" target="_blank">Flagrant Llama Abuse</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-02-19 05:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5768.png" alt="The Dumbest Gender" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -342,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 05:26 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 06:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
