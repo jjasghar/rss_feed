@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-02-19 04:34:07 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-19 05:25:56 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 1 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, February 19, 2026 - 04:34 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, February 19, 2026 - 05:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -113,6 +122,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/" target="_blank">OpenAI deepens India push with Pine Labs fintech partnership</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-19 03:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/881062/ram-shortage-kill-products-companies-phison-ceo-interview" target="_blank">The RAM crunch could kill products and even entire companies, memory exec admits</a></span>
                 <span class="feed">The Verge</span>
@@ -144,15 +162,6 @@
                 <span class="title"><a href="https://www.theverge.com/policy/880850/social-media-lawsuits-meta-facebook-instagram-tiktok" target="_blank">Social media on trial: tech giants face lawsuits over addiction, safety, and mental health</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-18 21:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f969fa9b7885126c50ccf8/master/pass/Bose%E2%80%99s%20New%20QuietComfort%20Ultra%20Headphones%20Are%20Worth%20the%20Splurge.png" alt="The Bose QuietComfort Ultra Gen 2 Headphones Are at Their Lowest Price in Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/bose-quietcomfort-ultra-2-deal-0218/" target="_blank">The Bose QuietComfort Ultra Gen 2 Headphones Are at Their Lowest Price in Months</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-18 21:15</span>
             </div>
         </div>
 </div>
@@ -328,22 +337,13 @@
                 <span class="time">2026-02-18 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/plums.png" alt="Plums" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3209/" target="_blank">Plums</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-02-18 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 04:34 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 05:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
