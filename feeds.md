@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-19 18:13:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-19 19:15:04 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, February 19, 2026 - 18:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, February 19, 2026 - 19:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/19/nx-s1-5717039/baby-chicks-link-certain-sounds-with-shapes-just-like-humans-do" target="_blank">Baby chicks link certain sounds with shapes, just like humans do</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-19 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/19/trump-announces-billions-of-dollars-in-gaza-aid-at-board-of-peace-meeting?traffic_source=rss" target="_blank">Trump announces billions of dollars in Gaza aid at Board of Peace meeting</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-19 18:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +101,20 @@
                 <span class="time">2026-02-19 16:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/043b/live/ff016940-0daa-11f1-9fe5-57999fe11004.jpg" alt="Trump says world has 10 days to see if Iran deal reached" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c86yjnw4x49o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says world has 10 days to see if Iran deal reached</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-19 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/19/nx-s1-5719173/amazon-walmart-biggest-company-by-sales" target="_blank">Amazon dethrones Walmart as the world&#x27;s biggest company by sales</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-19 16:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/19/as-browser-wars-heat-up-chrome-adds-new-productivity-features/" target="_blank">As browser wars heat up, Chrome adds new productivity features</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-19 18:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +160,20 @@
                 <span class="time">2026-02-19 14:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/19/this-former-big-tech-engineers-are-using-ai-to-navigate-trumps-trade-chaos/" target="_blank">This former Big Tech engineers are using AI to navigate Trump’s trade chaos</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-19 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Turbostat-Linux-7.0" target="_blank">Turbostat With Linux 7.0 Can Report New L2 Cache Statistics</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-19 18:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18886340&w=600" alt="Automating Unix Security Across Hybrid Clouds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -185,6 +195,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/" target="_blank">How AI is reshaping developer choice (and Octoverse data proves it)</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-02-19 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/AI-50-80x-IO-uring" target="_blank">AI Helped Uncover A &quot;50-80x Improvement&quot; For Linux&#x27;s IO_uring</a></span>
                 <span class="feed">Phoronix</span>
@@ -192,30 +211,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18886302&w=600" alt="Jetpack Navigation 3: A New Era for Navigation in Compose-Driven Android Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/jetpack-navigation-3-compose-android-guide" target="_blank">Jetpack Navigation 3: A New Era for Navigation in Compose-Driven Android Apps</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-19 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/amazon-key-event-driven-platform/en/headerimage/generatedHeaderImage-1771041547572.jpg" alt="Reducing Onboarding From 48 Hours to 4: Inside Amazon Key’s Event-Driven Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/amazon-key-event-driven-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Reducing Onboarding From 48 Hours to 4: Inside Amazon Key’s Event-Driven Platform</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-19 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkj700zh8m2v9wn99z84q.png" alt="5 Cognitive Traps That Make Us Miss Tasks: Overcoming PM&#x27;s Blind Spots" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/_jeongyuhyeon_03de1/5-cognitive-traps-that-make-us-miss-tasks-overcoming-pms-blind-spots-1oa6" target="_blank">5 Cognitive Traps That Make Us Miss Tasks: Overcoming PM&#x27;s Blind Spots</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-19 15:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://deepmind.google/models/model-cards/gemini-3-1-pro/" target="_blank">Gemini 3.1 Pro</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-19 16:14</span>
             </div>
         </div>
 </div>
@@ -237,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Amazon-The-Ghost-in-the-Shell-Prime-Video-Science-Saru-1280x853.jpg" alt="Prime Video Sucks for Anime" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/prime-video-sucks-for-anime-science-saru-the-ghost-in-the-shell-exclusive-streaming-2000723977" target="_blank">Prime Video Sucks for Anime</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-19 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/Shrinking-Harrison-Ford-Michael-J-Fox-1280x853.jpg" alt="Indiana Jones Exists in the ‘Shrinking’ Universe, But Who Plays Him?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +292,6 @@
                 <span class="time">2026-02-19 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/fallout2.jpg" alt="Elder Scrolls And Fallout Boss Says AI’s ‘Not A Fad’ But Doesn’t Want It To Replace ‘Handcrafted Human Intention’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/elder-scrolls-6-fallout-5-ai-todd-howard-2000671289" target="_blank">Elder Scrolls And Fallout Boss Says AI’s ‘Not A Fad’ But Doesn’t Want It To Replace ‘Handcrafted Human Intention’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-19 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 18:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 19:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
