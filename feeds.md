@@ -1,27 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-02-19 12:07:47 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-19 13:27:41 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 19 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, February 19, 2026 - 12:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, February 19, 2026 - 13:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +38,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/19/what-we-know-so-far-about-arrest-of-uks-former-prince-andrew?traffic_source=rss" target="_blank">What we know so far about arrest of UK’s former Prince Andrew</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-19 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/19/g-s1-110710/up-first-newsletter-trump-board-of-peace-ukraine-russia-prince-andrew-arrest" target="_blank">Police arrest Ex-Prince Andrew. And, Trump hosts the first Board of Peace meeting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-19 12:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/GMA/andrew-mountbatten-windsor-ap-jef-260216_1771275842803_hpMain_4x3t_384.jpg" alt="British police arrest Andrew Mountbatten-Windsor on suspicion of misconduct" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,24 +90,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/19/nx-s1-5716941/nancy-guthrie-investigation-dna-forensic-genetic-genealogy" target="_blank">How a recent shift in DNA sleuthing might help investigators in the Nancy Guthrie case</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-19 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab04/live/3ed0c190-0d71-11f1-b1f2-a50c2c5773ab.jpg" alt="South Korea&#x27;s ex-president jailed for life over martial law attempt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx28y8xd1vjo?at_medium=RSS&at_campaign=rss" target="_blank">South Korea&#x27;s ex-president jailed for life over martial law attempt</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-19 09:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/19/nx-s1-5719071/iran-us-gunboat-diplomacy-nuclear-talks-in-balance" target="_blank">Iran and the U.S. lean into gunboat diplomacy as nuclear talks hang in balance</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-19 08:23</span>
             </div>
         </div>
 </div>
@@ -156,6 +157,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/voicefleet/building-an-ai-phone-agent-for-trade-businesses-lessons-from-the-irish-market-2808" target="_blank">Building an AI Phone Agent for Trade Businesses: Lessons from the Irish Market</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-19 13:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/devops-modernization-ai-agents/en/mediumimage/infoq-live-medium-1771422477828.jpg" alt="Presentation: DevOps Modernization: AI Agents, Intelligent Observability and Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/devops-modernization-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: DevOps Modernization: AI Agents, Intelligent Observability and Automation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-19 13:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18884231&w=600" alt="Embedding Store as a Platform on AWS: OpenSearch + Bedrock + S3 Needs SLAs, Governance, and Quotas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -191,22 +210,18 @@
                 <span class="time">2026-02-19 10:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/enterprise-spec-driven-development/en/headerimage/enterprise-spec-driven-development-header-1771319821996.jpg" alt="Article: Spec-Driven Development – Adoption at Enterprise Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/enterprise-spec-driven-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Spec-Driven Development – Adoption at Enterprise Scale</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-19 09:00</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/02/19/stack-overflow-cloudflare-pay-per-crawl/" target="_blank">Why Stack Overflow and Cloudflare launched a pay-per-crawl model</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-02-19 08:40</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/malicious-ai.html" target="_blank">Malicious AI</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-02-19 12:05</span>
             </div>
         </div>
 </div>
@@ -214,6 +229,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Predator-Badlands-3-2-1280x853.jpg" alt="‘Predator: Badlands’ Is a Huge Hulu Hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/predator-badlands-is-a-huge-hulu-hit-2000723826" target="_blank">‘Predator: Badlands’ Is a Huge Hulu Hit</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-19 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/princeandrew.webp?fit=1600%2C1067&amp;quality=55&amp;ssl=1" alt="Former Prince Andrew arrested" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -257,15 +281,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/google-pixel-10a-preorder-deal-february-2026?utm_medium=RSS" target="_blank">You Can Preorder the Google Pixel 10a for $500 and Get a $100 Amazon Gift Card</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-18 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHSAMNHPJ7T5BJYA9VTPS2R7/hero-image.jpg" alt="Apple Is Adding ChatGPT, Claude, and Gemini to CarPlay in iOS 26.4" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-is-adding-chatgpt-claude-and-gemini-to-carplay?utm_medium=RSS" target="_blank">Apple Is Adding ChatGPT, Claude, and Gemini to CarPlay in iOS 26.4</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-18 22:10</span>
             </div>
         </div>
 </div>
@@ -314,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 12:07 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 13:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
