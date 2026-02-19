@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-19 15:14:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-19 16:14:27 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, February 19, 2026 - 15:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, February 19, 2026 - 16:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +45,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87ac/live/e50f5ac0-0d8b-11f1-ab35-e1029910cb11.jpg" alt="Andrew arrested on suspicion of misconduct in public office" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx28yel4811o?at_medium=RSS&at_campaign=rss" target="_blank">Andrew arrested on suspicion of misconduct in public office</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-19 16:06</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/19/trumps-board-of-peace-convenes-for-first-time?traffic_source=rss" target="_blank">Trump’s ‘Board of Peace’ convenes for first time</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-19 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/19/kenyan-soldiers-russia-ukraine-war-intelligence-report" target="_blank">More than 1,000 Kenyans lured to fight for Russia in Ukraine war, report says</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-19 14:39</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +98,20 @@
                 <span class="time">2026-02-19 11:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771499269803_now_spec_brk_prince_andrew_arrest_260219_1920x1080-x71eng.jpg" alt="Former Prince Andrew arrested following scrutiny over Epstein relationship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/former-prince-andrew-arrested-following-scrutiny-over-epstein-relationship-257951813887" target="_blank">Former Prince Andrew arrested following scrutiny over Epstein relationship</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-19 11:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aa9/live/370e5590-0d7f-11f1-9972-d3f265c101c6.jpg" alt="Police statement in full after Andrew arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd6zjl58734o?at_medium=RSS&at_campaign=rss" target="_blank">Police statement in full after Andrew arrest</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-19 10:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/881365/ge-profile-opal-mini-nugget-ice-maker-pro-chewable-appliance" target="_blank">GE made a smaller version of its nugget ice maker that needs less counter space</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-19 16:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/bluecrayfish-500x500.jpg" alt="OpenClaw security fears lead Meta, other AI firms to restrict its use" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -122,6 +131,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6996524941ef0d6569ebc9b3/master/pass/Update-%20What%E2%80%99s%20the%20Best%20Unlimited%20Cell%20Phone%20Plan%20in%202026_%20Let%E2%80%99s%20Break%20It%20Down.png" alt="Best Unlimited Phone Plan: T-Mobile, AT&amp;T, Verizon Compared (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-unlimited-phone-plans/" target="_blank">Best Unlimited Phone Plan: T-Mobile, AT&amp;T, Verizon Compared (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-19 13:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6994f134872c5ae7a0fede7e/master/pass/Spot_Salesforce%20Beefcake.jpg" alt="Inside the Gay Tech Mafia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -137,24 +155,6 @@
                 <span class="title"><a href="https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/" target="_blank">How to Organize Safely in the Age of Surveillance</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-19 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/" target="_blank">OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-19 05:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/881210/mark-zuckerberg-meta-ceo-testimony-filters" target="_blank">Mark Zuckerberg and his Ray-Ban entourage have their day in court</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-19 04:13</span>
             </div>
         </div>
 </div>
@@ -192,6 +192,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.governance.fyi/p/america-vs-singapore-you-cant-save" target="_blank">America vs. Singapore: You Can&#x27;t Save Your Way Out of Economic Shocks</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-19 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/theonemohitsharma/the-5-future-proof-language-framework-combos-crushing-it-right-now-15me" target="_blank">The 5 Future-Proof Language + Framework Combos Crushing It Right Now 🔥</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,15 +214,6 @@
                 <span class="title"><a href="https://dzone.com/articles/future-of-agentic-ai" target="_blank">The Future of Agentic AI</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-19 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/voicefleet/building-an-ai-phone-agent-for-trade-businesses-lessons-from-the-irish-market-2808" target="_blank">Building an AI Phone Agent for Trade Businesses: Lessons from the Irish Market</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-19 13:20</span>
             </div>
         </div>
 </div>
@@ -235,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01J593J9HDSJKYEMV57Q64FSQ7/hero-image.jpg" alt="The 30 Best Movies on Hulu Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/best-movies-on-hulu?utm_medium=RSS" target="_blank">The 30 Best Movies on Hulu Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-19 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/fallout2.jpg" alt="Elder Scrolls And Fallout Boss Says AI’s ‘Not A Fad’ But Doesn’t Want It To Replace ‘Handcrafted Human Intention’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/a-simple-blood-test-could-eventually-tell-you-when-alzheimers-is-coming-2000723492" target="_blank">A Simple Blood Test Could Eventually Tell You When Alzheimer’s Is Coming</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-19 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/907d83d7-4d46-48b1-8de9-091895da20fe_1266x992.webp?fit=1266%2C992&amp;quality=55&amp;ssl=1" alt="Apple&#x27;s building a wearable panopticon and calling it Siri" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/18/apples-building-a-wearable-panopticon-and-calling-it-siri.html" target="_blank">Apple&#x27;s building a wearable panopticon and calling it Siri</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-19 01:28</span>
             </div>
         </div>
 </div>
@@ -335,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 15:14 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 16:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
