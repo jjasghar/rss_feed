@@ -1,37 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-02-19 11:13:42 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-19 12:07:47 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, February 19, 2026 - 11:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, February 19, 2026 - 12:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +37,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/andrew-mountbatten-windsor-ap-jef-260216_1771275842803_hpMain_4x3t_384.jpg" alt="British police arrest Andrew Mountbatten-Windsor on suspicion of misconduct" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/british-police-arrest-andrew-mountbatten-windsor-suspicion-misconduct/story?id=130292161" target="_blank">British police arrest Andrew Mountbatten-Windsor on suspicion of misconduct</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-19 11:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aa9/live/370e5590-0d7f-11f1-9972-d3f265c101c6.jpg" alt="Police statement in full after Andrew arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd6zjl58734o?at_medium=RSS&at_campaign=rss" target="_blank">Police statement in full after Andrew arrest</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-19 10:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250814-prince-andrew-rs-cc4948.jpg" alt="Former Prince Andrew arrested following Epstein files revelations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,24 +89,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/19/nx-s1-5719071/iran-us-gunboat-diplomacy-nuclear-talks-in-balance" target="_blank">Iran and the U.S. lean into gunboat diplomacy as nuclear talks hang in balance</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-19 08:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/19/live-south-korea-convicts-ex-president-yoon-suk-yeol-for-insurrection?traffic_source=rss" target="_blank">LIVE: South Korea convicts ex-President Yoon Suk Yeol for insurrection</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-19 07:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/19/g-s1-110679/peru-new-president" target="_blank">José María Balcázar becomes Peru&#x27;s eighth president in a decade</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-19 06:43</span>
             </div>
         </div>
 </div>
@@ -166,6 +156,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18884231&w=600" alt="Embedding Store as a Platform on AWS: OpenSearch + Bedrock + S3 Needs SLAs, Governance, and Quotas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/aws-embedding-store-opensearch-bedrock-s3" target="_blank">Embedding Store as a Platform on AWS: OpenSearch + Bedrock + S3 Needs SLAs, Governance, and Quotas</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-19 12:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -210,34 +209,20 @@
                 <span class="time">2026-02-19 08:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fairpricework/what-to-do-when-a-client-wont-tell-you-their-budget-2kha" target="_blank">What To Do When a Client Won&#x27;t Tell You Their Budget</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-19 08:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/ai-found-twelve-new-vulnerabilities-in-openssl.html" target="_blank">AI Found Twelve New Vulnerabilities in OpenSSL</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-18 12:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/princeandrew.webp?fit=1600%2C1067&amp;quality=55&amp;ssl=1" alt="Former Prince Andrew arrested" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/19/andrew-arrested.html" target="_blank">Former Prince Andrew arrested</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-19 11:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/bloodtest-1280x853.jpg" alt="A Simple Blood Test Could Eventually Tell You When Alzheimer’s Is Coming" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +266,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/apple-is-adding-chatgpt-claude-and-gemini-to-carplay?utm_medium=RSS" target="_blank">Apple Is Adding ChatGPT, Claude, and Gemini to CarPlay in iOS 26.4</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-18 22:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/1min.AI-1200-x-675-px.png?fit=1200%2C675&amp;quality=55&amp;ssl=1" alt="1.minAI: Lifetime convenience for just $75" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/18/1-minai-lifetime-convenience-for-just-75.html" target="_blank">1.minAI: Lifetime convenience for just $75</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-18 22:00</span>
             </div>
         </div>
 </div>
@@ -338,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 11:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 12:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
