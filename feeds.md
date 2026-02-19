@@ -1,35 +1,45 @@
-<!-- Processing 54 RSS feeds at 2026-02-19 22:04:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-19 23:06:13 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 9 new posts out of 37 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, February 19, 2026 - 22:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, February 19, 2026 - 23:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +55,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/2/19/is-social-media-addictive?traffic_source=rss" target="_blank">Is social media addictive?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-19 22:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dda/live/59fa27b0-0dc9-11f1-96d8-dbf82d6fb674.jpg" alt="Andrew released under investigation after arrest on suspicion of misconduct in public office" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx28yel4811o?at_medium=RSS&at_campaign=rss" target="_blank">Andrew released under investigation after arrest on suspicion of misconduct in public office</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-19 21:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +109,20 @@
                 <span class="time">2026-02-19 19:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/19/nx-s1-5717039/baby-chicks-link-certain-sounds-with-shapes-just-like-humans-do" target="_blank">Baby chicks link certain sounds with shapes, just like humans do</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-19 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/19/trump-announces-billions-of-dollars-in-gaza-aid-at-board-of-peace-meeting?traffic_source=rss" target="_blank">Trump announces billions of dollars in Gaza aid at Board of Peace meeting</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-19 18:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/881678/ring-doorbell-bounty-amazon-servers-fulu" target="_blank">A $10K+ bounty is waiting for anyone who can unplug Ring doorbells from Amazon&amp;#8217;s cloud</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-19 22:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +168,20 @@
                 <span class="time">2026-02-19 19:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/19/as-browser-wars-heat-up-chrome-adds-new-productivity-features/" target="_blank">As browser wars heat up, Chrome adds new productivity features</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-19 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/asrar_khan/fundamentals-of-adk-learning-path-499h" target="_blank">Fundamentals of ADK Learning Path</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-19 22:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +227,6 @@
                 <span class="time">2026-02-19 18:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18886340&w=600" alt="Automating Unix Security Across Hybrid Clouds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/automating-unix-security-across-hybrid-clouds" target="_blank">Automating Unix Security Across Hybrid Clouds</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-19 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +247,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Lord-Miller-4DX-1280x853.jpg" alt="Watch Phil Lord and Chris Miller Get Shaken About for ‘Project Hail Mary’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/watch-phil-lord-and-chris-miller-get-shaken-about-for-project-hail-mary-2000724193" target="_blank">Watch Phil Lord and Chris Miller Get Shaken About for ‘Project Hail Mary’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-19 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/0_Meme-depicting-JD-Vance-as-bald.jpg?fit=810%2C539&amp;quality=60&amp;ssl=1" alt="JD Vance gets zero laughs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/19/jd-vance-gets-zero-laughs.html" target="_blank">JD Vance gets zero laughs</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-19 22:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/image-243-1280x720.jpg" alt="Meta’s Virtual Reality App Ditching VR To Make A Roblox Clone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/metas-virtual-reality-app-ditching-vr-to-make-a-roblox-clone-2000671434" target="_blank">Meta’s Virtual Reality App Ditching VR To Make A Roblox Clone</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-19 22:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KHVS2XKWGQGY676C8ADR2S3V/hero-image.jpg" alt="Google Maps Now Makes You Log In to See These Key Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-maps-hidden-features-when-logged-out?utm_medium=RSS" target="_blank">Google Maps Now Makes You Log In to See These Key Features</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-19 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KHVJ9ZQ85MG5ESKGRCA2XW7M/hero-image.png" alt="You Can Finally Back Up Your Android&#x27;s Local Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -252,42 +298,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/samsung-refurbished-oled-tv-deal-february-2026?utm_medium=RSS" target="_blank">Samsung’s Brightest OLED TV Is Now Over $1,000 Off</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-19 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/08/straight_outta_compton_ver7_xlg.jpg?fit=947%2C1500&amp;quality=60&amp;ssl=1" alt="An Eazy-E classic is now a country ditty" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/19/an-eazy-e-classic-now-a-country-ditty.html" target="_blank">An Eazy-E classic is now a country ditty</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-19 20:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHVG27WFSRWTGJG62XZW4E7K/hero-image.png" alt="Eight Gadgets That Can Turn Your Microwave Into a More Versatile Appliance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/best-microwave-accessories?utm_medium=RSS" target="_blank">Eight Gadgets That Can Turn Your Microwave Into a More Versatile Appliance</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-19 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/shutterstock_1097152-scaled.jpg?fit=2560%2C1919&amp;quality=60&amp;ssl=1" alt="The &quot;brain isn&#x27;t done until 25&quot; factoid is based on a funding cutoff" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/19/new-research-debunks-the-brain-at-25-factoid.html" target="_blank">The &quot;brain isn&#x27;t done until 25&quot; factoid is based on a funding cutoff</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-19 19:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Amazon-The-Ghost-in-the-Shell-Prime-Video-Science-Saru-1280x853.jpg" alt="Prime Video Sucks for Anime" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/prime-video-sucks-for-anime-science-saru-the-ghost-in-the-shell-exclusive-streaming-2000723977" target="_blank">Prime Video Sucks for Anime</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-19 19:00</span>
             </div>
         </div>
 </div>
@@ -328,7 +338,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 22:04 UTC
+        🔄 Last Updated: 23:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
