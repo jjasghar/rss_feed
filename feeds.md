@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-19 01:31:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-19 02:56:40 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, February 19, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, February 19, 2026 - 02:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,12 +51,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771458424161_nn_lja_Meta_testifies_250218_1920x1080-1yjnof.jpg" alt="Mark Zuckerberg testifies in social media addiction trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/mark-zuckerberg-testifies-in-social-media-addiction-trial-257930309970" target="_blank">Mark Zuckerberg testifies in social media addiction trial</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-18 23:47</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/18/white-house-says-iran-would-be-wise-to-take-deal-amid-military-buildup?traffic_source=rss" target="_blank">White House says Iran would be ‘wise’ to take deal amid military buildup</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-18 23:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-jordan-trump_7168653.png?20260218213514" alt="How US military is assembling within striking distance of Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/how-the-us-military-is-assembling-within-striking-distance-of-iran-13509295" target="_blank">How US military is assembling within striking distance of Iran</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-18 22:40</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +95,20 @@
                 <span class="time">2026-02-18 21:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a3/live/87f7fc50-0d10-11f1-9972-d3f265c101c6.jpg" alt="Eight skiers found dead after California avalanche" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg19dp4vxgo?at_medium=RSS&at_campaign=rss" target="_blank">Eight skiers found dead after California avalanche</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-18 21:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771449302357_now_daily_b_zuckerberg_trial_260218_1920x1080-4k7bn5.jpg" alt="Zuckerberg &#x27;combative&#x27; during initial testimony at social media addiction trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/zuckerberg-combative-during-initial-testimony-at-social-media-addiction-trial-257921093912" target="_blank">Zuckerberg &#x27;combative&#x27; during initial testimony at social media addiction trial</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-18 21:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/881062/ram-shortage-kill-products-companies-phison-ceo-interview" target="_blank">The RAM crunch could kill products and even entire companies, memory exec admits</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-19 00:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +154,20 @@
                 <span class="time">2026-02-18 20:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/" target="_blank">World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-18 18:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Staging" target="_blank">Linux Still Working To Clean Up The Realtek RTL8723BS 802.11b/g/n WiFi Driver In 2026</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-19 01:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +211,6 @@
                 <span class="title"><a href="https://dzone.com/articles/production-ready-observability-for-analytics-agent" target="_blank">Production-Ready Observability for Analytics Agents: An Open Telemetry Blueprint Across Retrieval, SQL, Redaction, and Tool Calls</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-18 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Retires-Mwave" target="_blank">Linux 7.0 Retires The IBM Mwave ACP Modem Driver Used By Some 1990s ThinkPads</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-18 18:57</span>
             </div>
         </div>
 </div>
@@ -324,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 02:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
