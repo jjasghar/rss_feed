@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-19 09:12:59 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-19 10:12:48 UTC -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, February 19, 2026 - 09:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, February 19, 2026 - 10:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/19/nx-s1-5716941/nancy-guthrie-investigation-dna-forensic-genetic-genealogy" target="_blank">How a recent shift in DNA sleuthing might help investigators in the Nancy Guthrie case</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-19 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +99,20 @@
                 <span class="time">2026-02-19 05:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/CALIFORNIA-AVALANCHE_1_1771477575919_hpMain_4x3t_384.jpg" alt="Parents of students at ski academy among California avalanche victims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/parents-students-ski-academy-california-avalanche-victims/story?id=130288970" target="_blank">Parents of students at ski academy among California avalanche victims</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-19 05:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6994ad030520b9cafe8c9c78/master/pass/sec-protest-security-2241905185.jpg" alt="How to Organize Safely in the Age of Surveillance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/" target="_blank">How to Organize Safely in the Age of Surveillance</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-19 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +158,29 @@
                 <span class="time">2026-02-19 00:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/880594/dyson-pencilwash-wet-floor-cleaner-thin-battery-handle" target="_blank">Dyson turned its skinny PencilVac into a lightweight wet floor cleaner</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-18 23:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/enterprise-spec-driven-development/en/headerimage/enterprise-spec-driven-development-header-1771319821996.jpg" alt="Article: Spec-Driven Development – Adoption at Enterprise Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/enterprise-spec-driven-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Spec-Driven Development – Adoption at Enterprise Scale</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-19 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/02/19/stack-overflow-cloudflare-pay-per-crawl/" target="_blank">Why Stack Overflow and Cloudflare launched a pay-per-crawl model</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-02-19 08:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +217,6 @@
                 <span class="time">2026-02-19 01:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/narnaiezzsshaa/privilege-isnt-about-the-tool-its-about-the-transmission-2e2a" target="_blank">Privilege Isn&#x27;t About the Tool—It&#x27;s About the Transmission</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-18 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-GFX1170-More-ISA-Diffs" target="_blank">More ISA Differences Come To Light With The New AMD GFX1170 &quot;RDNA 4m&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-18 22:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/bloodtest-1280x853.jpg" alt="A Simple Blood Test Could Eventually Tell You When Alzheimer’s Is Coming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-simple-blood-test-could-eventually-tell-you-when-alzheimers-is-coming-2000723492" target="_blank">A Simple Blood Test Could Eventually Tell You When Alzheimer’s Is Coming</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-19 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/907d83d7-4d46-48b1-8de9-091895da20fe_1266x992.webp?fit=1266%2C992&amp;quality=55&amp;ssl=1" alt="Apple&#x27;s building a wearable panopticon and calling it Siri" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +288,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/18/1-minai-lifetime-convenience-for-just-75.html" target="_blank">1.minAI: Lifetime convenience for just $75</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-18 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/Kotaku_The-Bests_Switch2@2x-1280x720.jpg" alt="The 12 Best Games On The Nintendo Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-best-games-mario-kart-donkey-kong-1851786840" target="_blank">The 12 Best Games On The Nintendo Switch 2</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-18 21:30</span>
             </div>
         </div>
 </div>
@@ -338,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 09:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 10:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
