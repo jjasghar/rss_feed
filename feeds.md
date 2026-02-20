@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-20 04:31:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-20 05:22:17 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, February 20, 2026 - 04:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, February 20, 2026 - 05:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/19/nx-s1-5720220/venezuela-approves-amnesty-that-may-release-of-hundreds-detained-for-political-reasons" target="_blank">Venezuela approves amnesty that may release of hundreds detained for political reasons</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-20 03:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +98,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/former-prince-andrew-arrested-in-uk-257996357775" target="_blank">Former Prince Andrew arrested in UK</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-19 23:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/19/macron-and-meloni-clash-over-killing-of-french-far-right-activist-in-lyon?traffic_source=rss" target="_blank">Macron and Meloni clash over killing of French far-right activist in Lyon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-19 23:12</span>
             </div>
         </div>
 </div>
@@ -187,6 +185,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea" target="_blank">MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-20 01:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Vulkan-1.4.344-Released" target="_blank">Vulkan 1.4.344 Released With New Extension From Valve</a></span>
                 <span class="feed">Phoronix</span>
@@ -209,15 +216,6 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-february-20-2026-red-hat" target="_blank">Friday Five — February 20, 2026</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-02-20 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://notes.hella.cheap/a-introductory-video-tutorial-for-candyfloss.html" target="_blank">Using candyfloss to do neural net inference</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-02-19 23:53</span>
             </div>
         </div>
 </div>
@@ -307,22 +305,13 @@
                 <span class="time">2026-02-19 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/19/flagrant-llama-abuse" target="_blank">Flagrant Llama Abuse</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-02-19 05:09</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 04:31 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 05:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
