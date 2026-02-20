@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-20 15:11:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-20 16:08:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, February 20, 2026 - 15:11 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, February 20, 2026 - 16:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -70,6 +69,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d26/live/cb2c34f0-0e5f-11f1-b048-c9424b2cf5fd.png" alt="Austrian climber found guilty after girlfriend froze to death on mountain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0k1xkllknmo?at_medium=RSS&at_campaign=rss" target="_blank">Austrian climber found guilty after girlfriend froze to death on mountain</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-20 11:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96c8/live/a7090430-0e29-11f1-972a-e9487d3333c4.jpg" alt="Higher tax helped UK government reach record January surplus" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -87,20 +95,29 @@
                 <span class="time">2026-02-20 11:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/20/manchester-city-vs-newcastle-premier-league-team-news-start-lineups?traffic_source=rss" target="_blank">Manchester City vs Newcastle: Premier League – team news, start, lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-20 10:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2261294684-500x500.jpg" alt="Supreme Court blocks Trump&#x27;s emergency tariffs, billions in refunds may be owed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/supreme-court-blocks-trumps-emergency-tariffs-billions-in-refunds-may-be-owed/" target="_blank">Supreme Court blocks Trump&#x27;s emergency tariffs, billions in refunds may be owed</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-20 15:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/881946/samsung-galaxy-z-trifold-restock-buy" target="_blank">Samsung’s Galaxy Z TriFold restock sold out in minutes</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-20 15:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +154,6 @@
                 <span class="time">2026-02-20 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/AI-generated-Harry-Potter-image-via-Microsoft-blog-500x500-1771541382.jpg" alt="Microsoft deletes blog telling users to train AI on pirated Harry Potter books" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/microsoft-removes-guide-on-how-to-train-llms-on-pirated-harry-potter-books/" target="_blank">Microsoft deletes blog telling users to train AI on pirated Harry Potter books</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-20 12:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/HBifCunX0AAeDpk-500x500.jpg" alt="Rocket Report: Chinese launch firm raises big money; Falcon 9 back to the Bahamas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/02/rocket-report-chinese-launch-firm-raises-big-money-falcon-9-back-to-the-bahamas/" target="_blank">Rocket Report: Chinese launch firm raises big money; Falcon 9 back to the Bahamas</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-20 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +166,15 @@
                 <span class="title"><a href="https://dev.to/hnevkop/i-spent-weeks-building-a-clock-for-global-stock-market-hours-2b8g" target="_blank">I Spent Weeks Building a Clock for Global Stock Market Hours</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-20 15:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18885880&w=600" alt="Hurley: A High-Performance HTTP Client and Load Testing Tool Engineered in Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/hurley-http-client-load-testing-rust" target="_blank">Hurley: A High-Performance HTTP Client and Load Testing Tool Engineered in Rust</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-20 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +213,6 @@
                 <span class="time">2026-02-20 13:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-PHY-Changes" target="_blank">Linux 7.0 Brings Apple Type-C PHY, Snapdragon X2 &amp; Rockchip HDMI 2.1 FRL Additions</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-20 13:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/micro_bio_jsc2019e039825_orig-1280x853.jpg" alt="ISS Experiment Reveals the Secret Ingredient for Asteroid Mining: Microbes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/iss-experiment-reveals-the-secret-ingredient-for-asteroid-mining-microbes-2000724479" target="_blank">ISS Experiment Reveals the Secret Ingredient for Asteroid Mining: Microbes</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-20 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/2020_Nissan_Versa_SV_1.6L_front_2.29.20-scaled.jpg?fit=2560%2C1423&amp;quality=60&amp;ssl=1" alt="2026 the first year in U.S. with no new car priced under $20,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/20/cars.html" target="_blank">2026 the first year in U.S. with no new car priced under $20,000</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-20 15:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2020/04/rocket-launching-from-spaceX_800.jpg?fit=800%2C533&amp;quality=60&amp;ssl=1" alt="SpaceX rockets caught spreading metal pollution" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +286,6 @@
                 <span class="time">2026-02-20 14:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/02/85e59a86263ce3500919f50676650669-1280x720.jpg" alt="What To Expect From The Big 30th Anniversary Pokémon Day Presents Showcase" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-presents-where-when-to-watch-generation-10-switch-2000671968" target="_blank">What To Expect From The Big 30th Anniversary Pokémon Day Presents Showcase</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-20 14:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/peter-claffey_aknightoftheseven-1280x853.jpg" alt="‘A Knight of the Seven Kingdoms’ Is a Ratings Slam Dunk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-knight-of-the-seven-kingdoms-is-a-ratings-slam-dunk-2000724302" target="_blank">‘A Knight of the Seven Kingdoms’ Is a Ratings Slam Dunk</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-20 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 15:11 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 16:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
