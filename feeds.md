@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-20 05:22:17 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-02-20 06:14:31 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, February 20, 2026 - 05:22 UTC</div>
+    <div class="newspaper-date">Friday, February 20, 2026 - 06:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/epstein-feb-19_1771559955681_hpMain_4x3t_384.jpg" alt="Victims to settle case against Epstein&#x27;s longtime attorney, accountant: Documents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/victims-settle-case-epsteins-longtime-attorney-accountant-documents/story?id=130325546" target="_blank">Victims to settle case against Epstein&#x27;s longtime attorney, accountant: Documents</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-20 04:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +101,20 @@
                 <span class="time">2026-02-20 01:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771544808820_nn_rsa_former_prince_andrew_arrested_in_uk_260219_1920x1080-fx8zlh.jpg" alt="Former Prince Andrew arrested in UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/former-prince-andrew-arrested-in-uk-257996357775" target="_blank">Former Prince Andrew arrested in UK</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-19 23:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/19/ali-partovis-neo-looks-to-upend-the-accelerator-model-with-low-dilution-terms/" target="_blank">Ali Partovi’s Neo looks to upend the accelerator model with low-dilution terms</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-20 06:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/699781fa05969c276cc09a0f/master/pass/pol-epstein-virginislands-2252159204.jpg" alt="Jeffrey Epstein’s Ties to CBP Agents Sparked a DOJ Probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +160,20 @@
                 <span class="time">2026-02-19 22:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/881678/ring-doorbell-bounty-amazon-servers-fulu" target="_blank">A $10K+ bounty is waiting for anyone who can unplug Ring doorbells from Amazon&amp;#8217;s cloud</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-19 22:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/02/20/even-genai-uses-wikipedia-as-a-source/" target="_blank">Even GenAI uses Wikipedia as a source</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-02-20 08:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +219,6 @@
                 <span class="time">2026-02-20 01:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-february-20-2026-red-hat" target="_blank">Friday Five — February 20, 2026</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-02-20 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/young-elephant-seals-1280x853.jpg" alt="Worst-Case Climate Scenario Would Irreversibly Damage Antarctica, Scientists Warn" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/worst-case-climate-scenario-would-irreversibly-damage-antarctica-scientists-warn-2000724095" target="_blank">Worst-Case Climate Scenario Would Irreversibly Damage Antarctica, Scientists Warn</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-20 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/Pitt-Cruise-fight-scene-1280x720.jpg" alt="Here’s Why Some People Think The Viral AI Fight Between Tom Cruise And Brad Pitt Was Kind Of A Scam" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +292,6 @@
                 <span class="time">2026-02-20 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHVXC9AJAX4XBJRCJ3MGVEKF/hero-image.jpg" alt="Microsoft Is Now Testing a &#x27;Built-In&#x27; Network Speed Test Tool in Windows 11" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/microsoft-is-now-testing-a-built-in-network-speed-test-tool-in-windows?utm_medium=RSS" target="_blank">Microsoft Is Now Testing a &#x27;Built-In&#x27; Network Speed Test Tool in Windows 11</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-19 23:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 05:22 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 06:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
