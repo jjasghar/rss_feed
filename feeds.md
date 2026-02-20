@@ -1,29 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-20 02:54:28 UTC -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-02-20 03:45:48 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, February 20, 2026 - 02:54 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, February 20, 2026 - 03:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,6 +65,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/lincoln-3-ht-gmh-260219_1771518315218_hpMain_4x3t_384.jpg" alt="Trump considering initial limited strike against Iran, source says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-initial-limited-strike-iran-source/story?id=130319679" target="_blank">Trump considering initial limited strike against Iran, source says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-20 01:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -84,20 +100,20 @@
                 <span class="time">2026-02-19 23:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/2/19/is-social-media-addictive?traffic_source=rss" target="_blank">Is social media addictive?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-19 22:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/699781fa05969c276cc09a0f/master/pass/pol-epstein-virginislands-2252159204.jpg" alt="Jeffrey Epstein’s Ties to CBP Agents Sparked a DOJ Probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/jeffrey-epstein-cbp-agents-us-virgin-islands/" target="_blank">Jeffrey Epstein’s Ties to CBP Agents Sparked a DOJ Probe</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-20 03:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6997615d1de09c4f7b1971f3/master/pass/$10K-Bounty-for-Anyone-Who-Hacks-Ring-Cameras-to-Stop-Sharing-Data-With-Amazon-Gear-2237940132.jpg" alt="A $10K Bounty Awaits Anyone Who Can Hack Ring Cameras to Stop Sharing Data With Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,20 +159,38 @@
                 <span class="time">2026-02-19 22:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/19/second-and-last-chance-for-innovators-to-win-scaling-perks-belden-extends-nomination-window/" target="_blank">Second and last chance for innovators to win scaling perks: Belden extends nomination window</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-19 21:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/" target="_blank">An AI Agent Published a Hit Piece on Me – The Operator Came Forward</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-20 03:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/java-26-so-far/en/headerimage/java-istock-image-01-1771538935227.jpg" alt="JDK 26 and JDK 27: What We Know So Far" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/java-26-so-far/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">JDK 26 and JDK 27: What We Know So Far</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-20 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Vulkan-1.4.344-Released" target="_blank">Vulkan 1.4.344 Released With New Extension From Valve</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-20 01:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,33 +218,6 @@
                 <span class="time">2026-02-19 23:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/bleachbit-logo-on-graphic.jpg?resize=406%2C232&amp;ssl=1" alt="BleachBit 5.1.0 Beta adds cookie manager and expert mode" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/bleachbit-beta-cookie-manager-expert-mode" target="_blank">BleachBit 5.1.0 Beta adds cookie manager and expert mode</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-19 23:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/asrar_khan/fundamentals-of-adk-learning-path-499h" target="_blank">Fundamentals of ADK Learning Path</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-19 22:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.04-OpenJDK-25" target="_blank">Ubuntu 26.04 LTS Moving To OpenJDK 25 By Default</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-19 21:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/Pitt-Cruise-fight-scene-1280x720.jpg" alt="Here’s Why Some People Think The Viral AI Fight Between Tom Cruise And Brad Pitt Was Kind Of A Scam" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tom-cruise-brad-pitt-ai-fight-scene-video-debunked-2000671486" target="_blank">Here’s Why Some People Think The Viral AI Fight Between Tom Cruise And Brad Pitt Was Kind Of A Scam</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-20 02:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/01/1dc6923c384afd18fda43a99e153a907-1024x576.jpg" alt="New Research Shows AI Agents Are Running Wild Online, With Few Guardrails in Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +291,6 @@
                 <span class="time">2026-02-19 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/0_Meme-depicting-JD-Vance-as-bald.jpg?fit=810%2C539&amp;quality=60&amp;ssl=1" alt="JD Vance gets zero laughs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/19/jd-vance-gets-zero-laughs.html" target="_blank">JD Vance gets zero laughs</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-19 22:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 02:54 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 03:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
