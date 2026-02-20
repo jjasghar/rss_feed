@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-20 13:23:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-20 14:12:48 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, February 20, 2026 - 13:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, February 20, 2026 - 14:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771589891887_tdy_news_7a_raf_prince_andrew_released_260220_1920x1080-vylus9.jpg" alt="Police Search Former Prince Andrew&#x27;s Residence Amid Arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/former-prince-andrew-released-from-custody-following-arrest-258021445914" target="_blank">Police Search Former Prince Andrew&#x27;s Residence Amid Arrest</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-20 12:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +104,29 @@
                 <span class="time">2026-02-20 08:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-austria-grossglockner_7169991.jpg?20260220093417" alt="Climber found guilty after girlfriend froze to death on mountain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/climber-found-guilty-after-girlfriend-froze-to-death-on-austrias-highest-mountain-13509859" target="_blank">Climber found guilty after girlfriend froze to death on mountain</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-20 08:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/20/openai-says-18-to-24-year-olds-account-for-nearly-50-of-chatgpt-usage-in-india/" target="_blank">OpenAI says 18 to 24-year-olds account for nearly 50% of ChatGPT usage in India</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-20 13:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/689c1c24d52c902d7452e853/master/pass/Grinders%20Are%20the%20New%20Frontier%20in%20Coffee.%20Here%20Are%20the%206%20Best.png" alt="Your Coffee Grinder Is as Important as Your Brewer—Here Are the 5 Best We’ve Tested" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-coffee-grinders/" target="_blank">Your Coffee Grinder Is as Important as Your Brewer—Here Are the 5 Best We’ve Tested</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-20 13:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6997ef1e8f610e9882688ee7/master/pass/Review-%20Epilogue%20GB%20Operator.png" alt="Epilogue GB Operator Review: Play Your Game Boy Games on a Laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +163,20 @@
                 <span class="time">2026-02-20 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69977b3aacabb32f3cbd37c7/master/pass/sci-space-data-1648725322.jpg" alt="Could AI Data Centers Be Moved to Outer Space?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/could-we-put-ai-data-centers-in-space/" target="_blank">Could AI Data Centers Be Moved to Outer Space?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-20 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/20/uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-compute-in-india/" target="_blank">UAE’s G42 teams up with Cerebras to deploy 8 exaflops of compute in India</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-20 11:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F85bo2vn9b415heiob08t.png" alt="🏗️ AWS JumpStart desde la mirada de un Cloud Architect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/eesa14/aws-jumpstart-desde-la-mirada-de-un-cloud-architect-185b" target="_blank">🏗️ AWS JumpStart desde la mirada de un Cloud Architect</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-20 14:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -171,6 +184,24 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-PHY-Changes" target="_blank">Linux 7.0 Brings Apple Type-C PHY, Snapdragon X2 &amp; Rockchip HDMI 2.1 FRL Additions</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-20 13:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18885863&w=600" alt="A Unified Defense Against MITRE’s Top Injection Attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/go-safeinput-mitre-injection-defense" target="_blank">A Unified Defense Against MITRE’s Top Injection Attacks</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-20 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/jquery-4-release/en/headerimage/generatedHeaderImage-1771528776515.jpg" alt="jQuery Releases v4: First Major Version in Almost 10 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/jquery-4-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">jQuery Releases v4: First Major Version in Almost 10 Years</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-20 12:30</span>
             </div>
         </div>
 <div class="story">
@@ -191,31 +222,18 @@
                 <span class="time">2026-02-20 12:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/opentelemetry-observability/en/headerimage/generatedHeaderImage-1771070575518.jpg" alt="OpenTelemetry Project Publishes “Demystifying OpenTelemetry” Guide to Broaden Observability Adoption" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/opentelemetry-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenTelemetry Project Publishes “Demystifying OpenTelemetry” Guide to Broaden Observability Adoption</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-20 12:00</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.04-Feature-Freeze" target="_blank">Ubuntu 26.04 Begins Its Feature Freeze</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-20 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vonagedev/mcp-n8n-symfony-new-tutorials-to-kickstart-2026-36nm" target="_blank">MCP, n8n, Symfony: New tutorials to kickstart 2026 🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-20 11:07</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/ring-cancels-its-partnership-with-flock.html" target="_blank">Ring Cancels Its Partnership with Flock</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-02-20 12:08</span>
             </div>
         </div>
 </div>
@@ -223,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2021/07/8036e4feabedd89b59c215617c0da966-1024x574.jpg" alt="New Research Suggests You Actually Want QR Code Menus Replaced by… Augmented Reality?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/new-research-suggests-you-actually-want-qr-code-menus-replaced-by-augmented-reality-2000724318" target="_blank">New Research Suggests You Actually Want QR Code Menus Replaced by… Augmented Reality?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-20 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/02/85e59a86263ce3500919f50676650669-1280x720.jpg" alt="What To Expect From The Big 30th Anniversary Pokémon Day Presents Showcase" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-presents-where-when-to-watch-generation-10-switch-2000671968" target="_blank">What To Expect From The Big 30th Anniversary Pokémon Day Presents Showcase</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-20 14:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/peter-claffey_aknightoftheseven-1280x853.jpg" alt="‘A Knight of the Seven Kingdoms’ Is a Ratings Slam Dunk" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,24 +295,6 @@
                 <span class="time">2026-02-20 01:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/06/ilona-frey-0fIbt4UyJxQ-unsplash-1-e1760545367932.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="These Tiny Bananas Look Like They Came From a Dollhouse Orchard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/19/these-tiny-bananas-look-like-they-came-from-a-dollhouse-orchard.html" target="_blank">These Tiny Bananas Look Like They Came From a Dollhouse Orchard</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-20 00:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/skatepaywall-1280x720.jpg" alt="Skate Charging Players To Return To Tutorial Island Despite Promising No Paywalled Locations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/skate-4-grom-paywall-location-new-map-island-2000671466" target="_blank">Skate Charging Players To Return To Tutorial Island Despite Promising No Paywalled Locations</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-20 00:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 13:23 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 14:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
