@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-20 17:11:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-20 18:08:13 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, February 20, 2026 - 17:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, February 20, 2026 - 18:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c6a/live/bd240eb0-0e77-11f1-9120-a910fc22c6ac.jpg" alt="Government considers removing Andrew from royal line of succession" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1kgv837wvdo?at_medium=RSS&at_campaign=rss" target="_blank">Government considers removing Andrew from royal line of succession</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-20 17:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,6 +83,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771600706328_nbc_spec_scotus_tariffs_260220_1920x1080-d8l1jr.jpg" alt="Supreme Court strikes down most of Trump&#x27;s tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/supreme-court-strikes-down-most-of-trump-s-tariffs-258029125874" target="_blank">Supreme Court strikes down most of Trump&#x27;s tariffs</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-20 15:18</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -83,29 +100,29 @@
                 <span class="time">2026-02-20 13:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771589891887_tdy_news_7a_raf_prince_andrew_released_260220_1920x1080-vylus9.jpg" alt="Police Search Former Prince Andrew&#x27;s Residence Amid Arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/former-prince-andrew-released-from-custody-following-arrest-258021445914" target="_blank">Police Search Former Prince Andrew&#x27;s Residence Amid Arrest</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-20 12:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/20/fifa-and-peace-board-pledge-to-help-gaza-reconstruction-through-football?traffic_source=rss" target="_blank">FIFA and Peace Board pledge to help Gaza reconstruction through football</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-20 11:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/20/ukrainian-man-jailed-for-identity-theft-that-helped-north-koreans-get-jobs-at-us-companies/" target="_blank">Ukrainian man jailed for identity theft  that helped North Koreans get jobs at US companies</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-20 17:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6994edaec3ca16022bd2b3d5/master/pass/Backchannel-Anthropic-vs-Pentagon-Business--2221448096.jpg" alt="AI Safety Meets the War Machine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/" target="_blank">AI Safety Meets the War Machine</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-20 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2261294684-500x500.jpg" alt="Supreme Court blocks Trump&#x27;s emergency tariffs, billions in refunds may be owed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +159,38 @@
                 <span class="time">2026-02-20 13:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6997ef1e8f610e9882688ee7/master/pass/Review-%20Epilogue%20GB%20Operator.png" alt="Epilogue GB Operator Review: Play Your Game Boy Games on a Laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/epilogue-gb-operator/" target="_blank">Epilogue GB Operator Review: Play Your Game Boy Games on a Laptop</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-20 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/881744/meta-smart-glasses-facial-recognition-rayban-privacy-wearables" target="_blank">Meta will ruin its smart glasses by being Meta</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-20 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/02/rudra-gnome-app-launcher-extension.webp?resize=406%2C232&amp;ssl=1" alt="Rudra is a new keyboard-driven launcher for GNOME Shell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/rudra-gnome-keyboard-launcher" target="_blank">Rudra is a new keyboard-driven launcher for GNOME Shell</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-02-20 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18886849&w=600" alt="Amazon Q Developer for AI Infrastructure: Architecting Automated ML Pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/amazon-q-developer-for-ai-infrastructure-ml" target="_blank">Amazon Q Developer for AI Infrastructure: Architecting Automated ML Pipelines</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-20 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/linux-70-amd-epyc-turin" target="_blank">Linux 7.0 Shows Significant PostgreSQL Performance Gains On AMD EPYC</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-20 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foqy6u5ye5ncnnuzu2dce.jpg" alt="I Spent Weeks Building a Clock for Global Stock Market Hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,33 +218,6 @@
                 <span class="time">2026-02-20 14:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F85bo2vn9b415heiob08t.png" alt="🏗️ AWS JumpStart desde la mirada de un Cloud Architect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/eesa14/aws-jumpstart-desde-la-mirada-de-un-cloud-architect-185b" target="_blank">🏗️ AWS JumpStart desde la mirada de un Cloud Architect</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-20 14:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18885877&w=600" alt="Why End-to-End Testing Fails in Microservice Architectures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/end-to-end-testing-fails-microservices" target="_blank">Why End-to-End Testing Fails in Microservice Architectures</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-20 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/ggml-org/llama.cpp/discussions/19759" target="_blank">Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-20 13:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KHXYV6R728C1DZJRKCD7493Y/hero-image.png" alt="Google Chrome Now Has Split View (and Two More New Productivity Features)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-chrome-now-has-split-view-and-two-more-productivity-upgrades?utm_medium=RSS" target="_blank">Google Chrome Now Has Split View (and Two More New Productivity Features)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-20 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/micro_bio_jsc2019e039825_orig-1280x853.jpg" alt="ISS Experiment Reveals the Secret Ingredient for Asteroid Mining: Microbes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +291,6 @@
                 <span class="time">2026-02-20 14:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/nier-automata-1280x720.jpg" alt="Square Enix Teases What Fans Pray Is A New Nier Automata Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nier-automata-3-sequel-square-enix-yoko-taro-2000671960" target="_blank">Square Enix Teases What Fans Pray Is A New Nier Automata Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-20 14:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 17:11 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 18:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
