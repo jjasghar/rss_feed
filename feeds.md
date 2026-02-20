@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-20 12:05:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-20 13:23:34 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, February 20, 2026 - 12:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, February 20, 2026 - 13:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +106,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6997ef1e8f610e9882688ee7/master/pass/Review-%20Epilogue%20GB%20Operator.png" alt="Epilogue GB Operator Review: Play Your Game Boy Games on a Laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/epilogue-gb-operator/" target="_blank">Epilogue GB Operator Review: Play Your Game Boy Games on a Laptop</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-20 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/881744/meta-smart-glasses-facial-recognition-rayban-privacy-wearables" target="_blank">Meta will ruin its smart glasses by being Meta</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-20 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/AI-generated-Harry-Potter-image-via-Microsoft-blog-500x500-1771541382.jpg" alt="Microsoft deletes blog telling users to train AI on pirated Harry Potter books" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/microsoft-removes-guide-on-how-to-train-llms-on-pirated-harry-potter-books/" target="_blank">Microsoft deletes blog telling users to train AI on pirated Harry Potter books</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-20 12:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/HBifCunX0AAeDpk-500x500.jpg" alt="Rocket Report: Chinese launch firm raises big money; Falcon 9 back to the Bahamas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -135,38 +159,29 @@
                 <span class="time">2026-02-20 11:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689c1c24d52c902d7452e853/master/pass/Grinders%20Are%20the%20New%20Frontier%20in%20Coffee.%20Here%20Are%20the%206%20Best.png" alt="Best Coffee Grinders For Espresso and Drip, Machine-Tested (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-coffee-grinders/" target="_blank">Best Coffee Grinders For Espresso and Drip, Machine-Tested (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-20 10:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/" target="_blank">General Catalyst commits $5B to India over five years</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-20 06:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/19/ali-partovis-neo-looks-to-upend-the-accelerator-model-with-low-dilution-terms/" target="_blank">Ali Partovi’s Neo looks to upend the accelerator model with low-dilution terms</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-20 06:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-PHY-Changes" target="_blank">Linux 7.0 Brings Apple Type-C PHY, Snapdragon X2 &amp; Rockchip HDMI 2.1 FRL Additions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-20 13:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.paulox.net/2026/02/20/django-orm-standalone-database-inspectdb-query/" target="_blank">Django ORM Standalone⁽¹⁾: Querying an existing database</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-02-20 12:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4ai8om7t5xe0obt58h3a.png" alt="MLOps Challenges: 7 Production Problems and How to Fix Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/vonagedev/mcp-n8n-symfony-new-tutorials-to-kickstart-2026-36nm" target="_blank">MCP, n8n, Symfony: New tutorials to kickstart 2026 🚀</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-20 11:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KosmicKrisp-2026" target="_blank">Mesa KosmicKrisp Driver Is Coming To iOS, More Performance &amp; Vulkan 1.4 Expected</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-20 10:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aorumbayev/at-makerx-we-built-kagan-a-conductor-for-your-ai-coding-agents-3laj" target="_blank">At MakerX, we built Kagan — a conductor for your AI coding agents</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-20 09:50</span>
             </div>
         </div>
 </div>
@@ -308,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 12:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 13:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
