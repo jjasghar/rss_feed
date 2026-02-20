@@ -1,37 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-02-20 20:03:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-20 21:03:05 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, February 20, 2026 - 20:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, February 20, 2026 - 21:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/20/hungary-to-block-90-billion-euro-eu-loan-to-ukraine-in-russian-oil-dispute?traffic_source=rss" target="_blank">Hungary to block 90 billion euro EU loan to Ukraine in Russian oil dispute</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-20 20:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +92,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1kgv837wvdo?at_medium=RSS&at_campaign=rss" target="_blank">Government considers removing Andrew from royal line of succession</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-20 17:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/20/g-s1-110915/uk-former-prince-andrew-epstein-investigation" target="_blank">Police search former Prince Andrew&#x27;s home a day after his arrest over Epstein ties</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-20 16:51</span>
             </div>
         </div>
 </div>
@@ -166,12 +159,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2ljoh418c2nywhvhykz9.png" alt="Building a Frontend-Friendly Star Wars API with Next.js BFF" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/maiano/building-a-frontend-friendly-star-wars-api-with-nextjs-bff-bjp" target="_blank">Building a Frontend-Friendly Star Wars API with Next.js BFF</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-20 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18888116&w=600" alt="Observability Without Cost Telemetry Is Broken Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/observability-without-cost-telemetry-is-broken" target="_blank">Observability Without Cost Telemetry Is Broken Engineering</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-20 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18887198&w=600" alt="From Command Lines to Intent Interfaces: Reframing Git Workflows Using Model Context Protocol" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/from-command-lines-to-intent-interfaces-reframing-git" target="_blank">From Command Lines to Intent Interfaces: Reframing Git Workflows Using Model Context Protocol</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-20 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Linux-Jobs-February-2026" target="_blank">Intel Hiring More Linux Developers - Including For GPU Drivers / Linux Gaming Stack</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-20 18:49</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +210,6 @@
                 <span class="title"><a href="https://f-droid.org/2026/02/20/twif.html" target="_blank">Keep Android Open</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-20 17:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/02/rudra-gnome-app-launcher-extension.webp?resize=406%2C232&amp;ssl=1" alt="Rudra is a new keyboard-driven launcher for GNOME Shell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/rudra-gnome-keyboard-launcher" target="_blank">Rudra is a new keyboard-driven launcher for GNOME Shell</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-20 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18886849&w=600" alt="Amazon Q Developer for AI Infrastructure: Architecting Automated ML Pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/amazon-q-developer-for-ai-infrastructure-ml" target="_blank">Amazon Q Developer for AI Infrastructure: Architecting Automated ML Pipelines</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-20 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-70-amd-epyc-turin" target="_blank">Linux 7.0 Shows Significant PostgreSQL Performance Gains On AMD EPYC</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-20 15:30</span>
             </div>
         </div>
 </div>
@@ -247,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/xbox-sharma-1280x720.jpg" alt="Xbox’s New Boss Promises Not To Flood It With ‘Soulless AI Slop’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xboxs-new-boss-promises-not-to-flood-it-with-soulless-ai-slop-2000672087" target="_blank">Xbox’s New Boss Promises Not To Flood It With ‘Soulless AI Slop’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-20 20:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Claymore-manga-io9-template-4-A-1280x853.jpg" alt="Read ‘Claymore,’ Manga’s Best-Kept Dark Fantasy Secret" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/read-claymore-mangas-best-kept-dark-fantasy-secret-2000724567" target="_blank">Read ‘Claymore,’ Manga’s Best-Kept Dark Fantasy Secret</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-20 20:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/12/Amazon-AWS-sign-1024x683.jpg" alt="Amazon Reportedly Pins the Blame for AI-Caused Outage on Humans" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,29 +294,20 @@
                 <span class="time">2026-02-20 19:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/8038223d94e481e3d0c2661a45394f5f4042fa0b9264473c334693337b80ae15.jpg" alt="Pokémon FireRed And LeafGreen On Switch Has A Sick Special Edition Most People Can’t Get" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-firered-leafgreen-switch-edition-japan-center-2000672041" target="_blank">Pokémon FireRed And LeafGreen On Switch Has A Sick Special Edition Most People Can’t Get</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-20 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHXZY48PHR841DV0BQE8QXEV/hero-image.png" alt="This 27-Inch LG 4K Monitor Just Dropped to Under $200" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/lg-4k-ultrafine-gaming-monitor-sale-february-2026?utm_medium=RSS" target="_blank">This 27-Inch LG 4K Monitor Just Dropped to Under $200</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-20 18:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/20/royally-flushed" target="_blank">Royally Flushed</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-02-20 19:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1771278703-20260220_edit.png" alt="Saturday Morning Breakfast Cereal - Prime" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -329,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 20:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 21:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
