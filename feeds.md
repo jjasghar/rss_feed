@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-20 19:13:23 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-02-20 20:03:11 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 13 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, February 20, 2026 - 19:13 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, February 20, 2026 - 20:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/20/one-killed-in-israeli-strike-on-largest-palestinian-refugee-camp-in-lebanon?traffic_source=rss" target="_blank">At least two killed in Israeli attack on Palestinian camp in Lebanon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-20 19:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/20/nx-s1-5720826/trump-calls-scotus-tariffs-decision-deeply-disappointing-and-lays-out-path-forward" target="_blank">Trump calls SCOTUS tariffs decision &#x27;deeply disappointing&#x27; and lays out path forward</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-20 19:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-260220_1771611951848_hpMain_4x3t_384.jpg" alt="Trump outlines new plan for tariffs after &#x27;deeply disappointing&#x27; Supreme Court ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-outlines-new-plan-tariffs-after-deeply-disappointing/story?id=130338220" target="_blank">Trump outlines new plan for tariffs after &#x27;deeply disappointing&#x27; Supreme Court ruling</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-20 18:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,38 +101,29 @@
                 <span class="time">2026-02-20 16:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/supreme-court-gty-jt-260220_1771602273483_hpMain_4x3t_384.jpg" alt="Supreme Court invalidates most of Trump&#x27;s tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/supreme-court-invalidates-trumps-tariffs/story?id=129036085" target="_blank">Supreme Court invalidates most of Trump&#x27;s tariffs</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-20 16:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f90b/live/b382ce60-0e76-11f1-9acc-6bf6c7adf476.jpg" alt="Tariffs ruling is major blow to Trump&#x27;s second-term agenda" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2jqgdn719o?at_medium=RSS&at_campaign=rss" target="_blank">Tariffs ruling is major blow to Trump&#x27;s second-term agenda</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-20 16:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771600706328_nbc_spec_scotus_tariffs_260220_1920x1080-d8l1jr.jpg" alt="Supreme Court strikes down most of Trump&#x27;s tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/supreme-court-strikes-down-most-of-trump-s-tariffs-258029125874" target="_blank">Supreme Court strikes down most of Trump&#x27;s tariffs</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-20 15:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/815676/sony-playstation-dualsense-edge-controller-refurbished-deal-sale" target="_blank">You can save $30 on Sony’s DualSense Edge controller by buying refurbished</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-20 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2236807442-500x500.jpg" alt="Controversial NIH director now in charge of CDC, too, in RFK Jr. shake-up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/02/with-nih-in-chaos-its-controversial-director-is-taking-over-cdc-too/" target="_blank">Controversial NIH director now in charge of CDC, too, in RFK Jr. shake-up</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-20 19:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/wikipedia-500x500-1771611341.jpg" alt="Wikipedia blacklists Archive.today, starts removing 695,000 archive links" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +160,20 @@
                 <span class="time">2026-02-20 18:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/20/ukrainian-man-jailed-for-identity-theft-that-helped-north-koreans-get-jobs-at-us-companies/" target="_blank">Ukrainian man jailed for identity theft  that helped North Koreans get jobs at US companies</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-20 17:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6994edaec3ca16022bd2b3d5/master/pass/Backchannel-Anthropic-vs-Pentagon-Business--2221448096.jpg" alt="AI Safety Meets the War Machine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/" target="_blank">AI Safety Meets the War Machine</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-20 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18887198&w=600" alt="From Command Lines to Intent Interfaces: Reframing Git Workflows Using Model Context Protocol" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/from-command-lines-to-intent-interfaces-reframing-git" target="_blank">From Command Lines to Intent Interfaces: Reframing Git Workflows Using Model Context Protocol</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-20 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/02/openai-frontier-agent-platform/en/headerimage/openai-frontier-platform-1771606906402.jpg" alt="OpenAI Launches Frontier, a Platform to Build, Deploy, and Manage AI Agents Across the Enterprise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,20 +219,20 @@
                 <span class="time">2026-02-20 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foqy6u5ye5ncnnuzu2dce.jpg" alt="I Spent Weeks Building a Clock for Global Stock Market Hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hnevkop/i-spent-weeks-building-a-clock-for-global-stock-market-hours-2b8g" target="_blank">I Spent Weeks Building a Clock for Global Stock Market Hours</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-20 15:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/" target="_blank">‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-02-20 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -234,6 +247,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/12/Amazon-AWS-sign-1024x683.jpg" alt="Amazon Reportedly Pins the Blame for AI-Caused Outage on Humans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/amazon-reportedly-pins-the-blame-for-ai-caused-outage-on-humans-2000724681" target="_blank">Amazon Reportedly Pins the Blame for AI-Caused Outage on Humans</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-20 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/05/949455d36a49e00c4f36058909cbffa2-1280x720.jpg" alt="PlayStation Fans Are Furious And They’re Taking It Out On Marathon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/playstation-fans-mad-marathon-bluepoint-boycott-ps5-bungie-2000672040" target="_blank">PlayStation Fans Are Furious And They’re Taking It Out On Marathon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-20 19:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/SpaceX-e1771614791610.png?fit=768%2C435&amp;quality=55&amp;ssl=1" alt="Saudi cash fuels Musk&#x27;s next frontier" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/20/saudi-cash-fuels-musks-next-frontier.html" target="_blank">Saudi cash fuels Musk&#x27;s next frontier</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-20 19:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/starbase-feb-6-2026-1280x853.jpg" alt="Elon Musk’s Dusty Texas Town Needs Some Law and Order" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -253,39 +293,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHXYV6R728C1DZJRKCD7493Y/hero-image.png" alt="Google Chrome Now Has Split View (and Two More New Productivity Features)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://lifehacker.com/imagery/articles/01KHXZY48PHR841DV0BQE8QXEV/hero-image.png" alt="This 27-Inch LG 4K Monitor Just Dropped to Under $200" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-chrome-now-has-split-view-and-two-more-productivity-upgrades?utm_medium=RSS" target="_blank">Google Chrome Now Has Split View (and Two More New Productivity Features)</a></span>
+                <span class="title"><a href="https://lifehacker.com/tech/lg-4k-ultrafine-gaming-monitor-sale-february-2026?utm_medium=RSS" target="_blank">This 27-Inch LG 4K Monitor Just Dropped to Under $200</a></span>
                 <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-20 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/micro_bio_jsc2019e039825_orig-1280x853.jpg" alt="ISS Experiment Reveals the Secret Ingredient for Asteroid Mining: Microbes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/iss-experiment-reveals-the-secret-ingredient-for-asteroid-mining-microbes-2000724479" target="_blank">ISS Experiment Reveals the Secret Ingredient for Asteroid Mining: Microbes</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-20 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHXSKWWYE920PRBZMSCP5Z5Z/hero-image.jpg" alt="WhatsApp Now Lets You Share Group Message History With New Members" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/whatsapp-now-lets-you-share-group-message-history-with-new-members?utm_medium=RSS" target="_blank">WhatsApp Now Lets You Share Group Message History With New Members</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-20 16:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/04/ca86d289e7ac3ef0b304360ca1c737c4-1280x720.jpg" alt="Supreme Court Strikes Down Trump Tariffs That Hiked Prices On Switch, Xbox, And PS5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/supreme-court-strikes-down-trump-tariffs-that-hiked-prices-on-switch-xbox-and-ps5-2000671987" target="_blank">Supreme Court Strikes Down Trump Tariffs That Hiked Prices On Switch, Xbox, And PS5</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-20 15:45</span>
+                <span class="time">2026-02-20 18:34</span>
             </div>
         </div>
 </div>
@@ -316,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 19:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 20:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
