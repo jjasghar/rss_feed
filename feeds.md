@@ -1,27 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-02-20 01:30:56 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-02-20 02:54:28 UTC -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 19 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, February 20, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, February 20, 2026 - 02:54 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/20/north-koreas-kim-jong-un-launches-key-party-congress-held-every-5-years?traffic_source=rss" target="_blank">North Korea’s Kim Jong Un launches key party congress held every 5 years</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-20 02:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/19/nx-s1-5711458/union-uaw-volkswagen-tennessee-contract-vote" target="_blank">In a historic vote, Tennessee Volkswagen workers get their first union contract</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-20 02:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,24 +91,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/2/19/is-social-media-addictive?traffic_source=rss" target="_blank">Is social media addictive?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-19 22:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dda/live/59fa27b0-0dc9-11f1-96d8-dbf82d6fb674.jpg" alt="Andrew released under investigation after arrest on suspicion of misconduct in public office" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx28yel4811o?at_medium=RSS&at_campaign=rss" target="_blank">Andrew released under investigation after arrest on suspicion of misconduct in public office</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-19 21:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/19/us-trade-deficit-swells-in-december-as-imports-surge?traffic_source=rss" target="_blank">US trade deficit swells in December as imports surge</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-19 21:00</span>
             </div>
         </div>
 </div>
@@ -167,10 +169,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-february-20-2026-red-hat" target="_blank">Friday Five — February 20, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-02-20 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://notes.hella.cheap/a-introductory-video-tutorial-for-candyfloss.html" target="_blank">Using candyfloss to do neural net inference</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-02-19 23:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/bleachbit-logo-on-graphic.jpg?resize=406%2C232&amp;ssl=1" alt="BleachBit 5.1.0 Beta adds cookie manager and expert mode" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/bleachbit-beta-cookie-manager-expert-mode" target="_blank">BleachBit 5.1.0 Beta adds cookie manager and expert mode</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-02-19 23:21</span>
             </div>
         </div>
 <div class="story">
@@ -189,24 +209,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.04-OpenJDK-25" target="_blank">Ubuntu 26.04 LTS Moving To OpenJDK 25 By Default</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-19 21:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhwj04xoc2z6qmojd26x.jpg" alt="Encodings: Por Qué Importan Más de lo Que Crees" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fromchiapasdev/encodings-por-que-importan-mas-de-lo-que-crees-41a5" target="_blank">Encodings: Por Qué Importan Más de lo Que Crees</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-19 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18885870&w=600" alt="From Prompts to Platforms: Scaling Agentic AI (Part 2)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/from-prompts-to-platforms-scaling-agentic-ai-part" target="_blank">From Prompts to Platforms: Scaling Agentic AI (Part 2)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-19 20:00</span>
             </div>
         </div>
 </div>
@@ -229,12 +231,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/01/1dc6923c384afd18fda43a99e153a907-1024x576.jpg" alt="New Research Shows AI Agents Are Running Wild Online, With Few Guardrails in Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/new-research-shows-ai-agents-are-running-wild-online-with-few-guardrails-in-place-2000724181" target="_blank">New Research Shows AI Agents Are Running Wild Online, With Few Guardrails in Place</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-20 01:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/skatepaywall-1280x720.jpg" alt="Skate Charging Players To Return To Tutorial Island Despite Promising No Paywalled Locations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/skate-4-grom-paywall-location-new-map-island-2000671466" target="_blank">Skate Charging Players To Return To Tutorial Island Despite Promising No Paywalled Locations</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-20 00:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KHVZDAVD0TAN6H7PS72TK8VY/hero-image.png" alt="Rumors Suggest Apple and Meta Are Betting Big on AI Wearables" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/rumors-suggest-apple-and-meta-are-betting-big-on-ai-wearables?utm_medium=RSS" target="_blank">Rumors Suggest Apple and Meta Are Betting Big on AI Wearables</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-20 00:00</span>
             </div>
         </div>
 <div class="story">
@@ -264,24 +284,6 @@
                 <span class="time">2026-02-19 22:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/image-243-1280x720.jpg" alt="Meta’s Virtual Reality App Ditching VR To Make A Roblox Clone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/metas-virtual-reality-app-ditching-vr-to-make-a-roblox-clone-2000671434" target="_blank">Meta’s Virtual Reality App Ditching VR To Make A Roblox Clone</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-19 22:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHVS2XKWGQGY676C8ADR2S3V/hero-image.jpg" alt="Google Maps Now Makes You Log In to See These Key Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-maps-hidden-features-when-logged-out?utm_medium=RSS" target="_blank">Google Maps Now Makes You Log In to See These Key Features</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-19 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,22 +307,13 @@
                 <span class="time">2026-02-19 05:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5768.png" alt="The Dumbest Gender" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5768" target="_blank">The Dumbest Gender</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-02-19 02:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 02:54 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
