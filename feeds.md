@@ -1,29 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-02-20 00:07:20 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-20 01:30:56 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: InfoQ -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Generated 6 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, February 20, 2026 - 00:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, February 20, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +37,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/19/nx-s1-5719870/nasa-starliner-boeing-mishap-isaacman" target="_blank">NASA chief blasts Boeing, space agency for failed Starliner astronaut mission</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-20 01:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771544808820_nn_rsa_former_prince_andrew_arrested_in_uk_260219_1920x1080-fx8zlh.jpg" alt="Former Prince Andrew arrested in UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/former-prince-andrew-arrested-in-uk-257996357775" target="_blank">Former Prince Andrew arrested in UK</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-19 23:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,29 +91,29 @@
                 <span class="time">2026-02-19 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/andrew-5-rt-gmh-260219_1771532673926_hpMain_4x3t_384.jpg" alt="Andrew Mountbatten-Windsor released after arrest on suspicion of misconduct" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/british-police-arrest-andrew-mountbatten-windsor-suspicion-misconduct/story?id=130292161" target="_blank">Andrew Mountbatten-Windsor released after arrest on suspicion of misconduct</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-19 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/19/kenyan-families-demand-return-of-loved-ones-conscripted-by-russian-army?traffic_source=rss" target="_blank">Kenyan families demand return of loved ones recruited into Russian army</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-19 19:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6997615d1de09c4f7b1971f3/master/pass/$10K-Bounty-for-Anyone-Who-Hacks-Ring-Cameras-to-Stop-Sharing-Data-With-Amazon-Gear-2237940132.jpg" alt="A $10K Bounty Awaits Anyone Who Can Hack Ring Cameras to Stop Sharing Data With Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-10k-bounty-awaits-anyone-who-can-hack-ring-cameras-to-stop-sharing-data-with-amazon/" target="_blank">A $10K Bounty Awaits Anyone Who Can Hack Ring Cameras to Stop Sharing Data With Amazon</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-20 01:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/881706/meta-executive-brian-boland-testimony-social-media-addiction-trial" target="_blank">The executive that helped build Meta’s ad machine is trying to expose it</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-19 23:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/02/chatgpt-logo-500x500-1771540056.jpg" alt="Lawsuit: ChatGPT told student he was &quot;meant for greatness&quot;—then came psychosis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,29 +150,20 @@
                 <span class="time">2026-02-19 21:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69960d4dd24ffdc6fd7d60f3/master/pass/MAGAs-Secretive-Members-Only-Club-Business-2243452650.jpg" alt="Donald Trump Jr.’s Private DC Club Has Mysterious Ties to an Ex-Cop With a Controversial Past" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/magas-secretive-members-only-club-is-partly-owned-by-an-ex-cop/" target="_blank">Donald Trump Jr.’s Private DC Club Has Mysterious Ties to an Ex-Cop With a Controversial Past</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-19 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/warlocksigil-500x500-1771526842.png" alt="Diablo II’s new Warlock is a great excuse to revisit a classic game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/02/diablo-iis-new-warlock-is-a-great-excuse-to-revisit-a-classic-game/" target="_blank">Diablo II’s new Warlock is a great excuse to revisit a classic game</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-19 20:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/maurizio_morri_f7f4bd128c/ai-inference-is-becoming-a-memory-engineering-problem-1p2j" target="_blank">AI inference is becoming a memory engineering problem</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-20 01:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +209,6 @@
                 <span class="time">2026-02-19 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/0670c776-9138-4879-aeae-af43635b1555_420x300.png" alt="The Pulse #162: Even fewer middle managers and more flexible teams?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-162-even-fewer-middle-managers" target="_blank">The Pulse #162: Even fewer middle managers and more flexible teams?</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-02-19 19:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +228,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/skatepaywall-1280x720.jpg" alt="Skate Charging Players To Return To Tutorial Island Despite Promising No Paywalled Locations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/skate-4-grom-paywall-location-new-map-island-2000671466" target="_blank">Skate Charging Players To Return To Tutorial Island Despite Promising No Paywalled Locations</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-20 00:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KHVXC9AJAX4XBJRCJ3MGVEKF/hero-image.jpg" alt="Microsoft Is Now Testing a &#x27;Built-In&#x27; Network Speed Test Tool in Windows 11" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +282,6 @@
                 <span class="time">2026-02-19 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHVJ9ZQ85MG5ESKGRCA2XW7M/hero-image.png" alt="You Can Finally Back Up Your Android&#x27;s Local Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/android-backup-settings-local-files?utm_medium=RSS" target="_blank">You Can Finally Back Up Your Android&#x27;s Local Files</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-19 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 00:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
