@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-20 22:02:18 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-20 23:04:58 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Linux.com -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, February 20, 2026 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, February 20, 2026 - 23:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -69,6 +76,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771616032001_now_brk_nobles_trump_criticism_tariff_260220_1920x1080-1i5zze.jpg" alt="Trump sharply criticizes Supreme Court justices he appointed after tariff ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-sharply-criticizes-supreme-court-justices-he-appointed-after-tariff-ruling-258042949759" target="_blank">Trump sharply criticizes Supreme Court justices he appointed after tariff ruling</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-20 19:33</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -86,20 +102,20 @@
                 <span class="time">2026-02-20 18:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/20/nx-s1-5720937/u-s-mens-hockey-slovakia-olympic-gold-medal" target="_blank">The U.S. men&#x27;s hockey team to face Slovakia for a spot in an Olympic gold medal match</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-20 18:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/" target="_blank">The creator economy’s ad revenue problem and India’s AI ambitions</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-20 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/699786699a5911605dfcc86d/master/pass/gear-robotaxi-2220531277.jpg" alt="Government Docs Reveal New Details About Tesla and Waymo Robotaxis’ Human Babysitters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,20 +161,20 @@
                 <span class="time">2026-02-20 18:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/699896cadcb41b61638a0a35/master/pass/sec-dhs-camps-2218830391.jpg" alt="Metadata Exposes Authors of ICE’s ‘Mega’ Detention Center Plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/metadata-exposes-authors-of-ices-mega-detention-center-plans/" target="_blank">Metadata Exposes Authors of ICE’s ‘Mega’ Detention Center Plans</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-20 18:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8uidmqibpsoi5c4be9fu.png" alt="Activity in Wonderland - Distributed Tracing with OpenTelemetry and .NET" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hypertextcoffeepot/activity-in-wonderland-distributed-tracing-with-opentelemetry-and-net-2ehe" target="_blank">Activity in Wonderland - Distributed Tracing with OpenTelemetry and .NET</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-20 22:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2ljoh418c2nywhvhykz9.png" alt="Building a Frontend-Friendly Star Wars API with Next.js BFF" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,15 +220,6 @@
                 <span class="time">2026-02-20 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://f-droid.org/2026/02/20/twif.html" target="_blank">Keep Android Open</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-20 17:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Marvel-Venom-Bryan-Hitch-1280x853.jpg" alt="Venom’s Cinematic Future Is a Brand New Animated Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/venom-animated-movie-sony-marvel-2000724847" target="_blank">Venom’s Cinematic Future Is a Brand New Animated Movie</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-20 22:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/fbi-1-e1771622949615.jpeg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="A nose for justice: the FBI&#x27;s tech-sniffing dog" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/20/a-nose-for-justice-the-fbis-tech-sniffing-dog.html" target="_blank">A nose for justice: the FBI&#x27;s tech-sniffing dog</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-20 21:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/xbox-sharma-1280x720.jpg" alt="Xbox’s New Boss Promises Not To Flood It With ‘Soulless AI Slop’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +300,6 @@
                 <span class="title"><a href="https://kotaku.com/playstation-fans-mad-marathon-bluepoint-boycott-ps5-bungie-2000672040" target="_blank">PlayStation Fans Are Furious And They’re Taking It Out On Marathon</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-20 19:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/SpaceX-e1771614791610.png?fit=768%2C435&amp;quality=55&amp;ssl=1" alt="Saudi cash fuels Musk&#x27;s next frontier" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/20/saudi-cash-fuels-musks-next-frontier.html" target="_blank">Saudi cash fuels Musk&#x27;s next frontier</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-20 19:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/starbase-feb-6-2026-1280x853.jpg" alt="Elon Musk’s Dusty Texas Town Needs Some Law and Order" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musks-dusty-texas-town-needs-some-law-and-order-2000724611" target="_blank">Elon Musk’s Dusty Texas Town Needs Some Law and Order</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-20 19:10</span>
             </div>
         </div>
 </div>
@@ -341,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 23:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
