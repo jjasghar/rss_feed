@@ -1,30 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-20 21:03:05 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-20 22:02:18 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, February 20, 2026 - 21:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, February 20, 2026 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/20/can-trump-still-impose-tariffs-after-the-supreme-court-ruling?traffic_source=rss" target="_blank">Can Trump still impose tariffs after the Supreme Court ruling?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-20 21:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +95,29 @@
                 <span class="time">2026-02-20 18:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c6a/live/bd240eb0-0e77-11f1-9120-a910fc22c6ac.jpg" alt="Government considers removing Andrew from royal line of succession" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1kgv837wvdo?at_medium=RSS&at_campaign=rss" target="_blank">Government considers removing Andrew from royal line of succession</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-20 17:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/699786699a5911605dfcc86d/master/pass/gear-robotaxi-2220531277.jpg" alt="Government Docs Reveal New Details About Tesla and Waymo Robotaxis’ Human Babysitters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/government-docs-reveal-new-details-about-tesla-and-waymo-robotaxi-programs/" target="_blank">Government Docs Reveal New Details About Tesla and Waymo Robotaxis’ Human Babysitters</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-20 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out" target="_blank">Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-20 21:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,24 +152,6 @@
                 <span class="title"><a href="https://www.wired.com/story/metadata-exposes-authors-of-ices-mega-detention-center-plans/" target="_blank">Metadata Exposes Authors of ICE’s ‘Mega’ Detention Center Plans</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-20 18:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/" target="_blank">Great news for xAI: Grok is now pretty good at answering questions about Baldur’s Gate</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-20 18:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/882064/trump-mobile-liberty-mobile-wireless-mvno" target="_blank">Trump Mobile is just Liberty Mobile in gold foil</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-20 18:17</span>
             </div>
         </div>
 </div>
@@ -326,13 +327,22 @@
                 <span class="time">2026-02-20 08:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/eliminating_the_impossible.png" alt="Eliminating the Impossible" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3210/" target="_blank">Eliminating the Impossible</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-02-20 05:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 21:03 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
