@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-20 16:08:16 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-02-20 17:11:16 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, February 20, 2026 - 16:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, February 20, 2026 - 17:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/20/g-s1-110915/uk-former-prince-andrew-epstein-investigation" target="_blank">Police search former Prince Andrew&#x27;s home a day after his arrest over Epstein ties</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-20 16:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/supreme-court-gty-jt-260220_1771602273483_hpMain_4x3t_384.jpg" alt="Supreme Court invalidates most of Trump&#x27;s tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/supreme-court-invalidates-trumps-tariffs/story?id=129036085" target="_blank">Supreme Court invalidates most of Trump&#x27;s tariffs</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-20 16:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f90b/live/b382ce60-0e76-11f1-9acc-6bf6c7adf476.jpg" alt="Tariffs ruling is major blow to Trump&#x27;s second-term agenda" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2jqgdn719o?at_medium=RSS&at_campaign=rss" target="_blank">Tariffs ruling is major blow to Trump&#x27;s second-term agenda</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-20 16:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,33 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/20/fifa-and-peace-board-pledge-to-help-gaza-reconstruction-through-football?traffic_source=rss" target="_blank">FIFA and Peace Board pledge to help Gaza reconstruction through football</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-20 11:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d26/live/cb2c34f0-0e5f-11f1-b048-c9424b2cf5fd.png" alt="Austrian climber found guilty after girlfriend froze to death on mountain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0k1xkllknmo?at_medium=RSS&at_campaign=rss" target="_blank">Austrian climber found guilty after girlfriend froze to death on mountain</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-20 11:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96c8/live/a7090430-0e29-11f1-972a-e9487d3333c4.jpg" alt="Higher tax helped UK government reach record January surplus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c93w4egd3gzo?at_medium=RSS&at_campaign=rss" target="_blank">Higher tax helped UK government reach record January surplus</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-20 11:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/minnesota-ice-1-gty-jef-260219_1771531910431_hpMain_4x3t_384.jpg" alt="Americans oppose tactics ICE is using to enforce immigration laws by 2:1 margin: Poll" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/americans-oppose-tactics-ice-enforce-immigration-laws-21/story?id=130280899" target="_blank">Americans oppose tactics ICE is using to enforce immigration laws by 2:1 margin: Poll</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-20 11:03</span>
             </div>
         </div>
 </div>
@@ -242,6 +248,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KHXSKWWYE920PRBZMSCP5Z5Z/hero-image.jpg" alt="WhatsApp Now Lets You Share Group Message History With New Members" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/whatsapp-now-lets-you-share-group-message-history-with-new-members?utm_medium=RSS" target="_blank">WhatsApp Now Lets You Share Group Message History With New Members</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-20 16:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/04/ca86d289e7ac3ef0b304360ca1c737c4-1280x720.jpg" alt="Supreme Court Strikes Down Trump Tariffs That Hiked Prices On Switch, Xbox, And PS5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/supreme-court-strikes-down-trump-tariffs-that-hiked-prices-on-switch-xbox-and-ps5-2000671987" target="_blank">Supreme Court Strikes Down Trump Tariffs That Hiked Prices On Switch, Xbox, And PS5</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-20 15:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/2020_Nissan_Versa_SV_1.6L_front_2.29.20-scaled.jpg?fit=2560%2C1423&amp;quality=60&amp;ssl=1" alt="2026 the first year in U.S. with no new car priced under $20,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -268,24 +292,6 @@
                 <span class="time">2026-02-20 14:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHW6EGWFX1QRQZDQQCBNZ4KN/hero-image.webp" alt="Meta Is Taking VR Out of &#x27;Horizon Worlds&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/meta-taking-the-vr-out-of-horizon-worlds?utm_medium=RSS" target="_blank">Meta Is Taking VR Out of &#x27;Horizon Worlds&#x27;</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-20 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2021/07/8036e4feabedd89b59c215617c0da966-1024x574.jpg" alt="New Research Suggests You Actually Want QR Code Menus Replaced by… Augmented Reality?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/new-research-suggests-you-actually-want-qr-code-menus-replaced-by-augmented-reality-2000724318" target="_blank">New Research Suggests You Actually Want QR Code Menus Replaced by… Augmented Reality?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-20 14:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -300,22 +306,13 @@
                 <span class="time">2026-02-20 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1771278258-20260219.png" alt="Saturday Morning Breakfast Cereal - Battle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/battle" target="_blank">Saturday Morning Breakfast Cereal - Battle</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-02-19 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 16:08 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 17:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
