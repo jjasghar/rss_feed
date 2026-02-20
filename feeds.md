@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-20 03:45:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-20 04:31:36 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, February 20, 2026 - 03:45 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, February 20, 2026 - 04:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -126,6 +128,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/" target="_blank">Google’s new Gemini Pro model has record benchmark scores — again</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-20 00:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/policy/881706/meta-executive-brian-boland-testimony-social-media-addiction-trial" target="_blank">The executive that helped build Meta’s ad machine is trying to expose it</a></span>
                 <span class="feed">The Verge</span>
@@ -148,15 +159,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/881678/ring-doorbell-bounty-amazon-servers-fulu" target="_blank">A $10K+ bounty is waiting for anyone who can unplug Ring doorbells from Amazon&amp;#8217;s cloud</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-19 22:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/19/fbi-says-atm-jackpotting-attacks-are-on-the-rise-and-netting-hackers-millions-in-stolen-cash/" target="_blank">FBI says ATM ‘jackpotting’ attacks are on the rise, and netting hackers millions in stolen cash</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-19 22:31</span>
             </div>
         </div>
 </div>
@@ -256,6 +258,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/06/ilona-frey-0fIbt4UyJxQ-unsplash-1-e1760545367932.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="These Tiny Bananas Look Like They Came From a Dollhouse Orchard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/19/these-tiny-bananas-look-like-they-came-from-a-dollhouse-orchard.html" target="_blank">These Tiny Bananas Look Like They Came From a Dollhouse Orchard</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-20 00:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/skatepaywall-1280x720.jpg" alt="Skate Charging Players To Return To Tutorial Island Despite Promising No Paywalled Locations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -280,15 +291,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/microsoft-is-now-testing-a-built-in-network-speed-test-tool-in-windows?utm_medium=RSS" target="_blank">Microsoft Is Now Testing a &#x27;Built-In&#x27; Network Speed Test Tool in Windows 11</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-19 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Lord-Miller-4DX-1280x853.jpg" alt="Watch Phil Lord and Chris Miller Get Shaken About for ‘Project Hail Mary’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/watch-phil-lord-and-chris-miller-get-shaken-about-for-project-hail-mary-2000724193" target="_blank">Watch Phil Lord and Chris Miller Get Shaken About for ‘Project Hail Mary’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-19 23:00</span>
             </div>
         </div>
 </div>
@@ -319,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 03:45 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 04:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
