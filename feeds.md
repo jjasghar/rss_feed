@@ -1,45 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-02-19 23:06:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-20 00:07:20 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 37 feeds processed -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, February 19, 2026 - 23:06 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, February 20, 2026 - 00:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/19/macron-and-meloni-clash-over-killing-of-french-far-right-activist-in-lyon?traffic_source=rss" target="_blank">Macron and Meloni clash over killing of French far-right activist in Lyon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-19 23:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -100,20 +93,20 @@
                 <span class="time">2026-02-19 19:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/royals-1-gty-gmh-260219_1771513047054_hpMain_4x3t_384.jpg" alt="Former Prince Andrew&#x27;s arrest a &#x27;threat to the monarchy,&#x27; royal expert says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/News/prince-andrew-arrest-threat-monarchy-royal-expert/story?id=130298267" target="_blank">Former Prince Andrew&#x27;s arrest a &#x27;threat to the monarchy,&#x27; royal expert says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-19 19:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/02/chatgpt-logo-500x500-1771540056.jpg" alt="Lawsuit: ChatGPT told student he was &quot;meant for greatness&quot;—then came psychosis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/before-psychosis-chatgpt-told-man-he-was-an-oracle-new-lawsuit-alleges/" target="_blank">Lawsuit: ChatGPT told student he was &quot;meant for greatness&quot;—then came psychosis</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-19 22:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -121,6 +114,15 @@
                 <span class="title"><a href="https://www.theverge.com/tech/881678/ring-doorbell-bounty-amazon-servers-fulu" target="_blank">A $10K+ bounty is waiting for anyone who can unplug Ring doorbells from Amazon&amp;#8217;s cloud</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-19 22:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/19/fbi-says-atm-jackpotting-attacks-are-on-the-rise-and-netting-hackers-millions-in-stolen-cash/" target="_blank">FBI says ATM ‘jackpotting’ attacks are on the rise, and netting hackers millions in stolen cash</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-19 22:31</span>
             </div>
         </div>
 <div class="story">
@@ -150,29 +152,20 @@
                 <span class="time">2026-02-19 20:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/699502dfc4d411f9d42d67a1/master/pass/Show-Guide-Wonder-Man-Culture-BLE1550_102_prores_11148_SrcSeqFrame_1257_R2.jpg" alt="The 10 Best Shows to Stream Right Now (February 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-best-shows-to-stream-right-now/" target="_blank">The 10 Best Shows to Stream Right Now (February 2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-19 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/881339/after-search-party-backlash-ring-is-still-avoiding-the-bigger-questions" target="_blank">After Search Party backlash, Ring is still avoiding the bigger questions</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-19 19:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://notes.hella.cheap/a-introductory-video-tutorial-for-candyfloss.html" target="_blank">Using candyfloss to do neural net inference</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-02-19 23:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -218,15 +211,6 @@
                 <span class="time">2026-02-19 19:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Turbostat-Linux-7.0" target="_blank">Turbostat With Linux 7.0 Can Report New L2 Cache Statistics</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-19 18:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +230,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KHVXC9AJAX4XBJRCJ3MGVEKF/hero-image.jpg" alt="Microsoft Is Now Testing a &#x27;Built-In&#x27; Network Speed Test Tool in Windows 11" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/microsoft-is-now-testing-a-built-in-network-speed-test-tool-in-windows?utm_medium=RSS" target="_blank">Microsoft Is Now Testing a &#x27;Built-In&#x27; Network Speed Test Tool in Windows 11</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-19 23:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/Lord-Miller-4DX-1280x853.jpg" alt="Watch Phil Lord and Chris Miller Get Shaken About for ‘Project Hail Mary’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +284,6 @@
                 <span class="time">2026-02-19 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHVRY6PHMXXG5Z5SYP5THH65/hero-image.png" alt="Samsung’s Brightest OLED TV Is Now Over $1,000 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-refurbished-oled-tv-deal-february-2026?utm_medium=RSS" target="_blank">Samsung’s Brightest OLED TV Is Now Over $1,000 Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-19 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -338,7 +322,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 23:06 UTC
+        🔄 Last Updated: 00:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
