@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-20 08:08:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-20 09:10:35 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, February 20, 2026 - 08:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, February 20, 2026 - 09:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/20/nx-s1-5720677/israeli-settlers-kill-19-year-old-palestinian-american-officials-and-witnesses-say" target="_blank">Israeli settlers kill 19-year-old Palestinian American, officials and witnesses say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-20 08:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/2/20/is-southern-yemens-next-phase-being-decided-on-the-ground?traffic_source=rss" target="_blank">Is southern Yemen’s next phase being decided on the ground?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-20 08:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/19/nx-s1-5720220/venezuela-approves-amnesty-that-may-release-of-hundreds-detained-for-political-reasons" target="_blank">Venezuela approves amnesty that may release of hundreds detained for political reasons</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-20 03:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/20/north-koreas-kim-jong-un-launches-key-party-congress-held-every-5-years?traffic_source=rss" target="_blank">North Korea’s Kim Jong Un launches key party congress held every 5 years</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-20 02:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/19/nx-s1-5711458/union-uaw-volkswagen-tennessee-contract-vote" target="_blank">In a historic vote, Tennessee Volkswagen workers get their first union contract</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-20 02:19</span>
             </div>
         </div>
 </div>
@@ -166,6 +166,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/albert_nahas_cdc8469a6ae8/eating-healthy-as-a-tech-worker-a-practical-framework-3306" target="_blank">Eating Healthy as a Tech Worker: A Practical Framework</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-20 08:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2026/02/20/even-genai-uses-wikipedia-as-a-source/" target="_blank">Even GenAI uses Wikipedia as a source</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -206,15 +215,6 @@
                 <span class="title"><a href="https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea" target="_blank">MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-20 01:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Vulkan-1.4.344-Released" target="_blank">Vulkan 1.4.344 Released With New Extension From Valve</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-20 01:27</span>
             </div>
         </div>
 </div>
@@ -296,6 +296,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/02/20/royally-flushed" target="_blank">Royally Flushed</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-02-20 08:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1771278258-20260219.png" alt="Saturday Morning Breakfast Cereal - Battle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -309,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 08:08 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 09:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
