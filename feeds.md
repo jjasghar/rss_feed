@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-20 10:08:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-20 11:08:55 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, February 20, 2026 - 10:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, February 20, 2026 - 11:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96c8/live/a7090430-0e29-11f1-972a-e9487d3333c4.jpg" alt="Higher tax helped UK government reach record January surplus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c93w4egd3gzo?at_medium=RSS&at_campaign=rss" target="_blank">Higher tax helped UK government reach record January surplus</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-20 11:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/minnesota-ice-1-gty-jef-260219_1771531910431_hpMain_4x3t_384.jpg" alt="Americans oppose tactics ICE is using to enforce immigration laws by 2:1 margin: Poll" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/americans-oppose-tactics-ice-enforce-immigration-laws-21/story?id=130280899" target="_blank">Americans oppose tactics ICE is using to enforce immigration laws by 2:1 margin: Poll</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-20 11:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/20/manchester-city-vs-newcastle-premier-league-team-news-start-lineups?traffic_source=rss" target="_blank">Manchester City vs Newcastle: Premier League – team news, start, lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-20 10:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,33 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/20/nx-s1-5720667/trump-says-he-doesnt-know-if-aliens-are-real-but-directs-government-to-release-files-on-ufos" target="_blank">Trump says he doesn&#x27;t know if aliens are real but directs government to release files on UFOs</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-20 07:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/20/three-aid-workers-killed-4-wounded-in-rsf-drone-attack-in-sudans-kordofan?traffic_source=rss" target="_blank">Three aid workers killed, 4 wounded in RSF drone attack in Sudan’s Kordofan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-20 06:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/epstein-feb-19_1771559955681_hpMain_4x3t_384.jpg" alt="Victims to settle case against Epstein&#x27;s longtime attorney, accountant: Documents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/victims-settle-case-epsteins-longtime-attorney-accountant-documents/story?id=130325546" target="_blank">Victims to settle case against Epstein&#x27;s longtime attorney, accountant: Documents</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-20 04:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/19/nx-s1-5720220/venezuela-approves-amnesty-that-may-release-of-hundreds-detained-for-political-reasons" target="_blank">Venezuela approves amnesty that may release of hundreds detained for political reasons</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-20 03:33</span>
             </div>
         </div>
 </div>
@@ -166,6 +168,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vonagedev/mcp-n8n-symfony-new-tutorials-to-kickstart-2026-36nm" target="_blank">MCP, n8n, Symfony: New tutorials to kickstart 2026 🚀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-20 11:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KosmicKrisp-2026" target="_blank">Mesa KosmicKrisp Driver Is Coming To iOS, More Performance &amp; Vulkan 1.4 Expected</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-20 10:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aorumbayev/at-makerx-we-built-kagan-a-conductor-for-your-ai-coding-agents-3laj" target="_blank">At MakerX, we built Kagan — a conductor for your AI coding agents</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-20 09:50</span>
@@ -196,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/sashido/agentic-workflows-when-autonomy-pays-off-and-when-it-backfires-27b0" target="_blank">Agentic Workflows: When Autonomy Pays Off and When It Backfires</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-20 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/" target="_blank">An AI Agent Published a Hit Piece on Me – The Operator Came Forward</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-20 03:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/java-26-so-far/en/headerimage/java-istock-image-01-1771538935227.jpg" alt="JDK 26 and JDK 27: What We Know So Far" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/java-26-so-far/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">JDK 26 and JDK 27: What We Know So Far</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-20 02:30</span>
             </div>
         </div>
 </div>
@@ -317,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 10:09 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 11:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
