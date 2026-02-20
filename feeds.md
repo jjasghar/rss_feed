@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-20 06:14:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-20 07:17:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, February 20, 2026 - 06:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, February 20, 2026 - 07:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/20/nx-s1-5720667/trump-says-he-doesnt-know-if-aliens-are-real-but-directs-government-to-release-files-on-ufos" target="_blank">Trump says he doesn&#x27;t know if aliens are real but directs government to release files on UFOs</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-20 07:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/20/three-aid-workers-killed-4-wounded-in-rsf-drone-attack-in-sudans-kordofan?traffic_source=rss" target="_blank">Three aid workers killed, 4 wounded in RSF drone attack in Sudan’s Kordofan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-20 06:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/epstein-feb-19_1771559955681_hpMain_4x3t_384.jpg" alt="Victims to settle case against Epstein&#x27;s longtime attorney, accountant: Documents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,24 +104,6 @@
                 <span class="time">2026-02-20 02:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/lincoln-3-ht-gmh-260219_1771518315218_hpMain_4x3t_384.jpg" alt="Trump considering initial limited strike against Iran, source says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-initial-limited-strike-iran-source/story?id=130319679" target="_blank">Trump considering initial limited strike against Iran, source says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-20 01:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/19/nx-s1-5719870/nasa-starliner-boeing-mishap-isaacman" target="_blank">NASA chief blasts Boeing, space agency for failed Starliner astronaut mission</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-20 01:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,9 +113,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/" target="_blank">General Catalyst commits $5B to India over five years</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-20 06:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/02/19/ali-partovis-neo-looks-to-upend-the-accelerator-model-with-low-dilution-terms/" target="_blank">Ali Partovi’s Neo looks to upend the accelerator model with low-dilution terms</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-20 06:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="H&amp;R Block Coupons and Deals: $50 Off Tax Prep in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hr-block-coupon/" target="_blank">H&amp;R Block Coupons and Deals: $50 Off Tax Prep in 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-20 06:00</span>
             </div>
         </div>
 <div class="story">
@@ -142,24 +163,6 @@
                 <span class="time">2026-02-20 00:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/881706/meta-executive-brian-boland-testimony-social-media-addiction-trial" target="_blank">The executive that helped build Meta’s ad machine is trying to expose it</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-19 23:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/02/chatgpt-logo-500x500-1771540056.jpg" alt="Lawsuit: ChatGPT told student he was &quot;meant for greatness&quot;—then came psychosis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/before-psychosis-chatgpt-told-man-he-was-an-oracle-new-lawsuit-alleges/" target="_blank">Lawsuit: ChatGPT told student he was &quot;meant for greatness&quot;—then came psychosis</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-19 22:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +175,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/02/20/even-genai-uses-wikipedia-as-a-source/" target="_blank">Even GenAI uses Wikipedia as a source</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-02-20 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sashido/agentic-workflows-when-autonomy-pays-off-and-when-it-backfires-27b0" target="_blank">Agentic Workflows: When Autonomy Pays Off and When It Backfires</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-20 07:00</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Vulkan-1.4.344-Released" target="_blank">Vulkan 1.4.344 Released With New Extension From Valve</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-20 01:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maurizio_morri_f7f4bd128c/ai-inference-is-becoming-a-memory-engineering-problem-1p2j" target="_blank">AI inference is becoming a memory engineering problem</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-20 01:20</span>
             </div>
         </div>
 </div>
@@ -311,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 06:14 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 07:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
