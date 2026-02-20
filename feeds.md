@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-20 11:08:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-20 12:05:33 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, February 20, 2026 - 11:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, February 20, 2026 - 12:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/20/fifa-and-peace-board-pledge-to-help-gaza-reconstruction-through-football?traffic_source=rss" target="_blank">FIFA and Peace Board pledge to help Gaza reconstruction through football</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-20 11:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96c8/live/a7090430-0e29-11f1-972a-e9487d3333c4.jpg" alt="Higher tax helped UK government reach record January surplus" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,21 +95,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-austria-grossglockner_7169991.jpg?20260220093417" alt="Climber found guilty after girlfriend froze to death on mountain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/2/20/is-southern-yemens-next-phase-being-decided-on-the-ground?traffic_source=rss" target="_blank">Is southern Yemen’s next phase being decided on the ground?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-20 08:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/20/nx-s1-5720667/trump-says-he-doesnt-know-if-aliens-are-real-but-directs-government-to-release-files-on-ufos" target="_blank">Trump says he doesn&#x27;t know if aliens are real but directs government to release files on UFOs</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-20 07:06</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/climber-found-guilty-after-girlfriend-froze-to-death-on-austrias-highest-mountain-13509859" target="_blank">Climber found guilty after girlfriend froze to death on mountain</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-20 08:30</span>
             </div>
         </div>
 </div>
@@ -105,6 +108,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/HBifCunX0AAeDpk-500x500.jpg" alt="Rocket Report: Chinese launch firm raises big money; Falcon 9 back to the Bahamas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/02/rocket-report-chinese-launch-firm-raises-big-money-falcon-9-back-to-the-bahamas/" target="_blank">Rocket Report: Chinese launch firm raises big money; Falcon 9 back to the Bahamas</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-20 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69977b3aacabb32f3cbd37c7/master/pass/sci-space-data-1648725322.jpg" alt="Could AI Data Centers Be Moved to Outer Space?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/could-we-put-ai-data-centers-in-space/" target="_blank">Could AI Data Centers Be Moved to Outer Space?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-20 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/20/uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-compute-in-india/" target="_blank">UAE’s G42 teams up with Cerebras to deploy 8 exaflops of compute in India</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-20 11:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/689c1c24d52c902d7452e853/master/pass/Grinders%20Are%20the%20New%20Frontier%20in%20Coffee.%20Here%20Are%20the%206%20Best.png" alt="Best Coffee Grinders For Espresso and Drip, Machine-Tested (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -132,38 +162,38 @@
                 <span class="time">2026-02-20 06:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="H&amp;R Block Coupons and Deals: $50 Off Tax Prep in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hr-block-coupon/" target="_blank">H&amp;R Block Coupons and Deals: $50 Off Tax Prep in 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-20 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/699781fa05969c276cc09a0f/master/pass/pol-epstein-virginislands-2252159204.jpg" alt="Jeffrey Epstein’s Ties to CBP Agents Sparked a DOJ Probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/jeffrey-epstein-cbp-agents-us-virgin-islands/" target="_blank">Jeffrey Epstein’s Ties to CBP Agents Sparked a DOJ Probe</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-20 03:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6997615d1de09c4f7b1971f3/master/pass/$10K-Bounty-for-Anyone-Who-Hacks-Ring-Cameras-to-Stop-Sharing-Data-With-Amazon-Gear-2237940132.jpg" alt="A $10K Bounty Awaits Anyone Who Can Hack Ring Cameras to Stop Sharing Data With Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-10k-bounty-awaits-anyone-who-can-hack-ring-cameras-to-stop-sharing-data-with-amazon/" target="_blank">A $10K Bounty Awaits Anyone Who Can Hack Ring Cameras to Stop Sharing Data With Amazon</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-20 01:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4ai8om7t5xe0obt58h3a.png" alt="MLOps Challenges: 7 Production Problems and How to Fix Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/apprecode/mlops-challenges-7-production-problems-and-how-to-fix-them-5goc" target="_blank">MLOps Challenges: 7 Production Problems and How to Fix Them</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-20 12:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/opentelemetry-observability/en/headerimage/generatedHeaderImage-1771070575518.jpg" alt="OpenTelemetry Project Publishes “Demystifying OpenTelemetry” Guide to Broaden Observability Adoption" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/opentelemetry-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenTelemetry Project Publishes “Demystifying OpenTelemetry” Guide to Broaden Observability Adoption</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-20 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.04-Feature-Freeze" target="_blank">Ubuntu 26.04 Begins Its Feature Freeze</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-20 11:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,52 +221,20 @@
                 <span class="time">2026-02-20 09:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/albert_nahas_cdc8469a6ae8/eating-healthy-as-a-tech-worker-a-practical-framework-3306" target="_blank">Eating Healthy as a Tech Worker: A Practical Framework</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-20 08:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/02/20/even-genai-uses-wikipedia-as-a-source/" target="_blank">Even GenAI uses Wikipedia as a source</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-02-20 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sashido/agentic-workflows-when-autonomy-pays-off-and-when-it-backfires-27b0" target="_blank">Agentic Workflows: When Autonomy Pays Off and When It Backfires</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-20 07:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/malicious-ai.html" target="_blank">Malicious AI</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-19 12:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/peter-claffey_aknightoftheseven-1280x853.jpg" alt="‘A Knight of the Seven Kingdoms’ Is a Ratings Slam Dunk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-knight-of-the-seven-kingdoms-is-a-ratings-slam-dunk-2000724302" target="_blank">‘A Knight of the Seven Kingdoms’ Is a Ratings Slam Dunk</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-20 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/young-elephant-seals-1280x853.jpg" alt="Worst-Case Climate Scenario Would Irreversibly Damage Antarctica, Scientists Warn" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +280,6 @@
                 <span class="time">2026-02-20 00:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHVZDAVD0TAN6H7PS72TK8VY/hero-image.png" alt="Rumors Suggest Apple and Meta Are Betting Big on AI Wearables" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/rumors-suggest-apple-and-meta-are-betting-big-on-ai-wearables?utm_medium=RSS" target="_blank">Rumors Suggest Apple and Meta Are Betting Big on AI Wearables</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-20 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 11:09 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 12:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
