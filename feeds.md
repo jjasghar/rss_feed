@@ -1,33 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-02-21 04:28:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-21 05:16:29 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 2 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, February 21, 2026 - 04:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, February 21, 2026 - 05:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/21/brazils-lula-says-maduro-should-face-trial-in-venezuela-not-us?traffic_source=rss" target="_blank">Brazil’s Lula says Maduro should face trial in Venezuela, not US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-21 04:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +104,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss" target="_blank">Trump brings in new 10% tariff as Supreme Court rejects his global import taxes</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-20 23:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/20/us-envoy-suggests-it-would-be-fine-if-israel-expands-across-middle-east?traffic_source=rss" target="_blank">US envoy suggests it would be ‘fine’ if Israel expands across Middle East</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-20 22:40</span>
             </div>
         </div>
 </div>
@@ -165,6 +174,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/caminhodaspedras/when-64kb-was-enough-the-masters-of-assembly-h6o" target="_blank">When 64KB Was Enough: The Masters of Assembly</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-21 04:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/matheus_releaserun/postgresql-vs-mysql-a-2026-production-decision-framework-1hc8" target="_blank">PostgreSQL vs MySQL: A 2026 Production Decision Framework</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-21 04:14</span>
@@ -204,15 +222,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Plasma-6.6-Released-This-Week" target="_blank">KDE Plasma 6.7 Preps More Improvements While Plasma 6.6.1 Fixes Begin Accumulating</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-21 01:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lakshmisravyavedantham/i-built-a-package-manager-for-mcp-servers-in-one-day-lmg" target="_blank">I Built a Package Manager for MCP Servers in One Day</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-20 23:53</span>
             </div>
         </div>
 </div>
@@ -338,22 +347,13 @@
                 <span class="time">2026-02-20 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/eliminating_the_impossible.png" alt="Eliminating the Impossible" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3210/" target="_blank">Eliminating the Impossible</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-02-20 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 04:28 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 05:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
