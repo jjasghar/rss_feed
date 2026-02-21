@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-21 03:42:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-21 04:28:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, February 21, 2026 - 03:42 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, February 21, 2026 - 04:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69991bd058ef4c070f6f80ef/master/pass/2262729719" alt="Trump Imposes New Tariffs to Sidestep Supreme Court Ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/trump-imposes-new-tariffs-following-supreme-court-ruling/" target="_blank">Trump Imposes New Tariffs to Sidestep Supreme Court Ruling</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-21 02:55</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -152,20 +156,29 @@
                 <span class="time">2026-02-20 23:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23769068/best-ebook-readers" target="_blank">The best e-reader to buy right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-20 22:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/matheus_releaserun/postgresql-vs-mysql-a-2026-production-decision-framework-1hc8" target="_blank">PostgreSQL vs MySQL: A 2026 Production Decision Framework</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-21 04:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/super-productivity-android-app/" target="_blank">A Powerful To-Do App for Android That Collects Absolutely None of Your Data</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-21 03:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/ghostty-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Ghostty terminal is finally adding scrollbar support" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/lakshmisravyavedantham/i-built-a-package-manager-for-mcp-servers-in-one-day-lmg" target="_blank">I Built a Package Manager for MCP Servers in One Day</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-20 23:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8uidmqibpsoi5c4be9fu.png" alt="Activity in Wonderland - Distributed Tracing with OpenTelemetry and .NET" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hypertextcoffeepot/activity-in-wonderland-distributed-tracing-with-opentelemetry-and-net-2ehe" target="_blank">Activity in Wonderland - Distributed Tracing with OpenTelemetry and .NET</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-20 22:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2ljoh418c2nywhvhykz9.png" alt="Building a Frontend-Friendly Star Wars API with Next.js BFF" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maiano/building-a-frontend-friendly-star-wars-api-with-nextjs-bff-bjp" target="_blank">Building a Frontend-Friendly Star Wars API with Next.js BFF</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-20 20:58</span>
             </div>
         </div>
 </div>
@@ -357,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 03:42 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 04:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
