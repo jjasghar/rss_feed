@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-21 20:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-21 21:02:26 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, February 21, 2026 - 20:01 UTC</div>
+    <div class="newspaper-date">Saturday, February 21, 2026 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/21/nx-s1-5721746/mississippi-health-system-ransomware-attack" target="_blank">Mississippi health system shuts down clinics statewide after ransomware attack</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-21 20:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/21/slovakia-threatens-to-cut-electricity-to-ukraine-over-russian-oil-spat?traffic_source=rss" target="_blank">Slovakia threatens to cut electricity to Ukraine over Russian oil spat</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-21 20:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23a3/live/797fa990-0f61-11f1-9120-a910fc22c6ac.jpg" alt="Iran students stage first anti-government protests since deadly crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss" target="_blank">Iran students stage first anti-government protests since deadly crackdown</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-21 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,38 +100,29 @@
                 <span class="time">2026-02-21 17:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260220-Trump-aa-147-3d7b45.jpg" alt="Trump says he will raise new global tariff to 15% after Supreme Court setback" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/trump-raises-global-tariffs-15-percent-trade-supreme-court-decision-rcna260049" target="_blank">Trump says he will raise new global tariff to 15% after Supreme Court setback</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-21 16:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/21/nx-s1-5721761/us-military-airlifts-small-reactor" target="_blank">US military airlifts small reactor as Trump pushes to quickly deploy nuclear power</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-21 15:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/21/russian-attack-on-kharkiv-kills-two-ukraine-hits-missile-plant?traffic_source=rss" target="_blank">Russian attack on Kharkiv kills two, Ukraine hits missile plant</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-21 14:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6998c3349043220668a7e874/master/pass/The%20Best%20Cheap%20Noise-Canceling%20Headphones%20Are%20More%20Affordable%20Than%20Ever.png" alt="Sony’s WH-CH720N headphones offer excellent value at full price, but right now they&#x27;re a steal." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sony-wh-ch720n-deal-february-2026/" target="_blank">Sony’s WH-CH720N headphones offer excellent value at full price, but right now they&#x27;re a steal.</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-21 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/21/wikipedia-blacklists-archive-today-after-alleged-ddos-attack/" target="_blank">Wikipedia blacklists Archive.today after alleged DDoS attack</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-21 20:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,24 +157,6 @@
                 <span class="title"><a href="https://www.theverge.com/games/875259/dropshot-aerial-knight-review-pc-playstation-xbox" target="_blank">Aerial_Knight’s DropShot captures the thrill of skydiving and makes it stylish</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-21 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2183166031-500x500.jpg" alt="Dinosaur eggshells can reveal the age of other fossils" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/02/dinosaur-eggshells-can-reveal-the-age-of-other-fossils/" target="_blank">Dinosaur eggshells can reveal the age of other fossils</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-21 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/699894ba11529118b1e5e00d/master/pass/2254812642" alt="Souvenirs From the 2026 Winter Olympics Are Being Resold for Big Bucks Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gear-from-the-2026-winter-olympics-is-being-resold-for-big-bucks-online/" target="_blank">Souvenirs From the 2026 Winter Olympics Are Being Resold for Big Bucks Online</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-21 12:00</span>
             </div>
         </div>
 </div>
@@ -307,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
