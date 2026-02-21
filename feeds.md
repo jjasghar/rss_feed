@@ -1,42 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-21 17:04:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-21 18:03:06 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 33 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, February 21, 2026 - 17:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, February 21, 2026 - 18:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -59,6 +54,15 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/white-house/trump-raises-global-tariffs-15-percent-trade-supreme-court-decision-rcna260049" target="_blank">Trump says he will raise new global tariff to 15% after Supreme Court setback</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-21 16:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/21/nx-s1-5721761/us-military-airlifts-small-reactor" target="_blank">US military airlifts small reactor as Trump pushes to quickly deploy nuclear power</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-21 15:23</span>
             </div>
         </div>
 <div class="story">
@@ -95,15 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/21/g-s1-110595/from-cubicles-to-kitchens-how-empty-offices-are-becoming-homes" target="_blank">From cubicles to kitchens: How empty offices are becoming homes</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-21 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/21/india-vs-south-africa-t20-world-cup-super-eights-teams-start-lineups?traffic_source=rss" target="_blank">India vs South Africa: T20 World Cup Super Eights – teams, start, lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-21 12:53</span>
             </div>
         </div>
 </div>
@@ -253,6 +248,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/pokemon-charizard-hed-1280x853.jpg" alt="The Original 151 Pokémon and Their History Are Up for Auction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-original-151-pokemon-and-their-history-are-up-for-auction-2000725006" target="_blank">The Original 151 Pokémon and Their History Are Up for Auction</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-21 17:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/AI-generated-Harry-Potter-image-via-Microsoft-blog-1536x864-1771545042.jpg?fit=1536%2C864&amp;quality=60&amp;ssl=1" alt="Microsoft blogger suggests you train AI on pirated Harry Potter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -297,15 +301,6 @@
                 <span class="time">2026-02-20 23:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/dead-1280x720.jpg" alt="That’s It, I’m Calling It, Xbox Is Dead, Time Of Death February 20" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/thats-it-im-calling-it-xbox-is-dead-time-of-death-february-20-2000672114" target="_blank">That’s It, I’m Calling It, Xbox Is Dead, Time Of Death February 20</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-20 23:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -334,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 17:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 18:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
