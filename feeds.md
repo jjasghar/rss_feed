@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-21 00:07:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-21 01:30:32 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, February 21, 2026 - 00:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, February 21, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/21/us-military-says-it-attacked-vessel-in-pacific-ocean-killing-three-people?traffic_source=rss" target="_blank">US military says it attacked vessel in Pacific Ocean, killing three people</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-21 01:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/guthrie-5-gty-gmh-260219_1771510413676_hpMain_4x3t_384.jpg" alt="Nancy Guthrie case may see resources scaled back as leads come up empty: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/nancy-guthrie-kidnapping-probe-resources-scaled-back-leads/story?id=130347929" target="_blank">Nancy Guthrie case may see resources scaled back as leads come up empty: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-21 00:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c962/live/48a8efe0-0eb0-11f1-801d-ed3cff6bf876.jpg" alt="Trump brings in new 10% tariff as Supreme Court rejects his global import taxes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss" target="_blank">Trump brings in new 10% tariff as Supreme Court rejects his global import taxes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-20 23:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +101,29 @@
                 <span class="time">2026-02-20 21:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/20/hungary-to-block-90-billion-euro-eu-loan-to-ukraine-in-russian-oil-dispute?traffic_source=rss" target="_blank">Hungary to block 90 billion euro EU loan to Ukraine in Russian oil dispute</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-20 20:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/20/one-killed-in-israeli-strike-on-largest-palestinian-refugee-camp-in-lebanon?traffic_source=rss" target="_blank">At least two killed in Israeli attack on Palestinian camp in Lebanon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-20 19:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771616032001_now_brk_nobles_trump_criticism_tariff_260220_1920x1080-1i5zze.jpg" alt="Trump sharply criticizes Supreme Court justices he appointed after tariff ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-sharply-criticizes-supreme-court-justices-he-appointed-after-tariff-ruling-258042949759" target="_blank">Trump sharply criticizes Supreme Court justices he appointed after tariff ruling</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-20 19:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/" target="_blank">India’s Sarvam launches Indus AI chat app as competition heats up</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-21 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6998dd8f557d4953e6dd73fe/master/pass/New-Car-Prices-Gear--2255530950.jpg" alt="The Supreme Court’s Tariff Ruling Won’t Bring Car Prices Back to Earth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-supreme-courts-tariff-ruling-wont-bring-car-prices-back-to-earth/" target="_blank">The Supreme Court’s Tariff Ruling Won’t Bring Car Prices Back to Earth</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-21 00:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6998bf70862552e1c49a5c6c/master/pass/GettyImages-2190593436.jpg" alt="A Galaxy Composed Almost Entirely of Dark Matter Has Been Confirmed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -112,6 +131,15 @@
                 <span class="title"><a href="https://www.wired.com/story/a-galaxy-composed-almost-entirely-of-dark-matter-has-been-confirmed/" target="_blank">A Galaxy Composed Almost Entirely of Dark Matter Has Been Confirmed</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-20 23:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/KSC-20260210-PH-JBS01-0126orig-500x500.jpg" alt="After fueling test, optimism grows for March launch of Artemis II to the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/02/nasa-reports-no-significant-leaks-in-artemis-ii-fueling-test-eyes-march-6-launch/" target="_blank">After fueling test, optimism grows for March launch of Artemis II to the Moon</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-20 23:55</span>
             </div>
         </div>
 <div class="story">
@@ -132,38 +160,20 @@
                 <span class="time">2026-02-20 21:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out" target="_blank">Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-20 21:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/815676/sony-playstation-dualsense-edge-controller-refurbished-deal-sale" target="_blank">You can save $30 on Sony’s DualSense Edge controller by buying refurbished</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-20 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2236807442-500x500.jpg" alt="Controversial NIH director now in charge of CDC, too, in RFK Jr. shake-up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/02/with-nih-in-chaos-its-controversial-director-is-taking-over-cdc-too/" target="_blank">Controversial NIH director now in charge of CDC, too, in RFK Jr. shake-up</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-20 19:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cellrepairai/i-built-4882-self-healing-ai-agents-on-8-gb-vram-heres-the-architecture-2f50" target="_blank">I Built 4,882 Self-Healing AI Agents on 8 GB VRAM — Here&#x27;s the Architecture</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-21 01:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +219,6 @@
                 <span class="time">2026-02-20 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Linux-Jobs-February-2026" target="_blank">Intel Hiring More Linux Developers - Including For GPU Drivers / Linux Gaming Stack</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-20 18:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -256,12 +257,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2020/04/ycruvntoifoirk9omzau-1024x576.jpg" alt="Former Sony Exec Says Obama Called Him After the Big Hack to Trash ‘The Interview’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/former-sony-exec-says-obama-called-him-after-the-big-hack-to-trash-the-interview-2000724727" target="_blank">Former Sony Exec Says Obama Called Him After the Big Hack to Trash ‘The Interview’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-20 23:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/dead-1280x720.jpg" alt="That’s It, I’m Calling It, Xbox Is Dead, Time Of Death February 20" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/thats-it-im-calling-it-xbox-is-dead-time-of-death-february-20-2000672114" target="_blank">That’s It, I’m Calling It, Xbox Is Dead, Time Of Death February 20</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-20 23:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/shutterstock_1942092271.jpg?fit=1200%2C496&amp;quality=60&amp;ssl=1" alt="Reese&#x27;s heir accuses Hershey of cutting corners" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/20/reeses-heir-accuses-hershey-of-cutting-corners.html" target="_blank">Reese&#x27;s heir accuses Hershey of cutting corners</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-20 23:20</span>
             </div>
         </div>
 <div class="story">
@@ -289,24 +308,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/20/a-nose-for-justice-the-fbis-tech-sniffing-dog.html" target="_blank">A nose for justice: the FBI&#x27;s tech-sniffing dog</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-20 21:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/xbox-sharma-1280x720.jpg" alt="Xbox’s New Boss Promises Not To Flood It With ‘Soulless AI Slop’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xboxs-new-boss-promises-not-to-flood-it-with-soulless-ai-slop-2000672087" target="_blank">Xbox’s New Boss Promises Not To Flood It With ‘Soulless AI Slop’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-20 20:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Claymore-manga-io9-template-4-A-1280x853.jpg" alt="Read ‘Claymore,’ Manga’s Best-Kept Dark Fantasy Secret" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/read-claymore-mangas-best-kept-dark-fantasy-secret-2000724567" target="_blank">Read ‘Claymore,’ Manga’s Best-Kept Dark Fantasy Secret</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-20 20:20</span>
             </div>
         </div>
 </div>
@@ -356,7 +357,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 31 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 00:07 UTC
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
