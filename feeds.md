@@ -1,35 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-02-21 08:03:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-21 09:05:15 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 0 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, February 21, 2026 - 08:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, February 21, 2026 - 09:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -336,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 08:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 09:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
