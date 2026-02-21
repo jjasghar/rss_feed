@@ -1,36 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-02-21 21:02:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-21 22:02:05 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, February 21, 2026 - 21:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, February 21, 2026 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,10 +42,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/21/absurd-and-provocative-huckabee-faces-firestorm-for-israel-border-stance?traffic_source=rss" target="_blank">‘Absurd and provocative’: Huckabee faces firestorm for Israel border stance</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-21 21:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/02/21/nx-s1-5721746/mississippi-health-system-ransomware-attack" target="_blank">Mississippi health system shuts down clinics statewide after ransomware attack</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-21 20:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0d4/live/15e28e20-0f52-11f1-9a2a-8fa7cf422a25.jpg" alt="Five taken to hospital after gas explosion at farm" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj983m42enyo?at_medium=RSS&at_campaign=rss" target="_blank">Five taken to hospital after gas explosion at farm</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-21 20:28</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +93,20 @@
                 <span class="time">2026-02-21 19:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-6-rt-gmh-260220_1771613838035_hpMain_4x3t_384.jpg" alt="Trump says he has signed order for new 15% tariff after Supreme Court ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-outlines-new-plan-tariffs-after-deeply-disappointing/story?id=130338220" target="_blank">Trump says he has signed order for new 15% tariff after Supreme Court ruling</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-21 18:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/21/israeli-military-kills-two-in-early-ramadan-strikes-in-gaza?traffic_source=rss" target="_blank">Israeli army kills 2 Palestinians in strikes on Gaza during Ramadan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-21 17:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/882852/arturia-fx-collection-6" target="_blank">Arturia’s FX Collection 6 adds two new effects and a $99 intro version</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-21 21:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6998c3349043220668a7e874/master/pass/The%20Best%20Cheap%20Noise-Canceling%20Headphones%20Are%20More%20Affordable%20Than%20Ever.png" alt="Sony’s WH-CH720N headphones offer excellent value at full price, but right now they&#x27;re a steal." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +152,20 @@
                 <span class="time">2026-02-21 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/875259/dropshot-aerial-knight-review-pc-playstation-xbox" target="_blank">Aerial_Knight’s DropShot captures the thrill of skydiving and makes it stylish</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-21 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.eduke32.com/" target="_blank">EDuke32 – Duke Nukem 3D (Open-Source)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-21 20:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +211,6 @@
                 <span class="time">2026-02-21 13:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-eCryptfs" target="_blank">eCryptfs Sees Renewed Patch Activity With Linux 7.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-21 12:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +230,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/link-1280x726.jpg" alt="The Legend Of Zelda’s Keeps Flirting With Dumping Fantasy For Sci-Fi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/legend-zelda-sci-fi-concept-art-40th-anniversary-2000672580" target="_blank">The Legend Of Zelda’s Keeps Flirting With Dumping Fantasy For Sci-Fi</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-21 21:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/mango.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="This website tells you whether your food is still safe to eat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/21/this-website-tells-you-whether-your-food-is-still-safe-to-eat.html" target="_blank">This website tells you whether your food is still safe to eat</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-21 21:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -273,24 +284,6 @@
                 <span class="time">2026-02-21 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/bests-STEAM-DECK-1280x720.jpg" alt="The Best Steam Deck Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-best-steam-deck-games-ever-megabonk-balatro-vampire-survivors-2000667367" target="_blank">The Best Steam Deck Games</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-21 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHY8FFT9TW11MP3SKTAANQJ4/hero-image.png" alt="AI Could Make Your Next TV More Expensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/why-ai-could-make-tvs-more-expensive?utm_medium=RSS" target="_blank">AI Could Make Your Next TV More Expensive</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-21 01:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
