@@ -1,27 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-21 09:05:15 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-21 10:02:46 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 19 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, February 21, 2026 - 09:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, February 21, 2026 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/21/clashes-in-albania-as-protesters-demand-pm-rama-resign?traffic_source=rss" target="_blank">Clashes in Albania as protesters demand PM Rama resign</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-21 06:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/21/g-s1-110987/supreme-court-tariffs-refunds" target="_blank">After the Supreme Court&#x27;s ruling on tariffs, companies line up for refunds</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-21 06:18</span>
             </div>
         </div>
 <div class="story">
@@ -80,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/21/us-military-says-it-attacked-vessel-in-pacific-ocean-killing-three-people?traffic_source=rss" target="_blank">US military says it attacked vessel in Pacific Ocean, killing three people</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-21 01:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/guthrie-5-gty-gmh-260219_1771510413676_hpMain_4x3t_384.jpg" alt="Nancy Guthrie case may see resources scaled back as leads come up empty: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/nancy-guthrie-kidnapping-probe-resources-scaled-back-leads/story?id=130347929" target="_blank">Nancy Guthrie case may see resources scaled back as leads come up empty: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-21 00:45</span>
             </div>
         </div>
 </div>
@@ -328,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 09:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
