@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-21 18:03:06 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-21 19:06:03 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, February 21, 2026 - 18:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, February 21, 2026 - 19:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/21/israeli-military-kills-two-in-early-ramadan-strikes-in-gaza?traffic_source=rss" target="_blank">Israeli army kills 2 Palestinians in strikes on Gaza during Ramadan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-21 17:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260220-Trump-aa-147-3d7b45.jpg" alt="Trump says he will raise new global tariff to 15% after Supreme Court setback" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +100,20 @@
                 <span class="time">2026-02-21 13:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/21/g-s1-110595/from-cubicles-to-kitchens-how-empty-offices-are-becoming-homes" target="_blank">From cubicles to kitchens: How empty offices are becoming homes</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-21 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/" target="_blank">Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-21 17:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/story/gear-from-the-2026-winter-olympics-is-being-resold-for-big-bucks-online/" target="_blank">Souvenirs From the 2026 Winter Olympics Are Being Resold for Big Bucks Online</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-21 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6998d03f68f921f5e6a08ece/master/pass/sec-pw-managers-2187086214.jpg" alt="Password Managers Share a Hidden Weakness" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/security-news-this-week-password-managers-share-a-hidden-weakness/" target="_blank">Password Managers Share a Hidden Weakness</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-21 11:30</span>
             </div>
         </div>
 </div>
@@ -248,6 +247,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/saints-row-6-reboot-chris-stockman-embracer-2000672582" target="_blank">Original Saints Row Designer Believes The Series Is Dead After Publisher Ghosts Him</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-21 19:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/pokemon-charizard-hed-1280x853.jpg" alt="The Original 151 Pokémon and Their History Are Up for Auction" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -292,15 +300,6 @@
                 <span class="time">2026-02-21 01:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2020/04/ycruvntoifoirk9omzau-1024x576.jpg" alt="Former Sony Exec Says Obama Called Him After the Big Hack to Trash ‘The Interview’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/former-sony-exec-says-obama-called-him-after-the-big-hack-to-trash-the-interview-2000724727" target="_blank">Former Sony Exec Says Obama Called Him After the Big Hack to Trash ‘The Interview’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-20 23:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 18:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 19:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
