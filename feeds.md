@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-21 02:50:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-21 03:42:39 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 21 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, February 21, 2026 - 02:50 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, February 21, 2026 - 03:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/21/trump-jd-vance-vilify-lawless-supreme-court-justices-over-tariff-ruling?traffic_source=rss" target="_blank">Trump, JD Vance vilify ‘lawless’ Supreme Court justices over tariff ruling</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-21 02:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,15 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/20/us-envoy-suggests-it-would-be-fine-if-israel-expands-across-middle-east?traffic_source=rss" target="_blank">US envoy suggests it would be ‘fine’ if Israel expands across Middle East</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-20 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/20/nx-s1-5713927/berlin-film-festival-gaza-politics" target="_blank">In Berlin, there are movies, there&#x27;s politics and there&#x27;s talk about it all</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-20 22:01</span>
             </div>
         </div>
 </div>
@@ -144,12 +153,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/699786699a5911605dfcc86d/master/pass/gear-robotaxi-2220531277.jpg" alt="Government Docs Reveal New Details About Tesla and Waymo Robotaxis’ Human Babysitters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/government-docs-reveal-new-details-about-tesla-and-waymo-robotaxi-programs/" target="_blank">Government Docs Reveal New Details About Tesla and Waymo Robotaxis’ Human Babysitters</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-20 21:53</span>
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23769068/best-ebook-readers" target="_blank">The best e-reader to buy right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-20 22:19</span>
             </div>
         </div>
 </div>
@@ -158,12 +167,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/ghostty-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Ghostty terminal is finally adding scrollbar support" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/ghostty-linux-scrollbars-coming" target="_blank">Ghostty terminal is finally adding scrollbar support</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-02-21 02:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/cellrepairai/i-built-4882-self-healing-ai-agents-on-8-gb-vram-heres-the-architecture-2f50" target="_blank">I Built 4,882 Self-Healing AI Agents on 8 GB VRAM — Here&#x27;s the Architecture</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-21 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Plasma-6.6-Released-This-Week" target="_blank">KDE Plasma 6.7 Preps More Improvements While Plasma 6.6.1 Fixes Begin Accumulating</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-21 01:18</span>
             </div>
         </div>
 <div class="story">
@@ -191,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/maiano/building-a-frontend-friendly-star-wars-api-with-nextjs-bff-bjp" target="_blank">Building a Frontend-Friendly Star Wars API with Next.js BFF</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-20 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18888116&w=600" alt="Observability Without Cost Telemetry Is Broken Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/observability-without-cost-telemetry-is-broken" target="_blank">Observability Without Cost Telemetry Is Broken Engineering</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-20 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18887198&w=600" alt="From Command Lines to Intent Interfaces: Reframing Git Workflows Using Model Context Protocol" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/from-command-lines-to-intent-interfaces-reframing-git" target="_blank">From Command Lines to Intent Interfaces: Reframing Git Workflows Using Model Context Protocol</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-20 19:00</span>
             </div>
         </div>
 </div>
@@ -248,6 +257,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KHY8FFT9TW11MP3SKTAANQJ4/hero-image.png" alt="AI Could Make Your Next TV More Expensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/why-ai-could-make-tvs-more-expensive?utm_medium=RSS" target="_blank">AI Could Make Your Next TV More Expensive</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-21 01:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2020/04/ycruvntoifoirk9omzau-1024x576.jpg" alt="Former Sony Exec Says Obama Called Him After the Big Hack to Trash ‘The Interview’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +309,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-20 21:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/fbi-1-e1771622949615.jpeg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="A nose for justice: the FBI&#x27;s tech-sniffing dog" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/20/a-nose-for-justice-the-fbis-tech-sniffing-dog.html" target="_blank">A nose for justice: the FBI&#x27;s tech-sniffing dog</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-20 21:29</span>
             </div>
         </div>
 </div>
@@ -348,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 02:50 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 03:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
