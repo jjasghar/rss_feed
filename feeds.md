@@ -1,33 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-02-21 12:02:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-21 13:15:39 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, February 21, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, February 21, 2026 - 13:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/21/g-s1-110595/from-cubicles-to-kitchens-how-empty-offices-are-becoming-homes" target="_blank">From cubicles to kitchens: How empty offices are becoming homes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-21 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/21/india-vs-south-africa-t20-world-cup-super-eights-teams-start-lineups?traffic_source=rss" target="_blank">India vs South Africa: T20 World Cup Super Eights – teams, start, lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-21 12:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/snow-nyc_1771673846540_hpMain_4x3t_384.jpg" alt="Over 40 million Americans on alert for winter storm conditions over the weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +94,29 @@
                 <span class="time">2026-02-21 06:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/21/where-are-the-most-endangered-languages-in-the-world?traffic_source=rss" target="_blank">Where are the most endangered languages in the world?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-21 05:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/21/brazils-lula-says-maduro-should-face-trial-in-venezuela-not-us?traffic_source=rss" target="_blank">Brazil’s Lula says Maduro should face trial in Venezuela, not US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-21 04:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2183166031-500x500.jpg" alt="Dinosaur eggshells can reveal the age of other fossils" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/02/dinosaur-eggshells-can-reveal-the-age-of-other-fossils/" target="_blank">Dinosaur eggshells can reveal the age of other fossils</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-21 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/699894ba11529118b1e5e00d/master/pass/2254812642" alt="Souvenirs From the 2026 Winter Olympics Are Being Resold for Big Bucks Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/gear-from-the-2026-winter-olympics-is-being-resold-for-big-bucks-online/" target="_blank">Souvenirs From the 2026 Winter Olympics Are Being Resold for Big Bucks Online</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-21 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6998d03f68f921f5e6a08ece/master/pass/sec-pw-managers-2187086214.jpg" alt="Password Managers Share a Hidden Weakness" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +153,29 @@
                 <span class="time">2026-02-21 08:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69991bd058ef4c070f6f80ef/master/pass/2262729719" alt="Trump Imposes New Tariffs to Sidestep Supreme Court Ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/trump-imposes-new-tariffs-following-supreme-court-ruling/" target="_blank">Trump Imposes New Tariffs to Sidestep Supreme Court Ruling</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-21 02:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/" target="_blank">India’s Sarvam launches Indus AI chat app as competition heats up</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-21 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/irfansatrio/how-dns-works-inside-an-aws-vpc-1jb6" target="_blank">How DNS Works Inside an AWS VPC</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-21 13:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-eCryptfs" target="_blank">eCryptfs Sees Renewed Patch Activity With Linux 7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-21 12:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +212,6 @@
                 <span class="time">2026-02-21 06:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anderecit/from-scrape-to-feed-generating-google-shopping-xml-from-costco-product-data-10ib" target="_blank">From Scrape to Feed: Generating Google Shopping XML from Costco Product Data</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-21 05:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/caminhodaspedras/when-64kb-was-enough-the-masters-of-assembly-h6o" target="_blank">When 64KB Was Enough: The Masters of Assembly</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-21 04:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,20 +235,20 @@
                 <span class="time">2026-02-20 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/ring-cancels-its-partnership-with-flock.html" target="_blank">Ring Cancels Its Partnership with Flock</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-20 12:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/bests-STEAM-DECK-1280x720.jpg" alt="The Best Steam Deck Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-best-steam-deck-games-ever-megabonk-balatro-vampire-survivors-2000667367" target="_blank">The Best Steam Deck Games</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-21 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KHY8FFT9TW11MP3SKTAANQJ4/hero-image.png" alt="AI Could Make Your Next TV More Expensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -297,15 +294,6 @@
                 <span class="time">2026-02-20 22:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-20 21:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -334,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 13:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
