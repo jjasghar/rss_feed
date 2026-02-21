@@ -1,29 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-21 22:02:05 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-21 23:02:44 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, February 21, 2026 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, February 21, 2026 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/21/nx-s1-5722297/federal-communications-commission-fcc-broadcasters-patriotic-250th-anniversary" target="_blank">FCC calls for more &#x27;patriotic, pro-America&#x27; programming in runup to 250th anniversary</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-21 22:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23a3/live/797fa990-0f61-11f1-9120-a910fc22c6ac.jpg" alt="Iran students stage first large anti-government protests since deadly crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss" target="_blank">Iran students stage first large anti-government protests since deadly crackdown</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-21 22:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,24 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/21/slovakia-threatens-to-cut-electricity-to-ukraine-over-russian-oil-spat?traffic_source=rss" target="_blank">Slovakia threatens to cut electricity to Ukraine over Russian oil spat</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-21 20:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23a3/live/797fa990-0f61-11f1-9120-a910fc22c6ac.jpg" alt="Iran students stage first anti-government protests since deadly crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss" target="_blank">Iran students stage first anti-government protests since deadly crackdown</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-21 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/21/nx-s1-5721786/vietnam-veterans-sue-trump-arch" target="_blank">Vietnam Veterans sue to block proposed &#x27;Independence Arch&#x27; near Arlington National Cemetery</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-21 19:27</span>
             </div>
         </div>
 </div>
@@ -158,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc3tfqm8jud1ctsr8taoo.png" alt="Microservices Most Asked Interview Questions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bhu_kalki/microservices-most-asked-interview-questions-46mm" target="_blank">Microservices Most Asked Interview Questions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-21 22:47</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -202,34 +219,20 @@
                 <span class="time">2026-02-21 15:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/irfansatrio/how-dns-works-inside-an-aws-vpc-1jb6" target="_blank">How DNS Works Inside an AWS VPC</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-21 13:09</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-cartoon-3.html" target="_blank">Friday Squid Blogging: Squid Cartoon</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-20 22:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/jimmy-wales-wikipedia-june-11-2025-1280x853.jpg" alt="An Unbothered Jimmy Wales Calls Grokipedia a ‘Cartoon Imitation’ of Wikipedia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070" target="_blank">An Unbothered Jimmy Wales Calls Grokipedia a ‘Cartoon Imitation’ of Wikipedia</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-21 22:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/link-1280x726.jpg" alt="The Legend Of Zelda’s Keeps Flirting With Dumping Fantasy For Sci-Fi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,20 +278,20 @@
                 <span class="time">2026-02-21 16:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/tron-ares-cillian-murphy-1280x853.jpg" alt="‘Tron: Ares’ Concept Art Reveals the Villain That Almost Was" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tron-ares-concept-art-reveals-the-villain-that-almost-was-2000724892" target="_blank">‘Tron: Ares’ Concept Art Reveals the Villain That Almost Was</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-21 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/21/happy-birthday-zelda" target="_blank">Happy Birthday Zelda!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-02-21 21:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1771630604-20260221.png" alt="Saturday Morning Breakfast Cereal - Nantucket" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -303,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
