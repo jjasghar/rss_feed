@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-21 11:02:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-21 12:02:25 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, February 21, 2026 - 11:03 UTC</div>
+    <div class="newspaper-date">Saturday, February 21, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/snow-nyc_1771673846540_hpMain_4x3t_384.jpg" alt="Over 40 million Americans on alert for winter storm conditions over the weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/40-million-americans-alert-winter-storm-conditions-weekend/story?id=130360601" target="_blank">Over 40 million Americans on alert for winter storm conditions over the weekend</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-21 11:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +97,20 @@
                 <span class="time">2026-02-21 04:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/21/trump-jd-vance-vilify-lawless-supreme-court-justices-over-tariff-ruling?traffic_source=rss" target="_blank">Trump, JD Vance vilify ‘lawless’ Supreme Court justices over tariff ruling</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-21 02:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6998d03f68f921f5e6a08ece/master/pass/sec-pw-managers-2187086214.jpg" alt="Password Managers Share a Hidden Weakness" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/security-news-this-week-password-managers-share-a-hidden-weakness/" target="_blank">Password Managers Share a Hidden Weakness</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-21 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69985c551bb3fd606fdca391/master/pass/1.png" alt="You Can Now Install—and Update—Microsoft Store Apps Using the Command Line" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -110,6 +118,15 @@
                 <span class="title"><a href="https://www.wired.com/story/install-and-update-microsoft-store-apps-using-the-command-line-in-windows/" target="_blank">You Can Now Install—and Update—Microsoft Store Apps Using the Command Line</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-21 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1" target="_blank">Anker’s X1 Pro shouldn’t exist, but I’m so glad it does</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-21 08:00</span>
             </div>
         </div>
 <div class="story">
@@ -139,24 +156,6 @@
                 <span class="time">2026-02-21 01:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6998dd8f557d4953e6dd73fe/master/pass/New-Car-Prices-Gear--2255530950.jpg" alt="The Supreme Court’s Tariff Ruling Won’t Bring Car Prices Back to Earth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-supreme-courts-tariff-ruling-wont-bring-car-prices-back-to-earth/" target="_blank">The Supreme Court’s Tariff Ruling Won’t Bring Car Prices Back to Earth</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-21 00:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6998bf70862552e1c49a5c6c/master/pass/GettyImages-2190593436.jpg" alt="A Galaxy Composed Almost Entirely of Dark Matter Has Been Confirmed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-galaxy-composed-almost-entirely-of-dark-matter-has-been-confirmed/" target="_blank">A Galaxy Composed Almost Entirely of Dark Matter Has Been Confirmed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-20 23:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +168,15 @@
                 <span class="title"><a href="https://dev.to/mackmoneymaker/automate-website-thumbnails-for-your-link-aggregator-or-directory-c7l" target="_blank">Automate Website Thumbnails for Your Link Aggregator or Directory</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-21 10:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/aws-lambda-rds-trigger-events/en/headerimage/generatedHeaderImage-1770984533554.jpg" alt="AWS Enables Lambda Function Triggers from RDS for SQL Server Database Events" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/aws-lambda-rds-trigger-events/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Enables Lambda Function Triggers from RDS for SQL Server Database Events</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-21 10:33</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/caminhodaspedras/when-64kb-was-enough-the-masters-of-assembly-h6o" target="_blank">When 64KB Was Enough: The Masters of Assembly</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-21 04:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/matheus_releaserun/postgresql-vs-mysql-a-2026-production-decision-framework-1hc8" target="_blank">PostgreSQL vs MySQL: A 2026 Production Decision Framework</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-21 04:14</span>
             </div>
         </div>
 </div>
@@ -335,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 11:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
