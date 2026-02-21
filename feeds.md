@@ -1,44 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-21 06:08:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-21 07:10:23 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 35 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, February 21, 2026 - 06:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, February 21, 2026 - 07:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/21/clashes-in-albania-as-protesters-demand-pm-rama-resign?traffic_source=rss" target="_blank">Clashes in Albania as protesters demand PM Rama resign</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-21 06:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,15 +102,6 @@
                 <span class="title"><a href="https://abcnews.com/US/nancy-guthrie-kidnapping-probe-resources-scaled-back-leads/story?id=130347929" target="_blank">Nancy Guthrie case may see resources scaled back as leads come up empty: Sources</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-21 00:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771632582215_nn_lja_trump_tariff_260220_1920x1080-qmcxt6.jpg" alt="Trump vows 10% global tariff after Supreme Court ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-vows-10-global-tariff-after-supreme-court-ruling-258059333541" target="_blank">Trump vows 10% global tariff after Supreme Court ruling</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-21 00:09</span>
             </div>
         </div>
 </div>
@@ -176,6 +172,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/john_wade_dev/when-one-model-reviews-its-own-work-the-case-for-adversarial-cross-model-review-37k1" target="_blank">When One Model Reviews Its Own Work: The Case for Adversarial Cross-Model Review</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-21 07:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/cloudflare-local-uploads/en/headerimage/generatedHeaderImage-1770742917849.jpg" alt="Cloudflare Introduces Local Uploads for R2 to Cut Cross-Region Write Latency by 75%" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/cloudflare-local-uploads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Introduces Local Uploads for R2 to Cut Cross-Region Write Latency by 75%</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-21 06:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/anderecit/from-scrape-to-feed-generating-google-shopping-xml-from-costco-product-data-10ib" target="_blank">From Scrape to Feed: Generating Google Shopping XML from Costco Product Data</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-21 05:43</span>
@@ -206,24 +220,6 @@
                 <span class="title"><a href="https://itsfoss.com/super-productivity-android-app/" target="_blank">A Powerful To-Do App for Android That Collects Absolutely None of Your Data</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-02-21 03:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/ghostty-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Ghostty terminal is finally adding scrollbar support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/ghostty-linux-scrollbars-coming" target="_blank">Ghostty terminal is finally adding scrollbar support</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-21 02:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cellrepairai/i-built-4882-self-healing-ai-agents-on-8-gb-vram-heres-the-architecture-2f50" target="_blank">I Built 4,882 Self-Healing AI Agents on 8 GB VRAM — Here&#x27;s the Architecture</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-21 01:21</span>
             </div>
         </div>
 </div>
@@ -354,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 06:08 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 07:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
