@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-21 10:02:46 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-21 11:02:58 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, February 21, 2026 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, February 21, 2026 - 11:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/2/21/live-pakistan-vs-new-zealand-t20-world-cup-super-eights?traffic_source=rss" target="_blank">LIVE: Pakistan vs New Zealand – T20 World Cup Super Eights</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-21 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +98,20 @@
                 <span class="time">2026-02-21 02:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/21/us-military-says-it-attacked-vessel-in-pacific-ocean-killing-three-people?traffic_source=rss" target="_blank">US military says it attacked vessel in Pacific Ocean, killing three people</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-21 01:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69985c551bb3fd606fdca391/master/pass/1.png" alt="You Can Now Install—and Update—Microsoft Store Apps Using the Command Line" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/install-and-update-microsoft-store-apps-using-the-command-line-in-windows/" target="_blank">You Can Now Install—and Update—Microsoft Store Apps Using the Command Line</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-21 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +157,20 @@
                 <span class="time">2026-02-20 23:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/KSC-20260210-PH-JBS01-0126orig-500x500.jpg" alt="After fueling test, optimism grows for March launch of Artemis II to the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/02/nasa-reports-no-significant-leaks-in-artemis-ii-fueling-test-eyes-march-6-launch/" target="_blank">After fueling test, optimism grows for March launch of Artemis II to the Moon</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-20 23:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mackmoneymaker/automate-website-thumbnails-for-your-link-aggregator-or-directory-c7l" target="_blank">Automate Website Thumbnails for Your Link Aggregator or Directory</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-21 10:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/matheus_releaserun/postgresql-vs-mysql-a-2026-production-decision-framework-1hc8" target="_blank">PostgreSQL vs MySQL: A 2026 Production Decision Framework</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-21 04:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/super-productivity-android-app/" target="_blank">A Powerful To-Do App for Android That Collects Absolutely None of Your Data</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-21 03:39</span>
             </div>
         </div>
 </div>
@@ -335,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 11:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
