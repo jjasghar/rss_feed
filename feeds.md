@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-20 23:04:58 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-02-21 00:07:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, February 20, 2026 - 23:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, February 21, 2026 - 00:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/20/us-envoy-suggests-it-would-be-fine-if-israel-expands-across-middle-east?traffic_source=rss" target="_blank">US envoy suggests it would be ‘fine’ if Israel expands across Middle East</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-20 22:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/20/nx-s1-5713927/berlin-film-festival-gaza-politics" target="_blank">In Berlin, there are movies, there&#x27;s politics and there&#x27;s talk about it all</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-20 22:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +100,20 @@
                 <span class="time">2026-02-20 19:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/20/nx-s1-5720826/trump-calls-scotus-tariffs-decision-deeply-disappointing-and-lays-out-path-forward" target="_blank">Trump calls SCOTUS tariffs decision &#x27;deeply disappointing&#x27; and lays out path forward</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-20 19:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-260220_1771611951848_hpMain_4x3t_384.jpg" alt="Trump outlines new plan for tariffs after &#x27;deeply disappointing&#x27; Supreme Court ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-outlines-new-plan-tariffs-after-deeply-disappointing/story?id=130338220" target="_blank">Trump outlines new plan for tariffs after &#x27;deeply disappointing&#x27; Supreme Court ruling</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-20 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6998bf70862552e1c49a5c6c/master/pass/GettyImages-2190593436.jpg" alt="A Galaxy Composed Almost Entirely of Dark Matter Has Been Confirmed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-galaxy-composed-almost-entirely-of-dark-matter-has-been-confirmed/" target="_blank">A Galaxy Composed Almost Entirely of Dark Matter Has Been Confirmed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-20 23:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +159,20 @@
                 <span class="time">2026-02-20 19:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/wikipedia-500x500-1771611341.jpg" alt="Wikipedia blacklists Archive.today, starts removing 695,000 archive links" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/" target="_blank">Wikipedia blacklists Archive.today, starts removing 695,000 archive links</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-20 18:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lakshmisravyavedantham/i-built-a-package-manager-for-mcp-servers-in-one-day-lmg" target="_blank">I Built a Package Manager for MCP Servers in One Day</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-20 23:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8uidmqibpsoi5c4be9fu.png" alt="Activity in Wonderland - Distributed Tracing with OpenTelemetry and .NET" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,20 +218,20 @@
                 <span class="time">2026-02-20 18:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/openai-frontier-agent-platform/en/headerimage/openai-frontier-platform-1771606906402.jpg" alt="OpenAI Launches Frontier, a Platform to Build, Deploy, and Manage AI Agents Across the Enterprise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/openai-frontier-agent-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Launches Frontier, a Platform to Build, Deploy, and Manage AI Agents Across the Enterprise</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-20 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-cartoon-3.html" target="_blank">Friday Squid Blogging: Squid Cartoon</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-02-20 22:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -249,12 +256,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/dead-1280x720.jpg" alt="That’s It, I’m Calling It, Xbox Is Dead, Time Of Death February 20" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/thats-it-im-calling-it-xbox-is-dead-time-of-death-february-20-2000672114" target="_blank">That’s It, I’m Calling It, Xbox Is Dead, Time Of Death February 20</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-20 23:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/Marvel-Venom-Bryan-Hitch-1280x853.jpg" alt="Venom’s Cinematic Future Is a Brand New Animated Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/venom-animated-movie-sony-marvel-2000724847" target="_blank">Venom’s Cinematic Future Is a Brand New Animated Movie</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-20 22:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-20 21:37</span>
             </div>
         </div>
 <div class="story">
@@ -282,24 +307,6 @@
                 <span class="title"><a href="https://gizmodo.com/read-claymore-mangas-best-kept-dark-fantasy-secret-2000724567" target="_blank">Read ‘Claymore,’ Manga’s Best-Kept Dark Fantasy Secret</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-20 20:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/12/Amazon-AWS-sign-1024x683.jpg" alt="Amazon Reportedly Pins the Blame for AI-Caused Outage on Humans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/amazon-reportedly-pins-the-blame-for-ai-caused-outage-on-humans-2000724681" target="_blank">Amazon Reportedly Pins the Blame for AI-Caused Outage on Humans</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-20 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/05/949455d36a49e00c4f36058909cbffa2-1280x720.jpg" alt="PlayStation Fans Are Furious And They’re Taking It Out On Marathon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/playstation-fans-mad-marathon-bluepoint-boycott-ps5-bungie-2000672040" target="_blank">PlayStation Fans Are Furious And They’re Taking It Out On Marathon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-20 19:26</span>
             </div>
         </div>
 </div>
@@ -348,8 +355,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 23:05 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 00:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
