@@ -1,33 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-02-21 16:02:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-21 17:04:28 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 10 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, February 21, 2026 - 16:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, February 21, 2026 - 17:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260220-Trump-aa-147-3d7b45.jpg" alt="Trump says he will raise new global tariff to 15% after Supreme Court setback" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/trump-raises-global-tariffs-15-percent-trade-supreme-court-decision-rcna260049" target="_blank">Trump says he will raise new global tariff to 15% after Supreme Court setback</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-21 16:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +106,20 @@
                 <span class="time">2026-02-21 12:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/snow-nyc_1771673846540_hpMain_4x3t_384.jpg" alt="Over 40 million Americans on alert for winter storm conditions over the weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/40-million-americans-alert-winter-storm-conditions-weekend/story?id=130360601" target="_blank">Over 40 million Americans on alert for winter storm conditions over the weekend</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-21 11:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud" target="_blank">Georgia says Elon Musk’s America PAC violated election law</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-21 16:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +165,38 @@
                 <span class="time">2026-02-21 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69985c551bb3fd606fdca391/master/pass/1.png" alt="You Can Now Install—and Update—Microsoft Store Apps Using the Command Line" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/install-and-update-microsoft-store-apps-using-the-command-line-in-windows/" target="_blank">You Can Now Install—and Update—Microsoft Store Apps Using the Command Line</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-21 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/matheus_releaserun/ssh-and-scp-in-2026-configuration-security-hardening-and-advanced-tips-8nm" target="_blank">SSH and SCP in 2026: Configuration, Security Hardening, and Advanced Tips</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-21 16:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/typescript-6-released-beta/en/headerimage/generatedHeaderImage-1771679207417.jpg" alt="TypeScript 6 Released: Developers Invited to Upgrade to Prepare for the Go Rewrite" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/typescript-6-released-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">TypeScript 6 Released: Developers Invited to Upgrade to Prepare for the Go Rewrite</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-21 15:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/dpdani/cereggii" target="_blank">cereggii: Thread synchronization utilities for Python</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-02-21 15:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/02/openai-harness-engineering-codex/en/headerimage/generatedHeaderImage-1771569933195.jpg" alt="OpenAI Introduces Harness Engineering: Codex Agents Power Large‑Scale Software Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -186,33 +222,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-eCryptfs" target="_blank">eCryptfs Sees Renewed Patch Activity With Linux 7.0</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-21 12:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mackmoneymaker/automate-website-thumbnails-for-your-link-aggregator-or-directory-c7l" target="_blank">Automate Website Thumbnails for Your Link Aggregator or Directory</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-21 10:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/aws-lambda-rds-trigger-events/en/headerimage/generatedHeaderImage-1770984533554.jpg" alt="AWS Enables Lambda Function Triggers from RDS for SQL Server Database Events" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/aws-lambda-rds-trigger-events/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Enables Lambda Function Triggers from RDS for SQL Server Database Events</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-21 10:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/" target="_blank">I Verified My LinkedIn Identity. Here&#x27;s What I Handed Over</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-21 07:06</span>
             </div>
         </div>
 </div>
@@ -243,6 +252,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/AI-generated-Harry-Potter-image-via-Microsoft-blog-1536x864-1771545042.jpg?fit=1536%2C864&amp;quality=60&amp;ssl=1" alt="Microsoft blogger suggests you train AI on pirated Harry Potter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/21/microsoft-blogger-suggests-you-train-ai-on-pirated-harry-potter.html" target="_blank">Microsoft blogger suggests you train AI on pirated Harry Potter</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-21 16:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/tron-ares-cillian-murphy-1280x853.jpg" alt="‘Tron: Ares’ Concept Art Reveals the Villain That Almost Was" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,20 +306,20 @@
                 <span class="time">2026-02-20 23:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/shutterstock_1942092271.jpg?fit=1200%2C496&amp;quality=60&amp;ssl=1" alt="Reese&#x27;s heir accuses Hershey of cutting corners" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/20/reeses-heir-accuses-hershey-of-cutting-corners.html" target="_blank">Reese&#x27;s heir accuses Hershey of cutting corners</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-20 23:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1771630604-20260221.png" alt="Saturday Morning Breakfast Cereal - Nantucket" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/nantucket" target="_blank">Saturday Morning Breakfast Cereal - Nantucket</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-02-21 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -311,22 +329,13 @@
                 <span class="time">2026-02-20 19:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1771278703-20260220_edit.png" alt="Saturday Morning Breakfast Cereal - Prime" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/prime-2" target="_blank">Saturday Morning Breakfast Cereal - Prime</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-02-20 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 16:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 17:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
