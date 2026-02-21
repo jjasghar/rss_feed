@@ -1,42 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-02-21 05:16:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-21 06:08:22 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 33 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, February 21, 2026 - 05:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, February 21, 2026 - 06:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/21/where-are-the-most-endangered-languages-in-the-world?traffic_source=rss" target="_blank">Where are the most endangered languages in the world?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-21 05:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,15 +106,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-vows-10-global-tariff-after-supreme-court-ruling-258059333541" target="_blank">Trump vows 10% global tariff after Supreme Court ruling</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-21 00:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c962/live/48a8efe0-0eb0-11f1-801d-ed3cff6bf876.jpg" alt="Trump brings in new 10% tariff as Supreme Court rejects his global import taxes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss" target="_blank">Trump brings in new 10% tariff as Supreme Court rejects his global import taxes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-20 23:55</span>
             </div>
         </div>
 </div>
@@ -174,6 +176,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anderecit/from-scrape-to-feed-generating-google-shopping-xml-from-costco-product-data-10ib" target="_blank">From Scrape to Feed: Generating Google Shopping XML from Costco Product Data</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-21 05:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/caminhodaspedras/when-64kb-was-enough-the-masters-of-assembly-h6o" target="_blank">When 64KB Was Enough: The Masters of Assembly</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-21 04:57</span>
@@ -213,15 +224,6 @@
                 <span class="title"><a href="https://dev.to/cellrepairai/i-built-4882-self-healing-ai-agents-on-8-gb-vram-heres-the-architecture-2f50" target="_blank">I Built 4,882 Self-Healing AI Agents on 8 GB VRAM — Here&#x27;s the Architecture</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-21 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Plasma-6.6-Released-This-Week" target="_blank">KDE Plasma 6.7 Preps More Improvements While Plasma 6.6.1 Fixes Begin Accumulating</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-21 01:18</span>
             </div>
         </div>
 </div>
@@ -352,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 05:16 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 06:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
