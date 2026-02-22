@@ -1,31 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-22 04:32:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-22 05:22:38 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, February 22, 2026 - 04:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, February 22, 2026 - 05:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -60,6 +69,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-razan-virtual-reality_7170374.png?20260220171114" alt="&#x27;She started to forget, little by little&#x27;: Virtual reality offers escape to Gaza&#x27;s children" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/the-nightmares-still-come-back-inside-gaza-city-a-virtual-reality-escape-for-the-children-caught-in-war-13510034" target="_blank">&#x27;She started to forget, little by little&#x27;: Virtual reality offers escape to Gaza&#x27;s children</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-22 00:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -84,15 +102,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss" target="_blank">Iran students stage first large anti-government protests since deadly crackdown</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-21 22:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/21/absurd-and-provocative-huckabee-faces-firestorm-for-israel-border-stance?traffic_source=rss" target="_blank">‘Absurd and provocative’: Huckabee faces firestorm for Israel border stance</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-21 21:31</span>
             </div>
         </div>
 </div>
@@ -160,12 +169,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sonic001h/i-built-a-lightweight-cli-log-analyzer-in-python-while-learning-heres-what-i-learned-p7e" target="_blank">I built a lightweight CLI log analyzer in Python while learning — here’s what I learned</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-22 05:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1tg7xzmlx0ng54n8izaj.png" alt="日期、货币和单位的标准化" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rabia_khatun_04d70408d71f/ri-qi-huo-bi-he-dan-wei-de-biao-zhun-hua-2id7" target="_blank">日期、货币和单位的标准化</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-22 04:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/linux-seasoned-admins-bundle/" target="_blank">Serious About Learning Linux? Get 15 O&amp;#x27;Reilly Linux and DevOps eBooks for Under $25</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-22 03:51</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +222,6 @@
                 <span class="time">2026-02-22 01:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Rust-1.95-Prep" target="_blank">Linux 7.0 Makes Preparations For Rust 1.95</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-22 01:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://boristane.com/blog/how-i-use-claude-code/" target="_blank">How I use Claude Code: Separation of planning and execution</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-22 00:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -234,6 +243,15 @@
                 <span class="title"><a href="https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070" target="_blank">An Unbothered Jimmy Wales Calls Grokipedia a ‘Cartoon Imitation’ of Wikipedia</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-21 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/link-1280x726.jpg" alt="The Legend Of Zelda Keeps Flirting With Dumping Fantasy For Sci-Fi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/legend-zelda-sci-fi-concept-art-40th-anniversary-2000672580" target="_blank">The Legend Of Zelda Keeps Flirting With Dumping Fantasy For Sci-Fi</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-21 21:59</span>
             </div>
         </div>
 <div class="story">
@@ -261,15 +279,6 @@
                 <span class="title"><a href="https://kotaku.com/saints-row-6-reboot-chris-stockman-embracer-2000672582" target="_blank">Original Saints Row Designer Believes The Series Is Dead After Publisher Ghosts Him</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-21 19:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/pokemon-charizard-hed-1280x853.jpg" alt="The Original 151 Pokémon and Their History Are Up for Auction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-original-151-pokemon-and-their-history-are-up-for-auction-2000725006" target="_blank">The Original 151 Pokémon and Their History Are Up for Auction</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-21 17:25</span>
             </div>
         </div>
 </div>
@@ -300,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 04:33 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 05:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
