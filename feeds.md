@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-22 11:03:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-22 12:02:29 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, February 22, 2026 - 11:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, February 22, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/2/22/uefa-and-fifa-may-get-a-red-card-at-the-icc-for-ignoring-israeli-violations?traffic_source=rss" target="_blank">UEFA and FIFA may get a red card at the ICC for ignoring Israeli violations</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-22 11:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0e5/live/136c4aa0-0fd9-11f1-960c-add00f2a4c6f.jpg" alt="&#x27;Effective&#x27; SEND support won&#x27;t be taken away, minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +101,20 @@
                 <span class="time">2026-02-22 07:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-11-gty-gmh-260220_1771615313249_hpMain_4x3t_384.jpg" alt="Most Americans disapprove of Trump; don&#x27;t trust Dems in Congress more: Poll" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/americans-disapprove-trump-issues-americans-dont-trust-dems/story?id=130346647" target="_blank">Most Americans disapprove of Trump; don&#x27;t trust Dems in Congress more: Poll</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-22 05:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/22/the-9000-pound-monster-i-dont-want-to-give-back/" target="_blank">The 9,000-pound monster I don’t want to give back</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-22 10:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/689bd2171585083b1b64223e/master/pass/What%20Is%20Creatine,%20and%20Should%20You%20Be%20Taking%20It_.png" alt="Creatine Supplements Are Everywhere. Do I Need Them? (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,15 +158,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/882852/arturia-fx-collection-6" target="_blank">Arturia’s FX Collection 6 adds two new effects and a $99 intro version</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-21 21:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6998c3349043220668a7e874/master/pass/The%20Best%20Cheap%20Noise-Canceling%20Headphones%20Are%20More%20Affordable%20Than%20Ever.png" alt="Sony’s WH-CH720N headphones offer excellent value at full price, but right now they&#x27;re a steal." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sony-wh-ch720n-deal-february-2026/" target="_blank">Sony’s WH-CH720N headphones offer excellent value at full price, but right now they&#x27;re a steal.</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-21 20:30</span>
             </div>
         </div>
 </div>
@@ -309,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 11:03 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
