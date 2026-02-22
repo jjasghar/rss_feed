@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-22 20:02:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-22 21:03:06 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, February 22, 2026 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, February 22, 2026 - 21:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/AP26025839055918_1771730939113_hpMain_4x3t_384.jpg" alt="Severe winter storm live updates: &#x27;The worst is yet to come,&#x27; NY Gov. Hochul says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/live-updates/severe-winter-storm-live-updates-northeast-braces-blizzard/?id=130378101" target="_blank">Severe winter storm live updates: &#x27;The worst is yet to come,&#x27; NY Gov. Hochul says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-22 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/22/syria-moves-out-last-residents-of-isil-linked-desert-camp?traffic_source=rss" target="_blank">Syria moves out last residents of ISIL-linked desert camp</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-22 20:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a550/live/c7902e10-1002-11f1-909d-47e99fcb7a58.jpg" alt="Armed man killed after entering secure perimeter of Trump&#x27;s residence, Secret Service says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,24 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/22/us-envoy-huckabee-tries-to-deny-saying-he-would-support-israel-expansionism?traffic_source=rss" target="_blank">US envoy Huckabee tries to deny saying he would support Israel expansionism</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-22 16:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/22/nx-s1-5722854/pakistan-border-strikes-afghanistan-70-killed" target="_blank">Pakistan claims to have killed at least 70 militants in strikes along Afghan border</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-22 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/mar-a-laro-1-ap-gmh-260222_1771769625065_hpMain_4x3t_384.jpg" alt="Man shot, killed by Secret Service outside of Mar-a-Lago, agency says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/man-shot-killed-secret-service-local-deputy-mar/story?id=130384030" target="_blank">Man shot, killed by Secret Service outside of Mar-a-Lago, agency says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-22 15:41</span>
             </div>
         </div>
 </div>
@@ -166,6 +171,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/victoraguilarc/6-openclaw-en-macmini-mantenimiento-2089" target="_blank">6. OpenClaw en MacMini, Mantenimiento.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-22 20:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/GNU-Gawk-5.4-Released" target="_blank">GNU Gawk 5.4 Released With New MinRX Regex Matcher, Faster Reading Of Files</a></span>
                 <span class="feed">Phoronix</span>
@@ -208,20 +222,29 @@
                 <span class="time">2026-02-22 13:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://susam.net/attention-media-vs-social-networks.html" target="_blank">Attention Media ≠ Social Networks</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-22 12:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/11/BrendanCarrr-1024x683.jpg" alt="Trump’s FCC Chair Wants Networks to Run Nationalistic Content and Pledge Loyalty for America’s Big Bday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trumps-fcc-chair-wants-networks-to-run-nationalistic-content-and-pledge-loyalty-for-americas-big-bday-2000725152" target="_blank">Trump’s FCC Chair Wants Networks to Run Nationalistic Content and Pledge Loyalty for America’s Big Bday</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-22 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/Switch_DonkeyKongCountryTropicalFreeze_ND0111_scrn_01_bmp_jpgcopy-1-1280x720.jpg" alt="The Video Game Industry Is Not Equipped to Handle What Comes Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/game-industry-generational-divide-roblox-nintendo-2000672648" target="_blank">The Video Game Industry Is Not Equipped to Handle What Comes Next</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-22 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/image-25.jpg" alt="New Tencent Studio Working On AAA Open-World Games Closes Without Ever Releasing Anything" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -258,24 +281,6 @@
                 <span class="time">2026-02-22 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/flock-camera-1280x832.jpg" alt="Flock Cameras Have a People-Love-Smashing-Them Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/flock-cameras-have-a-people-love-smashing-them-problem-2000725063" target="_blank">Flock Cameras Have a People-Love-Smashing-Them Problem</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-22 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/shutterstock_2619620367.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="OpenAI CEO reduces childhood to a power bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/21/openai-ceo-reduces-childhood-to-a-power-bill.html" target="_blank">OpenAI CEO reduces childhood to a power bill</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-21 22:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 21:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
