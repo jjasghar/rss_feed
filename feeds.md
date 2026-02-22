@@ -1,11 +1,8 @@
-<!-- Processing 54 RSS feeds at 2026-02-22 01:30:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-22 02:57:16 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
@@ -13,28 +10,34 @@
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, February 22, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, February 22, 2026 - 02:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/21/nx-s1-5722357/skiers-recovered-identified-california-avalanche-tahoe" target="_blank">Crews recover bodies of all 9 skiers killed in California avalanche</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-22 02:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,15 +107,6 @@
                 <span class="time">2026-02-21 21:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/21/nx-s1-5721746/mississippi-health-system-ransomware-attack" target="_blank">Mississippi health system shuts down clinics statewide after ransomware attack</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-21 20:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -116,6 +119,15 @@
                 <span class="title"><a href="https://arstechnica.com/space/2026/02/nasa-says-it-needs-to-haul-the-artemis-ii-rocket-back-to-the-hangar-for-repairs/" target="_blank">NASA says it needs to haul the Artemis II rocket back to the hangar for repairs</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-02-21 23:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/" target="_blank">Sam Altman would like remind you that humans use a lot of energy, too</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-21 21:38</span>
             </div>
         </div>
 <div class="story">
@@ -154,15 +166,6 @@
                 <span class="time">2026-02-21 17:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud" target="_blank">Georgia says Elon Musk’s America PAC violated election law</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-21 16:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,10 +174,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://lwn.net/Articles/1047238/" target="_blank">A &#x27;frozen&#x27; dictionary for Python</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-02-22 02:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mimikkk/i-got-tired-of-usequerypromiseall-spaghetti-so-i-built-this-2n73" target="_blank">I Got Tired of useQuery/Promise.all Spaghetti So I Built This 🫖🦡</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-22 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Rust-1.95-Prep" target="_blank">Linux 7.0 Makes Preparations For Rust 1.95</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-22 01:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://boristane.com/blog/how-i-use-claude-code/" target="_blank">How I use Claude Code: Separation of planning and execution</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-22 00:29</span>
             </div>
         </div>
 <div class="story">
@@ -193,33 +223,6 @@
                 <span class="title"><a href="https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html" target="_blank">Why is Claude an Electron App?</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-21 21:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.eduke32.com/" target="_blank">EDuke32 – Duke Nukem 3D (Open-Source)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-21 20:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/matheus_releaserun/ssh-and-scp-in-2026-configuration-security-hardening-and-advanced-tips-8nm" target="_blank">SSH and SCP in 2026: Configuration, Security Hardening, and Advanced Tips</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-21 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/typescript-6-released-beta/en/headerimage/generatedHeaderImage-1771679207417.jpg" alt="TypeScript 6 Released: Developers Invited to Upgrade to Prepare for the Go Rewrite" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/typescript-6-released-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">TypeScript 6 Released: Developers Invited to Upgrade to Prepare for the Go Rewrite</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-21 15:47</span>
             </div>
         </div>
 </div>
@@ -309,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 02:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
