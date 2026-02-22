@@ -1,29 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-22 13:16:09 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-22 14:05:20 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, February 22, 2026 - 13:16 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, February 22, 2026 - 14:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -169,6 +172,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://susam.net/attention-media-vs-social-networks.html" target="_blank">Attention Media ≠ Social Networks</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-22 12:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Perf-Tools" target="_blank">AMD Zen 6 Performance Events &amp; Metrics Merged For Linux 7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-22 11:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Hyper-V-Linux-7.0-Improvements" target="_blank">Microsoft Hyper-V Lands Some Useful Improvements In Linux 7.0</a></span>
                 <span class="feed">Phoronix</span>
@@ -191,24 +212,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/02/databricks-lakebase-postgresql/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Databricks Introduces Lakebase, a PostgreSQL Database for AI Workloads</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-02-22 10:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/luuuc/i-built-ai-tools-that-roast-your-startup-ideas-so-your-investors-dont-54di" target="_blank">I built AI tools that roast your startup ideas so your investors don&#x27;t</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-22 09:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffvnpemy0vl7xgb2y0ryr.gif" alt="From AI Chat to Claude Code in 3 Seconds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/m4sui/from-ai-chat-to-claude-code-in-3-seconds-47f3" target="_blank">From AI Chat to Claude Code in 3 Seconds</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-22 07:06</span>
             </div>
         </div>
 </div>
@@ -298,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 13:16 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 14:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
