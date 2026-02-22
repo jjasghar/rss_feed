@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-21 23:02:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-22 00:06:00 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, February 21, 2026 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, February 22, 2026 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/21/nico-oreilly-double-seals-key-2-1-win-for-man-city-over-newcastle-united?traffic_source=rss" target="_blank">Nico O’Reilly double seals key 2-1 win for Man City over Newcastle United</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-21 22:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +99,20 @@
                 <span class="time">2026-02-21 20:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/21/slovakia-threatens-to-cut-electricity-to-ukraine-over-russian-oil-spat?traffic_source=rss" target="_blank">Slovakia threatens to cut electricity to Ukraine over Russian oil spat</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-21 20:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/IMG_0016-1-500x500.jpg" alt="NASA says it needs to haul the Artemis II rocket back to the hangar for repairs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/02/nasa-says-it-needs-to-haul-the-artemis-ii-rocket-back-to-the-hangar-for-repairs/" target="_blank">NASA says it needs to haul the Artemis II rocket back to the hangar for repairs</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-21 23:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +158,6 @@
                 <span class="time">2026-02-21 16:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/" target="_blank">Google VP warns that two types of AI startups may not survive</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-21 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +170,15 @@
                 <span class="title"><a href="https://dev.to/bhu_kalki/microservices-most-asked-interview-questions-46mm" target="_blank">Microservices Most Asked Interview Questions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-21 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html" target="_blank">Why is Claude an Electron App?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-21 21:28</span>
             </div>
         </div>
 <div class="story">
@@ -210,20 +217,20 @@
                 <span class="time">2026-02-21 15:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/openai-harness-engineering-codex/en/headerimage/generatedHeaderImage-1771569933195.jpg" alt="OpenAI Introduces Harness Engineering: Codex Agents Power Large‑Scale Software Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/openai-harness-engineering-codex/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Introduces Harness Engineering: Codex Agents Power Large‑Scale Software Development</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-21 15:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/shutterstock_2619620367.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="OpenAI CEO reduces childhood to a power bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/21/openai-ceo-reduces-childhood-to-a-power-bill.html" target="_blank">OpenAI CEO reduces childhood to a power bill</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-21 22:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/jimmy-wales-wikipedia-june-11-2025-1280x853.jpg" alt="An Unbothered Jimmy Wales Calls Grokipedia a ‘Cartoon Imitation’ of Wikipedia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +276,6 @@
                 <span class="time">2026-02-21 17:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/AI-generated-Harry-Potter-image-via-Microsoft-blog-1536x864-1771545042.jpg?fit=1536%2C864&amp;quality=60&amp;ssl=1" alt="Microsoft blogger suggests you train AI on pirated Harry Potter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/21/microsoft-blogger-suggests-you-train-ai-on-pirated-harry-potter.html" target="_blank">Microsoft blogger suggests you train AI on pirated Harry Potter</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-21 16:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
