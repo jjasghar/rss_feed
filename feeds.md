@@ -1,37 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-02-22 12:02:29 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-22 13:16:09 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, February 22, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, February 22, 2026 - 13:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/22/small-but-mighty-colombias-muslim-community-celebrates-ramadan?traffic_source=rss" target="_blank">Small but mighty: Colombia’s Muslim community celebrates Ramadan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-22 12:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +93,38 @@
                 <span class="time">2026-02-22 07:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/22/nx-s1-5722770/homeland-security-suspends-tsa-precheck-and-global-entry-airport-security" target="_blank">Homeland Security suspends TSA PreCheck and Global Entry airport security programs</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-22 07:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/882516/privacy-laws-america" target="_blank">America desperately needs new privacy laws</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-22 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/699a80e21fecf41056537c3e/master/pass/The%20Benefits%20and%20Drawbacks%20of%20At-Home%20STI%20Testing.png" alt="What to Know About At-Home STI Tests: Pros, Cons, and Recommendations (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/at-home-sti-tests/" target="_blank">What to Know About At-Home STI Tests: Pros, Cons, and Recommendations (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-22 11:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/54717981613_dab21dfbc3_k-500x500.jpg" alt="Study shows how rocket launches pollute the atmosphere" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/02/study-shows-how-rocket-launches-pollute-the-atmosphere/" target="_blank">Study shows how rocket launches pollute the atmosphere</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-22 11:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,38 +152,20 @@
                 <span class="time">2026-02-22 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/IMG_0016-1-500x500.jpg" alt="NASA says it needs to haul the Artemis II rocket back to the hangar for repairs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/02/nasa-says-it-needs-to-haul-the-artemis-ii-rocket-back-to-the-hangar-for-repairs/" target="_blank">NASA says it needs to haul the Artemis II rocket back to the hangar for repairs</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-21 23:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/" target="_blank">Sam Altman would like remind you that humans use a lot of energy, too</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-21 21:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/882852/arturia-fx-collection-6" target="_blank">Arturia’s FX Collection 6 adds two new effects and a $99 intro version</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-21 21:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff3o7xzpnx4adst4jbh2m.png" alt="Prompting, Vague and Precise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/david_shimon/prompting-vague-and-precise-1ngc" target="_blank">Prompting, Vague and Precise</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-22 13:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +209,6 @@
                 <span class="title"><a href="https://dev.to/m4sui/from-ai-chat-to-claude-code-in-3-seconds-47f3" target="_blank">From AI Chat to Claude Code in 3 Seconds</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-22 07:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxsw0a2fk6dzyeuco70fe.gif" alt="I replaced the `man` command with a Python TUI — and it&#x27;s actually useful" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yash_ambaskar_c13cc5c5f10/i-replaced-the-man-command-with-a-python-tui-and-its-actually-useful-1h7h" target="_blank">I replaced the `man` command with a Python TUI — and it&#x27;s actually useful</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-22 06:07</span>
             </div>
         </div>
 </div>
@@ -306,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 13:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
