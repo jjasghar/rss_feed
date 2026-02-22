@@ -1,41 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-02-22 22:01:22 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-02-22 23:03:22 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 2 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, February 22, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, February 22, 2026 - 23:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -114,6 +100,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai" target="_blank">Samsung is adding Perplexity to Galaxy AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-22 22:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/entertainment/882915/laurie-spiegel-the-expanding-universe-review-masterpiece-ambient-music" target="_blank">You need to listen to Laurie Spiegel’s masterpiece of early ambient music</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-22 21:30</span>
@@ -153,15 +148,6 @@
                 <span class="title"><a href="https://www.theverge.com/column/882516/privacy-laws-america" target="_blank">America desperately needs new privacy laws</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-22 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/699a80e21fecf41056537c3e/master/pass/The%20Benefits%20and%20Drawbacks%20of%20At-Home%20STI%20Testing.png" alt="What to Know About At-Home STI Tests: Pros, Cons, and Recommendations (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/at-home-sti-tests/" target="_blank">What to Know About At-Home STI Tests: Pros, Cons, and Recommendations (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-22 11:56</span>
             </div>
         </div>
 </div>
@@ -229,6 +215,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/12/4ff1b0f784c6143efba708457fe531b2-1024x576.jpg" alt="Sam Altman: Know What Else Used a Lot of Energy? Human Civilization" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sam-altman-know-what-else-used-a-lot-of-energy-human-civilization-2000725167" target="_blank">Sam Altman: Know What Else Used a Lot of Energy? Human Civilization</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-22 21:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/11/BrendanCarrr-1024x683.jpg" alt="Trump’s FCC Chair Wants Networks to Run Nationalistic Content and Pledge Loyalty for America’s Big Bday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -273,15 +268,6 @@
                 <span class="time">2026-02-22 15:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/face_off-hed-1280x853.jpg" alt="‘Face/Off 2’ Director Adam Wingard is Now/Gone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/face-off-2-director-adam-wingard-is-now-gone-2000724908" target="_blank">‘Face/Off 2’ Director Adam Wingard is Now/Gone</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-22 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,8 +287,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 23:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
