@@ -1,40 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-22 05:22:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-22 06:11:44 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, February 22, 2026 - 05:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, February 22, 2026 - 06:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-11-gty-gmh-260220_1771615313249_hpMain_4x3t_384.jpg" alt="Most Americans disapprove of Trump; don&#x27;t trust Dems in Congress more: Poll" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/americans-disapprove-trump-issues-americans-dont-trust-dems/story?id=130346647" target="_blank">Most Americans disapprove of Trump; don&#x27;t trust Dems in Congress more: Poll</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-22 05:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/22/eight-bodies-found-in-libya-and-greece-as-mediterranean-crossings-continue?traffic_source=rss" target="_blank">Eight bodies found in Libya, Greece as toll in the Mediterranean rises</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-22 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/21/nico-oreilly-double-seals-key-2-1-win-for-man-city-over-newcastle-united?traffic_source=rss" target="_blank">Nico O’Reilly double seals key 2-1 win for Man City over Newcastle United</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-21 22:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/21/nx-s1-5722297/federal-communications-commission-fcc-broadcasters-patriotic-250th-anniversary" target="_blank">FCC calls for more &#x27;patriotic, pro-America&#x27; programming in runup to 250th anniversary</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-21 22:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23a3/live/797fa990-0f61-11f1-9120-a910fc22c6ac.jpg" alt="Iran students stage first large anti-government protests since deadly crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss" target="_blank">Iran students stage first large anti-government protests since deadly crackdown</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-21 22:09</span>
             </div>
         </div>
 </div>
@@ -169,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxsw0a2fk6dzyeuco70fe.gif" alt="I replaced the `man` command with a Python TUI — and it&#x27;s actually useful" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yash_ambaskar_c13cc5c5f10/i-replaced-the-man-command-with-a-python-tui-and-its-actually-useful-1h7h" target="_blank">I replaced the `man` command with a Python TUI — and it&#x27;s actually useful</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-22 06:07</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +211,6 @@
                 <span class="title"><a href="https://lwn.net/Articles/1047238/" target="_blank">A &#x27;frozen&#x27; dictionary for Python</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-02-22 02:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mimikkk/i-got-tired-of-usequerypromiseall-spaghetti-so-i-built-this-2n73" target="_blank">I Got Tired of useQuery/Promise.all Spaghetti So I Built This 🫖🦡</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-22 01:20</span>
             </div>
         </div>
 </div>
@@ -309,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 05:22 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 06:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
