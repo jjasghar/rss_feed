@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-22 06:11:44 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-22 07:13:20 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, February 22, 2026 - 06:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, February 22, 2026 - 07:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,12 +44,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/22/nx-s1-5722770/homeland-security-suspends-tsa-precheck-and-global-entry-airport-security" target="_blank">Homeland Security suspends TSA PreCheck and Global Entry airport security programs</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-22 07:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-11-gty-gmh-260220_1771615313249_hpMain_4x3t_384.jpg" alt="Most Americans disapprove of Trump; don&#x27;t trust Dems in Congress more: Poll" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/Politics/americans-disapprove-trump-issues-americans-dont-trust-dems/story?id=130346647" target="_blank">Most Americans disapprove of Trump; don&#x27;t trust Dems in Congress more: Poll</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-22 05:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/22/eight-bodies-found-in-libya-and-greece-as-mediterranean-crossings-continue?traffic_source=rss" target="_blank">Eight bodies found in Libya, Greece as Mediterranean death toll rises</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-22 05:00</span>
             </div>
         </div>
 <div class="story">
@@ -75,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/22/pakistan-carries-out-strikes-in-afghanistan-after-islamabad-suicide-attack?traffic_source=rss" target="_blank">Pakistan carries out strikes in Afghanistan after spate of suicide attacks</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-22 01:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-razan-virtual-reality_7170374.png?20260220171114" alt="&#x27;She started to forget, little by little&#x27;: Virtual reality offers escape to Gaza&#x27;s children" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/the-nightmares-still-come-back-inside-gaza-city-a-virtual-reality-escape-for-the-children-caught-in-war-13510034" target="_blank">&#x27;She started to forget, little by little&#x27;: Virtual reality offers escape to Gaza&#x27;s children</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-22 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/21/nico-oreilly-double-seals-key-2-1-win-for-man-city-over-newcastle-united?traffic_source=rss" target="_blank">Nico O’Reilly double seals key 2-1 win for Man City over Newcastle United</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-21 22:36</span>
             </div>
         </div>
 </div>
@@ -160,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffvnpemy0vl7xgb2y0ryr.gif" alt="From AI Chat to Claude Code in 3 Seconds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/m4sui/from-ai-chat-to-claude-code-in-3-seconds-47f3" target="_blank">From AI Chat to Claude Code in 3 Seconds</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-22 07:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxsw0a2fk6dzyeuco70fe.gif" alt="I replaced the `man` command with a Python TUI — and it&#x27;s actually useful" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,15 +213,6 @@
                 <span class="title"><a href="https://github.com/Leading-AI-IO/palantir-ontology-strategy" target="_blank">Palantir&#x27;s secret weapon isn&#x27;t AI – it&#x27;s Ontology. An open-source deep dive</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-22 02:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://lwn.net/Articles/1047238/" target="_blank">A &#x27;frozen&#x27; dictionary for Python</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-02-22 02:16</span>
             </div>
         </div>
 </div>
@@ -300,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 06:11 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 07:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
