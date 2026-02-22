@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-22 17:04:52 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-02-22 18:02:51 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, February 22, 2026 - 17:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, February 22, 2026 - 18:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +108,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/22/quantonations-double-sized-second-fund-shows-quantum-still-has-believers/" target="_blank">Quantonation’s double-sized second fund shows quantum still has believers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-22 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/policy/882881/trump-netflix-consequences-fire-susan-rice" target="_blank">Trump says Netflix will ‘pay the consequences’ if it doesn’t fire Susan Rice</a></span>
                 <span class="feed">The Verge</span>
@@ -149,15 +157,6 @@
                 <span class="title"><a href="https://arstechnica.com/space/2026/02/study-shows-how-rocket-launches-pollute-the-atmosphere/" target="_blank">Study shows how rocket launches pollute the atmosphere</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-02-22 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/22/the-9000-pound-monster-i-dont-want-to-give-back/" target="_blank">The 9,000-pound monster I don’t want to give back</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-22 10:59</span>
             </div>
         </div>
 </div>
@@ -225,6 +224,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/image-25.jpg" alt="New Tencent Studio Working On AAA Open-World Games Closes Without Ever Releasing Anything" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/timi-montreal-tencent-closed-kaiju-netease-2000672641" target="_blank">New Tencent Studio Working On AAA Open-World Games Closes Without Ever Releasing Anything</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-22 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/mortal-kombat-georgia-1280x853.jpg" alt="You Have to Watch This ‘Mortal Kombat’ Themed Olympics Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/you-have-to-watch-this-mortal-kombat-themed-olympics-performance-2000725133" target="_blank">You Have to Watch This ‘Mortal Kombat’ Themed Olympics Performance</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-22 17:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/olympcs-1280x836.jpg" alt="Winters Olympics Figure Skating Caps Things Off With Deadpool, Kung Fu Panda, And Mortal Kombat‘s Sub-Zero" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -260,24 +277,6 @@
                 <span class="time">2026-02-21 22:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/jimmy-wales-wikipedia-june-11-2025-1280x853.jpg" alt="An Unbothered Jimmy Wales Calls Grokipedia a ‘Cartoon Imitation’ of Wikipedia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070" target="_blank">An Unbothered Jimmy Wales Calls Grokipedia a ‘Cartoon Imitation’ of Wikipedia</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-21 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/link-1280x726.jpg" alt="The Legend Of Zelda Keeps Flirting With Dumping Fantasy For Sci-Fi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/legend-zelda-sci-fi-concept-art-40th-anniversary-2000672580" target="_blank">The Legend Of Zelda Keeps Flirting With Dumping Fantasy For Sci-Fi</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-21 21:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 17:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 18:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
