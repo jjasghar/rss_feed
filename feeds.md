@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-22 09:05:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-22 10:02:20 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, February 22, 2026 - 09:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, February 22, 2026 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +54,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/22/dhs-agent-killed-us-citizen-in-march-last-year-records-reveal?traffic_source=rss" target="_blank">DHS agent killed US citizen in March last year, records reveal</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-22 08:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e3/live/f6b8ce50-0e5d-11f1-8446-9d45fce2423a.jpg" alt="Government aims to halve attainment gap for disadvantaged students" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clygnnz6d9lo?at_medium=RSS&at_campaign=rss" target="_blank">Government aims to halve attainment gap for disadvantaged students</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-22 07:18</span>
             </div>
         </div>
 <div class="story">
@@ -83,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/22/eight-bodies-found-in-libya-and-greece-as-mediterranean-crossings-continue?traffic_source=rss" target="_blank">Eight bodies found in Libya, Greece as toll in the Mediterranean rises</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-22 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/21/nx-s1-5722357/skiers-recovered-identified-california-avalanche-tahoe" target="_blank">Crews recover bodies of all 9 skiers killed in California avalanche</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-22 02:32</span>
             </div>
         </div>
 </div>
@@ -159,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/luuuc/i-built-ai-tools-that-roast-your-startup-ideas-so-your-investors-dont-54di" target="_blank">I built AI tools that roast your startup ideas so your investors don&#x27;t</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-22 09:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffvnpemy0vl7xgb2y0ryr.gif" alt="From AI Chat to Claude Code in 3 Seconds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,15 +217,6 @@
                 <span class="title"><a href="https://itsfoss.com/news/linux-seasoned-admins-bundle/" target="_blank">Serious About Learning Linux? Get 15 O&amp;#x27;Reilly Linux and DevOps eBooks for Under $25</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-02-22 03:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/Leading-AI-IO/palantir-ontology-strategy" target="_blank">Palantir&#x27;s secret weapon isn&#x27;t AI – it&#x27;s Ontology. An open-source deep dive</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-22 02:29</span>
             </div>
         </div>
 </div>
@@ -299,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 09:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
