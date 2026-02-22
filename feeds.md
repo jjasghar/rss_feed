@@ -1,31 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-22 03:50:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-22 04:32:59 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 0 new posts out of 23 feeds processed -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, February 22, 2026 - 03:50 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, February 22, 2026 - 04:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -160,6 +160,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1tg7xzmlx0ng54n8izaj.png" alt="日期、货币和单位的标准化" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rabia_khatun_04d70408d71f/ri-qi-huo-bi-he-dan-wei-de-biao-zhun-hua-2id7" target="_blank">日期、货币和单位的标准化</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-22 04:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/Leading-AI-IO/palantir-ontology-strategy" target="_blank">Palantir&#x27;s secret weapon isn&#x27;t AI – it&#x27;s Ontology. An open-source deep dive</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-22 02:29</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
@@ -193,24 +211,6 @@
                 <span class="title"><a href="https://boristane.com/blog/how-i-use-claude-code/" target="_blank">How I use Claude Code: Separation of planning and execution</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-22 00:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc3tfqm8jud1ctsr8taoo.png" alt="Microservices Most Asked Interview Questions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bhu_kalki/microservices-most-asked-interview-questions-46mm" target="_blank">Microservices Most Asked Interview Questions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-21 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html" target="_blank">Why is Claude an Electron App?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-21 21:28</span>
             </div>
         </div>
 </div>
@@ -301,7 +301,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 03:50 UTC
+        🔄 Last Updated: 04:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
