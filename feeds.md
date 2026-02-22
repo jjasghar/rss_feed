@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-22 10:02:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-22 11:03:07 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, February 22, 2026 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, February 22, 2026 - 11:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0e5/live/136c4aa0-0fd9-11f1-960c-add00f2a4c6f.jpg" alt="&#x27;Effective&#x27; SEND support won&#x27;t be taken away, minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clygnnz6d9lo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Effective&#x27; SEND support won&#x27;t be taken away, minister says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-22 10:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/22/somaliland-minister-says-us-may-access-its-minerals-military-bases-report?traffic_source=rss" target="_blank">Somaliland minister says US may access its minerals, military bases: Report</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-22 10:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +104,20 @@
                 <span class="time">2026-02-22 05:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/22/eight-bodies-found-in-libya-and-greece-as-mediterranean-crossings-continue?traffic_source=rss" target="_blank">Eight bodies found in Libya, Greece as Mediterranean death toll rises</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-22 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/22/eight-bodies-found-in-libya-and-greece-as-mediterranean-crossings-continue?traffic_source=rss" target="_blank">Eight bodies found in Libya, Greece as toll in the Mediterranean rises</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-22 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/689bd2171585083b1b64223e/master/pass/What%20Is%20Creatine,%20and%20Should%20You%20Be%20Taking%20It_.png" alt="Creatine Supplements Are Everywhere. Do I Need Them? (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/should-you-be-taking-creatine-supplements/" target="_blank">Creatine Supplements Are Everywhere. Do I Need Them? (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-22 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +163,38 @@
                 <span class="time">2026-02-21 20:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/21/wikipedia-blacklists-archive-today-after-alleged-ddos-attack/" target="_blank">Wikipedia blacklists Archive.today after alleged DDoS attack</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-21 20:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Hyper-V-Linux-7.0-Improvements" target="_blank">Microsoft Hyper-V Lands Some Useful Improvements In Linux 7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-22 10:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/xiaonaai/how-i-built-an-autonomous-ai-agent-that-browses-the-web-4gbb" target="_blank">How I Built an Autonomous AI Agent That Browses the Web</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-22 10:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/databricks-lakebase-postgresql/en/headerimage/generatedHeaderImage-1770845373859.jpg" alt="Databricks Introduces Lakebase, a PostgreSQL Database for AI Workloads" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/databricks-lakebase-postgresql/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Databricks Introduces Lakebase, a PostgreSQL Database for AI Workloads</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-22 10:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,38 +222,20 @@
                 <span class="time">2026-02-22 06:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sonic001h/i-built-a-lightweight-cli-log-analyzer-in-python-while-learning-heres-what-i-learned-p7e" target="_blank">I built a lightweight CLI log analyzer in Python while learning — here’s what I learned</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-22 05:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1tg7xzmlx0ng54n8izaj.png" alt="日期、货币和单位的标准化" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rabia_khatun_04d70408d71f/ri-qi-huo-bi-he-dan-wei-de-biao-zhun-hua-2id7" target="_blank">日期、货币和单位的标准化</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-22 04:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/linux-seasoned-admins-bundle/" target="_blank">Serious About Learning Linux? Get 15 O&amp;#x27;Reilly Linux and DevOps eBooks for Under $25</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-22 03:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/flock-camera-1280x832.jpg" alt="Flock Cameras Have a People-Love-Smashing-Them Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/flock-cameras-have-a-people-love-smashing-them-problem-2000725063" target="_blank">Flock Cameras Have a People-Love-Smashing-Them Problem</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-22 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/shutterstock_2619620367.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="OpenAI CEO reduces childhood to a power bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +281,6 @@
                 <span class="time">2026-02-21 21:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/saints-row-6-reboot-chris-stockman-embracer-2000672582" target="_blank">Original Saints Row Designer Believes The Series Is Dead After Publisher Ghosts Him</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-21 19:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 11:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
