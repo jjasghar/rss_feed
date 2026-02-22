@@ -1,33 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-02-22 15:03:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-22 16:03:09 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, February 22, 2026 - 15:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, February 22, 2026 - 16:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +53,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/mar-a-laro-1-ap-gmh-260222_1771769625065_hpMain_4x3t_384.jpg" alt="Man shot, killed by Secret Service outside of Mar-a-Lago, agency says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/man-shot-killed-secret-service-local-deputy-mar/story?id=130384030" target="_blank">Man shot, killed by Secret Service outside of Mar-a-Lago, agency says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-22 15:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771771391702_now_brk_man_shotkilled_maralago_260222_1920x1080-pecyv0.jpg" alt="Armed man shot and killed by Secret Service, law enforcement at Mar-a-Lago" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/armed-man-shot-and-killed-at-mar-a-lago-258096197728" target="_blank">Armed man shot and killed by Secret Service, law enforcement at Mar-a-Lago</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-22 14:39</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/22/man-killed-after-entering-perimeter-of-trumps-mar-a-lago-resort?traffic_source=rss" target="_blank">Man killed after entering perimeter of Trump’s Mar-a-Lago resort</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-22 14:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71fa/live/c4933930-0feb-11f1-9120-a910fc22c6ac.jpg" alt="Met Police officers working for Andrew told to guard Epstein&#x27;s home, emails show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cz9qkjvg033o?at_medium=RSS&at_campaign=rss" target="_blank">Met Police officers working for Andrew told to guard Epstein&#x27;s home, emails show</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-22 13:22</span>
             </div>
         </div>
 <div class="story">
@@ -70,38 +106,20 @@
                 <span class="time">2026-02-22 11:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0e5/live/136c4aa0-0fd9-11f1-960c-add00f2a4c6f.jpg" alt="&#x27;Effective&#x27; SEND support won&#x27;t be taken away, minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clygnnz6d9lo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Effective&#x27; SEND support won&#x27;t be taken away, minister says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-22 10:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/22/somaliland-minister-says-us-may-access-its-minerals-military-bases-report?traffic_source=rss" target="_blank">Somaliland minister says US may access its minerals, military bases: Report</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-22 10:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/22/dhs-agent-killed-us-citizen-in-march-last-year-records-reveal?traffic_source=rss" target="_blank">DHS agent killed US citizen in March last year, records reveal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-22 08:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/882881/trump-netflix-consequences-fire-susan-rice" target="_blank">Trump says Netflix will ‘pay the consequences’ if it doesn’t fire Susan Rice</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-22 15:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +165,29 @@
                 <span class="time">2026-02-22 10:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689bd2171585083b1b64223e/master/pass/What%20Is%20Creatine,%20and%20Should%20You%20Be%20Taking%20It_.png" alt="Creatine Supplements Are Everywhere. Do I Need Them? (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/should-you-be-taking-creatine-supplements/" target="_blank">Creatine Supplements Are Everywhere. Do I Need Them? (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-22 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftbk8f4fc0g8xlafaum2r.png" alt="Building a Global AI Design Studio: RAG, Vector Search, and the Physics of Localization" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thirupathi_pyati/building-a-global-ai-design-studio-rag-vector-search-and-the-physics-of-localization-2b79" target="_blank">Building a Global AI Design Studio: RAG, Vector Search, and the Physics of Localization</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-22 15:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AOMedia-OAC-Open-Audio-Codec" target="_blank">AOMedia Open Audio Codec &quot;OAC&quot; Aims To Be The Successor To Opus</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-22 14:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,29 +224,29 @@
                 <span class="time">2026-02-22 11:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Hyper-V-Linux-7.0-Improvements" target="_blank">Microsoft Hyper-V Lands Some Useful Improvements In Linux 7.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-22 10:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/xiaonaai/how-i-built-an-autonomous-ai-agent-that-browses-the-web-4gbb" target="_blank">How I Built an Autonomous AI Agent That Browses the Web</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-22 10:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/olympcs-1280x836.jpg" alt="Winters Olympics Figure Skating Caps Things Off With Deadpool, Kung Fu Panda, And Mortal Kombat‘s Sub-Zero" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/winter-olympics-figure-skating-mortal-kombat-deadpool-2000672627" target="_blank">Winters Olympics Figure Skating Caps Things Off With Deadpool, Kung Fu Panda, And Mortal Kombat‘s Sub-Zero</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-22 15:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/face_off-hed-1280x853.jpg" alt="‘Face/Off 2’ Director Adam Wingard is Now/Gone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/face-off-2-director-adam-wingard-is-now-gone-2000724908" target="_blank">‘Face/Off 2’ Director Adam Wingard is Now/Gone</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-22 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/flock-camera-1280x832.jpg" alt="Flock Cameras Have a People-Love-Smashing-Them Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,24 +283,6 @@
                 <span class="time">2026-02-21 21:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/link-1280x726.jpg" alt="The Legend Of Zelda’s Keeps Flirting With Dumping Fantasy For Sci-Fi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/legend-zelda-sci-fi-concept-art-40th-anniversary-2000672580" target="_blank">The Legend Of Zelda’s Keeps Flirting With Dumping Fantasy For Sci-Fi</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-21 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/mango.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="This website tells you whether your food is still safe to eat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/21/this-website-tells-you-whether-your-food-is-still-safe-to-eat.html" target="_blank">This website tells you whether your food is still safe to eat</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-21 21:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 15:03 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 16:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
