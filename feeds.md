@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-23 03:53:23 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-23 04:38:31 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Error processing https://krebsonsecurity.com/feed/: The read operation timed out -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, February 23, 2026 - 03:53 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, February 23, 2026 - 04:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -70,6 +65,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-alex-rossi-ukraine_7172449.jpg?20260223012623" alt="Fighting the enemy in the sky with Ukraine&#x27;s &#x27;drone hunter&#x27; unit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/the-kalashnikov-is-the-most-effective-tool-fighting-the-enemy-in-the-sky-with-ukraines-drone-hunter-unit-13510976" target="_blank">Fighting the enemy in the sky with Ukraine&#x27;s &#x27;drone hunter&#x27; unit</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-23 00:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/secret-service-mar-a-lago-rt-jh_1771800434497_hpMain_4x3t_384.jpg" alt="What we know about the man killed at Mar-a-Lago" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -96,20 +100,20 @@
                 <span class="time">2026-02-22 22:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/910b/live/bcf7bfe0-102a-11f1-b048-c9424b2cf5fd.jpg" alt="Zelensky tells BBC Putin has started WW3 and must be stopped" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky tells BBC Putin has started WW3 and must be stopped</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-22 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/22/apple-might-take-a-new-approach-to-announcing-its-next-products/" target="_blank">Apple might take a new approach to announcing its next products</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-22 23:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +159,20 @@
                 <span class="time">2026-02-22 14:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/882516/privacy-laws-america" target="_blank">America desperately needs new privacy laws</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-22 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fi.imgur.com%2FZpM96SU.png" alt="Face Avatar Generator — My Submission for the DEV x Google AI Studio Track" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lukeponga-dev/face-avatar-generator-my-submission-for-the-dev-x-google-ai-studio-track-k7i" target="_blank">Face Avatar Generator — My Submission for the DEV x Google AI Studio Track</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-23 04:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmye8e76r1uqj7agthjer.png" alt="I Built a Usage-Based Billing Engine From Scratch — Here&#x27;s How It Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -176,6 +180,15 @@
                 <span class="title"><a href="https://dev.to/ajithmanmu/i-built-a-usage-based-billing-engine-from-scratch-heres-how-it-works-2l58" target="_blank">I Built a Usage-Based Billing Engine From Scratch — Here&#x27;s How It Works</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-23 03:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://fmhy.net/" target="_blank">Freemediaheckyeah</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-23 03:35</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/jjdelcerro/disenando-memoria-narrativa-trazable-para-agentes-conversacionales-14e9" target="_blank">Diseñando memoria narrativa trazable para agentes conversacionales</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-23 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/02/openjdk-25-ubuntu-2604.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 LTS will default to OpenJDK 25" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/ubuntu-2604-openjdk-25-default" target="_blank">Ubuntu 26.04 LTS will default to OpenJDK 25</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-22 23:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc1-Released" target="_blank">Linux 7.0-rc1 Released With Many New Features:</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-22 22:16</span>
             </div>
         </div>
 </div>
@@ -301,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 03:53 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 04:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
