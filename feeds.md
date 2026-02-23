@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-23 20:10:01 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-02-23 21:13:05 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, February 23, 2026 - 20:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, February 23, 2026 - 21:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/23/nx-s1-5720948/fda-rare-disease-gene-therapy" target="_blank">The FDA creates a quicker path for gene therapies</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-23 20:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +97,20 @@
                 <span class="time">2026-02-23 18:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/23/g-s1-111196/uk-peter-mandelson-epstein-misconduct-investigation" target="_blank">U.K. arrests ex-ambassador to the U.S. on suspicion of misconduct over Epstein ties</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-23 18:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/883155/doj-antitrust-division-gail-slater-live-nation-ticketmaster-trial" target="_blank">Will Trump’s DOJ actually take on Ticketmaster?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-23 20:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/gaming/2026/02/new-microsoft-gaming-chief-has-no-tolerance-for-bad-ai/" target="_blank">New Microsoft gaming chief has &quot;no tolerance for bad AI&quot;</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-02-23 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/" target="_blank">Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-23 16:55</span>
             </div>
         </div>
 </div>
@@ -240,6 +235,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/hospital-IV-1280x853.jpg" alt="Woman Loses Her Limbs After Innocent Dog Lick" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/woman-loses-her-limbs-after-innocent-dog-lick-2000725425" target="_blank">Woman Loses Her Limbs After Innocent Dog Lick</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-23 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/10/shutterstock_76713673-e1749492591632.jpg?fit=768%2C576&amp;quality=60&amp;ssl=1" alt="Please do not poop on LA DOT buses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/23/please-do-not-poop-on-la-dot-buses.html" target="_blank">Please do not poop on LA DOT buses</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-23 20:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/piecebypiece2-1280x720.jpg" alt="Finally Someone’s Taking ‘Puzzle Platformer’ Literally" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -275,24 +288,6 @@
                 <span class="time">2026-02-23 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K111S7PP427SXX14RBD8P5ES/hero-image.png" alt="I Love This Portable Projector, and This Bundle Makes It an Even Better Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/xgimi-mogo-3-pro-portable-projector-deal-february-2026?utm_medium=RSS" target="_blank">I Love This Portable Projector, and This Bundle Makes It an Even Better Deal</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-23 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/netflix-frankenstgein-kpop-demon-hunters-criterion-1280x853.jpg" alt="‘Frankenstein’ and ‘KPop Demon Hunters’ Will Be Freed From Streaming Shackles by the Criterion Collection" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/frankenstein-and-kpop-demon-hunters-will-be-freed-from-streaming-shackles-by-the-criterion-collection-2000725400" target="_blank">‘Frankenstein’ and ‘KPop Demon Hunters’ Will Be Freed From Streaming Shackles by the Criterion Collection</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-23 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 20:10 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 21:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
