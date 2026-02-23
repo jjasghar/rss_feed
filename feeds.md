@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-02-23 22:12:19 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-02-23 23:10:53 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, February 23, 2026 - 22:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, February 23, 2026 - 23:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -72,6 +68,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-mexico-ramsay-cartel_7173290.jpg?20260223213326" alt="Violence triggered by killing of notorious Mexican drug lord could hit the World Cup" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/violence-triggered-by-killing-of-notorious-mexican-drug-lord-could-hit-the-world-cup-13511322" target="_blank">Violence triggered by killing of notorious Mexican drug lord could hit the World Cup</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-23 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c563/live/f144c580-10e4-11f1-b4ca-a9a29eb10e90.jpg" alt="Lord Mandelson arrested on suspicion of misconduct in public office" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8xy5jzrrxzo?at_medium=RSS&at_campaign=rss" target="_blank">Lord Mandelson arrested on suspicion of misconduct in public office</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-23 19:42</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -80,29 +94,29 @@
                 <span class="time">2026-02-23 19:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/23/israeli-settlers-deface-set-fire-to-west-bank-mosque-during-ramadan?traffic_source=rss" target="_blank">Israeli settlers deface, set fire to West Bank mosque during Ramadan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-23 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771871956078_now_daily_a_sanchez_mandelson_arrest_260223_1920x1080-mt2z41.jpg" alt="Former U.K. ambassador to the U.S. arrested amid Epstein investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/former-u-k-ambassador-to-the-u-s-arrested-amid-epstein-investigation-258143301563" target="_blank">Former U.K. ambassador to the U.S. arrested amid Epstein investigation</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-23 18:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/699a853f32429c68a5920bbd/master/pass/The%20Best%20Duffel%20Bags%20for%20Commuters%20and%20Overpackers.png" alt="6 Best Duffel Bags We Tested While Traveling (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-duffel-bags/" target="_blank">6 Best Duffel Bags We Tested While Traveling (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-23 22:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1348666509-500x500.jpg" alt="Pentagon buyer: We&#x27;re happy with our launch industry, but payloads are lagging" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/02/pentagon-buyer-were-happy-with-our-launch-industry-but-payloads-are-lagging/" target="_blank">Pentagon buyer: We&#x27;re happy with our launch industry, but payloads are lagging</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-23 22:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +153,6 @@
                 <span class="time">2026-02-23 18:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/883101/apple-airtag-second-gen-location-bluetooth-tracker-costco-deal-sale" target="_blank">Apple’s newest AirTags are already on sale if you’re looking to upgrade</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-23 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/sharma-500x500.jpg" alt="New Microsoft gaming chief has &quot;no tolerance for bad AI&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/02/new-microsoft-gaming-chief-has-no-tolerance-for-bad-ai/" target="_blank">New Microsoft gaming chief has &quot;no tolerance for bad AI&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-23 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,6 +174,15 @@
                 <span class="title"><a href="https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-2e0k" target="_blank">8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-23 22:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/" target="_blank">FreeBSD doesn&#x27;t have Wi-Fi driver for my old MacBook. AI build one for me</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-23 21:44</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +212,6 @@
                 <span class="time">2026-02-23 19:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18891133&w=600" alt="Supply Chain Security for Tools and Prompts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/supply-chain-security-for-prompts-and-tools-signal" target="_blank">Supply Chain Security for Tools and Prompts</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-23 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,12 +232,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/lego-star-wars-smart-play-luke-vader-1280x853.jpg" alt="Lego’s Smart Play Bricks Sound Awful" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/legos-smart-play-bricks-sound-awful-2000725514" target="_blank">Lego’s Smart Play Bricks Sound Awful</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-23 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/2025_DEC_Marathon_Press_Kit_Compressed_014-1280x720.jpg" alt="Marathon Is Already Improving On Arc Raiders In One Key Area" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/marathon-is-already-improving-on-arc-raiders-in-one-key-area-2000672901" target="_blank">Marathon Is Already Improving On Arc Raiders In One Key Area</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-23 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJ625HTZSQBY3KZP4XVBDAA8/hero-image.jpg" alt="Samsung Galaxy Unpacked 2026: How to Watch and What to Expect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-unpacked-2026?utm_medium=RSS" target="_blank">Samsung Galaxy Unpacked 2026: How to Watch and What to Expect</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-23 21:30</span>
             </div>
         </div>
 <div class="story">
@@ -269,24 +283,6 @@
                 <span class="title"><a href="https://kotaku.com/piece-by-piece-demo-steam-free-puzzle-platformer-2000672798" target="_blank">Finally Someone’s Taking ‘Puzzle Platformer’ Literally</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-23 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_2721758461-1280x794.jpg" alt="Colorado Legislators Want Device-Level Age Restrictions for Minors. Here’s What That Means" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/colorado-legislators-want-device-level-age-restrictions-for-minors-heres-what-that-means-2000725313" target="_blank">Colorado Legislators Want Device-Level Age Restrictions for Minors. Here’s What That Means</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-23 19:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/cybermorph.jpg?fit=1200%2C754&amp;quality=60&amp;ssl=1" alt="1990s game got a rave review thanks to LSD in office coffee pot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/23/1990s-game-got-a-rave-review-thanks-to-lsd-in-office-coffee-pot.html" target="_blank">1990s game got a rave review thanks to LSD in office coffee pot</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-23 19:01</span>
             </div>
         </div>
 </div>
@@ -326,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 22:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 23:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
