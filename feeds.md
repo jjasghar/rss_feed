@@ -1,27 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-22 23:03:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-23 00:07:35 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 2 new posts out of 19 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, February 22, 2026 - 23:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, February 23, 2026 - 00:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/22/brazil-does-not-want-a-new-cold-war-says-lula?traffic_source=rss" target="_blank">Brazil does not want ‘a new Cold War’, says President Lula</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-22 23:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/910b/live/bcf7bfe0-102a-11f1-b048-c9424b2cf5fd.jpg" alt="Zelensky tells BBC Putin has started WW3 and must be stopped" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky tells BBC Putin has started WW3 and must be stopped</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-22 22:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,24 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss" target="_blank">Armed man killed after entering secure perimeter of Trump&#x27;s residence, Secret Service says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-22 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/22/nx-s1-5722897/mexican-army-kills-leader-of-jalisco-new-generation-cartel-official-says" target="_blank">Mexican army kills leader of Jalisco New Generation Cartel, official says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-22 19:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/22/netanyahu-says-israel-will-forge-regional-alliance-to-rival-radical-axis?traffic_source=rss" target="_blank">Netanyahu says Israel will forge regional alliance to rival ‘radical axes’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-22 18:20</span>
             </div>
         </div>
 </div>
@@ -159,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jjdelcerro/disenando-memoria-narrativa-trazable-para-agentes-conversacionales-14e9" target="_blank">Diseñando memoria narrativa trazable para agentes conversacionales</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-23 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/victoraguilarc/6-openclaw-en-macmini-mantenimiento-2089" target="_blank">6. OpenClaw en MacMini, Mantenimiento.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-22 20:51</span>
@@ -198,15 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AOMedia-OAC-Open-Audio-Codec" target="_blank">AOMedia Open Audio Codec &quot;OAC&quot; Aims To Be The Successor To Opus</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-22 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/realacjoshua/rust-for-webassembly-how-i-built-near-native-performance-web-apps-2f1g" target="_blank">Rust for WebAssembly: How I Built Near-Native Performance Web Apps</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-22 14:44</span>
             </div>
         </div>
 </div>
@@ -287,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 23:03 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 00:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
