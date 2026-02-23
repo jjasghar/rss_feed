@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-23 06:19:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-23 07:21:48 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, February 23, 2026 - 06:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, February 23, 2026 - 07:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -66,6 +63,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/thumb_site-8weepw.jpg" alt="Unrest in Mexico following death of cartel boss ‘El Mencho’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/unrest-in-mexico-following-death-of-cartel-boss-el-mencho-258108997638" target="_blank">Unrest in Mexico following death of cartel boss ‘El Mencho’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-23 00:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/02/1920x1080/skynews-alex-rossi-ukraine_7172449.jpg?20260223012623" alt="Fighting the enemy in the sky with Ukraine&#x27;s &#x27;drone hunter&#x27; unit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -90,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/22/brazil-does-not-want-a-new-cold-war-says-lula?traffic_source=rss" target="_blank">Brazil does not want ‘a new Cold War’, says President Lula</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-22 23:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1044/live/93cd4cb0-101c-11f1-97dc-1bcd549ea2c5.jpg" alt="Billions in SEND funding to make schools more inclusive, ministers say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8r1pmz3zgzo?at_medium=RSS&at_campaign=rss" target="_blank">Billions in SEND funding to make schools more inclusive, ministers say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-22 22:29</span>
             </div>
         </div>
 </div>
@@ -297,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 06:19 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 07:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
