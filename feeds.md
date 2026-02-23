@@ -1,35 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-02-23 14:16:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-23 15:14:14 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 10 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, February 23, 2026 - 14:17 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, February 23, 2026 - 15:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/23/israel-designates-five-palestinian-news-outlets-as-terrorist-organisation?traffic_source=rss" target="_blank">Israel designates five Palestinian news outlets as ‘terrorist’ groups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-23 14:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/23/robert-mugabe-son-bellarmine-mugabe-charged-with-crimes" target="_blank">Robert Mugabe’s son charged with attempted murder over Johannesburg shooting</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-23 13:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/23/nx-s1-5719485/italy-migrants-milan" target="_blank">In the shadow of the Olympics, migrants search for a welcome in Milan</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-23 13:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/snow-1-abc-gmh-260223_1771851209406_hpMain_4x3t_384.jpg" alt="Blizzard live updates: Monster storm dropping 3 inches of snow per hour" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,33 +104,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/23/iran-says-ready-for-talks-but-will-defend-itself-against-us-aggression?traffic_source=rss" target="_blank">Iran says ready for talks but will defend itself against US aggression</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-23 11:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/nyc-main_1771832537079_hpMain_4x3t_384.jpg" alt="Blizzard live updates: Historic storm strikes with 3 inches an hour, thundersnow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/live-updates/severe-winter-storm-live-updates-northeast-braces-blizzard/?id=130378101" target="_blank">Blizzard live updates: Historic storm strikes with 3 inches an hour, thundersnow</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-23 11:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/23/gaza-child-dies-waiting-for-israeli-permission-to-leave-for-treatment?traffic_source=rss" target="_blank">Gaza child dies waiting for Israeli permission to leave for treatment</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-23 10:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/23/g-s1-110911/trump-immigration-judges-dismissals-numbers" target="_blank">U.S. has a quarter fewer immigration judges than it did a year ago. Here&#x27;s why</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-23 10:30</span>
             </div>
         </div>
 </div>
@@ -167,6 +174,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/enoughsudhanshu/hello-dev-community-a-passionate-developer-joining-the-journey-225d" target="_blank">Hello Dev Community! A Passionate Developer Joining the Journey</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-23 15:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/02/23/defense-against-uploads-oss-file-scanner-pompelmi/" target="_blank">Defense against uploads: Q&amp;A with OSS file scanner, pompelmi</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-02-23 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Six-Million-Lines-Linux-7.0" target="_blank">Modern AMD Graphics Driver Surpasses Six Million Lines Of Code In Linux 7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-23 14:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/bala_dkaveri_443d4beb9c8/day-4-of-my-automation-journey-understanding-class-object-memory-in-java-3okc" target="_blank">🚀 Day 4 of My Automation Journey – Understanding Class, Object &amp; Memory in Java</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-23 14:07</span>
@@ -190,33 +224,6 @@
                 <span class="time">2026-02-23 13:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/tsslint-3-release-final/en/headerimage/generatedHeaderImage-1771779515751.jpg" alt="TSSLint 3.0: Final Major Release with Reduced Dependencies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/tsslint-3-release-final/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">TSSLint 3.0: Final Major Release with Reduced Dependencies</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-23 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/RBOS-2026-02-22" target="_blank">RBOS 2026-02-22 As Latest Linux Live ISO To Showcase Wayland</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-23 11:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ladybird.org/posts/adopting-rust/" target="_blank">Ladybird Browser adopts Rust</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-23 11:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/shutterstock_1637735470.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="BBC edits out &quot;Free Palestine&quot; at BAFTAs, leaves in racial slur from man with Tourette Syndrome" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/23/tourettesyndrome.html" target="_blank">BBC edits out &quot;Free Palestine&quot; at BAFTAs, leaves in racial slur from man with Tourette Syndrome</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-23 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KHYXJQXW0CDNXA3Q7GA6JXA9/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Is &#x27;Baby Boo Syndrome&#x27;?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-what-is-baby-boo-syndrome?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Is &#x27;Baby Boo Syndrome&#x27;?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-23 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/dune-part-two-paul-timothee-chalamet-1280x853.jpg" alt="Timothée Chalamet Talks Going All Out for ‘Dune: Part Three’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +297,6 @@
                 <span class="time">2026-02-23 11:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/3d-print-a-car-1280x791.jpg" alt="A Recent 3D Printing Breakthrough Brings Us One Step Closer to You Downloading a Car" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-recent-3d-printing-breakthrough-brings-us-one-step-closer-to-you-downloading-a-car-2000725178" target="_blank">A Recent 3D Printing Breakthrough Brings Us One Step Closer to You Downloading a Car</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-23 01:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/sicko-guide.jpg" alt="The Sicko’s Guide To Steam Next Fest February 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/steam-next-fest-feb-2026-indie-demos-2000672657" target="_blank">The Sicko’s Guide To Steam Next Fest February 2026</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-22 23:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 14:17 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 15:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
