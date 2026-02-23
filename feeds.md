@@ -1,43 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-23 19:22:46 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-23 20:10:01 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 35 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, February 23, 2026 - 19:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, February 23, 2026 - 20:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/23/nx-s1-5724018/vonn-surgery-leg-injury" target="_blank">&#x27;Everything was in pieces:&#x27; Lindsey Vonn describes grueling surgery on broken leg</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-23 19:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -98,20 +102,29 @@
                 <span class="time">2026-02-23 18:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Mandelson-1-gty-gmh-260223_1771867286825_hpMain_4x3t_384.jpg" alt="Peter Mandelson arrested on suspicion of misconduct in public office" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/lord-peter-mandelson-arrested-suspicion-misconduct-public-office/story?id=130417766" target="_blank">Peter Mandelson arrested on suspicion of misconduct in public office</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-23 18:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/" target="_blank">Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-23 19:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69975f400310f6e896b9919b/master/pass/Uncanny-Valley-Podcast-Business-2234015878.jpg" alt="Uncanny Valley: AI Researchers’ Resignations, Bots Hiring Humans, Evie Magazine’s Party" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-ai-researcher-resignations-bots-hiring-humans-evie-magazines-party/" target="_blank">Uncanny Valley: AI Researchers’ Resignations, Bots Hiring Humans, Evie Magazine’s Party</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-23 19:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,24 +161,6 @@
                 <span class="time">2026-02-23 16:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6998701dc31375ebca5a4cab/master/pass/GettyImages-2191227367.jpg" alt="The US Had a Big Battery Boom Last Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-us-had-a-big-battery-boom-last-year/" target="_blank">The US Had a Big Battery Boom Last Year</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-23 16:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/23/vpn-flaws-allowed-chinese-hackers-to-compromise-dozens-of-ivanti-customers-says-report/" target="_blank">VPN flaws allowed Chinese hackers to compromise dozens of Ivanti customers, says report</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-23 16:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,6 +173,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18891149&w=600" alt="Azure SLM Showdown: Evaluating Phi-3, Llama 3, and Snowflake Arctic for Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/azure-slm-showdown-evaluating-phi-3-llama-3-and-sn" target="_blank">Azure SLM Showdown: Evaluating Phi-3, Llama 3, and Snowflake Arctic for Production</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-23 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-DSP-Accel-Driver" target="_blank">Qualcomm Posts Patches For New DSP Accelerator Linux Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-23 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -207,24 +220,6 @@
                 <span class="time">2026-02-23 18:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18891080&w=600" alt="The Quantum Computing Mirage: What Three Years of Broken Promises Have Taught Me" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/the-quantum-computing-mirage-what-three-years-of-b" target="_blank">The Quantum Computing Mirage: What Three Years of Broken Promises Have Taught Me</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-23 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Firefox-148" target="_blank">Firefox 148 Now Available With The New AI Controls / AI Kill Switches</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-23 16:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,12 +240,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/piecebypiece2-1280x720.jpg" alt="Finally Someone’s Taking ‘Puzzle Platformer’ Literally" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/piece-by-piece-demo-steam-free-puzzle-platformer-2000672798" target="_blank">Finally Someone’s Taking ‘Puzzle Platformer’ Literally</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-23 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_2721758461-1280x794.jpg" alt="Colorado Legislators Want Device-Level Age Restrictions for Minors. Here’s What That Means" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/colorado-legislators-want-device-level-age-restrictions-for-minors-heres-what-that-means-2000725313" target="_blank">Colorado Legislators Want Device-Level Age Restrictions for Minors. Here’s What That Means</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-23 19:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/cybermorph.jpg?fit=1200%2C754&amp;quality=60&amp;ssl=1" alt="1990s game got a rave review thanks to LSD in office coffee pot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/23/1990s-game-got-a-rave-review-thanks-to-lsd-in-office-coffee-pot.html" target="_blank">1990s game got a rave review thanks to LSD in office coffee pot</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-23 19:01</span>
             </div>
         </div>
 <div class="story">
@@ -278,24 +291,6 @@
                 <span class="title"><a href="https://gizmodo.com/frankenstein-and-kpop-demon-hunters-will-be-freed-from-streaming-shackles-by-the-criterion-collection-2000725400" target="_blank">‘Frankenstein’ and ‘KPop Demon Hunters’ Will Be Freed From Streaming Shackles by the Criterion Collection</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-23 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JS4T1Z3AMXSSJNV24T5ENDJ7/hero-image.png" alt="The Best Samsung Galaxy Watch for Most People Is 41% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-watch-7-deal-february-2026?utm_medium=RSS" target="_blank">The Best Samsung Galaxy Watch for Most People Is 41% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-23 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/nothing-phone-4a-1280x853.jpg" alt="This Is What Nothing’s Next ‘Transparent’ Phone Looks Like" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/heres-what-nothings-next-transparent-phone-looks-like-2000725383" target="_blank">This Is What Nothing’s Next ‘Transparent’ Phone Looks Like</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-23 17:20</span>
             </div>
         </div>
 </div>
@@ -326,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 19:22 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 20:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
