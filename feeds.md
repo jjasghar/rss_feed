@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-23 13:26:57 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-23 14:16:53 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, February 23, 2026 - 13:27 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, February 23, 2026 - 14:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,12 +105,30 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/dunkTOP-500x500.jpg" alt="Review: Knight of the Seven Kingdoms brings back that Westeros magic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/02/review-knight-of-the-seven-kingdoms-brings-back-that-westeros-magic/" target="_blank">Review: Knight of the Seven Kingdoms brings back that Westeros magic</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-23 13:51</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/882983/nothing-phone-4a-official-design-glyph-bar" target="_blank">Nothing couldn’t wait to show off the Phone 4A</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-23 13:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6987b72673aa5764e1253930/master/pass/The%20Best%20Puffer%20Jackets%20to%20Survive%20the%20Cold.png" alt="Best Puffer Jacket (2026): Patagonia, Arc’teryx, REI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/the-best-puffer-jackets/" target="_blank">Best Puffer Jacket (2026): Patagonia, Arc’teryx, REI</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-23 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -141,24 +158,6 @@
                 <span class="time">2026-02-23 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/23/wispr-flow-launches-an-android-app-for-ai-powered-dictation/" target="_blank">Wispr Flow launches an Android app for AI-powered dictation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-23 08:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/699b9a09c0678ca26a9a6862/master/pass/artemis.jpg" alt="NASA Delays Launch of Artemis II Lunar Mission Once Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nasa-delays-artemis-ii-launch-again/" target="_blank">NASA Delays Launch of Artemis II Lunar Mission Once Again</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-23 00:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,9 +167,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bala_dkaveri_443d4beb9c8/day-4-of-my-automation-journey-understanding-class-object-memory-in-java-3okc" target="_blank">🚀 Day 4 of My Automation Journey – Understanding Class, Object &amp; Memory in Java</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-23 14:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.1-devel-ANV-H265-Encode" target="_blank">Intel ANV Driver Sees Several Vulkan Video H.265 Encode Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-23 13:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/white_satomini/huo-ji-ri-bao-260223amazon-500yi-tou-zi-openaiwei-ruan-tan-suo-chao-dao-ti-code-modefa-bu-1igc" target="_blank">硅基日报260223：Amazon 500亿投资OpenAI，微软探索超导体，Code Mode发布</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-23 13:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/tsslint-3-release-final/en/headerimage/generatedHeaderImage-1771779515751.jpg" alt="TSSLint 3.0: Final Major Release with Reduced Dependencies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/tsslint-3-release-final/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">TSSLint 3.0: Final Major Release with Reduced Dependencies</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-23 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -189,33 +215,6 @@
                 <span class="title"><a href="https://ladybird.org/posts/adopting-rust/" target="_blank">Ladybird Browser adopts Rust</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-23 11:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Red-Hat-Tuned-2.27" target="_blank">Red Hat Releases Tuned 2.27 For Adaptively Tuning Linux To Different Workloads</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-23 11:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/building-ai-agent-gateway-mcp/en/headerimage/building-ai-agent-gateway-mcp-header-1771417896950.jpg" alt="Article: Building a Least-Privilege AI Agent Gateway for Infrastructure Automation with MCP, OPA, and Ephemeral Runners" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/building-ai-agent-gateway-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Building a Least-Privilege AI Agent Gateway for Infrastructure Automation with MCP, OPA, and Ephemeral Runners</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-23 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/colorado-age-attestation-bill/" target="_blank">US State Colorado Wants Operating Systems to Tell Every App How Old You Are</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-23 09:26</span>
             </div>
         </div>
 </div>
@@ -319,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 13:27 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 14:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
