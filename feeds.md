@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-23 12:07:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-23 13:26:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, February 23, 2026 - 12:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, February 23, 2026 - 13:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/snow-1-abc-gmh-260223_1771851209406_hpMain_4x3t_384.jpg" alt="Blizzard live updates: Monster storm dropping 3 inches of snow per hour" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/live-updates/severe-winter-storm-live-updates-northeast-braces-blizzard/?id=130378101" target="_blank">Blizzard live updates: Monster storm dropping 3 inches of snow per hour</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-23 13:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cc2/live/07a98f30-10af-11f1-ae9c-bbdf8b825e1a.jpg" alt="Australia backs removing Andrew from royal line of succession" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,20 +100,20 @@
                 <span class="time">2026-02-23 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/23/g-s1-110980/trump-coal-energy-colorado" target="_blank">The owners want to close this Colorado coal plant. The Trump administration says no</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-23 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/882983/nothing-phone-4a-official-design-glyph-bar" target="_blank">Nothing couldn’t wait to show off the Phone 4A</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-23 13:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/radio-controlled-vintage-cars-500x500.jpg" alt="The first cars bold enough to drive themselves" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +159,20 @@
                 <span class="time">2026-02-23 00:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/22/apple-might-take-a-new-approach-to-announcing-its-next-products/" target="_blank">Apple might take a new approach to announcing its next products</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-22 23:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/white_satomini/huo-ji-ri-bao-260223amazon-500yi-tou-zi-openaiwei-ruan-tan-suo-chao-dao-ti-code-modefa-bu-1igc" target="_blank">硅基日报260223：Amazon 500亿投资OpenAI，微软探索超导体，Code Mode发布</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-23 13:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +218,6 @@
                 <span class="time">2026-02-23 09:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/rivet-agent-sandbox-sdk/en/headerimage/rivet-agent-sandbox-sdk-1771748160207.jpeg" alt="Rivet Launches the Sandbox Agent SDK to Solve Agent API Fragmentation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/rivet-agent-sandbox-sdk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Rivet Launches the Sandbox Agent SDK to Solve Agent API Fragmentation</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-23 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/dune-part-two-paul-timothee-chalamet-1280x853.jpg" alt="Timothée Chalamet Talks Going All Out for ‘Dune: Part Three’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/timothee-chalamet-talks-going-all-out-for-dune-part-three-2000725162" target="_blank">Timothée Chalamet Talks Going All Out for ‘Dune: Part Three’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-23 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/shutterstock_2651936799.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Under new ownership, Arcade1Up plans comeback" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/23/under-new-ownership-arcade1up-plans-comeback.html" target="_blank">Under new ownership, Arcade1Up plans comeback</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-23 12:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/daredevil-bornagain2-1280x853.jpg" alt="‘Daredevil: Born Again’ Showrunner Wishes the Show Wasn’t So Timely" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +291,6 @@
                 <span class="time">2026-02-22 23:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/12/4ff1b0f784c6143efba708457fe531b2-1024x576.jpg" alt="Sam Altman: Know What Else Used a Lot of Energy? Human Civilization" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sam-altman-know-what-else-used-a-lot-of-energy-human-civilization-2000725167" target="_blank">Sam Altman: Know What Else Used a Lot of Energy? Human Civilization</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-22 21:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/11/BrendanCarrr-1024x683.jpg" alt="Trump’s FCC Chair Wants Networks to Run Nationalistic Content and Pledge Loyalty for America’s Big Bday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trumps-fcc-chair-wants-networks-to-run-nationalistic-content-and-pledge-loyalty-for-americas-big-bday-2000725152" target="_blank">Trump’s FCC Chair Wants Networks to Run Nationalistic Content and Pledge Loyalty for America’s Big Bday</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-22 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 12:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 13:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
