@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-23 11:13:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-23 12:07:12 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, February 23, 2026 - 11:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, February 23, 2026 - 12:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cc2/live/07a98f30-10af-11f1-ae9c-bbdf8b825e1a.jpg" alt="Australia backs removing Andrew from royal line of succession" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr5lrny83dgo?at_medium=RSS&at_campaign=rss" target="_blank">Australia backs removing Andrew from royal line of succession</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-23 12:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/23/iran-says-ready-for-talks-but-will-defend-itself-against-us-aggression?traffic_source=rss" target="_blank">Iran says ready for talks but will defend itself against US aggression</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-23 11:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/nyc-main_1771832537079_hpMain_4x3t_384.jpg" alt="Blizzard live updates: Historic storm strikes with 3 inches an hour, thundersnow" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +103,38 @@
                 <span class="time">2026-02-23 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/23/football-matches-postponed-in-mexico-after-drug-cartel-leader-killed?traffic_source=rss" target="_blank">Football matches postponed in Mexico after drug cartel leader killed</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-23 09:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/nyc-main_1771832537079_hpMain_4x3t_384.jpg" alt="Winter storm live updates: Nor&#x27;easter producing 1-3 inches of snowfall per hour" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/live-updates/severe-winter-storm-live-updates-northeast-braces-blizzard/?id=130378101" target="_blank">Winter storm live updates: Nor&#x27;easter producing 1-3 inches of snowfall per hour</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-23 08:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/radio-controlled-vintage-cars-500x500.jpg" alt="The first cars bold enough to drive themselves" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/features/2026/02/the-first-cars-bold-enough-to-drive-themselves/" target="_blank">The first cars bold enough to drive themselves</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-23 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68e0955baaea97f1aa2e9157/master/pass/The%20Best%20iPad%20to%20Buy%20(and%20a%20Few%20to%20Avoid).png" alt="The Best iPad to Buy (and Some to Avoid) in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/the-best-ipad/" target="_blank">The Best iPad to Buy (and Some to Avoid) in 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-23 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/881882/taara-beam-provides-25gbps-connectivity-over-invisible-beams-of-light" target="_blank">Taara Beam provides 25Gbps connectivity over invisible beams of light</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-23 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,38 +162,29 @@
                 <span class="time">2026-02-22 23:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai" target="_blank">Samsung is adding Perplexity to Galaxy AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-22 22:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/882915/laurie-spiegel-the-expanding-universe-review-masterpiece-ambient-music" target="_blank">You need to listen to Laurie Spiegel’s masterpiece of early ambient music</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-22 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/22/quantonations-double-sized-second-fund-shows-quantum-still-has-believers/" target="_blank">Quantonation’s double-sized second fund shows quantum still has believers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-22 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RBOS-2026-02-22" target="_blank">RBOS 2026-02-22 As Latest Linux Live ISO To Showcase Wayland</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-23 11:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ladybird.org/posts/adopting-rust/" target="_blank">Ladybird Browser adopts Rust</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-23 11:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,22 +221,18 @@
                 <span class="time">2026-02-23 08:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mattcretzman/i-built-a-15-feature-ai-app-in-48-hours-as-a-solo-founder-heres-the-exact-method-4hdi" target="_blank">I Built a 15-Feature AI App in 48 Hours as a Solo Founder. Here&#x27;s the Exact Method.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-23 06:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fi.imgur.com%2FZpM96SU.png" alt="Face Avatar Generator — My Submission for the DEV x Google AI Studio Track" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lukeponga-dev/face-avatar-generator-my-submission-for-the-dev-x-google-ai-studio-track-k7i" target="_blank">Face Avatar Generator — My Submission for the DEV x Google AI Studio Track</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-23 04:26</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/on-the-security-of-password-managers.html" target="_blank">On the Security of Password Managers</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-02-23 12:03</span>
             </div>
         </div>
 </div>
@@ -218,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/daredevil-bornagain2-1280x853.jpg" alt="‘Daredevil: Born Again’ Showrunner Wishes the Show Wasn’t So Timely" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/daredevil-born-again-showrunner-wishes-the-show-wasnt-so-timely-2000725130" target="_blank">‘Daredevil: Born Again’ Showrunner Wishes the Show Wasn’t So Timely</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-23 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/gakjui1aspjg1.jpeg?fit=1920%2C800&amp;quality=60&amp;ssl=1" alt="Xteink&#x27;s X4: a $69 e-ink reader that magsafes to your wallet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/23/xteinks-x4-a-69-e-ink-reader-that-magsafes-to-your-wallet.html" target="_blank">Xteink&#x27;s X4: a $69 e-ink reader that magsafes to your wallet</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-23 11:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/3d-print-a-car-1280x791.jpg" alt="A Recent 3D Printing Breakthrough Brings Us One Step Closer to You Downloading a Car" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -254,24 +294,6 @@
                 <span class="time">2026-02-22 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/Switch_DonkeyKongCountryTropicalFreeze_ND0111_scrn_01_bmp_jpgcopy-1-1280x720.jpg" alt="The Video Game Industry Is Not Equipped to Handle What Comes Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/game-industry-generational-divide-roblox-nintendo-2000672648" target="_blank">The Video Game Industry Is Not Equipped to Handle What Comes Next</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-22 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/image-25.jpg" alt="New Tencent Studio Working On AAA Open-World Games Closes Without Ever Releasing Anything" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/timi-montreal-tencent-closed-kaiju-netease-2000672641" target="_blank">New Tencent Studio Working On AAA Open-World Games Closes Without Ever Releasing Anything</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-22 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -300,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 11:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 12:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
