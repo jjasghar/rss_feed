@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-23 10:15:52 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-23 11:13:35 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, February 23, 2026 - 10:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, February 23, 2026 - 11:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/nyc-main_1771832537079_hpMain_4x3t_384.jpg" alt="Blizzard live updates: Historic storm strikes with 3 inches an hour, thundersnow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/live-updates/severe-winter-storm-live-updates-northeast-braces-blizzard/?id=130378101" target="_blank">Blizzard live updates: Historic storm strikes with 3 inches an hour, thundersnow</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-23 11:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/23/gaza-child-dies-waiting-for-israeli-permission-to-leave-for-treatment?traffic_source=rss" target="_blank">Gaza child dies waiting for Israeli permission to leave for treatment</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-23 10:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/23/g-s1-110911/trump-immigration-judges-dismissals-numbers" target="_blank">U.S. has a quarter fewer immigration judges than it did a year ago. Here&#x27;s why</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-23 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,33 +93,6 @@
                 <span class="title"><a href="https://abcnews.com/US/live-updates/severe-winter-storm-live-updates-northeast-braces-blizzard/?id=130378101" target="_blank">Winter storm live updates: Nor&#x27;easter producing 1-3 inches of snowfall per hour</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-23 08:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/23/donald-trumps-actions-stir-election-concerns-in-the-lead-up-to-us-midterms?traffic_source=rss" target="_blank">Donald Trump’s actions stir election concerns in the lead-up to US midterms</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-23 07:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/23/g-s1-111138/mexico-fears-more-violence-after-army-kills-leader-of-powerful-jalisco-cartel" target="_blank">Mexico fears more violence after army kills leader of powerful Jalisco cartel</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-23 06:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4762/live/1529f130-107e-11f1-8ee3-49f22c5c2685.jpg" alt="Four years into its full-scale war in Ukraine, Russia is feeling the effects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gj20xzw39o?at_medium=RSS&at_campaign=rss" target="_blank">Four years into its full-scale war in Ukraine, Russia is feeling the effects</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-23 06:01</span>
             </div>
         </div>
 </div>
@@ -168,6 +162,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Red-Hat-Tuned-2.27" target="_blank">Red Hat Releases Tuned 2.27 For Adaptively Tuning Linux To Different Workloads</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-23 11:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/building-ai-agent-gateway-mcp/en/headerimage/building-ai-agent-gateway-mcp-header-1771417896950.jpg" alt="Article: Building a Least-Privilege AI Agent Gateway for Infrastructure Automation with MCP, OPA, and Ephemeral Runners" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/building-ai-agent-gateway-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Building a Least-Privilege AI Agent Gateway for Infrastructure Automation with MCP, OPA, and Ephemeral Runners</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-23 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/news/colorado-age-attestation-bill/" target="_blank">US State Colorado Wants Operating Systems to Tell Every App How Old You Are</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
@@ -199,24 +211,6 @@
                 <span class="title"><a href="https://dev.to/lukeponga-dev/face-avatar-generator-my-submission-for-the-dev-x-google-ai-studio-track-k7i" target="_blank">Face Avatar Generator — My Submission for the DEV x Google AI Studio Track</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-23 04:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmye8e76r1uqj7agthjer.png" alt="I Built a Usage-Based Billing Engine From Scratch — Here&#x27;s How It Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ajithmanmu/i-built-a-usage-based-billing-engine-from-scratch-heres-how-it-works-2l58" target="_blank">I Built a Usage-Based Billing Engine From Scratch — Here&#x27;s How It Works</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-23 03:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://fmhy.net/" target="_blank">Freemediaheckyeah</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-23 03:35</span>
             </div>
         </div>
 </div>
@@ -306,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 10:16 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 11:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
