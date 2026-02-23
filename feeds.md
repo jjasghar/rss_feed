@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-23 21:13:05 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-23 22:12:19 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Dev.to -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, February 23, 2026 - 21:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, February 23, 2026 - 22:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/mexico-1-gty-er-260223_1771863974938_hpMain_4x3t_384.jpg" alt="What to know about Mexico violence as president offers reassurances" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/greater-calm-after-violence-erupted-killing-drug-lord/story?id=130410564" target="_blank">What to know about Mexico violence as president offers reassurances</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-23 21:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e39e/live/a5ab2ba0-10cb-11f1-b4d3-abf57a569766.jpg" alt="Mexico sends thousands of soldiers to stop violence after death of drug lord" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss" target="_blank">Mexico sends thousands of soldiers to stop violence after death of drug lord</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-23 21:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +96,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/now/video/former-u-k-ambassador-to-the-u-s-arrested-amid-epstein-investigation-258143301563" target="_blank">Former U.K. ambassador to the U.S. arrested amid Epstein investigation</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-23 18:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/puerta-vallarta-1-rt-jef-260223_1771870013406_hpMain_4x3t_384.jpg" alt="US embassy alerts Americans in Mexico to shelter in place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Travel/us-embassy-alerts-americans-mexico-shelter-place/story?id=130409337" target="_blank">US embassy alerts Americans in Mexico to shelter in place</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-23 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/23/g-s1-111202/winter-storm-northeast-travel-airport-flight-train-roads-new-york-boston" target="_blank">A powerful winter storm is roiling travel across the northeastern U.S.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-23 18:16</span>
             </div>
         </div>
 </div>
@@ -171,6 +172,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-2e0k" target="_blank">8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-23 22:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18891149&w=600" alt="Azure SLM Showdown: Evaluating Phi-3, Llama 3, and Snowflake Arctic for Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -206,15 +216,6 @@
                 <span class="time">2026-02-23 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-OpenVINO-2026.0-Released" target="_blank">Intel Releases OpenVINO 2026 With Improved NPU Handling, Expanded LLM Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-23 18:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/2025_DEC_Marathon_Press_Kit_Compressed_014-1280x720.jpg" alt="Marathon Is Already Improving On Arc Raiders In One Key Area" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marathon-is-already-improving-on-arc-raiders-in-one-key-area-2000672901" target="_blank">Marathon Is Already Improving On Arc Raiders In One Key Area</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-23 21:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/hospital-IV-1280x853.jpg" alt="Woman Loses Her Limbs After Innocent Dog Lick" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,20 +289,20 @@
                 <span class="time">2026-02-23 19:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/slay-the-spire-2-e1771863603398.jpg" alt="Slay The Spire 2 Is The New Silksong As Indie Games Delay Themselves To Dodge Its Blast Radius" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/slay-spire-2-steam-roguelike-delay-2000672790" target="_blank">Slay The Spire 2 Is The New Silksong As Indie Games Delay Themselves To Dodge Its Blast Radius</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-23 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/23/overreach" target="_blank">Overreach</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-02-23 21:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1771630698-20260223.png" alt="Saturday Morning Breakfast Cereal - Never" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -316,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 21:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 22:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
