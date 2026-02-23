@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-23 16:14:45 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-02-23 17:21:35 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, February 23, 2026 - 16:14 UTC</div>
+    <div class="newspaper-date">Monday, February 23, 2026 - 17:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +107,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/" target="_blank">Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-23 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/02/23/vpn-flaws-allowed-chinese-hackers-to-compromise-dozens-of-ivanti-customers-says-report/" target="_blank">VPN flaws allowed Chinese hackers to compromise dozens of Ivanti customers, says report</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-23 16:06</span>
@@ -146,20 +157,38 @@
                 <span class="time">2026-02-23 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/radio-controlled-vintage-cars-500x500.jpg" alt="The first cars bold enough to drive themselves" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/features/2026/02/the-first-cars-bold-enough-to-drive-themselves/" target="_blank">The first cars bold enough to drive themselves</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-23 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18891080&w=600" alt="The Quantum Computing Mirage: What Three Years of Broken Promises Have Taught Me" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/the-quantum-computing-mirage-what-three-years-of-b" target="_blank">The Quantum Computing Mirage: What Three Years of Broken Promises Have Taught Me</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-23 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Firefox-148" target="_blank">Firefox 148 Now Available With The New AI Controls / AI Kill Switches</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-23 16:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18892273&w=600" alt="Designing Predictable Logic in User-Driven Web Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -187,33 +216,6 @@
                 <span class="time">2026-02-23 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/02/23/defense-against-uploads-oss-file-scanner-pompelmi/" target="_blank">Defense against uploads: Q&amp;A with OSS file scanner, pompelmi</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-02-23 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Six-Million-Lines-Linux-7.0" target="_blank">Modern AMD Graphics Driver Surpasses Six Million Lines Of Code In Linux 7.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-23 14:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bala_dkaveri_443d4beb9c8/day-4-of-my-automation-journey-understanding-class-object-memory-in-java-3okc" target="_blank">🚀 Day 4 of My Automation Journey – Understanding Class, Object &amp; Memory in Java</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-23 14:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/nothing-phone-4a-1280x853.jpg" alt="This Is What Nothing’s Next ‘Transparent’ Phone Looks Like" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/heres-what-nothings-next-transparent-phone-looks-like-2000725383" target="_blank">This Is What Nothing’s Next ‘Transparent’ Phone Looks Like</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-23 17:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HWB9CVKW2PY6EWYQE2ANEQ5S/hero-image.jpg" alt="25 of the Best New Movies Streaming on HBO Max" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/the-best-new-recent-exclusive-movies-on-hbo-max?utm_medium=RSS" target="_blank">25 of the Best New Movies Streaming on HBO Max</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-23 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/apple-ai-pin-1280x853.jpg" alt="Apple’s AI Gadgets Don’t Sound Groundbreaking at All" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +289,6 @@
                 <span class="time">2026-02-23 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/shutterstock_2651936799.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Under new ownership, Arcade1Up plans comeback" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/23/under-new-ownership-arcade1up-plans-comeback.html" target="_blank">Under new ownership, Arcade1Up plans comeback</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-23 12:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/daredevil-bornagain2-1280x853.jpg" alt="‘Daredevil: Born Again’ Showrunner Wishes the Show Wasn’t So Timely" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/daredevil-born-again-showrunner-wishes-the-show-wasnt-so-timely-2000725130" target="_blank">‘Daredevil: Born Again’ Showrunner Wishes the Show Wasn’t So Timely</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-23 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,22 +303,13 @@
                 <span class="time">2026-02-23 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1771630658-20260222.png" alt="Saturday Morning Breakfast Cereal - Ant" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/ant" target="_blank">Saturday Morning Breakfast Cereal - Ant</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-02-22 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 16:14 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 17:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
