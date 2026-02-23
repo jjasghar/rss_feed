@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-23 00:07:35 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-23 01:31:03 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, February 23, 2026 - 00:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, February 23, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,10 +44,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/22/nx-s1-5722918/new-dinosaur-spinosaurus-fossil-niger-horn-sereno" target="_blank">Newly discovered dinosaur species was a fish-eater with a huge horn</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-23 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/secret-service-mar-a-lago-rt-jh_1771800434497_hpMain_4x3t_384.jpg" alt="What we know about the man killed at Mar-a-Lago" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/man-killed-mar-lago/story?id=130393889" target="_blank">What we know about the man killed at Mar-a-Lago</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-22 23:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/22/brazil-does-not-want-a-new-cold-war-says-lula?traffic_source=rss" target="_blank">Brazil does not want ‘a new Cold War’, says President Lula</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-22 23:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1044/live/93cd4cb0-101c-11f1-97dc-1bcd549ea2c5.jpg" alt="Billions in SEND funding to make schools more inclusive, ministers say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8r1pmz3zgzo?at_medium=RSS&at_campaign=rss" target="_blank">Billions in SEND funding to make schools more inclusive, ministers say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-22 22:29</span>
             </div>
         </div>
 <div class="story">
@@ -72,33 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/2/22/what-will-trumps-latest-sweeping-tariffs-mean-for-the-world?traffic_source=rss" target="_blank">What will Trump’s latest sweeping tariffs mean for the world?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-22 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/AP26025839055918_1771730939113_hpMain_4x3t_384.jpg" alt="Severe winter storm live updates: &#x27;The worst is yet to come,&#x27; NY Gov. Hochul says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/live-updates/severe-winter-storm-live-updates-northeast-braces-blizzard/?id=130378101" target="_blank">Severe winter storm live updates: &#x27;The worst is yet to come,&#x27; NY Gov. Hochul says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-22 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/22/syria-moves-out-last-residents-of-isil-linked-desert-camp?traffic_source=rss" target="_blank">Syria moves out last residents of ISIL-linked desert camp</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-22 20:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a550/live/c7902e10-1002-11f1-909d-47e99fcb7a58.jpg" alt="Armed man killed after entering secure perimeter of Trump&#x27;s residence, Secret Service says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss" target="_blank">Armed man killed after entering secure perimeter of Trump&#x27;s residence, Secret Service says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-22 19:30</span>
             </div>
         </div>
 </div>
@@ -166,12 +160,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffis4fjbyndtxo31csbnj.png" alt="Choosing and Configuring Azure Storage for Your Company Application" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pirrezz/choosing-and-configuring-azure-storage-for-your-company-application-5fmf" target="_blank">Choosing and Configuring Azure Storage for Your Company Application</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-23 01:19</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jjdelcerro/disenando-memoria-narrativa-trazable-para-agentes-conversacionales-14e9" target="_blank">Diseñando memoria narrativa trazable para agentes conversacionales</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-23 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/02/openjdk-25-ubuntu-2604.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 LTS will default to OpenJDK 25" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/ubuntu-2604-openjdk-25-default" target="_blank">Ubuntu 26.04 LTS will default to OpenJDK 25</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-02-22 23:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc1-Released" target="_blank">Linux 7.0-rc1 Released With Many New Features:</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-22 22:16</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +211,6 @@
                 <span class="title"><a href="https://hawksley.org/2026/02/17/timeframe.html" target="_blank">I built Timeframe, our family e-paper dashboard</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-22 19:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNU-Gawk-5.4-Released" target="_blank">GNU Gawk 5.4 Released With New MinRX Regex Matcher, Faster Reading Of Files</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-22 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftbk8f4fc0g8xlafaum2r.png" alt="Building a Global AI Design Studio: RAG, Vector Search, and the Physics of Localization" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thirupathi_pyati/building-a-global-ai-design-studio-rag-vector-search-and-the-physics-of-localization-2b79" target="_blank">Building a Global AI Design Studio: RAG, Vector Search, and the Physics of Localization</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-22 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AOMedia-OAC-Open-Audio-Codec" target="_blank">AOMedia Open Audio Codec &quot;OAC&quot; Aims To Be The Successor To Opus</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-22 14:57</span>
             </div>
         </div>
 </div>
@@ -270,12 +264,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/olympcs-1280x836.jpg" alt="Winters Olympics Figure Skating Caps Things Off With Deadpool, Kung Fu Panda, And Mortal Kombat‘s Sub-Zero" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/PromptBuilder-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Optimize your AI experience with specially made prompts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/winter-olympics-figure-skating-mortal-kombat-deadpool-2000672627" target="_blank">Winters Olympics Figure Skating Caps Things Off With Deadpool, Kung Fu Panda, And Mortal Kombat‘s Sub-Zero</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-22 15:46</span>
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/22/optimize-your-ai-experience-with-specially-made-prompts.html" target="_blank">Optimize your AI experience with specially made prompts</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-22 16:00</span>
             </div>
         </div>
 </div>
@@ -297,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 00:07 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
