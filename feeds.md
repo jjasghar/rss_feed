@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-02-23 02:57:32 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-23 03:53:23 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, February 23, 2026 - 02:57 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, February 23, 2026 - 03:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/23/russia-ukraine-war-list-of-key-events-day-1460?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,460</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-23 02:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +103,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky tells BBC Putin has started WW3 and must be stopped</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-22 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/2/22/what-will-trumps-latest-sweeping-tariffs-mean-for-the-world?traffic_source=rss" target="_blank">What will Trump’s latest sweeping tariffs mean for the world?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-22 21:45</span>
             </div>
         </div>
 </div>
@@ -165,6 +170,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmye8e76r1uqj7agthjer.png" alt="I Built a Usage-Based Billing Engine From Scratch — Here&#x27;s How It Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ajithmanmu/i-built-a-usage-based-billing-engine-from-scratch-heres-how-it-works-2l58" target="_blank">I Built a Usage-Based Billing Engine From Scratch — Here&#x27;s How It Works</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-23 03:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/spring-news-roundup-feb16-2026/en/headerimage/java-istock-image-01-1771781430362.jpg" alt="Spring News Roundup: Second Milestone Releases of Boot, Security, Integration, Modulith, AMQP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/spring-news-roundup-feb16-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Spring News Roundup: Second Milestone Releases of Boot, Security, Integration, Modulith, AMQP</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-23 02:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffis4fjbyndtxo31csbnj.png" alt="Choosing and Configuring Azure Storage for Your Company Application" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,24 +221,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc1-Released" target="_blank">Linux 7.0-rc1 Released With Many New Features:</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-22 22:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/victoraguilarc/6-openclaw-en-macmini-mantenimiento-2089" target="_blank">6. OpenClaw en MacMini, Mantenimiento.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-22 20:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://hawksley.org/2026/02/17/timeframe.html" target="_blank">I built Timeframe, our family e-paper dashboard</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-22 19:12</span>
             </div>
         </div>
 </div>
@@ -296,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 02:57 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 03:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
