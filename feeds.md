@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-23 07:21:48 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-02-23 08:10:12 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, February 23, 2026 - 07:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, February 23, 2026 - 08:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/23/donald-trumps-actions-stir-election-concerns-in-the-lead-up-to-us-midterms?traffic_source=rss" target="_blank">Donald Trump’s actions stir election concerns in the lead-up to US midterms</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-23 07:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/23/g-s1-111138/mexico-fears-more-violence-after-army-kills-leader-of-powerful-jalisco-cartel" target="_blank">Mexico fears more violence after army kills leader of powerful Jalisco cartel</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-23 06:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4762/live/1529f130-107e-11f1-8ee3-49f22c5c2685.jpg" alt="Four years into its full-scale war in Ukraine, Russia is feeling the effects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gj20xzw39o?at_medium=RSS&at_campaign=rss" target="_blank">Four years into its full-scale war in Ukraine, Russia is feeling the effects</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-23 06:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +99,20 @@
                 <span class="time">2026-02-23 00:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-alex-rossi-ukraine_7172449.jpg?20260223012623" alt="Fighting the enemy in the sky with Ukraine&#x27;s &#x27;drone hunter&#x27; unit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/the-kalashnikov-is-the-most-effective-tool-fighting-the-enemy-in-the-sky-with-ukraines-drone-hunter-unit-13510976" target="_blank">Fighting the enemy in the sky with Ukraine&#x27;s &#x27;drone hunter&#x27; unit</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-23 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/secret-service-mar-a-lago-rt-jh_1771800434497_hpMain_4x3t_384.jpg" alt="What we know about the man killed at Mar-a-Lago" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/man-killed-mar-lago/story?id=130393889" target="_blank">What we know about the man killed at Mar-a-Lago</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-22 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/22/brazil-does-not-want-a-new-cold-war-says-lula?traffic_source=rss" target="_blank">Brazil does not want ‘a new Cold War’, says President Lula</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-22 23:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/23/wispr-flow-launches-an-android-app-for-ai-powered-dictation/" target="_blank">Wispr Flow launches an Android app for AI-powered dictation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-23 08:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/699b9a09c0678ca26a9a6862/master/pass/artemis.jpg" alt="NASA Delays Launch of Artemis II Lunar Mission Once Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +158,20 @@
                 <span class="time">2026-02-22 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/882881/trump-netflix-consequences-fire-susan-rice" target="_blank">Trump says Netflix will ‘pay the consequences’ if it doesn’t fire Susan Rice</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-22 15:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/rivet-agent-sandbox-sdk/en/headerimage/rivet-agent-sandbox-sdk-1771748160207.jpeg" alt="Rivet Launches the Sandbox Agent SDK to Solve Agent API Fragmentation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/rivet-agent-sandbox-sdk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Rivet Launches the Sandbox Agent SDK to Solve Agent API Fragmentation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-23 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +215,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/02/spring-news-roundup-feb16-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Spring News Roundup: Second Milestone Releases of Boot, Security, Integration, Modulith, AMQP</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-02-23 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffis4fjbyndtxo31csbnj.png" alt="Choosing and Configuring Azure Storage for Your Company Application" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pirrezz/choosing-and-configuring-azure-storage-for-your-company-application-5fmf" target="_blank">Choosing and Configuring Azure Storage for Your Company Application</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-23 01:19</span>
             </div>
         </div>
 </div>
@@ -294,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 07:21 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 41 | 📸 With Images: 276 |
+        🔄 Last Updated: 08:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
