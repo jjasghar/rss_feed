@@ -1,42 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-23 15:14:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-23 16:14:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 34 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, February 23, 2026 - 15:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, February 23, 2026 - 16:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/23/nx-s1-5723755/2026-winter-olympics-npr-reporter-reflections" target="_blank">What NPR reporters will remember most about these Winter Olympics</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-23 15:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/23/pakistan-vs-england-t20-world-cup-super-eight-team-news-start-time-xi?traffic_source=rss" target="_blank">Pakistan vs England: T20 World Cup Super Eight – team news, start time, XI</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-23 15:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,29 +96,29 @@
                 <span class="time">2026-02-23 13:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cc2/live/07a98f30-10af-11f1-ae9c-bbdf8b825e1a.jpg" alt="Australia backs removing Andrew from royal line of succession" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr5lrny83dgo?at_medium=RSS&at_campaign=rss" target="_blank">Australia backs removing Andrew from royal line of succession</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-23 12:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/23/iran-says-ready-for-talks-but-will-defend-itself-against-us-aggression?traffic_source=rss" target="_blank">Iran says ready for talks but will defend itself against US aggression</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-23 11:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/23/vpn-flaws-allowed-chinese-hackers-to-compromise-dozens-of-ivanti-customers-says-report/" target="_blank">VPN flaws allowed Chinese hackers to compromise dozens of Ivanti customers, says report</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-23 16:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube" target="_blank">If Big Tech cared about fighting AI slop, it wouldn’t be drowning us in it</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-23 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/dunkTOP-500x500.jpg" alt="Review: Knight of the Seven Kingdoms brings back that Westeros magic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,29 +155,20 @@
                 <span class="time">2026-02-23 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e0955baaea97f1aa2e9157/master/pass/The%20Best%20iPad%20to%20Buy%20(and%20a%20Few%20to%20Avoid).png" alt="The Best iPad to Buy (and Some to Avoid) in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/the-best-ipad/" target="_blank">The Best iPad to Buy (and Some to Avoid) in 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-23 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/881882/taara-beam-provides-25gbps-connectivity-over-invisible-beams-of-light" target="_blank">Taara Beam provides 25Gbps connectivity over invisible beams of light</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-23 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18892273&w=600" alt="Designing Predictable Logic in User-Driven Web Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/predictable-logic-user-driven-web-tools" target="_blank">Designing Predictable Logic in User-Driven Web Tools</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-23 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -177,6 +176,15 @@
                 <span class="title"><a href="https://dev.to/enoughsudhanshu/hello-dev-community-a-passionate-developer-joining-the-journey-225d" target="_blank">Hello Dev Community! A Passionate Developer Joining the Journey</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-23 15:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/uber-uforwarder-kafka-push-proxy/en/headerimage/generatedHeaderImage-1771098351627.jpg" alt="Uforwarder: Uber’s Scalable Kafka Consumer Proxy for Efficient Event-Driven Microservices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/uber-uforwarder-kafka-push-proxy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uforwarder: Uber’s Scalable Kafka Consumer Proxy for Efficient Event-Driven Microservices</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-23 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -206,24 +214,6 @@
                 <span class="time">2026-02-23 14:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.1-devel-ANV-H265-Encode" target="_blank">Intel ANV Driver Sees Several Vulkan Video H.265 Encode Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-23 13:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/white_satomini/huo-ji-ri-bao-260223amazon-500yi-tou-zi-openaiwei-ruan-tan-suo-chao-dao-ti-code-modefa-bu-1igc" target="_blank">硅基日报260223：Amazon 500亿投资OpenAI，微软探索超导体，Code Mode发布</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-23 13:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/apple-ai-pin-1280x853.jpg" alt="Apple’s AI Gadgets Don’t Sound Groundbreaking at All" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/apples-ai-gadgets-dont-sound-groundbreaking-at-all-2000725307" target="_blank">Apple’s AI Gadgets Don’t Sound Groundbreaking at All</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-23 16:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/shutterstock_1637735470.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="BBC edits out &quot;Free Palestine&quot; at BAFTAs, leaves in racial slur from man with Tourette Syndrome" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +287,6 @@
                 <span class="time">2026-02-23 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/gakjui1aspjg1.jpeg?fit=1920%2C800&amp;quality=60&amp;ssl=1" alt="Xteink&#x27;s X4: a $69 e-ink reader that magsafes to your wallet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/23/xteinks-x4-a-69-e-ink-reader-that-magsafes-to-your-wallet.html" target="_blank">Xteink&#x27;s X4: a $69 e-ink reader that magsafes to your wallet</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-23 11:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 15:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 16:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
