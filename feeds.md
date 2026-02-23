@@ -1,34 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-02-23 18:17:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-23 19:22:46 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Generated 13 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, February 23, 2026 - 18:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, February 23, 2026 - 19:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +56,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/23/israeli-settlers-deface-set-fire-to-west-bank-mosque-during-ramadan?traffic_source=rss" target="_blank">Israeli settlers deface, set fire to West Bank mosque during Ramadan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-23 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771871956078_now_daily_a_sanchez_mandelson_arrest_260223_1920x1080-mt2z41.jpg" alt="Former U.K. ambassador to the U.S. arrested amid Epstein investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/former-u-k-ambassador-to-the-u-s-arrested-amid-epstein-investigation-258143301563" target="_blank">Former U.K. ambassador to the U.S. arrested amid Epstein investigation</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-23 18:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/puerta-vallarta-1-rt-jef-260223_1771870013406_hpMain_4x3t_384.jpg" alt="US embassy alerts Americans in Mexico to shelter in place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Travel/us-embassy-alerts-americans-mexico-shelter-place/story?id=130409337" target="_blank">US embassy alerts Americans in Mexico to shelter in place</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-23 18:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/23/g-s1-111202/winter-storm-northeast-travel-airport-flight-train-roads-new-york-boston" target="_blank">A powerful winter storm is roiling travel across the northeastern U.S.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-23 18:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/02/23/g-s1-111196/uk-peter-mandelson-epstein-misconduct-investigation" target="_blank">U.K. arrests ex-ambassador to the U.S. on suspicion of misconduct over Epstein ties</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -60,42 +105,6 @@
                 <span class="title"><a href="https://abcnews.com/International/lord-peter-mandelson-arrested-suspicion-misconduct-public-office/story?id=130417766" target="_blank">Peter Mandelson arrested on suspicion of misconduct in public office</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-23 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/23/nx-s1-5723755/2026-winter-olympics-npr-reporter-reflections" target="_blank">What NPR reporters will remember most about these Winter Olympics</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-23 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/23/pakistan-vs-england-t20-world-cup-super-eight-team-news-start-time-xi?traffic_source=rss" target="_blank">Pakistan vs England: T20 World Cup Super Eight – team news, start time, XI</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-23 15:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/23/israel-designates-five-palestinian-news-outlets-as-terrorist-organisation?traffic_source=rss" target="_blank">Israel designates five Palestinian news outlets as ‘terrorist’ groups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-23 14:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/23/robert-mugabe-son-bellarmine-mugabe-charged-with-crimes" target="_blank">Robert Mugabe’s son charged with attempted murder over Johannesburg shooting</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-23 13:48</span>
             </div>
         </div>
 </div>
@@ -172,6 +181,33 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ritam369/javascript-operators-the-fundamentals-you-need-to-know-4ll2" target="_blank">JavaScript Operators: The Fundamentals You Need to Know</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-23 19:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18891133&w=600" alt="Supply Chain Security for Tools and Prompts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/supply-chain-security-for-prompts-and-tools-signal" target="_blank">Supply Chain Security for Tools and Prompts</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-23 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-OpenVINO-2026.0-Released" target="_blank">Intel Releases OpenVINO 2026 With Improved NPU Handling, Expanded LLM Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-23 18:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18891080&w=600" alt="The Quantum Computing Mirage: What Three Years of Broken Promises Have Taught Me" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -187,33 +223,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Firefox-148" target="_blank">Firefox 148 Now Available With The New AI Controls / AI Kill Switches</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-23 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18892273&w=600" alt="Designing Predictable Logic in User-Driven Web Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/predictable-logic-user-driven-web-tools" target="_blank">Designing Predictable Logic in User-Driven Web Tools</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-23 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/enoughsudhanshu/hello-dev-community-a-passionate-developer-joining-the-journey-225d" target="_blank">Hello Dev Community! A Passionate Developer Joining the Journey</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-23 15:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/uber-uforwarder-kafka-push-proxy/en/headerimage/generatedHeaderImage-1771098351627.jpg" alt="Uforwarder: Uber’s Scalable Kafka Consumer Proxy for Efficient Event-Driven Microservices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/uber-uforwarder-kafka-push-proxy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uforwarder: Uber’s Scalable Kafka Consumer Proxy for Efficient Event-Driven Microservices</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-23 15:00</span>
             </div>
         </div>
 </div>
@@ -235,6 +244,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_2721758461-1280x794.jpg" alt="Colorado Legislators Want Device-Level Age Restrictions for Minors. Here’s What That Means" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/colorado-legislators-want-device-level-age-restrictions-for-minors-heres-what-that-means-2000725313" target="_blank">Colorado Legislators Want Device-Level Age Restrictions for Minors. Here’s What That Means</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-23 19:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/slay-the-spire-2-e1771863603398.jpg" alt="Slay The Spire 2 Is The New Silksong As Indie Games Delay Themselves To Dodge Its Blast Radius" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/slay-spire-2-steam-roguelike-delay-2000672790" target="_blank">Slay The Spire 2 Is The New Silksong As Indie Games Delay Themselves To Dodge Its Blast Radius</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-23 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K111S7PP427SXX14RBD8P5ES/hero-image.png" alt="I Love This Portable Projector, and This Bundle Makes It an Even Better Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/xgimi-mogo-3-pro-portable-projector-deal-february-2026?utm_medium=RSS" target="_blank">I Love This Portable Projector, and This Bundle Makes It an Even Better Deal</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-23 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/netflix-frankenstgein-kpop-demon-hunters-criterion-1280x853.jpg" alt="‘Frankenstein’ and ‘KPop Demon Hunters’ Will Be Freed From Streaming Shackles by the Criterion Collection" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,33 +296,6 @@
                 <span class="title"><a href="https://gizmodo.com/heres-what-nothings-next-transparent-phone-looks-like-2000725383" target="_blank">This Is What Nothing’s Next ‘Transparent’ Phone Looks Like</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-23 17:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/06/4b4525ca641eded69a76077c2d90102a-1280x720.jpg" alt="Assassin’s Creed Vets Who Led Black Flag And Origins Now In Charge Of Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/assassins-creed-black-flag-vets-leading-frnachise-series-vantage-new-games-2000672792" target="_blank">Assassin’s Creed Vets Who Led Black Flag And Origins Now In Charge Of Series</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-23 17:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HWB9CVKW2PY6EWYQE2ANEQ5S/hero-image.jpg" alt="25 of the Best New Movies Streaming on HBO Max" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/the-best-new-recent-exclusive-movies-on-hbo-max?utm_medium=RSS" target="_blank">25 of the Best New Movies Streaming on HBO Max</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-23 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/apple-ai-pin-1280x853.jpg" alt="Apple’s AI Gadgets Don’t Sound Groundbreaking at All" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/apples-ai-gadgets-dont-sound-groundbreaking-at-all-2000725307" target="_blank">Apple’s AI Gadgets Don’t Sound Groundbreaking at All</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-23 16:10</span>
             </div>
         </div>
 </div>
@@ -317,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 18:17 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 19:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
