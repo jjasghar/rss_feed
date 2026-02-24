@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-24 13:27:48 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-24 14:18:20 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, February 24, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, February 24, 2026 - 14:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260224-guthrie-rs-67ef86.jpg" alt="Savannah Guthrie says family is offering $1 million reward in mother&#x27;s disappearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/savannah-guthrie-new-video-reward-rcna260411" target="_blank">Savannah Guthrie says family is offering $1 million reward in mother&#x27;s disappearance</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-24 14:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +101,29 @@
                 <span class="time">2026-02-24 11:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/24/new-trump-tariffs-take-effect-days-after-supreme-court-decision?traffic_source=rss" target="_blank">New Trump tariffs take effect days after Supreme Court decision</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-24 10:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/07/meta-ai-500x500.jpg" alt="Meta could end up owning 10% of AMD in new chip deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/02/meta-could-end-up-owning-of-10-amd-in-new-chip-deal/" target="_blank">Meta could end up owning 10% of AMD in new chip deal</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-24 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/24/conduent-data-breach-grows-affecting-at-least-25m-people/" target="_blank">Conduent data breach grows, affecting at least 25M people</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-24 14:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6849bd25bf7204ccbda22354/master/pass/The%20Best%202-in-1%20Laptops%20to%20Flip%20Between%20Work%20and%20Play.png" alt="6 Best 2-in-1 Laptops (2026), WIRED-Approved and Tested" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,24 +160,6 @@
                 <span class="time">2026-02-24 07:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/23/stripe-paypal-ventures-bet-on-indias-xflow-to-fix-cross-border-b2b-payments/" target="_blank">Stripe, PayPal Ventures bet on India’s Xflow to fix cross-border B2B payments</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-24 05:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/" target="_blank">A Meta AI security researcher said an OpenClaw agent ran amok on her inbox</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-24 00:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -179,10 +177,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/azul-malware-analysis-repository/" target="_blank">Australia&amp;#x27;s Cyber Agency Releases Azul, an Open Source Malware Analysis Repository</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-24 13:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/giftcup/contributing-to-ocaml-tiff-so-far-writing-tiff-files-45an" target="_blank">Contributing to OCaml-Tiff So Far - Writing TIFF Files</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-24 13:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-HIP-Default-New-Offload" target="_blank">AMD&#x27;s HIP Moves To Using LLVM&#x27;s New Offload Driver By Default</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-24 13:09</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +217,6 @@
                 <span class="title"><a href="https://github.com/hash-anu/snkv" target="_blank">Show HN: SNKV – SQLite&#x27;s B-tree as a key-value store (C/C++ and Python bindings)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-24 12:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/formae-multi-cloud/en/headerimage/generatedHeaderImage-1771592174849.jpg" alt="Platform Engineering Labs Expands formae with Multi-Cloud Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/formae-multi-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Platform Engineering Labs Expands formae with Multi-Cloud Support</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-24 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.6.1" target="_blank">KDE Plasma 6.6.1 Released With Initial Batch Of Bug Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-24 11:02</span>
             </div>
         </div>
 </div>
@@ -240,6 +238,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/jbl-bandbox-review-01-1280x853.jpg" alt="JBL Bandbox Solo Review: An AI Speaker You Can Actually Love" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jbl-bandbox-solo-review-an-ai-speaker-you-can-actually-love-2000724702" target="_blank">JBL Bandbox Solo Review: An AI Speaker You Can Actually Love</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-24 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJ6WXYTNR13RAG0E9HMJNR6G/hero-image.png" alt="These Workout-Ready Beats Earbuds Are $90 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/beats-powerbeats-pro-2-sale-february-2026?utm_medium=RSS" target="_blank">These Workout-Ready Beats Earbuds Are $90 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-24 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/image-9-2.jpg" alt="Fans, Creators, And Developers Explain What Makes Pokémon So Special" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-day-30-anniversary-go-anime-cosplay-stream-2000672824" target="_blank">Fans, Creators, And Developers Explain What Makes Pokémon So Special</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-24 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/peter-claffey-dexter-sol-ansell_0-3-2-1280x853.jpg" alt="Why ‘A Knight of the Seven Kingdoms’ Didn’t Use the Books’ Title" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,33 +290,6 @@
                 <span class="title"><a href="https://gizmodo.com/tesla-goes-after-california-dmv-suing-over-false-advertising-decision-2000725675" target="_blank">Tesla Goes After California DMV, Suing Over False Advertising Decision</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-24 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/10/shutterstock_2189112945-scaled-e1747248937162.jpg?fit=768%2C614&amp;quality=60&amp;ssl=1" alt="On CNN, Newsom again tries to convince conservatives he&#x27;s &quot;not that kind of Democrat&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/23/on-cnn-newsom-again-tries-to-convince-conservatives-hes-not-that-kind-of-democrat.html" target="_blank">On CNN, Newsom again tries to convince conservatives he&#x27;s &quot;not that kind of Democrat&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-24 03:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/01/DeepSeek-iPhone-App-1280x853.jpg" alt="Anthropic Says Chinese AI Companies Improved Models By ‘Illicitly’ Copying Its Capabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/anthropic-says-chinese-ai-companies-made-models-by-illicitly-copying-its-capabilities-2000725717" target="_blank">Anthropic Says Chinese AI Companies Improved Models By ‘Illicitly’ Copying Its Capabilities</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-24 01:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/gunsanddope.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Supreme Court will decide if pot smokers can own guns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/23/supreme-court-will-decide-if-pot-smokers-can-own-guns.html" target="_blank">Supreme Court will decide if pot smokers can own guns</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-24 00:21</span>
             </div>
         </div>
 </div>
@@ -331,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 14:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
