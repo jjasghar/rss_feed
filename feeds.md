@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-02-24 11:13:50 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-24 12:08:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, February 24, 2026 - 11:14 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, February 24, 2026 - 12:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/24/european-leaders-pray-with-ukraines-zelenskyy-on-invasion-anniversary?traffic_source=rss" target="_blank">European leaders pray with Ukraine’s Zelenskyy on invasion anniversary</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-24 11:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/sotu-gty-er-260223_1771868472056_hpMain_4x3t_384.jpg" alt="State of the Union: Trump expected to tout achievements ahead of midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/state-union-trump-expected-tout-achievements-ahead-midterms/story?id=130387697" target="_blank">State of the Union: Trump expected to tout achievements ahead of midterms</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-24 11:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +105,29 @@
                 <span class="time">2026-02-24 07:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/24/g-s1-111308/fbi-director-invites-fresh-scrutiny-over-travels-with-appearance-at-us-mens-hockey-team-celebration" target="_blank">FBI director invites fresh scrutiny over travels with appearance at US men&#x27;s hockey team celebration</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-24 07:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/2/24/kashmir-spying-demolitions-how-modis-india-embraced-israel-model?traffic_source=rss" target="_blank">Kashmir, spying, demolitions: How Modi’s India embraced ‘Israel model’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-24 06:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/699cfe39439f9e560fad8272/master/pass/IMG_5903.jpeg" alt="Salsa Wanderosa Electric Bike Review: Full-Suspension Drop-Bar Gravel Ride" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/salsa-wanderosa-electric-gravel-bike/" target="_blank">Salsa Wanderosa Electric Bike Review: Full-Suspension Drop-Bar Gravel Ride</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-24 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/883581/apple-mac-mini-production-texas-houston" target="_blank">Apple will soon make (some) Mac Minis in the US</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-24 11:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +162,6 @@
                 <span class="title"><a href="https://www.wired.com/story/klipsch-flexus-core-200-deal-226/" target="_blank">Start Your Surround Sound Journey With $50 off This Klipsch Soundbar</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-23 23:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/699a853f32429c68a5920bbd/master/pass/The%20Best%20Duffel%20Bags%20for%20Commuters%20and%20Overpackers.png" alt="6 Best Duffel Bags We Tested While Traveling (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-duffel-bags/" target="_blank">6 Best Duffel Bags We Tested While Traveling (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-23 22:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1348666509-500x500.jpg" alt="Pentagon buyer: We&#x27;re happy with our launch industry, but payloads are lagging" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/02/pentagon-buyer-were-happy-with-our-launch-industry-but-payloads-are-lagging/" target="_blank">Pentagon buyer: We&#x27;re happy with our launch industry, but payloads are lagging</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-23 22:14</span>
             </div>
         </div>
 </div>
@@ -222,23 +225,27 @@
         </div>
 </div>
 </div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/on-the-security-of-password-managers.html" target="_blank">On the Security of Password Managers</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-23 12:03</span>
-            </div>
-        </div>
-</div>
-</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/peter-claffey-dexter-sol-ansell_0-3-2-1280x853.jpg" alt="Why ‘A Knight of the Seven Kingdoms’ Didn’t Use the Books’ Title" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/knight-of-the-seven-kingdoms-title-change-game-of-thrones-2000725573" target="_blank">Why ‘A Knight of the Seven Kingdoms’ Didn’t Use the Books’ Title</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-24 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/demo_3.jpg?fit=932%2C552&amp;quality=60&amp;ssl=1" alt="C64 Graphics Explorer shows 8-bit pixel art the way it was" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/24/c64-graphics-explorer-shows-8-bit-pixel-art-the-way-it-was.html" target="_blank">C64 Graphics Explorer shows 8-bit pixel art the way it was</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-24 11:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Tesla-Cuts-Autopilot-1280x854.jpg" alt="Tesla Goes After California DMV, Suing Over False Advertising Decision" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +280,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/23/supreme-court-will-decide-if-pot-smokers-can-own-guns.html" target="_blank">Supreme Court will decide if pot smokers can own guns</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-24 00:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/lego-star-wars-smart-play-luke-vader-1280x853.jpg" alt="Lego’s Smart Play Bricks Sound Awful" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/legos-smart-play-bricks-sound-awful-2000725514" target="_blank">Lego’s Smart Play Bricks Sound Awful</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-23 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1280x720.jpg" alt="Nothing About The Big Xbox Shakeup Makes Sense" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nothing-about-the-big-xbox-shakeup-makes-sense-2000672914" target="_blank">Nothing About The Big Xbox Shakeup Makes Sense</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-23 22:45</span>
             </div>
         </div>
 </div>
@@ -330,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 11:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 12:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
