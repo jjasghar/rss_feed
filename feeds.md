@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-24 22:05:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-24 23:06:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, February 24, 2026 - 22:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, February 24, 2026 - 23:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/24/nx-s1-5716163/trump-congress-state-union" target="_blank">President Trump set to deliver first State of the Union address of his second term</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-24 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/24/russia-has-not-won-as-ukraine-war-enters-fifth-year-zelenskyy-says?traffic_source=rss" target="_blank">Russia ‘has not won’ as Ukraine war enters fifth year, Zelenskyy says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-24 22:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,30 +90,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/24/warner-bros-gets-new-offer-from-paramount-but-still-recommends-netflix-bid?traffic_source=rss" target="_blank">Warner Bros gets new offer from Paramount but still recommends Netflix bid</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-24 19:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-venice-polizia-di-stato_7173997.png?20260224181737" alt="British cousins charged with attempted murder over Venice Valentine&#x27;s Day stabbing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-viktoriia-honcharuk_7174091.jpg?20260224201451" alt="&#x27;We decided to stand up to a bully,&#x27; says Ukrainian who swapped Wall Street for the frontline" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/british-cousins-charged-with-attempted-murder-over-venice-valentines-day-stabbing-13511662" target="_blank">British cousins charged with attempted murder over Venice Valentine&#x27;s Day stabbing</a></span>
+                <span class="title"><a href="https://news.sky.com/story/we-decided-to-stand-up-to-a-bully-says-ukrainian-who-swapped-wall-street-for-the-frontline-13511695" target="_blank">&#x27;We decided to stand up to a bully,&#x27; says Ukrainian who swapped Wall Street for the frontline</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-24 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/24/england-beat-pakistan-by-two-wickets-to-enter-t20-world-cup-semifinals?traffic_source=rss" target="_blank">England beat Pakistan by two wickets to enter T20 World Cup semifinals</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-24 17:28</span>
+                <span class="time">2026-02-24 19:49</span>
             </div>
         </div>
 </div>
@@ -176,6 +175,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/manuel_felipeariaspined/norge-devs-add-fodselsnummer-to-the-ai-identity-standard-soulprint-open-source-30-min-pr-3f6i" target="_blank">🇳🇴 Norge devs: Add Fødselsnummer to the AI identity standard — Soulprint open source (30 min PR)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-24 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/imtaslim/how-i-structure-backend-projects-so-they-dont-become-a-mess-4n2a" target="_blank">How I Structure Backend Projects So They Don’t Become a Mess</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-24 22:00</span>
@@ -208,15 +216,6 @@
                 <span class="time">2026-02-24 19:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18893629&w=600" alt="Integration Reliability for AI Systems: A Framework for Detecting and Preventing Interface Mismatch at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/integration-reliability-for-ai-systems-a-framework" target="_blank">Integration Reliability for AI Systems: A Framework for Detecting and Preventing Interface Mismatch at Scale</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-24 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Jodie-Foster-Contact-1280x853.jpg" alt="Jodie Foster Reflects on the Personal Journey of Making ‘Contact’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jodie-foster-reflects-on-the-personal-journey-of-making-contact-2000726115" target="_blank">Jodie Foster Reflects on the Personal Journey of Making ‘Contact’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-24 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/pete-hegseth-1280x853.jpg" alt="Pete Hegseth Gives Anthropic Choice to Abandon AI Safeguards or Be Labeled ‘National Security Threat’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +289,6 @@
                 <span class="time">2026-02-24 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/star-trek-deep-space-nine-coffee-mug-dax-bashir-1280x853.jpg" alt="You Can Now Own an Official Version of the Superior ‘Star Trek’ Mug" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-trek-deep-space-nine-official-coffee-mug-raktajino-2000726005" target="_blank">You Can Now Own an Official Version of the Superior ‘Star Trek’ Mug</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-24 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 22:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 270 |
+        🔄 Last Updated: 23:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
