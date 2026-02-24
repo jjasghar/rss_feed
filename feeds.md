@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-24 01:30:58 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-02-24 02:56:12 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, February 24, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, February 24, 2026 - 02:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c563/live/f144c580-10e4-11f1-b4ca-a9a29eb10e90.jpg" alt="Lord Mandelson released on bail after arrest on suspicion of misconduct in public office" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8xy5jzrrxzo?at_medium=RSS&at_campaign=rss" target="_blank">Lord Mandelson released on bail after arrest on suspicion of misconduct in public office</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-24 02:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/24/russia-ukraine-war-list-of-key-events-day-1461?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,461</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-24 02:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/2/23/are-the-us-and-iran-moving-closer-to-war?traffic_source=rss" target="_blank">Are the US and Iran moving closer to war?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-23 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/23/nx-s1-5720948/fda-rare-disease-gene-therapy" target="_blank">The FDA creates a quicker path for gene therapies</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-23 20:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-mexico-ramsay-cartel_7173290.jpg?20260223213326" alt="Violence triggered by killing of notorious Mexican drug lord could hit the World Cup" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/violence-triggered-by-killing-of-notorious-mexican-drug-lord-could-hit-the-world-cup-13511322" target="_blank">Violence triggered by killing of notorious Mexican drug lord could hit the World Cup</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-23 20:45</span>
             </div>
         </div>
 </div>
@@ -175,6 +180,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kai_security_ai/googles-mcp-servers-are-open-and-thats-intentional-but-heres-the-risk-37b5" target="_blank">Google&#x27;s MCP Servers Are Open — And That&#x27;s Intentional (But Here&#x27;s the Risk)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-24 02:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/java-news-roundup-feb16-2026/en/headerimage/java-istock-image-01-1771882551481.jpg" alt="Java News Roundup: JDK26-RC2, Payara Platform, Hibernate, Quarkus, Apache Camel, Jakarta EE 12" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/java-news-roundup-feb16-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JDK26-RC2, Payara Platform, Hibernate, Quarkus, Apache Camel, Jakarta EE 12</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-24 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album" target="_blank">Shatner is making an album with 35 metal icons</a></span>
                 <span class="feed">Hacker News</span>
@@ -197,24 +220,6 @@
                 <span class="title"><a href="https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/" target="_blank">FreeBSD doesn&#x27;t have Wi-Fi driver for my old MacBook. AI build one for me</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-23 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Torvalds-Unseeded-Random" target="_blank">Linus Torvalds Drops Old Linux Kconfig Option To Address Tiresome Kernel Log Spam</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-23 21:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18891149&w=600" alt="Azure SLM Showdown: Evaluating Phi-3, Llama 3, and Snowflake Arctic for Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/azure-slm-showdown-evaluating-phi-3-llama-3-and-sn" target="_blank">Azure SLM Showdown: Evaluating Phi-3, Llama 3, and Snowflake Arctic for Production</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-23 20:00</span>
             </div>
         </div>
 </div>
@@ -296,6 +301,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5769.png" alt="comics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5772" target="_blank">comics</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-02-24 01:51</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -327,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 02:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
