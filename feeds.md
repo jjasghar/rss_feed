@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-24 07:19:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-24 08:10:03 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, February 24, 2026 - 07:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, February 24, 2026 - 08:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/24/hong-kong-conglomerate-says-panama-canal-ports-seized-by-authorities?traffic_source=rss" target="_blank">Hong Kong conglomerate says Panama Canal ports seized by authorities</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-24 07:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/24/north-korea-promotes-kim-jong-uns-sister-as-he-vows-to-boost-economy?traffic_source=rss" target="_blank">North Korea promotes Kim Jong Un’s sister as he vows to boost economy</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-24 04:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/24/afghanistan-bombing-whats-pakistans-strategy-as-india-taliban-ties-grow?traffic_source=rss" target="_blank">Afghanistan bombing: What’s Pakistan’s strategy as India-Taliban ties grow?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-24 04:07</span>
             </div>
         </div>
 </div>
@@ -181,6 +184,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/02/quesma-otel-bench-performance-ai/en/headerimage/header-1771767302848.jpeg" alt="Quesma Releases OTelBench to Evaluate OpenTelemetry Infrastructure and AI Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/quesma-otel-bench-performance-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Quesma Releases OTelBench to Evaluate OpenTelemetry Infrastructure and AI Performance</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-24 08:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -190,30 +202,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/" target="_blank">Firefox 148 Launches with AI Kill Switch Feature and More Enhancements</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-24 05:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flojznun21o8qqefo1hyt.png" alt="How to sort an array of objects in JavaScript?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/theme_selection/how-to-sort-an-array-of-objects-in-javascript-49d3" target="_blank">How to sort an array of objects in JavaScript?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-24 05:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmcpplaygroundonline.com%2Fog-image.png" alt="I built a free tool-like Playground for Testing MCP Servers - No Setup Needed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rupa_tiwari_dd308948d710f/i-built-a-free-tool-like-playground-for-testing-mcp-servers-no-setup-needed-4e91" target="_blank">I built a free tool-like Playground for Testing MCP Servers - No Setup Needed</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-24 04:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html" target="_blank">Blood test boosts Alzheimer&#x27;s diagnosis accuracy to 94.5%, clinical study shows</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-24 03:10</span>
             </div>
         </div>
 </div>
@@ -321,22 +324,13 @@
                 <span class="time">2026-02-23 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/02/23/overreach" target="_blank">Overreach</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-02-23 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 07:19 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 08:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
