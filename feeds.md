@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-24 10:14:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-24 11:13:50 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, February 24, 2026 - 10:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, February 24, 2026 - 11:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/24/new-trump-tariffs-take-effect-days-after-supreme-court-decision?traffic_source=rss" target="_blank">New Trump tariffs take effect days after Supreme Court decision</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-24 10:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260223-zelenskyy-mb-1414-9b92d6.jpg" alt="Zelenskyy&#x27;s public frustration grows as Putin&#x27;s war enters a 5th year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/2/24/kashmir-spying-demolitions-how-modis-india-embraced-israel-model?traffic_source=rss" target="_blank">Kashmir, spying, demolitions: How Modi’s India embraced ‘Israel model’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-24 06:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17ca/live/2f09e430-10d2-11f1-801d-ed3cff6bf876.png" alt="Russian soldiers tell BBC they saw fellow troops executed on commanders&#x27; orders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz7gw3l395ro?at_medium=RSS&at_campaign=rss" target="_blank">Russian soldiers tell BBC they saw fellow troops executed on commanders&#x27; orders</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-24 06:02</span>
             </div>
         </div>
 </div>
@@ -178,6 +178,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.6.1" target="_blank">KDE Plasma 6.6.1 Released With Initial Batch Of Bug Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-24 11:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/modern-synaptic-style-package-manager/" target="_blank">Making the Case for a Modern Synaptic-Style Package Manager on Linux</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-24 10:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/ai-floods-close-projects/en/headerimage/generatedHeaderImage-1771439339723.jpg" alt="AI &quot;Vibe Coding&quot; Threatens Open Source as Maintainers Face Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/ai-floods-close-projects/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI &quot;Vibe Coding&quot; Threatens Open Source as Maintainers Face Crisis</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-24 10:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/alexa143/what-skills-will-you-learn-in-a-qa-software-tester-course-in-2026-106h" target="_blank">What Skills Will You Learn in a QA Software Tester Course in 2026?</a></span>
                 <span class="feed">DEV Community</span>
@@ -191,33 +218,6 @@
                 <span class="title"><a href="https://itsfoss.com/linux-mint-keyboard-shortcuts/" target="_blank">Master the Essential Keyboard Shortcuts in Linux Mint to Feel Like a Pro User</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-02-24 09:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kai_security_ai/dns-rebinding-how-a-browser-tab-becomes-a-backdoor-into-your-mcp-server-2il2" target="_blank">DNS Rebinding: How a Browser Tab Becomes a Backdoor Into Your MCP Server</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-24 09:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/panel-high-performing-teams/en/headerimage/panel-high-performing-teams-header-1771509840628.jpg" alt="Article: Virtual Panel - Culture, Code, and Platform: Building High-Performing Teams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/panel-high-performing-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Virtual Panel - Culture, Code, and Platform: Building High-Performing Teams</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-24 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/02/24/dogfood-so-nutritious-it-s-building-the-future-of-sdlcs/" target="_blank">Dogfood so nutritious it’s building the future of SDLCs</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-02-24 08:40</span>
             </div>
         </div>
 </div>
@@ -330,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 10:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 11:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
