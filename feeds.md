@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-23 23:10:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-24 00:08:25 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, February 23, 2026 - 23:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, February 24, 2026 - 00:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -61,6 +66,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/2/23/are-the-us-and-iran-moving-closer-to-war?traffic_source=rss" target="_blank">Are the US and Iran moving closer to war?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-23 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/02/23/nx-s1-5720948/fda-rare-disease-gene-therapy" target="_blank">The FDA creates a quicker path for gene therapies</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -85,20 +99,20 @@
                 <span class="time">2026-02-23 19:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/23/nx-s1-5724018/vonn-surgery-leg-injury" target="_blank">&#x27;Everything was in pieces:&#x27; Lindsey Vonn describes grueling surgery on broken leg</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-23 19:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/699ca7a05317636b06014b46/master/pass/Start%20Your%20Surround%20Sound%20Journey%20With%20$50%20off%20This%20Soundbar.png" alt="Start Your Surround Sound Journey With $50 off This Klipsch Soundbar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/klipsch-flexus-core-200-deal-226/" target="_blank">Start Your Surround Sound Journey With $50 off This Klipsch Soundbar</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-23 23:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/699a853f32429c68a5920bbd/master/pass/The%20Best%20Duffel%20Bags%20for%20Commuters%20and%20Overpackers.png" alt="6 Best Duffel Bags We Tested While Traveling (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,15 +158,6 @@
                 <span class="time">2026-02-23 19:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/" target="_blank">OpenAI calls in the consultants for its enterprise push</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-23 18:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -186,6 +191,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Torvalds-Unseeded-Random" target="_blank">Linus Torvalds Drops Old Linux Kconfig Option To Address Tiresome Kernel Log Spam</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-23 21:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18891149&w=600" alt="Azure SLM Showdown: Evaluating Phi-3, Llama 3, and Snowflake Arctic for Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -201,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-DSP-Accel-Driver" target="_blank">Qualcomm Posts Patches For New DSP Accelerator Linux Driver</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-23 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ritam369/javascript-operators-the-fundamentals-you-need-to-know-4ll2" target="_blank">JavaScript Operators: The Fundamentals You Need to Know</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-23 19:17</span>
             </div>
         </div>
 </div>
@@ -238,6 +243,15 @@
                 <span class="title"><a href="https://gizmodo.com/legos-smart-play-bricks-sound-awful-2000725514" target="_blank">Lego’s Smart Play Bricks Sound Awful</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-23 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1280x720.jpg" alt="Nothing About The Big Xbox Shakeup Makes Sense" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nothing-about-the-big-xbox-shakeup-makes-sense-2000672914" target="_blank">Nothing About The Big Xbox Shakeup Makes Sense</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-23 22:45</span>
             </div>
         </div>
 <div class="story">
@@ -274,15 +288,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/23/please-do-not-poop-on-la-dot-buses.html" target="_blank">Please do not poop on LA DOT buses</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-23 20:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/piecebypiece2-1280x720.jpg" alt="Finally Someone’s Taking ‘Puzzle Platformer’ Literally" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/piece-by-piece-demo-steam-free-puzzle-platformer-2000672798" target="_blank">Finally Someone’s Taking ‘Puzzle Platformer’ Literally</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-23 19:30</span>
             </div>
         </div>
 </div>
@@ -322,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 23:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 00:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
