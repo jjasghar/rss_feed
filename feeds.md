@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-24 18:15:44 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-02-24 19:20:12 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NPR News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, February 24, 2026 - 18:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, February 24, 2026 - 19:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-venice-polizia-di-stato_7173997.png?20260224181737" alt="British cousins charged with attempted murder over Venice Valentine&#x27;s Day stabbing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/british-cousins-charged-with-attempted-murder-over-venice-valentines-day-stabbing-13511662" target="_blank">British cousins charged with attempted murder over Venice Valentine&#x27;s Day stabbing</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-24 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +101,20 @@
                 <span class="time">2026-02-24 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/2/24/three-myths-about-the-russia-economic-war?traffic_source=rss" target="_blank">Three myths about the Russia economic war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-24 14:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/699dbca6ec27ef43d07b3b73/master/pass/cubaportada.jpg" alt="Life in Cuba Under Trump&#x27;s Pressure Campaign: No Electricity, No Oil, and Impossible Choices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cuba-trump-oil-pressure/" target="_blank">Life in Cuba Under Trump&#x27;s Pressure Campaign: No Electricity, No Oil, and Impossible Choices</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-24 18:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Anvil-500x500.jpg" alt="Inside the quixotic team trying to build an entire world in a 20-year-old game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,15 +160,6 @@
                 <span class="time">2026-02-24 14:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6849bd25bf7204ccbda22354/master/pass/The%20Best%202-in-1%20Laptops%20to%20Flip%20Between%20Work%20and%20Play.png" alt="6 Best 2-in-1 Laptops (2026), WIRED-Approved and Tested" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-2-in-1-laptops/" target="_blank">6 Best 2-in-1 Laptops (2026), WIRED-Approved and Tested</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-24 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +172,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fojklzco370h9e9nzgxue.png" alt="AI-Powered Database Design with MCP Server" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/matheusagnes/ai-powered-database-design-with-mcp-server-59p4" target="_blank">AI-Powered Database Design with MCP Server</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-24 19:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18893629&w=600" alt="Integration Reliability for AI Systems: A Framework for Detecting and Preventing Interface Mismatch at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/integration-reliability-for-ai-systems-a-framework" target="_blank">Integration Reliability for AI Systems: A Framework for Detecting and Preventing Interface Mismatch at Scale</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-24 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/apple-ferret-ui-lite-on-device/en/headerimage/apple-ferret-ui-lite-1771958980595.jpeg" alt="Apple Researchers Introduce Ferret-UI Lite, an On-Device AI Model for Seeing and Controlling UIs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/apple-ferret-ui-lite-on-device/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Apple Researchers Introduce Ferret-UI Lite, an On-Device AI Model for Seeing and Controlling UIs</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-24 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/D7VK-1.4-Released" target="_blank">D7VK 1.4 Released With More Improvements For Old Direct3D On Vulkan Under Linux</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-24 17:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!2KWV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c6b4839-c2ca-4f98-a65e-a0729ca085a9_1600x1066.png" alt="The Future of Software Engineering with AI: Six Predictions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-future-of-software-engineering-with-ai" target="_blank">The Future of Software Engineering with AI: Six Predictions</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-02-24 16:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://prefix.dev/blog/introducing-pixi-gui" target="_blank">Pixi GUI: modern alternative to Anaconda Navigator</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-02-24 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/multi-agent-workflows-often-fail-heres-how-to-engineer-ones-that-dont/" target="_blank">Multi-agent workflows often fail. Here’s how to engineer ones that don’t.</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-02-24 16:00</span>
             </div>
         </div>
 </div>
@@ -239,11 +239,38 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/1-pia26693-curiosity-surveys-the-boxwork-region-web-1280x853.jpg" alt="NASA’s Curiosity Finds Crunchy Nodules Where Ancient Martian Water Once Stood" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nasas-curiosity-finds-crunchy-nodules-where-ancient-martian-water-once-stood-2000725891" target="_blank">NASA’s Curiosity Finds Crunchy Nodules Where Ancient Martian Water Once Stood</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-24 19:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/11/f1d82dff4b665bc1ebe510cd52589d92-1280x720.jpg" alt="Steam Users Aren’t Happy That Steam Next Fest Feels Overrun With AI Art" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/steam-next-fest-feb-2026-gen-ai-art-demos-2000673280" target="_blank">Steam Users Aren’t Happy That Steam Next Fest Feels Overrun With AI Art</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-24 18:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/Backrooms-teaser-1280x853.jpg" alt="We’re Getting Major ‘House of Leaves’ Vibes From This Creepy New Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/were-getting-major-house-of-leaves-vibes-from-this-creepy-new-trailer-2000725944" target="_blank">We’re Getting Major ‘House of Leaves’ Vibes From This Creepy New Trailer</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-24 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJ8C74HVHN71NY2Y1H6QNWVY/hero-image.png" alt="These Award-Winning AR Smart Glasses Are at a Great Price Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/xreal-one-pro-smart-glasses-deal-february-2026?utm_medium=RSS" target="_blank">These Award-Winning AR Smart Glasses Are at a Great Price Right Now</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-24 18:00</span>
             </div>
         </div>
@@ -265,33 +292,6 @@
                 <span class="time">2026-02-24 17:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/LISREU_Hands_On_08_Max_Hi-beams-1280x720.jpg" alt="Life Is Strange: Reunion Is A Risky Thought Experiment That Could Easily Go Wrong" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/life-is-strange-reunion-preview-chloe-max-choices-ending-2000673241" target="_blank">Life Is Strange: Reunion Is A Risky Thought Experiment That Could Easily Go Wrong</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-24 16:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJ76C9469ES4TJQT4EX1613M/hero-image.png" alt="What People Are Getting Wrong This Week: Is Selena Gomez a Clone?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/is-selena-gomez-a-clone?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: Is Selena Gomez a Clone?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-24 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/olympiccardopening-1280x720.jpg" alt="Blade Angels Nerd Out By Ripping Magic: The Gathering Packs During Winter Olympics Closing Ceremony" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amber-glenn-mtg-2026-winter-olympics-ceremony-figure-skater-2000673209" target="_blank">Blade Angels Nerd Out By Ripping Magic: The Gathering Packs During Winter Olympics Closing Ceremony</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-24 15:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,6 +304,15 @@
                 <span class="title"><a href="https://poorlydrawnlines.com/comic/care-about-stuff/" target="_blank">Care About Stuff</a></span>
                 <span class="feed">Poorly Drawn Lines</span>
                 <span class="time">2026-02-24 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1771879305-20260224.png" alt="Saturday Morning Breakfast Cereal - Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/out-3" target="_blank">Saturday Morning Breakfast Cereal - Out</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-02-24 16:20</span>
             </div>
         </div>
 <div class="story">
@@ -329,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 18:15 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 19:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
