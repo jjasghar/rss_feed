@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-24 19:20:12 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-24 20:06:56 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, February 24, 2026 - 19:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, February 24, 2026 - 20:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/24/warner-bros-gets-new-offer-from-paramount-but-still-recommends-netflix-bid?traffic_source=rss" target="_blank">Warner Bros gets new offer from Paramount but still recommends Netflix bid</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-24 19:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/02/1920x1080/skynews-venice-polizia-di-stato_7173997.png?20260224181737" alt="British cousins charged with attempted murder over Venice Valentine&#x27;s Day stabbing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +96,20 @@
                 <span class="time">2026-02-24 15:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/24/nx-s1-5723768/gene-therapy-access" target="_blank">Where patients live matters for access to gene therapy</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-24 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/883852/discord-age-verification-global-walkback-delay" target="_blank">Discord is delaying its global age verification rollout</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-24 19:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/699dbca6ec27ef43d07b3b73/master/pass/cubaportada.jpg" alt="Life in Cuba Under Trump&#x27;s Pressure Campaign: No Electricity, No Oil, and Impossible Choices" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +153,6 @@
                 <span class="title"><a href="https://arstechnica.com/ai/2026/02/meta-could-end-up-owning-of-10-amd-in-new-chip-deal/" target="_blank">Meta could end up owning 10% of AMD in new chip deal</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-02-24 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/24/conduent-data-breach-grows-affecting-at-least-25m-people/" target="_blank">Conduent data breach grows, affecting at least 25M people</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-24 14:09</span>
             </div>
         </div>
 </div>
@@ -239,6 +234,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/star-trek-deep-space-nine-coffee-mug-dax-bashir-1280x853.jpg" alt="You Can Now Own an Official Version of the Superior ‘Star Trek’ Mug" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-trek-deep-space-nine-official-coffee-mug-raktajino-2000726005" target="_blank">You Can Now Own an Official Version of the Superior ‘Star Trek’ Mug</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-24 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2014/11/1459654863_07249fe0d7_o-e1756930023896.jpg?fit=768%2C514&amp;quality=60&amp;ssl=1" alt="How Zionism went from a political philosophy to a loyalty test" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/24/how-zionism-went-from-a-political-philosophy-to-a-loyalty-test.html" target="_blank">How Zionism went from a political philosophy to a loyalty test</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-24 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJ8F5V78J9ZCJ51C59GGSJ6T/hero-image.jpg" alt="Samsung&#x27;s February Security Patch Is Now Available on These Devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsungs-february-security-patch-is-now-available-on-these-devices?utm_medium=RSS" target="_blank">Samsung&#x27;s February Security Patch Is Now Available on These Devices</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-24 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/1-pia26693-curiosity-surveys-the-boxwork-region-web-1280x853.jpg" alt="NASA’s Curiosity Finds Crunchy Nodules Where Ancient Martian Water Once Stood" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -263,33 +285,6 @@
                 <span class="title"><a href="https://gizmodo.com/were-getting-major-house-of-leaves-vibes-from-this-creepy-new-trailer-2000725944" target="_blank">We’re Getting Major ‘House of Leaves’ Vibes From This Creepy New Trailer</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-24 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJ8C74HVHN71NY2Y1H6QNWVY/hero-image.png" alt="These Award-Winning AR Smart Glasses Are at a Great Price Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/xreal-one-pro-smart-glasses-deal-february-2026?utm_medium=RSS" target="_blank">These Award-Winning AR Smart Glasses Are at a Great Price Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-24 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/image-29-1-1280x698.jpg" alt="Arc Raiders Is Feeling The Heat From Marathon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/arc-raiders-cheating-bans-marathon-exploits-2000673239" target="_blank">Arc Raiders Is Feeling The Heat From Marathon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-24 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJ87RSN7ZGQ29W6Q1ENFW1AK/hero-image.jpg" alt="This App Will Detect People Wearing Smart Glasses Near You" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/use-this-app-to-know-whether-someone-is-wearing-smart-glasses?utm_medium=RSS" target="_blank">This App Will Detect People Wearing Smart Glasses Near You</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-24 17:11</span>
             </div>
         </div>
 </div>
@@ -338,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 19:20 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 20:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
