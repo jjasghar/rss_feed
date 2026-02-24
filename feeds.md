@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-24 09:14:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-02-24 10:14:29 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, February 24, 2026 - 09:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, February 24, 2026 - 10:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260223-zelenskyy-mb-1414-9b92d6.jpg" alt="Zelenskyy&#x27;s public frustration grows as Putin&#x27;s war enters a 5th year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/ukraine/ukraine-war-anniversary-zelenskyy-frustration-putin-war-peace-talks-rcna260218" target="_blank">Zelenskyy&#x27;s public frustration grows as Putin&#x27;s war enters a 5th year</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-24 09:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cz7gw3l395ro?at_medium=RSS&at_campaign=rss" target="_blank">Russian soldiers tell BBC they saw fellow troops executed on commanders&#x27; orders</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-24 06:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/24/live-russia-ukraine-war-enters-fifth-year-as-strikes-hit-zaporizhzhia?traffic_source=rss" target="_blank">LIVE: Russia-Ukraine war enters fifth year as strikes hit Zaporizhzhia</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-24 05:33</span>
             </div>
         </div>
 </div>
@@ -180,6 +179,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alexa143/what-skills-will-you-learn-in-a-qa-software-tester-course-in-2026-106h" target="_blank">What Skills Will You Learn in a QA Software Tester Course in 2026?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-24 10:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/linux-mint-keyboard-shortcuts/" target="_blank">Master the Essential Keyboard Shortcuts in Linux Mint to Feel Like a Pro User</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-24 09:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kai_security_ai/dns-rebinding-how-a-browser-tab-becomes-a-backdoor-into-your-mcp-server-2il2" target="_blank">DNS Rebinding: How a Browser Tab Becomes a Backdoor Into Your MCP Server</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-24 09:06</span>
@@ -203,24 +220,6 @@
                 <span class="time">2026-02-24 08:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/quesma-otel-bench-performance-ai/en/headerimage/header-1771767302848.jpeg" alt="Quesma Releases OTelBench to Evaluate OpenTelemetry Infrastructure and AI Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/quesma-otel-bench-performance-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Quesma Releases OTelBench to Evaluate OpenTelemetry Infrastructure and AI Performance</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-24 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mytc/concurrent-requests-maakiu-bhyliu-kiungttypherngmlai-44f3" target="_blank">Concurrent Requests များကို ဘယ်လို ကိုင်တွယ်ဖြေရှင်းမလဲ?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-24 07:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Tesla-Cuts-Autopilot-1280x854.jpg" alt="Tesla Goes After California DMV, Suing Over False Advertising Decision" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tesla-goes-after-california-dmv-suing-over-false-advertising-decision-2000725675" target="_blank">Tesla Goes After California DMV, Suing Over False Advertising Decision</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-24 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/10/shutterstock_2189112945-scaled-e1747248937162.jpg?fit=768%2C614&amp;quality=60&amp;ssl=1" alt="On CNN, Newsom again tries to convince conservatives he&#x27;s &quot;not that kind of Democrat&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +293,6 @@
                 <span class="time">2026-02-23 22:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/2025_DEC_Marathon_Press_Kit_Compressed_014-1280x720.jpg" alt="Marathon Is Already Improving On Arc Raiders In One Key Area" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marathon-is-already-improving-on-arc-raiders-in-one-key-area-2000672901" target="_blank">Marathon Is Already Improving On Arc Raiders In One Key Area</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-23 21:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 09:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 10:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
