@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-24 16:18:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-24 17:20:31 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, February 24, 2026 - 16:18 UTC</div>
+    <div class="newspaper-date">Tuesday, February 24, 2026 - 17:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/231f/live/4e407880-1106-11f1-95d6-71ff8dfa1746.png" alt="MPs back move to release files on Andrew&#x27;s appointment as trade envoy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c80jd955889o?at_medium=RSS&at_campaign=rss" target="_blank">MPs back move to release files on Andrew&#x27;s appointment as trade envoy</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-24 16:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +100,29 @@
                 <span class="time">2026-02-24 14:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260224-guthrie-rs-67ef86.jpg" alt="Savannah Guthrie says family is offering $1 million reward in mother&#x27;s disappearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/savannah-guthrie-new-video-reward-rcna260411" target="_blank">Savannah Guthrie says family is offering $1 million reward in mother&#x27;s disappearance</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-24 14:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Anvil-500x500.jpg" alt="Inside the quixotic team trying to build an entire world in a 20-year old game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/02/inside-the-quixotic-team-trying-to-build-an-entire-world-in-a-20-year-old-game/" target="_blank">Inside the quixotic team trying to build an entire world in a 20-year old game</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-24 17:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/699dc7921ed484eb6c093656/master/pass/GettyImages-622590238.jpg" alt="The Last Mystery of Antarctica’s ‘Blood Falls’ Has Finally Been Solved" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-last-mystery-of-antarcticas-blood-falls-has-finally-been-solved/" target="_blank">The Last Mystery of Antarctica’s ‘Blood Falls’ Has Finally Been Solved</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-24 16:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/07/meta-ai-500x500.jpg" alt="Meta could end up owning 10% of AMD in new chip deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,24 +159,6 @@
                 <span class="time">2026-02-24 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/883581/apple-mac-mini-production-texas-houston" target="_blank">Apple will soon make (some) Mac Minis in the US</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-24 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/" target="_blank">Canva acquires startups working on animation and marketing</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-24 07:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +171,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://prefix.dev/blog/introducing-pixi-gui" target="_blank">Pixi GUI: modern alternative to Anaconda Navigator</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-02-24 16:41</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +218,6 @@
                 <span class="time">2026-02-24 14:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/azul-malware-analysis-repository/" target="_blank">Australia&amp;#x27;s Cyber Agency Releases Azul, an Open Source Malware Analysis Repository</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-24 13:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +244,15 @@
                 <span class="title"><a href="https://kotaku.com/life-is-strange-reunion-preview-chloe-max-choices-ending-2000673241" target="_blank">Life Is Strange: Reunion Is A Risky Thought Experiment That Could Easily Go Wrong</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-24 16:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJ76C9469ES4TJQT4EX1613M/hero-image.png" alt="What People Are Getting Wrong This Week: Is Selena Gomez a Clone?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/is-selena-gomez-a-clone?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: Is Selena Gomez a Clone?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-24 15:30</span>
             </div>
         </div>
 <div class="story">
@@ -281,20 +291,20 @@
                 <span class="time">2026-02-24 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/jbl-bandbox-review-01-1280x853.jpg" alt="JBL Bandbox Solo Review: An AI Speaker You Can Actually Love" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/jbl-bandbox-solo-review-an-ai-speaker-you-can-actually-love-2000724702" target="_blank">JBL Bandbox Solo Review: An AI Speaker You Can Actually Love</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-24 14:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/care-about-stuff/" target="_blank">Care About Stuff</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-02-24 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5769.png" alt="comics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -313,22 +323,13 @@
                 <span class="time">2026-02-23 21:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1771630698-20260223.png" alt="Saturday Morning Breakfast Cereal - Never" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/never-2" target="_blank">Saturday Morning Breakfast Cereal - Never</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-02-23 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 16:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 17:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
