@@ -1,32 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-02-24 20:06:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-24 21:07:47 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, February 24, 2026 - 20:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, February 24, 2026 - 21:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/24/nx-s1-5711346/china-trump-us-foreign-aid-withdrawal" target="_blank">China and the US alter foreign aid strategies</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-24 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/24/fresh-afghan-pakistani-border-clashes-follow-deadly-strikes?traffic_source=rss" target="_blank">New Afghan, Pakistani border clashes follow deadly strikes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-24 20:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +106,29 @@
                 <span class="time">2026-02-24 16:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/24/real-madrid-vs-benfica-champions-league-team-news-start-lineups?traffic_source=rss" target="_blank">Real Madrid vs Benfica: Champions League – team news, start, lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-24 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/guthrie-1-rt-gmh-260219_1771510085137_hpMain_4x3t_384.jpg" alt="Savannah Guthrie announces new reward for Nancy Guthrie: &#x27;Somebody knows&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/savannah-guthrie-announces-new-1m-reward-recovery-mom/story?id=130445685" target="_blank">Savannah Guthrie announces new reward for Nancy Guthrie: &#x27;Somebody knows&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-24 15:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/699dfe2dbbe6062950a4fd5c/master/pass/My%20Favorite%20Bluetooth%20Speaker%20Is%20on%20Sale%20for%20$50%20Off%20Right%20Now.png" alt="My Favorite Bluetooth Speaker Is on Sale for $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/jbl-flip-7-deal-0223/" target="_blank">My Favorite Bluetooth Speaker Is on Sale for $50 Off Right Now</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-24 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/reddit-icon-500x500.jpg" alt="UK fines Reddit for not checking user ages aggressively enough" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/uk-fines-reddit-for-not-checking-user-ages-aggressively-enough/" target="_blank">UK fines Reddit for not checking user ages aggressively enough</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-24 19:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +165,6 @@
                 <span class="time">2026-02-24 17:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/699dc7921ed484eb6c093656/master/pass/GettyImages-622590238.jpg" alt="The Last Mystery of Antarctica’s ‘Blood Falls’ Has Finally Been Solved" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-last-mystery-of-antarcticas-blood-falls-has-finally-been-solved/" target="_blank">The Last Mystery of Antarctica’s ‘Blood Falls’ Has Finally Been Solved</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-24 16:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/07/meta-ai-500x500.jpg" alt="Meta could end up owning 10% of AMD in new chip deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/02/meta-could-end-up-owning-of-10-amd-in-new-chip-deal/" target="_blank">Meta could end up owning 10% of AMD in new chip deal</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-24 14:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +177,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kaomojiya/bringing-microsoft-sam-back-to-life-how-sapi4-tts-works-in-the-browser-3ej7" target="_blank">Bringing Microsoft SAM Back to Life: How SAPI4 TTS Works in the Browser</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-24 20:58</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +224,6 @@
                 <span class="time">2026-02-24 18:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/D7VK-1.4-Released" target="_blank">D7VK 1.4 Released With More Improvements For Old Direct3D On Vulkan Under Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-24 17:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/tokyo-scrambled-1280x720.jpg" alt="A Switch 2 Nintendo Direct Reveal Is The Newest Contender For Worst Game Of 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tokyo-scramble-switch-2-worst-game-2026-2000673341" target="_blank">A Switch 2 Nintendo Direct Reveal Is The Newest Contender For Worst Game Of 2026</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-24 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/sam-spruell_0-2-1280x853.jpg" alt="‘A Knight of the Seven Kingdoms’ Might Not Pick Up on Its Big Cliffhanger Just Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/knight-of-the-seven-kingdoms-season-2-maekar-2000725956" target="_blank">‘A Knight of the Seven Kingdoms’ Might Not Pick Up on Its Big Cliffhanger Just Yet</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-24 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/star-trek-deep-space-nine-coffee-mug-dax-bashir-1280x853.jpg" alt="You Can Now Own an Official Version of the Superior ‘Star Trek’ Mug" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +297,6 @@
                 <span class="time">2026-02-24 19:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/11/f1d82dff4b665bc1ebe510cd52589d92-1280x720.jpg" alt="Steam Users Aren’t Happy That Steam Next Fest Feels Overrun With AI Art" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/steam-next-fest-feb-2026-gen-ai-art-demos-2000673280" target="_blank">Steam Users Aren’t Happy That Steam Next Fest Feels Overrun With AI Art</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-24 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Backrooms-teaser-1280x853.jpg" alt="We’re Getting Major ‘House of Leaves’ Vibes From This Creepy New Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/were-getting-major-house-of-leaves-vibes-from-this-creepy-new-trailer-2000725944" target="_blank">We’re Getting Major ‘House of Leaves’ Vibes From This Creepy New Trailer</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-24 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,22 +329,13 @@
                 <span class="time">2026-02-24 01:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/23/overreach" target="_blank">Overreach</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-02-23 21:05</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 20:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 21:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
