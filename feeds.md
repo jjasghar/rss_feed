@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-24 14:18:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-24 15:16:30 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, February 24, 2026 - 14:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, February 24, 2026 - 15:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,33 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/guthrie-1-rt-gmh-260219_1771510085137_hpMain_4x3t_384.jpg" alt="Savannah Guthrie announces new reward for Nancy Guthrie: &#x27;Somebody knows&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/savannah-guthrie-announces-new-1m-reward-recovery-mom/story?id=130445685" target="_blank">Savannah Guthrie announces new reward for Nancy Guthrie: &#x27;Somebody knows&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-24 15:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/2/24/three-myths-about-the-russia-economic-war?traffic_source=rss" target="_blank">Three myths about the Russia economic war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-24 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771942211529_nbc_spec_full_guthrie_reward_260224_1920x1080-b1beaa.jpg" alt="Special Report: Savannah Guthrie releases new video offering $1 million reward" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/special-report-savannah-guthrie-offers-1-million-reward-in-new-video-258189893895" target="_blank">Special Report: Savannah Guthrie releases new video offering $1 million reward</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-24 14:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260224-guthrie-rs-67ef86.jpg" alt="Savannah Guthrie says family is offering $1 million reward in mother&#x27;s disappearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -59,46 +88,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/24/g-s1-111316/up-first-newsletter-trump-sotu-mexico-cartel-epstein-files" target="_blank">DOJ hides Trump-related Epstein files. And, what to know for the State of the Union</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-24 12:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/f_mo_lon_zelenskyy_four_years_260224.00_00_30_25.Still001-imzcp3.jpg" alt="Zelenskyy marks four years since Russia’s invasion of Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/zelenskyy-marks-four-years-since-russia-s-invasion-of-ukraine-258185797832" target="_blank">Zelenskyy marks four years since Russia’s invasion of Ukraine</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-24 12:01</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/uk-news/2026/feb/24/royal-artillery-access-looted-asante-treasure-ghana" target="_blank">Royal Artillery under fire after denying access to looted Asante treasure</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-24 13:45</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/24/european-leaders-pray-with-ukraines-zelenskyy-on-invasion-anniversary?traffic_source=rss" target="_blank">European leaders pray with Ukraine’s Zelenskyy on invasion anniversary</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-24 11:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/ukraine-main_1771917851608_hpMain_4x3t_384.jpg" alt="Ukraine and Russia ravaged by 4 years of full-scale war without an ending in sight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/ukraine-russia-ravaged-4-years-full-scale-war/story?id=130402979" target="_blank">Ukraine and Russia ravaged by 4 years of full-scale war without an ending in sight</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-24 11:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/sotu-gty-er-260223_1771868472056_hpMain_4x3t_384.jpg" alt="State of the Union: Trump expected to tout achievements ahead of midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/state-union-trump-expected-tout-achievements-ahead-midterms/story?id=130387697" target="_blank">State of the Union: Trump expected to tout achievements ahead of midterms</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-24 11:32</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/24/g-s1-111316/up-first-newsletter-trump-sotu-mexico-cartel-epstein-files" target="_blank">DOJ hides Trump-related Epstein files. And, what to know for the State of the Union</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-24 12:19</span>
             </div>
         </div>
 </div>
@@ -175,6 +177,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs6ub0b4ho04geqclv7fr.webp" alt="Building AI Agent With Multiple AI Model Providers Using an LLM Gateway (OpenAI, Anthropic, Gemini &amp; Bifrost)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/the_greatbonnie/building-ai-agent-with-multiple-ai-model-providers-using-an-llm-gateway-openai-anthropic-gemini-fl2" target="_blank">Building AI Agent With Multiple AI Model Providers Using an LLM Gateway (OpenAI, Anthropic, Gemini &amp; Bifrost)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-24 15:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/building-quantum-safe-telecom-infrastructure-for-5g-and-beyond" target="_blank">Building quantum-safe telecom infrastructure for 5G and beyond</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-02-24 14:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -201,24 +221,6 @@
                 <span class="time">2026-02-24 13:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18892333&w=600" alt="How to Extract Document Summaries in C#/.NET" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/document-summarization-csharp-dotnet" target="_blank">How to Extract Document Summaries in C#/.NET</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-24 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/hash-anu/snkv" target="_blank">Show HN: SNKV – SQLite&#x27;s B-tree as a key-value store (C/C++ and Python bindings)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-24 12:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +240,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/olympiccardopening-1280x720.jpg" alt="Blade Angels Nerd Out By Ripping Magic: The Gathering Packs During Winter Olympics Closing Ceremony" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amber-glenn-mtg-2026-winter-olympics-ceremony-figure-skater-2000673209" target="_blank">Blade Angels Nerd Out By Ripping Magic: The Gathering Packs During Winter Olympics Closing Ceremony</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-24 15:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/for-all-mankind-season-5-trailer-mars-1280x853.jpg" alt="‘For All Mankind’ Season 5 Looks Like an All Out Martian Revolution" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/for-all-mankind-season-5-trailer-apple-tv-2000725680" target="_blank">‘For All Mankind’ Season 5 Looks Like an All Out Martian Revolution</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-24 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJ619JET6XCDEXN55RBEGPM3/hero-image.jpg" alt="Why Gamers Are Still Mad About Discord&#x27;s Age Verification" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/why-gamers-are-still-mad-about-discords-age-verification?utm_medium=RSS" target="_blank">Why Gamers Are Still Mad About Discord&#x27;s Age Verification</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-24 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/jbl-bandbox-review-01-1280x853.jpg" alt="JBL Bandbox Solo Review: An AI Speaker You Can Actually Love" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,33 +292,6 @@
                 <span class="title"><a href="https://kotaku.com/pokemon-day-30-anniversary-go-anime-cosplay-stream-2000672824" target="_blank">Fans, Creators, And Developers Explain What Makes Pokémon So Special</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-24 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/peter-claffey-dexter-sol-ansell_0-3-2-1280x853.jpg" alt="Why ‘A Knight of the Seven Kingdoms’ Didn’t Use the Books’ Title" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/knight-of-the-seven-kingdoms-title-change-game-of-thrones-2000725573" target="_blank">Why ‘A Knight of the Seven Kingdoms’ Didn’t Use the Books’ Title</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-24 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/demo_3.jpg?fit=932%2C552&amp;quality=60&amp;ssl=1" alt="C64 Graphics Explorer shows 8-bit pixel art the way it was" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/24/c64-graphics-explorer-shows-8-bit-pixel-art-the-way-it-was.html" target="_blank">C64 Graphics Explorer shows 8-bit pixel art the way it was</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-24 11:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Tesla-Cuts-Autopilot-1280x854.jpg" alt="Tesla Goes After California DMV, Suing Over False Advertising Decision" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tesla-goes-after-california-dmv-suing-over-false-advertising-decision-2000725675" target="_blank">Tesla Goes After California DMV, Suing Over False Advertising Decision</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-24 10:00</span>
             </div>
         </div>
 </div>
@@ -329,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 14:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 15:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
