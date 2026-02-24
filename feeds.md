@@ -1,42 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-24 21:07:47 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-24 22:05:51 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 33 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, February 24, 2026 - 21:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, February 24, 2026 - 22:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/24/at-least-23-dead-as-heavy-rains-unleash-floods-in-southeastern-brazil?traffic_source=rss" target="_blank">At least 23 dead as heavy rains unleash floods in southeastern Brazil</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-24 21:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,20 +99,20 @@
                 <span class="time">2026-02-24 17:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/231f/live/4e407880-1106-11f1-95d6-71ff8dfa1746.png" alt="MPs back move to release files on Andrew&#x27;s appointment as trade envoy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c80jd955889o?at_medium=RSS&at_campaign=rss" target="_blank">MPs back move to release files on Andrew&#x27;s appointment as trade envoy</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-24 16:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/883855/age-verification-internet-apps-laws-privacy-safety" target="_blank">Let me see some ID: age verification is spreading across the internet</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-24 21:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/699dfe2dbbe6062950a4fd5c/master/pass/My%20Favorite%20Bluetooth%20Speaker%20Is%20on%20Sale%20for%20$50%20Off%20Right%20Now.png" alt="My Favorite Bluetooth Speaker Is on Sale for $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -156,15 +158,6 @@
                 <span class="time">2026-02-24 17:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Anvil-500x500.jpg" alt="Inside the quixotic team trying to build an entire world in a 20-year old game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/02/inside-the-quixotic-team-trying-to-build-an-entire-world-in-a-20-year-old-game/" target="_blank">Inside the quixotic team trying to build an entire world in a 20-year old game</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-24 17:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -183,9 +176,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/imtaslim/how-i-structure-backend-projects-so-they-dont-become-a-mess-4n2a" target="_blank">How I Structure Backend Projects So They Don’t Become a Mess</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-24 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kaomojiya/bringing-microsoft-sam-back-to-life-how-sapi4-tts-works-in-the-browser-3ej7" target="_blank">Bringing Microsoft SAM Back to Life: How SAPI4 TTS Works in the Browser</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-24 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/COSMIC-Epoch-1.0.8" target="_blank">COSMIC Epoch 1.0.8 Released With More Desktop Refinements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-24 19:47</span>
             </div>
         </div>
 <div class="story">
@@ -204,24 +215,6 @@
                 <span class="title"><a href="https://dzone.com/articles/integration-reliability-for-ai-systems-a-framework" target="_blank">Integration Reliability for AI Systems: A Framework for Detecting and Preventing Interface Mismatch at Scale</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-24 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/apple-ferret-ui-lite-on-device/en/headerimage/apple-ferret-ui-lite-1771958980595.jpeg" alt="Apple Researchers Introduce Ferret-UI Lite, an On-Device AI Model for Seeing and Controlling UIs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/apple-ferret-ui-lite-on-device/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Apple Researchers Introduce Ferret-UI Lite, an On-Device AI Model for Seeing and Controlling UIs</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-24 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/isalikov/vacano-ui-64-react-components-with-an-mcp-server-for-ai-assistants-1d6j" target="_blank">Vacano UI - 64 React Components with an MCP Server for AI Assistants</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-24 18:06</span>
             </div>
         </div>
 </div>
@@ -243,6 +236,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/pete-hegseth-1280x853.jpg" alt="Pete Hegseth Gives Anthropic Choice to Abandon AI Safeguards or Be Labeled ‘National Security Threat’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/pete-hegseth-anthropic-abandon-ai-safeguards-or-national-security-threat-2000726145" target="_blank">Pete Hegseth Gives Anthropic Choice to Abandon AI Safeguards or Be Labeled ‘National Security Threat’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-24 21:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/dog-e1771968832515.jpg?fit=768%2C534&amp;quality=60&amp;ssl=1" alt="Bipartisan PETSAFE Act would fund animal evacuations during disasters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/24/bipartisan-petsafe-act-would-fund-animal-evacuations-during-disasters.html" target="_blank">Bipartisan PETSAFE Act would fund animal evacuations during disasters</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-24 21:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/fpsdealbundle-1280x720.jpg" alt="This Charity Steam Bundle Is One Of The Best Deals I’ve Ever Seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/charity-steam-pc-games-bundle-best-deal-2026-fps-cultic-selaco-boltgun-2000673339" target="_blank">This Charity Steam Bundle Is One Of The Best Deals I’ve Ever Seen</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-24 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/tokyo-scrambled-1280x720.jpg" alt="A Switch 2 Nintendo Direct Reveal Is The Newest Contender For Worst Game Of 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,33 +288,6 @@
                 <span class="title"><a href="https://gizmodo.com/star-trek-deep-space-nine-official-coffee-mug-raktajino-2000726005" target="_blank">You Can Now Own an Official Version of the Superior ‘Star Trek’ Mug</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-24 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2014/11/1459654863_07249fe0d7_o-e1756930023896.jpg?fit=768%2C514&amp;quality=60&amp;ssl=1" alt="How Zionism went from a political philosophy to a loyalty test" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/24/how-zionism-went-from-a-political-philosophy-to-a-loyalty-test.html" target="_blank">How Zionism went from a political philosophy to a loyalty test</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-24 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJ8F5V78J9ZCJ51C59GGSJ6T/hero-image.jpg" alt="Samsung&#x27;s February Security Patch Is Now Available on These Devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsungs-february-security-patch-is-now-available-on-these-devices?utm_medium=RSS" target="_blank">Samsung&#x27;s February Security Patch Is Now Available on These Devices</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-24 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/1-pia26693-curiosity-surveys-the-boxwork-region-web-1280x853.jpg" alt="NASA’s Curiosity Finds Crunchy Nodules Where Ancient Martian Water Once Stood" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nasas-curiosity-finds-crunchy-nodules-where-ancient-martian-water-once-stood-2000725891" target="_blank">NASA’s Curiosity Finds Crunchy Nodules Where Ancient Martian Water Once Stood</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-24 19:10</span>
             </div>
         </div>
 </div>
@@ -334,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 21:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 271 |
+        🔄 Last Updated: 22:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
