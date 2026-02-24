@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-24 00:08:25 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-02-24 01:30:58 UTC -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, February 24, 2026 - 00:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, February 24, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/23/g-s1-111247/tony-gonzales-texas-affair-allegations" target="_blank">GOP Rep. Tony Gonzales faces pressure from party over affair allegations</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-24 00:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/mexico-1-gty-er-260223_1771863974938_hpMain_4x3t_384.jpg" alt="What to know about Mexico violence as president offers reassurances" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +99,20 @@
                 <span class="time">2026-02-23 20:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c563/live/f144c580-10e4-11f1-b4ca-a9a29eb10e90.jpg" alt="Lord Mandelson arrested on suspicion of misconduct in public office" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8xy5jzrrxzo?at_medium=RSS&at_campaign=rss" target="_blank">Lord Mandelson arrested on suspicion of misconduct in public office</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-23 19:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/" target="_blank">A Meta AI security researcher said an OpenClaw agent ran amok on her inbox</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-24 00:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/699ca7a05317636b06014b46/master/pass/Start%20Your%20Surround%20Sound%20Journey%20With%20$50%20off%20This%20Soundbar.png" alt="Start Your Surround Sound Journey With $50 off This Klipsch Soundbar" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +158,6 @@
                 <span class="time">2026-02-23 19:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69975f400310f6e896b9919b/master/pass/Uncanny-Valley-Podcast-Business-2234015878.jpg" alt="Uncanny Valley: AI Researchers’ Resignations, Bots Hiring Humans, Evie Magazine’s Party" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-ai-researcher-resignations-bots-hiring-humans-evie-magazines-party/" target="_blank">Uncanny Valley: AI Researchers’ Resignations, Bots Hiring Humans, Evie Magazine’s Party</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-23 19:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +170,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album" target="_blank">Shatner is making an album with 35 metal icons</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-24 00:33</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +217,6 @@
                 <span class="time">2026-02-23 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-DSP-Accel-Driver" target="_blank">Qualcomm Posts Patches For New DSP Accelerator Linux Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-23 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/gunsanddope.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Supreme Court will decide if pot smokers can own guns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/23/supreme-court-will-decide-if-pot-smokers-can-own-guns.html" target="_blank">Supreme Court will decide if pot smokers can own guns</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-24 00:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/lego-star-wars-smart-play-luke-vader-1280x853.jpg" alt="Lego’s Smart Play Bricks Sound Awful" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +290,6 @@
                 <span class="time">2026-02-23 20:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/10/shutterstock_76713673-e1749492591632.jpg?fit=768%2C576&amp;quality=60&amp;ssl=1" alt="Please do not poop on LA DOT buses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/23/please-do-not-poop-on-la-dot-buses.html" target="_blank">Please do not poop on LA DOT buses</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-23 20:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 00:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
