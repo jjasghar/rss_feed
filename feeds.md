@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-24 02:56:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-24 03:48:31 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, February 24, 2026 - 02:56 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, February 24, 2026 - 03:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/24/australian-pm-backs-removal-of-ex-prince-andrew-from-succession-line?traffic_source=rss" target="_blank">Australian PM backs removal of ex-Prince Andrew from succession line</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-24 03:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c563/live/f144c580-10e4-11f1-b4ca-a9a29eb10e90.jpg" alt="Lord Mandelson released on bail after arrest on suspicion of misconduct in public office" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,15 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss" target="_blank">Mexico sends thousands of soldiers to stop violence after death of drug lord</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-23 21:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/2/23/are-the-us-and-iran-moving-closer-to-war?traffic_source=rss" target="_blank">Are the US and Iran moving closer to war?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-23 20:58</span>
             </div>
         </div>
 </div>
@@ -180,6 +175,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html" target="_blank">Blood test boosts Alzheimer&#x27;s diagnosis accuracy to 94.5%, clinical study shows</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-24 03:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kai_security_ai/googles-mcp-servers-are-open-and-thats-intentional-but-heres-the-risk-37b5" target="_blank">Google&#x27;s MCP Servers Are Open — And That&#x27;s Intentional (But Here&#x27;s the Risk)</a></span>
                 <span class="feed">DEV Community</span>
@@ -198,28 +202,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-PanVK-25.7x-16x-MSAA" target="_blank">Mesa PanVK Driver Seeing Up To 25.7x Speedup For MSAA</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-24 01:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album" target="_blank">Shatner is making an album with 35 metal icons</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-24 00:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-2e0k" target="_blank">8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-23 22:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/" target="_blank">FreeBSD doesn&#x27;t have Wi-Fi driver for my old MacBook. AI build one for me</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-23 21:44</span>
             </div>
         </div>
 </div>
@@ -341,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 02:56 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 03:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
