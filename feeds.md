@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-24 12:08:42 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-24 13:27:48 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, February 24, 2026 - 12:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, February 24, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,10 +52,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/24/g-s1-111316/up-first-newsletter-trump-sotu-mexico-cartel-epstein-files" target="_blank">DOJ hides Trump-related Epstein files. And, what to know for the State of the Union</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-24 12:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/f_mo_lon_zelenskyy_four_years_260224.00_00_30_25.Still001-imzcp3.jpg" alt="Zelenskyy marks four years since Russia’s invasion of Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/zelenskyy-marks-four-years-since-russia-s-invasion-of-ukraine-258185797832" target="_blank">Zelenskyy marks four years since Russia’s invasion of Ukraine</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-24 12:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/24/european-leaders-pray-with-ukraines-zelenskyy-on-invasion-anniversary?traffic_source=rss" target="_blank">European leaders pray with Ukraine’s Zelenskyy on invasion anniversary</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-24 11:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/ukraine-main_1771917851608_hpMain_4x3t_384.jpg" alt="Ukraine and Russia ravaged by 4 years of full-scale war without an ending in sight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/ukraine-russia-ravaged-4-years-full-scale-war/story?id=130402979" target="_blank">Ukraine and Russia ravaged by 4 years of full-scale war without an ending in sight</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-24 11:36</span>
             </div>
         </div>
 <div class="story">
@@ -78,38 +103,20 @@
                 <span class="time">2026-02-24 10:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260223-zelenskyy-mb-1414-9b92d6.jpg" alt="Zelenskyy&#x27;s public frustration grows as Putin&#x27;s war enters a 5th year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/ukraine/ukraine-war-anniversary-zelenskyy-frustration-putin-war-peace-talks-rcna260218" target="_blank">Zelenskyy&#x27;s public frustration grows as Putin&#x27;s war enters a 5th year</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-24 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/24/schools-shut-troops-on-streets-mexico-on-alert-after-el-mencho-killing?traffic_source=rss" target="_blank">Schools shut, troops on streets: Mexico on alert after ‘El Mencho’ killing</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-24 08:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/24/hong-kong-conglomerate-says-panama-canal-ports-seized-by-authorities?traffic_source=rss" target="_blank">Hong Kong conglomerate says Panama Canal ports seized by authorities</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-24 07:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6849bd25bf7204ccbda22354/master/pass/The%20Best%202-in-1%20Laptops%20to%20Flip%20Between%20Work%20and%20Play.png" alt="6 Best 2-in-1 Laptops (2026), WIRED-Approved and Tested" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-2-in-1-laptops/" target="_blank">6 Best 2-in-1 Laptops (2026), WIRED-Approved and Tested</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-24 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/699cfe39439f9e560fad8272/master/pass/IMG_5903.jpeg" alt="Salsa Wanderosa Electric Bike Review: Full-Suspension Drop-Bar Gravel Ride" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,15 +162,6 @@
                 <span class="time">2026-02-24 00:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/699ca7a05317636b06014b46/master/pass/Start%20Your%20Surround%20Sound%20Journey%20With%20$50%20off%20This%20Soundbar.png" alt="Start Your Surround Sound Journey With $50 off This Klipsch Soundbar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/klipsch-flexus-core-200-deal-226/" target="_blank">Start Your Surround Sound Journey With $50 off This Klipsch Soundbar</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-23 23:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -181,46 +179,60 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/giftcup/contributing-to-ocaml-tiff-so-far-writing-tiff-files-45an" target="_blank">Contributing to OCaml-Tiff So Far - Writing TIFF Files</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-24 13:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18892333&w=600" alt="How to Extract Document Summaries in C#/.NET" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/document-summarization-csharp-dotnet" target="_blank">How to Extract Document Summaries in C#/.NET</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-24 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/hash-anu/snkv" target="_blank">Show HN: SNKV – SQLite&#x27;s B-tree as a key-value store (C/C++ and Python bindings)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-24 12:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/formae-multi-cloud/en/headerimage/generatedHeaderImage-1771592174849.jpg" alt="Platform Engineering Labs Expands formae with Multi-Cloud Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/formae-multi-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Platform Engineering Labs Expands formae with Multi-Cloud Support</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-24 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.6.1" target="_blank">KDE Plasma 6.6.1 Released With Initial Batch Of Bug Fixes</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-24 11:02</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/modern-synaptic-style-package-manager/" target="_blank">Making the Case for a Modern Synaptic-Style Package Manager on Linux</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-24 10:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/ai-floods-close-projects/en/headerimage/generatedHeaderImage-1771439339723.jpg" alt="AI &quot;Vibe Coding&quot; Threatens Open Source as Maintainers Face Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/ai-floods-close-projects/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI &quot;Vibe Coding&quot; Threatens Open Source as Maintainers Face Crisis</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-24 10:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alexa143/what-skills-will-you-learn-in-a-qa-software-tester-course-in-2026-106h" target="_blank">What Skills Will You Learn in a QA Software Tester Course in 2026?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-24 10:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/linux-mint-keyboard-shortcuts/" target="_blank">Master the Essential Keyboard Shortcuts in Linux Mint to Feel Like a Pro User</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-24 09:27</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/is-ai-good-for-democracy.html" target="_blank">Is AI Good for Democracy?</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-02-24 12:06</span>
             </div>
         </div>
 </div>
@@ -319,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 12:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
