@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-24 17:20:31 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-24 18:15:44 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, February 24, 2026 - 17:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, February 24, 2026 - 18:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/24/england-beat-pakistan-by-two-wickets-to-enter-t20-world-cup-semifinals?traffic_source=rss" target="_blank">England beat Pakistan by two wickets to enter T20 World Cup semifinals</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-24 17:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/231f/live/4e407880-1106-11f1-95d6-71ff8dfa1746.png" alt="MPs back move to release files on Andrew&#x27;s appointment as trade envoy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +101,20 @@
                 <span class="time">2026-02-24 14:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771942211529_nbc_spec_full_guthrie_reward_260224_1920x1080-b1beaa.jpg" alt="Special Report: Savannah Guthrie releases new video offering $1 million reward" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/special-report-savannah-guthrie-offers-1-million-reward-in-new-video-258189893895" target="_blank">Special Report: Savannah Guthrie releases new video offering $1 million reward</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-24 14:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Anvil-500x500.jpg" alt="Inside the quixotic team trying to build an entire world in a 20-year-old game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/02/inside-the-quixotic-team-trying-to-build-an-entire-world-in-a-20-year-old-game/" target="_blank">Inside the quixotic team trying to build an entire world in a 20-year-old game</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-24 17:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Anvil-500x500.jpg" alt="Inside the quixotic team trying to build an entire world in a 20-year old game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +160,6 @@
                 <span class="time">2026-02-24 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/699cfe39439f9e560fad8272/master/pass/IMG_5903.jpeg" alt="Salsa Wanderosa Electric Bike Review: Full-Suspension Drop-Bar Gravel Ride" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/salsa-wanderosa-electric-gravel-bike/" target="_blank">Salsa Wanderosa Electric Bike Review: Full-Suspension Drop-Bar Gravel Ride</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-24 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +172,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/isalikov/vacano-ui-64-react-components-with-an-mcp-server-for-ai-assistants-1d6j" target="_blank">Vacano UI - 64 React Components with an MCP Server for AI Assistants</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-24 18:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/D7VK-1.4-Released" target="_blank">D7VK 1.4 Released With More Improvements For Old Direct3D On Vulkan Under Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-24 17:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!2KWV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c6b4839-c2ca-4f98-a65e-a0729ca085a9_1600x1066.png" alt="The Future of Software Engineering with AI: Six Predictions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-future-of-software-engineering-with-ai" target="_blank">The Future of Software Engineering with AI: Six Predictions</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-02-24 16:54</span>
             </div>
         </div>
 <div class="story">
@@ -189,33 +217,6 @@
                 <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/multi-agent-workflows-often-fail-heres-how-to-engineer-ones-that-dont/" target="_blank">Multi-agent workflows often fail. Here’s how to engineer ones that don’t.</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-02-24 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs6ub0b4ho04geqclv7fr.webp" alt="Building AI Agent With Multiple AI Model Providers Using an LLM Gateway (OpenAI, Anthropic, Gemini &amp; Bifrost)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/the_greatbonnie/building-ai-agent-with-multiple-ai-model-providers-using-an-llm-gateway-openai-anthropic-gemini-fl2" target="_blank">Building AI Agent With Multiple AI Model Providers Using an LLM Gateway (OpenAI, Anthropic, Gemini &amp; Bifrost)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-24 15:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18891157&w=600" alt="The DevSecOps Paradox: Why Security Automation Is Both Solving and Creating Pipeline Vulnerabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/the-devsecops-paradox-why-security-automation-is-b" target="_blank">The DevSecOps Paradox: Why Security Automation Is Both Solving and Creating Pipeline Vulnerabilities</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-24 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/building-quantum-safe-telecom-infrastructure-for-5g-and-beyond" target="_blank">Building quantum-safe telecom infrastructure for 5G and beyond</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-02-24 14:20</span>
             </div>
         </div>
 </div>
@@ -237,6 +238,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Backrooms-teaser-1280x853.jpg" alt="We’re Getting Major ‘House of Leaves’ Vibes From This Creepy New Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/were-getting-major-house-of-leaves-vibes-from-this-creepy-new-trailer-2000725944" target="_blank">We’re Getting Major ‘House of Leaves’ Vibes From This Creepy New Trailer</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-24 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/image-29-1-1280x698.jpg" alt="Arc Raiders Is Feeling The Heat From Marathon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/arc-raiders-cheating-bans-marathon-exploits-2000673239" target="_blank">Arc Raiders Is Feeling The Heat From Marathon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-24 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJ87RSN7ZGQ29W6Q1ENFW1AK/hero-image.jpg" alt="This App Will Detect People Wearing Smart Glasses Near You" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/use-this-app-to-know-whether-someone-is-wearing-smart-glasses?utm_medium=RSS" target="_blank">This App Will Detect People Wearing Smart Glasses Near You</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-24 17:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/LISREU_Hands_On_08_Max_Hi-beams-1280x720.jpg" alt="Life Is Strange: Reunion Is A Risky Thought Experiment That Could Easily Go Wrong" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,33 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/amber-glenn-mtg-2026-winter-olympics-ceremony-figure-skater-2000673209" target="_blank">Blade Angels Nerd Out By Ripping Magic: The Gathering Packs During Winter Olympics Closing Ceremony</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-24 15:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/for-all-mankind-season-5-trailer-mars-1280x853.jpg" alt="‘For All Mankind’ Season 5 Looks Like an All Out Martian Revolution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/for-all-mankind-season-5-trailer-apple-tv-2000725680" target="_blank">‘For All Mankind’ Season 5 Looks Like an All Out Martian Revolution</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-24 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2H6VNN7NNG57GZMJGW7DMN/hero-image.jpg" alt="What Is a Strength Training &#x27;Deload,&#x27; and When Do You Need One?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/what-is-a-deload-and-when-do-you-need-one?utm_medium=RSS" target="_blank">What Is a Strength Training &#x27;Deload,&#x27; and When Do You Need One?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-24 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJ619JET6XCDEXN55RBEGPM3/hero-image.jpg" alt="Why Gamers Are Still Mad About Discord&#x27;s Age Verification" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/why-gamers-are-still-mad-about-discords-age-verification?utm_medium=RSS" target="_blank">Why Gamers Are Still Mad About Discord&#x27;s Age Verification</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-24 14:30</span>
             </div>
         </div>
 </div>
@@ -328,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 17:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 18:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
