@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-24 15:16:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-24 16:18:32 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, February 24, 2026 - 15:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, February 24, 2026 - 16:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/24/real-madrid-vs-benfica-champions-league-team-news-start-lineups?traffic_source=rss" target="_blank">Real Madrid vs Benfica: Champions League – team news, start, lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-24 15:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/guthrie-1-rt-gmh-260219_1771510085137_hpMain_4x3t_384.jpg" alt="Savannah Guthrie announces new reward for Nancy Guthrie: &#x27;Somebody knows&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/US/savannah-guthrie-announces-new-1m-reward-recovery-mom/story?id=130445685" target="_blank">Savannah Guthrie announces new reward for Nancy Guthrie: &#x27;Somebody knows&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-24 15:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/24/nx-s1-5723768/gene-therapy-access" target="_blank">Where patients live matters for access to gene therapy</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-24 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -83,24 +97,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/news/us-news/savannah-guthrie-new-video-reward-rcna260411" target="_blank">Savannah Guthrie says family is offering $1 million reward in mother&#x27;s disappearance</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-24 14:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/uk-news/2026/feb/24/royal-artillery-access-looted-asante-treasure-ghana" target="_blank">Royal Artillery under fire after denying access to looted Asante treasure</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-24 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/24/g-s1-111316/up-first-newsletter-trump-sotu-mexico-cartel-epstein-files" target="_blank">DOJ hides Trump-related Epstein files. And, what to know for the State of the Union</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-24 12:19</span>
             </div>
         </div>
 </div>
@@ -177,12 +173,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/multi-agent-workflows-often-fail-heres-how-to-engineer-ones-that-dont/" target="_blank">Multi-agent workflows often fail. Here’s how to engineer ones that don’t.</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-02-24 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs6ub0b4ho04geqclv7fr.webp" alt="Building AI Agent With Multiple AI Model Providers Using an LLM Gateway (OpenAI, Anthropic, Gemini &amp; Bifrost)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/the_greatbonnie/building-ai-agent-with-multiple-ai-model-providers-using-an-llm-gateway-openai-anthropic-gemini-fl2" target="_blank">Building AI Agent With Multiple AI Model Providers Using an LLM Gateway (OpenAI, Anthropic, Gemini &amp; Bifrost)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-24 15:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18891157&w=600" alt="The DevSecOps Paradox: Why Security Automation Is Both Solving and Creating Pipeline Vulnerabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/the-devsecops-paradox-why-security-automation-is-b" target="_blank">The DevSecOps Paradox: Why Security Automation Is Both Solving and Creating Pipeline Vulnerabilities</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-24 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +215,6 @@
                 <span class="title"><a href="https://itsfoss.com/news/azul-malware-analysis-repository/" target="_blank">Australia&amp;#x27;s Cyber Agency Releases Azul, an Open Source Malware Analysis Repository</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-02-24 13:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/giftcup/contributing-to-ocaml-tiff-so-far-writing-tiff-files-45an" target="_blank">Contributing to OCaml-Tiff So Far - Writing TIFF Files</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-24 13:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-HIP-Default-New-Offload" target="_blank">AMD&#x27;s HIP Moves To Using LLVM&#x27;s New Offload Driver By Default</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-24 13:09</span>
             </div>
         </div>
 </div>
@@ -241,6 +237,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/LISREU_Hands_On_08_Max_Hi-beams-1280x720.jpg" alt="Life Is Strange: Reunion Is A Risky Thought Experiment That Could Easily Go Wrong" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/life-is-strange-reunion-preview-chloe-max-choices-ending-2000673241" target="_blank">Life Is Strange: Reunion Is A Risky Thought Experiment That Could Easily Go Wrong</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-24 16:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/olympiccardopening-1280x720.jpg" alt="Blade Angels Nerd Out By Ripping Magic: The Gathering Packs During Winter Olympics Closing Ceremony" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -255,6 +260,15 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/for-all-mankind-season-5-trailer-apple-tv-2000725680" target="_blank">‘For All Mankind’ Season 5 Looks Like an All Out Martian Revolution</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-24 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2H6VNN7NNG57GZMJGW7DMN/hero-image.jpg" alt="What Is a Strength Training &#x27;Deload,&#x27; and When Do You Need One?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/what-is-a-deload-and-when-do-you-need-one?utm_medium=RSS" target="_blank">What Is a Strength Training &#x27;Deload,&#x27; and When Do You Need One?</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-24 15:00</span>
             </div>
         </div>
@@ -274,24 +288,6 @@
                 <span class="title"><a href="https://gizmodo.com/jbl-bandbox-solo-review-an-ai-speaker-you-can-actually-love-2000724702" target="_blank">JBL Bandbox Solo Review: An AI Speaker You Can Actually Love</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-24 14:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJ6WXYTNR13RAG0E9HMJNR6G/hero-image.png" alt="These Workout-Ready Beats Earbuds Are $90 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/beats-powerbeats-pro-2-sale-february-2026?utm_medium=RSS" target="_blank">These Workout-Ready Beats Earbuds Are $90 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-24 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/image-9-2.jpg" alt="Fans, Creators, And Developers Explain What Makes Pokémon So Special" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-day-30-anniversary-go-anime-cosplay-stream-2000672824" target="_blank">Fans, Creators, And Developers Explain What Makes Pokémon So Special</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-24 13:00</span>
             </div>
         </div>
 </div>
@@ -331,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 15:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 16:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
