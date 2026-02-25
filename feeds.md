@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-25 09:14:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-25 10:15:41 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, February 25, 2026 - 09:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, February 25, 2026 - 10:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b72/live/bdc762d0-1215-11f1-b048-c9424b2cf5fd.jpg" alt="Trump&#x27;s theatrical State of the Union address offers little hint of any change in course" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s theatrical State of the Union address offers little hint of any change in course</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-25 10:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/25/nx-s1-5716159/trump-congress-state-union-read" target="_blank">Read Trump&#x27;s 2026 State of the Union address</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-25 06:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/sotu-29-ap-gmh-260224._1771988497863_hpMain_4x3t_384.jpg" alt="Fact-checking Trump&#x27;s State of the Union address" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/fact-checking-trumps-state-union-address/story?id=130459365" target="_blank">Fact-checking Trump&#x27;s State of the Union address</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-25 05:16</span>
             </div>
         </div>
 </div>
@@ -178,6 +174,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.codemine.be/posts/2026/20260222-be-quiet/" target="_blank">LLM=True</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-25 09:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/presentations/optimal-efficiency-devex/en/mediumimage/fabien-deshayes-medium-1771406588152.jpeg" alt="Presentation: Achieve Optimal Efficiency for Your Developer Experience Teams" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -211,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/jaideepparashar/the-next-five-years-of-ai-wont-make-developers-irrelevant-theyll-make-clarity-judgment-and-584d" target="_blank">The next five years of AI won’t make developers irrelevant. They’ll make clarity, judgment, and systems thinking the core of the profession.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-25 03:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pld/prompt-snippets-and-auto-dry-analysis-for-voice-agent-graphs-1972" target="_blank">Prompt Snippets and Auto-DRY Analysis for Voice Agent Graphs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-25 02:44</span>
             </div>
         </div>
 </div>
@@ -332,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 09:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 10:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
