@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-25 21:07:16 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-25 22:04:56 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, February 25, 2026 - 21:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, February 25, 2026 - 22:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/25/nx-s1-5726780/democrats-doj-epstein-files-trump-missing-pages" target="_blank">Top House Dem wants Justice Department to explain missing Trump-related Epstein files</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-25 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/jeffrey-epstein-gty-gmh-251205_1764962604442_hpMain_4x3t_384.jpg" alt="Epstein hid trove of evidence for over a decade, documents suggest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/epstein-hid-trove-evidence-investigators-decade-documents-suggest/story?id=130494832" target="_blank">Epstein hid trove of evidence for over a decade, documents suggest</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-25 21:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +104,20 @@
                 <span class="time">2026-02-25 18:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b521/live/49b313c0-125c-11f1-b048-c9424b2cf5fd.jpg" alt="Met apologises to Commons Speaker for sharing Mandelson tip-off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8d5792yj9qo?at_medium=RSS&at_campaign=rss" target="_blank">Met apologises to Commons Speaker for sharing Mandelson tip-off</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-25 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f16/live/170d1a60-10d1-11f1-97cc-8b3c62c7814d.jpg" alt="&#x27;Fear is everywhere&#x27;: BBC reports from Mexican city turned into war zone by drug cartel feud" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2g3vmde0eo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Fear is everywhere&#x27;: BBC reports from Mexican city turned into war zone by drug cartel feud</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-25 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/Samsung-Mobile-Galaxy-Unpacked-2026-Galaxy-S26-Series-A-First-Look_dl2-500x500.jpg" alt="The Galaxy S26 is faster, more expensive, and even more chock-full of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/samsung-reveals-galaxy-s26-lineup-with-privacy-display-and-exclusive-gemini-smarts/" target="_blank">The Galaxy S26 is faster, more expensive, and even more chock-full of AI</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-25 21:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69964e836a79d569b06431c0/master/pass/Mog-Goblins-and-Why-We-All-Use-Incel-Speak-Now-Culture.jpg" alt="Everyone Speaks Incel Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,15 +163,6 @@
                 <span class="time">2026-02-25 19:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/884703/google-samsung-galaxy-s26-gemini-apple-siri" target="_blank">Google and Samsung just launched the AI features Apple couldn’t with Siri</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-25 19:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +175,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-LTS-6.12-6.6-Extend" target="_blank">Linux 6.18 LTS / 6.12 LTS / 6.6 LTS Support Periods Extended</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-25 20:19</span>
             </div>
         </div>
 <div class="story">
@@ -197,21 +214,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bohdandanylov/your-website-is-quietly-turning-customers-away-4l2" target="_blank">Your Website Is Quietly Turning Customers Away</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-25 19:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18891954&w=600" alt="From Keywords to Meaning: The New Foundations of Intelligent Search" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18891969&w=600" alt="A Unified Framework for SRE to Troubleshoot Database Connectivity in Kubernetes Cloud Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/keywords-to-meaning-intelligent-search-foundations" target="_blank">From Keywords to Meaning: The New Foundations of Intelligent Search</a></span>
+                <span class="title"><a href="https://dzone.com/articles/sre-database-connectivity-troubleshooting-kubernetes" target="_blank">A Unified Framework for SRE to Troubleshoot Database Connectivity in Kubernetes Cloud Applications</a></span>
                 <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-25 19:00</span>
+                <span class="time">2026-02-25 20:00</span>
             </div>
         </div>
 </div>
@@ -233,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/samsung-galaxys26ultra-vs-iphone-17pro-1280x853.jpg" alt="Samsung Galaxy S26 vs. iPhone 17: Is It All About AI?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/samsung-galaxy-s26-vs-iphone-17-is-it-all-about-ai-2000726526" target="_blank">Samsung Galaxy S26 vs. iPhone 17: Is It All About AI?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-25 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/03/0aedb155b8682e282fc23e6312b4738a-1280x721.jpg" alt="Valve’s Loot Boxes Are Gambling And Illegal, Says New York In New Lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/valve-accused-of-promoting-illegal-gambling-with-loot-boxes-in-new-lawsuit-2000673735" target="_blank">Valve’s Loot Boxes Are Gambling And Illegal, Says New York In New Lawsuit</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-25 20:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/04/ff82b6491738834542ce014789294b8f-1280x720.jpg" alt="Skate Studio Says It’s Laying Devs Off In Order To ‘Better Support’ The Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +295,6 @@
                 <span class="time">2026-02-25 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJASNBXD88C429JWEZQDCHWE/hero-image.png" alt="The New Galaxy S26 Ultra S Pen Still Doesn’t Have Bluetooth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/galaxy-s26-ultra-s-pen-still-doesnt-have-bluetooth?utm_medium=RSS" target="_blank">The New Galaxy S26 Ultra S Pen Still Doesn’t Have Bluetooth</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-25 18:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/RESIDENT-EVIL-requiem_20260213204857-1280x720.jpg" alt="Leon Scott Kennedy, I’m On PrEP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/leon-kennedy-resident-evil-requiem-hot-thirst-trap-2000673666" target="_blank">Leon Scott Kennedy, I’m On PrEP</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-25 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 21:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 22:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
