@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-25 01:30:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-25 02:56:47 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, February 25, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, February 25, 2026 - 02:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/sotu-16-gty-gmh-260224_1771986178267_hpMain_4x3t_384.jpg" alt="Trump State of the Union updates: Trump talks tariffs, immigration in speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/live-updates/trump-state-union-updates-erika-kirk-guests-invited/?id=130452369" target="_blank">Trump State of the Union updates: Trump talks tariffs, immigration in speech</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-25 02:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +100,29 @@
                 <span class="time">2026-02-24 23:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/24/russia-has-not-won-as-ukraine-war-enters-fifth-year-zelenskyy-says?traffic_source=rss" target="_blank">Russia ‘has not won’ as Ukraine war enters fifth year, Zelenskyy says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-24 22:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/" target="_blank">India’s AI boom pushes firms to trade near-term revenue for users</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-25 02:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg" target="_blank">Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-25 01:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +159,6 @@
                 <span class="time">2026-02-24 23:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6998c4df3d693673c08534b7/master/pass/Google%20subpeonas%20copy.jpg" alt="Here’s What a Google Subpoena Response Looks Like, Courtesy of the Epstein Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/heres-what-a-google-subpoena-response-looks-like-courtesy-of-the-epstein-files/" target="_blank">Here’s What a Google Subpoena Response Looks Like, Courtesy of the Epstein Files</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-24 23:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/883855/age-verification-internet-apps-laws-privacy-safety" target="_blank">Let me see some ID: age verification is spreading across the internet</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-24 21:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +171,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pld/prompt-snippets-and-auto-dry-analysis-for-voice-agent-graphs-1972" target="_blank">Prompt Snippets and Auto-DRY Analysis for Voice Agent Graphs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-25 02:44</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +216,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/dynamic-music-pill-gnome-panel-media-controller" target="_blank">Dynamic Music Pill puts a slick media controller in your GNOME panel</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-02-24 23:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/manuel_felipeariaspined/norge-devs-add-fodselsnummer-to-the-ai-identity-standard-soulprint-open-source-30-min-pr-3f6i" target="_blank">🇳🇴 Norge devs: Add Fødselsnummer to the AI identity standard — Soulprint open source (30 min PR)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-24 23:00</span>
             </div>
         </div>
 </div>
@@ -312,22 +314,13 @@
                 <span class="time">2026-02-24 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5769.png" alt="comics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5772" target="_blank">comics</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-02-24 01:51</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 02:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
