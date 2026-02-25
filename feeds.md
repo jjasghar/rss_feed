@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-25 14:17:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-25 15:16:56 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, February 25, 2026 - 14:18 UTC</div>
+    <div class="newspaper-date">Wednesday, February 25, 2026 - 15:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +108,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/884295/resident-evil-requiem-ask-me-anything" target="_blank">We played Resident Evil Requiem, ask us anything</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-25 15:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/hegseth-500x500.jpg" alt="Pete Hegseth tells Anthropic to fall in line with DoD desires, or else" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/02/pete-hegseth-wants-unfettered-access-to-anthropics-models-for-the-military/" target="_blank">Pete Hegseth tells Anthropic to fall in line with DoD desires, or else</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-25 14:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/884306/apple-age-verification-uk-users-ios-26-4-beta" target="_blank">Apple brings age verification to UK users in iOS 26.4 beta</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-25 14:10</span>
@@ -143,24 +158,6 @@
                 <span class="time">2026-02-25 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/" target="_blank">India’s AI boom pushes firms to trade near-term revenue for users</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-25 02:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg" target="_blank">Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-25 01:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +170,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ji_ai/why-you-shouldnt-let-ai-do-your-fortune-telling-and-how-to-do-it-right-1ec2" target="_blank">Why You Shouldn&#x27;t Let AI Do Your Fortune Telling — And How to Do It Right</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-25 15:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/fedora-pocketblue-remix-overview/" target="_blank">Someone is Bringing Fedora Linux to Phones (And It’s Not Red Hat)</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-25 14:50</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/x0lg0n/starting-my-tech-journey-why-im-sharing-it-publicly-2o8f" target="_blank">🚀 Starting My Tech Journey – Why I’m Sharing It Publicly</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-25 13:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18887708&w=600" alt="How to Configure JDK 25 for GitHub Copilot Coding Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-to-configure-jdk-25-for-github-copilot-coding" target="_blank">How to Configure JDK 25 for GitHub Copilot Coding Agent</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-25 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F50463%2F3cd9e955-f2da-40c3-848e-1e6adc988084.png" alt="Your Component Catalog Already Knows Everything. So Why Not Make It an MCP Server?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/j_sakamoto/your-component-catalog-already-knows-everything-so-why-not-make-it-an-mcp-server-486f" target="_blank">Your Component Catalog Already Knows Everything. So Why Not Make It an MCP Server?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-25 12:03</span>
             </div>
         </div>
 </div>
@@ -330,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 14:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 15:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
