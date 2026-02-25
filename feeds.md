@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-25 16:21:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-25 17:20:23 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 12 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, February 25, 2026 - 16:22 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, February 25, 2026 - 17:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/2/25/live-real-madrid-vs-benfica-champions-league-playoff-second-leg?traffic_source=rss" target="_blank">LIVE: Real Madrid vs Benfica – Champions League playoff, second leg</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-25 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/25/nx-s1-5726050/kalshi-insider-trading-enforcement-actions" target="_blank">Kalshi reveals insider trading case against editor for MrBeast</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-25 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +101,20 @@
                 <span class="time">2026-02-25 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/25/netanyahu-greets-indian-pm-modi-as-he-lands-in-israel?traffic_source=rss" target="_blank">Netanyahu greets Indian PM Modi as he lands in Israel</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-25 12:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/25/g-s1-111453/up-first-newsletter-trump-state-of-the-union-aviation-safety-bill-pete-hegseth-anthropic" target="_blank">Takeaways from Trump&#x27;s State of the Union. And, House rejects aviation safety bill</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-25 12:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/881355/live-blog-samsung-galaxy-unpacked-2026" target="_blank">Live: Samsung unveils new Galaxy phones</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-25 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +160,6 @@
                 <span class="time">2026-02-25 14:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/25/harbinger-acquires-autonomous-driving-company-phantom-ai/" target="_blank">Harbinger acquires autonomous driving company Phantom AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-25 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,45 +178,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maina-duncan/building-a-localized-ai-legal-assistant-with-angular-firebase-gemini-2if9" target="_blank">Building a Localized AI Legal Assistant with Angular, Firebase &amp; Gemini</a></span>
+                <span class="title"><a href="https://dev.to/bharath_kumar_30_vog/i-built-a-one-click-social-media-automation-platform-with-python-fastapi-4f0l" target="_blank">I Built a &quot;One Click Social Media Automation Platform&quot; with Python &amp; FastAPI</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-02-25 16:21</span>
+                <span class="time">2026-02-25 17:14</span>
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/systemd-260-rc1" target="_blank">systemd 260-rc1 Released: New &quot;mstack&quot; Feature, System V Service Scripts No Longer Supported</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-25 16:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/react-foundation-launch/" target="_blank">React Is No Longer Meta&amp;#x27;s Project, It Now Has Its Own Foundation</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-25 16:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18891941&w=600" alt="Chunking Is the Hidden Lever in RAG Systems (And Everyone Gets It Wrong)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18891950&w=600" alt="Cutting P99 Latency From ~3.2s To ~650ms in a Policy‑Driven Authorization API (Python + MongoDB)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/chunking-hidden-lever-rag-systems" target="_blank">Chunking Is the Hidden Lever in RAG Systems (And Everyone Gets It Wrong)</a></span>
+                <span class="title"><a href="https://dzone.com/articles/cutting-p99-latency-policy-api" target="_blank">Cutting P99 Latency From ~3.2s To ~650ms in a Policy‑Driven Authorization API (Python + MongoDB)</a></span>
                 <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-25 16:00</span>
+                <span class="time">2026-02-25 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Warper: Rust Powered React Virtualisation Library" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/warper-rust-react/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Warper: Rust Powered React Virtualisation Library</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-25 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/mitchell-hashimoto" target="_blank">Mitchell Hashimoto’s new way of writing code</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-02-25 16:45</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ji_ai/why-you-shouldnt-let-ai-do-your-fortune-telling-and-how-to-do-it-right-1ec2" target="_blank">Why You Shouldn&#x27;t Let AI Do Your Fortune Telling — And How to Do It Right</a></span>
+                <span class="title"><a href="https://dev.to/maina-duncan/building-a-localized-ai-legal-assistant-with-angular-firebase-gemini-2if9" target="_blank">Building a Localized AI Legal Assistant with Angular, Firebase &amp; Gemini</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-02-25 15:16</span>
+                <span class="time">2026-02-25 16:21</span>
             </div>
         </div>
 </div>
@@ -239,12 +239,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJAR6SX6NF1ADPS4AT32BXKB/hero-image.jpg" alt="What&#x27;s New on Netflix in March 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/whats-new-on-netflix-in-march-2026?utm_medium=RSS" target="_blank">What&#x27;s New on Netflix in March 2026</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-25 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2023/02/a677852b447300b75e0c7ae13921eaf8-1280x720.jpg" alt="In Overwatch, Mercy Is Winning In Skins And Losing In Everything Else" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/overwatch-mercy-lifeweaver-healing-reduction-passive-2000673646" target="_blank">In Overwatch, Mercy Is Winning In Skins And Losing In Everything Else</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-25 16:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/salycybertruck.jpg?fit=1280%2C932&amp;quality=60&amp;ssl=1" alt="Cybertruck a flop, base price cut to $59,900" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/25/cybertruck-a-flop-base-price-cut-to-59900.html" target="_blank">Cybertruck a flop, base price cut to $59,900</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-25 15:32</span>
             </div>
         </div>
 <div class="story">
@@ -274,24 +292,6 @@
                 <span class="time">2026-02-25 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/three-mile-island-1280x853.jpg" alt="Nuclear Energy Isn’t Scary Anymore. It’s Just Crypto-Coded" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nuclear-energy-isnt-scary-anymore-its-just-crypto-coded-2000726260" target="_blank">Nuclear Energy Isn’t Scary Anymore. It’s Just Crypto-Coded</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-25 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/trump-sotu-1280x853.jpg" alt="It’s Not Just You. Trump’s State of the Union Triggered Siri on iPhone Users’ Phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/its-not-just-you-trumps-state-of-the-union-triggered-siri-on-iphone-users-phones-2000726280" target="_blank">It’s Not Just You. Trump’s State of the Union Triggered Siri on iPhone Users’ Phones</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-25 04:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,22 +315,13 @@
                 <span class="time">2026-02-25 08:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/care-about-stuff/" target="_blank">Care About Stuff</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-02-24 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 16:22 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 17:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
