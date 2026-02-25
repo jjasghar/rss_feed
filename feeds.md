@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-24 23:06:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-25 00:09:25 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, February 24, 2026 - 23:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, February 25, 2026 - 00:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-6-rt-gmh-260220_1771613838035_hpMain_4x3t_384.jpg" alt="Trump State of the Union updates: President to address the nation at key moment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/live-updates/trump-state-union-updates-erika-kirk-guests-invited/?id=130452369" target="_blank">Trump State of the Union updates: President to address the nation at key moment</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-25 00:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/24/nx-s1-5716277/trump-state-union-fact-check" target="_blank">Read NPR&#x27;s annotated fact check of President Trump&#x27;s State of the Union</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-24 23:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/24/state-of-the-union-live-trump-to-address-nation-amid-tariff-iran-tensions?traffic_source=rss" target="_blank">State of the Union live: Trump to address nation amid tariff, Iran tensions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-24 23:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +100,47 @@
                 <span class="time">2026-02-24 21:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/24/nx-s1-5711346/china-trump-us-foreign-aid-withdrawal" target="_blank">China and the US alter foreign aid strategies</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-24 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/24/fresh-afghan-pakistani-border-clashes-follow-deadly-strikes?traffic_source=rss" target="_blank">New Afghan, Pakistani border clashes follow deadly strikes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-24 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-viktoriia-honcharuk_7174091.jpg?20260224201451" alt="&#x27;We decided to stand up to a bully,&#x27; says Ukrainian who swapped Wall Street for the frontline" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/we-decided-to-stand-up-to-a-bully-says-ukrainian-who-swapped-wall-street-for-the-frontline-13511695" target="_blank">&#x27;We decided to stand up to a bully,&#x27; says Ukrainian who swapped Wall Street for the frontline</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-24 19:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/chimp1-500x500.jpg" alt="Boozy chimps fail urine test, confirm hotly debated theory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/02/boozy-chimps-fail-urine-test-confirm-hotly-debated-theory/" target="_blank">Boozy chimps fail urine test, confirm hotly debated theory</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-25 00:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/884089/apple-touchscreen-macbook-pro-dynamic-island" target="_blank">Apple’s touchscreen MacBooks might also have a Dynamic Island</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-24 23:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/" target="_blank">Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-24 23:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6998c4df3d693673c08534b7/master/pass/Google%20subpeonas%20copy.jpg" alt="Here’s What a Google Subpoena Response Looks Like, Courtesy of the Epstein Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/heres-what-a-google-subpoena-response-looks-like-courtesy-of-the-epstein-files/" target="_blank">Here’s What a Google Subpoena Response Looks Like, Courtesy of the Epstein Files</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-24 23:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -121,42 +159,6 @@
                 <span class="time">2026-02-24 19:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/reddit-icon-500x500.jpg" alt="UK fines Reddit for not checking user ages aggressively enough" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/uk-fines-reddit-for-not-checking-user-ages-aggressively-enough/" target="_blank">UK fines Reddit for not checking user ages aggressively enough</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-24 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/883852/discord-age-verification-global-walkback-delay" target="_blank">Discord is delaying its global age verification rollout</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-24 19:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/699dbca6ec27ef43d07b3b73/master/pass/cubaportada.jpg" alt="Life in Cuba Under Trump&#x27;s Pressure Campaign: No Electricity, No Oil, and Impossible Choices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cuba-trump-oil-pressure/" target="_blank">Life in Cuba Under Trump&#x27;s Pressure Campaign: No Electricity, No Oil, and Impossible Choices</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-24 18:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Anvil-500x500.jpg" alt="Inside the quixotic team trying to build an entire world in a 20-year-old game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/02/inside-the-quixotic-team-trying-to-build-an-entire-world-in-a-20-year-old-game/" target="_blank">Inside the quixotic team trying to build an entire world in a 20-year-old game</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-24 17:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +171,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/custodiaadmin/pagebolt-vs-urlbox-beyond-screenshot-apis-4jpe" target="_blank">PageBolt vs. Urlbox: beyond screenshot APIs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-25 00:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/aws-drops-patent-protection/en/headerimage/generatedHeaderImage-1771934813089.jpg" alt="AWS Drops Patent Infringement Protection for Video Encoding Services" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/aws-drops-patent-protection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Drops Patent Infringement Protection for Video Encoding Services</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-25 00:03</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/kaomojiya/bringing-microsoft-sam-back-to-life-how-sapi4-tts-works-in-the-browser-3ej7" target="_blank">Bringing Microsoft SAM Back to Life: How SAPI4 TTS Works in the Browser</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-24 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/COSMIC-Epoch-1.0.8" target="_blank">COSMIC Epoch 1.0.8 Released With More Desktop Refinements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-24 19:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fojklzco370h9e9nzgxue.png" alt="AI-Powered Database Design with MCP Server" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/matheusagnes/ai-powered-database-design-with-mcp-server-59p4" target="_blank">AI-Powered Database Design with MCP Server</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-24 19:18</span>
             </div>
         </div>
 </div>
@@ -326,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 270 |
-        🔄 Last Updated: 23:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 00:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
