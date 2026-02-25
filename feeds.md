@@ -1,42 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-25 20:07:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-25 21:07:16 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 34 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, February 25, 2026 - 20:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, February 25, 2026 - 21:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/25/indias-modi-addresses-israeli-parliament-on-first-day-of-visit?traffic_source=rss" target="_blank">India’s Modi tells Israel’s Knesset: ‘No cause justifies killing civilians’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-25 20:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1772051620732_nbc_spec_cuba_boat_3p_260225_1920x1080-dlk08j.jpg" alt="Cuban officials: Multiple killed after armed confrontation in Cuba&#x27;s waters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/cuban-officials-multiple-killed-after-armed-confrontation-in-cuba-s-waters-258293829857" target="_blank">Cuban officials: Multiple killed after armed confrontation in Cuba&#x27;s waters</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-25 20:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/larry-summers-1-gty-gmh-260225_1772037822736_hpMain_4x3t_384.jpg" alt="Larry Summers to step down from Harvard amid Epstein scrutiny" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,30 +88,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f16/live/170d1a60-10d1-11f1-97cc-8b3c62c7814d.jpg" alt="&#x27;Fear is everywhere&#x27;: BBC reports from Mexican city turned into war zone by drug cartel feud" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/2/25/live-real-madrid-vs-benfica-champions-league-playoff-second-leg?traffic_source=rss" target="_blank">LIVE: Real Madrid vs Benfica – Champions League playoff, second leg</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2g3vmde0eo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Fear is everywhere&#x27;: BBC reports from Mexican city turned into war zone by drug cartel feud</a></span>
+                <span class="feed">BBC News</span>
                 <span class="time">2026-02-25 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/25/nx-s1-5726050/kalshi-insider-trading-enforcement-actions" target="_blank">Kalshi reveals insider trading case against editor for MrBeast</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-25 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-kenthurst-castle-hill_7174952.png?20260225174126" alt="Pair charged with alleged murder of &#x27;mistakenly-kidnapped&#x27; pensioner, 85" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/pair-charged-with-alleged-murder-of-mistakenly-kidnapped-pensioner-chris-baghsarian-in-sydney-13512123" target="_blank">Pair charged with alleged murder of &#x27;mistakenly-kidnapped&#x27; pensioner, 85</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-25 15:47</span>
             </div>
         </div>
 </div>
@@ -111,6 +101,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69964e836a79d569b06431c0/master/pass/Mog-Goblins-and-Why-We-All-Use-Incel-Speak-Now-Culture.jpg" alt="Everyone Speaks Incel Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/everyone-speaks-incel-now/" target="_blank">Everyone Speaks Incel Now</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-25 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/washington-post-building-500x500-1768424062.jpg" alt="Judge doesn&#x27;t trust DOJ with search of devices seized from Wash. Post reporter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/judge-doesnt-trust-doj-with-search-of-devices-seized-from-wash-post-reporter/" target="_blank">Judge doesn&#x27;t trust DOJ with search of devices seized from Wash. Post reporter</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-25 20:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/" target="_blank">The White House wants AI companies to cover rate hikes. Most have already said they would.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-25 20:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,33 +155,6 @@
                 <span class="time">2026-02-25 19:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/883829/samsung-galaxy-s26-plus-ultra-how-to-buy-preorder-price-release-date" target="_blank">Where to preorder all of Samsung’s new Galaxy S26 phones</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-25 19:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/699de3a0e46e4fa7442b798a/master/pass/AI-Lab-OpenClaw-Users-Are-Attempting-to-Scrape-Sites-with-Anti-Bot-Protections-Business.jpg" alt="OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/" target="_blank">OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-25 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/699e2d79d54c22d6c9a6a418/master/pass/Google%20Gemini%20Automation%20on%20Galaxy%20S26%20SOURCE%20Julian%20Chokkattu(2).jpg" alt="Gemini Can Now Book You an Uber or Order a DoorDash Meal on Your Phone. Here’s How It Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/google-gemini-task-automation-galaxy-s26-uber-doordash/" target="_blank">Gemini Can Now Book You an Uber or Order a DoorDash Meal on Your Phone. Here’s How It Works</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-25 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -177,6 +167,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://spectrum.ieee.org/jimi-hendrix-systems-engineer" target="_blank">Jimi Hendrix was a systems engineer</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-25 20:16</span>
             </div>
         </div>
 <div class="story">
@@ -213,15 +212,6 @@
                 <span class="title"><a href="https://dzone.com/articles/keywords-to-meaning-intelligent-search-foundations" target="_blank">From Keywords to Meaning: The New Foundations of Intelligent Search</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-25 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/odvcencio/gotreesitter" target="_blank">Show HN: I ported Tree-sitter to Go</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-25 18:28</span>
             </div>
         </div>
 </div>
@@ -325,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 20:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 21:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
