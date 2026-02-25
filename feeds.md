@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-25 12:07:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-25 13:27:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, February 25, 2026 - 12:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, February 25, 2026 - 13:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8157/live/f7fdaf70-1244-11f1-b47f-a98bfefef0c8.jpg" alt="Commons Speaker passed information to police on Mandelson ahead of arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8d5792yj9qo?at_medium=RSS&at_campaign=rss" target="_blank">Commons Speaker passed information to police on Mandelson ahead of arrest</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-25 13:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/25/netanyahu-greets-indian-pm-modi-as-he-lands-in-israel?traffic_source=rss" target="_blank">Netanyahu greets Indian PM Modi as he lands in Israel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-25 12:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/25/g-s1-111453/up-first-newsletter-trump-state-of-the-union-aviation-safety-bill-pete-hegseth-anthropic" target="_blank">Takeaways from Trump&#x27;s State of the Union. And, House rejects aviation safety bill</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-25 12:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,33 +94,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s theatrical State of the Union address offers little hint of any change in course</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-25 10:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/25/syria-faces-twin-battles-as-assad-loyalists-and-isil-attack-in-west-east?traffic_source=rss" target="_blank">Syria faces twin battles as Assad loyalists and ISIL attack in west, east</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-25 09:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b2f/live/834581e0-1220-11f1-801d-ed3cff6bf876.jpg" alt="Household energy bills to fall in April after charges shake-up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&at_campaign=rss" target="_blank">Household energy bills to fall in April after charges shake-up</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-25 08:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b4a/live/324725a0-1216-11f1-9123-81d30b1ac5de.jpg" alt="Typical household energy bills to fall by £117 a year in April" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&at_campaign=rss" target="_blank">Typical household energy bills to fall by £117 a year in April</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-25 07:10</span>
             </div>
         </div>
 </div>
@@ -171,12 +170,39 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/x0lg0n/starting-my-tech-journey-why-im-sharing-it-publicly-2o8f" target="_blank">🚀 Starting My Tech Journey – Why I’m Sharing It Publicly</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-25 13:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18887708&w=600" alt="How to Configure JDK 25 for GitHub Copilot Coding Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-to-configure-jdk-25-for-github-copilot-coding" target="_blank">How to Configure JDK 25 for GitHub Copilot Coding Agent</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-25 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F50463%2F3cd9e955-f2da-40c3-848e-1e6adc988084.png" alt="Your Component Catalog Already Knows Everything. So Why Not Make It an MCP Server?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/j_sakamoto/your-component-catalog-already-knows-everything-so-why-not-make-it-an-mcp-server-486f" target="_blank">Your Component Catalog Already Knows Everything. So Why Not Make It an MCP Server?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-25 12:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Systing-1.0" target="_blank">Systing 1.0 Released For Rust-Based eBPF-Based Tracing Tool Leveraging AI</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-25 11:11</span>
             </div>
         </div>
 <div class="story">
@@ -188,38 +214,20 @@
                 <span class="time">2026-02-25 11:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/google-documentation-ai-agents/en/headerimage/generatedHeaderImage-1772007314908.jpg" alt="Google Brings Its Developer Documentation Into the Age of AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/google-documentation-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Brings Its Developer Documentation Into the Age of AI Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-25 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.codemine.be/posts/2026/20260222-be-quiet/" target="_blank">LLM=True</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-25 09:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/optimal-efficiency-devex/en/mediumimage/fabien-deshayes-medium-1771406588152.jpeg" alt="Presentation: Achieve Optimal Efficiency for Your Developer Experience Teams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/optimal-efficiency-devex/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Achieve Optimal Efficiency for Your Developer Experience Teams</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-25 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/Screenshot-2026-02-24-141415-1280x712.jpg" alt="The Best New Anime You Should Be Watching This Season Isn’t Frieren or Jujutsu Kaisen, It’s Ikoku Nikki" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ikoku-nikki-journal-with-witch-anime-best-2026-2000673307" target="_blank">The Best New Anime You Should Be Watching This Season Isn’t Frieren or Jujutsu Kaisen, It’s Ikoku Nikki</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-25 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/Project-Hail-Mary-4dx-poster-crop-1280x853.jpg" alt="The First Reactions to ‘Project Hail Mary’ Are Out of This World" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +273,6 @@
                 <span class="time">2026-02-25 01:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/iphone-16-dynamic-island-1280x955.jpg" alt="The Touchscreen MacBook Pro Will Have a Very iPhone-Like Screen, Report Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-touchscreen-macbook-pro-will-have-a-very-iphone-like-screen-report-says-2000726201" target="_blank">The Touchscreen MacBook Pro Will Have a Very iPhone-Like Screen, Report Says</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-25 01:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 12:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 13:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
