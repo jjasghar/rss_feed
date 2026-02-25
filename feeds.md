@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-25 22:04:56 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-25 23:06:47 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, February 25, 2026 - 22:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, February 25, 2026 - 23:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2259422080-500x500-1772053808.jpg" alt="Musk has no proof OpenAI stole xAI trade secrets, judge rules, tossing lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/judge-xai-cant-claim-openai-stole-trade-secrets-just-by-hiring-ex-staffers/" target="_blank">Musk has no proof OpenAI stole xAI trade secrets, judge rules, tossing lawsuit</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-25 22:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/Samsung-Mobile-Galaxy-Unpacked-2026-Galaxy-S26-Series-A-First-Look_dl2-500x500.jpg" alt="The Galaxy S26 is faster, more expensive, and even more chock-full of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -152,15 +154,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/" target="_blank">Alphabet-owned robotics software company Intrinsic joins Google</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-25 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/699e0e94458686361c3c0d25/master/pass/OpenAI-Hires-Riley-Walz-Business-2236469090.jpg" alt="Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-hires-riley-walz/" target="_blank">Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-25 19:59</span>
             </div>
         </div>
 </div>
@@ -242,11 +235,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJAV22WC5D9K5VRCZCCVC8B5/hero-image.jpg" alt="10 Hacks Every Telegram User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-telegram-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Telegram User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-25 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/samsung-galaxys26ultra-vs-iphone-17pro-1280x853.jpg" alt="Samsung Galaxy S26 vs. iPhone 17: Is It All About AI?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/samsung-galaxy-s26-vs-iphone-17-is-it-all-about-ai-2000726526" target="_blank">Samsung Galaxy S26 vs. iPhone 17: Is It All About AI?</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-25 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/MacMagic-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Make the most of your Mac with 70% off this productivity app" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/25/make-the-most-of-your-mac-with-70-off-this-productivity-app.html" target="_blank">Make the most of your Mac with 70% off this productivity app</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-25 22:00</span>
             </div>
         </div>
@@ -277,24 +288,6 @@
                 <span class="time">2026-02-25 19:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJB2P05JEMSBFRSHYMSG41ZW/hero-image.png" alt="This Roborock Vaccum and Mop Combo Is Cheaper Than Ever Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/roborock-qrevo-curv-s5x-sale-february-2026?utm_medium=RSS" target="_blank">This Roborock Vaccum and Mop Combo Is Cheaper Than Ever Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-25 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/image-30-1280x724.jpg" alt="Publisher Behind One Of 2025’s Most Underrated Soulslikes Files For Bankruptcy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nacon-bankruptcy-hell-us-amazon-horizon-open-world-2000673614" target="_blank">Publisher Behind One Of 2025’s Most Underrated Soulslikes Files For Bankruptcy</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-25 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 22:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 23:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
