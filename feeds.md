@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-25 07:19:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-25 08:10:45 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, February 25, 2026 - 07:19 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, February 25, 2026 - 08:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,6 +51,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&at_campaign=rss" target="_blank">Typical household energy bills to fall by £117 a year in April</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-25 07:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/25/g-s1-111441/china-restricts-exports-to-40-japanese-entities-with-ties-to-military" target="_blank">China restricts exports to 40 Japanese entities with ties to military</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-25 06:53</span>
             </div>
         </div>
 <div class="story">
@@ -93,15 +96,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/three-takeaways-trumps-state-union-economy-immigrant-democrats-rcna259801" target="_blank">Three takeaways from Trump&#x27;s State of the Union speech</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-25 04:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/tm-sotu-mash-wide-x80f09.jpg" alt="Watch President Trump&#x27;s 2026 State of the Union address in 3 minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/watch-president-trump-s-2026-state-of-the-union-address-in-3-minutes-258251845742" target="_blank">Watch President Trump&#x27;s 2026 State of the Union address in 3 minutes</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-25 04:25</span>
             </div>
         </div>
 </div>
@@ -242,6 +236,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/trump-sotu-1280x853.jpg" alt="It’s Not Just You. Trump’s State of the Union Triggered Siri on iPhone Users’ Phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/its-not-just-you-trumps-state-of-the-union-triggered-siri-on-iphone-users-phones-2000726280" target="_blank">It’s Not Just You. Trump’s State of the Union Triggered Siri on iPhone Users’ Phones</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-25 04:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/asteroid-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="An asteroid passed 428 km from Earth and no one saw it coming" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -286,15 +289,6 @@
                 <span class="time">2026-02-24 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJ8QF5HPKZ3C9Q7NDMVNAJ9K/hero-image.png" alt="Now Discord Is Saying It&#x27;s Delaying Global Age Verification" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/discord-is-delaying-its-global-age-verification?utm_medium=RSS" target="_blank">Now Discord Is Saying It&#x27;s Delaying Global Age Verification</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-24 22:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,7 +318,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 07:19 UTC
+        🔄 Last Updated: 08:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
