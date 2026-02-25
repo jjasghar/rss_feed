@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-25 17:20:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-25 18:17:49 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 12 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, February 25, 2026 - 17:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, February 25, 2026 - 18:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b521/live/49b313c0-125c-11f1-b048-c9424b2cf5fd.jpg" alt="Met apologises to Commons Speaker for sharing Mandelson tip-off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8d5792yj9qo?at_medium=RSS&at_campaign=rss" target="_blank">Met apologises to Commons Speaker for sharing Mandelson tip-off</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-25 17:39</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -63,6 +72,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/25/nx-s1-5726050/kalshi-insider-trading-enforcement-actions" target="_blank">Kalshi reveals insider trading case against editor for MrBeast</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-25 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-kenthurst-castle-hill_7174952.png?20260225174126" alt="Pair charged with alleged murder of &#x27;mistakenly-kidnapped&#x27; pensioner, 85" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/pair-charged-with-alleged-murder-of-mistakenly-kidnapped-pensioner-chris-baghsarian-in-sydney-13512123" target="_blank">Pair charged with alleged murder of &#x27;mistakenly-kidnapped&#x27; pensioner, 85</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-25 15:47</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +101,29 @@
                 <span class="time">2026-02-25 13:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8157/live/f7fdaf70-1244-11f1-b47f-a98bfefef0c8.jpg" alt="Commons Speaker passed information to police on Mandelson ahead of arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8d5792yj9qo?at_medium=RSS&at_campaign=rss" target="_blank">Commons Speaker passed information to police on Mandelson ahead of arrest</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-25 13:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/feb/25/zambia-us-health-aid-deal-exploitation-mining-concessions-data-sharing-targets" target="_blank">US accused of ‘shameless exploitation’ over proposed Zambian health aid deal</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-25 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/699e2d79d54c22d6c9a6a418/master/pass/Google%20Gemini%20Automation%20on%20Galaxy%20S26%20SOURCE%20Julian%20Chokkattu(2).jpg" alt="Gemini Can Now Book You an Uber or Order a DoorDash Meal on Your Phone. Here’s How It Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/google-gemini-task-automation-galaxy-s26-uber-doordash/" target="_blank">Gemini Can Now Book You an Uber or Order a DoorDash Meal on Your Phone. Here’s How It Works</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-25 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/884210/google-gemini-samsung-s26-pixel-10-uber" target="_blank">Gemini is getting its first agentic capabilities</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-25 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,24 +160,6 @@
                 <span class="time">2026-02-25 15:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/hegseth-500x500.jpg" alt="Pete Hegseth tells Anthropic to fall in line with DoD desires, or else" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/02/pete-hegseth-wants-unfettered-access-to-anthropics-models-for-the-military/" target="_blank">Pete Hegseth tells Anthropic to fall in line with DoD desires, or else</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-25 14:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/884306/apple-age-verification-uk-users-ios-26-4-beta" target="_blank">Apple brings age verification to UK users in iOS 26.4 beta</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-25 14:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +172,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/onlyoffice-docs-9-3-release/" target="_blank">ONLYOFFICE Docs 9.3 Brings PDF Editor Upgrades With New Signing and Editing Tools</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-25 18:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rainkode/how-openai-and-persona-built-an-identity-surveillance-machine-for-the-us-government-1157" target="_blank">How OpenAI and Persona Built an Identity Surveillance Machine for the US Government</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-25 18:06</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +219,6 @@
                 <span class="time">2026-02-25 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/mitchell-hashimoto" target="_blank">Mitchell Hashimoto’s new way of writing code</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-02-25 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maina-duncan/building-a-localized-ai-legal-assistant-with-angular-firebase-gemini-2if9" target="_blank">Building a Localized AI Legal Assistant with Angular, Firebase &amp; Gemini</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-25 16:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/RESIDENT-EVIL-requiem_20260213204857-1280x720.jpg" alt="Leon Scott Kennedy, I’m On PrEP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/leon-kennedy-resident-evil-requiem-hot-thirst-trap-2000673666" target="_blank">Leon Scott Kennedy, I’m On PrEP</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-25 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KJAR6SX6NF1ADPS4AT32BXKB/hero-image.jpg" alt="What&#x27;s New on Netflix in March 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +292,6 @@
                 <span class="time">2026-02-25 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Project-Hail-Mary-4dx-poster-crop-1280x853.jpg" alt="The First Reactions to ‘Project Hail Mary’ Are Out of This World" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-first-reactions-to-project-hail-mary-are-out-of-this-world-2000726024" target="_blank">The First Reactions to ‘Project Hail Mary’ Are Out of This World</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-25 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 17:20 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 18:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
