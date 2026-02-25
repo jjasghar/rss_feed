@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-02-25 05:26:57 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-25 06:19:44 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, February 25, 2026 - 05:27 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, February 25, 2026 - 06:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +41,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/25/nx-s1-5716159/trump-congress-state-union-read" target="_blank">Read Trump&#x27;s 2026 State of the Union address</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-25 06:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/sotu-29-ap-gmh-260224._1771988497863_hpMain_4x3t_384.jpg" alt="Fact-checking Trump&#x27;s State of the Union address" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/Politics/fact-checking-trumps-state-union-address/story?id=130459365" target="_blank">Fact-checking Trump&#x27;s State of the Union address</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-25 05:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/25/modi-in-israel-live-indias-pm-to-meet-netanyahu-address-knesset?traffic_source=rss" target="_blank">Modi in Israel live: India’s PM to meet Netanyahu, address Knesset</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-25 05:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260224-sotu-donald-trump-ew-1015p-5ea886.jpg" alt="Three takeaways from Trump&#x27;s State of the Union speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/three-takeaways-trumps-state-union-economy-immigrant-democrats-rcna259801" target="_blank">Three takeaways from Trump&#x27;s State of the Union speech</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-25 04:31</span>
             </div>
         </div>
 <div class="story">
@@ -69,33 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/25/tokyo-protests-as-china-blocks-dual-use-exports-to-20-japanese-companies?traffic_source=rss" target="_blank">Tokyo protests as China blocks ‘dual-use’ exports to 20 Japanese companies</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-25 04:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/24/nx-s1-5725496/trump-state-union-longest-speech" target="_blank">Trump&#x27;s speech is longest State of the Union address in recent history</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-25 03:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/25/children-among-16-killed-in-car-crash-in-southern-yemen?traffic_source=rss" target="_blank">Children among 16 killed in car crash in southern Yemen</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-25 03:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/sotu-16-gty-gmh-260224_1771986178267_hpMain_4x3t_384.jpg" alt="Trump State of the Union updates: Trump talks tariffs, immigration in speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/live-updates/trump-state-union-updates-erika-kirk-guests-invited/?id=130452369" target="_blank">Trump State of the Union updates: Trump talks tariffs, immigration in speech</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-25 02:44</span>
             </div>
         </div>
 </div>
@@ -317,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 05:27 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 06:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
