@@ -1,30 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-25 06:19:44 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-25 07:19:35 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, February 25, 2026 - 06:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, February 25, 2026 - 07:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b4a/live/324725a0-1216-11f1-9123-81d30b1ac5de.jpg" alt="Typical household energy bills to fall by £117 a year in April" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&at_campaign=rss" target="_blank">Typical household energy bills to fall by £117 a year in April</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-25 07:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,15 +102,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/watch-president-trump-s-2026-state-of-the-union-address-in-3-minutes-258251845742" target="_blank">Watch President Trump&#x27;s 2026 State of the Union address in 3 minutes</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-25 04:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/25/tokyo-protests-as-china-blocks-dual-use-exports-to-20-japanese-companies?traffic_source=rss" target="_blank">Tokyo protests as China blocks ‘dual-use’ exports to 20 Japanese companies</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-25 04:24</span>
             </div>
         </div>
 </div>
@@ -171,6 +181,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/oblivionlabz/designing-ai-agent-memory-architecture-a-power-users-guide-to-persistent-intelligence-1ced" target="_blank">Designing AI Agent Memory Architecture: A Power User’s Guide to Persistent Intelligence</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-25 07:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/selfhostingsh/caddy-vs-envoy-which-proxy-to-self-host-1p5" target="_blank">Caddy vs Envoy: Which Proxy to Self-Host?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-25 05:17</span>
@@ -201,15 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-SEV-SNP-BTB-Isolation" target="_blank">AMD Posts Linux Patches For SEV-SNP BTB Isolation</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-25 01:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/victorstackai/nodejs-24140-lts-and-2570-upgrade-risk-matrix-for-ci-native-modules-and-frameworks-4lc8" target="_blank">Node.js 24.14.0 LTS and 25.7.0: Upgrade-Risk Matrix for CI, Native Modules, and Frameworks</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-25 01:20</span>
             </div>
         </div>
 </div>
@@ -313,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 06:19 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 07:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
