@@ -1,31 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-02-25 19:20:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-25 20:07:09 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, February 25, 2026 - 19:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, February 25, 2026 - 20:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/larry-summers-1-gty-gmh-260225_1772037822736_hpMain_4x3t_384.jpg" alt="Larry Summers to step down from Harvard amid Epstein scrutiny" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/larry-summers-step-harvard-amid-epstein-scrutiny/story?id=130494623" target="_blank">Larry Summers to step down from Harvard amid Epstein scrutiny</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-25 19:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +106,38 @@
                 <span class="time">2026-02-25 15:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/25/palestinian-filmmaker-showcases-the-beauty-of-pre-war-gaza?traffic_source=rss" target="_blank">Palestinian filmmaker showcases the beauty of pre-war Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-25 15:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/" target="_blank">Alphabet-owned robotics software company Intrinsic joins Google</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-25 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/699e0e94458686361c3c0d25/master/pass/OpenAI-Hires-Riley-Walz-Business-2236469090.jpg" alt="Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-hires-riley-walz/" target="_blank">Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-25 19:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/884703/google-samsung-galaxy-s26-gemini-apple-siri" target="_blank">Google and Samsung just launched the AI features Apple couldn’t with Siri</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-25 19:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,33 +165,6 @@
                 <span class="time">2026-02-25 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/884210/google-gemini-samsung-s26-pixel-10-uber" target="_blank">Gemini is getting its first agentic capabilities</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-25 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/881355/live-blog-samsung-galaxy-unpacked-2026" target="_blank">Live: Samsung unveils new Galaxy phones</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-25 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/884399/spotify-mix-smart-reorder-feature" target="_blank">Spotify&amp;#8217;s Smart Reorder treats your playlists like a DJ set</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-25 16:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,6 +177,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/llvm-clang-22-znver5" target="_blank">LLVM Clang 22 Compiler Performance Largely Unchanged Over Clang 21 On AMD Zen 5</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-25 20:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/manuel_felipeariaspined/nigeria-devs-add-nin-national-identification-number-to-the-ai-identity-standard-soulprint-3n2b" target="_blank">🇳🇬 Nigeria devs: Add NIN (National Identification Number) to the AI identity standard — Soulprint open source (30 min PR)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-25 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -189,28 +218,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/onlyoffice-docs-9-3-release/" target="_blank">ONLYOFFICE Docs 9.3 Brings PDF Editor Upgrades With New Signing and Editing Tools</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-25 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rainkode/how-openai-and-persona-built-an-identity-surveillance-machine-for-the-us-government-1157" target="_blank">How OpenAI and Persona Built an Identity Surveillance Machine for the US Government</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-25 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bharath_kumar_30_vog/i-built-a-one-click-social-media-automation-platform-with-python-fastapi-4f0l" target="_blank">I Built a &quot;One Click Social Media Automation Platform&quot; with Python &amp; FastAPI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-25 17:14</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/odvcencio/gotreesitter" target="_blank">Show HN: I ported Tree-sitter to Go</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-25 18:28</span>
             </div>
         </div>
 </div>
@@ -232,6 +243,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/04/ff82b6491738834542ce014789294b8f-1280x720.jpg" alt="Skate Studio Says It’s Laying Devs Off In Order To ‘Better Support’ The Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/skate-4-full-circle-layoffs-ea-season-3-skateboarding-game-2000673707" target="_blank">Skate Studio Says It’s Laying Devs Off In Order To ‘Better Support’ The Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-25 20:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Bill_Gates_mugshot.jpeg?fit=1200%2C831&amp;quality=60&amp;ssl=1" alt="Bill Gates admits affairs with Russian women, blames Epstein fallout" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/25/bill-gates-admits-affairs-with-russian-women-blames-epstein-fallout.html" target="_blank">Bill Gates admits affairs with Russian women, blames Epstein fallout</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-25 19:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJB2P05JEMSBFRSHYMSG41ZW/hero-image.png" alt="This Roborock Vaccum and Mop Combo Is Cheaper Than Ever Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/roborock-qrevo-curv-s5x-sale-february-2026?utm_medium=RSS" target="_blank">This Roborock Vaccum and Mop Combo Is Cheaper Than Ever Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-25 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/image-30-1280x724.jpg" alt="Publisher Behind One Of 2025’s Most Underrated Soulslikes Files For Bankruptcy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -257,33 +295,6 @@
                 <span class="title"><a href="https://kotaku.com/leon-kennedy-resident-evil-requiem-hot-thirst-trap-2000673666" target="_blank">Leon Scott Kennedy, I’m On PrEP</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-25 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/screwworm-1.jpg?fit=1080%2C810&amp;quality=60&amp;ssl=1" alt="Scientists complete the first full wiring diagram of a fruit fly brain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/25/scientists-complete-the-first-full-wiring-diagram-of-a-fruit-fly-brain.html" target="_blank">Scientists complete the first full wiring diagram of a fruit fly brain</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-25 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJAR6SX6NF1ADPS4AT32BXKB/hero-image.jpg" alt="What&#x27;s New on Netflix in March 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/whats-new-on-netflix-in-march-2026?utm_medium=RSS" target="_blank">What&#x27;s New on Netflix in March 2026</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-25 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/02/a677852b447300b75e0c7ae13921eaf8-1280x720.jpg" alt="In Overwatch, Mercy Is Winning In Skins And Losing In Everything Else" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/overwatch-mercy-lifeweaver-healing-reduction-passive-2000673646" target="_blank">In Overwatch, Mercy Is Winning In Skins And Losing In Everything Else</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-25 16:19</span>
             </div>
         </div>
 </div>
@@ -314,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 19:21 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 20:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
