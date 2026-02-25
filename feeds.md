@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-25 00:09:25 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-02-25 01:30:46 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, February 25, 2026 - 00:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, February 25, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/25/russia-ukraine-war-list-of-key-events-day-1462?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,462</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-25 00:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-6-rt-gmh-260220_1771613838035_hpMain_4x3t_384.jpg" alt="Trump State of the Union updates: President to address the nation at key moment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +98,20 @@
                 <span class="time">2026-02-24 22:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/24/at-least-23-dead-as-heavy-rains-unleash-floods-in-southeastern-brazil?traffic_source=rss" target="_blank">At least 23 dead as heavy rains unleash floods in southeastern Brazil</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-24 21:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/" target="_blank">Nvidia challenger AI chip startup MatX raised $500M</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-25 00:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/chimp1-500x500.jpg" alt="Boozy chimps fail urine test, confirm hotly debated theory" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +157,6 @@
                 <span class="time">2026-02-24 21:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/699dfe2dbbe6062950a4fd5c/master/pass/My%20Favorite%20Bluetooth%20Speaker%20Is%20on%20Sale%20for%20$50%20Off%20Right%20Now.png" alt="My Favorite Bluetooth Speaker Is on Sale for $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/jbl-flip-7-deal-0223/" target="_blank">My Favorite Bluetooth Speaker Is on Sale for $50 Off Right Now</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-24 19:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +169,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/victorstackai/nodejs-24140-lts-and-2570-upgrade-risk-matrix-for-ci-native-modules-and-frameworks-4lc8" target="_blank">Node.js 24.14.0 LTS and 25.7.0: Upgrade-Risk Matrix for CI, Native Modules, and Frameworks</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-25 01:20</span>
             </div>
         </div>
 <div class="story">
@@ -192,30 +199,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/03/gnome-extensions-blue.jpg?resize=406%2C232&amp;ssl=1" alt="Dynamic Music Pill puts a slick media controller in your GNOME panel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/dynamic-music-pill-gnome-panel-media-controller" target="_blank">Dynamic Music Pill puts a slick media controller in your GNOME panel</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-02-24 23:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/manuel_felipeariaspined/norge-devs-add-fodselsnummer-to-the-ai-identity-standard-soulprint-open-source-30-min-pr-3f6i" target="_blank">🇳🇴 Norge devs: Add Fødselsnummer to the AI identity standard — Soulprint open source (30 min PR)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-24 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/imtaslim/how-i-structure-backend-projects-so-they-dont-become-a-mess-4n2a" target="_blank">How I Structure Backend Projects So They Don’t Become a Mess</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-24 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kaomojiya/bringing-microsoft-sam-back-to-life-how-sapi4-tts-works-in-the-browser-3ej7" target="_blank">Bringing Microsoft SAM Back to Life: How SAPI4 TTS Works in the Browser</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-24 20:58</span>
             </div>
         </div>
 </div>
@@ -237,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/iphone-16-dynamic-island-1280x955.jpg" alt="The Touchscreen MacBook Pro Will Have a Very iPhone-Like Screen, Report Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-touchscreen-macbook-pro-will-have-a-very-iphone-like-screen-report-says-2000726201" target="_blank">The Touchscreen MacBook Pro Will Have a Very iPhone-Like Screen, Report Says</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-25 01:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/printing.jpeg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="New book collects the weirdest forgotten stories of printing history" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/24/new-book-collects-the-weirdest-forgotten-stories-of-printing-history.html" target="_blank">New book collects the weirdest forgotten stories of printing history</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-25 00:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/Jodie-Foster-Contact-1280x853.jpg" alt="Jodie Foster Reflects on the Personal Journey of Making ‘Contact’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +287,6 @@
                 <span class="title"><a href="https://kotaku.com/charity-steam-pc-games-bundle-best-deal-2026-fps-cultic-selaco-boltgun-2000673339" target="_blank">This Charity Steam Bundle Is One Of The Best Deals I’ve Ever Seen</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-24 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/tokyo-scrambled-1280x720.jpg" alt="A Switch 2 Nintendo Direct Reveal Is The Newest Contender For Worst Game Of 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tokyo-scramble-switch-2-worst-game-2026-2000673341" target="_blank">A Switch 2 Nintendo Direct Reveal Is The Newest Contender For Worst Game Of 2026</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-24 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/sam-spruell_0-2-1280x853.jpg" alt="‘A Knight of the Seven Kingdoms’ Might Not Pick Up on Its Big Cliffhanger Just Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/knight-of-the-seven-kingdoms-season-2-maekar-2000725956" target="_blank">‘A Knight of the Seven Kingdoms’ Might Not Pick Up on Its Big Cliffhanger Just Yet</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-24 21:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 00:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
