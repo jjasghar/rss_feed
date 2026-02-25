@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-02-25 03:49:38 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-02-25 04:34:13 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, February 25, 2026 - 03:49 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, February 25, 2026 - 04:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +55,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/25/tokyo-protests-as-china-blocks-dual-use-exports-to-20-japanese-companies?traffic_source=rss" target="_blank">Tokyo protests as China blocks ‘dual-use’ exports to 20 Japanese companies</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-25 04:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/24/nx-s1-5725496/trump-state-union-longest-speech" target="_blank">Trump&#x27;s speech is longest State of the Union address in recent history</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-25 03:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/25/children-among-16-killed-in-car-crash-in-southern-yemen?traffic_source=rss" target="_blank">Children among 16 killed in car crash in southern Yemen</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-25 03:20</span>
@@ -63,39 +88,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771986327267_nbc_sotu_trump_green_out_260224_1920x1080-j7hpxc.jpg" alt="Democratic Rep. Al Green escorted out during Trump&#x27;s State of the Union remarks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/democratic-rep-al-green-escorted-out-during-trump-s-state-of-the-union-remarks-258238533858" target="_blank">Democratic Rep. Al Green escorted out during Trump&#x27;s State of the Union remarks</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-25 02:25</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/25/russia-ukraine-war-list-of-key-events-day-1462?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,462</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-25 00:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-6-rt-gmh-260220_1771613838035_hpMain_4x3t_384.jpg" alt="Trump State of the Union updates: President to address the nation at key moment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/live-updates/trump-state-union-updates-erika-kirk-guests-invited/?id=130452369" target="_blank">Trump State of the Union updates: President to address the nation at key moment</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-25 00:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/24/nx-s1-5716277/trump-state-union-fact-check" target="_blank">Read NPR&#x27;s annotated fact check of President Trump&#x27;s State of the Union</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-24 23:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/24/state-of-the-union-live-trump-to-address-nation-amid-tariff-iran-tensions?traffic_source=rss" target="_blank">State of the Union live: Trump to address nation amid tariff, Iran tensions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-24 23:00</span>
             </div>
         </div>
 </div>
@@ -192,6 +199,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-SEV-SNP-BTB-Isolation" target="_blank">AMD Posts Linux Patches For SEV-SNP BTB Isolation</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-25 01:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/victorstackai/nodejs-24140-lts-and-2570-upgrade-risk-matrix-for-ci-native-modules-and-frameworks-4lc8" target="_blank">Node.js 24.14.0 LTS and 25.7.0: Upgrade-Risk Matrix for CI, Native Modules, and Frameworks</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,15 +221,6 @@
                 <span class="title"><a href="https://dev.to/custodiaadmin/pagebolt-vs-urlbox-beyond-screenshot-apis-4jpe" target="_blank">PageBolt vs. Urlbox: beyond screenshot APIs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-25 00:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/aws-drops-patent-protection/en/headerimage/generatedHeaderImage-1771934813089.jpg" alt="AWS Drops Patent Infringement Protection for Video Encoding Services" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/aws-drops-patent-protection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Drops Patent Infringement Protection for Video Encoding Services</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-25 00:03</span>
             </div>
         </div>
 </div>
@@ -317,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 03:49 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 04:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
