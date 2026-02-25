@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-25 13:27:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-25 14:17:57 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, February 25, 2026 - 13:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, February 25, 2026 - 14:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +49,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/25/un-6-5-million-in-somalia-facing-hunger?traffic_source=rss" target="_blank">UN: 6.5 million in Somalia facing hunger</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-25 13:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8157/live/f7fdaf70-1244-11f1-b47f-a98bfefef0c8.jpg" alt="Commons Speaker passed information to police on Mandelson ahead of arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c8d5792yj9qo?at_medium=RSS&at_campaign=rss" target="_blank">Commons Speaker passed information to police on Mandelson ahead of arrest</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-25 13:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/feb/25/zambia-us-health-aid-deal-exploitation-mining-concessions-data-sharing-targets" target="_blank">US accused of ‘shameless exploitation’ over proposed Zambian health aid deal</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-25 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +102,29 @@
                 <span class="time">2026-02-25 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/25/how-banks-billionaires-aided-epstein-after-his-2008-conviction?traffic_source=rss" target="_blank">How banks, billionaires aided Epstein after his 2008 conviction</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-25 10:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b72/live/bdc762d0-1215-11f1-b048-c9424b2cf5fd.jpg" alt="Trump&#x27;s theatrical State of the Union address offers little hint of any change in course" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s theatrical State of the Union address offers little hint of any change in course</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-25 10:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/884306/apple-age-verification-uk-users-ios-26-4-beta" target="_blank">Apple brings age verification to UK users in iOS 26.4 beta</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-25 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/25/harbinger-acquires-autonomous-driving-company-phantom-ai/" target="_blank">Harbinger acquires autonomous driving company Phantom AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-25 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69966b47cef96ab79e7301c1/master/pass/COMP%202%20WITH%20FRAME%20VERSION%201.jpg" alt="Talk to Your Own Personal Isaac Newton With Ailias’s Hologram Avatars" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,24 +161,6 @@
                 <span class="time">2026-02-25 01:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/" target="_blank">Nvidia challenger AI chip startup MatX raised $500M</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-25 00:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/chimp1-500x500.jpg" alt="Boozy chimps fail urine test, confirm hotly debated theory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/02/boozy-chimps-fail-urine-test-confirm-hotly-debated-theory/" target="_blank">Boozy chimps fail urine test, confirm hotly debated theory</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-25 00:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +173,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hafiz619/laravel-blaze-what-it-actually-does-when-to-use-it-and-when-itll-break-your-app-1gma" target="_blank">Laravel Blaze: What It Actually Does, When to Use It, and When It&#x27;ll Break Your App</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-25 14:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/CoreCollective" target="_blank">Arm &amp; Linaro Launch New &quot;CoreCollective&quot; Consortium - With Backing From AMD &amp; Others</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-25 14:00</span>
             </div>
         </div>
 <div class="story">
@@ -196,22 +220,18 @@
                 <span class="time">2026-02-25 12:03</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Systing-1.0" target="_blank">Systing 1.0 Released For Rust-Based eBPF-Based Tracing Tool Leveraging AI</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-25 11:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7o6k55n57beb4lrms2up.png" alt="What I am currently reading (Feb 17th)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/094459/what-i-am-currently-reading-feb-17th-2od5" target="_blank">What I am currently reading (Feb 17th)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-25 11:07</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html" target="_blank">Poisoning AI Training Data</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-02-25 12:01</span>
             </div>
         </div>
 </div>
@@ -310,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 13:27 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 14:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
