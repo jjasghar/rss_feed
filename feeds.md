@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-25 02:56:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-25 03:49:38 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, February 25, 2026 - 02:57 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, February 25, 2026 - 03:49 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/25/children-among-16-killed-in-car-crash-in-southern-yemen?traffic_source=rss" target="_blank">Children among 16 killed in car crash in southern Yemen</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-25 03:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/sotu-16-gty-gmh-260224_1771986178267_hpMain_4x3t_384.jpg" alt="Trump State of the Union updates: Trump talks tariffs, immigration in speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +95,6 @@
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/24/state-of-the-union-live-trump-to-address-nation-amid-tariff-iran-tensions?traffic_source=rss" target="_blank">State of the Union live: Trump to address nation amid tariff, Iran tensions</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-24 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/24/nx-s1-5716163/trump-congress-state-union" target="_blank">President Trump set to deliver first State of the Union address of his second term</a></span>
-                <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-24 23:00</span>
             </div>
         </div>
@@ -174,6 +172,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2F0fdf1ad6-7dd4-4c4a-adda-2016ca89359c.png" alt="The next five years of AI won’t make developers irrelevant. They’ll make clarity, judgment, and systems thinking the core of the profession." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jaideepparashar/the-next-five-years-of-ai-wont-make-developers-irrelevant-theyll-make-clarity-judgment-and-584d" target="_blank">The next five years of AI won’t make developers irrelevant. They’ll make clarity, judgment, and systems thinking the core of the profession.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-25 03:39</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +216,6 @@
                 <span class="time">2026-02-25 00:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/03/gnome-extensions-blue.jpg?resize=406%2C232&amp;ssl=1" alt="Dynamic Music Pill puts a slick media controller in your GNOME panel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/dynamic-music-pill-gnome-panel-media-controller" target="_blank">Dynamic Music Pill puts a slick media controller in your GNOME panel</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-24 23:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/asteroid-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="An asteroid passed 428 km from Earth and no one saw it coming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/24/an-asteroid-passed-428-km-from-earth-and-no-one-saw-it-coming.html" target="_blank">An asteroid passed 428 km from Earth and no one saw it coming</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-25 01:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/iphone-16-dynamic-island-1280x955.jpg" alt="The Touchscreen MacBook Pro Will Have a Very iPhone-Like Screen, Report Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,30 +272,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJ8QF5HPKZ3C9Q7NDMVNAJ9K/hero-image.png" alt="Now Discord Is Saying It&#x27;s Delaying Global Age Verification" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/discord-is-delaying-its-global-age-verification?utm_medium=RSS" target="_blank">Now Discord Is Saying It&#x27;s Delaying Global Age Verification</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-24 22:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/pete-hegseth-1280x853.jpg" alt="Pete Hegseth Gives Anthropic Choice to Abandon AI Safeguards or Be Labeled ‘National Security Threat’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/pete-hegseth-anthropic-abandon-ai-safeguards-or-national-security-threat-2000726145" target="_blank">Pete Hegseth Gives Anthropic Choice to Abandon AI Safeguards or Be Labeled ‘National Security Threat’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-24 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/dog-e1771968832515.jpg?fit=768%2C534&amp;quality=60&amp;ssl=1" alt="Bipartisan PETSAFE Act would fund animal evacuations during disasters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/24/bipartisan-petsafe-act-would-fund-animal-evacuations-during-disasters.html" target="_blank">Bipartisan PETSAFE Act would fund animal evacuations during disasters</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-24 21:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/fpsdealbundle-1280x720.jpg" alt="This Charity Steam Bundle Is One Of The Best Deals I’ve Ever Seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/charity-steam-pc-games-bundle-best-deal-2026-fps-cultic-selaco-boltgun-2000673339" target="_blank">This Charity Steam Bundle Is One Of The Best Deals I’ve Ever Seen</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-24 21:30</span>
             </div>
         </div>
 </div>
@@ -319,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 02:57 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 03:49 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
