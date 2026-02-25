@@ -1,41 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-25 11:14:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-25 12:07:36 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 32 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, February 25, 2026 - 11:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, February 25, 2026 - 12:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/25/nx-s1-5725288/horse-whinny-high-low-frequency-emotion" target="_blank">When a horse whinnies, there&#x27;s more than meets the ear</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-25 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +97,20 @@
                 <span class="time">2026-02-25 07:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/25/g-s1-111441/china-restricts-exports-to-40-japanese-entities-with-ties-to-military" target="_blank">China restricts exports to 40 Japanese entities with ties to military</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-25 06:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69966b47cef96ab79e7301c1/master/pass/COMP%202%20WITH%20FRAME%20VERSION%201.jpg" alt="Talk to Your Own Personal Isaac Newton With Ailias’s Hologram Avatars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ailias-hologram-avatars/" target="_blank">Talk to Your Own Personal Isaac Newton With Ailias’s Hologram Avatars</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-25 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/699df6b286c146d6aa0bf69a/master/pass/ON-Spray-on-Shoe-Gear-3UG10014837-cloudmonster_3_hyper_ls-ss26-limelight_bloom-u-1x1-g6.jpg" alt="On Running Is Finally Ramping Up Production of Its ‘Hyper-Foam’ Spray-On Shoes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,15 +156,6 @@
                 <span class="time">2026-02-25 00:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/884089/apple-touchscreen-macbook-pro-dynamic-island" target="_blank">Apple’s touchscreen MacBooks might also have a Dynamic Island</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-24 23:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -179,12 +171,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F50463%2F3cd9e955-f2da-40c3-848e-1e6adc988084.png" alt="Your Component Catalog Already Knows Everything. So Why Not Make It an MCP Server?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/j_sakamoto/your-component-catalog-already-knows-everything-so-why-not-make-it-an-mcp-server-486f" target="_blank">Your Component Catalog Already Knows Everything. So Why Not Make It an MCP Server?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-25 12:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7o6k55n57beb4lrms2up.png" alt="What I am currently reading (Feb 17th)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/094459/what-i-am-currently-reading-feb-17th-2od5" target="_blank">What I am currently reading (Feb 17th)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-25 11:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/google-documentation-ai-agents/en/headerimage/generatedHeaderImage-1772007314908.jpg" alt="Google Brings Its Developer Documentation Into the Age of AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/google-documentation-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Brings Its Developer Documentation Into the Age of AI Agents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-25 10:00</span>
             </div>
         </div>
 <div class="story">
@@ -205,43 +215,20 @@
                 <span class="time">2026-02-25 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/oblivionlabz/designing-ai-agent-memory-architecture-a-power-users-guide-to-persistent-intelligence-1ced" target="_blank">Designing AI Agent Memory Architecture: A Power User’s Guide to Persistent Intelligence</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-25 07:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/selfhostingsh/caddy-vs-envoy-which-proxy-to-self-host-1p5" target="_blank">Caddy vs Envoy: Which Proxy to Self-Host?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-25 05:17</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/is-ai-good-for-democracy.html" target="_blank">Is AI Good for Democracy?</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-24 12:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Project-Hail-Mary-4dx-poster-crop-1280x853.jpg" alt="The First Reactions to ‘Project Hail Mary’ Are Out of This World" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-first-reactions-to-project-hail-mary-are-out-of-this-world-2000726024" target="_blank">The First Reactions to ‘Project Hail Mary’ Are Out of This World</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-25 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/three-mile-island-1280x853.jpg" alt="Nuclear Energy Isn’t Scary Anymore. It’s Just Crypto-Coded" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +274,6 @@
                 <span class="time">2026-02-25 01:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/printing.jpeg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="New book collects the weirdest forgotten stories of printing history" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/24/new-book-collects-the-weirdest-forgotten-stories-of-printing-history.html" target="_blank">New book collects the weirdest forgotten stories of printing history</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-25 00:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 11:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 12:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
