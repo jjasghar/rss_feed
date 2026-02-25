@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-02-25 10:15:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-25 11:14:34 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, February 25, 2026 - 10:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, February 25, 2026 - 11:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/25/how-banks-billionaires-aided-epstein-after-his-2008-conviction?traffic_source=rss" target="_blank">How banks, billionaires aided Epstein after his 2008 conviction</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-25 10:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b72/live/bdc762d0-1215-11f1-b048-c9424b2cf5fd.jpg" alt="Trump&#x27;s theatrical State of the Union address offers little hint of any change in course" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +103,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/25/g-s1-111441/china-restricts-exports-to-40-japanese-entities-with-ties-to-military" target="_blank">China restricts exports to 40 Japanese entities with ties to military</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-25 06:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/25/nx-s1-5716159/trump-congress-state-union-read" target="_blank">Read Trump&#x27;s 2026 State of the Union address</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-25 06:07</span>
             </div>
         </div>
 </div>
@@ -174,6 +179,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7o6k55n57beb4lrms2up.png" alt="What I am currently reading (Feb 17th)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/094459/what-i-am-currently-reading-feb-17th-2od5" target="_blank">What I am currently reading (Feb 17th)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-25 11:07</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -209,15 +223,6 @@
                 <span class="time">2026-02-25 05:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2F0fdf1ad6-7dd4-4c4a-adda-2016ca89359c.png" alt="The next five years of AI won’t make developers irrelevant. They’ll make clarity, judgment, and systems thinking the core of the profession." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jaideepparashar/the-next-five-years-of-ai-wont-make-developers-irrelevant-theyll-make-clarity-judgment-and-584d" target="_blank">The next five years of AI won’t make developers irrelevant. They’ll make clarity, judgment, and systems thinking the core of the profession.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-25 03:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/three-mile-island-1280x853.jpg" alt="Nuclear Energy Isn’t Scary Anymore. It’s Just Crypto-Coded" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nuclear-energy-isnt-scary-anymore-its-just-crypto-coded-2000726260" target="_blank">Nuclear Energy Isn’t Scary Anymore. It’s Just Crypto-Coded</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-25 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/trump-sotu-1280x853.jpg" alt="It’s Not Just You. Trump’s State of the Union Triggered Siri on iPhone Users’ Phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +296,6 @@
                 <span class="time">2026-02-25 00:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Jodie-Foster-Contact-1280x853.jpg" alt="Jodie Foster Reflects on the Personal Journey of Making ‘Contact’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/jodie-foster-reflects-on-the-personal-journey-of-making-contact-2000726115" target="_blank">Jodie Foster Reflects on the Personal Journey of Making ‘Contact’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-24 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 10:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 11:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
