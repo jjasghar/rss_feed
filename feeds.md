@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-25 08:10:45 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-02-25 09:14:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, February 25, 2026 - 08:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, February 25, 2026 - 09:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/25/syria-faces-twin-battles-as-assad-loyalists-and-isil-attack-in-west-east?traffic_source=rss" target="_blank">Syria faces twin battles as Assad loyalists and ISIL attack in west, east</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-25 09:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b2f/live/834581e0-1220-11f1-801d-ed3cff6bf876.jpg" alt="Household energy bills to fall in April after charges shake-up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&at_campaign=rss" target="_blank">Household energy bills to fall in April after charges shake-up</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-25 08:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b4a/live/324725a0-1216-11f1-9123-81d30b1ac5de.jpg" alt="Typical household energy bills to fall by £117 a year in April" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +104,20 @@
                 <span class="time">2026-02-25 05:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/25/modi-in-israel-live-indias-pm-to-meet-netanyahu-address-knesset?traffic_source=rss" target="_blank">Modi in Israel live: India’s PM to meet Netanyahu, address Knesset</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-25 05:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260224-sotu-donald-trump-ew-1015p-5ea886.jpg" alt="Three takeaways from Trump&#x27;s State of the Union speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/three-takeaways-trumps-state-union-economy-immigrant-democrats-rcna259801" target="_blank">Three takeaways from Trump&#x27;s State of the Union speech</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-25 04:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/699df6b286c146d6aa0bf69a/master/pass/ON-Spray-on-Shoe-Gear-3UG10014837-cloudmonster_3_hyper_ls-ss26-limelight_bloom-u-1x1-g6.jpg" alt="On Running Is Finally Ramping Up Production of Its ‘Hyper-Foam’ Spray-On Shoes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/on-lightspray-cloudmaster-3-hyper/" target="_blank">On Running Is Finally Ramping Up Production of Its ‘Hyper-Foam’ Spray-On Shoes</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-25 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +163,6 @@
                 <span class="time">2026-02-24 23:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/" target="_blank">Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-24 23:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +175,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/optimal-efficiency-devex/en/mediumimage/fabien-deshayes-medium-1771406588152.jpeg" alt="Presentation: Achieve Optimal Efficiency for Your Developer Experience Teams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/optimal-efficiency-devex/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Achieve Optimal Efficiency for Your Developer Experience Teams</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-25 09:00</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/pld/prompt-snippets-and-auto-dry-analysis-for-voice-agent-graphs-1972" target="_blank">Prompt Snippets and Auto-DRY Analysis for Voice Agent Graphs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-25 02:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-SEV-SNP-BTB-Isolation" target="_blank">AMD Posts Linux Patches For SEV-SNP BTB Isolation</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-25 01:44</span>
             </div>
         </div>
 </div>
@@ -297,6 +303,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/02/25/lynx-club-for-child-s-play" target="_blank">Lynx Club (For Child&#x27;s Play!)</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-02-25 08:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-pencil"></span>
                 <span class="title"><a href="https://poorlydrawnlines.com/comic/care-about-stuff/" target="_blank">Care About Stuff</a></span>
                 <span class="feed">Poorly Drawn Lines</span>
@@ -317,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 08:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 09:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
