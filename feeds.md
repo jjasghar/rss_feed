@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-25 18:17:49 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-25 19:20:56 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NPR News -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 10 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, February 25, 2026 - 18:18 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, February 25, 2026 - 19:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/25/nx-s1-5725399/surgeon-general-casey-means-vaccines-birth-control" target="_blank">Surgeon general nominee Means questioned about vaccines, birth control and financial conflicts</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-25 18:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b521/live/49b313c0-125c-11f1-b048-c9424b2cf5fd.jpg" alt="Met apologises to Commons Speaker for sharing Mandelson tip-off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +95,29 @@
                 <span class="time">2026-02-25 15:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/25/un-6-5-million-in-somalia-facing-hunger?traffic_source=rss" target="_blank">UN: 6.5 million in Somalia facing hunger</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-25 13:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/883829/samsung-galaxy-s26-plus-ultra-how-to-buy-preorder-price-release-date" target="_blank">Where to preorder all of Samsung’s new Galaxy S26 phones</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-25 19:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/699de3a0e46e4fa7442b798a/master/pass/AI-Lab-OpenClaw-Users-Are-Attempting-to-Scrape-Sites-with-Anti-Bot-Protections-Business.jpg" alt="OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/" target="_blank">OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-25 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/699e2d79d54c22d6c9a6a418/master/pass/Google%20Gemini%20Automation%20on%20Galaxy%20S26%20SOURCE%20Julian%20Chokkattu(2).jpg" alt="Gemini Can Now Book You an Uber or Order a DoorDash Meal on Your Phone. Here’s How It Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,24 +154,6 @@
                 <span class="time">2026-02-25 16:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/699f113794854663df474cba/master/pass/biz-kalshi-insidertrading-2260402751.jpg" alt="Kalshi Suspended a California Politician and a YouTuber for Insider Trading" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/kalshi-insider-trading-california-politician-and-youtuber/" target="_blank">Kalshi Suspended a California Politician and a YouTuber for Insider Trading</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-25 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/884295/resident-evil-requiem-ask-me-anything" target="_blank">We played Resident Evil Requiem, ask us anything</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-25 15:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +166,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bohdandanylov/your-website-is-quietly-turning-customers-away-4l2" target="_blank">Your Website Is Quietly Turning Customers Away</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-25 19:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18891954&w=600" alt="From Keywords to Meaning: The New Foundations of Intelligent Search" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/keywords-to-meaning-intelligent-search-foundations" target="_blank">From Keywords to Meaning: The New Foundations of Intelligent Search</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-25 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +213,6 @@
                 <span class="time">2026-02-25 17:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18891950&w=600" alt="Cutting P99 Latency From ~3.2s To ~650ms in a Policy‑Driven Authorization API (Python + MongoDB)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/cutting-p99-latency-policy-api" target="_blank">Cutting P99 Latency From ~3.2s To ~650ms in a Policy‑Driven Authorization API (Python + MongoDB)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-25 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Warper: Rust Powered React Virtualisation Library" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/warper-rust-react/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Warper: Rust Powered React Virtualisation Library</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-25 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,12 +233,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/image-30-1280x724.jpg" alt="Publisher Behind One Of 2025’s Most Underrated Soulslikes Files For Bankruptcy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nacon-bankruptcy-hell-us-amazon-horizon-open-world-2000673614" target="_blank">Publisher Behind One Of 2025’s Most Underrated Soulslikes Files For Bankruptcy</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-25 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJASNBXD88C429JWEZQDCHWE/hero-image.png" alt="The New Galaxy S26 Ultra S Pen Still Doesn’t Have Bluetooth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/galaxy-s26-ultra-s-pen-still-doesnt-have-bluetooth?utm_medium=RSS" target="_blank">The New Galaxy S26 Ultra S Pen Still Doesn’t Have Bluetooth</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-25 18:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/RESIDENT-EVIL-requiem_20260213204857-1280x720.jpg" alt="Leon Scott Kennedy, I’m On PrEP" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/leon-kennedy-resident-evil-requiem-hot-thirst-trap-2000673666" target="_blank">Leon Scott Kennedy, I’m On PrEP</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-25 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/screwworm-1.jpg?fit=1080%2C810&amp;quality=60&amp;ssl=1" alt="Scientists complete the first full wiring diagram of a fruit fly brain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/25/scientists-complete-the-first-full-wiring-diagram-of-a-fruit-fly-brain.html" target="_blank">Scientists complete the first full wiring diagram of a fruit fly brain</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-25 17:52</span>
             </div>
         </div>
 <div class="story">
@@ -263,33 +284,6 @@
                 <span class="title"><a href="https://kotaku.com/overwatch-mercy-lifeweaver-healing-reduction-passive-2000673646" target="_blank">In Overwatch, Mercy Is Winning In Skins And Losing In Everything Else</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-25 16:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/salycybertruck.jpg?fit=1280%2C932&amp;quality=60&amp;ssl=1" alt="Cybertruck a flop, base price cut to $59,900" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/25/cybertruck-a-flop-base-price-cut-to-59900.html" target="_blank">Cybertruck a flop, base price cut to $59,900</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-25 15:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJ8FCD85D7J1QQF3W610JF0D/hero-image.jpg" alt="Watch Out for This Phone Delivery Scam" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/watch-out-for-this-phone-delivery-scam?utm_medium=RSS" target="_blank">Watch Out for This Phone Delivery Scam</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-25 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/Screenshot-2026-02-24-141415-1280x712.jpg" alt="The Best New Anime You Should Be Watching This Season Isn’t Frieren or Jujutsu Kaisen, It’s Ikoku Nikki" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ikoku-nikki-journal-with-witch-anime-best-2026-2000673307" target="_blank">The Best New Anime You Should Be Watching This Season Isn’t Frieren or Jujutsu Kaisen, It’s Ikoku Nikki</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-25 13:00</span>
             </div>
         </div>
 </div>
@@ -320,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 18:18 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 19:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
