@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-26 14:17:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-26 15:14:14 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, February 26, 2026 - 14:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, February 26, 2026 - 15:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/490b/live/75f78830-131a-11f1-b513-7d8d8ff19957.jpg" alt="Danish PM calls snap election with Greenland issue centre-stage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss" target="_blank">Danish PM calls snap election with Greenland issue centre-stage</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-26 13:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +98,20 @@
                 <span class="time">2026-02-26 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/26/real-madrid-ban-club-member-who-did-nazi-salute-during-benfica-match?traffic_source=rss" target="_blank">Real Madrid ban club member who did Nazi salute during Benfica match</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-26 10:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/featured-video/884368/we-asked-experts-how-to-build-a-resume-for-the-ai-hiring-era" target="_blank">We asked experts how to build a resume for the AI hiring era</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-26 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +157,6 @@
                 <span class="time">2026-02-26 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" alt="TurboTax Service Codes: Up to 20% Off | February 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/turbotax-coupon/" target="_blank">TurboTax Service Codes: Up to 20% Off | February 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-26 06:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +169,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/felipecezar01/pop-vs-del-in-python-same-result-completely-different-intent-21eb" target="_blank">pop() vs del in Python: Same Result, Completely Different Intent</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-26 15:13</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +216,6 @@
                 <span class="time">2026-02-26 12:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="ASP.NET Core in .NET 11 Preview 1 Brings New Blazor Components, Improved Navigation, and WebAssembly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/asp-net-core-11-preview1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">ASP.NET Core in .NET 11 Preview 1 Brings New Blazor Components, Improved Navigation, and WebAssembly</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-26 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +235,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/11/0c42f267f806571ea35d2e5817a36062-1280x720.jpg" alt="MrBeast Employee Accused Of Insider Trading For Betting $4,000 With ‘Near-Perfect Success’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mrbeast-editor-insider-trading-kalshi-artem-kaptur-2000674023" target="_blank">MrBeast Employee Accused Of Insider Trading For Betting $4,000 With ‘Near-Perfect Success’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-26 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/2022-Crypto-Crash-FTX-Terra-1280x853.jpg" alt="The Two Key Villains of 2022’s Crypto Crash are Trying to Rewrite History" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-two-key-villains-of-2022s-crypto-crash-are-trying-to-rewrite-history-2000727029" target="_blank">The Two Key Villains of 2022’s Crypto Crash are Trying to Rewrite History</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-26 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JMJ48HS0VV5XTGADZ9TK5HW2/hero-image.jpg" alt="How to Do Fartlek Runs (and Seven Different Kinds to Try)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/how-to-do-fartlek-runs?utm_medium=RSS" target="_blank">How to Do Fartlek Runs (and Seven Different Kinds to Try)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-26 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/burgerking-1280x720.jpg" alt="Burger King Will Stick AI In Employees’ Headsets To Make Sure They Say ‘Please’ And ‘Thank You’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,33 +287,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/2024-motorola-foldable-razr-sale-february-2026?utm_medium=RSS" target="_blank">This Motorola Razr+ Is Over $130 Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-26 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/rb-1280x720.jpg" alt="Pokémon Red And Blue: The Kotaku Retro Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-red-blue-yellow-green-review-game-boy-switch-2000671975" target="_blank">Pokémon Red And Blue: The Kotaku Retro Review</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-26 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GXXRQ7FYG6R4PJF53VBJT/hero-image.jpg" alt="How to Build Self-Efficacy (and Finally Stick With a New Fitness Habit)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/how-to-build-self-efficacy?utm_medium=RSS" target="_blank">How to Build Self-Efficacy (and Finally Stick With a New Fitness Habit)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-26 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/LEGO-Batman-Legacy-of-the-Dark-Knight-Official-The-Joker-Clown-Prince-of-the-Museum-Cinematic-Thumbnail-1280x853.jpg" alt="The New ‘Lego Batman’ Game Gets the Party Started With Prince’s Legendary ‘Batman’ Soundtrack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-new-lego-batman-game-gets-the-party-started-with-princes-legendary-batman-soundtrack-2000726870" target="_blank">The New ‘Lego Batman’ Game Gets the Party Started With Prince’s Legendary ‘Batman’ Soundtrack</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-26 12:00</span>
             </div>
         </div>
 </div>
@@ -325,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 14:17 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 15:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
