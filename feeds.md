@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-26 10:13:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-26 11:13:38 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, February 26, 2026 - 10:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, February 26, 2026 - 11:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/26/nx-s1-5686528/pentagon-scouting-boys-girls-hegseth" target="_blank">Pentagon shifts toward maintaining ties to Scouting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-26 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/26/real-madrid-ban-club-member-who-did-nazi-salute-during-benfica-match?traffic_source=rss" target="_blank">Real Madrid ban club member who did Nazi salute during Benfica match</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-26 10:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +103,20 @@
                 <span class="time">2026-02-26 06:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/26/us-ukraine-to-meet-in-geneva-as-russia-attacks-kyiv-with-missiles-drones?traffic_source=rss" target="_blank">US, Ukraine to meet in Geneva as Russia attacks Kyiv with missiles, drones</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-26 06:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/26/recent-mediterranean-storms-tragedies-spain-portugal-morocco" target="_blank">‘A devastating force’: how recent Mediterranean storms turned to tragedies</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-26 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/698f89ebcd8966a7051cba92/master/pass/OUTOFDATE_SUPERCOMPUTER_GB_USA_25_1898.jpg" alt="Why Sierra the Supercomputer Had to Die" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/why-sierra-the-supercomputer-had-to-die/" target="_blank">Why Sierra the Supercomputer Had to Die</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-26 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" alt="TurboTax Service Codes: Up to 20% Off | February 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,15 +162,6 @@
                 <span class="time">2026-02-25 22:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/Samsung-Mobile-Galaxy-Unpacked-2026-Galaxy-S26-Series-A-First-Look_dl2-500x500.jpg" alt="The Galaxy S26 is faster, more expensive, and even more chock-full of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/samsung-reveals-galaxy-s26-lineup-with-privacy-display-and-exclusive-gemini-smarts/" target="_blank">The Galaxy S26 is faster, more expensive, and even more chock-full of AI</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-25 21:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +174,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/software-leadership-team/en/headerimage/generatedHeaderImage-1771757368300.jpg" alt="Lessons from Growing a Software Leadership Team" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/software-leadership-team/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Lessons from Growing a Software Leadership Team</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-26 11:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.1-Intel-ANV-DX12-Minor" target="_blank">Intel Vulkan Driver Sees Some Minor Optimizations For DX12 Games On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-26 10:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gitlab.com/here_forawhile/terminalphone" target="_blank">Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-26 10:40</span>
             </div>
         </div>
 <div class="story">
@@ -193,33 +219,6 @@
                 <span class="title"><a href="https://www.infoq.com/articles/kotlin-scalable-swiftui-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Borrowing from Kotlin/Android to Architect Scalable iOS Apps in SwiftUI</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-02-26 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/codebyankita/how-to-build-a-stablecoin-in-2026-architecture-smart-contracts-compliance-and-peg-stability-4d43" target="_blank">How to Build a Stablecoin in 2026: Architecture, Smart Contracts, Compliance, and Peg Stability Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-26 08:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fku5j2d7fagwe74epr79y.jpeg" alt="546 Tests. 0 Failures. API Still Burning🔥" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/liudasjan/546-tests-0-failures-api-still-burning-hd6" target="_blank">546 Tests. 0 Failures. API Still Burning🔥</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-26 05:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.grumpy-economist.com/p/refine" target="_blank">I don&#x27;t know how you get here from &quot;predict the next word.&quot;</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-26 04:59</span>
             </div>
         </div>
 </div>
@@ -241,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/girl-shocked-online-1280x853.jpg" alt="FTC Softens Enforcement of Rule Protecting Children Online, Ostensibly to Protect Children Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ftc-softens-enforcement-of-rule-protecting-children-online-ostensibly-to-protect-children-online-2000726886" target="_blank">FTC Softens Enforcement of Rule Protecting Children Online, Ostensibly to Protect Children Online</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-26 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/608f9f60-117f-11f1-9923-f53d6118df6a.jpg.webp?fit=1536%2C863&amp;quality=55&amp;ssl=1" alt="Orphaned otters rescued and on the mend" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +294,6 @@
                 <span class="time">2026-02-25 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/MacMagic-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Make the most of your Mac with 70% off this productivity app" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/25/make-the-most-of-your-mac-with-70-off-this-productivity-app.html" target="_blank">Make the most of your Mac with 70% off this productivity app</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-25 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 10:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 11:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
