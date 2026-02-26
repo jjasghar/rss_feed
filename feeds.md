@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-26 19:15:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-26 20:07:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, February 26, 2026 - 19:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, February 26, 2026 - 20:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +105,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/" target="_blank">Sophia Space raises $10M seed to demo novel space computers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-26 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/885516/nato-iphones-ipads-restricted-classified-information" target="_blank">NATO says iPhones are secure enough to handle classified data</a></span>
                 <span class="feed">The Verge</span>
@@ -143,15 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/featured-video/884368/we-asked-experts-how-to-build-a-resume-for-the-ai-hiring-era" target="_blank">We asked experts how to build a resume for the AI hiring era</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-26 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty" target="_blank">Burger King will use AI to check if employees say ‘please’ and ‘thank you’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-26 13:00</span>
             </div>
         </div>
 </div>
@@ -233,6 +235,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Disney-Villains-Land-1280x853.jpg" alt="Disney World’s Villains Land Is Pivoting Itself Away From Scaring Kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/disney-worlds-villains-land-is-pivoting-itself-away-from-scaring-kids-2000727140" target="_blank">Disney World’s Villains Land Is Pivoting Itself Away From Scaring Kids</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-26 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HW96DTWTS3NVFYV43RH258NM/hero-image.jpg" alt="‘Boy Aquarium,’ ‘Choppelganger,’ and Other Gen Z and Gen Alpha Slang You Might Need Help Decoding" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/guide-to-gen-z-and-gen-alpha-slang?utm_medium=RSS" target="_blank">‘Boy Aquarium,’ ‘Choppelganger,’ and Other Gen Z and Gen Alpha Slang You Might Need Help Decoding</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-26 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/bible-bobo-e1737732732903.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Lauren Boebert brings Hillary Clinton&#x27;s deposition to a screeching halt" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -266,24 +286,6 @@
                 <span class="title"><a href="https://kotaku.com/resident-evil-requiem-metacritic-ai-review-videogamer-2000674042" target="_blank">Metacritic Removes Resident Evil Requiem Review From Website That Replaced Humans With AI</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-26 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/ancient-ostrich-eggshell-engravings-geometry-1280x853.jpg" alt="Humans Sketched Oddly Precise Geometric Patterns Onto Ostrich Eggs 60,000 Years Ago" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/humans-sketched-oddly-precise-geometric-patterns-onto-ostrich-eggs-60000-years-ago-2000727079" target="_blank">Humans Sketched Oddly Precise Geometric Patterns Onto Ostrich Eggs 60,000 Years Ago</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-26 17:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJDD62N39S4KY5CTYT03C8F0/hero-image.png" alt="These &#x27;Nothing&#x27; Earbuds With an Open-Ear Design Are $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/nothing-ear-open-design-earbuds-sale-february-2026?utm_medium=RSS" target="_blank">These &#x27;Nothing&#x27; Earbuds With an Open-Ear Design Are $50 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-26 17:00</span>
             </div>
         </div>
 </div>
@@ -323,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 19:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 20:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
