@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-26 11:13:38 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-26 12:08:29 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, February 26, 2026 - 11:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, February 26, 2026 - 12:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/26/the-royal-lodge-epsteins-links-to-ex-prince-andrews-financial-meetings?traffic_source=rss" target="_blank">The Royal Lodge: Epstein’s links to ex-Prince Andrew’s financial meetings</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-26 11:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +102,29 @@
                 <span class="time">2026-02-26 08:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/26/g-s1-111595/u-s-iran-to-third-round-nuclear-talks" target="_blank">U.S. and Iran to hold a third round of nuclear talks in Geneva</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-26 06:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/885110/meta-instagram-parent-alert-teen-self-harm-suicide" target="_blank">Instagram will alert parents if their kids &amp;#8216;repeatedly&amp;#8217; search for self-harm topics</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-26 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/26/instagram-now-alerts-parents-if-their-teen-searches-for-suicide-or-self-harm-content/" target="_blank">Instagram now alerts parents if their teen searches for suicide or self-harm content</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-26 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/698f89ebcd8966a7051cba92/master/pass/OUTOFDATE_SUPERCOMPUTER_GB_USA_25_1898.jpg" alt="Why Sierra the Supercomputer Had to Die" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,24 +161,6 @@
                 <span class="time">2026-02-26 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/884978/valve-lawsuit-loot-boxes-new-york-attorney-general-lawsuit" target="_blank">New York sues Valve, alleging its loot boxes are ‘quintessential gambling’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-25 23:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2259422080-500x500-1772053808.jpg" alt="Musk has no proof OpenAI stole xAI trade secrets, judge rules, tossing lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/judge-xai-cant-claim-openai-stole-trade-secrets-just-by-hiring-ex-staffers/" target="_blank">Musk has no proof OpenAI stole xAI trade secrets, judge rules, tossing lawsuit</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-25 22:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +173,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxaxg5b1j6o07bcp2xkds.png" alt="Appends for AI apps: Stream into a single message with Ably AI Transport" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ablyblog/appends-for-ai-apps-stream-into-a-single-message-with-ably-ai-transport-398a" target="_blank">Appends for AI apps: Stream into a single message with Ably AI Transport</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-26 12:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="ASP.NET Core in .NET 11 Preview 1 Brings New Blazor Components, Improved Navigation, and WebAssembly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/asp-net-core-11-preview1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">ASP.NET Core in .NET 11 Preview 1 Brings New Blazor Components, Improved Navigation, and WebAssembly</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-26 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +220,6 @@
                 <span class="time">2026-02-26 10:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F620034%2F93be2c72-3a13-478e-8af1-a4bedc1b2331.jpeg" alt="GitHub Copilot Instructions vs Prompts vs Custom Agents vs Skills vs X vs WHY?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pwd9000/github-copilot-instructions-vs-prompts-vs-custom-agents-vs-skills-vs-x-vs-why-339l" target="_blank">GitHub Copilot Instructions vs Prompts vs Custom Agents vs Skills vs X vs WHY?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-26 09:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/kotlin-scalable-swiftui-patterns/en/headerimage/header-kotlin-scalable-swiftui-patterns-1771922819056.jpg" alt="Article: Borrowing from Kotlin/Android to Architect Scalable iOS Apps in SwiftUI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/kotlin-scalable-swiftui-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Borrowing from Kotlin/Android to Architect Scalable iOS Apps in SwiftUI</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-26 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,9 +229,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html" target="_blank">Poisoning AI Training Data</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/llms-generate-predictable-passwords.html" target="_blank">LLMs Generate Predictable Passwords</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-25 12:01</span>
+                <span class="time">2026-02-26 12:07</span>
             </div>
         </div>
 </div>
@@ -240,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/LEGO-Batman-Legacy-of-the-Dark-Knight-Official-The-Joker-Clown-Prince-of-the-Museum-Cinematic-Thumbnail-1280x853.jpg" alt="The New ‘Lego Batman’ Game Gets the Party Started With Prince’s Legendary ‘Batman’ Soundtrack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-new-lego-batman-game-gets-the-party-started-with-princes-legendary-batman-soundtrack-2000726870" target="_blank">The New ‘Lego Batman’ Game Gets the Party Started With Prince’s Legendary ‘Batman’ Soundtrack</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-26 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/girl-shocked-online-1280x853.jpg" alt="FTC Softens Enforcement of Rule Protecting Children Online, Ostensibly to Protect Children Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +293,6 @@
                 <span class="time">2026-02-25 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/samsung-galaxys26ultra-vs-iphone-17pro-1280x853.jpg" alt="Samsung Galaxy S26 vs. iPhone 17: Is It All About AI?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/samsung-galaxy-s26-vs-iphone-17-is-it-all-about-ai-2000726526" target="_blank">Samsung Galaxy S26 vs. iPhone 17: Is It All About AI?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-25 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 11:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 12:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
