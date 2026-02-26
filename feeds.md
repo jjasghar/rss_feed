@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-26 16:15:20 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-26 17:20:11 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, February 26, 2026 - 16:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, February 26, 2026 - 17:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/26/nx-s1-5727515/is-the-u-s-headed-toward-a-military-conflict-with-iran" target="_blank">Is the U.S. headed toward a military conflict with Iran?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-26 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/bill-hillary-clinton-ap-jt-260225_1772052763847_hpMain_4x3t_384.jpg" alt="Hillary Clinton facing questions from House Oversight Committee in Epstein probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/hillary-clinton-set-deposed-house-oversight-committees-epstein/story?id=130503283" target="_blank">Hillary Clinton facing questions from House Oversight Committee in Epstein probe</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-26 16:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/26/trump-u-turn-is-venezuela-oil-really-available-to-cuba-again?traffic_source=rss" target="_blank">Trump U-turn: Is Venezuelan oil really available to Cuba again?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-26 15:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/490b/live/75f78830-131a-11f1-b513-7d8d8ff19957.jpg" alt="Danish PM calls snap election with Greenland issue centre-stage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,33 +99,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/doj-reviewing-epstein-reports-improperly-withheld/story?id=130514969" target="_blank">DOJ says it&#x27;s &#x27;reviewing&#x27; whether Epstein reports were improperly withheld</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-26 12:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1710/live/33fc6a50-1314-11f1-b048-c9424b2cf5fd.jpg" alt="UK asylum claims drop slightly in 2025 as small boat arrivals rise by 13%" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly07pyde00o?at_medium=RSS&at_campaign=rss" target="_blank">UK asylum claims drop slightly in 2025 as small boat arrivals rise by 13%</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-26 12:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/26/g-s1-111619/up-first-newsletter-iran-nuclear-talks-harvard-larry-summers-epstein-cuba-ice-polling-locations" target="_blank">U.S. and Iran to hold nuclear talks. And, Harvard professor resigns over Epstein ties</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-26 12:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/26/the-royal-lodge-epsteins-links-to-ex-prince-andrews-financial-meetings?traffic_source=rss" target="_blank">The Royal Lodge: Epstein’s links to ex-Prince Andrew’s financial meetings</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-26 11:38</span>
             </div>
         </div>
 </div>
@@ -176,6 +175,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fbifrost.mintlify.app%2Fmintlify-assets%2F_next%2Fimage%3Furl%3D%252F_mintlify%252Fapi%252Fog%253Fdivision%253DGateway%2526title%253DSetting%252BUp%2526description%253DGet%252BBifrost%252Brunning%252Bas%252Ban%252BHTTP%252BAPI%252Bgateway%252Bin%252B30%252Bseconds%252Bwith%252Bzero%252Bconfiguration.%252BPerfect%252Bfor%252Bany%252Bprogramming%252Blanguage.%2526logoLight%253Dhttps%25253A%25252F%25252Fmintcdn.com%25252Fbifrost%25252FqFMmk8bNSnvgFYDI%25252Fmedia%25252Fbifrost-logo.png%25253Ffit%25253Dmax%252526auto%25253Dformat%252526n%25253DqFMmk8bNSnvgFYDI%252526q%25253D85%252526s%25253D6af701a560aee4103444fa017b226cf0%2526logoDark%253Dhttps%25253A%25252F%25252Fmintcdn.com%25252Fbifrost%25252FqFMmk8bNSnvgFYDI%25252Fmedia%25252Fbifrost-logo-dark.png%25253Ffit%25253Dmax%252526auto%25253Dformat%252526n%25253DqFMmk8bNSnvgFYDI%252526q%25253D85%252526s%25253D84d264aad5f421c526dd17893e7c5739%2526primaryColor%253D%2525230C3B43%2526lightColor%253D%25252307C983%2526backgroundLight%253D%252523ffffff%2526backgroundDark%253D%252523090d0d%26w%3D1200%26q%3D100" alt="A Practical Guide to Running Claude for a Team Without Hitting Quotas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nakul_tk/a-practical-guide-to-running-claude-for-a-team-without-hitting-quotas-4jd8" target="_blank">A Practical Guide to Running Claude for a Team Without Hitting Quotas</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-26 17:09</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,28 +204,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/felipecezar01/pop-vs-del-in-python-same-result-completely-different-intent-21eb" target="_blank">pop() vs del in Python: Same Result, Completely Different Intent</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-26 15:13</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/" target="_blank">New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-26 15:55</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-26-09/" target="_blank">FOSS Weekly #26.09: Linux Mint Shortcuts, OpenClaw Alternatives, Ladybird&amp;#x27;s Rust Move, Super Productivity and More</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-26 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/pinterest-cdc-db-ingestion/en/headerimage/generatedHeaderImage-1771102084397.jpg" alt="Pinterest’s CDC-Powered Ingestion Slashes Database Latency from 24 Hours to 15 Minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/pinterest-cdc-db-ingestion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pinterest’s CDC-Powered Ingestion Slashes Database Latency from 24 Hours to 15 Minutes</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-26 15:00</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-penryn-to-panther-lake" target="_blank">Benchmarking 18 Years Of Intel Laptop CPUs: Panther Lake As Much As 95x The Speed Of Penryn</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-26 15:50</span>
             </div>
         </div>
 </div>
@@ -240,11 +239,38 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/ancient-ostrich-eggshell-engravings-geometry-1280x853.jpg" alt="Humans Sketched Oddly Precise Geometric Patterns Onto Ostrich Eggs 60,000 Years Ago" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/humans-sketched-oddly-precise-geometric-patterns-onto-ostrich-eggs-60000-years-ago-2000727079" target="_blank">Humans Sketched Oddly Precise Geometric Patterns Onto Ostrich Eggs 60,000 Years Ago</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-26 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJDD62N39S4KY5CTYT03C8F0/hero-image.png" alt="These &#x27;Nothing&#x27; Earbuds With an Open-Ear Design Are $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/nothing-ear-open-design-earbuds-sale-february-2026?utm_medium=RSS" target="_blank">These &#x27;Nothing&#x27; Earbuds With an Open-Ear Design Are $50 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-26 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/fecalsample-1280x853.jpg" alt="Same Poop, Different Results: At-Home Gut Health Tests Are Wildly Inconsistent, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/same-poop-different-results-at-home-gut-health-tests-are-wildly-inconsistent-study-finds-2000726793" target="_blank">Same Poop, Different Results: At-Home Gut Health Tests Are Wildly Inconsistent, Study Finds</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-26 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/MagellanTV-Documentary-Streaming-Service.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Skip the reality TV and binge the history of civilization instead with this streaming service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/26/skip-the-reality-tv-and-binge-the-history-of-civilization-instead-with-this-streaming-service.html" target="_blank">Skip the reality TV and binge the history of civilization instead with this streaming service</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-26 16:00</span>
             </div>
         </div>
@@ -264,33 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/mrbeast-editor-insider-trading-kalshi-artem-kaptur-2000674023" target="_blank">MrBeast Employee Accused Of Insider Trading For Betting $4,000 With ‘Near-Perfect Success’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-26 15:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/2022-Crypto-Crash-FTX-Terra-1280x853.jpg" alt="The Two Key Villains of 2022’s Crypto Crash are Trying to Rewrite History" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-two-key-villains-of-2022s-crypto-crash-are-trying-to-rewrite-history-2000727029" target="_blank">The Two Key Villains of 2022’s Crypto Crash are Trying to Rewrite History</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-26 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JMJ48HS0VV5XTGADZ9TK5HW2/hero-image.jpg" alt="How to Do Fartlek Runs (and Seven Different Kinds to Try)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/how-to-do-fartlek-runs?utm_medium=RSS" target="_blank">How to Do Fartlek Runs (and Seven Different Kinds to Try)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-26 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/burgerking-1280x720.jpg" alt="Burger King Will Stick AI In Employees’ Headsets To Make Sure They Say ‘Please’ And ‘Thank You’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/burger-king-ai-patty-fast-food-llm-dystopia-2000673998" target="_blank">Burger King Will Stick AI In Employees’ Headsets To Make Sure They Say ‘Please’ And ‘Thank You’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-26 14:15</span>
             </div>
         </div>
 </div>
@@ -316,22 +315,13 @@
                 <span class="time">2026-02-25 21:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1771879352-20260225.png" alt="Saturday Morning Breakfast Cereal - Cow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/cow" target="_blank">Saturday Morning Breakfast Cereal - Cow</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-02-25 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 16:15 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 17:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
