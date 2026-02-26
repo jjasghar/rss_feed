@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-26 17:20:11 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-26 18:11:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, February 26, 2026 - 17:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, February 26, 2026 - 18:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d002/live/659dd1d0-1327-11f1-9120-a910fc22c6ac.jpg" alt="Spain to check Gibraltar arrivals under post-Brexit deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgjz1x5e1xyo?at_medium=RSS&at_campaign=rss" target="_blank">Spain to check Gibraltar arrivals under post-Brexit deal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-26 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/26/afghanistan-says-it-launches-attacks-against-pakistan?traffic_source=rss" target="_blank">Afghanistan says it launches attacks against Pakistan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-26 17:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +100,20 @@
                 <span class="time">2026-02-26 13:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/26/how-trumps-2026-iran-war-script-echoes-and-twists-the-2003-iraq-playbook?traffic_source=rss" target="_blank">How Trump’s 2026 Iran ‘war’ script echoes and twists the 2003 Iraq playbook</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-26 13:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/epstein-files_1772082142454_hpMain_4x3t_384.jpg" alt="DOJ says it&#x27;s &#x27;reviewing&#x27; whether Epstein reports were improperly withheld" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/doj-reviewing-epstein-reports-improperly-withheld/story?id=130514969" target="_blank">DOJ says it&#x27;s &#x27;reviewing&#x27; whether Epstein reports were improperly withheld</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-26 12:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/26/threads-is-testing-a-shortcut-to-quickly-start-dm-conversations/" target="_blank">Threads is testing a shortcut to quickly start DM conversations</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-26 17:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +159,6 @@
                 <span class="time">2026-02-26 12:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/885110/meta-instagram-parent-alert-teen-self-harm-suicide" target="_blank">Instagram will alert parents if their kids &amp;#8216;repeatedly&amp;#8217; search for self-harm topics</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-26 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +171,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18894409&w=600" alt="The Hidden Cost of Custom Logic: A Performance Showdown in Apache Spark" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/apache-spark-performance-showdown" target="_blank">The Hidden Cost of Custom Logic: A Performance Showdown in Apache Spark</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-26 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/unmasking-the-resolute-raccoon" target="_blank">Unmasking the Resolute Raccoon</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-02-26 17:30</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +218,6 @@
                 <span class="time">2026-02-26 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/" target="_blank">New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-26 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-penryn-to-panther-lake" target="_blank">Benchmarking 18 Years Of Intel Laptop CPUs: Panther Lake As Much As 95x The Speed Of Penryn</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-26 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJDAS3STQX7P9BQYBCAP8XJ1/hero-image.jpg" alt="Six Products to Expect From Apple&#x27;s March Event" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/products-to-expect-from-apples-march-2026-event?utm_medium=RSS" target="_blank">Six Products to Expect From Apple&#x27;s March Event</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-26 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/10/shutterstock_1077682154-1-scaled.jpg?fit=2560%2C1575&amp;quality=60&amp;ssl=1" alt="Sperm swim faster in summer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/26/sperm-swim-faster-in-summer.html" target="_blank">Sperm swim faster in summer</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-26 17:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/re9.jpg" alt="Metacritic Removes Resident Evil Requiem Review From Website That Replaced Humans With AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/resident-evil-requiem-metacritic-ai-review-videogamer-2000674042" target="_blank">Metacritic Removes Resident Evil Requiem Review From Website That Replaced Humans With AI</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-26 17:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/ancient-ostrich-eggshell-engravings-geometry-1280x853.jpg" alt="Humans Sketched Oddly Precise Geometric Patterns Onto Ostrich Eggs 60,000 Years Ago" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,38 +291,20 @@
                 <span class="time">2026-02-26 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/MagellanTV-Documentary-Streaming-Service.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Skip the reality TV and binge the history of civilization instead with this streaming service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/26/skip-the-reality-tv-and-binge-the-history-of-civilization-instead-with-this-streaming-service.html" target="_blank">Skip the reality TV and binge the history of civilization instead with this streaming service</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-26 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/02/f703a66e41a704d67d853e45ed0cfaed-1280x720.jpg" alt="Before You Buy Pokémon FireRed Or LeafGreen, Check The Version-Exclusive Monsters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-firered-leafgreen-version-exclusives-switch-2-2000674027" target="_blank">Before You Buy Pokémon FireRed Or LeafGreen, Check The Version-Exclusive Monsters</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-26 15:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/11/0c42f267f806571ea35d2e5817a36062-1280x720.jpg" alt="MrBeast Employee Accused Of Insider Trading For Betting $4,000 With ‘Near-Perfect Success’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mrbeast-editor-insider-trading-kalshi-artem-kaptur-2000674023" target="_blank">MrBeast Employee Accused Of Insider Trading For Betting $4,000 With ‘Near-Perfect Success’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-26 15:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1771879428-20260226.png" alt="Saturday Morning Breakfast Cereal - Artist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/artist" target="_blank">Saturday Morning Breakfast Cereal - Artist</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-02-26 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5773.png" alt="Time To Die" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -320,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 17:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 18:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
