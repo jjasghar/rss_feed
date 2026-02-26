@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-26 22:04:12 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-02-26 23:06:25 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 13 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, February 26, 2026 - 22:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, February 26, 2026 - 23:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72f4/live/ac8d0130-1366-11f1-af0d-af544dd82419.jpg" alt="American citizen among those killed in Cuba boat shooting, US official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c80j3rlp904o?at_medium=RSS&at_campaign=rss" target="_blank">American citizen among those killed in Cuba boat shooting, US official says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-26 22:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/26/nx-s1-5727894/warner-bros-discovery-paramount-netflix" target="_blank">In reversal, Warner Bros. jilts Netflix for Paramount</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-26 22:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/2/26/why-are-many-western-leaders-visiting-china?traffic_source=rss" target="_blank">Why are many Western leaders visiting China?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-26 22:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22e4/live/752b49d0-1362-11f1-9120-a910fc22c6ac.jpg" alt="Chris Mason: Gorton and Denton by-election could be a three-way tussle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg3qg20544o?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: Gorton and Denton by-election could be a three-way tussle</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-26 22:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-voting-gty-jt-260226_1772137273264_hpMain_4x3t_384.jpg" alt="Pro-Trump attorneys push EO that would give Trump wide power over elections: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,47 +102,29 @@
                 <span class="time">2026-02-26 21:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/26/nx-s1-5727622/nasa-lunar-trailblazer-moon-new-report-what-went-wrong" target="_blank">NASA lost a lunar spacecraft one day after launch. A new report details what went wrong</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-26 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/361f/live/e61e0130-1355-11f1-a24b-e9ec85119d46.jpg" alt="MoD launches review into whether Epstein used RAF bases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c86y466v0x6o?at_medium=RSS&at_campaign=rss" target="_blank">MoD launches review into whether Epstein used RAF bases</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-26 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-zelenskyy-ukraine_7176144.png?20260226212447" alt="&#x27;I&#x27;m not the best father,&#x27; admits &amp;#8203;Zelenskyy as Ukraine hit by &#x27;harshest winter for decades&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/im-not-the-best-father-admits-volodymyr-8203zelenskyy-as-president-says-ukraine-hit-by-harshest-winter-for-decades-13512689" target="_blank">&#x27;I&#x27;m not the best father,&#x27; admits &amp;#8203;Zelenskyy as Ukraine hit by &#x27;harshest winter for decades&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-26 20:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d0a/live/096ee5b0-12fb-11f1-801d-ed3cff6bf876.png" alt="US-Iran talks end after &#x27;significant progress&#x27;, mediator says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss" target="_blank">US-Iran talks end after &#x27;significant progress&#x27;, mediator says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-26 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/Perplexity-Computer-500x500-1772142771.jpg" alt="Perplexity announces &quot;Computer,&quot; an AI agent that assigns work to other AI agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/02/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents/" target="_blank">Perplexity announces &quot;Computer,&quot; an AI agent that assigns work to other AI agents</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-26 22:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/26/paypal-might-not-be-looking-to-sell-itself-report/" target="_blank">PayPal might not be looking to sell itself: Report</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-26 22:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +161,29 @@
                 <span class="time">2026-02-26 20:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/" target="_blank">Sophia Space raises $10M seed to demo novel space computers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-26 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/885516/nato-iphones-ipads-restricted-classified-information" target="_blank">NATO says iPhones are secure enough to handle classified data</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-26 19:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmcu5kt1qzwnqmpo615zt.webp" alt="Nano Banana 2: Combining Pro capabilities with lightning-fast speed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1" target="_blank">Nano Banana 2: Combining Pro capabilities with lightning-fast speed</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-26 22:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/" target="_blank">Smartphone Mkt to Decline 13% in &#x27;26, Largest Drop Ever Due to Memory Shortage</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-26 22:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -171,6 +191,15 @@
                 <span class="title"><a href="https://dev.to/cverports/cve-2026-27465-fleets-open-secret-the-google-calendar-key-leak-53jb" target="_blank">CVE-2026-27465: Fleet&#x27;s Open Secret: The Google Calendar Key Leak</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-26 21:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/sudo-rs-password-feedback" target="_blank">sudo-rs Breaks Historical Norms With Now Enabling Password Feedback By Default</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-26 21:31</span>
             </div>
         </div>
 <div class="story">
@@ -183,39 +212,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18894454&w=600" alt="AWS Bedrock vs. SageMaker: Choosing the Right GenAI Stack in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/aws-bedrock-vs-sagemaker-choosing-the-right-genai" target="_blank">AWS Bedrock vs. SageMaker: Choosing the Right GenAI Stack in 2026</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-26 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxhmvjze8a8ysms3ucppw.png" alt="Sovereign Communities for Web3 Leaders A Strategic Pivot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wevolv3_c2aea5159adf3b85f/sovereign-communities-for-web3-leaders-a-strategic-pivot-3jh5" target="_blank">Sovereign Communities for Web3 Leaders A Strategic Pivot</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-26 18:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18894409&w=600" alt="The Hidden Cost of Custom Logic: A Performance Showdown in Apache Spark" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/apache-spark-performance-showdown" target="_blank">The Hidden Cost of Custom Logic: A Performance Showdown in Apache Spark</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-26 18:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/unmasking-the-resolute-raccoon" target="_blank">Unmasking the Resolute Raccoon</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-02-26 17:30</span>
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/whats-new-with-github-copilot-coding-agent/" target="_blank">What’s new with GitHub Copilot coding agent</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-02-26 20:47</span>
             </div>
         </div>
 </div>
@@ -237,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/whatlololl-1280x720.jpg" alt="LOL What Is This Thing?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lol-what-is-this-thing-2000674147" target="_blank">LOL What Is This Thing?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-26 23:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/dotson-ice-shelf-1280x853.jpg" alt="Could Melting Glaciers Actually Slow Climate Change?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/could-melting-glaciers-actually-slow-climate-change-2000727302" target="_blank">Could Melting Glaciers Actually Slow Climate Change?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-26 22:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/2026_Marathon_Runner_Blog_Press_Kit_Compressed_001-1280x720.jpg" alt="I Really Want To Like Marathon, But I’m Not Sure So Far" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +293,6 @@
                 <span class="time">2026-02-26 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/bible-bobo-e1737732732903.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Lauren Boebert brings Hillary Clinton&#x27;s deposition to a screeching halt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/26/lauren-boebert-brings-hillary-clintons-deposition-to-a-screeching-halt.html" target="_blank">Lauren Boebert brings Hillary Clinton&#x27;s deposition to a screeching halt</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-26 19:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJDAS3STQX7P9BQYBCAP8XJ1/hero-image.jpg" alt="Six Products to Expect From Apple&#x27;s March Event" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/products-to-expect-from-apples-march-2026-event?utm_medium=RSS" target="_blank">Six Products to Expect From Apple&#x27;s March Event</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-26 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 22:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 23:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
