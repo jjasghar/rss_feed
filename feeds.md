@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-26 04:32:09 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-02-26 05:24:42 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, February 26, 2026 - 04:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, February 26, 2026 - 05:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/26/recent-mediterranean-storms-tragedies-spain-portugal-morocco" target="_blank">‘A devastating force’: how recent Mediterranean storms turned to tragedies</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-26 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/25/nx-s1-5725385/decades-after-being-blocked-from-the-little-league-world-series-a-black-team-is-honored" target="_blank">Decades after being blocked from the Little League World Series, a Black team is honored</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-25 23:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/25/nx-s1-5726780/democrats-doj-epstein-files-trump-missing-pages" target="_blank">Top House Dem wants Justice Department to explain missing Trump-related Epstein files</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-25 22:00</span>
             </div>
         </div>
 </div>
@@ -170,6 +176,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fku5j2d7fagwe74epr79y.jpeg" alt="546 Tests. 0 Failures. API Still Burning🔥" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/liudasjan/546-tests-0-failures-api-still-burning-hd6" target="_blank">546 Tests. 0 Failures. API Still Burning🔥</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-26 05:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2F0fdf1ad6-7dd4-4c4a-adda-2016ca89359c.png" alt="The teams that win won’t be the ones with the most tools. Remote work already changed where teams operate. That’s the real transformation coming to remote development." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +220,6 @@
                 <span class="time">2026-02-26 00:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/06/showtime-video-player.jpg?resize=406%2C232&amp;ssl=1" alt="Showtime video player edges closer to Ubuntu debut" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/showtime-video-player-ubuntu-2604-coming-soon" target="_blank">Showtime video player edges closer to Ubuntu debut</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-25 23:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +246,15 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/25/douglas-rushkoff-on-the-dinner-party-that-turned-out-to-be-epsteins.html" target="_blank">Douglas Rushkoff on the dinner party that turned out to be Epstein&#x27;s</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-26 02:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/GettyImages-2256813174-1280x853.jpg" alt="‘Compute Equals Revenues’: Nvidia Needs Jensen Huang’s New Catchphrase to Be True" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/compute-equals-revenues-nvidia-needs-jensen-huangs-new-catchphrase-to-be-true-2000726841" target="_blank">‘Compute Equals Revenues’: Nvidia Needs Jensen Huang’s New Catchphrase to Be True</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-26 02:05</span>
             </div>
         </div>
 <div class="story">
@@ -278,20 +293,20 @@
                 <span class="time">2026-02-25 20:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/04/ff82b6491738834542ce014789294b8f-1280x720.jpg" alt="Skate Studio Says It’s Laying Devs Off In Order To ‘Better Support’ The Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/skate-4-full-circle-layoffs-ea-season-3-skateboarding-game-2000673707" target="_blank">Skate Studio Says It’s Laying Devs Off In Order To ‘Better Support’ The Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-25 20:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5773.png" alt="Time To Die" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5774" target="_blank">Time To Die</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-02-26 01:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -319,22 +334,13 @@
                 <span class="time">2026-02-25 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/little_red_dots.png" alt="Little Red Dots" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3212/" target="_blank">Little Red Dots</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-02-25 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 04:32 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 05:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
