@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-26 01:30:47 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-26 02:54:13 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, February 26, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, February 26, 2026 - 02:54 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/cuba-rt-er-260225_1772050607090_hpMain_4x3t_384.jpg" alt="Cuba says 4 killed on Florida-registered speedboat were attempting &#x27;infiltration&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/4-people-us-registered-boat-killed-confrontation-troops/story?id=130501458" target="_blank">Cuba says 4 killed on Florida-registered speedboat were attempting &#x27;infiltration&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-26 02:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1772065678346_nn_jdb_cubaspeedboatshooting_260225_1920x1080-uxv6r6.jpg" alt="Cuba says 4 people killed after gunfight with Florida speedboat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/cuba-says-4-people-killed-after-gunfight-with-florida-speedboat-258311237561" target="_blank">Cuba says 4 people killed after gunfight with Florida speedboat</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-26 00:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9cb/live/01b36ae0-1282-11f1-9120-a910fc22c6ac.jpg" alt="Racism and &#x27;poor&#x27; staff relationships factors in maternity care failings, report finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,24 +94,6 @@
                 <span class="title"><a href="https://abcnews.com/US/epstein-hid-trove-evidence-investigators-decade-documents-suggest/story?id=130494832" target="_blank">Epstein hid trove of evidence for over a decade, documents suggest</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-25 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/25/indias-modi-addresses-israeli-parliament-on-first-day-of-visit?traffic_source=rss" target="_blank">India’s Modi tells Israel’s Knesset: ‘No cause justifies killing civilians’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-25 20:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1772051620732_nbc_spec_cuba_boat_3p_260225_1920x1080-dlk08j.jpg" alt="Cuban officials: Multiple killed after armed confrontation in Cuba&#x27;s waters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/cuban-officials-multiple-killed-after-armed-confrontation-in-cuba-s-waters-258293829857" target="_blank">Cuban officials: Multiple killed after armed confrontation in Cuba&#x27;s waters</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-25 20:33</span>
             </div>
         </div>
 </div>
@@ -235,6 +234,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/rushkoff.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Douglas Rushkoff on the dinner party that turned out to be Epstein&#x27;s" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/25/douglas-rushkoff-on-the-dinner-party-that-turned-out-to-be-epsteins.html" target="_blank">Douglas Rushkoff on the dinner party that turned out to be Epstein&#x27;s</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-26 02:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KJAV22WC5D9K5VRCZCCVC8B5/hero-image.jpg" alt="10 Hacks Every Telegram User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -279,15 +287,6 @@
                 <span class="time">2026-02-25 20:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Bill_Gates_mugshot.jpeg?fit=1200%2C831&amp;quality=60&amp;ssl=1" alt="Bill Gates admits affairs with Russian women, blames Epstein fallout" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/25/bill-gates-admits-affairs-with-russian-women-blames-epstein-fallout.html" target="_blank">Bill Gates admits affairs with Russian women, blames Epstein fallout</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-25 19:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,13 +319,22 @@
                 <span class="time">2026-02-25 08:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/little_red_dots.png" alt="Little Red Dots" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3212/" target="_blank">Little Red Dots</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-02-25 05:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 02:54 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
