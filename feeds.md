@@ -1,31 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-26 06:17:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-26 07:19:20 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, February 26, 2026 - 06:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, February 26, 2026 - 07:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/26/g-s1-111595/u-s-iran-to-third-round-nuclear-talks" target="_blank">U.S. and Iran to hold a third round of nuclear talks in Geneva</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-26 06:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/26/us-ukraine-to-meet-in-geneva-as-russia-attacks-kyiv-with-missiles-drones?traffic_source=rss" target="_blank">US, Ukraine to meet in Geneva as Russia attacks Kyiv with missiles, drones</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-26 06:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +94,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/cuba-says-4-people-killed-after-gunfight-with-florida-speedboat-258311237561" target="_blank">Cuba says 4 people killed after gunfight with Florida speedboat</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-26 00:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9cb/live/01b36ae0-1282-11f1-9120-a910fc22c6ac.jpg" alt="Racism and &#x27;poor&#x27; staff relationships factors in maternity care failings, report finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c30968817q3o?at_medium=RSS&at_campaign=rss" target="_blank">Racism and &#x27;poor&#x27; staff relationships factors in maternity care failings, report finds</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-26 00:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/25/nx-s1-5725385/decades-after-being-blocked-from-the-little-league-world-series-a-black-team-is-honored" target="_blank">Decades after being blocked from the Little League World Series, a Black team is honored</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-25 23:08</span>
             </div>
         </div>
 </div>
@@ -233,6 +234,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/608f9f60-117f-11f1-9923-f53d6118df6a.jpg.webp?fit=1536%2C863&amp;quality=55&amp;ssl=1" alt="Orphaned otters rescued and on the mend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/25/otters.html" target="_blank">Orphaned otters rescued and on the mend</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-26 04:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/rushkoff.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Douglas Rushkoff on the dinner party that turned out to be Epstein&#x27;s" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -275,15 +285,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/25/make-the-most-of-your-mac-with-70-off-this-productivity-app.html" target="_blank">Make the most of your Mac with 70% off this productivity app</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-25 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/03/0aedb155b8682e282fc23e6312b4738a-1280x721.jpg" alt="Valve’s Loot Boxes Are Gambling And Illegal, Says New York In New Lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/valve-accused-of-promoting-illegal-gambling-with-loot-boxes-in-new-lawsuit-2000673735" target="_blank">Valve’s Loot Boxes Are Gambling And Illegal, Says New York In New Lawsuit</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-25 20:54</span>
             </div>
         </div>
 </div>
@@ -332,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 06:17 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 07:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
