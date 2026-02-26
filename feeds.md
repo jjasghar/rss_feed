@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-26 12:08:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-26 13:27:47 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, February 26, 2026 - 12:08 UTC</div>
+    <div class="newspaper-date">Thursday, February 26, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/26/how-trumps-2026-iran-war-script-echoes-and-twists-the-2003-iraq-playbook?traffic_source=rss" target="_blank">How Trump’s 2026 Iran ‘war’ script echoes and twists the 2003 Iraq playbook</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-26 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/26/g-s1-111619/up-first-newsletter-iran-nuclear-talks-harvard-larry-summers-epstein-cuba-ice-polling-locations" target="_blank">U.S. and Iran to hold nuclear talks. And, Harvard professor resigns over Epstein ties</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-26 12:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +99,20 @@
                 <span class="time">2026-02-26 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/26/un-approves-first-carbon-credits-under-paris-agreement-market-mechanism?traffic_source=rss" target="_blank">UN approves first carbon credits under Paris Agreement market mechanism</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-26 09:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/feb/26/women-arrested-uganda-kissing-public-lgbtq-laws" target="_blank">Two women arrested in Uganda for allegedly kissing in public could face life sentence</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-26 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty" target="_blank">Burger King will use AI to check if employees say ‘please’ and ‘thank you’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-26 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +158,6 @@
                 <span class="time">2026-02-26 01:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/" target="_blank">Gushwork bets on AI search for customer leads — and early results are emerging</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-26 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +170,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18893777&w=600" alt="Mastering GitHub Copilot in VS Code: Ask, Edit, Agent and the Build–Refine–Verify Workflow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/mastering-github-copilot-in-vs-code-ask-edit-agent" target="_blank">Mastering GitHub Copilot in VS Code: Ask, Edit, Agent and the Build–Refine–Verify Workflow</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-26 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -211,15 +217,6 @@
                 <span class="time">2026-02-26 10:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gitlab.com/here_forawhile/terminalphone" target="_blank">Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-26 10:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/rb-1280x720.jpg" alt="Pokémon Red And Blue: The Kotaku Retro Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-red-blue-yellow-green-review-game-boy-switch-2000671975" target="_blank">Pokémon Red And Blue: The Kotaku Retro Review</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-26 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GXXRQ7FYG6R4PJF53VBJT/hero-image.jpg" alt="How to Build Self-Efficacy (and Finally Stick With a New Fitness Habit)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/how-to-build-self-efficacy?utm_medium=RSS" target="_blank">How to Build Self-Efficacy (and Finally Stick With a New Fitness Habit)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-26 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/LEGO-Batman-Legacy-of-the-Dark-Knight-Official-The-Joker-Clown-Prince-of-the-Museum-Cinematic-Thumbnail-1280x853.jpg" alt="The New ‘Lego Batman’ Game Gets the Party Started With Prince’s Legendary ‘Batman’ Soundtrack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +288,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/25/douglas-rushkoff-on-the-dinner-party-that-turned-out-to-be-epsteins.html" target="_blank">Douglas Rushkoff on the dinner party that turned out to be Epstein&#x27;s</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-26 02:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/GettyImages-2256813174-1280x853.jpg" alt="‘Compute Equals Revenues’: Nvidia Needs Jensen Huang’s New Catchphrase to Be True" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/compute-equals-revenues-nvidia-needs-jensen-huangs-new-catchphrase-to-be-true-2000726841" target="_blank">‘Compute Equals Revenues’: Nvidia Needs Jensen Huang’s New Catchphrase to Be True</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-26 02:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJAV22WC5D9K5VRCZCCVC8B5/hero-image.jpg" alt="10 Hacks Every Telegram User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-telegram-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Telegram User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-25 23:00</span>
             </div>
         </div>
 </div>
@@ -330,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 12:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
