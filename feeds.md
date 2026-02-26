@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-26 00:07:28 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-26 01:30:47 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Error processing https://www.phoronix.com/rss.php: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, February 26, 2026 - 00:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, February 26, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9cb/live/01b36ae0-1282-11f1-9120-a910fc22c6ac.jpg" alt="Racism and &#x27;poor&#x27; staff relationships factors in maternity care failings, report finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c30968817q3o?at_medium=RSS&at_campaign=rss" target="_blank">Racism and &#x27;poor&#x27; staff relationships factors in maternity care failings, report finds</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-26 00:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/25/nx-s1-5725385/decades-after-being-blocked-from-the-little-league-world-series-a-black-team-is-honored" target="_blank">Decades after being blocked from the Little League World Series, a Black team is honored</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-25 23:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +95,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/cuban-officials-multiple-killed-after-armed-confrontation-in-cuba-s-waters-258293829857" target="_blank">Cuban officials: Multiple killed after armed confrontation in Cuba&#x27;s waters</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-25 20:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/larry-summers-1-gty-gmh-260225_1772037822736_hpMain_4x3t_384.jpg" alt="Larry Summers to step down from Harvard amid Epstein scrutiny" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/larry-summers-step-harvard-amid-epstein-scrutiny/story?id=130494623" target="_blank">Larry Summers to step down from Harvard amid Epstein scrutiny</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-25 19:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/25/nx-s1-5725399/surgeon-general-casey-means-vaccines-birth-control" target="_blank">Surgeon general nominee Means questioned about vaccines, birth control and financial conflicts</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-25 18:56</span>
             </div>
         </div>
 </div>
@@ -174,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Firefox-149-Beta" target="_blank">Firefox 149 Beta Released With Convenient Split-View Mode</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-26 01:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ji_ai/claude-hanaro-1in-saas-jeoncereul-seolgyehan-girog-44h5" target="_blank">Claude 하나로 1인 SaaS 전체를 설계한 기록</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,15 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-LTS-6.12-6.6-Extend" target="_blank">Linux 6.18 LTS / 6.12 LTS / 6.6 LTS Support Periods Extended</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-25 20:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://spectrum.ieee.org/jimi-hendrix-systems-engineer" target="_blank">Jimi Hendrix was a systems engineer</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-25 20:16</span>
             </div>
         </div>
 </div>
@@ -326,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 00:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
