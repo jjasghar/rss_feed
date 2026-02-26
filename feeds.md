@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-26 05:24:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-26 06:17:16 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, February 26, 2026 - 05:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, February 26, 2026 - 06:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +101,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" alt="TurboTax Service Codes: Up to 20% Off | February 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/turbotax-coupon/" target="_blank">TurboTax Service Codes: Up to 20% Off | February 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-26 06:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -152,15 +154,6 @@
                 <span class="time">2026-02-25 21:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69964e836a79d569b06431c0/master/pass/Mog-Goblins-and-Why-We-All-Use-Incel-Speak-Now-Culture.jpg" alt="Everyone Speaks Incel Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/everyone-speaks-incel-now/" target="_blank">Everyone Speaks Incel Now</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-25 20:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -182,6 +175,15 @@
                 <span class="title"><a href="https://dev.to/liudasjan/546-tests-0-failures-api-still-burning-hd6" target="_blank">546 Tests. 0 Failures. API Still Burning🔥</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-26 05:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.grumpy-economist.com/p/refine" target="_blank">I don&#x27;t know how you get here from &quot;predict the next word.&quot;</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-26 04:59</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Firefox-149-Beta" target="_blank">Firefox 149 Beta Released With Convenient Split-View Mode</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-26 01:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ji_ai/claude-hanaro-1in-saas-jeoncereul-seolgyehan-girog-44h5" target="_blank">Claude 하나로 1인 SaaS 전체를 설계한 기록</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-26 00:01</span>
             </div>
         </div>
 </div>
@@ -339,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 05:24 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 06:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
