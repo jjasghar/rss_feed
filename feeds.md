@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-26 02:54:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-26 03:46:26 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, February 26, 2026 - 02:54 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, February 26, 2026 - 03:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/26/former-us-f-35-fighter-pilot-arrested-for-training-chinese-air-force?traffic_source=rss" target="_blank">Former US F-35 fighter pilot arrested for training Chinese air force</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-26 02:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/cuba-rt-er-260225_1772050607090_hpMain_4x3t_384.jpg" alt="Cuba says 4 killed on Florida-registered speedboat were attempting &#x27;infiltration&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +103,20 @@
                 <span class="time">2026-02-25 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/jeffrey-epstein-gty-gmh-251205_1764962604442_hpMain_4x3t_384.jpg" alt="Epstein hid trove of evidence for over a decade, documents suggest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/epstein-hid-trove-evidence-investigators-decade-documents-suggest/story?id=130494832" target="_blank">Epstein hid trove of evidence for over a decade, documents suggest</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-25 21:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/" target="_blank">Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-26 01:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +162,6 @@
                 <span class="time">2026-02-25 20:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/washington-post-building-500x500-1768424062.jpg" alt="Judge doesn&#x27;t trust DOJ with search of devices seized from Wash. Post reporter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/judge-doesnt-trust-doj-with-search-of-devices-seized-from-wash-post-reporter/" target="_blank">Judge doesn&#x27;t trust DOJ with search of devices seized from Wash. Post reporter</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-25 20:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +174,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cverports/cve-2026-27606-bundling-disaster-the-rollup-path-traversal-deep-dive-3e7d" target="_blank">CVE-2026-27606: Bundling Disaster: The Rollup Path Traversal Deep Dive</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-26 03:40</span>
             </div>
         </div>
 <div class="story">
@@ -203,15 +219,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/02/cilium-119/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cilium at Ten Years: Stronger Encryption, Safer Policies, and Clearer Visibility for Large Clusters</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-02-25 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-LTS-6.12-6.6-Extend" target="_blank">Linux 6.18 LTS / 6.12 LTS / 6.6 LTS Support Periods Extended</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-25 20:19</span>
             </div>
         </div>
 </div>
@@ -333,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 02:54 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 03:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
