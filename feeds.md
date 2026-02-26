@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-26 13:27:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-26 14:17:09 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, February 26, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, February 26, 2026 - 14:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +50,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/26/how-trumps-2026-iran-war-script-echoes-and-twists-the-2003-iraq-playbook?traffic_source=rss" target="_blank">How Trump’s 2026 Iran ‘war’ script echoes and twists the 2003 Iraq playbook</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-26 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1710/live/33fc6a50-1314-11f1-b048-c9424b2cf5fd.jpg" alt="UK asylum claims drop slightly in 2025 as small boat arrivals rise by 13%" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly07pyde00o?at_medium=RSS&at_campaign=rss" target="_blank">UK asylum claims drop slightly in 2025 as small boat arrivals rise by 13%</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-26 12:48</span>
             </div>
         </div>
 <div class="story">
@@ -90,15 +97,6 @@
                 <span class="time">2026-02-26 10:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/26/nx-s1-5711632/prior-authorizations-expiration-prescription-insurance" target="_blank">Can&#x27;t get a prescription renewed? Here&#x27;s how to cope with prior authorizations</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-26 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -111,6 +109,15 @@
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty" target="_blank">Burger King will use AI to check if employees say ‘please’ and ‘thank you’</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-26 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/699f9f5930d558fa543d8eb9/master/pass/The%20Best%20Ski%20Clothes.png" alt="Best Tested Ski Clothes (2026): Shells, Jackets, Wool Socks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-ski-clothes/" target="_blank">Best Tested Ski Clothes (2026): Shells, Jackets, Wool Socks</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-26 12:30</span>
             </div>
         </div>
 <div class="story">
@@ -149,15 +156,6 @@
                 <span class="time">2026-02-26 06:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/" target="_blank">Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-26 01:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +168,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/02/26/how-pay-per-crawl-is-reshaping-data-monetization/" target="_blank">Beyond block or allow: How pay-per-crawl is reshaping public data monetization</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-02-26 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/ai-online-deanonymization/" target="_blank">AI Can Now Easily Unmask Your Secret Online Life (Even If You Use a Fake Name)</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-26 13:24</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +215,6 @@
                 <span class="time">2026-02-26 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/software-leadership-team/en/headerimage/generatedHeaderImage-1771757368300.jpg" alt="Lessons from Growing a Software Leadership Team" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/software-leadership-team/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Lessons from Growing a Software Leadership Team</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-26 11:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.1-Intel-ANV-DX12-Minor" target="_blank">Intel Vulkan Driver Sees Some Minor Optimizations For DX12 Games On Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-26 10:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +234,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/burgerking-1280x720.jpg" alt="Burger King Will Stick AI In Employees’ Headsets To Make Sure They Say ‘Please’ And ‘Thank You’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/burger-king-ai-patty-fast-food-llm-dystopia-2000673998" target="_blank">Burger King Will Stick AI In Employees’ Headsets To Make Sure They Say ‘Please’ And ‘Thank You’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-26 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/MS-0226-daredevil-born-again-1280x853.jpg" alt="Don’t Expect ‘Daredevil: Born Again’ to Cross Over With the MCU Movies Any Time Soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/daredevil-born-again-mcu-crossover-movies-marvel-2000726795" target="_blank">Don’t Expect ‘Daredevil: Born Again’ to Cross Over With the MCU Movies Any Time Soon</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-26 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJCEK6QK2JFS8YMQ8Q3109D9/hero-image.png" alt="This Motorola Razr+ Is Over $130 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/2024-motorola-foldable-razr-sale-february-2026?utm_medium=RSS" target="_blank">This Motorola Razr+ Is Over $130 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-26 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/rb-1280x720.jpg" alt="Pokémon Red And Blue: The Kotaku Retro Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,33 +286,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-new-lego-batman-game-gets-the-party-started-with-princes-legendary-batman-soundtrack-2000726870" target="_blank">The New ‘Lego Batman’ Game Gets the Party Started With Prince’s Legendary ‘Batman’ Soundtrack</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-26 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/girl-shocked-online-1280x853.jpg" alt="FTC Softens Enforcement of Rule Protecting Children Online, Ostensibly to Protect Children Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ftc-softens-enforcement-of-rule-protecting-children-online-ostensibly-to-protect-children-online-2000726886" target="_blank">FTC Softens Enforcement of Rule Protecting Children Online, Ostensibly to Protect Children Online</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-26 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/608f9f60-117f-11f1-9923-f53d6118df6a.jpg.webp?fit=1536%2C863&amp;quality=55&amp;ssl=1" alt="Orphaned otters rescued and on the mend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/25/otters.html" target="_blank">Orphaned otters rescued and on the mend</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-26 04:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/rushkoff.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Douglas Rushkoff on the dinner party that turned out to be Epstein&#x27;s" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/25/douglas-rushkoff-on-the-dinner-party-that-turned-out-to-be-epsteins.html" target="_blank">Douglas Rushkoff on the dinner party that turned out to be Epstein&#x27;s</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-26 02:15</span>
             </div>
         </div>
 </div>
@@ -327,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 14:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
