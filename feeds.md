@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-25 23:06:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-26 00:07:28 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: NPR News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Error processing https://www.phoronix.com/rss.php: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, February 25, 2026 - 23:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, February 26, 2026 - 00:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +104,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/" target="_blank">Gushwork bets on AI search for customer leads — and early results are emerging</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-26 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/884978/valve-lawsuit-loot-boxes-new-york-attorney-general-lawsuit" target="_blank">New York sues Valve, alleging its loot boxes are ‘quintessential gambling’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-25 23:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2259422080-500x500-1772053808.jpg" alt="Musk has no proof OpenAI stole xAI trade secrets, judge rules, tossing lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -138,24 +157,6 @@
                 <span class="time">2026-02-25 20:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/" target="_blank">The White House wants AI companies to cover rate hikes. Most have already said they would.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-25 20:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/" target="_blank">Alphabet-owned robotics software company Intrinsic joins Google</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-25 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +169,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat" target="_blank">Strengthening the sovereign enterprise with new training from Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-02 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ji_ai/claude-hanaro-1in-saas-jeoncereul-seolgyehan-girog-44h5" target="_blank">Claude 하나로 1인 SaaS 전체를 설계한 기록</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-26 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/06/showtime-video-player.jpg?resize=406%2C232&amp;ssl=1" alt="Showtime video player edges closer to Ubuntu debut" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/showtime-video-player-ubuntu-2604-coming-soon" target="_blank">Showtime video player edges closer to Ubuntu debut</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-02-25 23:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/cilium-119/en/headerimage/generatedHeaderImage-1772059002483.jpg" alt="Cilium at Ten Years: Stronger Encryption, Safer Policies, and Clearer Visibility for Large Clusters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/cilium-119/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cilium at Ten Years: Stronger Encryption, Safer Policies, and Clearer Visibility for Large Clusters</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-25 23:00</span>
             </div>
         </div>
 <div class="story">
@@ -186,33 +214,6 @@
                 <span class="title"><a href="https://spectrum.ieee.org/jimi-hendrix-systems-engineer" target="_blank">Jimi Hendrix was a systems engineer</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-25 20:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/llvm-clang-22-znver5" target="_blank">LLVM Clang 22 Compiler Performance Largely Unchanged Over Clang 21 On AMD Zen 5</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-25 20:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/manuel_felipeariaspined/nigeria-devs-add-nin-national-identification-number-to-the-ai-identity-standard-soulprint-3n2b" target="_blank">🇳🇬 Nigeria devs: Add NIN (National Identification Number) to the AI identity standard — Soulprint open source (30 min PR)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-25 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18891969&w=600" alt="A Unified Framework for SRE to Troubleshoot Database Connectivity in Kubernetes Cloud Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/sre-database-connectivity-troubleshooting-kubernetes" target="_blank">A Unified Framework for SRE to Troubleshoot Database Connectivity in Kubernetes Cloud Applications</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-25 20:00</span>
             </div>
         </div>
 </div>
@@ -294,6 +295,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/25/lynx-club-for-child-s-play" target="_blank">Lynx Club (For Child&#x27;s Play!)</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-02-25 21:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1771879352-20260225.png" alt="Saturday Morning Breakfast Cereal - Cow" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -316,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 23:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 00:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
