@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-27 22:02:30 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-02-27 23:03:03 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, February 27, 2026 - 22:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, February 27, 2026 - 23:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/luigi-mangione-1-rt-gmh-260206_1770383877392_hpMain_4x3t_384.jpg" alt="Luigi Mangione case: Ruling that took death penalty off table won&#x27;t be appealed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/federal-prosecutors-luigi-mangione-case-appeal-ruling-death/story?id=130579220" target="_blank">Luigi Mangione case: Ruling that took death penalty off table won&#x27;t be appealed</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-27 22:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/27/nx-s1-5720167/trump-ice-immigration-social-media-deportation-dhs-immigrants-detained-disputes" target="_blank">How the federal government is painting immigrants as criminals on social media</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-27 22:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/2/27/why-is-trump-objecting-to-al-malikis-comeback?traffic_source=rss" target="_blank">Why is Trump objecting to al-Maliki’s comeback?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-27 22:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +100,20 @@
                 <span class="time">2026-02-27 19:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/bill-clinton-ap-jt-260226_1772143845928_hpMain_4x3t_384.jpg" alt="Bill Clinton blasts Republicans for deposing Hillary, says &#x27;I did nothing wrong&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/bill-clinton-faces-questions-house-oversight-committee-epstein/story?id=130539318" target="_blank">Bill Clinton blasts Republicans for deposing Hillary, says &#x27;I did nothing wrong&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-27 19:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/442e/live/240f7610-13fe-11f1-b048-c9424b2cf5fd.jpg" alt="Tram derails in Milan, leaving two dead and dozens injured" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y599degnqo?at_medium=RSS&at_campaign=rss" target="_blank">Tram derails in Milan, leaving two dead and dozens injured</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-27 19:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/27/israels-top-court-allows-aid-groups-facing-gaza-ban-to-continue-working?traffic_source=rss" target="_blank">Israel’s top court allows aid groups facing Gaza ban to continue working</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-27 18:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/" target="_blank">OpenAI fires employee for using confidential info on prediction markets</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-27 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69a20ae5eb0d16f48f12ac6f/master/pass/Our%20Favorite%20Electric%20Scooters%20Just%20Dropped%20in%20Price.png" alt="These Deals Can Have You Zipping Around on a New E-Scooter This Spring" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -110,6 +121,15 @@
                 <span class="title"><a href="https://www.wired.com/story/electric-scooters-spring-deals-2026/" target="_blank">These Deals Can Have You Zipping Around on a New E-Scooter This Spring</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-27 21:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/886478/warner-bros-discovery-paramount-merger-agreement" target="_blank">Warner Bros. Discovery agrees to $110 billion Paramount merger</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-27 21:43</span>
             </div>
         </div>
 <div class="story">
@@ -137,24 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/story/what-is-an-e-bike-california-might-find-out/" target="_blank">What&#x27;s an E-Bike? California Wants You to Know</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-27 19:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/886135/trump-mobile-t1-phone-htc-u24-pro" target="_blank">The Trump phone sure looks a lot like this HTC handset</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-27 19:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/" target="_blank">Anthropic vs. the Pentagon: What’s actually at stake?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-27 19:11</span>
             </div>
         </div>
 </div>
@@ -225,6 +227,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-in-peru.html" target="_blank">Friday Squid Blogging: Squid Fishing in Peru</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-02-27 22:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html" target="_blank">Why Tehran’s Two-Tiered Internet Is So Dangerous</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-02-27 12:05</span>
@@ -244,6 +255,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/magnesium.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Magnesium helps migraines but the rest of the hype is shaky" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/27/magnesium-helps-migraines-but-the-rest-of-the-hype-is-shaky.html" target="_blank">Magnesium helps migraines but the rest of the hype is shaky</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-27 22:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJDNK5W01H72BANC86QHWVMC/hero-image.jpg" alt="10 Hacks Every Oura Ring User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/best-oura-ring-hacks?utm_medium=RSS" target="_blank">10 Hacks Every Oura Ring User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-27 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/image-33-1280x720.jpg" alt="Stardew Valley Fans Aren’t Holding Back About How Much They Hate This Guy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/stardew-valley-clint-marriage-1-7-update-2000674574" target="_blank">Stardew Valley Fans Aren’t Holding Back About How Much They Hate This Guy</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-27 22:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/switch-pink-bg-1280x712.jpg" alt="Pokémon Sapphire And Ruby ROM Support Found In FireRed/LeafGreen Switch Files, Dataminer Claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,33 +307,6 @@
                 <span class="title"><a href="https://gizmodo.com/jupiter-probe-spots-interstellar-comet-spewing-gas-and-dust-2000727797" target="_blank">Jupiter Mission Captures Rare Shot of Interstellar Comet 3I/Atlas on Its Way Out</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-27 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/operation-hardtack-12th-May-1958-1280x853.jpg" alt="I Never Would’ve Guessed the Skynet Problem Would Come Before the Mass Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/i-never-wouldve-guessed-the-skynet-problem-would-come-before-the-mass-layoffs-2000727677" target="_blank">I Never Would’ve Guessed the Skynet Problem Would Come Before the Mass Layoffs</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-27 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJG68HY4K9VDX2WY9VXHYABR/hero-image.png" alt="12 Inexpensive Weekend Projects That Will Boost Your Home&#x27;s Curb Appeal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/inexpensive-weekend-projects-to-boost-curb-appeal?utm_medium=RSS" target="_blank">12 Inexpensive Weekend Projects That Will Boost Your Home&#x27;s Curb Appeal</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-27 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/plugs-and-sockets.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="A retired geneticist built an online museum of electrical plugs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/27/a-retired-geneticist-built-an-online-museum-of-electrical-plugs.html" target="_blank">A retired geneticist built an online museum of electrical plugs</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-27 19:01</span>
             </div>
         </div>
 </div>
@@ -331,6 +342,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/dental_formulas.png" alt="Dental Formulas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3213/" target="_blank">Dental Formulas</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-02-27 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5775.png" alt="Incoming" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -344,8 +364,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 153 | 📡 Total Sources: 41 | 📸 With Images: 284 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 152 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 23:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
