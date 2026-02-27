@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-27 07:16:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-27 08:08:53 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, February 27, 2026 - 07:17 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, February 27, 2026 - 08:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,54 +52,54 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/27/g-s1-111794/lawmakers-say-us-military-used-laser-to-take-down-border-protection-drone" target="_blank">US military used laser to take down Border Protection drone, lawmakers say</a></span>
+                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/02/27/g-s1-111346/madison-wisconsin-frozen-assets-festival" target="_blank">This community festival embraces the joys of a frozen lake — while it still has one</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-27 06:08</span>
+                <span class="time">2026-02-27 08:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/27/when-money-is-scarce-every-choice-counts-bank-cash-or-credit?traffic_source=rss" target="_blank">When money is scarce, every choice counts: Bank, cash, or credit?</a></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/27/pakistan-strikes-kabul-declares-open-war-on-afghanistan-following-clashe?traffic_source=rss" target="_blank">Pakistan strikes Kabul, declares ‘open war’ on Afghanistan following clashe</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-27 04:46</span>
+                <span class="time">2026-02-27 07:21</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-afghanistan-strikes_7176352.jpg?20260227051841" alt="Pakistan in &#x27;open war&#x27; with Afghanistan, Pakistani defence minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11d1/live/bba8b150-13b1-11f1-9120-a910fc22c6ac.jpg" alt="Hillary Clinton tells House panel she &#x27;had no idea&#x27; of Epstein&#x27;s crimes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/pakistan-in-open-war-with-afghanistan-says-pakistani-defence-minister-13512788" target="_blank">Pakistan in &#x27;open war&#x27; with Afghanistan, Pakistani defence minister says</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-27 03:58</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd6z3e1vdvzo?at_medium=RSS&at_campaign=rss" target="_blank">Hillary Clinton tells House panel she &#x27;had no idea&#x27; of Epstein&#x27;s crimes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-27 07:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/feb/27/rising-anger-over-lop-sided-immoral-us-health-funding-pacts-africa-countries" target="_blank">Rising anger over ‘lop-sided’ and ‘immoral’ US health funding pacts with African countries</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-27 07:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/26/nx-s1-5727847/anthropic-defense-hegseth-ai-weapons-surveillance" target="_blank">Deadline looms as Anthropic rejects Pentagon demands it remove AI safeguards</a></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/27/g-s1-111794/lawmakers-say-us-military-used-laser-to-take-down-border-protection-drone" target="_blank">US military used laser to take down Border Protection drone, lawmakers say</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-27 02:19</span>
+                <span class="time">2026-02-27 06:08</span>
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-zelenskyy-volodymyr_7176396.jpg?20260227062857" alt="Zelenskyy tells Sky News the US has the power to end the war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/27/live-kabul-bombed-as-pakistan-declares-open-war-on-afghanistan?traffic_source=rss" target="_blank">LIVE: Kabul bombed as Pakistan declares ‘open war’ on Afghanistan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-27 02:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/27/us-tax-agency-broke-privacy-law-approximately-42695-times-judge-says?traffic_source=rss" target="_blank">US tax agency broke privacy law ‘approximately 42,695 times’, judge says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-27 00:55</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/ukraines-volodymyr-zelenskyy-tells-sky-news-hes-ready-to-meet-putin-for-peace-talks-but-wont-give-up-territory-13512799" target="_blank">Zelenskyy tells Sky News the US has the power to end the war</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-27 05:12</span>
             </div>
         </div>
 </div>
@@ -171,6 +176,24 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/maverickjkp/localgpt-costs-vs-cloud-ai-the-80k-reality-in-2026-3no" target="_blank">LocalGPT Costs vs Cloud AI: The $80K Reality in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-27 08:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/evals-agent-interop/en/headerimage/header-1670341892423-1771957055708.jpg" alt="Microsoft Open Sources Evals for Agent Interop Starter Kit to Benchmark Enterprise AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/evals-agent-interop/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Open Sources Evals for Agent Interop Starter Kit to Benchmark Enterprise AI Agents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-27 08:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyf8oceotttbkapjh6hen.png" alt="🚨 The Era of &quot;Chatbots&quot; is Over: Why Perplexity Computer Just Redefined AI Orchestration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -195,24 +218,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/ubuntu-2604-snapshot-4-download" target="_blank">Ubuntu 26.04 Snapshot 4 is now available to download</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-02-27 01:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-operations-to-equalize-binary-string-problem-3666-c-3871" target="_blank">💡 Beginner-Friendly Guide &#x27;Minimum Operations to Equalize Binary String&#x27; - Problem 3666 (C++, Python, JavaScript)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-27 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LXD-6.7-Released" target="_blank">LXD 6.7 Released With AMD GPU Passthrough Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-27 01:09</span>
             </div>
         </div>
 </div>
@@ -316,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 07:17 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 08:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
