@@ -1,35 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-02-27 20:03:53 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-02-27 21:04:34 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, February 27, 2026 - 20:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, February 27, 2026 - 21:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eab/live/fd7d7420-1407-11f1-8e3a-e7cecfbdc12f.jpg" alt="Starmer vows to fight on after historic Green by-election win" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp8r56vxmn0o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer vows to fight on after historic Green by-election win</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-27 19:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +92,20 @@
                 <span class="time">2026-02-27 17:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1772212770299_now_daily_a_clinton_testifies_epstein_260227_1920x1080-7iecng.jpg" alt="Bill Clinton denies any wrongdoing related to Jeffrey Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/bill-clinton-denies-any-wrongdoing-related-to-jeffrey-epstein-258428997803" target="_blank">Bill Clinton denies any wrongdoing related to Jeffrey Epstein</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-27 17:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69a1fdf1067f37c7d49f5276/master/pass/Our%20Favorite%20Upgraded%20Roku%20Is%20$20%20Off.png" alt="The Best Roku Is $20 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/roku-ultra-deal-226/" target="_blank">The Best Roku Is $20 Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-27 20:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +151,6 @@
                 <span class="time">2026-02-27 19:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a1b6d718bfb5f977127149/master/pass/cul-elison-2197466221.jpg" alt="Everything Larry and David Ellison Will Control if Paramount Buys Warner Bros." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/everything-the-ellison-family-will-control-if-paramount-acquires-warner-brothers-discovery/" target="_blank">Everything Larry and David Ellison Will Control if Paramount Buys Warner Bros.</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-27 19:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +162,15 @@
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shabbirhasan01/a-free-webhook-tester-that-doesnt-suck-heres-why-youll-love-it-requexme-567m" target="_blank">A Free Webhook Tester That Doesn&#x27;t Suck - Here&#x27;s Why You&#x27;ll Love It - Requex.me</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2026-02-27 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://web.archive.org/web/20050131031148/http://www.freedom-to-tinker.com/tinyp2p.html" target="_blank">TinyP2P</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-02-27 19:55</span>
             </div>
         </div>
@@ -208,15 +210,6 @@
                 <span class="time">2026-02-27 18:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yacineb_45/what-i-learned-building-a-workflow-engine-from-scratch-in-rust-2mdk" target="_blank">What I learned building a workflow engine from scratch in Rust</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-27 18:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +239,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/First_glimpse_of_comet_3I_ATLAS_from_Juice_science_camera-1280x853.jpg" alt="Jupiter Mission Captures Rare Shot of Interstellar Comet 3I/Atlas on Its Way Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jupiter-probe-spots-interstellar-comet-spewing-gas-and-dust-2000727797" target="_blank">Jupiter Mission Captures Rare Shot of Interstellar Comet 3I/Atlas on Its Way Out</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-27 20:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/operation-hardtack-12th-May-1958-1280x853.jpg" alt="I Never Would’ve Guessed the Skynet Problem Would Come Before the Mass Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -264,6 +266,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/plugs-and-sockets.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="A retired geneticist built an online museum of electrical plugs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/27/a-retired-geneticist-built-an-online-museum-of-electrical-plugs.html" target="_blank">A retired geneticist built an online museum of electrical plugs</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-27 19:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/car-wreck.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Deadly car crashes surge on days that big albums drop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -279,24 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-buds-4-preorder-deal-february-2026?utm_medium=RSS" target="_blank">You Can Preorder the New Samsung Galaxy Buds 4 and Get Up to a $30 Amazon Gift Card</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-27 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/lego-march-2026-new-releases-zelda-ocarina-of-time-1280x853.jpg" alt="Lego’s March Releases Need a Hero (of Time)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/lego-march-2026-releases-zelda-smart-bricks-star-wars-2000727282" target="_blank">Lego’s March Releases Need a Hero (of Time)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-27 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Kash-Patel.jpg?fit=680%2C383&amp;quality=60&amp;ssl=1" alt="Kash Patel&#x27;s girlfriend defends his taxpayer-funded hockey party by yelling about transgender mice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/27/kash-patels-girlfriend-defends-his-taxpayer-funded-hockey-party-by-yelling-about-transgender-mice.html" target="_blank">Kash Patel&#x27;s girlfriend defends his taxpayer-funded hockey party by yelling about transgender mice</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-27 17:35</span>
             </div>
         </div>
 </div>
@@ -345,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 162 | 📡 Total Sources: 41 | 📸 With Images: 284 |
-        🔄 Last Updated: 20:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 159 | 📡 Total Sources: 41 | 📸 With Images: 285 |
+        🔄 Last Updated: 21:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
