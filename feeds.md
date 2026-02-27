@@ -1,43 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-27 02:53:14 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-27 03:44:33 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 34 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, February 27, 2026 - 02:53 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, February 27, 2026 - 03:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -113,6 +102,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69a0d9524a77d405a11503a1/master/pass/Latest-Repair-Battlefield-is-Iowa-Farmlands-Again-Gear-2192165992.jpg" alt="The Latest Repair Battlefield Is the Iowa Farmlands—Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/latest-repair-battlefield-iowa-farmlands-again/" target="_blank">The Latest Repair Battlefield Is the Iowa Farmlands—Again</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-27 01:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69a070265fd6da9c76c63408/master/pass/Aspect%20Ratio.jpg" alt="Hands-On With Nano Banana 2, the Latest Version of Google&#x27;s AI Image Generator" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -157,20 +155,20 @@
                 <span class="time">2026-02-26 23:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/Perplexity-Computer-500x500-1772142771.jpg" alt="Perplexity announces &quot;Computer,&quot; an AI agent that assigns work to other AI agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/02/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents/" target="_blank">Perplexity announces &quot;Computer,&quot; an AI agent that assigns work to other AI agents</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-26 22:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/richied5/i-built-an-ai-contract-scanner-for-freelancers-in-a-day-it-just-caught-a-52000-trap-in-a-15000-nd0" target="_blank">I built an AI contract scanner for freelancers in a day, it just caught a $52,000 trap in a $15,000 contract</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-27 03:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/05/kinetic-kudu-ubuntu-download.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 Snapshot 4 is now available to download" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -216,15 +214,6 @@
                 <span class="time">2026-02-27 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/news/statement-department-of-war" target="_blank">Statement from Dario Amodei on our discussions with the Department of War</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-26 22:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/instax-scaled.jpg?fit=2560%2C1477&amp;quality=60&amp;ssl=1" alt="Reviewers love the Super 8-style Instax Mini Evo Cinema, but not its price tag and problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/26/reviewers-love-the-super-8-style-instax-mini-evo-cinema-but-not-its-price-tag-and-problems.html" target="_blank">Reviewers love the Super 8-style Instax Mini Evo Cinema, but not its price tag and problems</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-27 02:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/we-are-so-cooked-1280x720.jpg" alt="We Are So Cooked Trailer Turns Hiding A Dead Body Into A Cozy Co-op Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +287,6 @@
                 <span class="time">2026-02-26 23:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/dotson-ice-shelf-1280x853.jpg" alt="Could Melting Glaciers Actually Slow Climate Change?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/could-melting-glaciers-actually-slow-climate-change-2000727302" target="_blank">Could Melting Glaciers Actually Slow Climate Change?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-26 22:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 02:53 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 03:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
