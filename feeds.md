@@ -1,38 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-02-27 01:30:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-27 02:53:14 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, February 27, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, February 27, 2026 - 02:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,10 +56,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/26/nx-s1-5727847/anthropic-defense-hegseth-ai-weapons-surveillance" target="_blank">Deadline looms as Anthropic rejects Pentagon demands it remove AI safeguards</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-27 02:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/27/live-kabul-bombed-as-pakistan-declares-open-war-on-afghanistan?traffic_source=rss" target="_blank">LIVE: Kabul bombed as Pakistan declares ‘open war’ on Afghanistan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-27 02:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/27/us-tax-agency-broke-privacy-law-approximately-42695-times-judge-says?traffic_source=rss" target="_blank">US tax agency broke privacy law ‘approximately 42,695 times’, judge says</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-27 00:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1772151040280_nn_rno_former_secretary_state_hillary_clinton_testifies_in_epstein_investigation_261126_1920x1080-s60kee.jpg" alt="Former Secretary of State Hillary Clinton testifies in Epstein investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/former-secretary-of-state-hillary-clinton-testifies-in-epstein-investigation-258377285709" target="_blank">Former Secretary of State Hillary Clinton testifies in Epstein investigation</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-27 00:10</span>
             </div>
         </div>
 <div class="story">
@@ -73,33 +105,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/26/g-s1-111741/chicago-jesse-jackson-memorial-services" target="_blank">Chicagoans pay respects to Jesse Jackson as cross-country memorial services begin</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-26 23:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1772147651108_now_hallie_clinton_ondepo_hillary_260223_1920x1080-jyfqok.jpg" alt="Hillary Clinton calls questions at hearing with lawmakers on Epstein ‘repetitive’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/hillary-clinton-calls-questions-at-hearing-with-lawmakers-on-epstein-repetitive-258374213754" target="_blank">Hillary Clinton calls questions at hearing with lawmakers on Epstein ‘repetitive’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-26 23:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72f4/live/ac8d0130-1366-11f1-af0d-af544dd82419.jpg" alt="American citizen among those killed in Cuba boat shooting, US official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c80j3rlp904o?at_medium=RSS&at_campaign=rss" target="_blank">American citizen among those killed in Cuba boat shooting, US official says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-26 22:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/26/nx-s1-5727894/warner-bros-discovery-paramount-netflix" target="_blank">In reversal, Warner Bros. jilts Netflix for Paramount</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-26 22:43</span>
             </div>
         </div>
 </div>
@@ -167,6 +172,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/05/kinetic-kudu-ubuntu-download.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 Snapshot 4 is now available to download" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/ubuntu-2604-snapshot-4-download" target="_blank">Ubuntu 26.04 Snapshot 4 is now available to download</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-02-27 01:39</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,28 +210,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-february-27-2026-red-hat" target="_blank">Friday Five — February 27, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-02-27 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/news/statement-department-of-war" target="_blank">Statement from Dario Amodei on Our Discussions with the Department of War</a></span>
+                <span class="title"><a href="https://www.anthropic.com/news/statement-department-of-war" target="_blank">Statement from Dario Amodei on our discussions with the Department of War</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-26 22:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmcu5kt1qzwnqmpo615zt.webp" alt="Nano Banana 2: Combining Pro capabilities with lightning-fast speed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1" target="_blank">Nano Banana 2: Combining Pro capabilities with lightning-fast speed</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-26 22:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/02/Ubuntu-cli.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 breaks a sudo tradition older than most of its users" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/ubuntu-26-04-sudo-password-asterisks" target="_blank">Ubuntu 26.04 breaks a sudo tradition older than most of its users</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-26 22:26</span>
             </div>
         </div>
 </div>
@@ -299,6 +304,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5775.png" alt="Incoming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5775" target="_blank">Incoming</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-02-27 01:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1771879428-20260226.png" alt="Saturday Morning Breakfast Cereal - Artist" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -307,22 +321,13 @@
                 <span class="time">2026-02-26 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5773.png" alt="Time To Die" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5774" target="_blank">Time To Die</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-02-26 01:38</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 02:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
