@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-27 04:30:57 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-27 05:21:11 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, February 27, 2026 - 04:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, February 27, 2026 - 05:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/27/when-money-is-scarce-every-choice-counts-bank-cash-or-credit?traffic_source=rss" target="_blank">When money is scarce, every choice counts: Bank, cash, or credit?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-27 04:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-afghanistan-strikes_7176352.jpg?20260227051841" alt="Pakistan in &#x27;open war&#x27; with Afghanistan, Pakistani defence minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/pakistan-in-open-war-with-afghanistan-says-pakistani-defence-minister-13512788" target="_blank">Pakistan in &#x27;open war&#x27; with Afghanistan, Pakistani defence minister says</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-27 03:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/former-secretary-of-state-hillary-clinton-testifies-in-epstein-investigation-258377285709" target="_blank">Former Secretary of State Hillary Clinton testifies in Epstein investigation</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-27 00:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-1-epa-gmh-260225_1772048515382_hpMain_2_4x3t_384.jpg" alt="Top Mideast commander briefs Trump on military options on Iran: Exclusive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/top-mideast-commander-briefs-trump-military-options-iran/story?id=130544628" target="_blank">Top Mideast commander briefs Trump on military options on Iran: Exclusive</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-26 23:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/26/g-s1-111741/chicago-jesse-jackson-memorial-services" target="_blank">Chicagoans pay respects to Jesse Jackson as cross-country memorial services begin</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-26 23:46</span>
             </div>
         </div>
 </div>
@@ -237,6 +240,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/RESIDENT-EVIL-requiem_20260214172838-1280x720.jpg" alt="How To Get Resident Evil Requiem’s True Ending" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/resident-evil-requiem-true-ending-elpis-decision-choice-2000674117" target="_blank">How To Get Resident Evil Requiem’s True Ending</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-27 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/instax-scaled.jpg?fit=2560%2C1477&amp;quality=60&amp;ssl=1" alt="Reviewers love the Super 8-style Instax Mini Evo Cinema, but not its price tag and problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -281,15 +293,6 @@
                 <span class="time">2026-02-27 00:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/whatlololl-1280x720.jpg" alt="LOL What Is This Thing?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lol-what-is-this-thing-2000674147" target="_blank">LOL What Is This Thing?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-26 23:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,7 +322,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 04:31 UTC
+        🔄 Last Updated: 05:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
