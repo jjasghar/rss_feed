@@ -1,28 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-27 21:04:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-27 22:02:30 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 20 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, February 27, 2026 - 21:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, February 27, 2026 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/27/trump-suggests-a-friendly-takeover-of-cuba-amid-us-fuel-blockade?traffic_source=rss" target="_blank">Trump suggests a ‘friendly takeover’ of Cuba amid US fuel blockade</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-27 21:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eab/live/fd7d7420-1407-11f1-8e3a-e7cecfbdc12f.jpg" alt="Starmer vows to fight on after historic Green by-election win" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,20 +98,20 @@
                 <span class="time">2026-02-27 18:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/27/nx-s1-5728988/hud-proposes-time-limits-work-requirements-for-rental-aid" target="_blank">HUD proposes time limits and work requirements for rental aid</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-27 17:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69a20ae5eb0d16f48f12ac6f/master/pass/Our%20Favorite%20Electric%20Scooters%20Just%20Dropped%20in%20Price.png" alt="These Deals Can Have You Zipping Around on a New E-Scooter This Spring" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/electric-scooters-spring-deals-2026/" target="_blank">These Deals Can Have You Zipping Around on a New E-Scooter This Spring</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-27 21:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69a1fdf1067f37c7d49f5276/master/pass/Our%20Favorite%20Upgraded%20Roku%20Is%20$20%20Off.png" alt="The Best Roku Is $20 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,15 +157,6 @@
                 <span class="time">2026-02-27 19:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/886316/acting-cisa-director-replaced-madhu-gottumukkala" target="_blank">CISA is getting a new acting director after less than a year</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-27 19:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -184,6 +190,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://pseudosingleton.com/leaving-google-improved-my-life/" target="_blank">Leaving Google has actively improved my life</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-27 19:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18895450&w=600" alt="Hot Data: Where Real-Time Insight Begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -199,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/josephnwanna/im-building-for-the-real-mvps-of-our-economy-smes-1fd9" target="_blank">I’m Building for the Real MVPs of Our Economy, SMEs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-27 18:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Hyprland-0.54-Released" target="_blank">Hyprland 0.54 Released As A &quot;Massive&quot; Update To This Wayland Compositor</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-27 18:57</span>
             </div>
         </div>
 </div>
@@ -238,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/switch-pink-bg-1280x712.jpg" alt="Pokémon Sapphire And Ruby ROM Support Found In FireRed/LeafGreen Switch Files, Dataminer Claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-saphire-ruby-emerald-switch-2-datamine-2000674544" target="_blank">Pokémon Sapphire And Ruby ROM Support Found In FireRed/LeafGreen Switch Files, Dataminer Claims</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-27 21:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/reddwarf.jpg?fit=1368%2C912&amp;quality=60&amp;ssl=1" alt="Red Dwarf co-creator Rob Grant dead at 70" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/27/red-dwarf-co-creator-rob-grant-dead-at-70.html" target="_blank">Red Dwarf co-creator Rob Grant dead at 70</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-27 21:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/First_glimpse_of_comet_3I_ATLAS_from_Juice_science_camera-1280x853.jpg" alt="Jupiter Mission Captures Rare Shot of Interstellar Comet 3I/Atlas on Its Way Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +296,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/27/a-retired-geneticist-built-an-online-museum-of-electrical-plugs.html" target="_blank">A retired geneticist built an online museum of electrical plugs</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-27 19:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/car-wreck.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Deadly car crashes surge on days that big albums drop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/27/deadly-car-crashes-surge-on-days-that-big-albums-drop.html" target="_blank">Deadly car crashes surge on days that big albums drop</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-27 18:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJG4KMFPST9JVNNY3ES2AMA7/hero-image.png" alt="You Can Preorder the New Samsung Galaxy Buds 4 and Get Up to a $30 Amazon Gift Card" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-buds-4-preorder-deal-february-2026?utm_medium=RSS" target="_blank">You Can Preorder the New Samsung Galaxy Buds 4 and Get Up to a $30 Amazon Gift Card</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-27 18:30</span>
             </div>
         </div>
 </div>
@@ -338,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 159 | 📡 Total Sources: 41 | 📸 With Images: 285 |
-        🔄 Last Updated: 21:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 153 | 📡 Total Sources: 41 | 📸 With Images: 284 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
