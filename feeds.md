@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-27 14:11:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-27 15:11:26 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, February 27, 2026 - 14:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, February 27, 2026 - 15:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/eus_art-500x500.jpg" alt="NASA shakes up its Artemis program to speed up lunar return" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/staff/2026/02/nasa-shakes-up-its-artemis-program-to-speed-up-lunar-return/" target="_blank">NASA shakes up its Artemis program to speed up lunar return</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-27 15:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/DSC_5638-500x500.jpg" alt="Apple says it has &quot;a big week ahead.&quot; Here&#x27;s what we expect to see." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -148,20 +156,20 @@
                 <span class="time">2026-02-27 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/Neutron-Hungry-Hippo-500x500.jpg" alt="Rocket Report: Vulcan &quot;many months&quot; from flying; Falcon 9 extends reuse milestone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/02/rocket-report-neutron-launch-date-is-delayed-again-vector-launch-is-back-sort-of/" target="_blank">Rocket Report: Vulcan &quot;many months&quot; from flying; Falcon 9 extends reuse milestone</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-27 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/vercel-react-best-practices/en/headerimage/generatedHeaderImage-1772126602677.jpg" alt="Vercel Releases React Best Practices Skill with 40+ Performance Rules for AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/vercel-react-best-practices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vercel Releases React Best Practices Skill with 40+ Performance Rules for AI Agents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-27 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdrive.google.com%2Fthumbnail%3Fid%3D1EsR-YLqod6H2_eTZlCWf1s_glqnU_zsO%26sz%3Dw751" alt="Unpacking GitHub Actions Delays: When Self-Hosted Runners Go Idle But Workflows Stay Queued" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +215,6 @@
                 <span class="time">2026-02-27 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Genode-OS-26.02" target="_blank">Genode OS 26.02 Halfway Done Migrating From GitHub To Codeberg</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-27 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +244,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJEPEKXF9G7F3TEW2D6HW8VV/hero-image.jpg" alt="How AI Is Making Romance Scams Even More Dangerous" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/how-ai-is-making-romance-scams-even-more-dangerous?utm_medium=RSS" target="_blank">How AI Is Making Romance Scams Even More Dangerous</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-27 14:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/2026_Marathon_Server_Slam_PressKit_Compressed_03-1280x720.jpg" alt="Marathon Players Debate Gorgeous But Painful UI And Ammo Shortages As Bungie Responds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -263,6 +271,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/B3tyyGMPji5MyjCyMsfzoS-1200-80.png.webp?fit=1200%2C675&amp;quality=55&amp;ssl=1" alt="Arturia KeyStep 37 mk2 mutates your music" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/27/arturia-keystep-37-mk2-mutates-your-music.html" target="_blank">Arturia KeyStep 37 mk2 mutates your music</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-27 13:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/Ryan-Gosling-Starfighter-interview-1280x853.jpg" alt="Why ‘Star Wars’ Is the Franchise Ryan Gosling Finally Landed On" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -278,24 +295,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/27/apples-iphones-and-ipads-are-the-first-consumer-devices-certified-for-nato-classified-data-without-any-modifications.html" target="_blank">Apple&#x27;s iPhones and iPads are the first consumer devices certified for NATO classified data without any modifications.</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-27 11:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/RESIDENT-EVIL-requiem_20260214172838-1280x720.jpg" alt="How To Get Resident Evil Requiem’s True Ending" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/resident-evil-requiem-true-ending-elpis-decision-choice-2000674117" target="_blank">How To Get Resident Evil Requiem’s True Ending</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-27 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/instax-scaled.jpg?fit=2560%2C1477&amp;quality=60&amp;ssl=1" alt="Reviewers love the Super 8-style Instax Mini Evo Cinema, but not its price tag and problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/26/reviewers-love-the-super-8-style-instax-mini-evo-cinema-but-not-its-price-tag-and-problems.html" target="_blank">Reviewers love the Super 8-style Instax Mini Evo Cinema, but not its price tag and problems</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-27 02:13</span>
             </div>
         </div>
 </div>
@@ -335,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 14:11 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 15:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
