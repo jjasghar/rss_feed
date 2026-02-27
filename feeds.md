@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-27 15:11:26 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-27 16:07:50 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, February 27, 2026 - 15:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, February 27, 2026 - 16:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/longform/2026/2/27/like-its-2024-again-trump-takes-centre-stage-in-2026-midterm-elections?traffic_source=rss" target="_blank">‘Like it’s 2024 again’: Trump takes centre stage in 2026 midterm elections</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-27 15:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/028d/live/78630be0-13c8-11f1-8c68-835571867502.jpg" alt="Pakistan defence minister says country in &#x27;open war&#x27; with Afghanistan after strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +97,29 @@
                 <span class="time">2026-02-27 10:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/27/south-sudan-at-risk-of-return-to-full-scale-war-un-report-warns?traffic_source=rss" target="_blank">South Sudan at risk of ‘return to full-scale war’, UN warns</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-27 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/886021/us-military-cbp-drone-laser-texas" target="_blank">The US military reportedly shot down a CBP drone with a laser</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-27 15:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2258061457-500x500.jpg" alt="Netflix cedes Warner Bros. Discovery to Paramount: “No longer financially attractive”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/netflix-cedes-warner-bros-discovery-to-paramount-no-longer-financially-attractive/" target="_blank">Netflix cedes Warner Bros. Discovery to Paramount: “No longer financially attractive”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-27 15:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/eus_art-500x500.jpg" alt="NASA shakes up its Artemis program to speed up lunar return" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +156,29 @@
                 <span class="time">2026-02-27 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a0f4daba007c75c32383f5/master/pass/Review-%20Aventon%20Soltera%203%20Electric%20Bike.png" alt="Aventon Soltera 3 Electric Bike Review: A Fun Hybrid Single-Speed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/aventon-soltera-3-electric-bike/" target="_blank">Aventon Soltera 3 Electric Bike Review: A Fun Hybrid Single-Speed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-27 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/885866/ultrahuman-ring-pro-jade-ai-launch-price-availability" target="_blank">Ultrahuman’s new flagship smart ring has a 15-day battery life</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-27 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/from-idea-to-pull-request-a-practical-guide-to-building-with-github-copilot-cli/" target="_blank">From idea to pull request: A practical guide to building with GitHub Copilot CLI</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-02-27 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18895431&w=600" alt="Backlog Black Hole: Engineering a Semantic Triage Engine at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/semantic-triage-engine-at-scale" target="_blank">Backlog Black Hole: Engineering a Semantic Triage Engine at Scale</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-27 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/02/vercel-react-best-practices/en/headerimage/generatedHeaderImage-1772126602677.jpg" alt="Vercel Releases React Best Practices Skill with 40+ Performance Rules for AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -168,6 +186,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/02/vercel-react-best-practices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vercel Releases React Best Practices Skill with 40+ Performance Rules for AI Agents</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-02-27 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.cloudflare.com/a-better-web-streams-api/" target="_blank">We deserve a better streams API for JavaScript</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-27 14:02</span>
             </div>
         </div>
 <div class="story">
@@ -186,33 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-RISC-V-2026" target="_blank">Canonical Talks Up RISC-V This Year With Ubuntu 26.04 LTS</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-27 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/amals367/i-ship-a-lot-of-apiwebhook-integrations-heres-how-i-make-them-not-hurt-in-production-50hb" target="_blank">I ship a lot of API/webhook integrations. Here’s how I make them NOT hurt in production 🔥</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-27 13:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18896288&w=600" alt="Unified Intelligence: Mastering the Azure Databricks and Azure Machine Learning Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/unified-intelligence-mastering-the-azure-databricks-and-ml" target="_blank">Unified Intelligence: Mastering the Azure Databricks and Azure Machine Learning Integration</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-27 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/kubernetes-node-readiness/en/headerimage/generatedHeaderImage-1771832824430.jpg" alt="Kubernetes Introduces Node Readiness Controller to Improve Pod Scheduling Reliability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/kubernetes-node-readiness/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Kubernetes Introduces Node Readiness Controller to Improve Pod Scheduling Reliability</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-27 12:00</span>
             </div>
         </div>
 </div>
@@ -243,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/PS5-Pro-8--1280x853.jpg" alt="Sony’s Upscaler Could Make PS5 Pro the Console It Should Have Been at Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sonys-upscaler-could-make-ps5-pro-the-console-it-should-have-been-at-launch-2000727574" target="_blank">Sony’s Upscaler Could Make PS5 Pro the Console It Should Have Been at Launch</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-27 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/image-53-1280x720.jpg" alt="9 Details We Spotted In Pokémon Winds And Waves’ First Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-winds-waves-trailer-breakdown-presents-pikachu-2000674465" target="_blank">9 Details We Spotted In Pokémon Winds And Waves’ First Trailer</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-27 15:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KJEPEKXF9G7F3TEW2D6HW8VV/hero-image.jpg" alt="How AI Is Making Romance Scams Even More Dangerous" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,24 +295,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/27/arturia-keystep-37-mk2-mutates-your-music.html" target="_blank">Arturia KeyStep 37 mk2 mutates your music</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-27 13:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Ryan-Gosling-Starfighter-interview-1280x853.jpg" alt="Why ‘Star Wars’ Is the Franchise Ryan Gosling Finally Landed On" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/why-star-wars-is-the-franchise-ryan-gosling-finally-landed-on-2000727426" target="_blank">Why ‘Star Wars’ Is the Franchise Ryan Gosling Finally Landed On</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-27 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Image-Apple-1.jpg?fit=1080%2C742&amp;quality=60&amp;ssl=1" alt="Apple&#x27;s iPhones and iPads are the first consumer devices certified for NATO classified data without any modifications." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/27/apples-iphones-and-ipads-are-the-first-consumer-devices-certified-for-nato-classified-data-without-any-modifications.html" target="_blank">Apple&#x27;s iPhones and iPads are the first consumer devices certified for NATO classified data without any modifications.</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-27 11:01</span>
             </div>
         </div>
 </div>
@@ -334,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 15:11 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 16:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
