@@ -1,32 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-02-27 18:07:01 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-27 19:12:07 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Generated 15 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, February 27, 2026 - 18:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, February 27, 2026 - 19:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +55,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/bill-clinton-ap-jt-260226_1772143845928_hpMain_4x3t_384.jpg" alt="Bill Clinton blasts Republicans for deposing Hillary, says &#x27;I did nothing wrong&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/bill-clinton-faces-questions-house-oversight-committee-epstein/story?id=130539318" target="_blank">Bill Clinton blasts Republicans for deposing Hillary, says &#x27;I did nothing wrong&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-27 19:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/442e/live/240f7610-13fe-11f1-b048-c9424b2cf5fd.jpg" alt="Tram derails in Milan, leaving two dead and dozens injured" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y599degnqo?at_medium=RSS&at_campaign=rss" target="_blank">Tram derails in Milan, leaving two dead and dozens injured</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-27 19:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/27/israels-top-court-allows-aid-groups-facing-gaza-ban-to-continue-working?traffic_source=rss" target="_blank">Israel’s top court allows aid groups facing Gaza ban to continue working</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-27 18:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/02/27/nx-s1-5728988/hud-proposes-time-limits-work-requirements-for-rental-aid" target="_blank">HUD proposes time limits and work requirements for rental aid</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-27 17:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1772212770299_now_daily_a_clinton_testifies_epstein_260227_1920x1080-7iecng.jpg" alt="Bill Clinton denies any wrongdoing related to Jeffrey Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/bill-clinton-denies-any-wrongdoing-related-to-jeffrey-epstein-258428997803" target="_blank">Bill Clinton denies any wrongdoing related to Jeffrey Epstein</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-27 17:19</span>
             </div>
         </div>
 <div class="story">
@@ -60,47 +108,38 @@
                 <span class="time">2026-02-27 17:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/bill-clinton-ap-jt-260226_1772143845928_hpMain_4x3t_384.jpg" alt="Bill Clinton facing questions from House Oversight Committee in its Epstein probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/bill-clinton-faces-questions-house-oversight-committee-epstein/story?id=130539318" target="_blank">Bill Clinton facing questions from House Oversight Committee in its Epstein probe</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-27 16:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/27/ghana-men-killed-fight-russia-ukraine" target="_blank">Ghana says at least 55 of its people killed after Russia ‘lured’ them to fight Ukraine</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-27 16:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/27/ghana-men-killed-fight-russia-ukraine" target="_blank">At least 55 Ghanaian men killed after Russia ‘lures’ them to fight Ukraine</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-27 16:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/longform/2026/2/27/like-its-2024-again-trump-takes-centre-stage-in-2026-midterm-elections?traffic_source=rss" target="_blank">‘Like it’s 2024 again’: Trump takes centre stage in 2026 midterm elections</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-27 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/" target="_blank">Anthropic vs. the Pentagon: What’s actually at stake?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-27 19:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/886316/acting-cisa-director-replaced-madhu-gottumukkala" target="_blank">CISA is getting a new acting director after less than a year</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-27 19:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69a1b6d718bfb5f977127149/master/pass/cul-elison-2197466221.jpg" alt="Everything Larry and David Ellison Will Control if Paramount Buys Warner Bros." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/everything-the-ellison-family-will-control-if-paramount-acquires-warner-brothers-discovery/" target="_blank">Everything Larry and David Ellison Will Control if Paramount Buys Warner Bros.</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-27 19:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -128,33 +167,6 @@
                 <span class="time">2026-02-27 15:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2258061457-500x500.jpg" alt="Netflix cedes Warner Bros. Discovery to Paramount: “No longer financially attractive”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/netflix-cedes-warner-bros-discovery-to-paramount-no-longer-financially-attractive/" target="_blank">Netflix cedes Warner Bros. Discovery to Paramount: “No longer financially attractive”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-27 15:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/eus_art-500x500.jpg" alt="NASA shakes up its Artemis program to speed up lunar return" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/staff/2026/02/nasa-shakes-up-its-artemis-program-to-speed-up-lunar-return/" target="_blank">NASA shakes up its Artemis program to speed up lunar return</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-27 15:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/DSC_5638-500x500.jpg" alt="Apple says it has &quot;a big week ahead.&quot; Here&#x27;s what we expect to see." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/what-new-hardware-to-expect-from-apple-next-week/" target="_blank">Apple says it has &quot;a big week ahead.&quot; Here&#x27;s what we expect to see.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-27 13:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,9 +176,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/josephnwanna/im-building-for-the-real-mvps-of-our-economy-smes-1fd9" target="_blank">I’m Building for the Real MVPs of Our Economy, SMEs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-27 18:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Hyprland-0.54-Released" target="_blank">Hyprland 0.54 Released As A &quot;Massive&quot; Update To This Wayland Compositor</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-27 18:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yacineb_45/what-i-learned-building-a-workflow-engine-from-scratch-in-rust-2mdk" target="_blank">What I learned building a workflow engine from scratch in Rust</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-27 18:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18895443&w=600" alt="Rethinking Java Web UIs With Jakarta Faces and Quarkus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/why-choose-jakarta-faces-jakarta-ee-ui" target="_blank">Rethinking Java Web UIs With Jakarta Faces and Quarkus</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-27 18:00</span>
             </div>
         </div>
 <div class="story">
@@ -185,33 +224,6 @@
                 <span class="title"><a href="https://dzone.com/articles/why-retries-are-more-dangerous-than-failures-2" target="_blank">Why Retries Are More Dangerous Than Failures</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-27 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/from-idea-to-pull-request-a-practical-guide-to-building-with-github-copilot-cli/" target="_blank">From idea to pull request: A practical guide to building with GitHub Copilot CLI</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-02-27 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/silverstone-rm4a" target="_blank">SilverStone RM4A: 4U Rackmount Server/Workstation Chassis That&#x27;s Great For Liquid Cooling</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-27 15:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18895431&w=600" alt="Backlog Black Hole: Engineering a Semantic Triage Engine at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/semantic-triage-engine-at-scale" target="_blank">Backlog Black Hole: Engineering a Semantic Triage Engine at Scale</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-27 15:00</span>
             </div>
         </div>
 </div>
@@ -243,6 +255,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/car-wreck.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Deadly car crashes surge on days that big albums drop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/27/deadly-car-crashes-surge-on-days-that-big-albums-drop.html" target="_blank">Deadly car crashes surge on days that big albums drop</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-27 18:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJG4KMFPST9JVNNY3ES2AMA7/hero-image.png" alt="You Can Preorder the New Samsung Galaxy Buds 4 and Get Up to a $30 Amazon Gift Card" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-buds-4-preorder-deal-february-2026?utm_medium=RSS" target="_blank">You Can Preorder the New Samsung Galaxy Buds 4 and Get Up to a $30 Amazon Gift Card</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-27 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/lego-march-2026-new-releases-zelda-ocarina-of-time-1280x853.jpg" alt="Lego’s March Releases Need a Hero (of Time)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lego-march-2026-releases-zelda-smart-bricks-star-wars-2000727282" target="_blank">Lego’s March Releases Need a Hero (of Time)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-27 18:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Kash-Patel.jpg?fit=680%2C383&amp;quality=60&amp;ssl=1" alt="Kash Patel&#x27;s girlfriend defends his taxpayer-funded hockey party by yelling about transgender mice" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -269,38 +308,20 @@
                 <span class="time">2026-02-27 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJFNY2T48ANTBB9QAGFDDEQ2/hero-image.png" alt="You Can Get a $200 Amazon Gift Card With the New Samsung Galaxy S26 Ultra" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-s26-ultra-gift-card-deal-february-2026?utm_medium=RSS" target="_blank">You Can Get a $200 Amazon Gift Card With the New Samsung Galaxy S26 Ultra</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-27 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/PS5-Pro-8--1280x853.jpg" alt="Sony’s Upscaler Could Make PS5 Pro the Console It Should Have Been at Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sonys-upscaler-could-make-ps5-pro-the-console-it-should-have-been-at-launch-2000727574" target="_blank">Sony’s Upscaler Could Make PS5 Pro the Console It Should Have Been at Launch</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-27 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/image-53-1280x720.jpg" alt="9 Details We Spotted In Pokémon Winds And Waves’ First Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-winds-waves-trailer-breakdown-presents-pikachu-2000674465" target="_blank">9 Details We Spotted In Pokémon Winds And Waves’ First Trailer</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-27 15:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://assets.penny-arcade.com/news/23474.yricZlQK.jpg" alt="10,000x" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/27/10-000x" target="_blank">10,000x</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-02-27 18:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1772154403-20260227-copy.png" alt="Saturday Morning Breakfast Cereal - Pulley" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -333,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 18:07 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 159 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 19:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
