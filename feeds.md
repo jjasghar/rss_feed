@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-27 13:23:03 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-02-27 14:11:32 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 14 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, February 27, 2026 - 13:23 UTC</div>
+    <div class="newspaper-date">Friday, February 27, 2026 - 14:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/DSC_5638-500x500.jpg" alt="Apple says it has &quot;a big week ahead.&quot; Here&#x27;s what we expect to see." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/what-new-hardware-to-expect-from-apple-next-week/" target="_blank">Apple says it has &quot;a big week ahead.&quot; Here&#x27;s what we expect to see.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-27 13:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -146,20 +157,29 @@
                 <span class="time">2026-02-27 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/Neutron-Hungry-Hippo-500x500.jpg" alt="Rocket Report: Neutron launch date is delayed again; Vector Launch is back—sort of" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/02/rocket-report-neutron-launch-date-is-delayed-again-vector-launch-is-back-sort-of/" target="_blank">Rocket Report: Neutron launch date is delayed again; Vector Launch is back—sort of</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-27 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdrive.google.com%2Fthumbnail%3Fid%3D1EsR-YLqod6H2_eTZlCWf1s_glqnU_zsO%26sz%3Dw751" alt="Unpacking GitHub Actions Delays: When Self-Hosted Runners Go Idle But Workflows Stay Queued" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devactivity/unpacking-github-actions-delays-when-self-hosted-runners-go-idle-but-workflows-stay-queued-547n" target="_blank">Unpacking GitHub Actions Delays: When Self-Hosted Runners Go Idle But Workflows Stay Queued</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-27 14:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-RISC-V-2026" target="_blank">Canonical Talks Up RISC-V This Year With Ubuntu 26.04 LTS</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-27 14:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,29 +216,20 @@
                 <span class="time">2026-02-27 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/richard_charles_855e0c764/what-is-gas-optimization-and-how-it-impacts-smart-contract-performance-28a0" target="_blank">What Is Gas Optimization and How It Impacts Smart Contract Performance</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-27 10:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/secure-connectivity-api/en/mediumimage/tejas-kumar-medium-1771409050583.jpg" alt="Presentation: Platforms for Secure API Connectivity With Architecture as Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/secure-connectivity-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Platforms for Secure API Connectivity With Architecture as Code</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-27 09:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html" target="_blank">Why Tehran’s Two-Tiered Internet Is So Dangerous</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-02-27 12:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -233,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/2026_Marathon_Server_Slam_PressKit_Compressed_03-1280x720.jpg" alt="Marathon Players Debate Gorgeous But Painful UI And Ammo Shortages As Bungie Responds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marathon-ammo-pvp-ui-bungie-feedback-server-slam-2000674385" target="_blank">Marathon Players Debate Gorgeous But Painful UI And Ammo Shortages As Bungie Responds</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-27 14:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/MS-0227-Daredevil-Born-Again-1280x853.jpg" alt="‘Daredevil: Born Again’ Season 2 Will Have a Small Time Jump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/daredevil-born-again-season-2-time-jump-marvel-2000727295" target="_blank">‘Daredevil: Born Again’ Season 2 Will Have a Small Time Jump</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-27 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/Ryan-Gosling-Starfighter-interview-1280x853.jpg" alt="Why ‘Star Wars’ Is the Franchise Ryan Gosling Finally Landed On" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +296,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/26/reviewers-love-the-super-8-style-instax-mini-evo-cinema-but-not-its-price-tag-and-problems.html" target="_blank">Reviewers love the Super 8-style Instax Mini Evo Cinema, but not its price tag and problems</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-27 02:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/we-are-so-cooked-1280x720.jpg" alt="We Are So Cooked Trailer Turns Hiding A Dead Body Into A Cozy Co-op Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/we-are-so-cooked-game-trailer-2000674161" target="_blank">We Are So Cooked Trailer Turns Hiding A Dead Body Into A Cozy Co-op Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-27 01:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/ants.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Caterpillars crack ants&#x27; rhythmic code to sneak into their colonies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/26/caterpillars-crack-ants-rhythmic-code-to-sneak-into-their-colonies.html" target="_blank">Caterpillars crack ants&#x27; rhythmic code to sneak into their colonies</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-27 01:05</span>
             </div>
         </div>
 </div>
@@ -324,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 13:23 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 14:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
