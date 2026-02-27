@@ -1,29 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-27 17:09:08 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-27 18:07:01 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 10 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, February 27, 2026 - 17:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, February 27, 2026 - 18:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/27/nx-s1-5728988/hud-proposes-time-limits-work-requirements-for-rental-aid" target="_blank">HUD proposes time limits and work requirements for rental aid</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-27 17:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ea2/live/99425a60-df47-11f0-a9da-55f014b48960.jpg" alt="Teen who boasted about killing boy, 14, detained" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -61,6 +73,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/27/ghana-men-killed-fight-russia-ukraine" target="_blank">Ghana says at least 55 of its people killed after Russia ‘lured’ them to fight Ukraine</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-27 16:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
                 <span class="title"><a href="https://www.theguardian.com/world/2026/feb/27/ghana-men-killed-fight-russia-ukraine" target="_blank">At least 55 Ghanaian men killed after Russia ‘lures’ them to fight Ukraine</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-02-27 16:42</span>
@@ -75,29 +96,20 @@
                 <span class="time">2026-02-27 15:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/028d/live/78630be0-13c8-11f1-8c68-835571867502.jpg" alt="Pakistan defence minister says country in &#x27;open war&#x27; with Afghanistan after strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgjd7pv4y4o?at_medium=RSS&at_campaign=rss" target="_blank">Pakistan defence minister says country in &#x27;open war&#x27; with Afghanistan after strikes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-27 13:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/27/air-attacks-on-kabul-push-pakistan-taliban-crisis-into-uncharted-territory?traffic_source=rss" target="_blank">Air attacks on Kabul push Pakistan-Taliban crisis into uncharted territory</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-27 12:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines" target="_blank">AI vs. the Pentagon: killer robots, mass surveillance, and red lines</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-27 17:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69a099a68b4e433f4999c9c4/master/pass/Backchannel-Wall-Street-Has-AI-Psychosis-Business-2207816119.jpg" alt="Wall Street Has AI Psychosis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,20 +155,20 @@
                 <span class="time">2026-02-27 13:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/27/south-korea-opens-the-door-to-let-google-maps-operate-fully/" target="_blank">South Korea opens the door to let Google Maps operate fully</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-27 13:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yacineb_45/what-i-learned-building-a-workflow-engine-from-scratch-in-rust-2mdk" target="_blank">What I learned building a workflow engine from scratch in Rust</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-27 18:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,30 +197,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/silverstone-rm4a" target="_blank">SilverStone RM4A: 4U Rackmount Server/Workstation Chassis That&#x27;s Great For Liquid Cooling</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-27 15:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18895431&w=600" alt="Backlog Black Hole: Engineering a Semantic Triage Engine at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/semantic-triage-engine-at-scale" target="_blank">Backlog Black Hole: Engineering a Semantic Triage Engine at Scale</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-27 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/vercel-react-best-practices/en/headerimage/generatedHeaderImage-1772126602677.jpg" alt="Vercel Releases React Best Practices Skill with 40+ Performance Rules for AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/vercel-react-best-practices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vercel Releases React Best Practices Skill with 40+ Performance Rules for AI Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-27 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.cloudflare.com/a-better-web-streams-api/" target="_blank">We deserve a better streams API for JavaScript</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-27 14:02</span>
             </div>
         </div>
 </div>
@@ -240,12 +243,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Kash-Patel.jpg?fit=680%2C383&amp;quality=60&amp;ssl=1" alt="Kash Patel&#x27;s girlfriend defends his taxpayer-funded hockey party by yelling about transgender mice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/27/kash-patels-girlfriend-defends-his-taxpayer-funded-hockey-party-by-yelling-about-transgender-mice.html" target="_blank">Kash Patel&#x27;s girlfriend defends his taxpayer-funded hockey party by yelling about transgender mice</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-27 17:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/CuRetrial_20260227_111042_0000-1280x853.jpg" alt="Scientists Injected Stem Cells Into Fetuses to Treat a Birth Defect. Here’s What Happened" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/scientists-injected-stem-cells-into-fetuses-to-treat-a-birth-defect-heres-what-happened-2000727597" target="_blank">Scientists Injected Stem Cells Into Fetuses to Treat a Birth Defect. Here’s What Happened</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-27 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJB68DZYWZ38YPJE52ZQXMG2/hero-image.jpg" alt="15 Shows Like &#x27;Dark&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-dark?utm_medium=RSS" target="_blank">15 Shows Like &#x27;Dark&#x27; You Should Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-27 17:00</span>
             </div>
         </div>
 <div class="story">
@@ -273,24 +294,6 @@
                 <span class="title"><a href="https://kotaku.com/pokemon-winds-waves-trailer-breakdown-presents-pikachu-2000674465" target="_blank">9 Details We Spotted In Pokémon Winds And Waves’ First Trailer</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-27 15:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJEPEKXF9G7F3TEW2D6HW8VV/hero-image.jpg" alt="How AI Is Making Romance Scams Even More Dangerous" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/how-ai-is-making-romance-scams-even-more-dangerous?utm_medium=RSS" target="_blank">How AI Is Making Romance Scams Even More Dangerous</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-27 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/2026_Marathon_Server_Slam_PressKit_Compressed_03-1280x720.jpg" alt="Marathon Players Debate Gorgeous But Painful UI And Ammo Shortages As Bungie Responds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marathon-ammo-pvp-ui-bungie-feedback-server-slam-2000674385" target="_blank">Marathon Players Debate Gorgeous But Painful UI And Ammo Shortages As Bungie Responds</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-27 14:01</span>
             </div>
         </div>
 </div>
@@ -330,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 17:09 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 18:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
