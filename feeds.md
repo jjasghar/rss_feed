@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-27 11:09:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-27 12:05:11 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, February 27, 2026 - 11:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, February 27, 2026 - 12:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/head-to-head/2026/2/27/behind-the-myths-of-the-british-empire-nigel-biggar-and-mehdi-hasan?traffic_source=rss" target="_blank">Behind the myths of the British Empire: Nigel Biggar and Mehdi Hasan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-27 11:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3fe/live/542ab260-13c7-11f1-8c68-835571867502.jpg" alt="What we know after latest escalation in Pakistan-Afghanistan tensions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,21 +94,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/678f/live/43f33590-13ca-11f1-801d-ed3cff6bf876.jpg" alt="From plumber to Parliament, who is the Green Party&#x27;s new MP?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/02/27/g-s1-111346/madison-wisconsin-frozen-assets-festival" target="_blank">This community festival embraces the joys of a frozen lake — while it still has one</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-27 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/27/pakistan-strikes-kabul-declares-open-war-on-afghanistan-following-clashe?traffic_source=rss" target="_blank">Pakistan strikes Kabul, declares ‘open war’ on Afghanistan following clashe</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-27 07:21</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwygp3dqenwo?at_medium=RSS&at_campaign=rss" target="_blank">From plumber to Parliament, who is the Green Party&#x27;s new MP?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-27 09:56</span>
             </div>
         </div>
 </div>
@@ -107,6 +107,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/885866/ultrahuman-ring-pro-jade-ai-launch-price-availability" target="_blank">Ultrahuman’s new flagship smart ring has a 15-day battery life</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-27 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/Neutron-Hungry-Hippo-500x500.jpg" alt="Rocket Report: Neutron launch date is delayed again; Vector Launch is back—sort of" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/02/rocket-report-neutron-launch-date-is-delayed-again-vector-launch-is-back-sort-of/" target="_blank">Rocket Report: Neutron launch date is delayed again; Vector Launch is back—sort of</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-27 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +159,6 @@
                 <span class="title"><a href="https://www.wired.com/story/lowes-promo-code/" target="_blank">Lowe’s Promo Codes and Deals: Up to $300 Off Appliances</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-27 06:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a0d9524a77d405a11503a1/master/pass/Latest-Repair-Battlefield-is-Iowa-Farmlands-Again-Gear-2192165992.jpg" alt="The Latest Repair Battlefield Is the Iowa Farmlands—Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/latest-repair-battlefield-iowa-farmlands-again/" target="_blank">The Latest Repair Battlefield Is the Iowa Farmlands—Again</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-27 01:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a070265fd6da9c76c63408/master/pass/Aspect%20Ratio.jpg" alt="Hands-On With Nano Banana 2, the Latest Version of Google&#x27;s AI Image Generator" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/" target="_blank">Hands-On With Nano Banana 2, the Latest Version of Google&#x27;s AI Image Generator</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-27 00:01</span>
             </div>
         </div>
 </div>
@@ -229,6 +229,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/phishing-attacks-against-people-seeking-programming-jobs.html" target="_blank">Phishing Attacks Against People Seeking Programming Jobs</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-02-27 12:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/llms-generate-predictable-passwords.html" target="_blank">LLMs Generate Predictable Passwords</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-02-26 12:07</span>
@@ -239,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Image-Apple-1.jpg?fit=1080%2C742&amp;quality=60&amp;ssl=1" alt="Apple&#x27;s iPhones and iPads are the first consumer devices certified for NATO classified data without any modifications." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/27/apples-iphones-and-ipads-are-the-first-consumer-devices-certified-for-nato-classified-data-without-any-modifications.html" target="_blank">Apple&#x27;s iPhones and iPads are the first consumer devices certified for NATO classified data without any modifications.</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-27 11:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/RESIDENT-EVIL-requiem_20260214172838-1280x720.jpg" alt="How To Get Resident Evil Requiem’s True Ending" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +302,6 @@
                 <span class="time">2026-02-27 00:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/image-3-1-1280x691.jpg" alt="Warner Bros. Discovery Deems Paramount’s New Takeover Offer ‘Superior,’ Netflix Backs Out Of Bidding" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/warner-bros-discovery-paramount-superior-offer-netflix-2000674134" target="_blank">Warner Bros. Discovery Deems Paramount’s New Takeover Offer ‘Superior,’ Netflix Backs Out Of Bidding</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-27 00:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 11:09 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 12:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
