@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-27 09:11:25 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-02-27 10:09:41 UTC -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, February 27, 2026 - 09:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, February 27, 2026 - 10:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/27/g-s1-111606/olympics-flavor-flav-anthropic-survivor-punch" target="_blank">Forget the State of the Union. What&#x27;s the state of your quiz score?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-27 10:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +98,20 @@
                 <span class="time">2026-02-27 06:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-zelenskyy-volodymyr_7176396.jpg?20260227062857" alt="Zelenskyy tells Sky News the US has the power to end the war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/ukraines-volodymyr-zelenskyy-tells-sky-news-hes-ready-to-meet-putin-for-peace-talks-but-wont-give-up-territory-13512799" target="_blank">Zelenskyy tells Sky News the US has the power to end the war</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-27 05:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69a09a819c841fa3ea520edd/master/pass/Google%20Pixel%2010a%20SOURCE%20Julian%20Chokkattu.jpg" alt="Preorder Google’s Newest Phone and Get a Free $100 Gift Card" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/google-pixel-10a-gift-card-february-2026/" target="_blank">Preorder Google’s Newest Phone and Get a Free $100 Gift Card</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-27 09:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +157,29 @@
                 <span class="time">2026-02-26 23:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/26/netflix-backs-out-of-bid-for-warner-bros-discovery-giving-studios-hbo-and-cnn-to-ellison-owned-paramount/" target="_blank">Netflix backs out of bid for Warner Bros. Discovery, giving studios, HBO, and CNN to Ellison-owned Paramount</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-26 23:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/richard_charles_855e0c764/what-is-gas-optimization-and-how-it-impacts-smart-contract-performance-28a0" target="_blank">What Is Gas Optimization and How It Impacts Smart Contract Performance</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-27 10:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/secure-connectivity-api/en/mediumimage/tejas-kumar-medium-1771409050583.jpg" alt="Presentation: Platforms for Secure API Connectivity With Architecture as Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/secure-connectivity-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Platforms for Secure API Connectivity With Architecture as Code</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-27 09:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/siddhesh_surve/the-era-of-chatbots-is-over-why-perplexity-computer-just-redefined-ai-orchestration-2g2b" target="_blank">🚨 The Era of &quot;Chatbots&quot; is Over: Why Perplexity Computer Just Redefined AI Orchestration</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-27 04:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/richied5/i-built-an-ai-contract-scanner-for-freelancers-in-a-day-it-just-caught-a-52000-trap-in-a-15000-nd0" target="_blank">I built an AI contract scanner for freelancers in a day, it just caught a $52,000 trap in a $15,000 contract</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-27 03:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/05/kinetic-kudu-ubuntu-download.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 Snapshot 4 is now available to download" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/ubuntu-2604-snapshot-4-download" target="_blank">Ubuntu 26.04 Snapshot 4 is now available to download</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-27 01:39</span>
             </div>
         </div>
 </div>
@@ -330,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 09:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 10:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
