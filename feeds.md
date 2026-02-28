@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-28 03:33:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-28 04:23:24 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, February 28, 2026 - 03:33 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, February 28, 2026 - 04:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c11/live/a930bc20-143d-11f1-801d-ed3cff6bf876.jpg" alt="Bill Clinton asked about hot tub photo and testifies he knew &#x27;nothing&#x27; of Epstein crimes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg345qvld5o?at_medium=RSS&at_campaign=rss" target="_blank">Bill Clinton asked about hot tub photo and testifies he knew &#x27;nothing&#x27; of Epstein crimes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-28 03:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +101,20 @@
                 <span class="time">2026-02-27 23:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/27/brazil-flooding-death-toll-rises-to-64-as-search-efforts-continue?traffic_source=rss" target="_blank">Brazil flooding death toll rises to 64 as search efforts continue</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-27 23:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/" target="_blank">India disrupts access to popular developer platform Supabase with blocking order</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-28 03:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +158,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/" target="_blank">OpenAI fires employee for using confidential info on prediction markets</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-27 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-79075226-500x500.jpg" alt="Under a Paramount-WBD merger, two struggling media giants would unite" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/under-a-paramount-wbd-merger-two-struggling-media-giants-would-unite/" target="_blank">Under a Paramount-WBD merger, two struggling media giants would unite</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-27 22:39</span>
             </div>
         </div>
 </div>
@@ -354,7 +357,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 31 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 03:33 UTC
+        🔄 Last Updated: 04:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
