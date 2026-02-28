@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-28 17:01:50 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-28 18:02:10 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, February 28, 2026 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, February 28, 2026 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/28/pakistan-edge-last-ball-thriller-against-sri-lanka-but-exit-t20-world-cup?traffic_source=rss" target="_blank">Pakistan edge last-ball thriller against Sri Lanka but exit T20 World Cup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-28 17:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +101,29 @@
                 <span class="time">2026-02-28 15:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/28/scenes-of-destruction-in-iran-after-us-israeli-strikes?traffic_source=rss" target="_blank">Scenes of destruction in Iran after US-Israeli strikes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-28 14:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/" target="_blank">OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-28 16:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/886520/bose-quietcomfort-headphones-samsung-galaxy-s26-ultra-deal-sale" target="_blank">You can still grab great deals on Bose headphones and Astro Bot this weekend</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-28 16:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69a1fc5ccd255f245e966b8e/master/pass/sci-artemis2-2256758081.jpg" alt="NASA Is Making Big Changes to Speed Up the Artemis Program" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +160,29 @@
                 <span class="time">2026-02-28 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a25bc28fe42fcd6044ab2f/master/pass/Xiaomi%20Leitzphone%20with%20Photography%20Kit%202%20%20SOURCE%20Simon%20Hill.jpg" alt="Review: Xiaomi 17 Ultra and Leitzphone Pack Leica Magic Into a Flagship Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/xiaomi-17-ultra-leitzphone/" target="_blank">Review: Xiaomi 17 Ultra and Leitzphone Pack Leica Magic Into a Flagship Phone</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-28 14:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/884567/xiaomi-tag-tracker-apple-find-my-google-hub-bluetooth" target="_blank">Xiaomi’s tracker doesn’t need a case to clip to your keys</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-28 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/data-center-game/" target="_blank">I&amp;#x27;m Low-key Hyped for This Data Center Sim (Though It Has No Official Linux Support)</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-28 17:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Perf-AMD-IBS-Zen-6" target="_blank">AMD Prepares Linux For Instruction-Based Sampling Improvements With Zen 6</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-28 16:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0knww9z2qnuhlux31mul.png" alt="Database Indexing Made Easy: SQL vs MongoDB" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,24 +219,6 @@
                 <span class="time">2026-02-28 15:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbq2qcvq54obdnlomky1m.png" alt="Finding a Lightweight Desktop on Gentoo: XFCE Experience and Setup" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/retro-1o1/finding-a-lightweight-desktop-on-gentoo-xfce-experience-and-setup-2786" target="_blank">Finding a Lightweight Desktop on Gentoo: XFCE Experience and Setup</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-28 14:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/_b8d89ece3338719863cb03/decision-minimalism-the-case-for-making-fewer-choices-4d54" target="_blank">Decision Minimalism: The Case for Making Fewer Choices</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-28 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/12/0841549f1b9d0a590b2eed1da59933b4-1280x720.jpg" alt="Legend Of Zelda Actor Has Thoughts On The Live-Action Movie And Whether Link And Zelda Are Dating" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/legend-zelda-dating-link-patricia-summersett-movie-2000674766" target="_blank">Legend Of Zelda Actor Has Thoughts On The Live-Action Movie And Whether Link And Zelda Are Dating</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-28 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Sinners_song-1280x853.jpg" alt="‘Sinners’ Gets an NPR Tiny Desk Concert That’s So Damn Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sinners-gets-an-npr-tiny-desk-concert-thats-so-damn-good-2000728030" target="_blank">‘Sinners’ Gets an NPR Tiny Desk Concert That’s So Damn Good</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-28 17:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/opera-rewind-30th-1280x853.jpg" alt="Opera Has Turned 30—and Is Celebrating With a Compelling Tribute to Web Nostalgia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,29 +301,20 @@
                 <span class="time">2026-02-28 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/shokz-openfit-pro-review-02-1280x853.jpg" alt="Shokz OpenFit Pro Review: Open Earbuds With the One Thing You’ve Always Wanted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/shokz-openfit-pro-review-open-earbuds-with-the-one-thing-youve-always-wanted-2000727232" target="_blank">Shokz OpenFit Pro Review: Open Earbuds With the One Thing You’ve Always Wanted</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-28 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/IMG_1996-1280x720.jpg" alt="Ranking Leon’s Amazing One-Liners In Resident Evil Requiem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/resident-evil-requiem-leon-kennedy-quotes-jokes-2000674556" target="_blank">Ranking Leon’s Amazing One-Liners In Resident Evil Requiem</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-28 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1772154450-20260228.png" alt="Saturday Morning Breakfast Cereal - Fund" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/fund" target="_blank">Saturday Morning Breakfast Cereal - Fund</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-02-28 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://assets.penny-arcade.com/news/23474.yricZlQK.jpg" alt="10,000x" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -322,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
