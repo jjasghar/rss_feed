@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-28 02:44:36 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-28 03:33:39 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, February 28, 2026 - 02:44 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, February 28, 2026 - 03:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +51,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/28/trump-administration-charges-30-more-people-for-minnesota-church-protest?traffic_source=rss" target="_blank">Trump administration charges 30 more people for Minnesota church protest</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-28 01:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-bolivia-plane-crash_7177297.jpg?20260228013920" alt="At least 15 killed after military plane crashes on to busy road in Bolivia - officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/15-killed-after-military-plane-crashes-on-to-busy-road-in-bolivia-reports-13513193" target="_blank">At least 15 killed after military plane crashes on to busy road in Bolivia - officials</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-28 00:32</span>
             </div>
         </div>
 <div class="story">
@@ -93,15 +98,6 @@
                 <span class="time">2026-02-27 23:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/luigi-mangione-1-rt-gmh-260206_1770383877392_hpMain_4x3t_384.jpg" alt="Luigi Mangione case: Ruling that took death penalty off table won&#x27;t be appealed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/federal-prosecutors-luigi-mangione-case-appeal-ruling-death/story?id=130579220" target="_blank">Luigi Mangione case: Ruling that took death penalty off table won&#x27;t be appealed</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-27 22:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,6 +110,15 @@
                 <span class="title"><a href="https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff" target="_blank">Defense secretary Pete Hegseth designates Anthropic a supply chain risk</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-28 02:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-500x500-1772240635.jpg" alt="Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/" target="_blank">Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-28 01:26</span>
             </div>
         </div>
 <div class="story">
@@ -152,20 +157,20 @@
                 <span class="time">2026-02-27 22:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a20ae5eb0d16f48f12ac6f/master/pass/Our%20Favorite%20Electric%20Scooters%20Just%20Dropped%20in%20Price.png" alt="These Deals Can Have You Zipping Around on a New E-Scooter This Spring" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/electric-scooters-spring-deals-2026/" target="_blank">These Deals Can Have You Zipping Around on a New E-Scooter This Spring</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-27 21:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/timothy_imanuel_35225c051/week-3-3e1a" target="_blank">Week 3</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-28 03:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="From Code to Connection: Automating the Story of Our Craft with ForkToPost" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +214,6 @@
                 <span class="title"><a href="https://twitter.com/secwar/status/2027507717469049070" target="_blank">I am directing the Department of War to designate Anthropic a supply-chain risk</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-27 22:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18896331&w=600" alt="Mastering the AWS Well-Architected AI Stack: A Deep Dive into ML, GenAI, and Sustainability Lenses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/mastering-the-aws-well-architected-ai-stack-deep-dive" target="_blank">Mastering the AWS Well-Architected AI Stack: A Deep Dive into ML, GenAI, and Sustainability Lenses</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-27 20:00</span>
             </div>
         </div>
 </div>
@@ -267,6 +263,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Dai-Dark-Dorohedoro-Q-Hayashida-io9-template-circle-2-1280x853.jpg" alt="If You Love ‘Chainsaw Man,’ You Should Read ‘Dorohedoro’ and ‘Dai Dark’ Immediately" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/if-you-love-chainsaw-man-you-should-read-dorohedoro-and-dai-dark-immediately-2000727701" target="_blank">If You Love ‘Chainsaw Man,’ You Should Read ‘Dorohedoro’ and ‘Dai Dark’ Immediately</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-27 23:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -300,15 +305,6 @@
                 <span class="title"><a href="https://kotaku.com/stardew-valley-clint-marriage-1-7-update-2000674574" target="_blank">Stardew Valley Fans Aren’t Holding Back About How Much They Hate This Guy</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-27 22:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/switch-pink-bg-1280x712.jpg" alt="Pokémon Sapphire And Ruby ROM Support Found In FireRed/LeafGreen Switch Files, Dataminer Claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-saphire-ruby-emerald-switch-2-datamine-2000674544" target="_blank">Pokémon Sapphire And Ruby ROM Support Found In FireRed/LeafGreen Switch Files, Dataminer Claims</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-27 21:31</span>
             </div>
         </div>
 </div>
@@ -357,8 +353,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 02:44 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 03:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
