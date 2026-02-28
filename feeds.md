@@ -1,30 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-28 19:03:23 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing 54 RSS feeds at 2026-02-28 20:02:04 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, February 28, 2026 - 19:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, February 28, 2026 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/missile-flag-ht-jt-260228_1772304410914_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump tells ABC News &#x27;a lot&#x27; of Iranian leadership gone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: Trump tells ABC News &#x27;a lot&#x27; of Iranian leadership gone</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-28 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,15 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/28/nx-s1-5678603/iran-strikes-oil-energy-markets" target="_blank">How could the U.S. strikes in Iran affect the world&#x27;s oil supply?</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-28 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d880/live/eff33b90-148f-11f1-9120-a910fc22c6ac.jpg" alt="UK planes &#x27;in the sky&#x27; in Middle East as part of defensive operation, PM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c20l1v0ldqzo?at_medium=RSS&at_campaign=rss" target="_blank">UK planes &#x27;in the sky&#x27; in Middle East as part of defensive operation, PM says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-28 15:21</span>
             </div>
         </div>
 </div>
@@ -161,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://uwplse.org/2026/02/24/egglog-containers.html" target="_blank">Custom Data Structures in E-Graphs</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-02-28 19:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/data-center-game/" target="_blank">I&amp;#x27;m Low-key Hyped for This Data Center Sim (Though It Has No Official Linux Support)</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
@@ -203,15 +214,6 @@
                 <span class="time">2026-02-28 15:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-DC8200-Coreboot-FB" target="_blank">Verisilicon DC8200 &amp; Coreboot Framebuffer Drivers Sent To DRM-Next For Linux 7.1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-28 15:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/marlon-wayans-scary-movie-1280x853.jpg" alt="Watch Marlon Wayans React to His ‘Scary Movie 6’ Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/watch-marlon-wayans-react-to-his-scary-movie-6-trailer-2000728002" target="_blank">Watch Marlon Wayans React to His ‘Scary Movie 6’ Trailer</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-28 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/red-alert.jpg" alt="Polymarket Bravely Defends Betting On World War 3 As A Valuable Public Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/polymarket-ww3-bomb-iran-trum-prediction-market-2000674772" target="_blank">Polymarket Bravely Defends Betting On World War 3 As A Valuable Public Service</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-28 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2023/12/0841549f1b9d0a590b2eed1da59933b4-1280x720.jpg" alt="Legend Of Zelda Actor Has Thoughts On The Live-Action Movie And Whether Link And Zelda Are Dating" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +296,6 @@
                 <span class="time">2026-02-28 16:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/snake-eyes-gi-joe-1280x853.jpg" alt="Paramount’s New ‘G.I. Joe’ Movie Plans Sound Dumb as Hell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/paramount-gi-joe-movie-max-landis-2000727778" target="_blank">Paramount’s New ‘G.I. Joe’ Movie Plans Sound Dumb as Hell</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-28 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/ss_78e7f5f204507e79ef2014dfe6afc8e7f402d6ad.1920x1080-1280x720.jpg" alt="One Of Steam’s Most Popular Demos Is Helldivers With Robot Cowboys And It’s Awesome" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/far-far-west-helldivers-robot-cowboy-demo-co-op-steam-next-fest-pc-review-2000674562" target="_blank">One Of Steam’s Most Popular Demos Is Helldivers With Robot Cowboys And It’s Awesome</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-28 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 286 |
-        🔄 Last Updated: 19:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 288 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
