@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-28 04:23:24 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-28 05:10:28 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, February 28, 2026 - 04:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, February 28, 2026 - 05:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/28/ramadan-in-yemens-aden-optimism-dimmed-by-tensions-and-shortages?traffic_source=rss" target="_blank">Ramadan in Yemen’s Aden: Optimism dimmed by tensions and shortages</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-28 04:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c11/live/a930bc20-143d-11f1-801d-ed3cff6bf876.jpg" alt="Bill Clinton asked about hot tub photo and testifies he knew &#x27;nothing&#x27; of Epstein crimes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +99,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/vance-set-meet-omanis-iran-chance-yearslong-war/story?id=130561147" target="_blank">Trump says he hasn&#x27;t made a final decision on Iran, &#x27;not happy&#x27; with current talks</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-28 00:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1772235646376_nn_rno_former_president_bill_clinton_testifies_in_epstein_investigation_260227_1920x1080-s4rd2r.jpg" alt="Former President Bill Clinton testifies in Epstein investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/former-president-bill-clinton-testifies-in-epstein-investigation-258453061768" target="_blank">Former President Bill Clinton testifies in Epstein investigation</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-27 23:40</span>
             </div>
         </div>
 </div>
@@ -342,22 +342,13 @@
                 <span class="time">2026-02-27 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/dental_formulas.png" alt="Dental Formulas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3213/" target="_blank">Dental Formulas</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-02-27 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 04:23 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 05:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
