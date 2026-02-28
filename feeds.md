@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-27 23:03:03 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-02-28 00:06:18 UTC -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, February 27, 2026 - 23:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, February 28, 2026 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/27/brazil-flooding-death-toll-rises-to-64-as-search-efforts-continue?traffic_source=rss" target="_blank">Brazil flooding death toll rises to 64 as search efforts continue</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-27 23:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/luigi-mangione-1-rt-gmh-260206_1770383877392_hpMain_4x3t_384.jpg" alt="Luigi Mangione case: Ruling that took death penalty off table won&#x27;t be appealed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +102,6 @@
                 <span class="time">2026-02-27 19:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/27/i-did-nothing-wrong-bill-clinton-testifies-in-house-epstein-inquiry?traffic_source=rss" target="_blank">‘I did nothing wrong’: Bill Clinton testifies in House Epstein inquiry</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-27 19:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,10 +110,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/886656/nasa-artemis-moon-landing-delayed-2028" target="_blank">NASA is pushing back its plans for a Moon landing</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-27 23:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/" target="_blank">OpenAI fires employee for using confidential info on prediction markets</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-27 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-79075226-500x500.jpg" alt="Under a Paramount-WBD merger, two struggling media giants would unite" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/under-a-paramount-wbd-merger-two-struggling-media-giants-would-unite/" target="_blank">Under a Paramount-WBD merger, two struggling media giants would unite</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-27 22:39</span>
             </div>
         </div>
 <div class="story">
@@ -141,29 +161,29 @@
                 <span class="time">2026-02-27 20:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/" target="_blank">Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-27 19:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a15254557a18dd5b8f3939/master/pass/What-Is-An-Ebike-Gear-2242247597.jpg" alt="What&#x27;s an E-Bike? California Wants You to Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/what-is-an-e-bike-california-might-find-out/" target="_blank">What&#x27;s an E-Bike? California Wants You to Know</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-27 19:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rdatwd/on-ai-and-other-drugs-5hm2" target="_blank">On AI and Other Drugs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-28 00:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://twitter.com/secwar/status/2027507717469049070" target="_blank">I am directing the Department of War to designate Anthropic a supply-chain risk</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-27 22:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +218,6 @@
                 <span class="title"><a href="https://pseudosingleton.com/leaving-google-improved-my-life/" target="_blank">Leaving Google has actively improved my life</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-27 19:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18895450&w=600" alt="Hot Data: Where Real-Time Insight Begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/hot-data-where-real-time-insight-begins" target="_blank">Hot Data: Where Real-Time Insight Begins</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-27 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/josephnwanna/im-building-for-the-real-mvps-of-our-economy-smes-1fd9" target="_blank">I’m Building for the Real MVPs of Our Economy, SMEs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-27 18:59</span>
             </div>
         </div>
 </div>
@@ -255,6 +257,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-27 23:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/magnesium.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Magnesium helps migraines but the rest of the hype is shaky" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -298,15 +309,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/27/red-dwarf-co-creator-rob-grant-dead-at-70.html" target="_blank">Red Dwarf co-creator Rob Grant dead at 70</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-27 21:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/First_glimpse_of_comet_3I_ATLAS_from_Juice_science_camera-1280x853.jpg" alt="Jupiter Mission Captures Rare Shot of Interstellar Comet 3I/Atlas on Its Way Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/jupiter-probe-spots-interstellar-comet-spewing-gas-and-dust-2000727797" target="_blank">Jupiter Mission Captures Rare Shot of Interstellar Comet 3I/Atlas on Its Way Out</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-27 20:50</span>
             </div>
         </div>
 </div>
@@ -364,8 +366,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 152 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 23:03 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
