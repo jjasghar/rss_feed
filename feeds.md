@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-28 16:02:07 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-28 17:01:50 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 12 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, February 28, 2026 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, February 28, 2026 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +50,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/28/mapping-us-and-israeli-attacks-on-iran-and-tehrans-retaliatory-strikes?traffic_source=rss" target="_blank">Mapping US and Israeli attacks on Iran and Tehran’s retaliatory strikes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-28 16:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/israel-smoke-tehran_1772261343732_hpMain_4x3t_384.jpg" alt="Iran live updates: Announcing &#x27;major&#x27; US operation, Trump calls for regime change" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: Announcing &#x27;major&#x27; US operation, Trump calls for regime change</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-28 15:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a493/live/cddc4960-14b8-11f1-801d-ed3cff6bf876.jpg" alt="Inside Iran, panic as strikes hit but for some it&#x27;s a moment of relief" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c05v8jzjn40o?at_medium=RSS&at_campaign=rss" target="_blank">Inside Iran, panic as strikes hit but for some it&#x27;s a moment of relief</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-28 15:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/28/nx-s1-5678603/iran-strikes-oil-energy-markets" target="_blank">How could the U.S. strikes in Iran affect the world&#x27;s oil supply?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-28 15:30</span>
             </div>
         </div>
 <div class="story">
@@ -74,38 +103,20 @@
                 <span class="time">2026-02-28 14:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/28/g-s1-112026/why-is-the-u-s-attacking-iran" target="_blank">Why is the U.S. attacking Iran? Six things to know</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-28 14:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dea/live/4d759f00-1496-11f1-94cd-7564c887587c.jpg" alt="Iran says it has hit US base in Bahrain, as it launches strikes across region" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&at_campaign=rss" target="_blank">Iran says it has hit US base in Bahrain, as it launches strikes across region</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-28 13:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/28/nx-s1-5721775/opinion-the-chicago-bears-of-indiana" target="_blank">Opinion: The Chicago Bears of Indiana</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-28 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69a1fc5ccd255f245e966b8e/master/pass/sci-artemis2-2256758081.jpg" alt="NASA Is Making Big Changes to Speed Up the Artemis Program" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nasa-is-making-big-changes-to-speed-up-the-artemis-program/" target="_blank">NASA Is Making Big Changes to Speed Up the Artemis Program</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-28 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69a2ffd3d16e57b38c5e2d9a/master/pass/2263468713" alt="This Is the System That Intercepted Iran&#x27;s Missiles Over the UAE" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +162,20 @@
                 <span class="time">2026-02-28 14:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/885432/reigns-the-witcher-interview-steam-iphone-android" target="_blank">The Witcher is a perfect fit for Reigns’ Tinder-like roleplaying</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-28 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0knww9z2qnuhlux31mul.png" alt="Database Indexing Made Easy: SQL vs MongoDB" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/satishjaiswal/database-indexing-made-easy-sql-vs-mongodb-2cgp" target="_blank">Database Indexing Made Easy: SQL vs MongoDB</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-28 16:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +221,6 @@
                 <span class="time">2026-02-28 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/linux-lts-kernel-support-extension/" target="_blank">Your Linux LTS Kernel Will Be Supported Longer Than You Thought</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-28 12:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +249,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/opera-rewind-30th-1280x853.jpg" alt="Opera Has Turned 30—and Is Celebrating With a Compelling Tribute to Web Nostalgia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/opera-has-turned-30-and-is-celebrating-with-a-compelling-tribute-to-web-nostalgia-2000725245" target="_blank">Opera Has Turned 30—and Is Celebrating With a Compelling Tribute to Web Nostalgia</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-28 16:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/From-the-Twin-Peaks-generator.jpg?fit=1080%2C810&amp;quality=60&amp;ssl=1" alt="Twin Peaks opening title generator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/28/twin-peaks-opening-title-generator.html" target="_blank">Twin Peaks opening title generator</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-28 16:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/snake-eyes-gi-joe-1280x853.jpg" alt="Paramount’s New ‘G.I. Joe’ Movie Plans Sound Dumb as Hell" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,24 +303,6 @@
                 <span class="time">2026-02-28 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Best-Gadgets-Feb-2026-from-Keleops-USA-1280x853.jpg" alt="The Best Gadgets of February 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/best-gadgets-february-2026-2000727661" target="_blank">The Best Gadgets of February 2026</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-28 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/brandon-carnahan-2.webp?fit=764%2C432&amp;quality=55&amp;ssl=1" alt="LAPD officer charged with disability fraud after skydiving adventures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/27/lapd-officer-disability.html" target="_blank">LAPD officer charged with disability fraud after skydiving adventures</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-28 00:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,22 +317,13 @@
                 <span class="time">2026-02-27 18:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1772154403-20260227-copy.png" alt="Saturday Morning Breakfast Cereal - Pulley" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/pulley" target="_blank">Saturday Morning Breakfast Cereal - Pulley</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-02-27 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
