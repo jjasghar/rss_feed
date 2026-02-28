@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-28 20:02:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-28 21:01:25 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, February 28, 2026 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, February 28, 2026 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +45,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/28/irans-supreme-leader-ali-khamenei-killed-in-us-israeli-attacks-reports?traffic_source=rss" target="_blank">Iran’s Supreme Leader Ali Khamenei killed in US-Israeli attacks: Reports</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-28 20:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/missile-flag-ht-jt-260228_1772304410914_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump tells ABC News &#x27;a lot&#x27; of Iranian leadership gone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: Trump tells ABC News &#x27;a lot&#x27; of Iranian leadership gone</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-28 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/28/nx-s1-5730372/one-year-of-failure-the-lancet-slams-rfk-jr-s-first-year-as-health-chief" target="_blank">&#x27;One year of failure.&#x27; The Lancet slams RFK Jr.&#x27;s first year as health chief</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-28 19:16</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +98,29 @@
                 <span class="time">2026-02-28 15:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a493/live/cddc4960-14b8-11f1-801d-ed3cff6bf876.jpg" alt="Inside Iran, panic as strikes hit but for some it&#x27;s a moment of relief" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c05v8jzjn40o?at_medium=RSS&at_campaign=rss" target="_blank">Inside Iran, panic as strikes hit but for some it&#x27;s a moment of relief</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-28 15:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/28/nx-s1-5678603/iran-strikes-oil-energy-markets" target="_blank">How could the U.S. strikes in Iran affect the world&#x27;s oil supply?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-28 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/887040/polymarket-iran-war-betting-invaluable" target="_blank">Polymarket defends its decision to allow betting on war as ‘invaluable’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-28 20:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/" target="_blank">The billion-dollar infrastructure deals powering the AI boom</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-28 20:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,24 +155,6 @@
                 <span class="title"><a href="https://www.wired.com/story/uae-missile-intercept-system-iran/" target="_blank">This Is the System That Intercepted Iran&#x27;s Missiles Over the UAE</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-28 15:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/28/xiaomi-launches-17-ultra-smartphone-an-airtag-clone-and-an-ultra-slim-powerbank/" target="_blank">Xiaomi launches 17 Ultra smartphone, an AirTag clone, and an ultra slim powerbank</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-28 15:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/" target="_blank">Why China’s humanoid robot industry is winning the early market</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-28 15:00</span>
             </div>
         </div>
 </div>
@@ -243,6 +245,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/unisex-garment-dyed-heavyweight-t-shirt-black-front-2-699f7e646dfa6.webp?fit=600%2C600&amp;quality=55&amp;ssl=1" alt="LA Metro wants you to &quot;Ride the D&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/28/la-metro-wants-you-to-ride-the-d.html" target="_blank">LA Metro wants you to &quot;Ride the D&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-28 20:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_1261474762-1280x853.jpg" alt="Minnesota Lawmakers and Police Seek Complete Ban on Crypto ATMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/minnesota-lawmakers-and-police-seek-complete-ban-on-crypto-atms-2000728132" target="_blank">Minnesota Lawmakers and Police Seek Complete Ban on Crypto ATMs</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-28 20:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/marlon-wayans-scary-movie-1280x853.jpg" alt="Watch Marlon Wayans React to His ‘Scary Movie 6’ Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -278,24 +298,6 @@
                 <span class="time">2026-02-28 17:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/opera-rewind-30th-1280x853.jpg" alt="Opera Has Turned 30—and Is Celebrating With a Compelling Tribute to Web Nostalgia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/opera-has-turned-30-and-is-celebrating-with-a-compelling-tribute-to-web-nostalgia-2000725245" target="_blank">Opera Has Turned 30—and Is Celebrating With a Compelling Tribute to Web Nostalgia</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-28 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/From-the-Twin-Peaks-generator.jpg?fit=1080%2C810&amp;quality=60&amp;ssl=1" alt="Twin Peaks opening title generator" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/28/twin-peaks-opening-title-generator.html" target="_blank">Twin Peaks opening title generator</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-28 16:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 288 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 288 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
