@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-28 06:04:02 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-28 07:06:40 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 31 feeds processed -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, February 28, 2026 - 06:04 UTC</div>
+    <div class="newspaper-date">Saturday, February 28, 2026 - 07:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Israel launches preemptive strike against Iran: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Israel launches preemptive strike against Iran: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-28 07:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,15 +98,6 @@
                 <span class="time">2026-02-28 00:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-breaking-breaking-news_7042253.png?20251231104834" alt="15 killed after military plane crashes on to busy road in Bolivia - reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/15-killed-after-military-plane-crashes-on-to-busy-road-in-bolivia-reports-13513193" target="_blank">15 killed after military plane crashes on to busy road in Bolivia - reports</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-28 00:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -116,6 +110,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/" target="_blank">India disrupts access to popular developer platform Supabase with blocking order</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-28 03:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69a23b028618f79c55732aa9/master/pass/Anthropic-Supply-Chain-Risk-Business-2261589216.jpg" alt="Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/" target="_blank">Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-28 03:30</span>
             </div>
         </div>
 <div class="story">
@@ -152,15 +155,6 @@
                 <span class="title"><a href="https://www.theverge.com/science/886656/nasa-artemis-moon-landing-delayed-2028" target="_blank">NASA is pushing back its plans for a Moon landing</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-27 23:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/" target="_blank">OpenAI fires employee for using confidential info on prediction markets</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-27 23:00</span>
             </div>
         </div>
 </div>
@@ -351,7 +345,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 06:04 UTC
+        🔄 Last Updated: 07:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
