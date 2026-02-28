@@ -1,43 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-28 12:02:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-28 13:13:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 34 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, February 28, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, February 28, 2026 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,6 +49,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/28/nx-s1-5721775/opinion-the-chicago-bears-of-indiana" target="_blank">Opinion: The Chicago Bears of Indiana</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-28 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/02/28/nx-s1-5726425/nc-primary-election-foushee-allam" target="_blank">North Carolina Democrats latest to chart future of the party in congressional primary</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-28 12:00</span>
@@ -69,6 +70,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c20l1v0ldqzo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer chairs Cobra meeting over US-Israeli strikes on Iran</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-28 11:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-iran-tehran_7177503.jpg?20260228121737" alt="Where has been hit? Iran retaliates across Middle East after US-Israel strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/where-has-been-hit-iran-retaliates-across-middle-east-after-us-israel-strikes-13513268" target="_blank">Where has been hit? Iran retaliates across Middle East after US-Israel strikes</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-28 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -87,24 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss" target="_blank">What we know about the joint US-Israel attack on Iran</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-28 10:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/israel-smoke-tehran_1772261343732_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump announces &#x27;major combat operations&#x27;; could last for days" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: Trump announces &#x27;major combat operations&#x27;; could last for days</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-28 09:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/28/netanyahu-says-us-and-israel-attacked-iran-to-remove-existential-threat?traffic_source=rss" target="_blank">Netanyahu says US and Israel attacked Iran to remove ‘existential threat’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-28 09:29</span>
             </div>
         </div>
 </div>
@@ -174,6 +166,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/_b8d89ece3338719863cb03/decision-minimalism-the-case-for-making-fewer-choices-4d54" target="_blank">Decision Minimalism: The Case for Making Fewer Choices</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-28 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/linux-lts-kernel-support-extension/" target="_blank">Your Linux LTS Kernel Will Be Supported Longer Than You Thought</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-28 12:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-14.4-RC1-Released" target="_blank">FreeBSD 14.4-RC1 Adds Emacs, Vim &amp; More To DVD Images</a></span>
                 <span class="feed">Phoronix</span>
@@ -207,24 +217,6 @@
                 <span class="time">2026-02-28 08:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/meet-the-wildlife-conservation-ai-5g-hotspot-at-mwc-barcelona-2026" target="_blank">Meet the wildlife conservation AI 5G hotspot at MWC Barcelona 2026</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-02-28 08:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/janealesi/zero-width-steganography-invisible-commands-manipulate-ai-agents-5ail" target="_blank">Zero-Width Steganography: Invisible Commands Manipulate AI Agents</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-28 08:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,29 +240,29 @@
                 <span class="time">2026-02-27 22:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html" target="_blank">Why Tehran’s Two-Tiered Internet Is So Dangerous</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-27 12:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/phishing-attacks-against-people-seeking-programming-jobs.html" target="_blank">Phishing Attacks Against People Seeking Programming Jobs</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-27 12:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/IMG_1996-1280x720.jpg" alt="Ranking Leon’s Amazing One-Liners In Resident Evil Requiem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/resident-evil-requiem-leon-kennedy-quotes-jokes-2000674556" target="_blank">Ranking Leon’s Amazing One-Liners In Resident Evil Requiem</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-28 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Best-Gadgets-Feb-2026-from-Keleops-USA-1280x853.jpg" alt="The Best Gadgets of February 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/best-gadgets-february-2026-2000727661" target="_blank">The Best Gadgets of February 2026</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-28 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/brandon-carnahan-2.webp?fit=764%2C432&amp;quality=55&amp;ssl=1" alt="LAPD officer charged with disability fraud after skydiving adventures" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -307,24 +299,6 @@
                 <span class="time">2026-02-27 22:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJDNK5W01H72BANC86QHWVMC/hero-image.jpg" alt="10 Hacks Every Oura Ring User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/best-oura-ring-hacks?utm_medium=RSS" target="_blank">10 Hacks Every Oura Ring User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-27 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/image-33-1280x720.jpg" alt="Stardew Valley Fans Aren’t Holding Back About How Much They Hate This Guy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/stardew-valley-clint-marriage-1-7-update-2000674574" target="_blank">Stardew Valley Fans Aren’t Holding Back About How Much They Hate This Guy</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-27 22:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -353,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
