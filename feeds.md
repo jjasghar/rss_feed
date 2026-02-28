@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-28 15:01:24 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-28 16:02:07 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 12 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, February 28, 2026 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, February 28, 2026 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/israel-smoke-tehran_1772261343732_hpMain_4x3t_384.jpg" alt="Iran live updates: Announcing &#x27;major&#x27; US operation, Trump calls for regime change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: Announcing &#x27;major&#x27; US operation, Trump calls for regime change</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-28 15:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d880/live/eff33b90-148f-11f1-9120-a910fc22c6ac.jpg" alt="UK planes &#x27;in the sky&#x27; in Middle East as part of defensive operation, PM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c20l1v0ldqzo?at_medium=RSS&at_campaign=rss" target="_blank">UK planes &#x27;in the sky&#x27; in Middle East as part of defensive operation, PM says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-28 15:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/28/scenes-of-destruction-in-iran-after-us-israeli-strikes?traffic_source=rss" target="_blank">Scenes of destruction in Iran after US-Israeli strikes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-28 14:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,38 +101,29 @@
                 <span class="time">2026-02-28 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/28/nx-s1-5726425/nc-primary-election-foushee-allam" target="_blank">North Carolina Democrats latest to chart future of the party in congressional primary</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-28 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d880/live/eff33b90-148f-11f1-9120-a910fc22c6ac.jpg" alt="Starmer chairs Cobra meeting over US-Israeli strikes on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c20l1v0ldqzo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer chairs Cobra meeting over US-Israeli strikes on Iran</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-28 11:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-iran-tehran_7177503.jpg?20260228121737" alt="Where has been hit? Iran retaliates across Middle East after US-Israel strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/where-has-been-hit-iran-retaliates-across-middle-east-after-us-israel-strikes-13513268" target="_blank">Where has been hit? Iran retaliates across Middle East after US-Israel strikes</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-28 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69a2ffd3d16e57b38c5e2d9a/master/pass/2263468713" alt="This Is the System That Intercepted Iran&#x27;s Missiles Over the UAE" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uae-missile-intercept-system-iran/" target="_blank">This Is the System That Intercepted Iran&#x27;s Missiles Over the UAE</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-28 15:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/28/xiaomi-launches-17-ultra-smartphone-an-airtag-clone-and-an-ultra-slim-powerbank/" target="_blank">Xiaomi launches 17 Ultra smartphone, an AirTag clone, and an ultra slim powerbank</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-28 15:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,36 +146,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/885432/reigns-the-witcher-interview-steam-iphone-android" target="_blank">The Witcher is a perfect fit for Reigns’ Tinder-like roleplaying</a></span>
+                <span class="title"><a href="https://www.theverge.com/tech/884567/xiaomi-tag-tracker-apple-find-my-google-hub-bluetooth" target="_blank">Xiaomi’s tracker doesn’t need a case to clip to your keys</a></span>
                 <span class="feed">The Verge</span>
-                <span class="time">2026-02-28 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a252bf649b7677b3e2628d/master/pass/IMG_3052.JPG" alt="The Best Laptop Cooling Pad and Why You Should Buy One" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-laptop-cooling-pad/" target="_blank">The Best Laptop Cooling Pad and Why You Should Buy One</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-28 11:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a2079371b3466d9ed712df/master/pass/Water%20Filter%20Explainer.png" alt="Which Water Filter Pitchers Filter PFAS? How to Check" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/water-filter-explainer-nsf-verifications/" target="_blank">Which Water Filter Pitchers Filter PFAS? How to Check</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-28 10:36</span>
+                <span class="time">2026-02-28 14:30</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/reviews/885040/tenways-cgo-compact-review-sharable-adaptable" target="_blank">Tenways nearly perfects the shareable city e-bike</a></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/885432/reigns-the-witcher-interview-steam-iphone-android" target="_blank">The Witcher is a perfect fit for Reigns’ Tinder-like roleplaying</a></span>
                 <span class="feed">The Verge</span>
-                <span class="time">2026-02-28 08:00</span>
+                <span class="time">2026-02-28 14:00</span>
             </div>
         </div>
 </div>
@@ -167,6 +165,33 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/snapform/how-to-add-a-contact-form-to-any-static-website-without-a-backend-36in" target="_blank">How to Add a Contact Form to Any Static Website (Without a Backend)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-28 15:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/" target="_blank">Cognitive Debt: When Velocity Exceeds Comprehension</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-28 15:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-DC8200-Coreboot-FB" target="_blank">Verisilicon DC8200 &amp; Coreboot Framebuffer Drivers Sent To DRM-Next For Linux 7.1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-28 15:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbq2qcvq54obdnlomky1m.png" alt="Finding a Lightweight Desktop on Gentoo: XFCE Experience and Setup" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,33 +217,6 @@
                 <span class="title"><a href="https://itsfoss.com/news/linux-lts-kernel-support-extension/" target="_blank">Your Linux LTS Kernel Will Be Supported Longer Than You Thought</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-02-28 12:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-14.4-RC1-Released" target="_blank">FreeBSD 14.4-RC1 Adds Emacs, Vim &amp; More To DVD Images</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-28 11:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://help.openai.com/en/articles/6378407-how-to-delete-your-account" target="_blank">OpenAI – How to delete your account</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-28 10:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.buymeacoffee.com%2Fbutton-api%2F%3Ftext%3DBuy%2520me%2520a%2520coffee%26slug%3Dth19930828%26button_colour%3DFFDD00%26font_colour%3D000000%26font_family%3DArial%26outline_colour%3D000000%26coffee_colour%3Dffffff" alt="How Claude Code Automates Software Development: A Deep-Dive Into AI-Powered Engineering Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/th19930828/how-claude-code-automates-software-development-a-deep-dive-into-ai-powered-engineering-workflows-4j0" target="_blank">How Claude Code Automates Software Development: A Deep-Dive Into AI-Powered Engineering Workflows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-28 09:55</span>
             </div>
         </div>
 </div>
@@ -249,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/snake-eyes-gi-joe-1280x853.jpg" alt="Paramount’s New ‘G.I. Joe’ Movie Plans Sound Dumb as Hell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/paramount-gi-joe-movie-max-landis-2000727778" target="_blank">Paramount’s New ‘G.I. Joe’ Movie Plans Sound Dumb as Hell</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-28 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/ss_78e7f5f204507e79ef2014dfe6afc8e7f402d6ad.1920x1080-1280x720.jpg" alt="One Of Steam’s Most Popular Demos Is Helldivers With Robot Cowboys And It’s Awesome" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,15 +301,6 @@
                 <span class="time">2026-02-28 00:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Dai-Dark-Dorohedoro-Q-Hayashida-io9-template-circle-2-1280x853.jpg" alt="If You Love ‘Chainsaw Man,’ You Should Read ‘Dorohedoro’ and ‘Dai Dark’ Immediately" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/if-you-love-chainsaw-man-you-should-read-dorohedoro-and-dai-dark-immediately-2000727701" target="_blank">If You Love ‘Chainsaw Man,’ You Should Read ‘Dorohedoro’ and ‘Dai Dark’ Immediately</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-27 23:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
