@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-28 09:03:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-28 10:01:52 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, February 28, 2026 - 09:03 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, February 28, 2026 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/israel-smoke-tehran_1772261343732_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump announces &#x27;major combat operations&#x27;; could last for days" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: Trump announces &#x27;major combat operations&#x27;; could last for days</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-28 09:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/28/netanyahu-says-us-and-israel-attacked-iran-to-remove-existential-threat?traffic_source=rss" target="_blank">Netanyahu says US and Israel attacked Iran to remove ‘existential threat’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-28 09:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-israel-iran-tehran_7177315.jpg?20260228070644" alt="Trump&#x27;s Iran attack is a gamble - and the outcome is unclear" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trumps-iran-attack-is-a-gamble-and-the-outcome-is-unclear-13513250" target="_blank">Trump&#x27;s Iran attack is a gamble - and the outcome is unclear</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-28 09:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,33 +99,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: Trump says &#x27;major combat operations&#x27; have begun in Iran</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-28 07:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260226-tehran-rs-855b45.jpg" alt="U.S. and Israel launch strikes on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/iran/us-israel-attacks-iran-protests-nuclear-talks-rcna253784" target="_blank">U.S. and Israel launch strikes on Iran</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-28 07:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Israel launches preemptive strike against Iran: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Israel launches preemptive strike against Iran: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-28 07:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/28/ramadan-in-yemens-aden-optimism-dimmed-by-tensions-and-shortages?traffic_source=rss" target="_blank">Ramadan in Yemen’s Aden: Optimism dimmed by tensions and shortages</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-28 04:41</span>
             </div>
         </div>
 </div>
@@ -161,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.buymeacoffee.com%2Fbutton-api%2F%3Ftext%3DBuy%2520me%2520a%2520coffee%26slug%3Dth19930828%26button_colour%3DFFDD00%26font_colour%3D000000%26font_family%3DArial%26outline_colour%3D000000%26coffee_colour%3Dffffff" alt="How Claude Code Automates Software Development: A Deep-Dive Into AI-Powered Engineering Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/th19930828/how-claude-code-automates-software-development-a-deep-dive-into-ai-powered-engineering-workflows-4j0" target="_blank">How Claude Code Automates Software Development: A Deep-Dive Into AI-Powered Engineering Workflows</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-28 09:55</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -203,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/timothy_imanuel_35225c051/week-3-3e1a" target="_blank">Week 3</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-28 03:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="From Code to Connection: Automating the Story of Our Craft with ForkToPost" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vero-code/from-code-to-connection-automating-the-story-of-our-craft-with-forktopost-3bla" target="_blank">From Code to Connection: Automating the Story of Our Craft with ForkToPost</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-28 01:18</span>
             </div>
         </div>
 </div>
@@ -333,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 284 |
-        🔄 Last Updated: 09:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 285 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
