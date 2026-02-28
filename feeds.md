@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-28 05:10:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-28 06:04:02 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 2 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, February 28, 2026 - 05:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, February 28, 2026 - 06:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -75,6 +78,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-bolivia-plane-crash_7177297.jpg?20260228013920" alt="At least 15 killed after military plane crashes on to busy road in Bolivia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/15-killed-after-military-plane-crashes-on-to-busy-road-in-bolivia-reports-13513193" target="_blank">At least 15 killed after military plane crashes on to busy road in Bolivia</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-28 00:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/02/1920x1080/skynews-bolivia-plane-crash_7177297.jpg?20260228013920" alt="At least 15 killed after military plane crashes on to busy road in Bolivia - officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -90,15 +102,6 @@
                 <span class="title"><a href="https://news.sky.com/story/15-killed-after-military-plane-crashes-on-to-busy-road-in-bolivia-reports-13513193" target="_blank">15 killed after military plane crashes on to busy road in Bolivia - reports</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-02-28 00:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-3-gty-jef-260227_1772216174280_hpMain_4x3t_384.jpg" alt="Trump says he hasn&#x27;t made a final decision on Iran, &#x27;not happy&#x27; with current talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/vance-set-meet-omanis-iran-chance-yearslong-war/story?id=130561147" target="_blank">Trump says he hasn&#x27;t made a final decision on Iran, &#x27;not happy&#x27; with current talks</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-28 00:06</span>
             </div>
         </div>
 </div>
@@ -169,6 +172,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jose_marquez_alberti/2026-02-28-daily-intelligence-recap-top-9-signals-2e14" target="_blank">📊 2026-02-28 - Daily Intelligence Recap - Top 9 Signals</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-28 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/timothy_imanuel_35225c051/week-3-3e1a" target="_blank">Week 3</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-28 03:27</span>
@@ -208,15 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GNOME-GitHub-GitLab-Redirect" target="_blank">GNOME GitLab Redirecting Some Git Traffic To GitHub For Reducing Costs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-28 00:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://twitter.com/secwar/status/2027507717469049070" target="_blank">I am directing the Department of War to designate Anthropic a supply-chain risk</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-27 22:31</span>
             </div>
         </div>
 </div>
@@ -348,7 +351,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 05:10 UTC
+        🔄 Last Updated: 06:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
