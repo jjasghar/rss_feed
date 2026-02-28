@@ -1,35 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-02-28 22:01:30 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-28 23:01:58 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, February 28, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, February 28, 2026 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed" target="_blank">Iran&#x27;s Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year iron rule</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-28 22:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5a5/live/60fbdc60-14b9-11f1-b4e3-735eb5ac1cbc.jpg" alt="Starmer speaks to Trump after UK joins defensive operation in Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +108,20 @@
                 <span class="time">2026-02-28 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/28/nx-s1-5730372/one-year-of-failure-the-lancet-slams-rfk-jr-s-first-year-as-health-chief" target="_blank">&#x27;One year of failure.&#x27; The Lancet slams RFK Jr.&#x27;s first year as health chief</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-28 19:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69a30993070d210785f7d04d/master/pass/Politics_WIRED_Iran_X.jpg" alt="X Is Drowning in Disinformation Following US and Israel’s Attack on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/x-is-drowning-in-disinformation-following-us-and-israels-attack-on-iran/" target="_blank">X Is Drowning in Disinformation Following US and Israel’s Attack on Iran</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-28 22:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -120,6 +138,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/" target="_blank">The billion-dollar infrastructure deals powering the AI boom</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-28 20:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/getty-Dario-Amodei-500x500.jpg" alt="Trump moves to ban Anthropic from the US government" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/trump-moves-to-ban-anthropic-from-the-us-government/" target="_blank">Trump moves to ban Anthropic from the US government</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-28 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -140,24 +167,6 @@
                 <span class="time">2026-02-28 16:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a1fc5ccd255f245e966b8e/master/pass/sci-artemis2-2256758081.jpg" alt="NASA Is Making Big Changes to Speed Up the Artemis Program" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nasa-is-making-big-changes-to-speed-up-the-artemis-program/" target="_blank">NASA Is Making Big Changes to Speed Up the Artemis Program</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-28 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a2ffd3d16e57b38c5e2d9a/master/pass/2263468713" alt="This Is the System That Intercepted Iran&#x27;s Missiles Over the UAE" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uae-missile-intercept-system-iran/" target="_blank">This Is the System That Intercepted Iran&#x27;s Missiles Over the UAE</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-28 15:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,9 +176,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jxrdancrane/how-i-added-human-in-the-loop-approval-to-my-ai-agent-in-5-minutes-55gm" target="_blank">How I added human-in-the-loop approval to my AI agent in 5 minutes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-28 22:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/agentic_engineer/i-built-a-voice-to-code-vs-code-extension-that-runs-entirely-on-device-16gc" target="_blank">I Built a Voice-to-Code VS Code Extension That Runs Entirely On-Device</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-28 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.vonng.com/en/db/minio-resurrect/" target="_blank">MinIO Is Dead, Long Live MinIO</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-28 21:16</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +226,6 @@
                 <span class="time">2026-02-28 16:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0knww9z2qnuhlux31mul.png" alt="Database Indexing Made Easy: SQL vs MongoDB" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/satishjaiswal/database-indexing-made-easy-sql-vs-mongodb-2cgp" target="_blank">Database Indexing Made Easy: SQL vs MongoDB</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-28 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://help.obsidian.md/sync/headless" target="_blank">Obsidian Sync now has a headless client</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-28 16:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,20 +240,29 @@
                 <span class="time">2026-02-28 12:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-in-peru.html" target="_blank">Friday Squid Blogging: Squid Fishing in Peru</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-27 22:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/dario-amodei-1280x853.jpg" alt="Claude is the Number 2 Free App in Apple’s App Store Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/claude-is-the-number-2-free-app-in-apples-app-store-now-2000728146" target="_blank">Claude is the Number 2 Free App in Apple’s App Store Now</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-28 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/pokemoon-starters.jpg" alt="Which Starter Is The Best To Pick In Pokémon FireRed/LeafGreen?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-firered-leafgreen-starter-pick-best-bulbasaur-charmander-squirtle-2000674795" target="_blank">Which Starter Is The Best To Pick In Pokémon FireRed/LeafGreen?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-28 21:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/unisex-garment-dyed-heavyweight-t-shirt-black-front-2-699f7e646dfa6.webp?fit=600%2C600&amp;quality=55&amp;ssl=1" alt="LA Metro wants you to &quot;Ride the D&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +299,6 @@
                 <span class="time">2026-02-28 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/12/0841549f1b9d0a590b2eed1da59933b4-1280x720.jpg" alt="Legend Of Zelda Actor Has Thoughts On The Live-Action Movie And Whether Link And Zelda Are Dating" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/legend-zelda-dating-link-patricia-summersett-movie-2000674766" target="_blank">Legend Of Zelda Actor Has Thoughts On The Live-Action Movie And Whether Link And Zelda Are Dating</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-28 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Sinners_song-1280x853.jpg" alt="‘Sinners’ Gets an NPR Tiny Desk Concert That’s So Damn Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sinners-gets-an-npr-tiny-desk-concert-thats-so-damn-good-2000728030" target="_blank">‘Sinners’ Gets an NPR Tiny Desk Concert That’s So Damn Good</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-28 17:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 41 | 📸 With Images: 289 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 288 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
