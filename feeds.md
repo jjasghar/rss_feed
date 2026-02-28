@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-28 07:06:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-28 08:02:14 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, February 28, 2026 - 07:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, February 28, 2026 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/israel-smoke-tehran_1772261343732_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says &#x27;major combat operations&#x27; have begun in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: Trump says &#x27;major combat operations&#x27; have begun in Iran</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-28 07:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260226-tehran-rs-855b45.jpg" alt="U.S. and Israel launch strikes on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/iran/us-israel-attacks-iran-protests-nuclear-talks-rcna253784" target="_blank">U.S. and Israel launch strikes on Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-28 07:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Israel launches preemptive strike against Iran: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/28/trump-administration-charges-30-more-people-for-minnesota-church-protest?traffic_source=rss" target="_blank">Trump administration charges 30 more people for Minnesota church protest</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-28 01:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-bolivia-plane-crash_7177297.jpg?20260228013920" alt="At least 15 killed after military plane crashes on to busy road in Bolivia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/15-killed-after-military-plane-crashes-on-to-busy-road-in-bolivia-reports-13513193" target="_blank">At least 15 killed after military plane crashes on to busy road in Bolivia</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-28 00:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-bolivia-plane-crash_7177297.jpg?20260228013920" alt="At least 15 killed after military plane crashes on to busy road in Bolivia - officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/15-killed-after-military-plane-crashes-on-to-busy-road-in-bolivia-reports-13513193" target="_blank">At least 15 killed after military plane crashes on to busy road in Bolivia - officials</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-28 00:32</span>
             </div>
         </div>
 </div>
@@ -166,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/suhas_mallesh/azure-ai-search-advanced-rag-with-terraform-hybrid-search-semantic-ranking-and-agentic-retrieval-180k" target="_blank">Azure AI Search Advanced RAG with Terraform: Hybrid Search, Semantic Ranking, and Agentic Retrieval 🧠</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-28 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jose_marquez_alberti/2026-02-28-daily-intelligence-recap-top-9-signals-2e14" target="_blank">📊 2026-02-28 - Daily Intelligence Recap - Top 9 Signals</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-28 06:00</span>
@@ -205,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/rdatwd/on-ai-and-other-drugs-5hm2" target="_blank">On AI and Other Drugs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-28 00:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-GitHub-GitLab-Redirect" target="_blank">GNOME GitLab Redirecting Some Git Traffic To GitHub For Reducing Costs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-28 00:03</span>
             </div>
         </div>
 </div>
@@ -330,22 +329,13 @@
                 <span class="time">2026-02-27 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/02/27/10-000x" target="_blank">10,000x</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-02-27 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 07:06 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
