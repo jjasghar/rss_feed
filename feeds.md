@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-28 01:30:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-28 02:44:36 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, February 28, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, February 28, 2026 - 02:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +108,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff" target="_blank">Defense secretary Pete Hegseth designates Anthropic a supply chain risk</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-28 02:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/685f6984f3c91f1a1ba5e76a/master/pass/The%20Best%20Wireless%20Chargers%20to%20Refuel%20Your%20Phone.png" alt="18 Best Wireless Chargers, All Tested and Reviewed (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -151,15 +159,6 @@
                 <span class="title"><a href="https://www.wired.com/story/electric-scooters-spring-deals-2026/" target="_blank">These Deals Can Have You Zipping Around on a New E-Scooter This Spring</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-27 21:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/886478/warner-bros-discovery-paramount-merger-agreement" target="_blank">Warner Bros. Discovery agrees to $110 billion Paramount merger</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-27 21:43</span>
             </div>
         </div>
 </div>
@@ -353,22 +352,13 @@
                 <span class="time">2026-02-27 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5775.png" alt="Incoming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5775" target="_blank">Incoming</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-02-27 01:42</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 02:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
