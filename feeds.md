@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-28 08:02:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-28 09:03:37 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, February 28, 2026 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, February 28, 2026 - 09:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/28/trump-says-major-combat-operations-in-iran-have-begun?traffic_source=rss" target="_blank">Trump says “major combat operations” in Iran have begun</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-28 08:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/Reuters_9333_IRAN_CRISISTRUMP_O__frame_2175-vpk962.jpg" alt="Trump announces beginning of &#x27;major combat operations in Iran&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-announces-beginning-of-major-combat-operations-in-iran-258478149669" target="_blank">Trump announces beginning of &#x27;major combat operations in Iran&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-28 08:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/israel-smoke-tehran_1772261343732_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says &#x27;major combat operations&#x27; have begun in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,24 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/28/ramadan-in-yemens-aden-optimism-dimmed-by-tensions-and-shortages?traffic_source=rss" target="_blank">Ramadan in Yemen’s Aden: Optimism dimmed by tensions and shortages</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-28 04:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c11/live/a930bc20-143d-11f1-801d-ed3cff6bf876.jpg" alt="Bill Clinton asked about hot tub photo and testifies he knew &#x27;nothing&#x27; of Epstein crimes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg345qvld5o?at_medium=RSS&at_campaign=rss" target="_blank">Bill Clinton asked about hot tub photo and testifies he knew &#x27;nothing&#x27; of Epstein crimes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-28 03:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/28/trump-administration-charges-30-more-people-for-minnesota-church-protest?traffic_source=rss" target="_blank">Trump administration charges 30 more people for Minnesota church protest</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-28 01:06</span>
             </div>
         </div>
 </div>
@@ -164,6 +163,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/meet-the-wildlife-conservation-ai-5g-hotspot-at-mwc-barcelona-2026" target="_blank">Meet the wildlife conservation AI 5G hotspot at MWC Barcelona 2026</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-02-28 08:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/janealesi/zero-width-steganography-invisible-commands-manipulate-ai-agents-5ail" target="_blank">Zero-Width Steganography: Invisible Commands Manipulate AI Agents</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-28 08:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/suhas_mallesh/azure-ai-search-advanced-rag-with-terraform-hybrid-search-semantic-ranking-and-agentic-retrieval-180k" target="_blank">Azure AI Search Advanced RAG with Terraform: Hybrid Search, Semantic Ranking, and Agentic Retrieval 🧠</a></span>
                 <span class="feed">DEV Community</span>
@@ -195,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/vero-code/from-code-to-connection-automating-the-story-of-our-craft-with-forktopost-3bla" target="_blank">From Code to Connection: Automating the Story of Our Craft with ForkToPost</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-28 01:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://notdivided.org" target="_blank">We Will Not Be Divided</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-28 00:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rdatwd/on-ai-and-other-drugs-5hm2" target="_blank">On AI and Other Drugs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-28 00:05</span>
             </div>
         </div>
 </div>
@@ -334,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 284 |
+        🔄 Last Updated: 09:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
