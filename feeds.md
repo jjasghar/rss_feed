@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-28 21:01:25 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-02-28 22:01:30 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, February 28, 2026 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, February 28, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5a5/live/60fbdc60-14b9-11f1-b4e3-735eb5ac1cbc.jpg" alt="Starmer speaks to Trump after UK joins defensive operation in Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c20l1v0ldqzo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer speaks to Trump after UK joins defensive operation in Middle East</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-28 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/israel-iran-33-gty-gmh-250618_1750281629172_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump confirms Iranian Supreme Leader Ali Khamenei is dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: Trump confirms Iranian Supreme Leader Ali Khamenei is dead</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-28 21:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1772310739826_now_brk_welker_trump_ayatollah_260228_1920x1080-s9ygey.jpg" alt="Trump on reports of Ayatollah&#x27;s death: &#x27;We feel that is a correct story&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-on-reports-of-ayatollah-s-death-we-feel-that-is-a-correct-story-258487365835" target="_blank">Trump on reports of Ayatollah&#x27;s death: &#x27;We feel that is a correct story&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-28 20:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,33 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/28/nx-s1-5730372/one-year-of-failure-the-lancet-slams-rfk-jr-s-first-year-as-health-chief" target="_blank">&#x27;One year of failure.&#x27; The Lancet slams RFK Jr.&#x27;s first year as health chief</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-28 19:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/28/pakistan-edge-last-ball-thriller-against-sri-lanka-but-exit-t20-world-cup?traffic_source=rss" target="_blank">Pakistan edge last-ball thriller against Sri Lanka but exit T20 World Cup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-28 17:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/28/mapping-us-and-israeli-attacks-on-iran-and-tehrans-retaliatory-strikes?traffic_source=rss" target="_blank">Mapping US and Israeli attacks on Iran and Tehran’s retaliatory strikes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-28 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/israel-smoke-tehran_1772261343732_hpMain_4x3t_384.jpg" alt="Iran live updates: Announcing &#x27;major&#x27; US operation, Trump calls for regime change" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: Announcing &#x27;major&#x27; US operation, Trump calls for regime change</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-28 15:56</span>
             </div>
         </div>
 </div>
@@ -165,6 +166,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/agentic_engineer/i-built-a-voice-to-code-vs-code-extension-that-runs-entirely-on-device-16gc" target="_blank">I Built a Voice-to-Code VS Code Extension That Runs Entirely On-Device</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-28 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://uwplse.org/2026/02/24/egglog-containers.html" target="_blank">Custom Data Structures in E-Graphs</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -201,19 +211,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/snapform/how-to-add-a-contact-form-to-any-static-website-without-a-backend-36in" target="_blank">How to Add a Contact Form to Any Static Website (Without a Backend)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-28 15:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/" target="_blank">Cognitive Debt: When Velocity Exceeds Comprehension</a></span>
+                <span class="title"><a href="https://help.obsidian.md/sync/headless" target="_blank">Obsidian Sync now has a headless client</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-02-28 15:39</span>
+                <span class="time">2026-02-28 16:31</span>
             </div>
         </div>
 </div>
@@ -317,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 288 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 41 | 📸 With Images: 289 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
