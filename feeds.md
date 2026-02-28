@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-28 13:13:31 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-28 14:02:06 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, February 28, 2026 - 13:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, February 28, 2026 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dea/live/4d759f00-1496-11f1-94cd-7564c887587c.jpg" alt="Iran says it has hit US base in Bahrain, as it launches strikes across region" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&at_campaign=rss" target="_blank">Iran says it has hit US base in Bahrain, as it launches strikes across region</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-28 13:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +98,20 @@
                 <span class="time">2026-02-28 10:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/946f/live/0241ffa0-148d-11f1-8d66-9b0d49d7a97e.jpg" alt="What we know about the joint US-Israel attack on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss" target="_blank">What we know about the joint US-Israel attack on Iran</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-28 10:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/885432/reigns-the-witcher-interview-steam-iphone-android" target="_blank">The Witcher is a perfect fit for Reigns’ Tinder-like roleplaying</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-28 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69a252bf649b7677b3e2628d/master/pass/IMG_3052.JPG" alt="The Best Laptop Cooling Pad and Why You Should Buy One" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,15 +155,6 @@
                 <span class="title"><a href="https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/" target="_blank">Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-28 03:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff" target="_blank">Defense secretary Pete Hegseth designates Anthropic a supply chain risk</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-28 02:19</span>
             </div>
         </div>
 </div>
@@ -246,6 +245,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/shokz-openfit-pro-review-02-1280x853.jpg" alt="Shokz OpenFit Pro Review: Open Earbuds With the One Thing You’ve Always Wanted" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/shokz-openfit-pro-review-open-earbuds-with-the-one-thing-youve-always-wanted-2000727232" target="_blank">Shokz OpenFit Pro Review: Open Earbuds With the One Thing You’ve Always Wanted</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-28 13:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/IMG_1996-1280x720.jpg" alt="Ranking Leon’s Amazing One-Liners In Resident Evil Requiem" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -290,15 +298,6 @@
                 <span class="time">2026-02-27 23:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/magnesium.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Magnesium helps migraines but the rest of the hype is shaky" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/27/magnesium-helps-migraines-but-the-rest-of-the-hype-is-shaky.html" target="_blank">Magnesium helps migraines but the rest of the hype is shaky</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-27 22:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
