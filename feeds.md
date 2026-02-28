@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-28 00:06:18 UTC -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-02-28 01:30:02 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, February 28, 2026 - 00:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, February 28, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +53,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/28/trump-administration-charges-30-more-people-for-minnesota-church-protest?traffic_source=rss" target="_blank">Trump administration charges 30 more people for Minnesota church protest</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-28 01:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-breaking-breaking-news_7042253.png?20251231104834" alt="15 killed after military plane crashes on to busy road in Bolivia - reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/15-killed-after-military-plane-crashes-on-to-busy-road-in-bolivia-reports-13513193" target="_blank">15 killed after military plane crashes on to busy road in Bolivia - reports</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-28 00:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-3-gty-jef-260227_1772216174280_hpMain_4x3t_384.jpg" alt="Trump says he hasn&#x27;t made a final decision on Iran, &#x27;not happy&#x27; with current talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/vance-set-meet-omanis-iran-chance-yearslong-war/story?id=130561147" target="_blank">Trump says he hasn&#x27;t made a final decision on Iran, &#x27;not happy&#x27; with current talks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-28 00:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1772235646376_nn_rno_former_president_bill_clinton_testifies_in_epstein_investigation_260227_1920x1080-s4rd2r.jpg" alt="Former President Bill Clinton testifies in Epstein investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/former-president-bill-clinton-testifies-in-epstein-investigation-258453061768" target="_blank">Former President Bill Clinton testifies in Epstein investigation</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-27 23:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/27/brazil-flooding-death-toll-rises-to-64-as-search-efforts-continue?traffic_source=rss" target="_blank">Brazil flooding death toll rises to 64 as search efforts continue</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-27 23:28</span>
@@ -66,47 +103,20 @@
                 <span class="time">2026-02-27 22:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/27/nx-s1-5720167/trump-ice-immigration-social-media-deportation-dhs-immigrants-detained-disputes" target="_blank">How the federal government is painting immigrants as criminals on social media</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-27 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/2/27/why-is-trump-objecting-to-al-malikis-comeback?traffic_source=rss" target="_blank">Why is Trump objecting to al-Maliki’s comeback?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-27 22:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/27/trump-suggests-a-friendly-takeover-of-cuba-amid-us-fuel-blockade?traffic_source=rss" target="_blank">Trump suggests a ‘friendly takeover’ of Cuba amid US fuel blockade</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-27 21:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eab/live/fd7d7420-1407-11f1-8e3a-e7cecfbdc12f.jpg" alt="Starmer vows to fight on after historic Green by-election win" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp8r56vxmn0o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer vows to fight on after historic Green by-election win</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-27 19:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/685f6984f3c91f1a1ba5e76a/master/pass/The%20Best%20Wireless%20Chargers%20to%20Refuel%20Your%20Phone.png" alt="18 Best Wireless Chargers, All Tested and Reviewed (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-wireless-chargers/" target="_blank">18 Best Wireless Chargers, All Tested and Reviewed (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-27 23:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +162,29 @@
                 <span class="time">2026-02-27 21:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a1fdf1067f37c7d49f5276/master/pass/Our%20Favorite%20Upgraded%20Roku%20Is%20$20%20Off.png" alt="The Best Roku Is $20 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/roku-ultra-deal-226/" target="_blank">The Best Roku Is $20 Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-27 20:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="From Code to Connection: Automating the Story of Our Craft with ForkToPost" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vero-code/from-code-to-connection-automating-the-story-of-our-craft-with-forktopost-3bla" target="_blank">From Code to Connection: Automating the Story of Our Craft with ForkToPost</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-28 01:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://notdivided.org" target="_blank">We Will Not Be Divided</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-28 00:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -178,6 +197,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-GitHub-GitLab-Redirect" target="_blank">GNOME GitLab Redirecting Some Git Traffic To GitHub For Reducing Costs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-28 00:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://twitter.com/secwar/status/2027507717469049070" target="_blank">I am directing the Department of War to designate Anthropic a supply-chain risk</a></span>
                 <span class="feed">Hacker News</span>
@@ -185,39 +213,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18896331&w=600" alt="Mastering the AWS Well-Architected AI Stack: A Deep Dive into ML, GenAI, and Sustainability Lenses" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shabbirhasan01/a-free-webhook-tester-that-doesnt-suck-heres-why-youll-love-it-requexme-567m" target="_blank">A Free Webhook Tester That Doesn&#x27;t Suck - Here&#x27;s Why You&#x27;ll Love It - Requex.me</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-27 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://web.archive.org/web/20050131031148/http://www.freedom-to-tinker.com/tinyp2p.html" target="_blank">TinyP2P</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-02-27 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Microcode-20260227" target="_blank">Intel Releases Updated CPU Microcode For Xeon 6 SoCs &quot;Granite Rapids D&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-27 19:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://pseudosingleton.com/leaving-google-improved-my-life/" target="_blank">Leaving Google has actively improved my life</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-27 19:08</span>
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/mastering-the-aws-well-architected-ai-stack-deep-dive" target="_blank">Mastering the AWS Well-Architected AI Stack: A Deep Dive into ML, GenAI, and Sustainability Lenses</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-27 20:00</span>
             </div>
         </div>
 </div>
@@ -257,6 +258,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/brandon-carnahan-2.webp?fit=764%2C432&amp;quality=55&amp;ssl=1" alt="LAPD officer charged with disability fraud after skydiving adventures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/27/lapd-officer-disability.html" target="_blank">LAPD officer charged with disability fraud after skydiving adventures</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-28 00:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -299,15 +309,6 @@
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/pokemon-saphire-ruby-emerald-switch-2-datamine-2000674544" target="_blank">Pokémon Sapphire And Ruby ROM Support Found In FireRed/LeafGreen Switch Files, Dataminer Claims</a></span>
                 <span class="feed">Kotaku</span>
-                <span class="time">2026-02-27 21:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/reddwarf.jpg?fit=1368%2C912&amp;quality=60&amp;ssl=1" alt="Red Dwarf co-creator Rob Grant dead at 70" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/27/red-dwarf-co-creator-rob-grant-dead-at-70.html" target="_blank">Red Dwarf co-creator Rob Grant dead at 70</a></span>
-                <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-27 21:31</span>
             </div>
         </div>
@@ -366,8 +367,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 00:06 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
