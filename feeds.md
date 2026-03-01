@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-01 15:01:46 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-01 16:01:49 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, March 01, 2026 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, March 01, 2026 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Tehran-strikes-DB-260301_1772364213906_hpMain_4x3t_384.jpg" alt="Iran live updates: 3 US service members killed, 5 wounded, CENTCOM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: 3 US service members killed, 5 wounded, CENTCOM says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-01 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260301-tehran-mb-0915-d438bf.jpg" alt="Sen. Lindsey Graham says it is not the job of the U.S. to determine Iran&#x27;s next leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/iran-congress-government-khamenei-strikes-israel-war-powers-resolution-rcna261193" target="_blank">Sen. Lindsey Graham says it is not the job of the U.S. to determine Iran&#x27;s next leader</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-01 15:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +102,29 @@
                 <span class="time">2026-03-01 12:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e36c/live/1840b2a0-1556-11f1-801d-ed3cff6bf876.jpg" alt="Flights cancelled and new travel warnings issued after Iran strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0rjpr575g9o?at_medium=RSS&at_campaign=rss" target="_blank">Flights cancelled and new travel warnings issued after Iran strikes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-01 11:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Tehran-strikes-DB-260301_1772364213906_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump warns Iran &#x27;BETTER NOT&#x27; retaliate after vow from leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: Trump warns Iran &#x27;BETTER NOT&#x27; retaliate after vow from leader</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-01 11:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy" target="_blank">Lego’s Smart Brick is here, and it transforms these new Star Wars sets</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-01 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/01/honor-says-its-robot-phone-with-moving-camera-can-dance-to-music/" target="_blank">Honor says its ‘Robot phone’ with moving camera can dance to music</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-01 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +161,38 @@
                 <span class="time">2026-03-01 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-492781221-500x500.jpg" alt="The strange animals that control their body heat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/03/the-strange-animals-that-control-their-body-heat/" target="_blank">The strange animals that control their body heat</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-01 12:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/" target="_blank">The trap Anthropic built for itself</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-01 00:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdsvlb9m2mgkwb8xsrwig.png" alt="Data Engineering: Beginner’s Guide to Data Engineering Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/babuvino13/data-engineering-beginners-guide-to-data-engineering-architecture-5dfk" target="_blank">Data Engineering: Beginner’s Guide to Data Engineering Architecture</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-01 15:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/systemd-troubleshoot-tools/" target="_blank">New to Linux? These 4 systemd Tools Help You Fix Common Issues</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-03-01 15:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/" target="_blank">AI Made Writing Code Easier. It Made Being an Engineer Harder</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-01 14:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0rgyojbrt1ho880widmv.png" alt="A Evolução do Modelo Relacional para Objeto-Relacional" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -190,38 +220,29 @@
                 <span class="time">2026-03-01 11:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Why I spent my weekend building a &quot;Cyber-Immune System&quot; for students" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/agp_marka_62a62d1cdadad70/why-i-spent-my-weekend-building-a-cyber-immune-system-for-students-4682" target="_blank">Why I spent my weekend building a &quot;Cyber-Immune System&quot; for students</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-01 10:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/philip_mcclarence_2ef9475/understanding-timescaledb-background-workers-and-jobs-3mlc" target="_blank">Understanding TimescaleDB Background Workers and Jobs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-01 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/custodiaadmin/use-pagebolt-with-github-copilot-cli-automated-screenshots-and-video-demos-via-mcp-3lnd" target="_blank">Use PageBolt with GitHub Copilot CLI: Automated screenshots and video demos via MCP</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-01 07:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/TVanime-full-1280x720.jpg" alt="PlayStation Retro Anime Spoof Will Be Available Outside Japan For The First Time In 27 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/playstation-retro-anime-geppyx-shmu-2000674842" target="_blank">PlayStation Retro Anime Spoof Will Be Available Outside Japan For The First Time In 27 Years</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-01 15:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Tron-Ares-Lightcycle-poster-1280x853.jpg" alt="Nine Inch Nails Has a New ‘Tron: Ares’ Soundtrack to Rock Out To" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nine-inch-nails-has-a-new-tron-ares-soundtrack-to-rock-out-to-2000728160" target="_blank">Nine Inch Nails Has a New ‘Tron: Ares’ Soundtrack to Rock Out To</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-01 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/Dreame-X60-Max-Ultra-Complete-review-4-1280x853.jpg" alt="Dreame X60 Max Ultra Complete Review: $1,700 Worth of Robot Vacuum Problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -258,24 +279,6 @@
                 <span class="time">2026-03-01 07:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/lutnick-1.jpg?fit=590%2C433&amp;quality=60&amp;ssl=1" alt="Trump insists Lutnick &quot;very innocent&quot; after photo emerges of him on Epstein&#x27; island" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/28/llutnick.html" target="_blank">Trump insists Lutnick &quot;very innocent&quot; after photo emerges of him on Epstein&#x27; island</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-28 23:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/lutnick-1.jpg?fit=590%2C433&amp;quality=60&amp;ssl=1" alt="Trump insists Lutnick&quot;very innocent&quot; after photo emerges of him on Epstein&#x27; island" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/28/trump-insists-lutnickvery-innocent-after-photo-emerges-of-him-on-epstein-island.html" target="_blank">Trump insists Lutnick&quot;very innocent&quot; after photo emerges of him on Epstein&#x27; island</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-28 23:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
