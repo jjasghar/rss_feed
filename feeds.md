@@ -1,36 +1,46 @@
-<!-- Processing 54 RSS feeds at 2026-03-01 11:02:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-01 12:02:22 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 37 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, March 01, 2026 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, March 01, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +56,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Tehran-strikes-DB-260301_1772364213906_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump warns Iran &#x27;BETTER NOT&#x27; retaliate after vow from leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: Trump warns Iran &#x27;BETTER NOT&#x27; retaliate after vow from leader</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-01 11:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/3/1/the-us-israeli-war-on-iran-could-rewrite-gulf-security-calculations?traffic_source=rss" target="_blank">The US-Israeli war on Iran could rewrite Gulf security calculations</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-01 11:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/01/nx-s1-5731365/us-israeli-strikes-region" target="_blank">U.S.-Israeli strikes in Iran continue into 2nd day, as the region faces turmoil</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-01 11:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,33 +108,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/01/g-s1-112062/iran-fires-missiles" target="_blank">Iran fires missiles at Israel and Gulf states after U.S.-Israeli strike kills Khamenei</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-01 07:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/3/1/thousands-in-iran-mourn-khameneis-killing?traffic_source=rss" target="_blank">Thousands in Iran mourn Khamenei’s killing</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-01 07:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/1/despite-antiwar-maga-wing-trump-gets-republican-support-for-iran-strikes?traffic_source=rss" target="_blank">Despite antiwar MAGA wing, Trump gets Republican support for Iran strikes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-01 06:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-us-iran_7178478.jpg?20260301040919" alt="Attack on Iran marks a new era of conflict and could make the planet a lot less safe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/the-us-war-against-iran-marks-a-new-era-of-conflict-but-what-comes-next-is-hard-to-predict-13513734" target="_blank">Attack on Iran marks a new era of conflict and could make the planet a lot less safe</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-01 04:43</span>
             </div>
         </div>
 </div>
@@ -165,6 +175,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/myougatheaxo/zero-to-android-app-in-11-minutes-no-coding-required-1ein" target="_blank">Zero to Android App in 11 Minutes (No Coding Required)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-01 11:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ASUS-WMI-Linux-Driver-New-2026" target="_blank">ASUS Linux HID Driver Preparing To See Support For Newer Devices</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-01 11:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Why I spent my weekend building a &quot;Cyber-Immune System&quot; for students" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,43 +228,20 @@
                 <span class="time">2026-03-01 06:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ripplemessenger/ripplemessenger-a-blockchain-based-client-part-12-1nj9" target="_blank">RippleMessenger: A blockchain-based client (part 1/2)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-01 05:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="http://karpathy.github.io/2026/02/12/microgpt/" target="_blank">Microgpt</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-01 01:39</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/" target="_blank">Who is the Kimwolf Botmaster “Dort”?</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-02-28 12:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/paul-davies-quantum-revolution-top-image-1280x853.jpg" alt="From Quantum Spam to Quantum Minds: Why the ‘Best’ Revolution in Physics Is Only Getting Started" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/from-quantum-spam-to-quantum-minds-why-the-best-revolution-in-physics-is-only-getting-started-2000727266" target="_blank">From Quantum Spam to Quantum Minds: Why the ‘Best’ Revolution in Physics Is Only Getting Started</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-01 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/btc-fork-1280x853.jpg" alt="Disgraced Mt Gox CEO Suggests Bitcoin Hard Fork to Recover $5 Billion in Customer Funds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +287,6 @@
                 <span class="time">2026-02-28 21:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/unisex-garment-dyed-heavyweight-t-shirt-black-front-2-699f7e646dfa6.webp?fit=600%2C600&amp;quality=55&amp;ssl=1" alt="LA Metro wants you to &quot;Ride the D&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/28/la-metro-wants-you-to-ride-the-d.html" target="_blank">LA Metro wants you to &quot;Ride the D&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-28 20:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
