@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-01 14:02:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-01 15:01:46 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, March 01, 2026 - 14:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, March 01, 2026 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/1/us-israel-attacks-on-iran-death-toll-and-injuries-live-tracker?traffic_source=rss" target="_blank">US-Israel attacks on Iran: Death toll and injuries live tracker</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-01 14:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +99,20 @@
                 <span class="time">2026-03-01 11:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4c1/live/ea898b90-156c-11f1-801d-ed3cff6bf876.png" alt="At least 148 dead after reported strike on school, Iran says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss" target="_blank">At least 148 dead after reported strike on school, Iran says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-01 11:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/" target="_blank">Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-01 14:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -122,6 +132,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/69a32706d4164968b839bb27/master/pass/Review-%20Recteq%20Flagship%201600.png" alt="Recteq Flagship 1600 Review: An Upgraded Smoker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/recteq-flagship-1600-review/" target="_blank">Recteq Flagship 1600 Review: An Upgraded Smoker</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-01 12:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-492781221-500x500.jpg" alt="The strange animals that control their body heat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -137,24 +156,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/" target="_blank">The trap Anthropic built for itself</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-01 00:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a30993070d210785f7d04d/master/pass/Politics_WIRED_Iran_X.jpg" alt="X Is Drowning in Disinformation Following US and Israeli Attack on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/x-is-drowning-in-disinformation-following-us-and-israels-attack-on-iran/" target="_blank">X Is Drowning in Disinformation Following US and Israeli Attack on Iran</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-28 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a30993070d210785f7d04d/master/pass/Politics_WIRED_Iran_X.jpg" alt="X Is Drowning in Disinformation Following US and Israel’s Attack on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/x-is-drowning-in-disinformation-following-us-and-israels-attack-on-iran/" target="_blank">X Is Drowning in Disinformation Following US and Israel’s Attack on Iran</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-28 22:40</span>
             </div>
         </div>
 </div>
@@ -294,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 14:03 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
