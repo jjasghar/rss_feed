@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-01 00:07:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-01 01:30:49 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, March 01, 2026 - 00:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, March 01, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/1/new-yorkers-protest-us-strikes-on-iran?traffic_source=rss" target="_blank">New Yorkers protest US strikes on Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-01 00:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86c9/live/6364bd60-7e73-11ef-a4d3-09b59abdbf71.jpg" alt="Ayatollah Khamenei&#x27;s iron grip on power in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3gdnpjvj4ko?at_medium=RSS&at_campaign=rss" target="_blank">Ayatollah Khamenei&#x27;s iron grip on power in Iran</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-28 23:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +102,20 @@
                 <span class="time">2026-02-28 20:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/28/irans-supreme-leader-ali-khamenei-killed-in-us-israeli-attacks-reports?traffic_source=rss" target="_blank">Iran’s Supreme Leader Ali Khamenei killed in US-Israeli attacks: Reports</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-28 20:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/missile-flag-ht-jt-260228_1772304410914_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump tells ABC News &#x27;a lot&#x27; of Iranian leadership gone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: Trump tells ABC News &#x27;a lot&#x27; of Iranian leadership gone</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-28 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/" target="_blank">The trap Anthropic built for itself</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-01 00:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69a30993070d210785f7d04d/master/pass/Politics_WIRED_Iran_X.jpg" alt="X Is Drowning in Disinformation Following US and Israel’s Attack on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +161,29 @@
                 <span class="time">2026-02-28 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/" target="_blank">OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-28 16:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pratikmathur279/web-standards-win-interop-2026-signals-the-end-of-browser-wars-6kb" target="_blank">Web Standards Win: Interop 2026 Signals the End of Browser Wars</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-01 01:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AerynOS-2026.02" target="_blank">AerynOS 2026.02 Brings More Wayland Compositor Options, Other Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-01 01:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkib171drjflrf89ucifu.png" alt="gobench.dev Creator Seeks Usability and Effectiveness Feedback for Performance Benchmarking Tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,24 +220,6 @@
                 <span class="time">2026-02-28 22:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/agentic_engineer/i-built-a-voice-to-code-vs-code-extension-that-runs-entirely-on-device-16gc" target="_blank">I Built a Voice-to-Code VS Code Extension That Runs Entirely On-Device</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-28 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.vonng.com/en/db/minio-resurrect/" target="_blank">MinIO Is Dead, Long Live MinIO</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-28 21:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/lutnick-1.jpg?fit=590%2C433&amp;quality=60&amp;ssl=1" alt="Trump insists Lutnick &quot;very innocent&quot; after photo emerges of him on Epstein&#x27; island" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/28/llutnick.html" target="_blank">Trump insists Lutnick &quot;very innocent&quot; after photo emerges of him on Epstein&#x27; island</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-28 23:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/lutnick-1.jpg?fit=590%2C433&amp;quality=60&amp;ssl=1" alt="Trump insists Lutnick&quot;very innocent&quot; after photo emerges of him on Epstein&#x27; island" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +293,6 @@
                 <span class="time">2026-02-28 20:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/marlon-wayans-scary-movie-1280x853.jpg" alt="Watch Marlon Wayans React to His ‘Scary Movie 6’ Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/watch-marlon-wayans-react-to-his-scary-movie-6-trailer-2000728002" target="_blank">Watch Marlon Wayans React to His ‘Scary Movie 6’ Trailer</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-28 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 287 |
-        🔄 Last Updated: 00:07 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 107 | 📡 Total Sources: 41 | 📸 With Images: 288 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
