@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-01 16:01:49 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-01 17:03:15 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, March 01, 2026 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, March 01, 2026 - 17:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/1/trump-chose-an-avoidable-war-over-a-good-deal?traffic_source=rss" target="_blank">“Trump chose an avoidable war over a good deal.”</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-01 16:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/Tehran-strikes-DB-260301_1772364213906_hpMain_4x3t_384.jpg" alt="Iran live updates: 3 US service members killed, 5 wounded, CENTCOM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: 3 US service members killed, 5 wounded, CENTCOM says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-01 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4c1/live/ea898b90-156c-11f1-801d-ed3cff6bf876.png" alt="At least 153 dead after reported strike on school, Iran says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss" target="_blank">At least 153 dead after reported strike on school, Iran says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-01 15:32</span>
             </div>
         </div>
 <div class="story">
@@ -84,24 +100,6 @@
                 <span class="time">2026-03-01 13:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/01/nx-s1-5731368/mideast-clashes-breach-olympic-truce-winter-paralympic-games" target="_blank">Mideast clashes breach Olympic truce as athletes gather for Winter Paralympic Games</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-01 13:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/1/who-could-succeed-ayatollah-ali-khamenei-to-lead-iran?traffic_source=rss" target="_blank">Who could succeed Ayatollah Ali Khamenei to lead Iran?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-01 12:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,10 +108,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/" target="_blank">Investors spill what they aren’t looking for anymore in AI SaaS companies</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-01 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy" target="_blank">Lego’s Smart Brick is here, and it transforms these new Star Wars sets</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-01 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69a452a89458e915ed7887af/master/pass/HormuzLead.jpg" alt="What Happens if Iran Shuts Down the Strait of Hormuz?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/what-happens-if-iran-shuts-down-the-strait-of-hormuz/" target="_blank">What Happens if Iran Shuts Down the Strait of Hormuz?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-01 15:31</span>
             </div>
         </div>
 <div class="story">
@@ -141,24 +157,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/" target="_blank">SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-01 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/885811/resident-evil-requiem-grace-leon-nostalgia-ending" target="_blank">Resident Evil Requiem leans too much on the series’ past</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-01 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a32706d4164968b839bb27/master/pass/Review-%20Recteq%20Flagship%201600.png" alt="Recteq Flagship 1600 Review: An Upgraded Smoker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/recteq-flagship-1600-review/" target="_blank">Recteq Flagship 1600 Review: An Upgraded Smoker</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-01 12:30</span>
             </div>
         </div>
 </div>
@@ -226,6 +224,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/ss_c43741ddc5853e68dd4486a86e8dd0b03f475fe9.1920x1080-1280x720.jpg" alt="Zen And The Art Of Van Maintenance Meets Firewatch In Steam Next Fest Hit Cozy Survival Sim Outbound" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/steam-next-fest-feb-2026-outbound-demo-firewatch-cozy-2000674849" target="_blank">Zen And The Art Of Van Maintenance Meets Firewatch In Steam Next Fest Hit Cozy Survival Sim Outbound</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-01 16:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/FileChemist.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Convert nearly any file format without paying a monthly fee" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/01/convert-nearly-any-file-format-without-paying-a-monthly-fee.html" target="_blank">Convert nearly any file format without paying a monthly fee</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-01 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/TVanime-full-1280x720.jpg" alt="PlayStation Retro Anime Spoof Will Be Available Outside Japan For The First Time In 27 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -261,45 +277,13 @@
                 <span class="time">2026-03-01 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/btc-fork-1280x853.jpg" alt="Disgraced Mt Gox CEO Suggests Bitcoin Hard Fork to Recover $5 Billion in Customer Funds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118" target="_blank">Disgraced Mt Gox CEO Suggests Bitcoin Hard Fork to Recover $5 Billion in Customer Funds</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-01 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/slopfursona.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="GOP congressman John Rutherford praises Operation &quot;Epic Furry&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/28/operation_furry.html" target="_blank">GOP congressman John Rutherford praises Operation &quot;Epic Furry&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-01 07:36</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1772154450-20260228.png" alt="Saturday Morning Breakfast Cereal - Fund" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/fund" target="_blank">Saturday Morning Breakfast Cereal - Fund</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-02-28 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 17:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
