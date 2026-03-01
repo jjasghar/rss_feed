@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-01 06:10:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-01 07:11:51 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, March 01, 2026 - 06:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, March 01, 2026 - 07:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/1/despite-antiwar-maga-wing-trump-gets-republican-support-for-iran-strikes?traffic_source=rss" target="_blank">Despite antiwar MAGA wing, Trump gets Republican support for Iran strikes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-01 06:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/iran-12-gty-gmh-260228_1772321154734_hpMain_4x3t_384.jpg" alt="Iran live updates: Iranian state TV reports Iranian Supreme Leader Khamenei&#x27;s death" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,15 +95,6 @@
                 <span class="title"><a href="https://news.sky.com/story/paranoia-and-absolute-power-ali-khamenei-led-iran-with-supreme-self-confidence-13497943" target="_blank">The death of Iran&#x27;s Ayatollah Khamenei ends decades of paranoia-fuelled absolute power</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-03-01 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86c9/live/6364bd60-7e73-11ef-a4d3-09b59abdbf71.jpg" alt="Ayatollah Khamenei&#x27;s iron grip on power in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3gdnpjvj4ko?at_medium=RSS&at_campaign=rss" target="_blank">Ayatollah Khamenei&#x27;s iron grip on power in Iran</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-28 23:07</span>
             </div>
         </div>
 </div>
@@ -163,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/custodiaadmin/use-pagebolt-with-github-copilot-cli-automated-screenshots-and-video-demos-via-mcp-3lnd" target="_blank">Use PageBolt with GitHub Copilot CLI: Automated screenshots and video demos via MCP</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-01 07:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rafacalderon/16-patterns-for-crossing-the-webassembly-boundary-and-the-one-that-wants-to-kill-them-all-5kb" target="_blank">16 Patterns for Crossing the WebAssembly Boundary (And the One That Wants to Kill Them All)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-01 06:06</span>
@@ -202,15 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AerynOS-2026.02" target="_blank">AerynOS 2026.02 Brings More Wayland Compositor Options, Other Improvements</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-01 01:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkib171drjflrf89ucifu.png" alt="gobench.dev Creator Seeks Usability and Effectiveness Feedback for Performance Benchmarking Tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/viklogix/gobenchdev-creator-seeks-usability-and-effectiveness-feedback-for-performance-benchmarking-tool-301h" target="_blank">gobench.dev Creator Seeks Usability and Effectiveness Feedback for Performance Benchmarking Tool</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-28 23:50</span>
             </div>
         </div>
 </div>
@@ -305,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 06:10 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 07:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
