@@ -1,44 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-28 23:01:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-01 00:07:16 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 36 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, February 28, 2026 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, March 01, 2026 - 00:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -125,6 +119,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/28/why-did-netflix-back-down-from-its-deal-to-acquire-warner-bros/" target="_blank">Why did Netflix back down from its deal to acquire Warner Bros.?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-28 22:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/887040/polymarket-iran-war-betting-invaluable" target="_blank">Polymarket defends its decision to allow betting on war as ‘invaluable’</a></span>
                 <span class="feed">The Verge</span>
@@ -158,20 +161,29 @@
                 <span class="time">2026-02-28 16:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/886520/bose-quietcomfort-headphones-samsung-galaxy-s26-ultra-deal-sale" target="_blank">You can still grab great deals on Bose headphones and Astro Bot this weekend</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-28 16:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkib171drjflrf89ucifu.png" alt="gobench.dev Creator Seeks Usability and Effectiveness Feedback for Performance Benchmarking Tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/viklogix/gobenchdev-creator-seeks-usability-and-effectiveness-feedback-for-performance-benchmarking-tool-301h" target="_blank">gobench.dev Creator Seeks Usability and Effectiveness Feedback for Performance Benchmarking Tool</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-28 23:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/argocd-33/en/headerimage/generatedHeaderImage-1772321394566.jpg" alt="Argo CD 3.3 Brings Safer GitOps Deletions and Smoother Day‑to‑Day Operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/argocd-33/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Argo CD 3.3 Brings Safer GitOps Deletions and Smoother Day‑to‑Day Operations</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-28 23:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -179,6 +191,15 @@
                 <span class="title"><a href="https://dev.to/jxrdancrane/how-i-added-human-in-the-loop-approval-to-my-ai-agent-in-5-minutes-55gm" target="_blank">How I added human-in-the-loop approval to my AI agent in 5 minutes</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-28 22:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://dl.acm.org/doi/fullHtml/10.1145/238386.238611" target="_blank">The Windows 95 user interface: A case study in usability engineering (1996)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-28 22:19</span>
             </div>
         </div>
 <div class="story">
@@ -197,33 +218,6 @@
                 <span class="title"><a href="https://blog.vonng.com/en/db/minio-resurrect/" target="_blank">MinIO Is Dead, Long Live MinIO</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-28 21:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://uwplse.org/2026/02/24/egglog-containers.html" target="_blank">Custom Data Structures in E-Graphs</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-02-28 19:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/data-center-game/" target="_blank">I&amp;#x27;m Low-key Hyped for This Data Center Sim (Though It Has No Official Linux Support)</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-28 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Perf-AMD-IBS-Zen-6" target="_blank">AMD Prepares Linux For Instruction-Based Sampling Improvements With Zen 6</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-28 16:58</span>
             </div>
         </div>
 </div>
@@ -245,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/lutnick-1.jpg?fit=590%2C433&amp;quality=60&amp;ssl=1" alt="Trump insists Lutnick&quot;very innocent&quot; after photo emerges of him on Epstein&#x27; island" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/28/trump-insists-lutnickvery-innocent-after-photo-emerges-of-him-on-epstein-island.html" target="_blank">Trump insists Lutnick&quot;very innocent&quot; after photo emerges of him on Epstein&#x27; island</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-28 23:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/dario-amodei-1280x853.jpg" alt="Claude is the Number 2 Free App in Apple’s App Store Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +293,6 @@
                 <span class="time">2026-02-28 19:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/red-alert.jpg" alt="Polymarket Bravely Defends Betting On World War 3 As A Valuable Public Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/polymarket-ww3-bomb-iran-trum-prediction-market-2000674772" target="_blank">Polymarket Bravely Defends Betting On World War 3 As A Valuable Public Service</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-28 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 288 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 287 |
+        🔄 Last Updated: 00:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
