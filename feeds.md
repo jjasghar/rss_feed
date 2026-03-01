@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-01 09:03:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-01 10:02:06 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, March 01, 2026 - 09:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, March 01, 2026 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/01/nx-s1-5731333/iran-us-israel-strikes" target="_blank">Trump warns Iran not to retaliate after Ayatollah Ali Khamenei is killed</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-01 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +98,6 @@
                 <span class="time">2026-03-01 02:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/1/netanyahus-war-analysts-say-trumps-iran-strikes-benefit-israel-not-us?traffic_source=rss" target="_blank">Netanyahu’s war? Analysts say Trump’s Iran strikes benefit Israel, not US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-01 02:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,6 +110,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/" target="_blank">The trap Anthropic built for itself</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-01 00:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69a30993070d210785f7d04d/master/pass/Politics_WIRED_Iran_X.jpg" alt="X Is Drowning in Disinformation Following US and Israeli Attack on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/x-is-drowning-in-disinformation-following-us-and-israels-attack-on-iran/" target="_blank">X Is Drowning in Disinformation Following US and Israeli Attack on Iran</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-28 22:40</span>
             </div>
         </div>
 <div class="story">
@@ -152,20 +157,20 @@
                 <span class="time">2026-02-28 20:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/getty-Dario-Amodei-500x500.jpg" alt="Trump moves to ban Anthropic from the US government" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/trump-moves-to-ban-anthropic-from-the-us-government/" target="_blank">Trump moves to ban Anthropic from the US government</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-28 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/philip_mcclarence_2ef9475/understanding-timescaledb-background-workers-and-jobs-3mlc" target="_blank">Understanding TimescaleDB Background Workers and Jobs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-01 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +216,6 @@
                 <span class="time">2026-03-01 01:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AerynOS-2026.02" target="_blank">AerynOS 2026.02 Brings More Wayland Compositor Options, Other Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-01 01:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/btc-fork-1280x853.jpg" alt="Disgraced Mt Gox CEO Suggests Bitcoin Hard Fork to Recover $5 Billion in Customer Funds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118" target="_blank">Disgraced Mt Gox CEO Suggests Bitcoin Hard Fork to Recover $5 Billion in Customer Funds</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-01 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/lutnick-1.jpg?fit=590%2C433&amp;quality=60&amp;ssl=1" alt="Trump insists Lutnick &quot;very innocent&quot; after photo emerges of him on Epstein&#x27; island" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +289,6 @@
                 <span class="time">2026-02-28 20:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_1261474762-1280x853.jpg" alt="Minnesota Lawmakers and Police Seek Complete Ban on Crypto ATMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/minnesota-lawmakers-and-police-seek-complete-ban-on-crypto-atms-2000728132" target="_blank">Minnesota Lawmakers and Police Seek Complete Ban on Crypto ATMs</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-28 20:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
