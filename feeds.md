@@ -1,31 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-03-01 19:04:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-01 20:01:42 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, March 01, 2026 - 19:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, March 01, 2026 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bd/live/dfbdff70-1594-11f1-9199-ed1f26c0ffa2.jpg" alt="Iran&#x27;s regime is still intact - the coming days will show if it can hold out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2lgvg5rl1o?at_medium=RSS&at_campaign=rss" target="_blank">Iran&#x27;s regime is still intact - the coming days will show if it can hold out</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-01 18:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,6 +89,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260301-tehran-mb-0915-d438bf.jpg" alt="Republicans praise U.S. strikes on Iran as Democrats question the administration&#x27;s strategy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/iran-congress-government-khamenei-strikes-israel-war-powers-resolution-rcna261193" target="_blank">Republicans praise U.S. strikes on Iran as Democrats question the administration&#x27;s strategy</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-01 15:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260301-tehran-mb-0915-d438bf.jpg" alt="Sen. Lindsey Graham says it&#x27;s not the job of the U.S. to determine Iran&#x27;s next leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -77,29 +106,38 @@
                 <span class="time">2026-03-01 15:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260301-tehran-mb-0915-d438bf.jpg" alt="Sen. Lindsey Graham says it is not the job of the U.S. to determine Iran&#x27;s next leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/iran-congress-government-khamenei-strikes-israel-war-powers-resolution-rcna261193" target="_blank">Sen. Lindsey Graham says it is not the job of the U.S. to determine Iran&#x27;s next leader</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-01 15:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/1/us-israel-attacks-on-iran-death-toll-and-injuries-live-tracker?traffic_source=rss" target="_blank">US-Israel attacks on Iran: Death toll and injuries live tracker</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-01 14:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/01/polymarket-saw-529m-traded-on-bets-tied-to-bombing-of-iran/" target="_blank">Polymarket saw $529M traded on bets tied to bombing of Iran</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-01 19:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/887210/kalshi-void-bets-khamenei-death" target="_blank">Kalshi voids some bets on Khamenei’s ouster because it’s ‘directly tied to death’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-01 18:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69a3b8c337746a56445e9886/master/pass/GettyImages-2244475329.jpg" alt="The 5 Big ‘Known Unknowns’ of Donald Trump’s New War With Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/5-big-known-unknowns-donald-trump-iran-war/" target="_blank">The 5 Big ‘Known Unknowns’ of Donald Trump’s New War With Iran</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-01 17:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,38 +165,29 @@
                 <span class="time">2026-03-01 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a452a89458e915ed7887af/master/pass/HormuzLead.jpg" alt="What Happens if Iran Shuts Down the Strait of Hormuz?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/what-happens-if-iran-shuts-down-the-strait-of-hormuz/" target="_blank">What Happens if Iran Shuts Down the Strait of Hormuz?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-01 15:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/01/honor-says-its-robot-phone-with-moving-camera-can-dance-to-music/" target="_blank">Honor says its ‘Robot phone’ with moving camera can dance to music</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-01 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/" target="_blank">Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-01 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="HealthNearby — Find Healthcare Facilities in Cameroon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sudojayn/healthnearby-find-healthcare-facilities-in-cameroon-4kgd" target="_blank">HealthNearby — Find Healthcare Facilities in Cameroon</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-01 19:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://pyrefly.org/blog/container-inference-comparison/" target="_blank">Python Type Checker Comparison: Empty Container Inference</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-01 18:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdsvlb9m2mgkwb8xsrwig.png" alt="Data Engineering: Beginner’s Guide to Data Engineering Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,29 +224,20 @@
                 <span class="time">2026-03-01 14:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0rgyojbrt1ho880widmv.png" alt="A Evolução do Modelo Relacional para Objeto-Relacional" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/diego_ferreira_874246de77/a-evolucao-do-modelo-relacional-para-objeto-relacional-3jod" target="_blank">A Evolução do Modelo Relacional para Objeto-Relacional</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-01 13:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ghostty.org/docs" target="_blank">Ghostty – Terminal Emulator</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-01 12:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/five-nights-freddys-2-1280x854.jpg" alt="Blumhouse Wants to Be Perfectly Balanced for Horror Fans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/blumhouse-wants-to-be-perfectly-balanced-for-horror-fans-2000728153" target="_blank">Blumhouse Wants to Be Perfectly Balanced for Horror Fans</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-01 19:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/ss_c43741ddc5853e68dd4486a86e8dd0b03f475fe9.1920x1080-1280x720.jpg" alt="Zen And The Art Of Van Maintenance Meets Firewatch In Steam Next Fest Hit Cozy Survival Sim Outbound" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,15 +283,6 @@
                 <span class="time">2026-03-01 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/paul-davies-quantum-revolution-top-image-1280x853.jpg" alt="From Quantum Spam to Quantum Minds: Why the ‘Best’ Revolution in Physics Is Only Getting Started" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/from-quantum-spam-to-quantum-minds-why-the-best-revolution-in-physics-is-only-getting-started-2000727266" target="_blank">From Quantum Spam to Quantum Minds: Why the ‘Best’ Revolution in Physics Is Only Getting Started</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-01 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -291,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 19:04 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
