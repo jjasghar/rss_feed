@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-01 10:02:06 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-01 11:02:37 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, March 01, 2026 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, March 01, 2026 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/3/1/live-india-vs-west-india-t20-world-cup-super-eights?traffic_source=rss" target="_blank">LIVE: India vs West Indies – T20 World Cup Super Eights</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-01 10:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +98,6 @@
                 <span class="title"><a href="https://news.sky.com/story/the-us-war-against-iran-marks-a-new-era-of-conflict-but-what-comes-next-is-hard-to-predict-13513734" target="_blank">Attack on Iran marks a new era of conflict and could make the planet a lot less safe</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-03-01 04:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-12-gty-gmh-260228_1772321154734_hpMain_4x3t_384.jpg" alt="Iran live updates: Iranian state TV reports Iranian Supreme Leader Khamenei&#x27;s death" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: Iranian state TV reports Iranian Supreme Leader Khamenei&#x27;s death</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-01 02:54</span>
             </div>
         </div>
 </div>
@@ -163,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Why I spent my weekend building a &quot;Cyber-Immune System&quot; for students" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/agp_marka_62a62d1cdadad70/why-i-spent-my-weekend-building-a-cyber-immune-system-for-students-4682" target="_blank">Why I spent my weekend building a &quot;Cyber-Immune System&quot; for students</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-01 10:52</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +216,6 @@
                 <span class="title"><a href="http://karpathy.github.io/2026/02/12/microgpt/" target="_blank">Microgpt</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-01 01:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pratikmathur279/web-standards-win-interop-2026-signals-the-end-of-browser-wars-6kb" target="_blank">Web Standards Win: Interop 2026 Signals the End of Browser Wars</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-01 01:22</span>
             </div>
         </div>
 </div>
@@ -308,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
