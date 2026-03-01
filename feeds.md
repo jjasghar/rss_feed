@@ -1,44 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-01 13:14:24 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-01 14:02:58 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 35 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, March 01, 2026 - 13:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, March 01, 2026 - 14:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/1/at-least-nine-killed-after-iranian-strike-on-israels-beit-shemesh?traffic_source=rss" target="_blank">At least nine killed after Iranian strike on Israel’s Beit Shemesh</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-01 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/01/nx-s1-5731368/mideast-clashes-breach-olympic-truce-winter-paralympic-games" target="_blank">Mideast clashes breach Olympic truce as athletes gather for Winter Paralympic Games</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-01 13:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,29 +98,20 @@
                 <span class="time">2026-03-01 11:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/3/1/the-us-israeli-war-on-iran-could-rewrite-gulf-security-calculations?traffic_source=rss" target="_blank">The US-Israeli war on Iran could rewrite Gulf security calculations</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-01 11:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/01/nx-s1-5731365/us-israeli-strikes-region" target="_blank">U.S.-Israeli strikes in Iran continue into 2nd day, as the region faces turmoil</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-01 11:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/" target="_blank">SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-01 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -156,15 +155,6 @@
                 <span class="title"><a href="https://www.wired.com/story/x-is-drowning-in-disinformation-following-us-and-israels-attack-on-iran/" target="_blank">X Is Drowning in Disinformation Following US and Israel’s Attack on Iran</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-28 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/28/why-did-netflix-back-down-from-its-deal-to-acquire-warner-bros/" target="_blank">Why did Netflix back down from its deal to acquire Warner Bros.?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-28 22:07</span>
             </div>
         </div>
 </div>
@@ -232,6 +222,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Dreame-X60-Max-Ultra-Complete-review-4-1280x853.jpg" alt="Dreame X60 Max Ultra Complete Review: $1,700 Worth of Robot Vacuum Problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dreame-x60-max-ultra-complete-review-1700-worth-of-robot-vacuum-problems-2000727160" target="_blank">Dreame X60 Max Ultra Complete Review: $1,700 Worth of Robot Vacuum Problems</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-01 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/paul-davies-quantum-revolution-top-image-1280x853.jpg" alt="From Quantum Spam to Quantum Minds: Why the ‘Best’ Revolution in Physics Is Only Getting Started" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -276,15 +275,6 @@
                 <span class="time">2026-02-28 23:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/dario-amodei-1280x853.jpg" alt="Claude is the Number 2 Free App in Apple’s App Store Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/claude-is-the-number-2-free-app-in-apples-app-store-now-2000728146" target="_blank">Claude is the Number 2 Free App in Apple’s App Store Now</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-28 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 99 | 📡 Total Sources: 41 | 📸 With Images: 285 |
-        🔄 Last Updated: 13:14 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 14:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
