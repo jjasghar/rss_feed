@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-01 01:30:49 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-01 02:58:33 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, March 01, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, March 01, 2026 - 02:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/1/netanyahus-war-analysts-say-trumps-iran-strikes-benefit-israel-not-us?traffic_source=rss" target="_blank">Netanyahu’s war? Analysts say Trump’s Iran strikes benefit Israel, not US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-01 02:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +95,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: Trump confirms Iranian Supreme Leader Ali Khamenei is dead</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-28 21:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1772310739826_now_brk_welker_trump_ayatollah_260228_1920x1080-s9ygey.jpg" alt="Trump on reports of Ayatollah&#x27;s death: &#x27;We feel that is a correct story&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-on-reports-of-ayatollah-s-death-we-feel-that-is-a-correct-story-258487365835" target="_blank">Trump on reports of Ayatollah&#x27;s death: &#x27;We feel that is a correct story&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-28 20:32</span>
             </div>
         </div>
 </div>
@@ -169,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="http://karpathy.github.io/2026/02/12/microgpt/" target="_blank">Microgpt</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-01 01:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pratikmathur279/web-standards-win-interop-2026-signals-the-end-of-browser-wars-6kb" target="_blank">Web Standards Win: Interop 2026 Signals the End of Browser Wars</a></span>
                 <span class="feed">DEV Community</span>
@@ -209,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/jxrdancrane/how-i-added-human-in-the-loop-approval-to-my-ai-agent-in-5-minutes-55gm" target="_blank">How I added human-in-the-loop approval to my AI agent in 5 minutes</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-28 22:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dl.acm.org/doi/fullHtml/10.1145/238386.238611" target="_blank">The Windows 95 user interface: A case study in usability engineering (1996)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-28 22:19</span>
             </div>
         </div>
 </div>
@@ -312,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 107 | 📡 Total Sources: 41 | 📸 With Images: 288 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 02:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
