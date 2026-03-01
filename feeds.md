@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-01 17:03:15 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-01 18:02:16 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, March 01, 2026 - 17:03 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, March 01, 2026 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -74,6 +75,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260301-tehran-mb-0915-d438bf.jpg" alt="Sen. Lindsey Graham says it&#x27;s not the job of the U.S. to determine Iran&#x27;s next leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/iran-congress-government-khamenei-strikes-israel-war-powers-resolution-rcna261193" target="_blank">Sen. Lindsey Graham says it&#x27;s not the job of the U.S. to determine Iran&#x27;s next leader</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-01 15:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260301-tehran-mb-0915-d438bf.jpg" alt="Sen. Lindsey Graham says it is not the job of the U.S. to determine Iran&#x27;s next leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -91,20 +101,20 @@
                 <span class="time">2026-03-01 14:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/1/at-least-nine-killed-after-iranian-strike-on-israels-beit-shemesh?traffic_source=rss" target="_blank">At least nine killed after Iranian strike on Israel’s Beit Shemesh</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-01 13:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/" target="_blank">Google looks to tackle longstanding RCS spam in India — but not alone</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-01 17:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +158,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/" target="_blank">Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-01 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/" target="_blank">SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-01 14:00</span>
             </div>
         </div>
 </div>
@@ -203,19 +204,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/myougatheaxo/zero-to-android-app-in-11-minutes-no-coding-required-1ein" target="_blank">Zero to Android App in 11 Minutes (No Coding Required)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-01 11:52</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ghostty.org/docs" target="_blank">Ghostty – Terminal Emulator</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-01 12:13</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/ASUS-WMI-Linux-Driver-New-2026" target="_blank">ASUS Linux HID Driver Preparing To See Support For Newer Devices</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-01 11:50</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/myougatheaxo/zero-to-android-app-in-11-minutes-no-coding-required-1ein" target="_blank">Zero to Android App in 11 Minutes (No Coding Required)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-01 11:52</span>
             </div>
         </div>
 </div>
@@ -279,11 +280,25 @@
         </div>
 </div>
 </div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1772223575-20260301copy.png" alt="Saturday Morning Breakfast Cereal - Friend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/friend-2" target="_blank">Saturday Morning Breakfast Cereal - Friend</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-01 16:20</span>
+            </div>
+        </div>
+</div>
+</div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 17:03 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
