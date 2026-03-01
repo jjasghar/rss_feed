@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-01 22:01:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-01 23:02:21 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 0 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, March 01, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, March 01, 2026 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Tehran-strikes-DB-260301_1772364213906_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says there will &#x27;likely&#x27; be more US casualties" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: Trump says there will &#x27;likely&#x27; be more US casualties</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-01 22:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +100,20 @@
                 <span class="time">2026-03-01 15:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4c1/live/ea898b90-156c-11f1-801d-ed3cff6bf876.png" alt="At least 153 dead after reported strike on school, Iran says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss" target="_blank">At least 153 dead after reported strike on school, Iran says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-01 15:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub" target="_blank">A robot arm with puppy dog eyes is just one of Lenovo&amp;#8217;s new desktop AI concepts</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-01 23:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +157,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/" target="_blank">Google looks to tackle longstanding RCS spam in India — but not alone</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-01 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/" target="_blank">Investors spill what they aren’t looking for anymore in AI SaaS companies</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-01 17:00</span>
             </div>
         </div>
 </div>
@@ -243,6 +242,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/20260227_163719-1280x721.jpg" alt="The Zoomer Obsession With DVDs Is A Blueprint For Saving Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dvds-zoomers-physical-media-retro-games-2000674865" target="_blank">The Zoomer Obsession With DVDs Is A Blueprint For Saving Gaming</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-01 19:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/ss_c43741ddc5853e68dd4486a86e8dd0b03f475fe9.1920x1080-1280x720.jpg" alt="Zen And The Art Of Van Maintenance Meets Firewatch In Steam Next Fest Hit Cozy Survival Sim Outbound" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -269,15 +277,6 @@
                 <span class="time">2026-03-01 15:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Tron-Ares-Lightcycle-poster-1280x853.jpg" alt="Nine Inch Nails Has a New ‘Tron: Ares’ Soundtrack to Rock Out To" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nine-inch-nails-has-a-new-tron-ares-soundtrack-to-rock-out-to-2000728160" target="_blank">Nine Inch Nails Has a New ‘Tron: Ares’ Soundtrack to Rock Out To</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-01 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
