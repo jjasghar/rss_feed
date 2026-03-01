@@ -1,42 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-03-01 20:01:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-01 21:02:30 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 33 feeds processed -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, March 01, 2026 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, March 01, 2026 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/1/iranian-drone-strikes-us-military-facility-in-kuwait?traffic_source=rss" target="_blank">Iranian drone strikes US military facility in Kuwait</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-01 19:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-iran-germany-strikes_7179168.jpg?20260301195718" alt="Anxious allies are demanding Trump&#x27;s team shows it has a plan for Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/anxious-allies-are-demanding-trumps-team-shows-it-has-a-plan-for-iran-13514014" target="_blank">Anxious allies are demanding Trump&#x27;s team shows it has a plan for Iran</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-01 19:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bd/live/dfbdff70-1594-11f1-9199-ed1f26c0ffa2.jpg" alt="Iran&#x27;s regime is still intact - the coming days will show if it can hold out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,29 +105,20 @@
                 <span class="time">2026-03-01 15:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260301-tehran-mb-0915-d438bf.jpg" alt="Republicans praise U.S. strikes on Iran as Democrats question the administration&#x27;s strategy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/iran-congress-government-khamenei-strikes-israel-war-powers-resolution-rcna261193" target="_blank">Republicans praise U.S. strikes on Iran as Democrats question the administration&#x27;s strategy</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-01 15:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260301-tehran-mb-0915-d438bf.jpg" alt="Sen. Lindsey Graham says it&#x27;s not the job of the U.S. to determine Iran&#x27;s next leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/iran-congress-government-khamenei-strikes-israel-war-powers-resolution-rcna261193" target="_blank">Sen. Lindsey Graham says it&#x27;s not the job of the U.S. to determine Iran&#x27;s next leader</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-01 15:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/887220/sonos-play-leak" target="_blank">Portable Sonos Play speaker leaks on Canadian Best Buy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-01 20:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,15 +162,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/" target="_blank">Investors spill what they aren’t looking for anymore in AI SaaS companies</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-01 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy" target="_blank">Lego’s Smart Brick is here, and it transforms these new Star Wars sets</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-01 16:00</span>
             </div>
         </div>
 </div>
@@ -230,6 +229,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/bitcoin-outstretched-hands-1280x850.jpg" alt="South Korean Police Lose Seized Crypto By Posting Password Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-password-online-2000728191" target="_blank">South Korean Police Lose Seized Crypto By Posting Password Online</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-01 20:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/five-nights-freddys-2-1280x854.jpg" alt="Blumhouse Wants to Be Perfectly Balanced for Horror Fans" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -274,15 +282,6 @@
                 <span class="time">2026-03-01 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Dreame-X60-Max-Ultra-Complete-review-4-1280x853.jpg" alt="Dreame X60 Max Ultra Complete Review: $1,700 Worth of Robot Vacuum Problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dreame-x60-max-ultra-complete-review-1700-worth-of-robot-vacuum-problems-2000727160" target="_blank">Dreame X60 Max Ultra Complete Review: $1,700 Worth of Robot Vacuum Problems</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-01 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
