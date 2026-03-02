@@ -1,41 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-02 21:07:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-02 22:04:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, March 02, 2026 - 21:07 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, March 02, 2026 - 22:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/02/nx-s1-5732871/bill-clinton-hillary-clinton-depositions-epstein-files" target="_blank">Video of Clinton depositions in Epstein investigation released by House Republicans</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-02 21:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f60/live/0f747b10-1651-11f1-b29a-e1e1dc0900a9.png" alt="Starmer criticises Trump over Iran strikes, as he defends UK position" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -96,20 +104,20 @@
                 <span class="time">2026-03-02 17:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2026/3/2/this-war-might-push-iran-to-a-bomb-faster?traffic_source=rss" target="_blank">‘This war might push Iran to a bomb faster.’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-02 17:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69a6006e3b620fa230274768/master/pass/Missile-Attacks-Overwhelming-Gulf-Delivery-Drivers-Still-on-Roads-Business-2263719374.jpg" alt="Missile Attacks Are Overwhelming the Gulf. Delivery Drivers Are Still on the Roads" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/with-missile-attacks-overhead-in-the-gulf-delivery-drivers-are-still-on-the-road/" target="_blank">Missile Attacks Are Overwhelming the Gulf. Delivery Drivers Are Still on the Roads</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-02 21:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69a1f931afca25142fae8979/master/pass/Review-%20BlipBlox%20After%20Dark.png" alt="BlipBlox After Dark Review: a Synthesizer for Everybody" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,20 +163,29 @@
                 <span class="time">2026-03-02 18:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/cox-truck-500x500.jpg" alt="Charter gets FCC permission to buy Cox and become largest ISP in the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/fcc-lets-charter-buy-cox-says-no-reason-to-worry-about-higher-internet-prices/" target="_blank">Charter gets FCC permission to buy Cox and become largest ISP in the US</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-02 18:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-9745-9755" target="_blank">AMD EPYC Turin 128 Core Comparison: EPYC 9745 &quot;Zen 5C&quot; vs. EPYC 9755 &quot;Zen 5&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-02 21:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://take.surf/2026/03/01/welcome-back-to-macintosh" target="_blank">Welcome (back) to Macintosh</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-02 21:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmlw89hhk0opvw4m9gggc.jpg" alt="CI/CD for BigQuery Views" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,24 +222,6 @@
                 <span class="time">2026-03-02 18:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/xqliu/two-losses-two-systemic-bugs-automated-trading-post-mortem-from-okx-and-hyperliquid-427l" target="_blank">Two Losses, Two Systemic Bugs - Automated Trading Post-Mortem from OKX and Hyperliquid</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-02 18:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-ACPI-Error-Power-Off" target="_blank">Linux 7.1 Will Power Off The System By Default If A Fatal ACPI Error Occurs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-02 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +241,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/epsteinfamilyyfy-1280x720.jpg" alt="Sims 4 Players Don’t Understand How ‘Disgusting’ Epstein Family Made It Into Game’s Gallery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sims-4-jeffrey-epstein-kids-family-ea-user-generated-content-gallery-fans-angry-2000675121" target="_blank">Sims 4 Players Don’t Understand How ‘Disgusting’ Epstein Family Made It Into Game’s Gallery</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-02 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/mikey-china-ghost-city.jpg?fit=1762%2C982&amp;quality=60&amp;ssl=1" alt="China&#x27;s looming luxury housing projects attracting younger people looking for budget living" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/02/chinas-looming-luxury-housing-projects-attracting-younger-people-looking-for-budget-living.html" target="_blank">China&#x27;s looming luxury housing projects attracting younger people looking for budget living</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-02 21:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GSCJ1SJME55D10VVM4VB0/hero-image.png" alt="Do These Things Now to Prepare for Daylight Saving Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/do-these-things-now-to-prepare-for-daylight-saving-time?utm_medium=RSS" target="_blank">Do These Things Now to Prepare for Daylight Saving Time</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-02 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/image-35.jpg" alt="The Analogue Pocket Is Finally Back In Stock But Even More Expensive As Retro Handheld Costs Rise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,38 +295,20 @@
                 <span class="time">2026-03-02 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJ868Q08KRVSJT9HAC0RE3Q0/hero-image.jpg" alt="10 Hacks Every Snapchat User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-snapchat-hacks?utm_medium=RSS" target="_blank">10 Hacks Every Snapchat User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-02 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/linux.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="California&#x27;s age verification law could regulate every Linux command" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/02/californias-age-verification-law-could-regulate-every-linux-command.html" target="_blank">California&#x27;s age verification law could regulate every Linux command</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-02 19:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/trump-1280x720.jpg" alt="Trump’s Neck Looks Like It Needs A Green Herb" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/president-trump-neck-infection-red-rash-resident-evil-2000675090" target="_blank">Trump’s Neck Looks Like It Needs A Green Herb</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-02 19:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/02/vox-watchina" target="_blank">Vox Watchina</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-02 21:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1772223623-20260302.png" alt="Saturday Morning Breakfast Cereal - Athenian" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -333,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 21:07 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 22:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
