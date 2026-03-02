@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-02 14:13:45 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-02 15:11:07 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, March 02, 2026 - 14:13 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, March 02, 2026 - 15:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/hegseth-5-gty-gmh-260302_1772458027230_hpMain_4x3t_384.jpg" alt="Iran live updates: &#x27;We didn&#x27;t start this war but … we are finishing it,&#x27; Hegseth says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: &#x27;We didn&#x27;t start this war but … we are finishing it,&#x27; Hegseth says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-02 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/02/nx-s1-5732287/iran-war-oil-gasoline-prices" target="_blank">Oil prices surge and stocks fall amid fears over Iran war</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-02 14:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/helicopter-ht-jt-260228_1772312403650_hpMain_4x3t_384.jpg" alt="Iran live updates: &#x27;We didn’t start this war but … we are finishing it,&#x27; Hegseth says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +100,29 @@
                 <span class="time">2026-03-02 11:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/02/nx-s1-5729026/tomato-clownfish-stripes-social-pressure" target="_blank">Peer pressure can make this clownfish change its stripes</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-02 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dd7/live/e69b31c0-1619-11f1-801d-ed3cff6bf876.jpg" alt="Iranian drone hit RAF base, Cyprus president says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm2r0q310e3o?at_medium=RSS&at_campaign=rss" target="_blank">Iranian drone hit RAF base, Cyprus president says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-02 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/ipad-air-m4-500x500-1772463928.jpg" alt="Apple keeps the iPad Air fresh with M4 chip upgrade and 12GB of RAM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/apple-keeps-the-ipad-air-fresh-with-m4-chip-upgrade-and-12gb-of-ram/" target="_blank">Apple keeps the iPad Air fresh with M4 chip upgrade and 12GB of RAM</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-02 15:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/887063/clear-drop-review-soft-plastic-compactor-recycling-downcycling" target="_blank">Investigating the 61-pound machine that eats plastic and spits out bricks</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-02 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +159,38 @@
                 <span class="time">2026-03-02 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/699f79c89c1839834b2d7742/master/pass/Arctic-Circle-Next-Frontier-In-AI-Infrastructure-Wars-Business-2163338735.jpg" alt="The Data Centers Have Arrived at the Edge of the Arctic Circle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ai-supremacy-data-center-expansion-arctic-circle/" target="_blank">The Data Centers Have Arrived at the Edge of the Arctic Circle</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-02 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/886923/tecnos-latest-concept-phone-is-lit-by-neon" target="_blank">Tecno’s latest concept phone is lit by neon</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-02 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18883706&w=600" alt="Kubernetes for DevOps Engineers: Mastering Modern Patterns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/kubernetes-for-devops-engineers-mastering-modern" target="_blank">Kubernetes for DevOps Engineers: Mastering Modern Patterns</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-02 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/uber-scaled-data-replication/en/headerimage/generatedHeaderImage-1771726275349.jpg" alt="Hybrid Cloud Data at Uber: How Engineers Solved Extreme-Scale Replication Challenges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/uber-scaled-data-replication/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Hybrid Cloud Data at Uber: How Engineers Solved Extreme-Scale Replication Challenges</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-02 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/orange-pi-neo-delayed/" target="_blank">Sad News! AI&amp;#x27;s RAM Hunger Finds a New Victim in the Orange Pi Neo Linux Handheld</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-03-02 14:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18895720&w=600" alt="Hands-On with Azure Local via the Azure Portal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,33 +216,6 @@
                 <span class="title"><a href="https://dev.to/edmund_eryuba/designing-efficient-queries-with-sql-joins-and-window-functions-447k" target="_blank">Designing Efficient Queries with SQL Joins and Window Functions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-02 11:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/podcasts/frictionless-devex/en/smallimage/the-infoq-podcast-logo-thumbnail-1771853825072.jpg" alt="Podcast: [Video Podcast] Frictionless DevEx with Nicole Forsgren" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/podcasts/frictionless-devex/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: [Video Podcast] Frictionless DevEx with Nicole Forsgren</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-02 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/cloud-native-android-infotainment-your-ci-pipeline-shouldnt-depend-on-hardware" target="_blank">Cloud-native Android™ infotainment: your CI pipeline shouldn’t depend on hardware</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-03-02 09:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/deepseax/blacksmithai-ai-powered-pentesting-framework-threat-analysis-3i6o" target="_blank">BlacksmithAI: AI-Powered Pentesting Framework Threat Analysis</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-02 09:06</span>
             </div>
         </div>
 </div>
@@ -328,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 14:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 15:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
