@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-02 07:18:47 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-02 08:08:29 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, March 02, 2026 - 07:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, March 02, 2026 - 08:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec37/live/0bb8b690-15d8-11f1-b048-c9424b2cf5fd.jpg" alt="Iranian drone crashed into RAF base, Cyprus president says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm2r0q310e3o?at_medium=RSS&at_campaign=rss" target="_blank">Iranian drone crashed into RAF base, Cyprus president says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-02 07:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Tehran-strikes-DB-260301_1772364213906_hpMain_4x3t_384.jpg" alt="Iran live updates: &#x27;We will not negotiate with the United States&#x27;: Iranian official" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/1/gunman-kills-two-in-texas-nightlife-shooting-fbi-probing-terrorism-link?traffic_source=rss" target="_blank">Gunman kills two in Texas bar shooting, FBI probing ‘terrorism’ link</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-01 23:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2022-08/20220818-sj-gas-prices-548p-7b7dc9.jpg" alt="Higher gas prices are likely coming to the pump after oil prices jump in wake of U.S. strikes in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/business-news/oil-prices-iran-strikes-rcna261209" target="_blank">Higher gas prices are likely coming to the pump after oil prices jump in wake of U.S. strikes in Iran</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-01 23:24</span>
             </div>
         </div>
 </div>
@@ -168,6 +171,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ryzen-AI-PRO-400-Desktop-CPUs" target="_blank">AMD Announces Ryzen AI PRO 400 Series Desktop CPUs For AI-Focused Computing</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-02 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/myougatheaxo/room-pagingwan-quan-gaido-pagingsourceremotemediatorohurainkiyatusiyu-5b38" target="_blank">Room + Paging完全ガイド — PagingSource/RemoteMediator/オフラインキャッシュ</a></span>
                 <span class="feed">DEV Community</span>
@@ -193,30 +205,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/03/java-news-roundup-feb23-2026/en/headerimage/java-istock-image-01-1772394523368.jpg" alt="Java News Roundup: Lazy Constants, TornadoVM 3.0, NetBeans 29, Quarkus, JReleaser, Open Liberty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/java-news-roundup-feb23-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Lazy Constants, TornadoVM 3.0, NetBeans 29, Quarkus, JReleaser, Open Liberty</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-02 03:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyxl8bpi9szbq09h4ll6l.jpg" alt="DoubtDrop – A Lightweight Q&amp;A Platform for Student Communities" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/adaikkappan2310/doubtdrop-a-lightweight-qa-platform-for-student-communities-4ei6" target="_blank">DoubtDrop – A Lightweight Q&amp;A Platform for Student Communities</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-02 02:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/mandel-macaque/memento" target="_blank">If AI writes code, should the session be part of the commit?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-02 00:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc2-Released" target="_blank">Linux 7.0-rc2 Released: &quot;So I&#x27;m Not Super-Happy With How Big This Is&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-02 00:15</span>
             </div>
         </div>
 </div>
@@ -284,6 +287,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/03/02/vox-watchina" target="_blank">Vox Watchina</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-02 08:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5776.png" alt="Hum And Buzz" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -306,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 07:19 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 08:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
