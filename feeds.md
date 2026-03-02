@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-02 22:04:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-02 23:02:42 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, March 02, 2026 - 22:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, March 02, 2026 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -171,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/charlieseay/closing-the-gap-how-a-mac-mini-and-ai-reignited-20-years-of-ideas-4l6a" target="_blank">Closing the Gap: How a Mac Mini and AI Reignited 20 Years of Ideas</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-02 22:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-9745-9755" target="_blank">AMD EPYC Turin 128 Core Comparison: EPYC 9745 &quot;Zen 5C&quot; vs. EPYC 9755 &quot;Zen 5&quot;</a></span>
                 <span class="feed">Phoronix</span>
@@ -213,15 +215,6 @@
                 <span class="time">2026-03-02 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://getbruin.com/blog/go-is-the-best-language-for-agents/" target="_blank">Go is the best language for agents</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-02 18:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +234,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/billie-1280x853.jpg" alt="The BBC Won’t Have a New ‘Doctor Who’ Star to Announce Until It Figures Out the Show’s Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/doctor-who-billie-piper-doctor-casting-bbc-2000728564" target="_blank">The BBC Won’t Have a New ‘Doctor Who’ Star to Announce Until It Figures Out the Show’s Future</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-02 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HN0ZP8S1KSR9CY579D4F5JF6/hero-image.png" alt="Amazon Prime Members Can Get Two Free E-Books in March" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/free-kindle-books-march-2026?utm_medium=RSS" target="_blank">Amazon Prime Members Can Get Two Free E-Books in March</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-02 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Microsoft-Visual-Studio-Professional-2026-2.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Lifetime access to the most recent version of Visual Studio Pro dropped from $499.99 to $50" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/02/lifetime-access-to-the-most-recent-version-of-visual-studio-pro-dropped-from-499-99-to-50.html" target="_blank">Lifetime access to the most recent version of Visual Studio Pro dropped from $499.99 to $50</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-02 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/epsteinfamilyyfy-1280x720.jpg" alt="Sims 4 Players Don’t Understand How ‘Disgusting’ Epstein Family Made It Into Game’s Gallery" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,33 +286,6 @@
                 <span class="title"><a href="https://lifehacker.com/do-these-things-now-to-prepare-for-daylight-saving-time?utm_medium=RSS" target="_blank">Do These Things Now to Prepare for Daylight Saving Time</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-02 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/image-35.jpg" alt="The Analogue Pocket Is Finally Back In Stock But Even More Expensive As Retro Handheld Costs Rise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/analogue-pocket-stock-price-ayn-odin-thor-2000675092" target="_blank">The Analogue Pocket Is Finally Back In Stock But Even More Expensive As Retro Handheld Costs Rise</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-02 20:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJQY3Y71TGGSJR4NC1849BRM/hero-image.png" alt="The Best Ways to Refresh Your Old Kitchen for Cheap (or Free)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/budget-friendly-kitchen-upgrade-ideas?utm_medium=RSS" target="_blank">The Best Ways to Refresh Your Old Kitchen for Cheap (or Free)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-02 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/world-of-warcraft-midnight-silvermoon-city-1280x853.jpg" alt="‘World of Warcraft’ Just Upgraded Its Best City for the First Time in 20 Years, and Now It’s Perfect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/world-of-warcraft-midnight-silvermoon-city-update-2000728382" target="_blank">‘World of Warcraft’ Just Upgraded Its Best City for the First Time in 20 Years, and Now It’s Perfect</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-02 20:00</span>
             </div>
         </div>
 </div>
@@ -341,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 22:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
