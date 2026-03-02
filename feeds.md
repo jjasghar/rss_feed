@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-02 13:23:48 UTC -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-03-02 14:13:45 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Error processing https://feeds.skynews.com/feeds/rss/world.xml: The read operation timed out -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, March 02, 2026 - 13:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, March 02, 2026 - 14:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/helicopter-ht-jt-260228_1772312403650_hpMain_4x3t_384.jpg" alt="Iran live updates: &#x27;We didn’t start this war but … we are finishing it,&#x27; Hegseth says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: &#x27;We didn’t start this war but … we are finishing it,&#x27; Hegseth says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-02 14:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dd7/live/e69b31c0-1619-11f1-801d-ed3cff6bf876.jpg" alt="Two drones headed to RAF base intercepted, Cyprus says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +100,20 @@
                 <span class="time">2026-03-02 07:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec37/live/0bb8b690-15d8-11f1-b048-c9424b2cf5fd.jpg" alt="Iranian drone crashed into RAF base, Cyprus president says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm2r0q310e3o?at_medium=RSS&at_campaign=rss" target="_blank">Iranian drone crashed into RAF base, Cyprus president says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-02 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/02/myfitnesspal-has-acquired-cal-ai-the-viral-calorie-app-built-by-teens/" target="_blank">MyFitnessPal has acquired Cal AI, the viral calorie app built by teens</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-02 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/stephen-colbert-with-talarico-500x500.jpg" alt="Trump FCC&#x27;s equal-time crackdown doesn&#x27;t apply equally—or at all—to talk radio" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +159,29 @@
                 <span class="time">2026-03-02 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/ryzen-ai-400-desktop-500x500.jpg" alt="AMD will bring its &quot;Ryzen AI&quot; processors to standard desktop PCs for the first time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/" target="_blank">AMD will bring its &quot;Ryzen AI&quot; processors to standard desktop PCs for the first time</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-02 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18895720&w=600" alt="Hands-On with Azure Local via the Azure Portal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/hands-on-azure-local-via-azure-portal" target="_blank">Hands-On with Azure Local via the Azure Portal</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-02 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/more-identity-providers-ubuntu-generic-broker" target="_blank">Supporting more identity providers on Ubuntu with the new Authd OIDC broker</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-03-02 12:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyu2197m57t1949wpkufx.png" alt="Designing Efficient Queries with SQL Joins and Window Functions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,24 +218,6 @@
                 <span class="time">2026-03-02 09:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/ai-systems-privacy-security/en/mediumimage/katharine-jarmul-medium-1771412784942.jpeg" alt="Presentation: Busting AI Myths and Embracing Realities in Privacy &amp; Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/ai-systems-privacy-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Busting AI Myths and Embracing Realities in Privacy &amp; Security</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-02 09:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Steam-Survey-February-2026" target="_blank">Steam Survey Results Published For February 2026</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-02 08:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/HG-header-2-1280x717.jpg" alt="Highguard Developer Reveals His Theory For Why So Many Players Ditched The Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/highguard-3v3-update-what-went-wrong-2000675003" target="_blank">Highguard Developer Reveals His Theory For Why So Many Players Ditched The Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-02 13:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KATS5NYHR3D7FX9YEXV8532Y/hero-image.png" alt="You Can Get This Budget HP Laptop on Sale for Just $245 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/hp-elitebook-laptop-stacksocial-sale-march-2026?utm_medium=RSS" target="_blank">You Can Get This Budget HP Laptop on Sale for Just $245 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-02 13:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/Looki-L1-AI-Pendant-1-1280x853.jpg" alt="Where Humane Failed, Qualcomm Imagines the Future Is Filled With AI Pins" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +289,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/lenovos-foldable-gaming-handheld-is-too-cool-to-be-a-concept?utm_medium=RSS" target="_blank">Lenovo&#x27;s Foldable Gaming Handheld Is Too Cool to Remain Just a Concept</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-01 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/bitcoin-outstretched-hands-1280x850.jpg" alt="South Korean Police Lose Seized Crypto By Posting Password Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-password-online-2000728191" target="_blank">South Korean Police Lose Seized Crypto By Posting Password Online</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-01 20:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/five-nights-freddys-2-1280x854.jpg" alt="Blumhouse Wants to Be Perfectly Balanced for Horror Fans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/blumhouse-wants-to-be-perfectly-balanced-for-horror-fans-2000728153" target="_blank">Blumhouse Wants to Be Perfectly Balanced for Horror Fans</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-01 19:50</span>
             </div>
         </div>
 </div>
@@ -325,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 13:24 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 14:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
