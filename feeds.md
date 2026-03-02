@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-02 08:08:29 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-02 09:13:02 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, March 02, 2026 - 08:08 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, March 02, 2026 - 09:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +105,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/886923/tecnos-latest-concept-phone-is-lit-by-neon" target="_blank">Tecno’s latest concept phone is lit by neon</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-02 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/ryzen-ai-400-desktop-500x500.jpg" alt="AMD will bring its &quot;Ryzen AI&quot; processors to standard desktop PCs for the first time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/" target="_blank">AMD will bring its &quot;Ryzen AI&quot; processors to standard desktop PCs for the first time</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-02 08:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69a2068621f86c9e289eb174/master/pass/DSC_7446.jpg" alt="Lenovo’s Latest Wacky Concepts Include a Laptop With a Built-in Portable Monitor" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -145,29 +158,38 @@
                 <span class="time">2026-03-01 19:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/887210/kalshi-void-bets-khamenei-death" target="_blank">Kalshi voids some bets on Khamenei’s ouster because it’s ‘directly tied to death’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-01 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a3b8c337746a56445e9886/master/pass/GettyImages-2244475329.jpg" alt="The 5 Big ‘Known Unknowns’ of Donald Trump’s New War With Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/5-big-known-unknowns-donald-trump-iran-war/" target="_blank">The 5 Big ‘Known Unknowns’ of Donald Trump’s New War With Iran</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-01 17:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/deepseax/blacksmithai-ai-powered-pentesting-framework-threat-analysis-3i6o" target="_blank">BlacksmithAI: AI-Powered Pentesting Framework Threat Analysis</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-02 09:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/ai-systems-privacy-security/en/mediumimage/katharine-jarmul-medium-1771412784942.jpeg" alt="Presentation: Busting AI Myths and Embracing Realities in Privacy &amp; Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/ai-systems-privacy-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Busting AI Myths and Embracing Realities in Privacy &amp; Security</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-02 09:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-Survey-February-2026" target="_blank">Steam Survey Results Published For February 2026</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-02 08:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -180,46 +202,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/" target="_blank">Motorola announces a partnership with GrapheneOS Foundation</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-02 06:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/myougatheaxo/room-pagingwan-quan-gaido-pagingsourceremotemediatorohurainkiyatusiyu-5b38" target="_blank">Room + Paging完全ガイド — PagingSource/RemoteMediator/オフラインキャッシュ</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-02 05:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/helgesverre/introducing-logobox-beautiful-logos-without-design-skills-4hkb" target="_blank">Introducing logobox: Beautiful Logos Without Design Skills</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-02 04:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/" target="_blank">Computer-generated dream world: Virtual reality for a 286 processor</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-02 04:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/java-news-roundup-feb23-2026/en/headerimage/java-istock-image-01-1772394523368.jpg" alt="Java News Roundup: Lazy Constants, TornadoVM 3.0, NetBeans 29, Quarkus, JReleaser, Open Liberty" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/java-news-roundup-feb23-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Lazy Constants, TornadoVM 3.0, NetBeans 29, Quarkus, JReleaser, Open Liberty</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-02 03:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyxl8bpi9szbq09h4ll6l.jpg" alt="DoubtDrop – A Lightweight Q&amp;A Platform for Student Communities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/adaikkappan2310/doubtdrop-a-lightweight-qa-platform-for-student-communities-4ei6" target="_blank">DoubtDrop – A Lightweight Q&amp;A Platform for Student Communities</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-02 02:46</span>
             </div>
         </div>
 </div>
@@ -318,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 08:08 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 09:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
