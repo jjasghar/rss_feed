@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-02 01:30:50 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-02 02:53:52 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, March 02, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, March 02, 2026 - 02:54 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,6 +50,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/1/gunman-kills-two-in-texas-nightlife-shooting-fbi-probing-terrorism-link?traffic_source=rss" target="_blank">Gunman kills two in Texas bar shooting, FBI probing ‘terrorism’ link</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-01 23:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2022-08/20220818-sj-gas-prices-548p-7b7dc9.jpg" alt="Higher gas prices are likely coming to the pump after oil prices surge in wake of U.S. strikes in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/business-news/oil-prices-iran-strikes-rcna261209" target="_blank">Higher gas prices are likely coming to the pump after oil prices surge in wake of U.S. strikes in Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-01 23:24</span>
             </div>
         </div>
 <div class="story">
@@ -93,15 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/01/g-s1-112094/iran-war-trump-israel-attack-photos-bahrain" target="_blank">Photos: U.S.-Israeli strikes in Iran and reactions from around the world</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-01 20:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/1/iranian-drone-strikes-us-military-facility-in-kuwait?traffic_source=rss" target="_blank">Iranian drone strikes US military facility in Kuwait</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-01 19:59</span>
             </div>
         </div>
 </div>
@@ -169,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyxl8bpi9szbq09h4ll6l.jpg" alt="DoubtDrop – A Lightweight Q&amp;A Platform for Student Communities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/adaikkappan2310/doubtdrop-a-lightweight-qa-platform-for-student-communities-4ei6" target="_blank">DoubtDrop – A Lightweight Q&amp;A Platform for Student Communities</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-02 02:46</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -211,15 +213,6 @@
                 <span class="title"><a href="https://pyrefly.org/blog/container-inference-comparison/" target="_blank">Python Type Checker Comparison: Empty Container Inference</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-03-01 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdsvlb9m2mgkwb8xsrwig.png" alt="Data Engineering: Beginner’s Guide to Data Engineering Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/babuvino13/data-engineering-beginners-guide-to-data-engineering-architecture-5dfk" target="_blank">Data Engineering: Beginner’s Guide to Data Engineering Architecture</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-01 15:58</span>
             </div>
         </div>
 </div>
@@ -300,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 02:54 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
