@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-02 03:44:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-02 04:31:37 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, March 02, 2026 - 03:45 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, March 02, 2026 - 04:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/01/nx-s1-5731568/polymarket-trade-iran-supreme-leader-killing" target="_blank">Prediction market trader &#x27;Magamyman&#x27; made $553,000 on death of Iran&#x27;s supreme leader</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-02 02:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cdjm8pn0ld8o?at_medium=RSS&at_campaign=rss" target="_blank">UK mounts operation to support thousands of Britons in Middle East</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-01 22:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8f/live/4ca9d8f0-15a6-11f1-9120-a910fc22c6ac.jpg" alt="Allies of US in the Gulf bear brunt of Iran attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1jk922dgjgo?at_medium=RSS&at_campaign=rss" target="_blank">Allies of US in the Gulf bear brunt of Iran attacks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-01 22:19</span>
             </div>
         </div>
 </div>
@@ -168,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/helgesverre/introducing-logobox-beautiful-logos-without-design-skills-4hkb" target="_blank">Introducing logobox: Beautiful Logos Without Design Skills</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-02 04:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyxl8bpi9szbq09h4ll6l.jpg" alt="DoubtDrop – A Lightweight Q&amp;A Platform for Student Communities" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,21 +212,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="HealthNearby — Find Healthcare Facilities in Cameroon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sudojayn/healthnearby-find-healthcare-facilities-in-cameroon-4kgd" target="_blank">HealthNearby — Find Healthcare Facilities in Cameroon</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-01 19:54</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://pyrefly.org/blog/container-inference-comparison/" target="_blank">Python Type Checker Comparison: Empty Container Inference</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-01 18:45</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://developer.chrome.com/blog/webmcp-epp" target="_blank">WebMCP is available for early preview</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-01 22:13</span>
             </div>
         </div>
 </div>
@@ -299,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 03:45 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 04:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
