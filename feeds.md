@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-02 19:13:23 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-02 20:05:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 33 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, March 02, 2026 - 19:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, March 02, 2026 - 20:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/02/nx-s1-5732784/iran-war-flights-travelers-stranded" target="_blank">Some Middle East flights resume, but thousands of travelers are still stranded by war</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-02 19:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-260302_1772470559660_hpMain_4x3t_384.jpg" alt="Iran live updates: US &#x27;very nearly under threat,&#x27; Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -96,20 +102,20 @@
                 <span class="time">2026-03-02 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/3/2/starmer-lets-us-use-bases-for-iran-clash-uks-military-legal-quagmire?traffic_source=rss" target="_blank">Starmer lets US use bases for Iran clash: UK’s military, legal quagmire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-02 16:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/887692/instagram-shop-the-look-ai-shopping-tiktok-influencers" target="_blank">You could be an influencer without even realizing it</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-02 18:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +161,20 @@
                 <span class="time">2026-03-02 17:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent" target="_blank">Nvidia&amp;#8217;s spending $4 billion on photonics to stay ahead of the curve in AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-02 16:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bspann/migrating-from-semantic-kernel-to-microsoft-agent-framework-a-c-developers-guide-3ad5" target="_blank">Migrating from Semantic Kernel to Microsoft Agent Framework: A C# Developer&#x27;s Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-02 19:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18894970&w=600" alt="Idempotency in AI Tools: The Most Expensive Thing Teams Forget" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -214,15 +220,6 @@
                 <span class="time">2026-03-02 17:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zeroshotanu/your-llm-isnt-an-agent-until-it-has-tools-memory-and-structure-langchain-deep-dive-18d8" target="_blank">🧠 Your LLM Isn’t an Agent — Until It Has Tools, Memory, and Structure (LangChain Deep Dive)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-02 17:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/world-of-warcraft-midnight-silvermoon-city-1280x853.jpg" alt="‘World of Warcraft’ Just Upgraded Its Best City for the First Time in 20 Years, and Now It’s Perfect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/world-of-warcraft-midnight-silvermoon-city-update-2000728382" target="_blank">‘World of Warcraft’ Just Upgraded Its Best City for the First Time in 20 Years, and Now It’s Perfect</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-02 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJ868Q08KRVSJT9HAC0RE3Q0/hero-image.jpg" alt="10 Hacks Every Snapchat User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-snapchat-hacks?utm_medium=RSS" target="_blank">10 Hacks Every Snapchat User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-02 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/trump-1280x720.jpg" alt="Trump’s Neck Looks Like It Needs A Green Herb" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +291,6 @@
                 <span class="title"><a href="https://gizmodo.com/hoppers-is-easily-one-of-pixars-funniest-darkest-and-best-movies-in-years-2000727799" target="_blank">‘Hoppers’ Is Easily One of Pixar’s Funniest, Darkest, and Best Movies In Years</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-02 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/redeal-1280x720.jpg" alt="New Resident Evil Pack On Switch 2 Is A Wild Deal, But It Goes Away Soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/resident-evil-generation-pack-switch-2-requim-re9-village-re7-capcom-deal-90-2000675053" target="_blank">New Resident Evil Pack On Switch 2 Is A Wild Deal, But It Goes Away Soon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-02 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/hyperion.jpg?fit=1200%2C1840&amp;quality=60&amp;ssl=1" alt="Science fiction author Dan Simmons, RIP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/02/science-fiction-author-dan-simmons-rip.html" target="_blank">Science fiction author Dan Simmons, RIP</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-02 16:40</span>
             </div>
         </div>
 </div>
@@ -333,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 19:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 20:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
