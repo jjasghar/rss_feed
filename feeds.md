@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-02 02:53:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-02 03:44:50 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, March 02, 2026 - 02:54 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, March 02, 2026 - 03:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/2/israel-bombs-beirut-after-hezbollah-fires-rockets-in-iran-war-retaliation?traffic_source=rss" target="_blank">Israel bombs Beirut after Hezbollah fires rockets in Iran war retaliation</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-02 02:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1jk922dgjgo?at_medium=RSS&at_campaign=rss" target="_blank">Allies of US in the Gulf bear brunt of Iran attacks</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-01 22:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/01/g-s1-112094/iran-war-trump-israel-attack-photos-bahrain" target="_blank">Photos: U.S.-Israeli strikes in Iran and reactions from around the world</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-01 20:51</span>
             </div>
         </div>
 </div>
@@ -230,6 +236,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/ThinkPad-Modular-Concept-3-1280x853.jpg" alt="The Next Generation of Modular, Repairable Laptops May Have More Than One Screen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-next-generation-of-modular-repairable-laptops-may-have-more-than-one-screen-2000727371" target="_blank">The Next Generation of Modular, Repairable Laptops May Have More Than One Screen</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-01 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KJFW6W98EQACX8Q0NA2T7DVR/hero-image.jpg" alt="Lenovo&#x27;s Foldable Gaming Handheld Is Too Cool to Remain Just a Concept" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -265,15 +280,6 @@
                 <span class="time">2026-03-01 19:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/ss_c43741ddc5853e68dd4486a86e8dd0b03f475fe9.1920x1080-1280x720.jpg" alt="Zen And The Art Of Van Maintenance Meets Firewatch In Steam Next Fest Hit Cozy Survival Sim Outbound" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/steam-next-fest-feb-2026-outbound-demo-firewatch-cozy-2000674849" target="_blank">Zen And The Art Of Van Maintenance Meets Firewatch In Steam Next Fest Hit Cozy Survival Sim Outbound</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-01 16:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 02:54 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 03:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
