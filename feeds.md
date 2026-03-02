@@ -1,36 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-03-02 15:11:07 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-02 16:08:33 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, March 02, 2026 - 15:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, March 02, 2026 - 16:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/2/qatar-halts-natural-gas-production-after-iranian-attacks?traffic_source=rss" target="_blank">Qatar halts natural gas production after Iranian attacks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-02 15:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/hegseth-5-gty-gmh-260302_1772458027230_hpMain_4x3t_384.jpg" alt="Iran live updates: &#x27;We didn&#x27;t start this war but … we are finishing it,&#x27; Hegseth says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +106,38 @@
                 <span class="time">2026-03-02 11:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/crash-main_1772449631788_hpMain_4x3t_384.jpg" alt="Iran live updates: US says 3 F-15s shot down by friendly fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: US says 3 F-15s shot down by friendly fire</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-02 11:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/887564/samsung-wallet-digital-key-smart-home-aliro" target="_blank">Samsung’s Digital Home Key lets you use your phone as your key</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-02 15:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/iowadatacenter-500x500.jpg" alt="Iowa county adopts strict zoning rules for data centers, but residents still worry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/03/iowa-county-adopts-strict-zoning-rules-for-data-centers-but-residents-still-worry/" target="_blank">Iowa county adopts strict zoning rules for data centers, but residents still worry</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-02 15:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/" target="_blank">A married founder duo’s company, 14.ai, is replacing customer support teams at startups</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-02 15:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/ipad-air-m4-500x500-1772463928.jpg" alt="Apple keeps the iPad Air fresh with M4 chip upgrade and 12GB of RAM" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -132,38 +165,20 @@
                 <span class="time">2026-03-02 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/stephen-colbert-with-talarico-500x500.jpg" alt="Trump FCC&#x27;s equal-time crackdown doesn&#x27;t apply equally—or at all—to talk radio" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/trump-fccs-equal-time-crackdown-doesnt-apply-equally-or-at-all-to-talk-radio/" target="_blank">Trump FCC&#x27;s equal-time crackdown doesn&#x27;t apply equally—or at all—to talk radio</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-02 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a1fd924158dddd6df7881e/master/pass/Former-Top-Trump-Official-Launches-Coalition-to-Protect-Americans-From-Prediction-Markets-Business-1252575031.jpg" alt="A Former Top Trump Official Is Going After Prediction Markets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/former-top-trump-official-launches-coalition-to-protect-americans-from-prediction-markets/" target="_blank">A Former Top Trump Official Is Going After Prediction Markets</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-02 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/886558/6g-satellite-ai-isac" target="_blank">Oh great, here comes 6G</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-02 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/03/02/what-s-new-at-stack-overflow-march-2026/" target="_blank">What’s new at Stack Overflow: March 2026</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-03-02 15:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18883706&w=600" alt="Kubernetes for DevOps Engineers: Mastering Modern Patterns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +224,6 @@
                 <span class="time">2026-03-02 12:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyu2197m57t1949wpkufx.png" alt="Designing Efficient Queries with SQL Joins and Window Functions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/edmund_eryuba/designing-efficient-queries-with-sql-joins-and-window-functions-447k" target="_blank">Designing Efficient Queries with SQL Joins and Window Functions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-02 11:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +243,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/covid-test-1280x853.jpg" alt="Long Covid Is Down, but Not Out, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/long-covid-is-down-but-not-out-study-finds-2000728291" target="_blank">Long Covid Is Down, but Not Out, Study Finds</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-02 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/slay-the-spires.jpg" alt="The Week In Games: Slay The Spire 2 Is Coming For Your Free Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/games-coming-out-march-2026-slay-spire-pokopia-marathon-2000675006" target="_blank">The Week In Games: Slay The Spire 2 Is Coming For Your Free Time</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-02 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEXW0Z0J97465BRYFNR7J5DP/hero-image.png" alt="You Can Get This Five-Year iProVPN Plan for Just $20 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/five-year-iprovpn-subscription-stacksocial-sale-march-2026?utm_medium=RSS" target="_blank">You Can Get This Five-Year iProVPN Plan for Just $20 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-02 15:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/HG-header-2-1280x717.jpg" alt="Highguard Developer Reveals His Theory For Why So Many Players Ditched The Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,33 +295,6 @@
                 <span class="title"><a href="https://gizmodo.com/where-humane-failed-qualcomm-imagines-the-future-is-filled-with-ai-pins-2000727781" target="_blank">Where Humane Failed, Qualcomm Imagines the Future Is Filled With AI Pins</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-02 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/04/e195aa207891a08028170e3ffead02e7-1280x720.jpg" alt="Fans Speculate a Kratos-less God of War Spin-Off Is In The Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fans-speculate-a-krato-less-god-of-war-spin-off-is-in-the-works-2000674900" target="_blank">Fans Speculate a Kratos-less God of War Spin-Off Is In The Works</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-01 23:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/ThinkPad-Modular-Concept-3-1280x853.jpg" alt="The Next Generation of Modular, Repairable Laptops May Have More Than One Screen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-next-generation-of-modular-repairable-laptops-may-have-more-than-one-screen-2000727371" target="_blank">The Next Generation of Modular, Repairable Laptops May Have More Than One Screen</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-01 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJFW6W98EQACX8Q0NA2T7DVR/hero-image.jpg" alt="Lenovo&#x27;s Foldable Gaming Handheld Is Too Cool to Remain Just a Concept" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/lenovos-foldable-gaming-handheld-is-too-cool-to-be-a-concept?utm_medium=RSS" target="_blank">Lenovo&#x27;s Foldable Gaming Handheld Is Too Cool to Remain Just a Concept</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-01 23:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 15:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 41 | 📸 With Images: 279 |
+        🔄 Last Updated: 16:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
