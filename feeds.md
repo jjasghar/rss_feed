@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-02 12:05:15 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-02 13:23:48 UTC -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Error processing https://feeds.skynews.com/feeds/rss/world.xml: The read operation timed out -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, March 02, 2026 - 12:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, March 02, 2026 - 13:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dd7/live/e69b31c0-1619-11f1-801d-ed3cff6bf876.jpg" alt="Two drones headed to RAF base intercepted, Cyprus says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm2r0q310e3o?at_medium=RSS&at_campaign=rss" target="_blank">Two drones headed to RAF base intercepted, Cyprus says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-02 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +97,6 @@
                 <span class="time">2026-03-02 07:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Tehran-strikes-DB-260301_1772364213906_hpMain_4x3t_384.jpg" alt="Iran live updates: &#x27;We will not negotiate with the United States&#x27;: Iranian official" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: &#x27;We will not negotiate with the United States&#x27;: Iranian official</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-02 05:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -109,6 +108,15 @@
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/trump-fccs-equal-time-crackdown-doesnt-apply-equally-or-at-all-to-talk-radio/" target="_blank">Trump FCC&#x27;s equal-time crackdown doesn&#x27;t apply equally—or at all—to talk radio</a></span>
                 <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-02 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69a1fd924158dddd6df7881e/master/pass/Former-Top-Trump-Official-Launches-Coalition-to-Protect-Americans-From-Prediction-Markets-Business-1252575031.jpg" alt="A Former Top Trump Official Is Going After Prediction Markets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/former-top-trump-official-launches-coalition-to-protect-americans-from-prediction-markets/" target="_blank">A Former Top Trump Official Is Going After Prediction Markets</a></span>
+                <span class="feed">WIRED</span>
                 <span class="time">2026-03-02 12:00</span>
             </div>
         </div>
@@ -146,15 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/" target="_blank">AMD will bring its &quot;Ryzen AI&quot; processors to standard desktop PCs for the first time</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-03-02 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a2068621f86c9e289eb174/master/pass/DSC_7446.jpg" alt="Lenovo’s Latest Wacky Concepts Include a Laptop With a Built-in Portable Monitor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lenovo-mwc-concepts-thinkbook-modular-ai-pc-legion-go-fold/" target="_blank">Lenovo’s Latest Wacky Concepts Include a Laptop With a Built-in Portable Monitor</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-01 23:01</span>
             </div>
         </div>
 </div>
@@ -214,6 +213,20 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Steam-Survey-February-2026" target="_blank">Steam Survey Results Published For February 2026</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-02 08:41</span>
+            </div>
+        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/llm-assisted-deanonymization.html" target="_blank">LLM-Assisted Deanonymization</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-03-02 12:05</span>
             </div>
         </div>
 </div>
@@ -312,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 12:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 13:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
