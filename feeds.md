@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-03-02 09:13:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-02 10:13:09 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: NPR News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, March 02, 2026 - 09:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, March 02, 2026 - 10:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dd7/live/e69b31c0-1619-11f1-801d-ed3cff6bf876.jpg" alt="Iranian drone hit RAF base, Cyprus president says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm2r0q310e3o?at_medium=RSS&at_campaign=rss" target="_blank">Iranian drone hit RAF base, Cyprus president says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-02 07:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec37/live/0bb8b690-15d8-11f1-b048-c9424b2cf5fd.jpg" alt="Iranian drone crashed into RAF base, Cyprus president says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +94,20 @@
                 <span class="time">2026-03-02 02:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/1/gunman-kills-two-in-texas-nightlife-shooting-fbi-probing-terrorism-link?traffic_source=rss" target="_blank">Gunman kills two in Texas bar shooting, FBI probing ‘terrorism’ link</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-01 23:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/699f79c89c1839834b2d7742/master/pass/Arctic-Circle-Next-Frontier-In-AI-Infrastructure-Wars-Business-2163338735.jpg" alt="The Data Centers Have Arrived at the Edge of the Arctic Circle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ai-supremacy-data-center-expansion-arctic-circle/" target="_blank">The Data Centers Have Arrived at the Edge of the Arctic Circle</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-02 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +151,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/887220/sonos-play-leak" target="_blank">Portable Sonos Play speaker leaks on Canadian Best Buy</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-01 20:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/01/polymarket-saw-529m-traded-on-bets-tied-to-bombing-of-iran/" target="_blank">Polymarket saw $529M traded on bets tied to bombing of Iran</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-01 19:05</span>
             </div>
         </div>
 </div>
@@ -313,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 09:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 10:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
