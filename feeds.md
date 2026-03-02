@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-03-02 20:05:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-02 21:07:29 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, March 02, 2026 - 20:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, March 02, 2026 - 21:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f60/live/0f747b10-1651-11f1-b29a-e1e1dc0900a9.png" alt="Starmer criticises Trump over Iran strikes, as he defends UK position" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj0dnq2v0e2o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer criticises Trump over Iran strikes, as he defends UK position</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-02 19:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,6 +88,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-gulf_7180176.jpg?20260302181926" alt="This war has massive implications for the world economy | Ed Conway" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/this-war-has-massive-implications-for-the-world-economy-13514364" target="_blank">This war has massive implications for the world economy | Ed Conway</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-02 17:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -84,35 +105,35 @@
                 <span class="time">2026-03-02 17:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ac/live/e9c39a10-1649-11f1-9120-a910fc22c6ac.jpg" alt="Israel strikes Lebanon after Hezbollah rocket fire as Iran conflict widens" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y4v8g13wxo?at_medium=RSS&at_campaign=rss" target="_blank">Israel strikes Lebanon after Hezbollah rocket fire as Iran conflict widens</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-02 17:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dd7/live/e69b31c0-1619-11f1-801d-ed3cff6bf876.jpg" alt="Two drones intercepted heading for RAF base, Cyprus says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm2r0q310e3o?at_medium=RSS&at_campaign=rss" target="_blank">Two drones intercepted heading for RAF base, Cyprus says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-02 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69a1f931afca25142fae8979/master/pass/Review-%20BlipBlox%20After%20Dark.png" alt="BlipBlox After Dark Review: a Synthesizer for Everybody" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/blipblox-after-dark/" target="_blank">BlipBlox After Dark Review: a Synthesizer for Everybody</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-02 20:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/887692/instagram-shop-the-look-ai-shopping-tiktok-influencers" target="_blank">You could be an influencer without even realizing it</a></span>
                 <span class="feed">The Verge</span>
+                <span class="time">2026-03-02 18:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/" target="_blank">Users are ditching ChatGPT for Claude — here’s how to make the switch</a></span>
+                <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-02 18:42</span>
             </div>
         </div>
@@ -143,29 +164,20 @@
                 <span class="time">2026-03-02 18:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/887552/donut-lab-solid-state-battery-extreme-heat-test" target="_blank">Donut Lab’s solid-state battery can handle the (extreme) heat, test says</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-02 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/" target="_blank">Tech workers urge DOD, Congress to withdraw Anthropic label as a supply chain risk</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-02 17:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmlw89hhk0opvw4m9gggc.jpg" alt="CI/CD for BigQuery Views" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/denis_shevelev_79caec3695/cicd-for-bigquery-views-51jg" target="_blank">CI/CD for BigQuery Views</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-02 20:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +223,6 @@
                 <span class="time">2026-03-02 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/our-take-on-age-verification/" target="_blank">Age Verification: Protection Tool or Surveillance in Disguise?</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-03-02 17:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +243,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/image-35.jpg" alt="The Analogue Pocket Is Finally Back In Stock But Even More Expensive As Retro Handheld Costs Rise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/analogue-pocket-stock-price-ayn-odin-thor-2000675092" target="_blank">The Analogue Pocket Is Finally Back In Stock But Even More Expensive As Retro Handheld Costs Rise</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-02 20:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJQY3Y71TGGSJR4NC1849BRM/hero-image.png" alt="The Best Ways to Refresh Your Old Kitchen for Cheap (or Free)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/budget-friendly-kitchen-upgrade-ideas?utm_medium=RSS" target="_blank">The Best Ways to Refresh Your Old Kitchen for Cheap (or Free)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-02 20:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/world-of-warcraft-midnight-silvermoon-city-1280x853.jpg" alt="‘World of Warcraft’ Just Upgraded Its Best City for the First Time in 20 Years, and Now It’s Perfect" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -258,39 +279,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/linux.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="California&#x27;s age verification law could regulate every Linux command" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/02/californias-age-verification-law-could-regulate-every-linux-command.html" target="_blank">California&#x27;s age verification law could regulate every Linux command</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-02 19:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/trump-1280x720.jpg" alt="Trump’s Neck Looks Like It Needs A Green Herb" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/president-trump-neck-infection-red-rash-resident-evil-2000675090" target="_blank">Trump’s Neck Looks Like It Needs A Green Herb</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-02 19:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/06_icarus-1280x720.jpg" alt="Icarus Is The Perfect Survival Sim No One’s Talking About" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/icarus-survival-sim-dean-hall-day-z-steam-pc-2000672788" target="_blank">Icarus Is The Perfect Survival Sim No One’s Talking About</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-02 18:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/charlie-kirk-shutterstock-scaled-e1758219421201.jpg?fit=768%2C484&amp;quality=60&amp;ssl=1" alt="US Department of Education decorates headquarters with Charlie Kirk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/02/us-department-of-education-decorates-headquarters-with-charlie-kirk.html" target="_blank">US Department of Education decorates headquarters with Charlie Kirk</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-02 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Hoppers-movie-review-1280x853.jpg" alt="‘Hoppers’ Is Easily One of Pixar’s Funniest, Darkest, and Best Movies In Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/hoppers-is-easily-one-of-pixars-funniest-darkest-and-best-movies-in-years-2000727799" target="_blank">‘Hoppers’ Is Easily One of Pixar’s Funniest, Darkest, and Best Movies In Years</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-02 17:00</span>
             </div>
         </div>
 </div>
@@ -330,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 20:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 41 | 📸 With Images: 282 |
+        🔄 Last Updated: 21:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
