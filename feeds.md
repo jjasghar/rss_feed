@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-02 04:31:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-02 05:21:18 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, March 02, 2026 - 04:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, March 02, 2026 - 05:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -76,6 +70,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2022-08/20220818-sj-gas-prices-548p-7b7dc9.jpg" alt="Higher gas prices are likely coming to the pump after oil prices jump in wake of U.S. strikes in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/business-news/oil-prices-iran-strikes-rcna261209" target="_blank">Higher gas prices are likely coming to the pump after oil prices jump in wake of U.S. strikes in Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-01 23:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2022-08/20220818-sj-gas-prices-548p-7b7dc9.jpg" alt="Higher gas prices are likely coming to the pump after oil prices surge in wake of U.S. strikes in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -91,15 +94,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: Trump says there will &#x27;likely&#x27; be more US casualties</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-01 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d240/live/9ce1fe00-15bb-11f1-801d-ed3cff6bf876.jpg" alt="UK mounts operation to support thousands of Britons in Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdjm8pn0ld8o?at_medium=RSS&at_campaign=rss" target="_blank">UK mounts operation to support thousands of Britons in Middle East</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-01 22:21</span>
             </div>
         </div>
 </div>
@@ -170,6 +164,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/myougatheaxo/room-pagingwan-quan-gaido-pagingsourceremotemediatorohurainkiyatusiyu-5b38" target="_blank">Room + Paging完全ガイド — PagingSource/RemoteMediator/オフラインキャッシュ</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-02 05:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/helgesverre/introducing-logobox-beautiful-logos-without-design-skills-4hkb" target="_blank">Introducing logobox: Beautiful Logos Without Design Skills</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-02 04:30</span>
@@ -182,6 +185,15 @@
                 <span class="title"><a href="https://dev.to/adaikkappan2310/doubtdrop-a-lightweight-qa-platform-for-student-communities-4ei6" target="_blank">DoubtDrop – A Lightweight Q&amp;A Platform for Student Communities</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-02 02:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/mandel-macaque/memento" target="_blank">If AI writes code, should the session be part of the commit?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-02 00:27</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/jeremiahbarias/i-built-an-opentelemetry-instrumentor-for-claude-agent-sdk-4e2h" target="_blank">I Built an OpenTelemetry Instrumentor for Claude Agent SDK</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-02 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/linux-release-roundup-feb-2026.webp?resize=406%2C232&amp;ssl=1" alt="Linux Release Roundup (February 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/linux-release-roundup-february-2026" target="_blank">Linux Release Roundup (February 2026)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-01 23:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://developer.chrome.com/blog/webmcp-epp" target="_blank">WebMCP is available for early preview</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-01 22:13</span>
             </div>
         </div>
 </div>
@@ -285,6 +279,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5776.png" alt="Hum And Buzz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5776" target="_blank">Hum And Buzz</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-03-02 01:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1772223575-20260301copy.png" alt="Saturday Morning Breakfast Cereal - Friend" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -298,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 04:31 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 05:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
