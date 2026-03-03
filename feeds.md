@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-03 20:04:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-03 21:06:23 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, March 03, 2026 - 20:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, March 03, 2026 - 21:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/3/worst-case-scenario-trump-weighs-replacing-khamenei-as-leader-of-iran?traffic_source=rss" target="_blank">‘Worst-case scenario’: Trump weighs replacing Khamenei as leader of Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-03 20:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-2-gty-gmh-260303_1772557032732_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump slams Spain, UK over Iran war cooperation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +99,29 @@
                 <span class="time">2026-03-03 16:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dff/live/8b04af30-1718-11f1-befc-09f0999a306b.jpg" alt="Gas and oil prices soar and shares tumble on fears conflict could escalate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss" target="_blank">Gas and oil prices soar and shares tumble on fears conflict could escalate</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-03 16:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/21302051/best-apple-airpods-deals" target="_blank">The best AirPods deals you can get right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-03 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/" target="_blank">ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-03 20:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/electric-piggy-bank-15k-500x500-1772566110.jpg" alt="There are plenty of great choices if you want to spend less than $15K on an EV" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,24 +158,6 @@
                 <span class="time">2026-03-03 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/03/amid-new-competition-chrome-speeds-up-its-release-schedule/" target="_blank">Amid new competition, Chrome speeds up its release schedule</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-03 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-10.30.27-AM-500x500.jpeg" alt="New MacBook Airs come with M5, double the storage, and higher starting prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/new-macbook-airs-come-with-m5-double-the-storage-and-higher-starting-prices/" target="_blank">New MacBook Airs come with M5, double the storage, and higher starting prices</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-03 15:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -181,6 +179,15 @@
                 <span class="title"><a href="https://dzone.com/articles/how-power-automate-helps-analysts-send-alert-emails" target="_blank">How Power Automate Helps Analysts Send Alert Emails Faster and How AI Builder Takes It to the Next Level</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-03 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/" target="_blank">How we rebuilt the search architecture for high availability in GitHub Enterprise Server</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-03-03 18:45</span>
             </div>
         </div>
 <div class="story">
@@ -210,15 +217,6 @@
                 <span class="time">2026-03-03 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F48y9h9tn50ozqhfifzsv.png" alt="What an AI Reasoning Engine Built for Alzheimer&#x27;s Metabolic Research: A Code Walkthrough" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/flamehaven01/what-an-ai-reasoning-engine-built-for-alzheimers-metabolic-research-a-code-walkthrough-54ia" target="_blank">What an AI Reasoning Engine Built for Alzheimer&#x27;s Metabolic Research: A Code Walkthrough</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-03 17:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Pokemon-Pokopia-Gameplay-Hero-1-1280x853.jpg" alt="‘Pokémon Pokopia’ Shows Why Switch 2 Games Need to Stop Fearing Mouse Controls" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/pokemon-pokopia-shows-why-switch-2-games-need-to-stop-fearing-mouse-controls-2000728410" target="_blank">‘Pokémon Pokopia’ Shows Why Switch 2 Games Need to Stop Fearing Mouse Controls</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-03 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/scott-1280x714.jpg" alt="Scott Pilgrim EX Is A Perfect Encore" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/scott-pilgrim-ex-review-impressions-creator-anamanaguchi-2000675417" target="_blank">Scott Pilgrim EX Is A Perfect Encore</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-03 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KJFNY2T48ANTBB9QAGFDDEQ2/hero-image.png" alt="You Can Get a $200 Amazon Gift Card With the New Samsung Galaxy S26 Ultra" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,29 +290,20 @@
                 <span class="time">2026-03-03 15:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/06/25b4cff16bfa17dc3763017b01ee969b-1280x720.jpg" alt="Cyberpunk 2077 Has Never Been Better And Is Coming To Game Pass This Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-game-pass-new-march-games-cyberpunk-silksong-2000675361" target="_blank">Cyberpunk 2077 Has Never Been Better And Is Coming To Game Pass This Month</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-03 15:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/macbook-air-m5-1280x853.jpg" alt="Apple Announces M5 MacBook Air With Double the Starting Storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/apple-announces-m5-macbook-air-with-double-the-starting-storage-2000728851" target="_blank">Apple Announces M5 MacBook Air With Double the Starting Storage</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-03 15:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1772481120-20260303.png" alt="Saturday Morning Breakfast Cereal - Good Cop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/good-cop" target="_blank">Saturday Morning Breakfast Cereal - Good Cop</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-03 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5777.png" alt="Word Of The Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -320,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 20:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 21:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
