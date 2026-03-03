@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-03 15:14:18 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-03 16:11:28 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, March 03, 2026 - 15:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, March 03, 2026 - 16:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dff/live/8b04af30-1718-11f1-befc-09f0999a306b.jpg" alt="Gas and oil prices soar and shares tumble on fears conflict could escalate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss" target="_blank">Gas and oil prices soar and shares tumble on fears conflict could escalate</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-03 16:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/3/t20-world-cup-semifinal-unbeaten-south-africa-wary-of-new-zealand?traffic_source=rss" target="_blank">T20 World Cup semifinal: Unbeaten South Africa ‘fresh’ for New Zealand</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-03 15:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/03/south-sudan-risks-return-civil-war-violence-escalates" target="_blank">South Sudan risks return to full-blown civil war as violence escalates</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-03 15:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a040/live/09528950-1707-11f1-bfbe-c7ba448da962.png" alt="UK considers sending Royal Navy warship to Cyprus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g40yp2p13o?at_medium=RSS&at_campaign=rss" target="_blank">UK considers sending Royal Navy warship to Cyprus</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-03 15:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -62,47 +102,29 @@
                 <span class="time">2026-03-03 14:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2026/3/3/us-president-has-the-authority-to-act-for-imminent-threats-against-the?traffic_source=rss" target="_blank">‘US president has the authority to act for imminent threats against the US’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-03 13:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/03/global-south-condemns-us-israeli-war-with-iran" target="_blank">‘Imperialist undertones’: global south condemns US-Israeli war with Iran</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-03 13:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/03/g-s1-112278/up-first-newsletter-iran-us-israel-middle-east-nc-texas-primaries-kristi-noem-bill-clinton" target="_blank">U.S. evacuates diplomats from Middle East. And, what to expect from N.C., Texas primaries</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-03 12:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772540277941_tdy_news_7a_engel_israel_iran_new_attacks_260302_1920x1080-gnwt0d.jpg" alt="Attacks Escalate in Middle East as Iran Retaliates Across Region" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/israel-and-us-strike-iran-military-and-leadership-with-new-attacks-258592325882" target="_blank">Attacks Escalate in Middle East as Iran Retaliates Across Region</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-03 12:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-10.30.27-AM-500x500.jpeg" alt="New MacBook Airs come with M5, double the storage, and higher starting prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/new-macbook-airs-come-with-m5-double-the-storage-and-higher-starting-prices/" target="_blank">New MacBook Airs come with M5, double the storage, and higher starting prices</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-03 15:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/03/x-begins-testing-standalone-x-chat-app-on-ios/" target="_blank">X begins testing standalone X Chat app on iOS</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-03 15:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +161,29 @@
                 <span class="time">2026-03-03 09:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" alt="L.L.Bean Promo Codes and Deals: Up to 75% Off Outdoor Gear" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ll-bean-promo-code/" target="_blank">L.L.Bean Promo Codes and Deals: Up to 75% Off Outdoor Gear</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-03 06:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/" target="_blank">Cursor has reportedly surpassed $2B in annualized revenue</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-03 01:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18895025&w=600" alt="Probabilistic Data Structures for Software Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/probabilistic-data-structures-software-security" target="_blank">Probabilistic Data Structures for Software Security</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-03 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Sovereign-Tech-Fellowship-2026" target="_blank">Sovereign Tech Fellowship Opens Up To Community Managers, Technical Writers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-03 15:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/03/adidas-decentralized-platform/en/headerimage/generatedHeaderImage-1771805291342.jpg" alt="From Central Control to Team Autonomy: Rethinking Infrastructure Delivery" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +220,6 @@
                 <span class="time">2026-03-03 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Linux-LAM-ChkTag" target="_blank">Intel Adapting Linux&#x27;s LAM In Preparing For ChkTag</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-03 13:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mburu_champ/sql-joins-window-functions-the-skills-that-separate-analysts-from-beginners-p9g" target="_blank">SQL Joins &amp; Window Functions: The Skills That Separate Analysts from Beginners</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-03 13:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJT2RN1N8HPEZ5H0GPFFVHPJ/hero-image.jpg" alt="Apple Just Announced Five New Mac Products" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-new-mac-announcements?utm_medium=RSS" target="_blank">Apple Just Announced Five New Mac Products</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-03 15:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/06/25b4cff16bfa17dc3763017b01ee969b-1280x720.jpg" alt="Cyberpunk 2077 Has Never Been Better And Is Coming To Game Pass This Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +293,6 @@
                 <span class="time">2026-03-03 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Image-Clear-Drop.jpg?fit=1080%2C709&amp;quality=60&amp;ssl=1" alt="Juicero your soft plastic recycling with the Clear Drop compactor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/03/juicero-your-soft-plastic-recycling-with-the-clear-drop-compactor.html" target="_blank">Juicero your soft plastic recycling with the Clear Drop compactor</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-03 12:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 15:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 16:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
