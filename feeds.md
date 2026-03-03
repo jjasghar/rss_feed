@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-03 16:11:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-03 17:13:45 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, March 03, 2026 - 16:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, March 03, 2026 - 17:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Trump answers questions on war in Iran: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Trump answers questions on war in Iran: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-03 17:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1ea/live/18e8efe0-171f-11f1-b787-dd8097b9508d.png" alt="UK to send Royal Navy warship HMS Dragon to Cyprus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g40yp2p13o?at_medium=RSS&at_campaign=rss" target="_blank">UK to send Royal Navy warship HMS Dragon to Cyprus</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-03 16:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dff/live/8b04af30-1718-11f1-befc-09f0999a306b.jpg" alt="Gas and oil prices soar and shares tumble on fears conflict could escalate" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +104,29 @@
                 <span class="time">2026-03-03 15:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/3/iaea-confirms-some-damage-to-irans-natanz-nuclear-facility?traffic_source=rss" target="_blank">IAEA confirms buildings damaged at Iran’s Natanz nuclear facility</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-03 14:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-1-gty-jef-260303_1772542494224_hpMain_4x3t_384.jpg" alt="Iran live updates: US ramps up strikes as American death toll rises" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: US ramps up strikes as American death toll rises</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-03 14:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/888001/google-accelerates-chrome-releases-cutting-cycle-in-half" target="_blank">Google accelerates Chrome release cycle</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-03 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/03/amid-new-competition-chrome-speeds-up-its-release-schedule/" target="_blank">Amid new competition, Chrome speeds up its release schedule</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-03 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-10.30.27-AM-500x500.jpeg" alt="New MacBook Airs come with M5, double the storage, and higher starting prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,30 +155,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media.wired.com/photos/69a6ed6ea5763d87abb3825a/master/pass/Apple%20MacBook%20Pro%20M5%20Pro%20and%20M5%20Max%20SOURCE%20Apple.jpg" alt="Apple’s New MacBook Air and MacBook Pro Have New Chips, More Storage, and Higher Prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/888091/apple-march-2026-event-macbook-air-pro-announcement" target="_blank">Apple announces M5 MacBook Air and updated MacBook Pro</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-03 14:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/app-cops-1-500x500.jpg" alt="With developer verification, Google&#x27;s Apple envy threatens to dismantle Android&#x27;s open legacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/" target="_blank">With developer verification, Google&#x27;s Apple envy threatens to dismantle Android&#x27;s open legacy</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-03 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/888008/big-google-home-update-lets-gemini-describe-live-camera-feeds" target="_blank">Big Google Home update lets Gemini describe live camera feeds</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-03 09:55</span>
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/apple-macbook-macbook-air-m5-macbook-pro-m5-pro-m5-max-2026/" target="_blank">Apple’s New MacBook Air and MacBook Pro Have New Chips, More Storage, and Higher Prices</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-03 14:45</span>
             </div>
         </div>
 </div>
@@ -166,6 +168,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F48y9h9tn50ozqhfifzsv.png" alt="What an AI Reasoning Engine Built for Alzheimer&#x27;s Metabolic Research: A Code Walkthrough" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/flamehaven01/what-an-ai-reasoning-engine-built-for-alzheimers-metabolic-research-a-code-walkthrough-54ia" target="_blank">What an AI Reasoning Engine Built for Alzheimer&#x27;s Metabolic Research: A Code Walkthrough</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-03 17:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Mutter-50.rc" target="_blank">GNOME Mutter 50.rc Released With Better NVIDIA Performance, SDR-Native &amp; Better HDR</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-03 16:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18895025&w=600" alt="Probabilistic Data Structures for Software Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,24 +220,6 @@
                 <span class="title"><a href="https://dzone.com/articles/built-a-cli-to-replace-curl-debugging" target="_blank">I Got Tired of Debugging Curl at 2 AM, So I Built a CLI</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-03 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/" target="_blank">I&#x27;m reluctant to verify my identity or age for any online services</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-03 14:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/google-multi-agent/en/headerimage/generatedHeaderImage-1772372986139.jpg" alt="Google Publishes Scaling Principles for Agentic Architectures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/google-multi-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Publishes Scaling Principles for Agentic Architectures</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-03 14:00</span>
             </div>
         </div>
 </div>
@@ -316,22 +318,13 @@
                 <span class="time">2026-03-02 21:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1772223623-20260302.png" alt="Saturday Morning Breakfast Cereal - Athenian" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/athenian" target="_blank">Saturday Morning Breakfast Cereal - Athenian</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-03-02 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 16:11 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 17:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
