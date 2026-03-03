@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-03 06:11:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-03 07:15:16 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, March 03, 2026 - 06:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, March 03, 2026 - 07:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/03/g-s1-111251/arkansas-primary-election-results-2026" target="_blank">Here are Arkansas&#x27; 2026 primary election results</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-03 05:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/3/melania-trump-chairs-un-meeting-on-children-days-after-iran-school-strike?traffic_source=rss" target="_blank">Melania Trump chairs UN meeting on children days after Iran school strike</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-03 00:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/02/g-s1-112253/supreme-court-new-york-redistricting" target="_blank">Supreme Court blocks redrawing of New York congressional map, dealing a win for GOP</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-03 00:11</span>
             </div>
         </div>
 </div>
@@ -167,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzxymmdnff3atsloa5fsg.png" alt="I Pointed Claude Code at My Hackathon API. It Built the Public Website" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/restdbjones/i-pointed-claude-code-at-my-hackathon-api-it-built-the-public-website-4j7p" target="_blank">I Pointed Claude Code at My Hackathon API. It Built the Public Website</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-03 07:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faw3io9oevgwzkhybbi2b.png" alt="How I Overcame the Optimization Wall by Implementing the Augmented Lagrangian Method (ALM) with AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/harmonyos/p2p-communication-between-android-and-next-wearable-fa-stage-model-device-technical-guide-3d9e" target="_blank">P2P Communication Between Android and HarmonyOS Wearable (FA + Stage Model) Device - Technical Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-03 02:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://peps.python.org/pep-0827/" target="_blank">PEP 827 – Type Manipulation</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-03 01:15</span>
             </div>
         </div>
 </div>
@@ -339,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 06:11 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 07:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
