@@ -1,36 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-03-03 02:56:17 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-03 03:47:20 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, March 03, 2026 - 02:56 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, March 03, 2026 - 03:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +53,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/02/nx-s1-5711447/vermont-town-meetings-contentious-debates" target="_blank">In Vermont, small town meetings grapple with debate on big issues</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-03 03:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/embassy_1772501064153_hpMain_4x3t_384.jpg" alt="Iran war live updates: US embassy in Saudi Arabia struck by Iranian drones: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran war live updates: US embassy in Saudi Arabia struck by Iranian drones: Officials</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-03 03:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +105,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/2/iran-says-will-attack-any-ship-trying-to-pass-through-strait-of-hormuz?traffic_source=rss" target="_blank">Iran says will attack any ship trying to pass through Strait of Hormuz</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-02 23:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/02/nx-s1-5732871/bill-clinton-hillary-clinton-depositions-epstein-files" target="_blank">Video of Clinton depositions in Epstein investigation released by House Republicans</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-02 21:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f60/live/0f747b10-1651-11f1-b29a-e1e1dc0900a9.png" alt="Starmer criticises Trump over Iran strikes, as he defends UK position" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj0dnq2v0e2o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer criticises Trump over Iran strikes, as he defends UK position</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-02 19:32</span>
             </div>
         </div>
 </div>
@@ -212,10 +219,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-9745-9755" target="_blank">AMD EPYC Turin 128 Core Comparison: EPYC 9745 &quot;Zen 5C&quot; vs. EPYC 9755 &quot;Zen 5&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-02 21:41</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything" target="_blank">The workers behind Meta’s smart glasses can see everything</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-02 22:32</span>
             </div>
         </div>
 </div>
@@ -237,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/altman-white-house-1280x853.jpg" alt="Facing Backlash, OpenAI Amends Pentagon Deal to Add More Anti-Surveillance Verbiage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/facing-backlash-openai-amends-pentagon-deal-to-add-more-anti-surveillance-verbiage-2000728644" target="_blank">Facing Backlash, OpenAI Amends Pentagon Deal to Add More Anti-Surveillance Verbiage</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-03 03:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/microchipped-human-hand-1280x853.jpg" alt="Mandatory Subcutaneous Microchips for Employees May Soon Be Banned in Washington State" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +296,6 @@
                 <span class="title"><a href="https://lifehacker.com/free-kindle-books-march-2026?utm_medium=RSS" target="_blank">Amazon Prime Members Can Get Two Free E-Books in March</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-02 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Microsoft-Visual-Studio-Professional-2026-2.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Lifetime access to the most recent version of Visual Studio Pro dropped from $499.99 to $50" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/02/lifetime-access-to-the-most-recent-version-of-visual-studio-pro-dropped-from-499-99-to-50.html" target="_blank">Lifetime access to the most recent version of Visual Studio Pro dropped from $499.99 to $50</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-02 22:00</span>
             </div>
         </div>
 </div>
@@ -337,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 02:56 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 03:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
