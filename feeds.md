@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-03 10:09:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-03 11:09:10 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, March 03, 2026 - 10:10 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, March 03, 2026 - 11:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce05/live/fa23a360-15cb-11f1-82b7-79a863688a9c.jpg" alt="Gas and oil prices soar and shares tumble as crucial shipping lane threatened" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss" target="_blank">Gas and oil prices soar and shares tumble as crucial shipping lane threatened</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-03 11:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/03/nx-s1-5729433/ai-brain-monkey-neurons" target="_blank">Scientists make a pocket-sized AI brain with help from monkey neurons</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-03 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/03/g-s1-111251/arkansas-primary-election-results-2026" target="_blank">Here are Arkansas&#x27; 2026 primary election results</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-03 05:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/3/iran-to-do-utmost-to-protect-chinas-citizens-amid-us-israel-attacks-fm?traffic_source=rss" target="_blank">Iran to do ‘utmost’ to protect China’s citizens amid US-Israel attacks: FM</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-03 04:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e6a/live/8fe5fde0-1652-11f1-aa04-cda24f48bb3d.jpg" alt="Met chief &#x27;can see why women don&#x27;t trust police&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdr2exyvyxpo?at_medium=RSS&at_campaign=rss" target="_blank">Met chief &#x27;can see why women don&#x27;t trust police&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-03 04:01</span>
             </div>
         </div>
 </div>
@@ -170,6 +167,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ebereplenty/learn-n8n-automation-in-1-hour-complete-beginner-guide-1i8c" target="_blank">Learn n8n Automation in 1 Hour – Complete Beginner Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-03 10:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/aws-launches-agent-plugins/en/headerimage/generatedHeaderImage-1771933630866.jpg" alt="AWS Launches Agent Plugins to Automate Cloud Deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/aws-launches-agent-plugins/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches Agent Plugins to Automate Cloud Deployment</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-03 10:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/antoniosthanasisgit/-how-a-missing-finally-block-was-eating-300mb-of-ram-per-failed-scrape-5179" target="_blank"># 🐛 How a Missing `finally` Block Was Eating 300MB of RAM Per Failed Scrape</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-03 10:02</span>
@@ -200,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/ankit01oss/how-to-monitor-mysql-metrics-with-opentelemetry-5ga1" target="_blank">How to Monitor MySQL Metrics with OpenTelemetry</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-03 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/stack_overflowed/topics-you-need-to-know-for-the-aws-cloud-practitioner-exam-3hl3" target="_blank">Topics you need to know for the AWS Cloud Practitioner exam</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-03 04:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/gimp-3.2-1.jpg?resize=406%2C232&amp;ssl=1" alt="GIMP 3.2 issues third release candidate with fresh fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/gimp-3-2-third-release-candidate-fixes" target="_blank">GIMP 3.2 issues third release candidate with fresh fixes</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-03 03:22</span>
             </div>
         </div>
 </div>
@@ -330,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 10:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 11:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
