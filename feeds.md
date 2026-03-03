@@ -1,43 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-03 03:47:20 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-03-03 04:31:20 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 34 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, March 03, 2026 - 03:47 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, March 03, 2026 - 04:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/3/iran-to-do-utmost-to-protect-chinas-citizens-amid-us-israel-attacks-fm?traffic_source=rss" target="_blank">Iran to do ‘utmost’ to protect China’s citizens amid US-Israel attacks: FM</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-03 04:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e6a/live/8fe5fde0-1652-11f1-aa04-cda24f48bb3d.jpg" alt="Met chief &#x27;can see why women don&#x27;t trust police&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdr2exyvyxpo?at_medium=RSS&at_campaign=rss" target="_blank">Met chief &#x27;can see why women don&#x27;t trust police&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-03 04:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,24 +102,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/02/g-s1-112253/supreme-court-new-york-redistricting" target="_blank">Supreme Court blocks redrawing of New York congressional map, dealing a win for GOP</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-03 00:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772496630907_nn_ren_iran_strikes_260302_1920x1080-14ubd6.jpg" alt="Trump says strikes on Iran could last four to five weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-says-strikes-on-iran-could-last-four-to-five-weeks-258570309756" target="_blank">Trump says strikes on Iran could last four to five weeks</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-03 00:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/2/iran-says-will-attack-any-ship-trying-to-pass-through-strait-of-hormuz?traffic_source=rss" target="_blank">Iran says will attack any ship trying to pass through Strait of Hormuz</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-02 23:09</span>
             </div>
         </div>
 </div>
@@ -175,6 +172,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/stack_overflowed/topics-you-need-to-know-for-the-aws-cloud-practitioner-exam-3hl3" target="_blank">Topics you need to know for the AWS Cloud Practitioner exam</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-03 04:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/harmonyos/p2p-communication-between-android-and-next-wearable-fa-stage-model-device-technical-guide-3d9e" target="_blank">P2P Communication Between Android and HarmonyOS Wearable (FA + Stage Model) Device - Technical Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-03 02:55</span>
@@ -216,15 +222,6 @@
                 <span class="time">2026-03-02 22:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything" target="_blank">The workers behind Meta’s smart glasses can see everything</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-02 22:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/dubai-projectile-1280x853.jpg" alt="Amazon Cloud Facilities in Middle East Knocked Out by Apparent Iranian Drone Strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/amazon-cloud-facilities-in-middle-east-knocked-out-by-apparent-iranian-drone-strikes-2000728653" target="_blank">Amazon Cloud Facilities in Middle East Knocked Out by Apparent Iranian Drone Strikes</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-03 04:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/altman-white-house-1280x853.jpg" alt="Facing Backlash, OpenAI Amends Pentagon Deal to Add More Anti-Surveillance Verbiage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +295,6 @@
                 <span class="time">2026-03-02 22:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HN0ZP8S1KSR9CY579D4F5JF6/hero-image.png" alt="Amazon Prime Members Can Get Two Free E-Books in March" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/free-kindle-books-march-2026?utm_medium=RSS" target="_blank">Amazon Prime Members Can Get Two Free E-Books in March</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-02 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -339,13 +336,22 @@
                 <span class="time">2026-03-02 08:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/electric_vehicles.png" alt="Electric Vehicles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3214/" target="_blank">Electric Vehicles</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-03-02 05:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 03:47 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 04:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
