@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-03 21:06:23 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-03 22:03:21 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, March 03, 2026 - 21:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, March 03, 2026 - 22:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,9 +48,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/3/rubio-says-iran-was-playing-us-in-negotiations?traffic_source=rss" target="_blank">Rubio says Iran was ‘playing’ US in negotiations</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-03 21:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/3/worst-case-scenario-trump-weighs-replacing-khamenei-as-leader-of-iran?traffic_source=rss" target="_blank">‘Worst-case scenario’: Trump weighs replacing Khamenei as leader of Iran</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-03 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-iran-missile-launch_7181251.jpg?20260303184829" alt="AI could be giving US lethal edge in Iran war - but there are dangers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/ai-could-be-giving-us-lethal-edge-in-iran-war-but-there-are-dangers-13514784" target="_blank">AI could be giving US lethal edge in Iran war - but there are dangers</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-03 18:01</span>
             </div>
         </div>
 <div class="story">
@@ -81,24 +98,6 @@
                 <span class="time">2026-03-03 17:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-hms-dragon-navy_7181129.jpg?20260303165809" alt="UK will deploy HMS Dragon in Cyprus, Sir Keir Starmer confirms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/uk-will-deploy-hms-dragon-in-cyprus-sir-keir-starmer-confirms-13514741" target="_blank">UK will deploy HMS Dragon in Cyprus, Sir Keir Starmer confirms</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-03 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1ea/live/18e8efe0-171f-11f1-b787-dd8097b9508d.png" alt="UK to send Royal Navy warship HMS Dragon to Cyprus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g40yp2p13o?at_medium=RSS&at_campaign=rss" target="_blank">UK to send Royal Navy warship HMS Dragon to Cyprus</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-03 16:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -111,6 +110,15 @@
                 <span class="title"><a href="https://www.theverge.com/21302051/best-apple-airpods-deals" target="_blank">The best AirPods deals you can get right now</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-03 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/recipes1CROP-500x500.jpg" alt="What we can learn from scientific analysis of Renaissance recipes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/03/renaissance-diy-science-people-tested-tweaked-home-remedy-recipes/" target="_blank">What we can learn from scientific analysis of Renaissance recipes</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-03 20:23</span>
             </div>
         </div>
 <div class="story">
@@ -149,20 +157,38 @@
                 <span class="time">2026-03-03 18:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/888001/google-accelerates-chrome-releases-cutting-cycle-in-half" target="_blank">Google accelerates Chrome release cycle</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-03 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2103048%2F716988a5-9c51-49bf-acef-191bc6dd2fee.jpeg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/marvin_p/-5498" target="_blank">[Boost]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-03 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-DPTCi-Linux-Driver" target="_blank">AMD DPTCi Driver Posted For Linux To Better Enhance Ryzen Gaming Handhelds</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-03 21:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18899270&w=600" alt="Implementing Decentralized Data Architecture on Google BigQuery: From Data Mesh to AI Excellence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/implementing-decentralized-data-architecture-on-google" target="_blank">Implementing Decentralized Data Architecture on Google BigQuery: From Data Mesh to AI Excellence</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-03 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/03/gemini-cli-conductor-reviews/en/headerimage/gemini-conductor-reviews-1772567882083.jpeg" alt="Google Launches Automated Review Feature in Gemini CLI Conductor" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -190,33 +216,6 @@
                 <span class="time">2026-03-03 18:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://sethmlarson.dev/deprecate-confusing-apis-like-os-path-commonprefix" target="_blank">Deprecate confusing APIs like “os.path.commonprefix()”</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-03 18:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18895034&w=600" alt="Comparing Top 3 Java Reporting Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/top-3-java-reporting-options" target="_blank">Comparing Top 3 Java Reporting Tools</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-03 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/narnaiezzsshaa/the-cybersecurity-ego-taxonomy-42kg" target="_blank">The Cybersecurity Ego Taxonomy</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-03 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/RESIDENT-EVIL-requiem_20260214170655-1280x720.jpg" alt="Resident Evil Requiem’s ‘Final Puzzle’ Has Been Solved Without Datamining" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/resident-evil-requiem-final-puzzle-solution-datamine-video-2000675457" target="_blank">Resident Evil Requiem’s ‘Final Puzzle’ Has Been Solved Without Datamining</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-03 21:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Pokemon-Pokopia-Gameplay-Hero-1-1280x853.jpg" alt="‘Pokémon Pokopia’ Shows Why Switch 2 Games Need to Stop Fearing Mouse Controls" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +289,6 @@
                 <span class="time">2026-03-03 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJT2RN1N8HPEZ5H0GPFFVHPJ/hero-image.jpg" alt="Apple Just Announced Five New Mac Products" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-new-mac-announcements?utm_medium=RSS" target="_blank">Apple Just Announced Five New Mac Products</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-03 15:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,22 +312,13 @@
                 <span class="time">2026-03-03 00:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/02/vox-watchina" target="_blank">Vox Watchina</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-03-02 21:17</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 21:06 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 281 |
+        🔄 Last Updated: 22:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
