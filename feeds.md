@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-03 12:05:08 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-03 13:22:54 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, March 03, 2026 - 12:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, March 03, 2026 - 13:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772540277941_tdy_news_7a_engel_israel_iran_new_attacks_260302_1920x1080-gnwt0d.jpg" alt="Attacks Escalate in Middle East as Iran Retaliates Across Region" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/israel-and-us-strike-iran-military-and-leadership-with-new-attacks-258592325882" target="_blank">Attacks Escalate in Middle East as Iran Retaliates Across Region</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-03 12:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/tehran-main_1772537616962_hpMain_4x3t_384.jpg" alt="Iran war live updates: Trump touts &#x27;virtually unlimited&#x27; supply of US munitions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/3/could-the-us-run-low-on-weapons-for-its-assault-on-iran?traffic_source=rss" target="_blank">Could the US run low on weapons for its assault on Iran?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-03 09:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/3/video-top-democrat-says-there-was-no-imminent-threat-to-the-us-from-iran?traffic_source=rss" target="_blank">Video: Top Democrat says there was no imminent threat to the US from Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-03 08:44</span>
             </div>
         </div>
 </div>
@@ -170,6 +163,42 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mburu_champ/sql-joins-window-functions-the-skills-that-separate-analysts-from-beginners-p9g" target="_blank">SQL Joins &amp; Window Functions: The Skills That Separate Analysts from Beginners</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-03 13:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18894996&w=600" alt="What Actually Breaks During Large-Scale S/4HANA Conversions (And How to Prevent It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/large-scale-s4hana-conversion-issues-prevention" target="_blank">What Actually Breaks During Large-Scale S/4HANA Conversions (And How to Prevent It)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-03 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c178zzw780xo" target="_blank">India&#x27;s top court angry after junior judge cites fake AI-generated orders</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-03 12:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/google-cloud-opentelemetry/en/headerimage/generatedHeaderImage-1771996536609.jpg" alt="Google Cloud Brings Full OpenTelemetry Support to Cloud Monitoring Metrics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/google-cloud-opentelemetry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Cloud Brings Full OpenTelemetry Support to Cloud Monitoring Metrics</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-03 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18894977&w=600" alt="Open-Source GitOps at the Edge: Deploying to Thousands of Clusters With Rancher Fleet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -181,46 +210,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ebereplenty/learn-n8n-automation-in-1-hour-complete-beginner-guide-1i8c" target="_blank">Learn n8n Automation in 1 Hour – Complete Beginner Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-03 10:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/aws-launches-agent-plugins/en/headerimage/generatedHeaderImage-1771933630866.jpg" alt="AWS Launches Agent Plugins to Automate Cloud Deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/aws-launches-agent-plugins/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches Agent Plugins to Automate Cloud Deployment</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-03 10:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/antoniosthanasisgit/-how-a-missing-finally-block-was-eating-300mb-of-ram-per-failed-scrape-5179" target="_blank"># 🐛 How a Missing `finally` Block Was Eating 300MB of RAM Per Failed Scrape</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-03 10:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzxymmdnff3atsloa5fsg.png" alt="I Pointed Claude Code at My Hackathon API. It Built the Public Website" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/restdbjones/i-pointed-claude-code-at-my-hackathon-api-it-built-the-public-website-4j7p" target="_blank">I Pointed Claude Code at My Hackathon API. It Built the Public Website</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-03 07:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faw3io9oevgwzkhybbi2b.png" alt="How I Overcame the Optimization Wall by Implementing the Augmented Lagrangian Method (ALM) with AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yassan8/how-i-overcame-the-optimization-wall-by-implementing-the-augmented-lagrangian-method-alm-with-ai-5b5d" target="_blank">How I Overcame the Optimization Wall by Implementing the Augmented Lagrangian Method (ALM) with AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-03 06:04</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://gvanrossum.github.io/interviews/Thomas.html" target="_blank">Guido van Rossum interviews Thomas Wouters (Python Core Dev)</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-03 11:34</span>
             </div>
         </div>
 </div>
@@ -237,20 +230,20 @@
                 <span class="time">2026-03-03 12:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/llm-assisted-deanonymization.html" target="_blank">LLM-Assisted Deanonymization</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-03-02 12:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Mummy-Tomb-of-Dragon-Emperor-1280x853.jpg" alt="We’ve Got Terrible News for the Dozen People Who Love ‘The Mummy: Tomb of the Dragon Emperor’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/weve-got-terrible-news-for-the-dozen-people-who-love-the-mummy-tomb-of-the-dragon-emperor-2000728603" target="_blank">We’ve Got Terrible News for the Dozen People Who Love ‘The Mummy: Tomb of the Dragon Emperor’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-03 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/tanzyn-crawford_6-2-1280x853.jpg" alt="The ‘Knight of the Seven Kingdoms’ Star Behind Tanselle Hits Back at Lame Racist Complaints" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -296,15 +289,6 @@
                 <span class="time">2026-03-02 23:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/billie-1280x853.jpg" alt="The BBC Won’t Have a New ‘Doctor Who’ Star to Announce Until It Figures Out the Show’s Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/doctor-who-billie-piper-doctor-casting-bbc-2000728564" target="_blank">The BBC Won’t Have a New ‘Doctor Who’ Star to Announce Until It Figures Out the Show’s Future</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-02 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -342,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 12:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 13:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
