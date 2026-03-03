@@ -1,34 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-03-03 22:03:21 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-03-03 23:02:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 12 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, March 03, 2026 - 22:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, March 03, 2026 - 23:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +58,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/3/atletico-madrid-reach-copa-del-rey-final-despite-3-0-loss-at-barcelona?traffic_source=rss" target="_blank">Atletico Madrid reach Copa del Rey final despite 3-0 loss at Barcelona</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-03 22:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/03/nx-s1-5712323/pregnant-migrant-girls-texas-shelter" target="_blank">Pregnant migrant girls are being sent to a Texas shelter flagged as medically risky</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-03 22:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/3/rubio-says-iran-was-playing-us-in-negotiations?traffic_source=rss" target="_blank">Rubio says Iran was ‘playing’ US in negotiations</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-03 21:28</span>
@@ -63,6 +91,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd3/live/ee58be70-174d-11f1-b048-c9424b2cf5fd.jpg" alt="Trump says Starmer is &#x27;no Winston Churchill&#x27; over Iran strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62gwkjg0k9o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says Starmer is &#x27;no Winston Churchill&#x27; over Iran strikes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-03 20:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/03/1920x1080/skynews-iran-missile-launch_7181251.jpg?20260303184829" alt="AI could be giving US lethal edge in Iran war - but there are dangers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -71,38 +108,47 @@
                 <span class="time">2026-03-03 18:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-2-gty-gmh-260303_1772557032732_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump slams Spain, UK over Iran war cooperation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: Trump slams Spain, UK over Iran war cooperation</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-03 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/03/nx-s1-5734005/president-trump-is-trying-to-make-it-harder-to-vote-heres-why-that-matters" target="_blank">President Trump is trying to make it harder to vote. Here&#x27;s why that matters</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-03 17:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Trump answers questions on war in Iran: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Trump answers questions on war in Iran: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-03 17:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/HCgyB1NWMAAkUkb-500x500.jpg" alt="No fooling: NASA targets April 1 for Artemis II launch to the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/03/no-fooling-nasa-targets-april-1-for-artemis-ii-launch-to-the-moon/" target="_blank">No fooling: NASA targets April 1 for Artemis II launch to the Moon</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-03 22:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/03/openai-anthropic-waymo-dominated-189-billion-vc-investments-february-crunchbase-report/" target="_blank">Just three companies dominated the $189B in VC investments last month</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-03 22:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/888526/what-trumps-war-on-iran-means-for-the-us-energy-crunch" target="_blank">What Trump’s war on Iran means for the US energy crunch</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-03 21:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69a5d98c9572e392b1f5652a/master/pass/pol-trump-iran-2263908109.jpg" alt="Here’s Why Trump Posted About Iran ‘Stealing’ the 2020 Election Hours After the US Attacked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/heres-why-trump-posted-about-iran-stealing-the-2020-election-hours-after-the-us-attacked/" target="_blank">Here’s Why Trump Posted About Iran ‘Stealing’ the 2020 Election Hours After the US Attacked</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-03 21:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -121,47 +167,20 @@
                 <span class="time">2026-03-03 20:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/" target="_blank">ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-03 20:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/electric-piggy-bank-15k-500x500-1772566110.jpg" alt="There are plenty of great choices if you want to spend less than $15K on an EV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/03/there-are-plenty-of-great-choices-if-you-want-to-spend-less-than-15k-on-an-ev/" target="_blank">There are plenty of great choices if you want to spend less than $15K on an EV</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-03 19:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a5fee53552f3bcbc80c606/master/pass/sec-phone-hacking-2252317890.jpg" alt="A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/" target="_blank">A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-03 19:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/21289209/best-apple-watch-deals" target="_blank">Here are the best Apple Watch deals available right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-03 18:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/" target="_blank">Don&#x27;t Make Me Talk to Your Chatbot</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-03 22:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2103048%2F716988a5-9c51-49bf-acef-191bc6dd2fee.jpeg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +226,6 @@
                 <span class="time">2026-03-03 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/" target="_blank">How we rebuilt the search architecture for high availability in GitHub Enterprise Server</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-03-03 18:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +245,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/fake-iran-war-1280x853.jpg" alt="Elon Musk’s X Finally Tries to Stop the Epidemic of AI-Generated War Footage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musks-x-finally-tries-to-stop-the-epidemic-of-ai-generated-war-footage-2000729048" target="_blank">Elon Musk’s X Finally Tries to Stop the Epidemic of AI-Generated War Footage</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-03 22:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/highonlife2screen-1280x720.jpg" alt="High On Life 2 Contains A Boss Fight So Wild The Devs Weren’t Sure Xbox And PlayStation Would Allow It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/high-on-life-2-boss-fight-devs-unsure-playstation-would-allow-it-interview-2000675435" target="_blank">High On Life 2 Contains A Boss Fight So Wild The Devs Weren’t Sure Xbox And PlayStation Would Allow It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-03 22:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/mondrian.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="The Mondrian estate is threatening people over a public domain painting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/03/the-mondrian-estate-is-threatening-people-over-a-public-domain-painting.html" target="_blank">The Mondrian estate is threatening people over a public domain painting</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-03 22:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/RESIDENT-EVIL-requiem_20260214170655-1280x720.jpg" alt="Resident Evil Requiem’s ‘Final Puzzle’ Has Been Solved Without Datamining" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,33 +297,6 @@
                 <span class="title"><a href="https://kotaku.com/scott-pilgrim-ex-review-impressions-creator-anamanaguchi-2000675417" target="_blank">Scott Pilgrim EX Is A Perfect Encore</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-03 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJFNY2T48ANTBB9QAGFDDEQ2/hero-image.png" alt="You Can Get a $200 Amazon Gift Card With the New Samsung Galaxy S26 Ultra" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-s26-ultra-gift-card-deal-march-2026?utm_medium=RSS" target="_blank">You Can Get a $200 Amazon Gift Card With the New Samsung Galaxy S26 Ultra</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-03 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Meta-Ray-Ban-Display-review-17-1280x853.jpg" alt="Dear Meta Smart Glasses Wearers: You’re Being Watched, Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dear-meta-smart-glasses-wearers-youre-being-watched-too-2000728928" target="_blank">Dear Meta Smart Glasses Wearers: You’re Being Watched, Too</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-03 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/image-36-1280x720.jpg" alt="Mysterious New Witcher 3 DLC Keeps Sounding More And More Likely" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/witcher-3-dlc-velen-switch-2-expansion-leak-2000675384" target="_blank">Mysterious New Witcher 3 DLC Keeps Sounding More And More Likely</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-03 18:00</span>
             </div>
         </div>
 </div>
@@ -317,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 281 |
-        🔄 Last Updated: 22:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 279 |
+        🔄 Last Updated: 23:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
