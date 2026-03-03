@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-02 23:02:42 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-03 00:07:46 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, March 02, 2026 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, March 03, 2026 - 00:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/2/iran-says-will-attack-any-ship-trying-to-pass-through-strait-of-hormuz?traffic_source=rss" target="_blank">Iran says will attack any ship trying to pass through Strait of Hormuz</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-02 23:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +101,20 @@
                 <span class="time">2026-03-02 18:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-gulf_7180176.jpg?20260302181926" alt="This war has massive implications for the world economy | Ed Conway" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/this-war-has-massive-implications-for-the-world-economy-13514364" target="_blank">This war has massive implications for the world economy | Ed Conway</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-02 17:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/" target="_blank">ChatGPT uninstalls surged by 295% after DoD deal</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-03 00:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69a6006e3b620fa230274768/master/pass/Missile-Attacks-Overwhelming-Gulf-Delivery-Drivers-Still-on-Roads-Business-2263719374.jpg" alt="Missile Attacks Are Overwhelming the Gulf. Delivery Drivers Are Still on the Roads" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +160,20 @@
                 <span class="time">2026-03-02 18:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a5a6d84fcfd717c76a5180/master/pass/GettyImages-2221332981.jpg" alt="Attacks on GPS Spike Amid US and Israeli War on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gps-attacks-on-ships-spike-amid-the-us-and-israeli-war-on-iran/" target="_blank">Attacks on GPS Spike Amid US and Israeli War on Iran</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-02 18:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/narnaiezzsshaa/poking-a-200-line-gpt-until-it-breaks-so-you-understand-bigger-models-better-3hph" target="_blank">Poking a 200-Line GPT Until It Breaks (So You Understand Bigger Models Better)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-03 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,21 +211,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bspann/migrating-from-semantic-kernel-to-microsoft-agent-framework-a-c-developers-guide-3ad5" target="_blank">Migrating from Semantic Kernel to Microsoft Agent Framework: A C# Developer&#x27;s Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-02 19:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18894970&w=600" alt="Idempotency in AI Tools: The Most Expensive Thing Teams Forget" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18895889&w=600" alt="AWS Step Functions + AI: Smarter Orchestration in Modern Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/idempotency-in-ai-tools-most-expensive-mistake" target="_blank">Idempotency in AI Tools: The Most Expensive Thing Teams Forget</a></span>
+                <span class="title"><a href="https://dzone.com/articles/aws-step-functions-ai-smarter-orchestration-in-mod" target="_blank">AWS Step Functions + AI: Smarter Orchestration in Modern Applications</a></span>
                 <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-02 19:00</span>
+                <span class="time">2026-03-02 20:00</span>
             </div>
         </div>
 </div>
@@ -235,12 +239,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_2596658891-1280x853.jpg" alt="Even Nasdaq Wants in on the Prediction Market Frenzy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/even-nasdaq-wants-in-on-the-prediction-market-frenzy-2000728572" target="_blank">Even Nasdaq Wants in on the Prediction Market Frenzy</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-02 23:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/billie-1280x853.jpg" alt="The BBC Won’t Have a New ‘Doctor Who’ Star to Announce Until It Figures Out the Show’s Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/doctor-who-billie-piper-doctor-casting-bbc-2000728564" target="_blank">The BBC Won’t Have a New ‘Doctor Who’ Star to Announce Until It Figures Out the Show’s Future</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-02 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/shadows-1280x720.jpg" alt="Ubisoft Is Having A Pretty Enormous Sale Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ubisoft-steam-sale-assassins-creed-shadows-star-wars-2000675127" target="_blank">Ubisoft Is Having A Pretty Enormous Sale Right Now</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-02 22:31</span>
             </div>
         </div>
 <div class="story">
@@ -268,24 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/sims-4-jeffrey-epstein-kids-family-ea-user-generated-content-gallery-fans-angry-2000675121" target="_blank">Sims 4 Players Don’t Understand How ‘Disgusting’ Epstein Family Made It Into Game’s Gallery</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-02 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/mikey-china-ghost-city.jpg?fit=1762%2C982&amp;quality=60&amp;ssl=1" alt="China&#x27;s looming luxury housing projects attracting younger people looking for budget living" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/02/chinas-looming-luxury-housing-projects-attracting-younger-people-looking-for-budget-living.html" target="_blank">China&#x27;s looming luxury housing projects attracting younger people looking for budget living</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-02 21:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GSCJ1SJME55D10VVM4VB0/hero-image.png" alt="Do These Things Now to Prepare for Daylight Saving Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/do-these-things-now-to-prepare-for-daylight-saving-time?utm_medium=RSS" target="_blank">Do These Things Now to Prepare for Daylight Saving Time</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-02 21:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 00:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
