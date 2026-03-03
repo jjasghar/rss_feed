@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-03 18:10:27 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-03-03 20:04:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, March 03, 2026 - 18:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, March 03, 2026 - 20:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +54,15 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: Trump slams Spain, UK over Iran war cooperation</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-03 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/03/nx-s1-5734005/president-trump-is-trying-to-make-it-harder-to-vote-heres-why-that-matters" target="_blank">President Trump is trying to make it harder to vote. Here&#x27;s why that matters</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-03 17:33</span>
             </div>
         </div>
 <div class="story">
@@ -87,20 +101,29 @@
                 <span class="time">2026-03-03 16:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/3/t20-world-cup-semifinal-unbeaten-south-africa-wary-of-new-zealand?traffic_source=rss" target="_blank">T20 World Cup semifinal: Unbeaten South Africa ‘fresh’ for New Zealand</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-03 15:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/electric-piggy-bank-15k-500x500-1772566110.jpg" alt="There are plenty of great choices if you want to spend less than $15K on an EV" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/03/there-are-plenty-of-great-choices-if-you-want-to-spend-less-than-15k-on-an-ev/" target="_blank">There are plenty of great choices if you want to spend less than $15K on an EV</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-03 19:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69a5fee53552f3bcbc80c606/master/pass/sec-phone-hacking-2252317890.jpg" alt="A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/" target="_blank">A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-03 19:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +160,38 @@
                 <span class="time">2026-03-03 15:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/03/x-begins-testing-standalone-x-chat-app-on-ios/" target="_blank">X begins testing standalone X Chat app on iOS</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-03 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/03/apples-new-studio-displays-come-with-thunderbolt-5/" target="_blank">Apple’s new Studio displays come with Thunderbolt 5</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-03 14:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/gemini-cli-conductor-reviews/en/headerimage/gemini-conductor-reviews-1772567882083.jpeg" alt="Google Launches Automated Review Feature in Gemini CLI Conductor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/gemini-cli-conductor-reviews/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Launches Automated Review Feature in Gemini CLI Conductor</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-03 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18898281&w=600" alt="How Power Automate Helps Analysts Send Alert Emails Faster and How AI Builder Takes It to the Next Level" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-power-automate-helps-analysts-send-alert-emails" target="_blank">How Power Automate Helps Analysts Send Alert Emails Faster and How AI Builder Takes It to the Next Level</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-03 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://sethmlarson.dev/deprecate-confusing-apis-like-os-path-commonprefix" target="_blank">Deprecate confusing APIs like “os.path.commonprefix()”</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-03 18:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18895034&w=600" alt="Comparing Top 3 Java Reporting Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -187,33 +219,6 @@
                 <span class="time">2026-03-03 17:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Mutter-50.rc" target="_blank">GNOME Mutter 50.rc Released With Better NVIDIA Performance, SDR-Native &amp; Better HDR</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-03 16:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!ZjLB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53356907-6657-4146-894a-417095d3b665_1194x896.png" alt="AI Tooling for Software Engineers in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/ai-tooling-2026" target="_blank">AI Tooling for Software Engineers in 2026</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-03-03 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18895025&w=600" alt="Probabilistic Data Structures for Software Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/probabilistic-data-structures-software-security" target="_blank">Probabilistic Data Structures for Software Security</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-03 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJFNY2T48ANTBB9QAGFDDEQ2/hero-image.png" alt="You Can Get a $200 Amazon Gift Card With the New Samsung Galaxy S26 Ultra" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-s26-ultra-gift-card-deal-march-2026?utm_medium=RSS" target="_blank">You Can Get a $200 Amazon Gift Card With the New Samsung Galaxy S26 Ultra</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-03 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Meta-Ray-Ban-Display-review-17-1280x853.jpg" alt="Dear Meta Smart Glasses Wearers: You’re Being Watched, Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +292,6 @@
                 <span class="time">2026-03-03 15:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJSHGZM1SPHCQ0KSF0DZWRVC/hero-image.png" alt="These Skullcandy Headphones Are Over 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/skullcandy-evo-wireless-headphones-sale-march-2026?utm_medium=RSS" target="_blank">These Skullcandy Headphones Are Over 50% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-03 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 18:10 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 20:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
