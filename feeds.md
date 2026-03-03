@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-03-03 04:31:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-03 05:20:44 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, March 03, 2026 - 04:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, March 03, 2026 - 05:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -169,12 +159,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fsignoz.io%2F_next%2Fimage%2F%3Furl%3D%252Fimg%252Fblog%252F2023%252F11%252Fopentelemetry-mysql-metrics-cover.webp" alt="How to Monitor MySQL Metrics with OpenTelemetry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ankit01oss/how-to-monitor-mysql-metrics-with-opentelemetry-5ga1" target="_blank">How to Monitor MySQL Metrics with OpenTelemetry</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-03 05:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/stack_overflowed/topics-you-need-to-know-for-the-aws-cloud-practitioner-exam-3hl3" target="_blank">Topics you need to know for the AWS Cloud Practitioner exam</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-03 04:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/gimp-3.2-1.jpg?resize=406%2C232&amp;ssl=1" alt="GIMP 3.2 issues third release candidate with fresh fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/gimp-3-2-third-release-candidate-fixes" target="_blank">GIMP 3.2 issues third release candidate with fresh fixes</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-03 03:22</span>
             </div>
         </div>
 <div class="story">
@@ -202,24 +210,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GIMP-3.2-RC3-Released" target="_blank">GIMP 3.2 RC3 Released In Preparation For The Stable GIMP 3.2</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-03 00:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/narnaiezzsshaa/poking-a-200-line-gpt-until-it-breaks-so-you-understand-bigger-models-better-3hph" target="_blank">Poking a 200-Line GPT Until It Breaks (So You Understand Bigger Models Better)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-03 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/charlieseay/closing-the-gap-how-a-mac-mini-and-ai-reignited-20-years-of-ideas-4l6a" target="_blank">Closing the Gap: How a Mac Mini and AI Reignited 20 Years of Ideas</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-02 22:41</span>
             </div>
         </div>
 </div>
@@ -336,22 +326,13 @@
                 <span class="time">2026-03-02 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/electric_vehicles.png" alt="Electric Vehicles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3214/" target="_blank">Electric Vehicles</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-03-02 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 04:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 05:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
