@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-03 14:12:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-03 15:14:18 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, March 03, 2026 - 14:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, March 03, 2026 - 15:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/3/iaea-confirms-some-damage-to-irans-natanz-nuclear-facility?traffic_source=rss" target="_blank">IAEA confirms buildings damaged at Iran’s Natanz nuclear facility</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-03 14:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/iran-1-gty-jef-260303_1772542494224_hpMain_4x3t_384.jpg" alt="Iran live updates: US ramps up strikes as American death toll rises" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,6 +81,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/03/g-s1-112278/up-first-newsletter-iran-us-israel-middle-east-nc-texas-primaries-kristi-noem-bill-clinton" target="_blank">U.S. evacuates diplomats from Middle East. And, what to expect from N.C., Texas primaries</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-03 12:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772540277941_tdy_news_7a_engel_israel_iran_new_attacks_260302_1920x1080-gnwt0d.jpg" alt="Attacks Escalate in Middle East as Iran Retaliates Across Region" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -83,29 +98,20 @@
                 <span class="time">2026-03-03 12:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/tehran-main_1772537616962_hpMain_4x3t_384.jpg" alt="Iran war live updates: Trump touts &#x27;virtually unlimited&#x27; supply of US munitions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran war live updates: Trump touts &#x27;virtually unlimited&#x27; supply of US munitions</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-03 11:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/planet-money/2026/03/03/g-s1-111940/the-candy-heir-vs-chocolate-skimpflation" target="_blank">The candy heir vs. chocolate skimpflation</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-03 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/03/apples-new-studio-displays-come-with-thunderbolt-5/" target="_blank">Apple’s new Studio displays come with Thunderbolt 5</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-03 14:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +157,38 @@
                 <span class="time">2026-03-03 01:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/02/indias-pronto-formalizes-house-help-as-its-valuation-jumps-8x-in-under-a-year/" target="_blank">India’s Pronto formalizes house help as its valuation jumps 8× in under a year</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-03 01:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/adidas-decentralized-platform/en/headerimage/generatedHeaderImage-1771805291342.jpg" alt="From Central Control to Team Autonomy: Rethinking Infrastructure Delivery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/adidas-decentralized-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">From Central Control to Team Autonomy: Rethinking Infrastructure Delivery</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-03 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18895016&w=600" alt="I Got Tired of Debugging Curl at 2 AM, So I Built a CLI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/built-a-cli-to-replace-curl-debugging" target="_blank">I Got Tired of Debugging Curl at 2 AM, So I Built a CLI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-03 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/" target="_blank">I&#x27;m reluctant to verify my identity or age for any online services</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-03 14:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/03/google-multi-agent/en/headerimage/generatedHeaderImage-1772372986139.jpg" alt="Google Publishes Scaling Principles for Agentic Architectures" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,33 +216,6 @@
                 <span class="time">2026-03-03 13:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18894996&w=600" alt="What Actually Breaks During Large-Scale S/4HANA Conversions (And How to Prevent It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/large-scale-s4hana-conversion-issues-prevention" target="_blank">What Actually Breaks During Large-Scale S/4HANA Conversions (And How to Prevent It)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-03 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c178zzw780xo" target="_blank">India&#x27;s top court angry after junior judge cites fake AI-generated orders</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-03 12:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/google-cloud-opentelemetry/en/headerimage/generatedHeaderImage-1771996536609.jpg" alt="Google Cloud Brings Full OpenTelemetry Support to Cloud Monitoring Metrics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/google-cloud-opentelemetry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Cloud Brings Full OpenTelemetry Support to Cloud Monitoring Metrics</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-03 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/06/25b4cff16bfa17dc3763017b01ee969b-1280x720.jpg" alt="Cyberpunk 2077 Has Never Been Better And Is Coming To Game Pass This Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-game-pass-new-march-games-cyberpunk-silksong-2000675361" target="_blank">Cyberpunk 2077 Has Never Been Better And Is Coming To Game Pass This Month</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-03 15:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/macbook-air-m5-1280x853.jpg" alt="Apple Announces M5 MacBook Air With Double the Starting Storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/apple-announces-m5-macbook-air-with-double-the-starting-storage-2000728851" target="_blank">Apple Announces M5 MacBook Air With Double the Starting Storage</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-03 15:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KJSHGZM1SPHCQ0KSF0DZWRVC/hero-image.png" alt="These Skullcandy Headphones Are Over 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +287,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/03/juicero-your-soft-plastic-recycling-with-the-clear-drop-compactor.html" target="_blank">Juicero your soft plastic recycling with the Clear Drop compactor</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-03 12:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/tanzyn-crawford_6-2-1280x853.jpg" alt="The ‘Knight of the Seven Kingdoms’ Star Behind Tanselle Hits Back at Lame Racist Complaints" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/knight-of-the-seven-kingdoms-tanselle-racism-tanzyn-crawford-2000728611" target="_blank">The ‘Knight of the Seven Kingdoms’ Star Behind Tanselle Hits Back at Lame Racist Complaints</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-03 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/dubai-projectile-1280x853.jpg" alt="Amazon Cloud Facilities in Middle East Knocked Out by Apparent Iranian Drone Strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/amazon-cloud-facilities-in-middle-east-knocked-out-by-apparent-iranian-drone-strikes-2000728653" target="_blank">Amazon Cloud Facilities in Middle East Knocked Out by Apparent Iranian Drone Strikes</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-03 04:28</span>
             </div>
         </div>
 </div>
@@ -329,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 14:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 15:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
