@@ -1,35 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-03-03 11:09:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-03 12:05:08 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, March 03, 2026 - 11:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, March 03, 2026 - 12:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/tehran-main_1772537616962_hpMain_4x3t_384.jpg" alt="Iran war live updates: Trump touts &#x27;virtually unlimited&#x27; supply of US munitions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran war live updates: Trump touts &#x27;virtually unlimited&#x27; supply of US munitions</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-03 11:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/planet-money/2026/03/03/g-s1-111940/the-candy-heir-vs-chocolate-skimpflation" target="_blank">The candy heir vs. chocolate skimpflation</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-03 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce05/live/fa23a360-15cb-11f1-82b7-79a863688a9c.jpg" alt="Gas and oil prices soar and shares tumble as crucial shipping lane threatened" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +105,20 @@
                 <span class="time">2026-03-03 08:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/3/us-claims-destroyed-irgc-command-centre-more-israel-attacks-on-tehran?traffic_source=rss" target="_blank">US claims destroyed IRGC command centre, more Israel attacks on Tehran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-03 07:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/03/g-s1-111251/arkansas-primary-election-results-2026" target="_blank">Here are Arkansas&#x27; 2026 primary election results</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-03 05:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/app-cops-1-500x500.jpg" alt="With developer verification, Google&#x27;s Apple envy threatens to dismantle Android&#x27;s open legacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/" target="_blank">With developer verification, Google&#x27;s Apple envy threatens to dismantle Android&#x27;s open legacy</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-03 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +164,20 @@
                 <span class="time">2026-03-03 01:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/" target="_blank">ChatGPT uninstalls surged by 295% after DoD deal</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-03 00:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18894977&w=600" alt="Open-Source GitOps at the Edge: Deploying to Thousands of Clusters With Rancher Fleet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/open-source-gitops-edge-rancher-fleet" target="_blank">Open-Source GitOps at the Edge: Deploying to Thousands of Clusters With Rancher Fleet</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-03 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,20 +223,20 @@
                 <span class="time">2026-03-03 06:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fsignoz.io%2F_next%2Fimage%2F%3Furl%3D%252Fimg%252Fblog%252F2023%252F11%252Fopentelemetry-mysql-metrics-cover.webp" alt="How to Monitor MySQL Metrics with OpenTelemetry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ankit01oss/how-to-monitor-mysql-metrics-with-opentelemetry-5ga1" target="_blank">How to Monitor MySQL Metrics with OpenTelemetry</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-03 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/on-moltbook.html" target="_blank">On Moltbook</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-03-03 12:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -236,6 +251,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/tanzyn-crawford_6-2-1280x853.jpg" alt="The ‘Knight of the Seven Kingdoms’ Star Behind Tanselle Hits Back at Lame Racist Complaints" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/knight-of-the-seven-kingdoms-tanselle-racism-tanzyn-crawford-2000728611" target="_blank">The ‘Knight of the Seven Kingdoms’ Star Behind Tanselle Hits Back at Lame Racist Complaints</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-03 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/dubai-projectile-1280x853.jpg" alt="Amazon Cloud Facilities in Middle East Knocked Out by Apparent Iranian Drone Strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +305,6 @@
                 <span class="time">2026-03-02 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/shadows-1280x720.jpg" alt="Ubisoft Is Having A Pretty Enormous Sale Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ubisoft-steam-sale-assassins-creed-shadows-star-wars-2000675127" target="_blank">Ubisoft Is Having A Pretty Enormous Sale Right Now</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-02 22:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 11:09 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 12:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
