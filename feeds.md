@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-03 01:31:01 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-03 02:56:17 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, March 03, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, March 03, 2026 - 02:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -70,6 +65,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772496630907_nn_ren_iran_strikes_260302_1920x1080-14ubd6.jpg" alt="Trump says strikes on Iran could last four to five weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-says-strikes-on-iran-could-last-four-to-five-weeks-258570309756" target="_blank">Trump says strikes on Iran could last four to five weeks</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-03 00:10</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -96,15 +100,6 @@
                 <span class="time">2026-03-02 19:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/02/nx-s1-5732784/iran-war-flights-travelers-stranded" target="_blank">Some Middle East flights resume, but thousands of travelers are still stranded by war</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-02 19:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,9 +109,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/" target="_blank">Cursor has reportedly surpassed $2B in annualized revenue</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-03 01:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/03/02/indias-pronto-formalizes-house-help-as-its-valuation-jumps-8x-in-under-a-year/" target="_blank">India’s Pronto formalizes house help as its valuation jumps 8× in under a year</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-03 01:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69a61e4e7c1057ec63585309/master/pass/Gear_JoeGebbia_GettyImages-1183210213.jpg" alt="What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/joe-gebbia-mystery-metallic-device/" target="_blank">What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-03 01:06</span>
             </div>
         </div>
 <div class="story">
@@ -146,29 +159,20 @@
                 <span class="time">2026-03-02 22:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a6006e3b620fa230274768/master/pass/Missile-Attacks-Overwhelming-Gulf-Delivery-Drivers-Still-on-Roads-Business-2263719374.jpg" alt="Missile Attacks Are Overwhelming the Gulf. Delivery Drivers Are Still on the Roads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/with-missile-attacks-overhead-in-the-gulf-delivery-drivers-are-still-on-the-road/" target="_blank">Missile Attacks Are Overwhelming the Gulf. Delivery Drivers Are Still on the Roads</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-02 21:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a1f931afca25142fae8979/master/pass/Review-%20BlipBlox%20After%20Dark.png" alt="BlipBlox After Dark Review: a Synthesizer for Everybody" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/blipblox-after-dark/" target="_blank">BlipBlox After Dark Review: a Synthesizer for Everybody</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-02 20:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/harmonyos/p2p-communication-between-android-and-next-wearable-fa-stage-model-device-technical-guide-3d9e" target="_blank">P2P Communication Between Android and HarmonyOS Wearable (FA + Stage Model) Device - Technical Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-03 02:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -214,15 +218,6 @@
                 <span class="time">2026-03-02 21:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://take.surf/2026/03/01/welcome-back-to-macintosh" target="_blank">Welcome (back) to Macintosh</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-02 21:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/microchipped-human-hand-1280x853.jpg" alt="Mandatory Subcutaneous Microchips for Employees May Soon Be Banned in Washington State" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/mandatory-subcutaneous-microchips-for-employees-may-soon-be-banned-in-washington-state-2000728198" target="_blank">Mandatory Subcutaneous Microchips for Employees May Soon Be Banned in Washington State</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-03 01:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_2596658891-1280x853.jpg" alt="Even Nasdaq Wants in on the Prediction Market Frenzy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +291,6 @@
                 <span class="time">2026-03-02 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/epsteinfamilyyfy-1280x720.jpg" alt="Sims 4 Players Don’t Understand How ‘Disgusting’ Epstein Family Made It Into Game’s Gallery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sims-4-jeffrey-epstein-kids-family-ea-user-generated-content-gallery-fans-angry-2000675121" target="_blank">Sims 4 Players Don’t Understand How ‘Disgusting’ Epstein Family Made It Into Game’s Gallery</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-02 21:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -337,22 +332,13 @@
                 <span class="time">2026-03-02 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5776.png" alt="Hum And Buzz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5776" target="_blank">Hum And Buzz</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-03-02 01:48</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 02:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
