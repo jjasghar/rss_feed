@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-03 17:13:45 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-03 18:10:27 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, March 03, 2026 - 17:13 UTC</div>
+    <div class="newspaper-date">Tuesday, March 03, 2026 - 18:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,12 +43,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-2-gty-gmh-260303_1772557032732_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump slams Spain, UK over Iran war cooperation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: Trump slams Spain, UK over Iran war cooperation</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-03 17:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Trump answers questions on war in Iran: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Trump answers questions on war in Iran: ABC News Live</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-03 17:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-hms-dragon-navy_7181129.jpg?20260303165809" alt="UK will deploy HMS Dragon in Cyprus, Sir Keir Starmer confirms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/uk-will-deploy-hms-dragon-in-cyprus-sir-keir-starmer-confirms-13514741" target="_blank">UK will deploy HMS Dragon in Cyprus, Sir Keir Starmer confirms</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-03 16:49</span>
             </div>
         </div>
 <div class="story">
@@ -86,29 +96,20 @@
                 <span class="time">2026-03-03 15:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/03/south-sudan-risks-return-civil-war-violence-escalates" target="_blank">South Sudan risks return to full-blown civil war as violence escalates</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-03 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a040/live/09528950-1707-11f1-bfbe-c7ba448da962.png" alt="UK considers sending Royal Navy warship to Cyprus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g40yp2p13o?at_medium=RSS&at_campaign=rss" target="_blank">UK considers sending Royal Navy warship to Cyprus</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-03 15:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/21289209/best-apple-watch-deals" target="_blank">Here are the best Apple Watch deals available right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-03 18:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +155,29 @@
                 <span class="time">2026-03-03 14:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a6ed6ea5763d87abb3825a/master/pass/Apple%20MacBook%20Pro%20M5%20Pro%20and%20M5%20Max%20SOURCE%20Apple.jpg" alt="Apple’s New MacBook Air and MacBook Pro Have New Chips, More Storage, and Higher Prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/apple-macbook-macbook-air-m5-macbook-pro-m5-pro-m5-max-2026/" target="_blank">Apple’s New MacBook Air and MacBook Pro Have New Chips, More Storage, and Higher Prices</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-03 14:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18895034&w=600" alt="Comparing Top 3 Java Reporting Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/top-3-java-reporting-options" target="_blank">Comparing Top 3 Java Reporting Tools</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-03 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/narnaiezzsshaa/the-cybersecurity-ego-taxonomy-42kg" target="_blank">The Cybersecurity Ego Taxonomy</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-03 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F48y9h9tn50ozqhfifzsv.png" alt="What an AI Reasoning Engine Built for Alzheimer&#x27;s Metabolic Research: A Code Walkthrough" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -187,39 +197,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!ZjLB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53356907-6657-4146-894a-417095d3b665_1194x896.png" alt="AI Tooling for Software Engineers in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/ai-tooling-2026" target="_blank">AI Tooling for Software Engineers in 2026</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-03-03 16:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18895025&w=600" alt="Probabilistic Data Structures for Software Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/probabilistic-data-structures-software-security" target="_blank">Probabilistic Data Structures for Software Security</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-03 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Sovereign-Tech-Fellowship-2026" target="_blank">Sovereign Tech Fellowship Opens Up To Community Managers, Technical Writers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-03 15:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/adidas-decentralized-platform/en/headerimage/generatedHeaderImage-1771805291342.jpg" alt="From Central Control to Team Autonomy: Rethinking Infrastructure Delivery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/adidas-decentralized-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">From Central Control to Team Autonomy: Rethinking Infrastructure Delivery</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-03 15:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18895016&w=600" alt="I Got Tired of Debugging Curl at 2 AM, So I Built a CLI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/built-a-cli-to-replace-curl-debugging" target="_blank">I Got Tired of Debugging Curl at 2 AM, So I Built a CLI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-03 15:00</span>
             </div>
         </div>
 </div>
@@ -241,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Meta-Ray-Ban-Display-review-17-1280x853.jpg" alt="Dear Meta Smart Glasses Wearers: You’re Being Watched, Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dear-meta-smart-glasses-wearers-youre-being-watched-too-2000728928" target="_blank">Dear Meta Smart Glasses Wearers: You’re Being Watched, Too</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-03 18:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/image-36-1280x720.jpg" alt="Mysterious New Witcher 3 DLC Keeps Sounding More And More Likely" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/witcher-3-dlc-velen-switch-2-expansion-leak-2000675384" target="_blank">Mysterious New Witcher 3 DLC Keeps Sounding More And More Likely</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-03 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KJT2RN1N8HPEZ5H0GPFFVHPJ/hero-image.jpg" alt="Apple Just Announced Five New Mac Products" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,24 +287,6 @@
                 <span class="time">2026-03-03 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/fallout-4-stand-by-1280x720.jpg" alt="A Fallout 3 Or Fallout: New Vegas Remaster Rumor Is Spreading Like Wildfire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fallout-3-new-vegas-remaster-rumor-iron-galaxy-bethesda-2000675327" target="_blank">A Fallout 3 Or Fallout: New Vegas Remaster Rumor Is Spreading Like Wildfire</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-03 13:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Mummy-Tomb-of-Dragon-Emperor-1280x853.jpg" alt="We’ve Got Terrible News for the Dozen People Who Love ‘The Mummy: Tomb of the Dragon Emperor’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/weve-got-terrible-news-for-the-dozen-people-who-love-the-mummy-tomb-of-the-dragon-emperor-2000728603" target="_blank">We’ve Got Terrible News for the Dozen People Who Love ‘The Mummy: Tomb of the Dragon Emperor’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-03 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 17:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 18:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
