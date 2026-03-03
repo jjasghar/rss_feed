@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-03 13:22:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-03 14:12:51 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, March 03, 2026 - 13:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, March 03, 2026 - 14:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-1-gty-jef-260303_1772542494224_hpMain_4x3t_384.jpg" alt="Iran live updates: US ramps up strikes as American death toll rises" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: US ramps up strikes as American death toll rises</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-03 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2026/3/3/us-president-has-the-authority-to-act-for-imminent-threats-against-the?traffic_source=rss" target="_blank">‘US president has the authority to act for imminent threats against the US’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-03 13:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/03/global-south-condemns-us-israeli-war-with-iran" target="_blank">‘Imperialist undertones’: global south condemns US-Israeli war with Iran</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-03 13:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772540277941_tdy_news_7a_engel_israel_iran_new_attacks_260302_1920x1080-gnwt0d.jpg" alt="Attacks Escalate in Middle East as Iran Retaliates Across Region" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,38 +101,20 @@
                 <span class="time">2026-03-03 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce05/live/fa23a360-15cb-11f1-82b7-79a863688a9c.jpg" alt="Gas and oil prices soar and shares tumble as crucial shipping lane threatened" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss" target="_blank">Gas and oil prices soar and shares tumble as crucial shipping lane threatened</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-03 11:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/03/nx-s1-5729433/ai-brain-monkey-neurons" target="_blank">Scientists make a pocket-sized AI brain with help from monkey neurons</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-03 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/3/could-the-us-run-low-on-weapons-for-its-assault-on-iran?traffic_source=rss" target="_blank">Could the US run low on weapons for its assault on Iran?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-03 09:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/888091/apple-march-2026-event-macbook-air-pro-announcement" target="_blank">Apple announces M5 MacBook Air and updated MacBook Pro</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-03 14:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/app-cops-1-500x500.jpg" alt="With developer verification, Google&#x27;s Apple envy threatens to dismantle Android&#x27;s open legacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +160,29 @@
                 <span class="time">2026-03-03 01:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a61e4e7c1057ec63585309/master/pass/Gear_JoeGebbia_GettyImages-1183210213.jpg" alt="What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/joe-gebbia-mystery-metallic-device/" target="_blank">What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-03 01:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/google-multi-agent/en/headerimage/generatedHeaderImage-1772372986139.jpg" alt="Google Publishes Scaling Principles for Agentic Architectures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/google-multi-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Publishes Scaling Principles for Agentic Architectures</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-03 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Linux-LAM-ChkTag" target="_blank">Intel Adapting Linux&#x27;s LAM In Preparing For ChkTag</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-03 13:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +219,6 @@
                 <span class="time">2026-03-03 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18894977&w=600" alt="Open-Source GitOps at the Edge: Deploying to Thousands of Clusters With Rancher Fleet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/open-source-gitops-edge-rancher-fleet" target="_blank">Open-Source GitOps at the Edge: Deploying to Thousands of Clusters With Rancher Fleet</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-03 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://gvanrossum.github.io/interviews/Thomas.html" target="_blank">Guido van Rossum interviews Thomas Wouters (Python Core Dev)</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-03 11:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,12 +239,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJSHGZM1SPHCQ0KSF0DZWRVC/hero-image.png" alt="These Skullcandy Headphones Are Over 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/skullcandy-evo-wireless-headphones-sale-march-2026?utm_medium=RSS" target="_blank">These Skullcandy Headphones Are Over 50% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-03 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/fallout-4-stand-by-1280x720.jpg" alt="A Fallout 3 Or Fallout: New Vegas Remaster Rumor Is Spreading Like Wildfire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fallout-3-new-vegas-remaster-rumor-iron-galaxy-bethesda-2000675327" target="_blank">A Fallout 3 Or Fallout: New Vegas Remaster Rumor Is Spreading Like Wildfire</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-03 13:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Mummy-Tomb-of-Dragon-Emperor-1280x853.jpg" alt="We’ve Got Terrible News for the Dozen People Who Love ‘The Mummy: Tomb of the Dragon Emperor’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/weve-got-terrible-news-for-the-dozen-people-who-love-the-mummy-tomb-of-the-dragon-emperor-2000728603" target="_blank">We’ve Got Terrible News for the Dozen People Who Love ‘The Mummy: Tomb of the Dragon Emperor’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-03 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Image-Clear-Drop.jpg?fit=1080%2C709&amp;quality=60&amp;ssl=1" alt="Juicero your soft plastic recycling with the Clear Drop compactor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/03/juicero-your-soft-plastic-recycling-with-the-clear-drop-compactor.html" target="_blank">Juicero your soft plastic recycling with the Clear Drop compactor</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-03 12:57</span>
             </div>
         </div>
 <div class="story">
@@ -260,33 +290,6 @@
                 <span class="title"><a href="https://gizmodo.com/amazon-cloud-facilities-in-middle-east-knocked-out-by-apparent-iranian-drone-strikes-2000728653" target="_blank">Amazon Cloud Facilities in Middle East Knocked Out by Apparent Iranian Drone Strikes</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-03 04:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/altman-white-house-1280x853.jpg" alt="Facing Backlash, OpenAI Amends Pentagon Deal to Add More Anti-Surveillance Verbiage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/facing-backlash-openai-amends-pentagon-deal-to-add-more-anti-surveillance-verbiage-2000728644" target="_blank">Facing Backlash, OpenAI Amends Pentagon Deal to Add More Anti-Surveillance Verbiage</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-03 03:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/microchipped-human-hand-1280x853.jpg" alt="Mandatory Subcutaneous Microchips for Employees May Soon Be Banned in Washington State" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/mandatory-subcutaneous-microchips-for-employees-may-soon-be-banned-in-washington-state-2000728198" target="_blank">Mandatory Subcutaneous Microchips for Employees May Soon Be Banned in Washington State</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-03 01:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_2596658891-1280x853.jpg" alt="Even Nasdaq Wants in on the Prediction Market Frenzy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/even-nasdaq-wants-in-on-the-prediction-market-frenzy-2000728572" target="_blank">Even Nasdaq Wants in on the Prediction Market Frenzy</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-02 23:50</span>
             </div>
         </div>
 </div>
@@ -326,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 278 |
-        🔄 Last Updated: 13:23 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 14:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
