@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-04 16:09:10 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-04 17:12:07 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, March 04, 2026 - 16:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, March 04, 2026 - 17:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-cargo-dubai_7182177.jpg?20260304152825" alt="Trump&#x27;s solutions to Iranian shipping threat leave insurance sector unimpressed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trumps-solutions-to-iranian-shipping-threat-leave-insurance-sector-unimpressed-13515171" target="_blank">Trump&#x27;s solutions to Iranian shipping threat leave insurance sector unimpressed</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-04 15:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7584/live/64a78560-17d1-11f1-9120-a910fc22c6ac.jpg" alt="MP says husband has not broken law, after arrests over China spying" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +98,20 @@
                 <span class="time">2026-03-04 13:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772631084328_tdy_news_8a_sr_penatgon_briefing_war_iran_260304_1920x1080-lr6n2w.jpg" alt="Pentagon: US, Israel Will Have &#x27;Complete Control&#x27; of Iranian Skies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/hegseth-holds-iran-war-briefing-we-have-only-just-begun-258676805823" target="_blank">Pentagon: US, Israel Will Have &#x27;Complete Control&#x27; of Iranian Skies</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-04 13:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69a774ed79e62d2329a16436/master/pass/DSC_7642.jpg" alt="Google Pixel 10a Review: Sensible Value" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/google-pixel-10a/" target="_blank">Google Pixel 10a Review: Sensible Value</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-04 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69a78b8c5ab1b7b49897cd5e/master/pass/politics_federal_ice_support.jpg" alt="How Federal Agencies Got Caught Up in Trump&#x27;s Anti-Immigration Crusade" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +157,20 @@
                 <span class="time">2026-03-04 14:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/888866/raycast-glaze-vibe-code-app-store" target="_blank">Raycast’s Glaze is an all-in-one vibe coding app platform</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-04 13:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/Linux-Mint-New-Screensaver.webp?resize=406%2C232&amp;ssl=1" alt="Linux Mint shows off its new lock screen/screensaver" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/linux-mint-cinnamon-lock-screen-screensaver" target="_blank">Linux Mint shows off its new lock screen/screensaver</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-04 16:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +216,6 @@
                 <span class="time">2026-03-04 14:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kervie_sazon/go-learning-notes-part-7-structs-1mok" target="_blank">Go Learning Notes - Part 7: Struct</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-04 14:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +235,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Dario-Amodei-Pentagon-Anthropic-V2-1280x853.jpg" alt="Whatever This Is, We’ve Never Seen Anything Like It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/whatever-this-is-weve-never-seen-anything-like-it-2000728411" target="_blank">Whatever This Is, We’ve Never Seen Anything Like It</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-04 17:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJWPRQCBZAH42VQ43QHNX858/hero-image.jpg" alt="The MacBook Neo Isn&#x27;t the Only Low-Cost Mac Worth Buying" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-macbook-neo-isnt-the-only-low-cost-mac-worth-buying?utm_medium=RSS" target="_blank">The MacBook Neo Isn&#x27;t the Only Low-Cost Mac Worth Buying</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-04 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Pansophy-Private-Personal-AI-Desktop-Assistant.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="If you&#x27;re worried about how much ChatGPT knows about you, switch to this private AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/04/if-youre-worried-about-how-much-chatgpt-knows-about-you-switch-to-this-private-ai.html" target="_blank">If you&#x27;re worried about how much ChatGPT knows about you, switch to this private AI</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-04 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/07/5738bb8aa625dfa0830eb109b1977e37-1280x720.jpg" alt="Activision ‘Legally Demands’ Call Of Duty Leaker Ceases, Then Says His Leaks Sucked Anyway" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,38 +289,20 @@
                 <span class="time">2026-03-04 14:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/ghost-of-yotei.jpg" alt="Report: Ghost Of Yotei And Saros Not Planned For PC As Sony Doubles Down On PS5 Exclusives" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ghost-yotei-saros-steam-pc-ps5-exclusive-2000675831" target="_blank">Report: Ghost Of Yotei And Saros Not Planned For PC As Sony Doubles Down On PS5 Exclusives</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-04 13:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HQRPB7CPKTPQ7QN3TJW25HZ8/hero-image.png" alt="These Are the Best Kinds of Exercise for Losing Weight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/best-exercises-to-lose-weight?utm_medium=RSS" target="_blank">These Are the Best Kinds of Exercise for Losing Weight</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-04 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Sinners-Michael-B-Jordan-Twins-1280x853.jpg" alt="‘Sinners’ Is Obviously Great But Its Visual Effects Might Be Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sinners-is-obviously-great-but-its-visual-effects-might-be-better-2000729196" target="_blank">‘Sinners’ Is Obviously Great But Its Visual Effects Might Be Better</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-04 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1772481186-20260304.png" alt="Saturday Morning Breakfast Cereal - Serve" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/serve" target="_blank">Saturday Morning Breakfast Cereal - Serve</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-04 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -321,22 +330,13 @@
                 <span class="time">2026-03-04 01:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1772481120-20260303.png" alt="Saturday Morning Breakfast Cereal - Good Cop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/good-cop" target="_blank">Saturday Morning Breakfast Cereal - Good Cop</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-03-03 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 16:09 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 17:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
