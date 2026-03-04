@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-04 05:16:42 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-04 06:10:14 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, March 04, 2026 - 05:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, March 04, 2026 - 06:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -86,6 +83,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260303-texas-dallas-voting-primary-cs-dbb790.jpg" alt="Voting confusion in Texas rooted in conspiracy theories about ballot counting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/thousands-texas-voters-showed-wrong-polling-site-state-democrats-say-rcna261618" target="_blank">Voting confusion in Texas rooted in conspiracy theories about ballot counting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-03 23:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/NNN_Election_2026_3-3_Midterm_Primaries_-_Promo_endpage-mgv8x1.jpg" alt="Live coverage: 2026 primary elections in Texas, North Carolina, Arkansas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -94,20 +100,20 @@
                 <span class="time">2026-03-03 23:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/3/unpacking-us-justification-for-iran-attacks?traffic_source=rss" target="_blank">Unpacking US justification for Iran attacks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-03 23:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" alt="Barkbox Promo Codes and Discounts: Up to 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/barkbox-promo-code/" target="_blank">Barkbox Promo Codes and Discounts: Up to 50% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-04 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +157,6 @@
                 <span class="title"><a href="https://www.theverge.com/science/888526/what-trumps-war-on-iran-means-for-the-us-energy-crunch" target="_blank">What Trump’s war on Iran means for the US energy crunch</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-03 21:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a5d98c9572e392b1f5652a/master/pass/pol-trump-iran-2263908109.jpg" alt="Here’s Why Trump Posted About Iran ‘Stealing’ the 2020 Election Hours After the US Attacked" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/heres-why-trump-posted-about-iran-stealing-the-2020-election-hours-after-the-us-attacked/" target="_blank">Here’s Why Trump Posted About Iran ‘Stealing’ the 2020 Election Hours After the US Attacked</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-03 21:13</span>
             </div>
         </div>
 </div>
@@ -322,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 05:16 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 06:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
