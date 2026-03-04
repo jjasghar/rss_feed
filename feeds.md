@@ -1,39 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-03-04 12:04:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-04 13:22:23 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, March 04, 2026 - 12:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, March 04, 2026 - 13:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +40,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/4/why-are-the-us-and-israel-framing-the-ongoing-conflict-as-a-religious-war?traffic_source=rss" target="_blank">Why are the US and Israel framing the ongoing conflict as a religious war?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-04 12:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/war-with-iran-abc-gmh-260303_1772549475149_hpMain_4x3t_384.jpg" alt="LIVE:  Pentagon officials give update on the war in Iran: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Pentagon officials give update on the war in Iran: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-04 12:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772626626000_tdy_news_7a_engel_iran_war_escalates_260304_1920x1080-e5zn41.jpg" alt="War in Middle East Escalates as Iran Moves to Select New Leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/war-in-middle-east-escalates-as-iran-moves-to-select-new-leader-258671173716" target="_blank">War in Middle East Escalates as Iran Moves to Select New Leader</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-04 12:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,38 +94,20 @@
                 <span class="time">2026-03-04 10:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c03a/live/ada3e5f0-1778-11f1-bcfd-2f024ca7bb94.jpg" alt="First government flight for UK nationals due to leave Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&at_campaign=rss" target="_blank">First government flight for UK nationals due to leave Middle East</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-04 10:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/4/huge-column-of-smoke-seen-over-western-tehran?traffic_source=rss" target="_blank">Huge column of smoke seen over western Tehran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-04 09:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c03a/live/ada3e5f0-1778-11f1-bcfd-2f024ca7bb94.jpg" alt="First chartered flight for UK nationals due to leave Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&at_campaign=rss" target="_blank">First chartered flight for UK nationals due to leave Middle East</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-04 08:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/888866/raycast-glaze-vibe-code-app-store" target="_blank">Raycast’s Glaze is an all-in-one vibe coding app platform</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-04 13:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69a8086a61662b0599a66d41/master/pass/alombard_kalshi_2Q3A0551.jpg" alt="How Is Kalshi Not Gambling?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +153,20 @@
                 <span class="time">2026-03-04 00:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/888719/anker-soundcore-sleep-a20-earbuds-newegg-deal-sale" target="_blank">Anker’s last-gen sleep buds are nearly 40 percent off ahead of daylight saving time</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-03 23:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/green-it/en/mediumimage/ludi-akue-medium-1771410168415.jpeg" alt="Presentation: What I Wish I Knew When I Started with Green IT" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/green-it/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: What I Wish I Knew When I Started with Green IT</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-04 12:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,20 +212,38 @@
                 <span class="time">2026-03-04 08:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/03/04/ai-assisted-coding-vibes-hardened-containers-and-sandboxes/" target="_blank">AI-assisted coding needs more than vibes; it needs containers and sandboxes</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-03-04 05:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HQRPB7CPKTPQ7QN3TJW25HZ8/hero-image.png" alt="These Are the Best Kinds of Exercise for Losing Weight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/best-exercises-to-lose-weight?utm_medium=RSS" target="_blank">These Are the Best Kinds of Exercise for Losing Weight</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-04 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Sinners-Michael-B-Jordan-Twins-1280x853.jpg" alt="‘Sinners’ Is Obviously Great But Its Visual Effects Might Be Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sinners-is-obviously-great-but-its-visual-effects-might-be-better-2000729196" target="_blank">‘Sinners’ Is Obviously Great But Its Visual Effects Might Be Better</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-04 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/02/f703a66e41a704d67d853e45ed0cfaed-1280x720.jpg" alt="11 Tips If You’re Playing Pokémon FireRed And LeafGreen For The First Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-firered-leafgreen-tips-starter-physical-special-2000675511" target="_blank">11 Tips If You’re Playing Pokémon FireRed And LeafGreen For The First Time</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-04 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Orvilles3-1280x853.jpg" alt="Seth MacFarlane Still Hopes ‘The Orville’ Might Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -251,33 +269,6 @@
                 <span class="title"><a href="https://kotaku.com/tencent-trump-divest-china-epic-riot-supercell-2000675567" target="_blank">The Trump White House Is Debating Whether To Kick Tencent Out Of U.S. Gaming</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-04 04:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/fortnite-1280x710.jpg" alt="The Trump Whitehouse Is Debating Whether To Kick Tencent Out Of U.S. Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tencent-trump-divest-china-epic-riot-supercell-2000675567" target="_blank">The Trump Whitehouse Is Debating Whether To Kick Tencent Out Of U.S. Gaming</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-04 04:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/tiktok-culver-city-1280x853.jpg" alt="TikTok Is Experiencing Oracle-Related Server Issues Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tiktok-is-experiencing-oracle-related-server-issues-again-2000729265" target="_blank">TikTok Is Experiencing Oracle-Related Server Issues Again</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-04 04:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/trump-jan-27-2026-1280x853.jpg" alt="Trump Lashes Out at Banks Over Contentious Crypto Bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-lashes-out-at-banks-over-contentious-crypto-bill-2000728659" target="_blank">Trump Lashes Out at Banks Over Contentious Crypto Bill</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-04 01:18</span>
             </div>
         </div>
 </div>
@@ -317,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 12:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 13:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
