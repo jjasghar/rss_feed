@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-04 17:12:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-04 18:08:53 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, March 04, 2026 - 17:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, March 04, 2026 - 18:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbfe/live/4ae09b00-17b1-11f1-b048-c9424b2cf5fd.jpg" alt="UK warship HMS Dragon not expected to sail to Cyprus until next week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y5505w4lzo?at_medium=RSS&at_campaign=rss" target="_blank">UK warship HMS Dragon not expected to sail to Cyprus until next week</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-04 16:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/03/1920x1080/skynews-cargo-dubai_7182177.jpg?20260304152825" alt="Trump&#x27;s solutions to Iranian shipping threat leave insurance sector unimpressed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c7955ewj7gwo?at_medium=RSS&at_campaign=rss" target="_blank">Partner of Labour MP arrested on suspicion of spying for China, BBC told</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-04 13:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/tehran-main_1772623667525_hpMain_4x3t_384.jpg" alt="Iran live updates: &#x27;We are just getting started,&#x27; Hegseth says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: &#x27;We are just getting started,&#x27; Hegseth says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-04 13:58</span>
             </div>
         </div>
 </div>
@@ -163,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fbadge%2FCursor%2520Rules-A%2520%2898%2525%29-brightgreen" alt="cursor-doctor v1.10: coverage gaps and README badges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nedcodes/cursor-doctor-v110-coverage-gaps-and-readme-badges-537a" target="_blank">cursor-doctor v1.10: coverage gaps and README badges</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-04 18:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/Linux-Mint-New-Screensaver.webp?resize=406%2C232&amp;ssl=1" alt="Linux Mint shows off its new lock screen/screensaver" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -207,15 +218,6 @@
                 <span class="time">2026-03-04 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/systemd-260-rc2" target="_blank">systemd 260-rc2 Released With More Changes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-04 14:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4WST48CCTJ2Y9VQK0H2CMTM/hero-image.png" alt="The 15-inch M4 MacBook Air Just Dropped in Price Following the M5 Announcement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/15-inch-m4-macbook-air-sale-march-2026?utm_medium=RSS" target="_blank">The 15-inch M4 MacBook Air Just Dropped in Price Following the M5 Announcement</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-04 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Apple-MacBook-Neo-hero-260304_big.jpg.large_2x.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Apple put an iPhone chip in a MacBook and priced it at $599" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/04/apple-put-an-iphone-chip-in-a-macbook-and-priced-it-at-599.html" target="_blank">Apple put an iPhone chip in a MacBook and priced it at $599</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-04 17:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Dario-Amodei-Pentagon-Anthropic-V2-1280x853.jpg" alt="Whatever This Is, We’ve Never Seen Anything Like It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/activision-legally-demands-call-of-duty-leaker-ceases-then-says-his-leaks-sucked-anyway-2000675859" target="_blank">Activision ‘Legally Demands’ Call Of Duty Leaker Ceases, Then Says His Leaks Sucked Anyway</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-04 15:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/One-Piece-Toei-Animation-1280x855.jpg" alt="‘One Piece’ Creator Sends Manga Fans on Treasure Hunt for the Real One Piece" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/one-piece-treasure-hunt-oda-2000729430" target="_blank">‘One Piece’ Creator Sends Manga Fans on Treasure Hunt for the Real One Piece</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-04 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/Crimson-1280x720.jpg" alt="Crimson Desert Marketing Director Responds To Review Drama: ‘We’re Not Hiding Anything’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/crimson-desert-review-embargo-drama-ps5-version-2000675836" target="_blank">Crimson Desert Marketing Director Responds To Review Drama: ‘We’re Not Hiding Anything’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-04 14:50</span>
             </div>
         </div>
 </div>
@@ -335,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 17:12 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 18:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
