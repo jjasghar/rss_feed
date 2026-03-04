@@ -1,30 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-03-04 13:22:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-04 14:11:44 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, March 04, 2026 - 13:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, March 04, 2026 - 14:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +41,33 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7584/live/64a78560-17d1-11f1-9120-a910fc22c6ac.jpg" alt="Partner of Labour MP arrested on suspicion of spying for China, BBC told" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7955ewj7gwo?at_medium=RSS&at_campaign=rss" target="_blank">Partner of Labour MP arrested on suspicion of spying for China, BBC told</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-04 13:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/tehran-main_1772623667525_hpMain_4x3t_384.jpg" alt="Iran live updates: &#x27;We are just getting started,&#x27; Hegseth says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: &#x27;We are just getting started,&#x27; Hegseth says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-04 13:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772631084328_tdy_news_8a_sr_penatgon_briefing_war_iran_260304_1920x1080-lr6n2w.jpg" alt="Pentagon: US, Israel Will Have &#x27;Complete Control&#x27; of Iranian Skies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/hegseth-holds-iran-war-briefing-we-have-only-just-begun-258676805823" target="_blank">Pentagon: US, Israel Will Have &#x27;Complete Control&#x27; of Iranian Skies</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-04 13:31</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -50,48 +77,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/04/g-s1-111527/abuse-partner-shelters-aid-cuts" target="_blank">Why supporting a shelter for women is now &#x27;kind of radioactive&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-04 12:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/war-with-iran-abc-gmh-260303_1772549475149_hpMain_4x3t_384.jpg" alt="LIVE:  Pentagon officials give update on the war in Iran: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Pentagon officials give update on the war in Iran: ABC News Live</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-04 12:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772626626000_tdy_news_7a_engel_iran_war_escalates_260304_1920x1080-e5zn41.jpg" alt="War in Middle East Escalates as Iran Moves to Select New Leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/war-in-middle-east-escalates-as-iran-moves-to-select-new-leader-258671173716" target="_blank">War in Middle East Escalates as Iran Moves to Select New Leader</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-04 12:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/04/g-s1-112325/mifepristone-telehealth" target="_blank">Telehealth abortion is in the courts. Share your experience.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-04 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/doha-debates/2026/3/4/are-civilisations-destined-to-fail?traffic_source=rss" target="_blank">Are civilisations destined to fail?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-04 11:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/4/texas-senate-race-democrat-talarico-wins-gops-cornyn-paxton-in-run-off?traffic_source=rss" target="_blank">Texas Senate race: Democrat Talarico wins; GOP’s Cornyn, Paxton in run-off</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-04 10:43</span>
             </div>
         </div>
 </div>
@@ -159,6 +159,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kervie_sazon/go-learning-notes-part-7-structs-1mok" target="_blank">Go Learning Notes - Part 7: Struct</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-04 14:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18895052&w=600" alt="Databricks Lakeflow Spark Declarative Pipelines Migration From Non‑Unity Catalog to Unity Catalog" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/lakeflow-dlt-pipelines-unity-catalog" target="_blank">Databricks Lakeflow Spark Declarative Pipelines Migration From Non‑Unity Catalog to Unity Catalog</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-04 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/presentations/green-it/en/mediumimage/ludi-akue-medium-1771410168415.jpeg" alt="Presentation: What I Wish I Knew When I Started with Green IT" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -179,37 +197,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AI-Pure-Python-AMD-GPU-Driver" target="_blank">AMD Engineer Leverages AI To Help Make A Pure-Python AMD GPU User-Space Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-04 11:09</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/" target="_blank">Nobody Gets Promoted for Simplicity</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-04 11:43</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gerus_team/building-a-non-custodial-dca-protocol-on-ton-how-we-used-the-masterchef-pattern-to-achieve-o1-3h67" target="_blank">Building a Non-Custodial DCA Protocol on TON: How We Used the MasterChef Pattern to Achieve O(1) Smart Contract Complexity</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-04 10:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/vue-router-5/en/headerimage/generatedHeaderImage-1772448369897.jpg" alt="Vue Router 5: File-Based Routing Into Core with No Breaking Changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/vue-router-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vue Router 5: File-Based Routing Into Core with No Breaking Changes</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-04 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhhnu86r76h6b1xvq9703.png" alt="Can AI Disassemble What AI Created? — Background Removal Stress Test in 8 Levels" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ogataquin/can-ai-disassemble-what-ai-created-background-removal-stress-test-in-8-levels-2a1d" target="_blank">Can AI Disassemble What AI Created? — Background Removal Stress Test in 8 Levels</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-04 08:02</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AI-Pure-Python-AMD-GPU-Driver" target="_blank">AMD Engineer Leverages AI To Help Make A Pure-Python AMD GPU User-Space Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-04 11:09</span>
             </div>
         </div>
 </div>
@@ -217,6 +217,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/ghost-of-yotei.jpg" alt="Report: Ghost Of Yotei And Saros Not Planned For PC As Sony Doubles Down On PS5 Exclusives" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ghost-yotei-saros-steam-pc-ps5-exclusive-2000675831" target="_blank">Report: Ghost Of Yotei And Saros Not Planned For PC As Sony Doubles Down On PS5 Exclusives</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-04 13:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HQRPB7CPKTPQ7QN3TJW25HZ8/hero-image.png" alt="These Are the Best Kinds of Exercise for Losing Weight" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,15 +271,6 @@
                 <span class="time">2026-03-04 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/fortnite-1280x710.jpg" alt="The Trump White House Is Debating Whether To Kick Tencent Out Of U.S. Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tencent-trump-divest-china-epic-riot-supercell-2000675567" target="_blank">The Trump White House Is Debating Whether To Kick Tencent Out Of U.S. Gaming</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-04 04:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 13:22 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 14:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
