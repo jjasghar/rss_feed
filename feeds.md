@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-04 21:06:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-04 22:04:36 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, March 04, 2026 - 21:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, March 04, 2026 - 22:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/04/nx-s1-5736104/iran-war-oil-trump-israel-strait-hormuz-closed-energy-crisis" target="_blank">WATCH: How traffic dried up in the Strait of Hormuz since the Iran war began</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-04 21:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-karoline-leavitt-trump_7182504.jpg?20260304213324" alt="Talk of what comes next for Iranians was conspicuous in its absence from White House briefing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/talk-of-what-comes-next-for-the-iranian-people-was-conspicuous-in-its-absence-from-white-house-briefing-13515327" target="_blank">Talk of what comes next for Iranians was conspicuous in its absence from White House briefing</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-04 20:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/tehran-main_1772623667525_hpMain_4x3t_384.jpg" alt="Iran live updates: Ground troops &#x27;not part of the plan,&#x27; Leavitt says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +100,29 @@
                 <span class="time">2026-03-04 18:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0ce/live/619b2dc0-17e7-11f1-801d-ed3cff6bf876.jpg" alt="Iran postpones Khamenei funeral as US-Israeli bombardment continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clygglq6v9go?at_medium=RSS&at_campaign=rss" target="_blank">Iran postpones Khamenei funeral as US-Israeli bombardment continues</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-04 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbfe/live/4ae09b00-17b1-11f1-b048-c9424b2cf5fd.jpg" alt="UK warship HMS Dragon not expected to sail to Cyprus until next week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y5505w4lzo?at_medium=RSS&at_campaign=rss" target="_blank">UK warship HMS Dragon not expected to sail to Cyprus until next week</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-04 16:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69a77468e7752c1bc32fe076/master/pass/AI-Lab-Autonomous-Weapons-Business-2.jpg" alt="What AI Models for War Actually Look Like" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ai-model-military-use-smack-technologies/" target="_blank">What AI Models for War Actually Look Like</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-04 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/889526/epic-games-google-deal-metaverse-apps" target="_blank">Epic and Google have signed a special deal for a new class of &amp;#8216;metaverse&amp;#8217; apps</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-04 21:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/686d7dd0f31ad9f082b64555/master/pass/The%20Best%20USB%20Hubs%20for%20Connecting%20All%20Your%20Gadgets.png" alt="USB Hubs Can Save You Lots of Hassles—Here Are 5 We Like Best in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +159,20 @@
                 <span class="time">2026-03-04 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a774ed79e62d2329a16436/master/pass/DSC_7642.jpg" alt="Google Pixel 10a Review: Sensible Value" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/google-pixel-10a/" target="_blank">Google Pixel 10a Review: Sensible Value</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-04 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a78b8c5ab1b7b49897cd5e/master/pass/politics_federal_ice_support.jpg" alt="How Federal Agencies Got Caught Up in Trump&#x27;s Anti-Immigration Crusade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-the-federal-government-scrambled-its-agencies-to-support-ice/" target="_blank">How Federal Agencies Got Caught Up in Trump&#x27;s Anti-Immigration Crusade</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-04 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Mesa-Xe3P-Start" target="_blank">Intel Begins Preparations For Xe3P Upstreaming To Open-Source OpenGL &amp; Vulkan Drivers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-04 21:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18899280&w=600" alt="AWS Transfer Family SFTP Setup (Password + SSH Key Users) Using Lambda Identity Provider + S3" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +218,6 @@
                 <span class="time">2026-03-04 18:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/Linux-Mint-New-Screensaver.webp?resize=406%2C232&amp;ssl=1" alt="Linux Mint shows off its new lock screen/screensaver" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/linux-mint-cinnamon-lock-screen-screensaver" target="_blank">Linux Mint shows off its new lock screen/screensaver</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-04 16:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Project-Hail-Mary-Ryan-Gosling-1280x853.jpg" alt="‘Project Hail Mary’ Used a Surprising Amount of Practical Effects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/project-hail-mary-practical-effects-green-screen-vfx-2000729741" target="_blank">‘Project Hail Mary’ Used a Surprising Amount of Practical Effects</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-04 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/knight-of-the-seven-kingdoms-valarr-targaryen-1280x853.jpg" alt="The Plague That Changed the Course of ‘Game of Thrones’ History" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/pokemon-pokopia-dj-rotom-stereo-form-sound-type-pokedex-2000675905" target="_blank">Pokémon Pokopia May Have Debunked A Years-Long Fan Theory</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-04 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJWZZFHXY4APWMJ82G572RPG/hero-image.png" alt="Your Android Phone Will Soon Be Able to Help Airlines Find Your Lost Luggage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/android-find-hub-lost-luggage?utm_medium=RSS" target="_blank">Your Android Phone Will Soon Be Able to Help Airlines Find Your Lost Luggage</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-04 18:30</span>
             </div>
         </div>
 </div>
@@ -335,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 21:06 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 22:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
