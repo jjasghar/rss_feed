@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-04 06:10:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-04 07:13:40 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, March 04, 2026 - 06:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, March 04, 2026 - 07:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/tehran-main_1772607121466_hpMain_4x3t_384.jpg" alt="Iran live updates: IDF targets Iranian internal security forces in overnight strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: IDF targets Iranian internal security forces in overnight strikes</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-04 07:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c03a/live/ada3e5f0-1778-11f1-bcfd-2f024ca7bb94.jpg" alt="UK announces first Middle East repatriation flight" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +98,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/thousands-texas-voters-showed-wrong-polling-site-state-democrats-say-rcna261618" target="_blank">Voting confusion in Texas rooted in conspiracy theories about ballot counting</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-03-03 23:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/NNN_Election_2026_3-3_Midterm_Primaries_-_Promo_endpage-mgv8x1.jpg" alt="Live coverage: 2026 primary elections in Texas, North Carolina, Arkansas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/live-coverage-2026-primary-elections-in-texas-north-carolina-arkansas-258640965866" target="_blank">Live coverage: 2026 primary elections in Texas, North Carolina, Arkansas</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-03 23:53</span>
             </div>
         </div>
 </div>
@@ -167,6 +167,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/03/04/ai-assisted-coding-vibes-hardened-containers-and-sandboxes/" target="_blank">AI-assisted coding needs more than vibes; it needs containers and sandboxes</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-03-04 05:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/deepseax/cisa-adds-vmware-aria-operations-rce-flaw-to-kev-catalog-after-active-exploitation-3hbk" target="_blank">CISA Adds VMware Aria Operations RCE Flaw to KEV Catalog After Active Exploitation</a></span>
                 <span class="feed">DEV Community</span>
@@ -209,15 +218,6 @@
                 <span class="time">2026-03-04 00:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/deploynix/the-complete-guide-to-deploynix-server-management-made-simple-2k5m" target="_blank">The Complete Guide to Deploynix — Server Management Made Simple</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-04 00:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/fortnite-1280x710.jpg" alt="The Trump Whitehouse Is Debating Whether To Kick Tencent Out Of U.S. Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tencent-trump-divest-china-epic-riot-supercell-2000675567" target="_blank">The Trump Whitehouse Is Debating Whether To Kick Tencent Out Of U.S. Gaming</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-04 04:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/tiktok-culver-city-1280x853.jpg" alt="TikTok Is Experiencing Oracle-Related Server Issues Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +291,6 @@
                 <span class="time">2026-03-03 23:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/fake-iran-war-1280x853.jpg" alt="Elon Musk’s X Finally Tries to Stop the Epidemic of AI-Generated War Footage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musks-x-finally-tries-to-stop-the-epidemic-of-ai-generated-war-footage-2000729048" target="_blank">Elon Musk’s X Finally Tries to Stop the Epidemic of AI-Generated War Footage</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-03 22:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 06:10 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 07:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
