@@ -1,30 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-03-04 14:11:44 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-03-04 15:09:56 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 14 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, March 04, 2026 - 14:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, March 04, 2026 - 15:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7584/live/64a78560-17d1-11f1-9120-a910fc22c6ac.jpg" alt="MP says husband has not broken law, after arrests over China spying" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7955ewj7gwo?at_medium=RSS&at_campaign=rss" target="_blank">MP says husband has not broken law, after arrests over China spying</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-04 14:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/4/are-the-us-and-israel-planning-an-ethnic-civil-war-in-iran?traffic_source=rss" target="_blank">Are the US and Israel planning an ethnic civil war in Iran?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-04 14:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/tehran-main_1772623667525_hpMain_4x3t_384.jpg" alt="Iran live updates: &#x27;They are toast and they know it,&#x27; Hegseth says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: &#x27;They are toast and they know it,&#x27; Hegseth says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-04 14:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7584/live/64a78560-17d1-11f1-9120-a910fc22c6ac.jpg" alt="Partner of Labour MP arrested on suspicion of spying for China, BBC told" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,38 +105,38 @@
                 <span class="time">2026-03-04 13:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/4/why-are-the-us-and-israel-framing-the-ongoing-conflict-as-a-religious-war?traffic_source=rss" target="_blank">Why are the US and Israel framing the ongoing conflict as a religious war?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-04 12:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/04/g-s1-111527/abuse-partner-shelters-aid-cuts" target="_blank">Why supporting a shelter for women is now &#x27;kind of radioactive&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-04 12:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/war-with-iran-abc-gmh-260303_1772549475149_hpMain_4x3t_384.jpg" alt="LIVE:  Pentagon officials give update on the war in Iran: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Pentagon officials give update on the war in Iran: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-04 12:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/" target="_blank">Father sues Google, claiming Gemini chatbot drove son into fatal delusion</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-04 14:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2229069552-500x500.jpg" alt="Are consumers doomed to pay more for electricity due to data center buildouts?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/03/are-consumers-doomed-to-pay-more-for-electricity-due-to-data-center-buildouts/" target="_blank">Are consumers doomed to pay more for electricity due to data center buildouts?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-04 14:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/887512/iphone-17e-preorder-how-to-buy-price-release-date" target="_blank">Where to preorder the new iPhone 17E before it hits stores on March 11th</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-04 14:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -126,38 +164,29 @@
                 <span class="time">2026-03-04 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a1c00663d7023723a168ed/master/pass/Rodney%20Gorhman31%20(2).jpg" alt="What It’s Like to Have a Brain Implant for 5 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/synchron-brain-computer-interface-five-years-als/" target="_blank">What It’s Like to Have a Brain Implant for 5 Years</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-04 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" alt="Barkbox Promo Codes and Discounts: Up to 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/barkbox-promo-code/" target="_blank">Barkbox Promo Codes and Discounts: Up to 50% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-04 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/" target="_blank">Why AI startups are selling the same equity at two different prices</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-04 00:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/go_to_rob/i-built-an-ai-powered-png-to-svg-converter-heres-what-i-learned-4eie" target="_blank">I built an AI-powered PNG to SVG converter here&#x27;s what I learned</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-04 15:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/systemd-260-rc2" target="_blank">systemd 260-rc2 Released With More Changes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-04 14:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,22 +223,18 @@
                 <span class="time">2026-03-04 12:02</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/" target="_blank">Nobody Gets Promoted for Simplicity</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-04 11:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AI-Pure-Python-AMD-GPU-Driver" target="_blank">AMD Engineer Leverages AI To Help Make A Pure-Python AMD GPU User-Space Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-04 11:09</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/manipulating-ai-summarization-features.html" target="_blank">Manipulating AI Summarization Features</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-03-04 12:06</span>
             </div>
         </div>
 </div>
@@ -217,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/One-Piece-Toei-Animation-1280x855.jpg" alt="‘One Piece’ Creator Sends Manga Fans on Treasure Hunt for the Real One Piece" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/one-piece-treasure-hunt-oda-2000729430" target="_blank">‘One Piece’ Creator Sends Manga Fans on Treasure Hunt for the Real One Piece</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-04 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/Crimson-1280x720.jpg" alt="Crimson Desert Marketing Director Responds To Review Drama: ‘We’re Not Hiding Anything’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/crimson-desert-review-embargo-drama-ps5-version-2000675836" target="_blank">Crimson Desert Marketing Director Responds To Review Drama: ‘We’re Not Hiding Anything’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-04 14:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/ghost-of-yotei.jpg" alt="Report: Ghost Of Yotei And Saros Not Planned For PC As Sony Doubles Down On PS5 Exclusives" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -251,24 +294,6 @@
                 <span class="title"><a href="https://kotaku.com/pokemon-firered-leafgreen-tips-starter-physical-special-2000675511" target="_blank">11 Tips If You’re Playing Pokémon FireRed And LeafGreen For The First Time</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-04 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Orvilles3-1280x853.jpg" alt="Seth MacFarlane Still Hopes ‘The Orville’ Might Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/seth-macfarlane-still-hopes-the-orville-might-return-2000729167" target="_blank">Seth MacFarlane Still Hopes ‘The Orville’ Might Return</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-04 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/28-Years-Later-zombie-1280x853.jpg" alt="6 Horrifying Fictional Diseases and Their Real-Life Inspirations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/6-horrifying-fictional-diseases-and-their-real-life-inspirations-2000729012" target="_blank">6 Horrifying Fictional Diseases and Their Real-Life Inspirations</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-04 11:00</span>
             </div>
         </div>
 </div>
@@ -308,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 14:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 15:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
