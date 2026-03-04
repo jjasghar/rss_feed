@@ -1,30 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-03-04 10:08:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-04 11:07:41 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, March 04, 2026 - 10:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, March 04, 2026 - 11:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/4/texas-senate-race-democrat-talarico-wins-gops-cornyn-paxton-in-run-off?traffic_source=rss" target="_blank">Texas Senate race: Democrat Talarico wins; GOP’s Cornyn, Paxton in run-off</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-04 10:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c03a/live/ada3e5f0-1778-11f1-bcfd-2f024ca7bb94.jpg" alt="First government flight for UK nationals due to leave Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,20 +95,29 @@
                 <span class="time">2026-03-04 07:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/04/nx-s1-5734577/north-carolina-election-results-foushee-allam" target="_blank">North Carolina Rep. Valerie Foushee holds narrow lead over challenger Nida Allam</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-04 06:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69a8086a61662b0599a66d41/master/pass/alombard_kalshi_2Q3A0551.jpg" alt="How Is Kalshi Not Gambling?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/big-interview-tarek-mansour-kalshi/" target="_blank">How Is Kalshi Not Gambling?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-04 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/04/eight-sleep-raises-50m-at-1-5b-valuation/" target="_blank">Eight Sleep raises $50M at $1.5B valuation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-04 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69a1c00663d7023723a168ed/master/pass/Rodney%20Gorhman31%20(2).jpg" alt="What It’s Like to Have a Brain Implant for 5 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,24 +152,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/888719/anker-soundcore-sleep-a20-earbuds-newegg-deal-sale" target="_blank">Anker’s last-gen sleep buds are nearly 40 percent off ahead of daylight saving time</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-03 23:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/HCgyB1NWMAAkUkb-500x500.jpg" alt="No fooling: NASA targets April 1 for Artemis II launch to the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/03/no-fooling-nasa-targets-april-1-for-artemis-ii-launch-to-the-moon/" target="_blank">No fooling: NASA targets April 1 for Artemis II launch to the Moon</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-03 22:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/03/openai-anthropic-waymo-dominated-189-billion-vc-investments-february-crunchbase-report/" target="_blank">Just three companies dominated the $189B in VC investments last month</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-03 22:38</span>
             </div>
         </div>
 </div>
@@ -232,6 +233,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/28-Years-Later-zombie-1280x853.jpg" alt="6 Horrifying Fictional Diseases and Their Real-Life Inspirations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/6-horrifying-fictional-diseases-and-their-real-life-inspirations-2000729012" target="_blank">6 Horrifying Fictional Diseases and Their Real-Life Inspirations</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-04 11:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/fortnite-1280x710.jpg" alt="The Trump Whitehouse Is Debating Whether To Kick Tencent Out Of U.S. Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -276,15 +286,6 @@
                 <span class="time">2026-03-03 23:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/hazel-pollen-1280x853.jpg" alt="Pollen Might Be Hurting Kids’ Test Scores" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/pollen-might-be-hurting-kids-test-scores-2000728905" target="_blank">Pollen Might Be Hurting Kids’ Test Scores</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-03 23:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 10:08 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 11:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
