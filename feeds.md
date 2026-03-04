@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-03-04 00:06:59 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-04 01:30:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, March 04, 2026 - 00:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, March 04, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -168,9 +162,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shellzy/i-got-tired-of-manually-managing-my-paid-telegram-channel-so-i-built-a-bot-4leg" target="_blank">I Got Tired of Manually Managing My Paid Telegram Channel, So I Built a Bot</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-04 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/deploynix/the-complete-guide-to-deploynix-server-management-made-simple-2k5m" target="_blank">The Complete Guide to Deploynix — Server Management Made Simple</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-04 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/meme-maker-linux.webp?resize=406%2C232&amp;ssl=1" alt="Memerist is a new desktop meme generator for Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/memerist-meme-generator-app-linux" target="_blank">Memerist is a new desktop meme generator for Linux</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-03 23:53</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +210,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-DPTCi-Linux-Driver" target="_blank">AMD DPTCi Driver Posted For Linux To Better Enhance Ryzen Gaming Handhelds</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-03 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18899270&w=600" alt="Implementing Decentralized Data Architecture on Google BigQuery: From Data Mesh to AI Excellence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/implementing-decentralized-data-architecture-on-google" target="_blank">Implementing Decentralized Data Architecture on Google BigQuery: From Data Mesh to AI Excellence</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-03 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/gemini-cli-conductor-reviews/en/headerimage/gemini-conductor-reviews-1772567882083.jpeg" alt="Google Launches Automated Review Feature in Gemini CLI Conductor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/gemini-cli-conductor-reviews/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Launches Automated Review Feature in Gemini CLI Conductor</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-03 20:00</span>
             </div>
         </div>
 </div>
@@ -274,6 +268,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJTS0T5VX67XSP857P32SMZN/hero-image.png" alt="You Can Now Customize Your Calling Card on Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-customize-your-calling-card-on-android?utm_medium=RSS" target="_blank">You Can Now Customize Your Calling Card on Android</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-03 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/mondrian.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="The Mondrian estate is threatening people over a public domain painting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -282,20 +285,20 @@
                 <span class="time">2026-03-03 22:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/RESIDENT-EVIL-requiem_20260214170655-1280x720.jpg" alt="Resident Evil Requiem’s ‘Final Puzzle’ Has Been Solved Without Datamining" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/resident-evil-requiem-final-puzzle-solution-datamine-video-2000675457" target="_blank">Resident Evil Requiem’s ‘Final Puzzle’ Has Been Solved Without Datamining</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-03 21:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5778.png" alt="Olympic Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5778" target="_blank">Olympic Games</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-03-04 01:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1772481120-20260303.png" alt="Saturday Morning Breakfast Cereal - Good Cop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -305,22 +308,13 @@
                 <span class="time">2026-03-03 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5777.png" alt="Word Of The Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5777" target="_blank">Word Of The Day</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-03-03 00:57</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 00:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
