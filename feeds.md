@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-04 20:05:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-04 21:06:04 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, March 04, 2026 - 20:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, March 04, 2026 - 21:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/686d7dd0f31ad9f082b64555/master/pass/The%20Best%20USB%20Hubs%20for%20Connecting%20All%20Your%20Gadgets.png" alt="USB Hubs Can Save You Lots of Hassles—Here Are 5 We Like Best in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-usb-hubs/" target="_blank">USB Hubs Can Save You Lots of Hassles—Here Are 5 We Like Best in 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-04 20:09</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -153,15 +157,6 @@
                 <span class="time">2026-03-04 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/" target="_blank">Host a Side Event during TechCrunch Founder Summit Week in Boston</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-04 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +169,15 @@
                 <span class="title"><a href="https://dzone.com/articles/aws-transfer-family-sftp-setup-password-ssh-key-user" target="_blank">AWS Transfer Family SFTP Setup (Password + SSH Key Users) Using Lambda Identity Provider + S3</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-04 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://deflock.org/map#map=5/37.125286/-96.284180" target="_blank">An interactive map of Flock Cams</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-04 18:50</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +216,6 @@
                 <span class="time">2026-03-04 16:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-intel-xeon-ocudu" target="_blank">AMD EPYC Achieves Performance Leadership In New OCUDU Project For 5G/6G RAN</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-04 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/knight-of-the-seven-kingdoms-valarr-targaryen-1280x853.jpg" alt="The Plague That Changed the Course of ‘Game of Thrones’ History" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/knight-of-the-seven-kingdoms-great-spring-sickness-explained-game-of-thrones-2000729556" target="_blank">The Plague That Changed the Course of ‘Game of Thrones’ History</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-04 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJX6R05BX7AG4H5ZW9FHSE45/hero-image.png" alt="Walmart Has a Preorder Deal on the New M4 iPad Air" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/ipad-air-m4-preorder-deal-march-2026?utm_medium=RSS" target="_blank">Walmart Has a Preorder Deal on the New M4 iPad Air</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-04 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/morncheckbungie-1280x720.jpg" alt="Marathon Is Already Trailing Behind Arc Raiders, Says Analyst" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +287,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/android-find-hub-lost-luggage?utm_medium=RSS" target="_blank">Your Android Phone Will Soon Be Able to Help Airlines Find Your Lost Luggage</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-04 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4WST48CCTJ2Y9VQK0H2CMTM/hero-image.png" alt="The 15-inch M4 MacBook Air Just Dropped in Price Following the M5 Announcement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/15-inch-m4-macbook-air-sale-march-2026?utm_medium=RSS" target="_blank">The 15-inch M4 MacBook Air Just Dropped in Price Following the M5 Announcement</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-04 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Apple-MacBook-Neo-hero-260304_big.jpg.large_2x.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Apple put an iPhone chip in a MacBook and priced it at $599" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/04/apple-put-an-iphone-chip-in-a-macbook-and-priced-it-at-599.html" target="_blank">Apple put an iPhone chip in a MacBook and priced it at $599</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-04 17:40</span>
             </div>
         </div>
 </div>
@@ -340,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 290 |
-        🔄 Last Updated: 20:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 21:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
