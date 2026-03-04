@@ -1,44 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-03 23:02:48 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-04 00:06:59 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 12 new posts out of 35 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, March 03, 2026 - 23:03 UTC</div>
+    <div class="newspaper-date">Wednesday, March 04, 2026 - 00:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/3/unpacking-us-justification-for-iran-attacks?traffic_source=rss" target="_blank">Unpacking US justification for Iran attacks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-03 23:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/pentagon-1-rt-gmh-260302_1772457029560_hpMain_4x3t_384.jpg" alt="Pentagon IDs 4 American troops killed in Kuwait" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/pentagon-ids-4-troops-killed-kuwait/story?id=130730693" target="_blank">Pentagon IDs 4 American troops killed in Kuwait</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-03 23:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,29 +100,20 @@
                 <span class="time">2026-03-03 20:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd3/live/ee58be70-174d-11f1-b048-c9424b2cf5fd.jpg" alt="Trump says Starmer is &#x27;no Winston Churchill&#x27; over Iran strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62gwkjg0k9o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says Starmer is &#x27;no Winston Churchill&#x27; over Iran strikes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-03 20:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-iran-missile-launch_7181251.jpg?20260303184829" alt="AI could be giving US lethal edge in Iran war - but there are dangers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/ai-could-be-giving-us-lethal-edge-in-iran-war-but-there-are-dangers-13514784" target="_blank">AI could be giving US lethal edge in Iran war - but there are dangers</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-03 18:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/888719/anker-soundcore-sleep-a20-earbuds-newegg-deal-sale" target="_blank">Anker’s last-gen sleep buds are nearly 40 percent off ahead of daylight saving time</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-03 23:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/HCgyB1NWMAAkUkb-500x500.jpg" alt="No fooling: NASA targets April 1 for Artemis II launch to the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -158,20 +159,20 @@
                 <span class="time">2026-03-03 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/recipes1CROP-500x500.jpg" alt="What we can learn from scientific analysis of Renaissance recipes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/03/renaissance-diy-science-people-tested-tweaked-home-remedy-recipes/" target="_blank">What we can learn from scientific analysis of Renaissance recipes</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-03 20:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/deploynix/the-complete-guide-to-deploynix-server-management-made-simple-2k5m" target="_blank">The Complete Guide to Deploynix — Server Management Made Simple</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-04 00:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -217,15 +218,6 @@
                 <span class="time">2026-03-03 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18898281&w=600" alt="How Power Automate Helps Analysts Send Alert Emails Faster and How AI Builder Takes It to the Next Level" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-power-automate-helps-analysts-send-alert-emails" target="_blank">How Power Automate Helps Analysts Send Alert Emails Faster and How AI Builder Takes It to the Next Level</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-03 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/forgetting.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="How to stop forgetting how to do things you&#x27;ve done a dozen times" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/03/how-to-stop-forgetting-how-to-do-things-youve-done-a-dozen-times.html" target="_blank">How to stop forgetting how to do things you&#x27;ve done a dozen times</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-03 23:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/hazel-pollen-1280x853.jpg" alt="Pollen Might Be Hurting Kids’ Test Scores" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/pollen-might-be-hurting-kids-test-scores-2000728905" target="_blank">Pollen Might Be Hurting Kids’ Test Scores</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-03 23:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/fake-iran-war-1280x853.jpg" alt="Elon Musk’s X Finally Tries to Stop the Epidemic of AI-Generated War Footage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +291,6 @@
                 <span class="time">2026-03-03 21:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Pokemon-Pokopia-Gameplay-Hero-1-1280x853.jpg" alt="‘Pokémon Pokopia’ Shows Why Switch 2 Games Need to Stop Fearing Mouse Controls" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/pokemon-pokopia-shows-why-switch-2-games-need-to-stop-fearing-mouse-controls-2000728410" target="_blank">‘Pokémon Pokopia’ Shows Why Switch 2 Games Need to Stop Fearing Mouse Controls</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-03 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/scott-1280x714.jpg" alt="Scott Pilgrim EX Is A Perfect Encore" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/scott-pilgrim-ex-review-impressions-creator-anamanaguchi-2000675417" target="_blank">Scott Pilgrim EX Is A Perfect Encore</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-03 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 279 |
-        🔄 Last Updated: 23:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 00:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
