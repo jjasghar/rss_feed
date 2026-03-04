@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-04 07:13:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-04 08:05:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, March 04, 2026 - 07:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, March 04, 2026 - 08:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +52,15 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: IDF targets Iranian internal security forces in overnight strikes</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-04 07:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/04/nx-s1-5734577/north-carolina-election-results-foushee-allam" target="_blank">North Carolina Rep. Valerie Foushee holds narrow lead over challenger Nida Allam</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-04 06:12</span>
             </div>
         </div>
 <div class="story">
@@ -89,15 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/03/nx-s1-5734513/north-carolina-congress-election-results-cooper-whatley" target="_blank">Roy Cooper, Michael Whatley set to compete for a high-stakes North Carolina U.S. Senate seat</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-04 01:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260303-texas-dallas-voting-primary-cs-dbb790.jpg" alt="Voting confusion in Texas rooted in conspiracy theories about ballot counting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/thousands-texas-voters-showed-wrong-polling-site-state-democrats-say-rcna261618" target="_blank">Voting confusion in Texas rooted in conspiracy theories about ballot counting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-03 23:54</span>
             </div>
         </div>
 </div>
@@ -165,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhhnu86r76h6b1xvq9703.png" alt="Can AI Disassemble What AI Created? — Background Removal Stress Test in 8 Levels" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ogataquin/can-ai-disassemble-what-ai-created-background-removal-stress-test-in-8-levels-2a1d" target="_blank">Can AI Disassemble What AI Created? — Background Removal Stress Test in 8 Levels</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-04 08:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
@@ -207,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Fedora-45-KMSCON-VT-Delay" target="_blank">Using KMSCON As The Default VT Console Delayed To Fedora 45</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-04 01:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://grapheneos.social/@GrapheneOS/116160393783585567" target="_blank">Motorola GrapheneOS devices will be bootloader unlockable/relockable</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-04 00:58</span>
             </div>
         </div>
 </div>
@@ -319,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 07:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 283 |
+        🔄 Last Updated: 08:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
