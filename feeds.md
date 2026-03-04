@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-04 01:30:30 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-03-04 02:51:47 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, March 04, 2026 - 01:30 UTC</div>
+    <div class="newspaper-date">Wednesday, March 04, 2026 - 02:52 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/NNN_Election_2026_3-3_Midterm_Primaries_-_Promo_endpage-mgv8x1.jpg" alt="Live coverage: 2026 primary elections in Texas, North Carolina, Arkansas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/live-coverage-2026-primary-elections-in-texas-north-carolina-arkansas-258640965866" target="_blank">Live coverage: 2026 primary elections in Texas, North Carolina, Arkansas</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-03 23:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,21 +92,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-yalda-hakim-the-world_7085303.jpg?20251118182005" alt="Have America and Israel just started a forever war with Iran?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/3/rubio-says-iran-was-playing-us-in-negotiations?traffic_source=rss" target="_blank">Rubio says Iran was ‘playing’ US in negotiations</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-03 21:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/3/worst-case-scenario-trump-weighs-replacing-khamenei-as-leader-of-iran?traffic_source=rss" target="_blank">‘Worst-case scenario’: Trump weighs replacing Khamenei as leader of Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-03 20:50</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/have-america-and-israel-just-started-a-forever-war-with-iran-13514852" target="_blank">Have America and Israel just started a forever war with Iran?</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-03 21:29</span>
             </div>
         </div>
 </div>
@@ -170,6 +176,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://grapheneos.social/@GrapheneOS/116160393783585567" target="_blank">Motorola GrapheneOS devices will be bootloader unlockable/relockable</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-04 00:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/deploynix/the-complete-guide-to-deploynix-server-management-made-simple-2k5m" target="_blank">The Complete Guide to Deploynix — Server Management Made Simple</a></span>
                 <span class="feed">DEV Community</span>
@@ -203,15 +218,6 @@
                 <span class="time">2026-03-03 22:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-DPTCi-Linux-Driver" target="_blank">AMD DPTCi Driver Posted For Linux To Better Enhance Ryzen Gaming Handhelds</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-03 21:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/trump-jan-27-2026-1280x853.jpg" alt="Trump Lashes Out at Banks Over Contentious Crypto Bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-lashes-out-at-banks-over-contentious-crypto-bill-2000728659" target="_blank">Trump Lashes Out at Banks Over Contentious Crypto Bill</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-04 01:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/fetterman.jpeg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Fetterman struggles to answer reporters&#x27; questions, stammers through defense of Iran strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/03/fetterman-struggles-to-answer-reporters-questions-stammers-through-defense-of-iran-strikes.html" target="_blank">Fetterman struggles to answer reporters&#x27; questions, stammers through defense of Iran strikes</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-04 00:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/forgetting.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="How to stop forgetting how to do things you&#x27;ve done a dozen times" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +291,6 @@
                 <span class="time">2026-03-03 22:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJTS0T5VX67XSP857P32SMZN/hero-image.png" alt="You Can Now Customize Your Calling Card on Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-customize-your-calling-card-on-android?utm_medium=RSS" target="_blank">You Can Now Customize Your Calling Card on Android</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-03 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/mondrian.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="The Mondrian estate is threatening people over a public domain painting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/03/the-mondrian-estate-is-threatening-people-over-a-public-domain-painting.html" target="_blank">The Mondrian estate is threatening people over a public domain painting</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-03 22:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 02:52 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
