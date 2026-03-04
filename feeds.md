@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-04 15:09:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-04 16:09:10 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 32 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, March 04, 2026 - 15:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, March 04, 2026 - 16:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +104,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69a78b8c5ab1b7b49897cd5e/master/pass/politics_federal_ice_support.jpg" alt="How Federal Agencies Got Caught Up in Trump&#x27;s Anti-Immigration Crusade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-the-federal-government-scrambled-its-agencies-to-support-ice/" target="_blank">How Federal Agencies Got Caught Up in Trump&#x27;s Anti-Immigration Crusade</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-04 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/" target="_blank">Host a Side Event during TechCrunch Founder Summit Week in Boston</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-04 16:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -146,24 +157,6 @@
                 <span class="time">2026-03-04 13:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a8086a61662b0599a66d41/master/pass/alombard_kalshi_2Q3A0551.jpg" alt="How Is Kalshi Not Gambling?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/big-interview-tarek-mansour-kalshi/" target="_blank">How Is Kalshi Not Gambling?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-04 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/04/eight-sleep-raises-50m-at-1-5b-valuation/" target="_blank">Eight Sleep raises $50M at $1.5B valuation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-04 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,10 +165,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-intel-xeon-ocudu" target="_blank">AMD EPYC Achieves Performance Leadership In New OCUDU Project For 5G/6G RAN</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-04 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/codeexplorerray/built-with-google-gemini-the-story-behind-mentorai-233e" target="_blank">Built with Google Gemini: The Story Behind MentorAI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-04 15:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/go_to_rob/i-built-an-ai-powered-png-to-svg-converter-heres-what-i-learned-4eie" target="_blank">I built an AI-powered PNG to SVG converter here&#x27;s what I learned</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-04 15:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18897382&w=600" alt="Building an Accessibility-First AI Assistant With IBM Granite and RAG" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/accessibility-ai-assistant-ibm-granite-rag" target="_blank">Building an Accessibility-First AI Assistant With IBM Granite and RAG</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-04 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -194,33 +214,6 @@
                 <span class="title"><a href="https://dev.to/kervie_sazon/go-learning-notes-part-7-structs-1mok" target="_blank">Go Learning Notes - Part 7: Struct</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-04 14:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18895052&w=600" alt="Databricks Lakeflow Spark Declarative Pipelines Migration From Non‑Unity Catalog to Unity Catalog" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/lakeflow-dlt-pipelines-unity-catalog" target="_blank">Databricks Lakeflow Spark Declarative Pipelines Migration From Non‑Unity Catalog to Unity Catalog</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-04 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/green-it/en/mediumimage/ludi-akue-medium-1771410168415.jpeg" alt="Presentation: What I Wish I Knew When I Started with Green IT" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/green-it/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: What I Wish I Knew When I Started with Green IT</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-04 12:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/linou518/fixing-the-agent-wake-notification-bug-unifying-to-slack-across-all-agents-3f69" target="_blank">Fixing the Agent Wake Notification Bug: Unifying to Slack Across All Agents</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-04 12:02</span>
             </div>
         </div>
 </div>
@@ -242,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/07/5738bb8aa625dfa0830eb109b1977e37-1280x720.jpg" alt="Activision ‘Legally Demands’ Call Of Duty Leaker Ceases, Then Says His Leaks Sucked Anyway" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/activision-legally-demands-call-of-duty-leaker-ceases-then-says-his-leaks-sucked-anyway-2000675859" target="_blank">Activision ‘Legally Demands’ Call Of Duty Leaker Ceases, Then Says His Leaks Sucked Anyway</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-04 15:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/One-Piece-Toei-Animation-1280x855.jpg" alt="‘One Piece’ Creator Sends Manga Fans on Treasure Hunt for the Real One Piece" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +289,6 @@
                 <span class="time">2026-03-04 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/02/f703a66e41a704d67d853e45ed0cfaed-1280x720.jpg" alt="11 Tips If You’re Playing Pokémon FireRed And LeafGreen For The First Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-firered-leafgreen-tips-starter-physical-special-2000675511" target="_blank">11 Tips If You’re Playing Pokémon FireRed And LeafGreen For The First Time</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-04 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,6 +301,15 @@
                 <span class="title"><a href="https://www.penny-arcade.com/comic/2026/03/04/exodized" target="_blank">Exodized</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-03-04 08:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/solar_warning.png" alt="Solar Warning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3215/" target="_blank">Solar Warning</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-03-04 05:00</span>
             </div>
         </div>
 <div class="story">
@@ -333,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 15:10 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 16:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
