@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-04 22:04:36 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-04 23:05:20 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, March 04, 2026 - 22:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, March 04, 2026 - 23:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/04/g-s1-112556/carney-says-he-backs-strikes-on-iran-with-some-regret-as-world-order-frays" target="_blank">Carney says he backs strikes on Iran &#x27;with some regret&#x27; as world order frays</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-04 22:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +101,20 @@
                 <span class="time">2026-03-04 19:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/04/nx-s1-5704318/colossal-woolly-mammoth-dire-wolf" target="_blank">Colossal Biosciences breeds controversy while trying to revive mammoths</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-04 18:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69a72224fed0d8b129f5a806/master/pass/Grammarly-Making-LLMs-Based-on-Dead-Academics-Culture-1473977398.jpg" alt="Grammarly Is Offering ‘Expert’ AI Reviews From Your Favorite Authors—Dead or Alive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/" target="_blank">Grammarly Is Offering ‘Expert’ AI Reviews From Your Favorite Authors—Dead or Alive</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-04 22:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69a77468e7752c1bc32fe076/master/pass/AI-Lab-Autonomous-Weapons-Business-2.jpg" alt="What AI Models for War Actually Look Like" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +160,6 @@
                 <span class="time">2026-03-04 19:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/cuisine2CROP-500x500.jpg" alt="Re-creating the complex cuisine of prehistoric Europeans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/03/recreating-the-complex-cuisine-of-prehistoric-europeans/" target="_blank">Re-creating the complex cuisine of prehistoric Europeans</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-04 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,10 +168,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/owly/soulkiller-in-code-the-ai-hibernation-trick-that-blows-moe-out-of-the-water-4n4h" target="_blank">Soulkiller in Code: The AI Hibernation Trick That Blows MoE Out of the Water</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-04 23:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Mesa-Xe3P-Start" target="_blank">Intel Begins Preparations For Xe3P Upstreaming To Open-Source OpenGL &amp; Vulkan Drivers</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-04 21:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18857834&w=600" alt="A Transaction-Grade Performance Blueprint for Spring Boot FinTech Microservices (Tracing, Histograms, and Kubernetes)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-we-optimize-fintech-microservices-on-kubernete" target="_blank">A Transaction-Grade Performance Blueprint for Spring Boot FinTech Microservices (Tracing, Histograms, and Kubernetes)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-04 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +219,6 @@
                 <span class="time">2026-03-04 18:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/building-claude-code-with-boris-cherny" target="_blank">Building Claude Code with Boris Cherny</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-03-04 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fbadge%2FCursor%2520Rules-A%2520%2898%2525%29-brightgreen" alt="cursor-doctor v1.10: coverage gaps and README badges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nedcodes/cursor-doctor-v110-coverage-gaps-and-readme-badges-537a" target="_blank">cursor-doctor v1.10: coverage gaps and README badges</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-04 18:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,11 +239,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/GettyImages-2060647671-1280x853.jpg" alt="ChatGPT Health Underestimates Medical Emergencies, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/chatgpt-health-underestimates-medical-emergencies-study-finds-2000729137" target="_blank">ChatGPT Health Underestimates Medical Emergencies, Study Finds</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-04 22:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Project-Hail-Mary-Ryan-Gosling-1280x853.jpg" alt="‘Project Hail Mary’ Used a Surprising Amount of Practical Effects" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/project-hail-mary-practical-effects-green-screen-vfx-2000729741" target="_blank">‘Project Hail Mary’ Used a Surprising Amount of Practical Effects</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-04 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJXB4QRPG6W5D046P5H13AF7/hero-image.jpg" alt="The MacBook Neo Is Here to Disrupt the Personal Computing Market" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-macbook-neo-could-disrupt-the-personal-computing-market?utm_medium=RSS" target="_blank">The MacBook Neo Is Here to Disrupt the Personal Computing Market</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-04 22:00</span>
             </div>
         </div>
@@ -271,24 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/marathon-is-already-trailing-behind-arc-raiders-says-analyst-2000675903" target="_blank">Marathon Is Already Trailing Behind Arc Raiders, Says Analyst</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-04 19:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/oxford.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="A naked bronze man watches Oxford from a rooftop and most people never notice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/04/a-naked-bronze-man-watches-oxford-from-a-rooftop-and-most-people-never-notice.html" target="_blank">A naked bronze man watches Oxford from a rooftop and most people never notice</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-04 19:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/HCLaXAGXUAYMY5q-1280x720.jpeg" alt="Pokémon Pokopia May Have Debunked A Years-Long Fan Theory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-pokopia-dj-rotom-stereo-form-sound-type-pokedex-2000675905" target="_blank">Pokémon Pokopia May Have Debunked A Years-Long Fan Theory</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-04 18:44</span>
             </div>
         </div>
 </div>
@@ -337,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 22:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 23:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
