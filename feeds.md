@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-04 18:08:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-04 19:13:42 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, March 04, 2026 - 18:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, March 04, 2026 - 19:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/04/nx-s1-5704318/colossal-woolly-mammoth-dire-wolf" target="_blank">Colossal Biosciences breeds controversy while trying to revive mammoths</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-04 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0ce/live/619b2dc0-17e7-11f1-801d-ed3cff6bf876.jpg" alt="Iran postpones Khamenei funeral as US-Israeli bombardment continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clygglq6v9go?at_medium=RSS&at_campaign=rss" target="_blank">Iran postpones Khamenei funeral as US-Israeli bombardment continues</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-04 18:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbfe/live/4ae09b00-17b1-11f1-b048-c9424b2cf5fd.jpg" alt="UK warship HMS Dragon not expected to sail to Cyprus until next week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +99,29 @@
                 <span class="time">2026-03-04 14:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/tehran-main_1772623667525_hpMain_4x3t_384.jpg" alt="Iran live updates: &#x27;They are toast and they know it,&#x27; Hegseth says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: &#x27;They are toast and they know it,&#x27; Hegseth says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-04 14:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7584/live/64a78560-17d1-11f1-9120-a910fc22c6ac.jpg" alt="Partner of Labour MP arrested on suspicion of spying for China, BBC told" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c7955ewj7gwo?at_medium=RSS&at_campaign=rss" target="_blank">Partner of Labour MP arrested on suspicion of spying for China, BBC told</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-04 13:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/04/u-s-and-eu-police-shut-down-leakbase-a-site-accused-of-sharing-stolen-passwords-and-hacking-tools/" target="_blank">U.S. and EU police shut down LeakBase, a site accused of sharing stolen passwords and hacking tools</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-04 19:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/cuisine2CROP-500x500.jpg" alt="Re-creating the complex cuisine of prehistoric Europeans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/03/recreating-the-complex-cuisine-of-prehistoric-europeans/" target="_blank">Re-creating the complex cuisine of prehistoric Europeans</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-04 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69a774ed79e62d2329a16436/master/pass/DSC_7642.jpg" alt="Google Pixel 10a Review: Sensible Value" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,24 +156,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/" target="_blank">Father sues Google, claiming Gemini chatbot drove son into fatal delusion</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-04 14:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2229069552-500x500.jpg" alt="Are consumers doomed to pay more for electricity due to data center buildouts?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/03/are-consumers-doomed-to-pay-more-for-electricity-due-to-data-center-buildouts/" target="_blank">Are consumers doomed to pay more for electricity due to data center buildouts?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-04 14:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/887512/iphone-17e-preorder-how-to-buy-price-release-date" target="_blank">Where to preorder the new iPhone 17E before it hits stores on March 11th</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-04 14:29</span>
             </div>
         </div>
 </div>
@@ -238,6 +237,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/HCLaXAGXUAYMY5q-1280x720.jpeg" alt="Pokémon Pokopia May Have Debunked A Years-Long Fan Theory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-pokopia-dj-rotom-stereo-form-sound-type-pokedex-2000675905" target="_blank">Pokémon Pokopia May Have Debunked A Years-Long Fan Theory</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-04 18:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K4WST48CCTJ2Y9VQK0H2CMTM/hero-image.png" alt="The 15-inch M4 MacBook Air Just Dropped in Price Following the M5 Announcement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -280,15 +288,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/04/if-youre-worried-about-how-much-chatgpt-knows-about-you-switch-to-this-private-ai.html" target="_blank">If you&#x27;re worried about how much ChatGPT knows about you, switch to this private AI</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-04 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/5738bb8aa625dfa0830eb109b1977e37-1280x720.jpg" alt="Activision ‘Legally Demands’ Call Of Duty Leaker Ceases, Then Says His Leaks Sucked Anyway" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/activision-legally-demands-call-of-duty-leaker-ceases-then-says-his-leaks-sucked-anyway-2000675859" target="_blank">Activision ‘Legally Demands’ Call Of Duty Leaker Ceases, Then Says His Leaks Sucked Anyway</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-04 15:52</span>
             </div>
         </div>
 </div>
@@ -337,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 18:09 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 19:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
