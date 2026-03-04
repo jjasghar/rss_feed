@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-04 04:29:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-04 05:16:42 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, March 04, 2026 - 04:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, March 04, 2026 - 05:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +50,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c03a/live/ada3e5f0-1778-11f1-bcfd-2f024ca7bb94.jpg" alt="UK announces first Middle East repatriation flight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&at_campaign=rss" target="_blank">UK announces first Middle East repatriation flight</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-04 04:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/4/russia-china-raise-diplomatic-voices-against-us-israeli-attacks-on-iran?traffic_source=rss" target="_blank">Russia, China raise diplomatic voices against US-Israeli attacks on Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-04 03:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/Al-Udeid-Air-Base-3-ap-gmh-260303_1772591999283_hpMain_4x3t_384.jpg" alt="Iran live updates: Largest US military base in Middle East hit by missile, Qatar says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492" target="_blank">Iran live updates: Largest US military base in Middle East hit by missile, Qatar says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-04 03:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/03/nx-s1-5734513/north-carolina-congress-election-results-cooper-whatley" target="_blank">Roy Cooper, Michael Whatley set to compete for a high-stakes North Carolina U.S. Senate seat</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-04 01:53</span>
             </div>
         </div>
 <div class="story">
@@ -71,38 +103,20 @@
                 <span class="time">2026-03-03 23:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/pentagon-1-rt-gmh-260302_1772457029560_hpMain_4x3t_384.jpg" alt="Pentagon IDs 4 American troops killed in Kuwait" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/pentagon-ids-4-troops-killed-kuwait/story?id=130730693" target="_blank">Pentagon IDs 4 American troops killed in Kuwait</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-03 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/3/atletico-madrid-reach-copa-del-rey-final-despite-3-0-loss-at-barcelona?traffic_source=rss" target="_blank">Atletico Madrid reach Copa del Rey final despite 3-0 loss at Barcelona</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-03 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/03/nx-s1-5712323/pregnant-migrant-girls-texas-shelter" target="_blank">Pregnant migrant girls are being sent to a Texas shelter flagged as medically risky</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-03 22:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/" target="_blank">Why AI startups are selling the same equity at two different prices</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-04 00:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +162,29 @@
                 <span class="time">2026-03-03 21:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/21302051/best-apple-airpods-deals" target="_blank">The best AirPods deals you can get right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-03 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/deepseax/cisa-adds-vmware-aria-operations-rce-flaw-to-kev-catalog-after-active-exploitation-3hbk" target="_blank">CISA Adds VMware Aria Operations RCE Flaw to KEV Catalog After Active Exploitation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-04 05:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/xournalpp.webp?resize=406%2C232&amp;ssl=1" alt="Xournal++ adds tablet-friendly toolbar mode" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/xournalpp-tablet-mode-ui" target="_blank">Xournal++ adds tablet-friendly toolbar mode</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-04 04:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/deploynix/the-complete-guide-to-deploynix-server-management-made-simple-2k5m" target="_blank">The Complete Guide to Deploynix — Server Management Made Simple</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-04 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/meme-maker-linux.webp?resize=406%2C232&amp;ssl=1" alt="Memerist is a new desktop meme generator for Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/memerist-meme-generator-app-linux" target="_blank">Memerist is a new desktop meme generator for Linux</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-03 23:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/" target="_blank">Don&#x27;t Make Me Talk to Your Chatbot</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-03 22:24</span>
             </div>
         </div>
 </div>
@@ -317,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 04:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 05:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
