@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-05 19:25:10 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-03-05 20:08:35 UTC -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, March 05, 2026 - 19:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, March 05, 2026 - 20:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/5/sri-lanka-evacuates-crew-of-second-iranian-vessel-after-us-sunk-iris-dena?traffic_source=rss" target="_blank">Sri Lanka evacuates crew of second Iranian vessel after US sunk IRIS Dena</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-05 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/05/nx-s1-5667546/kristi-noem-homeland-security-fired" target="_blank">Trump fires Kristi Noem as DHS chief, names Sen. Markwayne Mullin to replace her</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-05 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Trump fires DHS secretary Kristi Noem: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Trump fires DHS secretary Kristi Noem: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-05 19:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,38 +102,29 @@
                 <span class="time">2026-03-05 18:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2026/3/5/aje-onl-tt_irn_usiranmonday_av_v1-020326?traffic_source=rss" target="_blank">‘The Truth Social war’: the US playbook for war with Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-05 17:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/05/nx-s1-5725470/trump-jan-6-pardon-sexual-abuse-prison" target="_blank">A Jan. 6 rioter pardoned by Trump was sentenced to life in prison for child sex abuse</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-05 16:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/05/south-africa-president-cyril-ramaphosa-calls-donald-trump-policy-white-afrikaners-racist" target="_blank">South Africa’s president calls Trump’s policy to offer refuge to white Afrikaners ‘racist’</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-05 16:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/05/x-revamps-creator-subscriptions-with-new-features-like-exclusive-threads-and-shareable-cards/" target="_blank">X revamps Creator Subscriptions with new features, like exclusive threads and shareable cards</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-05 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/boys2-500x500.jpg" alt="The Boys S5 trailer tees up a bloody final season" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/03/the-boys-s5-trailer-tees-up-a-bloody-final-season/" target="_blank">The Boys S5 trailer tees up a bloody final season</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-05 18:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,29 +161,29 @@
                 <span class="time">2026-03-05 15:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1243763764-500x500.jpg" alt="Musk testifies tweet that led to $44 billion lawsuit &quot;may not have been my wisest&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/musk-testifies-tweet-that-led-to-44-billion-lawsuit-may-not-have-been-my-wisest/" target="_blank">Musk testifies tweet that led to $44 billion lawsuit &quot;may not have been my wisest&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-05 14:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch" target="_blank">Apple Music adds optional labels for AI songs and visuals</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-05 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cloudwiseteam/the-hidden-cost-layers-of-ec2-and-why-stopped-instances-still-drain-your-budget-5bmf" target="_blank">The Hidden Cost Layers of EC2 (And Why Stopped Instances Still Drain Your Budget)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-05 20:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18900009&w=600" alt="Implementing Sharding in PostgreSQL: A Comprehensive Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/implementing-sharding-in-postgresql-a-comprehensiv" target="_blank">Implementing Sharding in PostgreSQL: A Comprehensive Guide</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-05 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -178,39 +203,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/introducing-gpt-5-4/" target="_blank">GPT-5.4</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-05 18:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18897966&w=600" alt="Consensus in Distributed Systems: Understanding the Raft Algorithm" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/understanding-raft-consensus-algorithm" target="_blank">Consensus in Distributed Systems: Understanding the Raft Algorithm</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-05 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/e5ebbfd9-7935-44e7-ad4d-520bfa27de9e_420x300.png" alt="The Pulse: AWS region knocked offline by drone attack in historic first" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-164" target="_blank">The Pulse: AWS region knocked offline by drone attack in historic first</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-03-05 17:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/developer-skills/career-growth/scaling-ai-opportunity-across-the-globe-learnings-from-github-and-andela/" target="_blank">Scaling AI opportunity across the globe: Learnings from GitHub and Andela</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-03-05 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/03/05/developerweek-2026/" target="_blank">DeveloperWeek 2026: Making AI tools that are actually good</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-03-05 17:00</span>
             </div>
         </div>
 </div>
@@ -241,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shrews.jpg?fit=1200%2C789&amp;quality=60&amp;ssl=1" alt="Find a movie to watch by mood, director, genre, or specific vibe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/05/find-a-movie-to-watch-by-mood-director-genre-or-specific-vibe.html" target="_blank">Find a movie to watch by mood, director, genre, or specific vibe</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-05 19:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/Goh_Cubone-1280x720.jpg" alt="Pokémon Pokopia Twists The Knife On One Of The Series’ Saddest Stories" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +302,6 @@
                 <span class="time">2026-03-05 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJX5H49EKTFG9JE3SW8Z3VHD/hero-image.jpg" alt="10 Hacks Every TikTok User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tiktok-hacks?utm_medium=RSS" target="_blank">10 Hacks Every TikTok User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-05 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 19:25 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 286 |
+        🔄 Last Updated: 20:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
