@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-05 04:30:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-05 05:19:44 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, March 05, 2026 - 04:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, March 05, 2026 - 05:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +51,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/5/canada-pm-carney-says-unable-to-rule-out-military-role-in-iran-war?traffic_source=rss" target="_blank">Canada PM Carney says unable to rule out military role in Iran war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-05 04:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/5/who-is-choosing-irans-next-supreme-leader?traffic_source=rss" target="_blank">Who is choosing Iran’s next Supreme Leader?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-05 03:48</span>
@@ -65,6 +72,15 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: Pentagon IDs remaining 2 American troops killed in Kuwait</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-05 02:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772669501973_nn_ksi_american_rush_toleave_260304_1920x1080-6x4r24.jpg" alt="Thousands of Americans stranded in Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/thousands-of-americans-stranded-in-middle-east-258721349732" target="_blank">Thousands of Americans stranded in Middle East</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-05 00:11</span>
             </div>
         </div>
 <div class="story">
@@ -83,24 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/4/death-toll-in-iran-surpasses-1000-as-israel-us-strikes-continue?traffic_source=rss" target="_blank">Death toll in Iran surpasses 1,000 as Israel-US strikes continue</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-04 23:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/04/g-s1-112556/carney-says-he-backs-strikes-on-iran-with-some-regret-as-world-order-frays" target="_blank">Carney says he backs strikes on Iran &#x27;with some regret&#x27; as world order frays</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-04 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd49/live/25c47070-171c-11f1-b787-dd8097b9508d.jpg" alt="Drug breakthrough for children with severe form of epilepsy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3rzj9jy9e8o?at_medium=RSS&at_campaign=rss" target="_blank">Drug breakthrough for children with severe form of epilepsy</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-04 22:06</span>
             </div>
         </div>
 </div>
@@ -168,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lyraalishaikh/harden-linux-services-with-systemd-analyze-security-from-score-to-enforceable-policy-3045" target="_blank">Harden Linux Services with `systemd-analyze security`: From Score to Enforceable Policy</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-05 05:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkp3rpijpsqn36upu7mer.png" alt="What is an API? Complete Beginner&#x27;s Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/the_seventeen/run-your-dev-server-without-a-env-file-1jda" target="_blank">Run Your Dev Server Without a .env File</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-05 00:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/owly/soulkiller-in-code-the-ai-hibernation-trick-that-blows-moe-out-of-the-water-4n4h" target="_blank">Soulkiller in Code: The AI Hibernation Trick That Blows MoE Out of the Water</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-04 23:03</span>
             </div>
         </div>
 </div>
@@ -326,22 +324,13 @@
                 <span class="time">2026-03-04 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/solar_warning.png" alt="Solar Warning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3215/" target="_blank">Solar Warning</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-03-04 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 04:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 05:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
