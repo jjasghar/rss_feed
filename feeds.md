@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-03-05 12:06:11 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-05 13:24:39 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, March 05, 2026 - 12:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, March 05, 2026 - 13:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/sub-5-ht-gmh-260304_1772635476259_hpMain_4x3t_384.jpg" alt="Iran live updates: US torpedo attack on Iran warship &#x27;an atrocity&#x27; minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: US torpedo attack on Iran warship &#x27;an atrocity&#x27; minister says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-05 13:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/5/will-the-us-benefit-from-the-oil-crisis-sparked-by-the-war-on-iran?traffic_source=rss" target="_blank">Will the US benefit from the oil crisis sparked by the war on Iran?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-05 12:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/UAE-fire-DB-260305_1772709801941_hpMain_4x3t_384.jpg" alt="Iran live updates: Explosions in Qatar, 6 injured in UAE amid Iranian attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +105,29 @@
                 <span class="time">2026-03-05 10:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/05/nx-s1-5736120/tariff-refunds-wall-street-trade" target="_blank">Wall Street is betting on tariff refunds after Supreme Court ruling</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-05 10:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/3/5/where-are-irans-allies-why-moscow-beijing-are-keeping-their-distance?traffic_source=rss" target="_blank">Where are Iran’s allies? Why Moscow, Beijing are keeping their distance</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-05 08:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/05/how-1000-customer-calls-shaped-a-breakout-enterprise-ai-startup/" target="_blank">How 1,000+ customer calls shaped a breakout enterprise AI startup</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-05 13:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69a8b10e7ec5e387c831c738/master/pass/The%20Best%20Gravel%20Running%20Shoes.png" alt="Best Gravel Running Shoes (2026): Salomon, Adidas, Nike" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-gravel-running-shoes/" target="_blank">Best Gravel Running Shoes (2026): Salomon, Adidas, Nike</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-05 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69a8b170661380d619c15741/master/pass/KEF%20Muo_Lifestyle_KEF_Muo_2025_lifestyle_image_MossGreen_Planting.jpg" alt="KEF Muo Bluetooth Speaker: Portable Hi-Fi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -113,6 +135,15 @@
                 <span class="title"><a href="https://www.wired.com/review/kef-muo-2026/" target="_blank">KEF Muo Bluetooth Speaker: Portable Hi-Fi</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-03-05 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/889782/anthropic-pentagon-discussions-ai-deal" target="_blank">Anthropic makes last-ditch effort to salvage deal with Pentagon after blowup</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-05 11:46</span>
             </div>
         </div>
 <div class="story">
@@ -133,38 +164,29 @@
                 <span class="time">2026-03-05 02:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/889701/trump-white-house-call-of-duty-footage-iran" target="_blank">A new video from the White House mixes Call of Duty footage with actual video of Iran strikes</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-05 01:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/" target="_blank">Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-05 01:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67f99b8323ad641f89bf3ee8/master/pass/Asus-Vivobook-14_front-view_Photo-SOURCE-Luke-Larsen.jpg" alt="These $500 Windows Laptops Show the MacBook Neo’s Competition" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/asus-vivobook-14-deal-macbook-neo/" target="_blank">These $500 Windows Laptops Show the MacBook Neo’s Competition</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-04 23:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pranay_batta/best-open-source-ai-gateway-in-2026-2flb" target="_blank">Best Open Source AI Gateway in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-05 13:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18899291&w=600" alt="Autoscaling Is Not Elasticity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/autoscaling-is-not-elasticity-1" target="_blank">Autoscaling Is Not Elasticity</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-05 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="Autonomous AI in Legal Limbo" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,22 +223,18 @@
                 <span class="time">2026-03-05 11:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/qconai-boston-2026-talks/en/headerimage/QCon-AI-Boston-1772637516635.jpg" alt="QCon AI Boston’s Early Program Focuses on the Engineering Work Behind Production AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/qconai-boston-2026-talks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon AI Boston’s Early Program Focuses on the Engineering Work Behind Production AI</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-05 11:00</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/boutetnico/whois-is-dead-i-built-an-api-for-what-replaces-it-3gje" target="_blank">WHOIS is dead, I built an API for what replaces it</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-05 10:03</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/hacked-app-part-of-us-israeli-propaganda-campaign-against-iran.html" target="_blank">Hacked App Part of US/Israeli Propaganda Campaign Against Iran</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-03-05 11:28</span>
             </div>
         </div>
 </div>
@@ -224,6 +242,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01J18F8YP5JAGB28DQE70HGBJ5/hero-image.png" alt="How to Use the ‘80/20’ Rule for Running" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/how-to-use-80-20-rule-for-running?utm_medium=RSS" target="_blank">How to Use the ‘80/20’ Rule for Running</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-05 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/control3-1280x720.jpg" alt="Remedy Explains What Defines A Control Game As Its Sequels Veer Off In Wild Directions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/control-resonant-remedy-shooter-third-person-2000675970" target="_blank">Remedy Explains What Defines A Control Game As Its Sequels Veer Off In Wild Directions</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-05 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Apple-MacBook-Neo-hero-260304_big-1.jpg.large_2x-1.jpg?fit=1457%2C967&amp;quality=60&amp;ssl=1" alt="MacBook Neo: 13-inches, $599, green" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/05/macbook-neo-13-inches-599-green.html" target="_blank">MacBook Neo: 13-inches, $599, green</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-05 11:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/trump-official-photo-white-house-1280x853.jpg" alt="Former Military Officials, Academics, and Tech Policy Leaders Denounce Pentagon’s Tactics Against Anthropic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -249,33 +294,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/04/dhs-investigating-border-patrols-gruppenfuhrer-greg-bovino-for-antisemitic-cracks.html" target="_blank">DHS investigating Border Patrol&#x27;s &quot;Gruppenführer&quot; Greg Bovino for antisemitic cracks</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-05 00:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Aikido-turbine-1280x853.jpg" alt="This Startup Wants to Tuck Data Centers Beneath Offshore Wind Turbines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-startup-wants-to-tuck-data-centers-beneath-offshore-wind-turbines-2000729795" target="_blank">This Startup Wants to Tuck Data Centers Beneath Offshore Wind Turbines</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-05 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-04 23:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/highguardsa-1280x722.jpg" alt="‘Skeleton Crew’ Crunches On Highguard‘s Biggest Update Ever Just Days Before Shutdown As Director Battles Conspiracy Theories" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/highguard-final-update-shutdown-concord-toxic-2000675964" target="_blank">‘Skeleton Crew’ Crunches On Highguard‘s Biggest Update Ever Just Days Before Shutdown As Director Battles Conspiracy Theories</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-04 23:22</span>
             </div>
         </div>
 </div>
@@ -315,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 12:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 13:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
