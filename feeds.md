@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-05 02:53:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-05 03:44:53 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, March 05, 2026 - 02:53 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, March 05, 2026 - 03:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +50,15 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: Pentagon IDs remaining 2 American troops killed in Kuwait</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-05 02:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772668331960_nn_ren_iran_warship_260304_1920x1080-vk9wbv.jpg" alt="U.S. submarine sinks Iranian warship with torpedo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/u-s-submarine-sinks-iranian-warship-with-torpedo-258719813535" target="_blank">U.S. submarine sinks Iranian warship with torpedo</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-04 23:52</span>
             </div>
         </div>
 <div class="story">
@@ -92,20 +97,20 @@
                 <span class="time">2026-03-04 21:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-karoline-leavitt-trump_7182504.jpg?20260304213324" alt="Talk of what comes next for Iranians was conspicuous in its absence from White House briefing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/talk-of-what-comes-next-for-the-iranian-people-was-conspicuous-in-its-absence-from-white-house-briefing-13515327" target="_blank">Talk of what comes next for Iranians was conspicuous in its absence from White House briefing</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-04 20:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/889720/live-nation-ticketmaster-trial-doj-barclays-center-threats" target="_blank">Did Live Nation punish a venue by taking Billie Eilish away?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-05 02:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,21 +148,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1245008497-500x500.jpg" alt="TerraPower gets OK to start construction of its first nuclear plant" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/" target="_blank">Anthropic CEO Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies,’ report says</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-04 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a77468e7752c1bc32fe076/master/pass/AI-Lab-Autonomous-Weapons-Business-2.jpg" alt="What AI Models for War Actually Look Like" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ai-model-military-use-smack-technologies/" target="_blank">What AI Models for War Actually Look Like</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-04 22:00</span>
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/03/terrapower-gets-ok-to-start-construction-of-its-first-nuclear-plant/" target="_blank">TerraPower gets OK to start construction of its first nuclear plant</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-04 22:54</span>
             </div>
         </div>
 </div>
@@ -166,12 +162,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVMe-RAID-Replace-March-2026" target="_blank">Notice: Brief Downtime Expected Overnight</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-05 02:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9mz1u77kjce1irf65m8.png" alt="SLAG! 🛡️ an invisble layer of protection 🔒" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/iseecodepeople/slag-an-invisble-layer-of-protection-500b" target="_blank">SLAG! 🛡️ an invisble layer of protection 🔒</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-05 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/googleworkspace/cli" target="_blank">Google Workspace CLI</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-05 00:22</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Mesa-Xe3P-Start" target="_blank">Intel Begins Preparations For Xe3P Upstreaming To Open-Source OpenGL &amp; Vulkan Drivers</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-04 21:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18857834&w=600" alt="A Transaction-Grade Performance Blueprint for Spring Boot FinTech Microservices (Tracing, Histograms, and Kubernetes)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-we-optimize-fintech-microservices-on-kubernete" target="_blank">A Transaction-Grade Performance Blueprint for Spring Boot FinTech Microservices (Tracing, Histograms, and Kubernetes)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-04 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18899280&w=600" alt="AWS Transfer Family SFTP Setup (Password + SSH Key Users) Using Lambda Identity Provider + S3" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/aws-transfer-family-sftp-setup-password-ssh-key-user" target="_blank">AWS Transfer Family SFTP Setup (Password + SSH Key Users) Using Lambda Identity Provider + S3</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-04 19:00</span>
             </div>
         </div>
 </div>
@@ -329,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 293 |
-        🔄 Last Updated: 02:53 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 03:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
