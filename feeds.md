@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-05 20:08:35 UTC -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-03-05 21:07:07 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, March 05, 2026 - 20:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, March 05, 2026 - 21:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/146d/live/1f10e010-1861-11f1-9120-a910fc22c6ac.jpg" alt="Labour MP &#x27;voluntarily suspends herself&#x27; amid China spy probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg8edz1ng2o?at_medium=RSS&at_campaign=rss" target="_blank">Labour MP &#x27;voluntarily suspends herself&#x27; amid China spy probe</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-05 20:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/5/us-house-of-representatives-to-vote-on-latest-effort-to-halt-iran-war?traffic_source=rss" target="_blank">US House of Representatives to vote on latest effort to halt Iran war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-05 20:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +102,29 @@
                 <span class="time">2026-03-05 19:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772737033559_nbc_spec_noem_fired_trump_260305_1920x1080-8kyhel.jpg" alt="Trump says Homeland Security Secretary Kristi Noem is stepping down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-says-homeland-security-secretary-kristi-noem-is-stepping-down-258769989690" target="_blank">Trump says Homeland Security Secretary Kristi Noem is stepping down</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-05 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/05/nx-s1-5735682/atlanta-half-marathon-world-championship-mcclain-born-hurley-kurgat" target="_blank">They were led off course in a big race. But a fix is more complicated than prize money</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-05 18:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-535059003-500x500.jpg" alt="Amazon appears to be down, with over 20,000 reported problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/amazon-appears-to-be-down-with-over-20000-reported-problems/" target="_blank">Amazon appears to be down, with over 20,000 reported problems</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-05 21:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/890131/pokopia-pokemon-high-tech-future-3d-printer" target="_blank">Pokopia made me look at Pokémon’s high-tech future in a whole new way</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-05 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +161,29 @@
                 <span class="time">2026-03-05 16:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/889878/ikea-bluetooth-speaker-kallsup-now-available-price" target="_blank">You can now fill your home with Ikea’s cheap and tiny new Bluetooth speaker</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-05 15:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/05/match-group-coo-out-as-dating-apps-struggle-to-connect-with-gen-z/" target="_blank">Match Group COO out, as dating apps struggle to connect with Gen Z</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-05 15:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/spranab/i-gave-claude-code-a-phone-a-friend-lifeline-it-calls-gpt-gemini-and-deepseek-3gjo" target="_blank">I Gave Claude Code a &quot;Phone a Friend&quot; Lifeline — It Calls GPT, Gemini, and DeepSeek</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-05 21:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/60-million-copilot-code-reviews-and-counting/" target="_blank">60 million Copilot code reviews and counting</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-03-05 20:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +220,6 @@
                 <span class="time">2026-03-05 18:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openai.com/index/introducing-gpt-5-4/" target="_blank">GPT-5.4</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-05 18:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18897966&w=600" alt="Consensus in Distributed Systems: Understanding the Raft Algorithm" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/understanding-raft-consensus-algorithm" target="_blank">Consensus in Distributed Systems: Understanding the Raft Algorithm</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-05 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1280x720.jpg" alt="Microsoft Confirms Next-Gen Xbox Is Still Happening, It’s Called Project Helix, And It’ll Play Your PC Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-project-helix-codename-next-gen-pc-games-2000676398" target="_blank">Microsoft Confirms Next-Gen Xbox Is Still Happening, It’s Called Project Helix, And It’ll Play Your PC Games</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-05 20:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shrews.jpg?fit=1200%2C789&amp;quality=60&amp;ssl=1" alt="Find a movie to watch by mood, director, genre, or specific vibe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +302,6 @@
                 <span class="time">2026-03-05 17:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Apple-iPad.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This iPad is now under $100" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/05/this-ipad-is-now-under-100.html" target="_blank">This iPad is now under $100</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-05 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -339,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 286 |
-        🔄 Last Updated: 20:08 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 288 |
+        🔄 Last Updated: 21:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
