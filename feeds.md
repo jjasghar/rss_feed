@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-03-05 18:31:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-05 19:25:10 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, March 05, 2026 - 18:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, March 05, 2026 - 19:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/3/5/explosions-rock-tehran-as-israel-intensifies-strikes-on-government-sites?traffic_source=rss" target="_blank">Israel, US intensify Iran strikes, targeting homes, hospitals, stadium</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-05 19:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772737033559_nbc_spec_noem_fired_trump_260305_1920x1080-8kyhel.jpg" alt="Trump says Homeland Security Secretary Kristi Noem is stepping down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-says-homeland-security-secretary-kristi-noem-is-stepping-down-258769989690" target="_blank">Trump says Homeland Security Secretary Kristi Noem is stepping down</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-05 18:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +93,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2026/mar/05/south-africa-president-cyril-ramaphosa-calls-donald-trump-policy-white-afrikaners-racist" target="_blank">South Africa’s president calls Trump’s policy to offer refuge to white Afrikaners ‘racist’</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-03-05 16:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca8/live/ae943050-189f-11f1-801d-ed3cff6bf876.jpg" alt="First UK government flight departs Middle East after delay" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&at_campaign=rss" target="_blank">First UK government flight departs Middle East after delay</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-05 14:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/5/which-kurdish-groups-is-the-us-rallying-to-fight?traffic_source=rss" target="_blank">Which Kurdish groups is the US rallying to fight Iran?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-05 14:17</span>
             </div>
         </div>
 </div>
@@ -163,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rust-1.94-Released" target="_blank">Rust 1.94 Released With Stable Support For AVX-512 FP16 Intrinsics, Array Windows</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-05 19:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2Fca83f532-6d1c-4809-a6b0-eb49fc879e31" alt="JavaScript Operators: The Basics You Need to Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -178,6 +184,15 @@
                 <span class="title"><a href="https://dzone.com/articles/understanding-raft-consensus-algorithm" target="_blank">Consensus in Distributed Systems: Understanding the Raft Algorithm</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-05 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/e5ebbfd9-7935-44e7-ad4d-520bfa27de9e_420x300.png" alt="The Pulse: AWS region knocked offline by drone attack in historic first" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-164" target="_blank">The Pulse: AWS region knocked offline by drone attack in historic first</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-03-05 17:54</span>
             </div>
         </div>
 <div class="story">
@@ -198,29 +213,20 @@
                 <span class="time">2026-03-05 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/luckypipewrench/your-mcp-servers-tool-descriptions-are-an-attack-surface-37pj" target="_blank">Your MCP server&#x27;s tool descriptions are an attack surface</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-05 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.wikimediastatus.net" target="_blank">Wikipedia in read-only mode following mass admin account compromise</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-05 16:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/israel-hacked-traffic-cameras-in-iran.html" target="_blank">Israel Hacked Traffic Cameras in Iran</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-03-05 17:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -235,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/Goh_Cubone-1280x720.jpg" alt="Pokémon Pokopia Twists The Knife On One Of The Series’ Saddest Stories" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-pokopia-cubone-marowak-grave-habitat-how-to-2000676360" target="_blank">Pokémon Pokopia Twists The Knife On One Of The Series’ Saddest Stories</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-05 19:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/pokemon-pokopia-peakychu-variant.jpg" alt="The Backstory For Pokopia’s White Pikachu Is Super Sad" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +295,6 @@
                 <span class="time">2026-03-05 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/IMG_2054-1280x720.jpg" alt="How To Skip Building Times In Pokémon Pokopia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-pokopia-building-wait-times-skip-switch-2-clock-2000676252" target="_blank">How To Skip Building Times In Pokémon Pokopia</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-05 14:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 18:32 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 19:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
