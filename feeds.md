@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-05 13:24:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-05 14:13:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, March 05, 2026 - 13:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, March 05, 2026 - 14:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/sport/2026/mar/05/lewis-hamilton-race-africa-grand-prix-retiring-formula-one-colonial" target="_blank">Lewis Hamilton sets sights on racing in an African grand prix before retiring</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-05 13:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eac/live/650adf00-1869-11f1-8f1d-d7bdb1ea156f.jpg" alt="Healey visits Cyprus after criticism of UK response to drone attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0e55y0pzgwo?at_medium=RSS&at_campaign=rss" target="_blank">Healey visits Cyprus after criticism of UK response to drone attacks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-05 13:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/sub-5-ht-gmh-260304_1772635476259_hpMain_4x3t_384.jpg" alt="Iran live updates: US torpedo attack on Iran warship &#x27;an atrocity&#x27; minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,6 +85,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/05/g-s1-112596/up-first-newsletter-iran-israel-us-trump-democratic-primaries-minnesota-medicaid" target="_blank">House to vote on Trump&#x27;s war powers. And, Minnesota sues over halted Medicaid funding</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-05 12:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/UAE-fire-DB-260305_1772709801941_hpMain_4x3t_384.jpg" alt="Iran live updates: Explosions in Qatar, 6 injured in UAE amid Iranian attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -78,38 +102,20 @@
                 <span class="time">2026-03-05 11:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2026/3/5/its-up-to-the-united-states-congress-not-any-president-to-declare?traffic_source=rss" target="_blank">‘It’s up to the United States Congress, not any president, to declare war’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-05 11:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/05/nx-s1-5736589/medicaid-funding-lawsuit-minnesota-trump" target="_blank">In lawsuit, Minnesota accuses Trump administration of &#x27;weaponizing&#x27; Medicaid funding</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-05 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/5/iran-drone-attack-at-azerbaijan-airport?traffic_source=rss" target="_blank">Iran drone attack at Azerbaijan airport</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-05 10:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch" target="_blank">Apple Music adds optional labels for AI songs and visuals</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-05 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +161,20 @@
                 <span class="time">2026-03-05 10:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/889720/live-nation-ticketmaster-trial-doj-barclays-center-threats" target="_blank">Did Live Nation punish a venue by taking Billie Eilish away?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-05 02:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fucg8ahfgsta4cixclo5o.gif" alt="I built a fast, driver-less TUI for browsing PostgreSQL, with ER diagrams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/riii111_8782a7e607d04c8e8/i-built-a-fast-driver-less-tui-for-browsing-postgresql-with-er-diagrams-50k9" target="_blank">I built a fast, driver-less TUI for browsing PostgreSQL, with ER diagrams</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-05 14:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -214,15 +220,6 @@
                 <span class="time">2026-03-05 11:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-HSMP-Preps-For-Zen-6-EPYC" target="_blank">AMD HSMP Linux Driver Preps For Zen 6 EPYC With Finer Power Controls</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-05 11:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/MS0304-the-batman-robert-pattinson-1280x853.jpg" alt="It’s Time For Even More Outlandish ‘The Batman, Part II’ Casting Rumors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/batman-part-2-harvey-dent-father-daniel-craig-liam-neeson-2000729821" target="_blank">It’s Time For Even More Outlandish ‘The Batman, Part II’ Casting Rumors</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-05 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01J18F8YP5JAGB28DQE70HGBJ5/hero-image.png" alt="How to Use the ‘80/20’ Rule for Running" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +293,6 @@
                 <span class="time">2026-03-05 01:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/04/DHS_WR_at.jpg?fit=640%2C563&amp;quality=60&amp;ssl=1" alt="DHS investigating Border Patrol&#x27;s &quot;Gruppenführer&quot; Greg Bovino for antisemitic cracks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/04/dhs-investigating-border-patrols-gruppenfuhrer-greg-bovino-for-antisemitic-cracks.html" target="_blank">DHS investigating Border Patrol&#x27;s &quot;Gruppenführer&quot; Greg Bovino for antisemitic cracks</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-05 00:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 13:24 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 14:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
