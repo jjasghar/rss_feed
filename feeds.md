@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-05 01:30:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-05 02:53:24 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, March 05, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, March 05, 2026 - 02:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/soldiers_1772677607917_hpMain_4x3t_384.jpeg" alt="Iran live updates: Pentagon IDs remaining 2 American troops killed in Kuwait" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: Pentagon IDs remaining 2 American troops killed in Kuwait</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-05 02:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -62,6 +75,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd49/live/25c47070-171c-11f1-b787-dd8097b9508d.jpg" alt="Drug breakthrough for children with severe form of epilepsy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3rzj9jy9e8o?at_medium=RSS&at_campaign=rss" target="_blank">Drug breakthrough for children with severe form of epilepsy</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-04 22:06</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -77,24 +99,6 @@
                 <span class="title"><a href="https://news.sky.com/story/talk-of-what-comes-next-for-the-iranian-people-was-conspicuous-in-its-absence-from-white-house-briefing-13515327" target="_blank">Talk of what comes next for Iranians was conspicuous in its absence from White House briefing</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-03-04 20:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/tehran-main_1772623667525_hpMain_4x3t_384.jpg" alt="Iran live updates: Ground troops &#x27;not part of the plan,&#x27; Leavitt says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: Ground troops &#x27;not part of the plan,&#x27; Leavitt says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-04 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772651802465_nbc_spec_whbriefing_travel_advisories_260304_1920x1080-jna4wb.jpg" alt="White House: Americans in the Middle East were advised to leave ahead of Iranian attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/white-house-americans-in-the-middle-east-were-advised-to-leave-ahead-of-iranian-attack-258697285898" target="_blank">White House: Americans in the Middle East were advised to leave ahead of Iranian attack</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-04 19:16</span>
             </div>
         </div>
 </div>
@@ -235,6 +239,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/10/shutterstock_33885607-e1740688660250.jpg?fit=1080%2C771&amp;quality=60&amp;ssl=1" alt="Watch a trailered sailboat execute a four-lane change and jump the median" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/04/watch-a-trailered-sailboat-execute-a-four-lane-change-and-jump-the-median.html" target="_blank">Watch a trailered sailboat execute a four-lane change and jump the median</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-05 01:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/04/DHS_WR_at.jpg?fit=640%2C563&amp;quality=60&amp;ssl=1" alt="DHS investigating Border Patrol&#x27;s &quot;Gruppenführer&quot; Greg Bovino for antisemitic cracks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -279,15 +292,6 @@
                 <span class="time">2026-03-04 22:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Vampirella.jpg?fit=1200%2C794&amp;quality=60&amp;ssl=1" alt="Frazetta painted the clothes off Vampirella, sold the result for $3.1M" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/04/frazetta-painted-the-clothes-off-vampirella-sold-the-result-for-3-1m.html" target="_blank">Frazetta painted the clothes off Vampirella, sold the result for $3.1M</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-04 22:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 293 |
+        🔄 Last Updated: 02:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
