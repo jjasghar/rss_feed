@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-05 11:10:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-05 12:06:11 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, March 05, 2026 - 11:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, March 05, 2026 - 12:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/UAE-fire-DB-260305_1772709801941_hpMain_4x3t_384.jpg" alt="Iran live updates: Explosions in Qatar, 6 injured in UAE amid Iranian attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: Explosions in Qatar, 6 injured in UAE amid Iranian attacks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-05 11:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2026/3/5/its-up-to-the-united-states-congress-not-any-president-to-declare?traffic_source=rss" target="_blank">‘It’s up to the United States Congress, not any president, to declare war’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-05 11:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +101,20 @@
                 <span class="time">2026-03-05 08:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bef/live/d1a7a8c0-1867-11f1-b048-c9424b2cf5fd.jpg" alt="Iran targets headquarters of Iranian Kurdish forces in Iraq" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2k88y1147jo?at_medium=RSS&at_campaign=rss" target="_blank">Iran targets headquarters of Iranian Kurdish forces in Iraq</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-05 08:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe68/live/fd6e0eb0-17d4-11f1-a08c-c1f4358a7533.jpg" alt="First UK government flight for Britons stuck in Middle East yet to take off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&at_campaign=rss" target="_blank">First UK government flight for Britons stuck in Middle East yet to take off</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-05 07:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69a8b170661380d619c15741/master/pass/KEF%20Muo_Lifestyle_KEF_Muo_2025_lifestyle_image_MossGreen_Planting.jpg" alt="KEF Muo Bluetooth Speaker: Portable Hi-Fi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/kef-muo-2026/" target="_blank">KEF Muo Bluetooth Speaker: Portable Hi-Fi</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-05 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +160,47 @@
                 <span class="time">2026-03-04 23:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a72224fed0d8b129f5a806/master/pass/Grammarly-Making-LLMs-Based-on-Dead-Academics-Culture-1473977398.jpg" alt="Grammarly Is Offering ‘Expert’ AI Reviews From Your Favorite Authors—Dead or Alive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/" target="_blank">Grammarly Is Offering ‘Expert’ AI Reviews From Your Favorite Authors—Dead or Alive</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-04 22:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="Autonomous AI in Legal Limbo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rawveg/autonomous-ai-in-legal-limbo-c5j" target="_blank">Autonomous AI in Legal Limbo</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-05 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/opinion/why-hate-ubuntu/" target="_blank">Why Linux Users Love to Hate Ubuntu</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-03-05 11:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/architecture-advice-process/en/headerimage/architecture-advice-process-header-1772449456246.jpg" alt="Decentralizing Architectural Decisions with the Architecture Advice Process" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/architecture-advice-process/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Decentralizing Architectural Decisions with the Architecture Advice Process</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-05 11:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-HSMP-Preps-For-Zen-6-EPYC" target="_blank">AMD HSMP Linux Driver Preps For Zen 6 EPYC With Finer Power Controls</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-05 11:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/03/qconai-boston-2026-talks/en/headerimage/QCon-AI-Boston-1772637516635.jpg" alt="QCon AI Boston’s Early Program Focuses on the Engineering Work Behind Production AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -175,56 +217,6 @@
                 <span class="title"><a href="https://dev.to/boutetnico/whois-is-dead-i-built-an-api-for-what-replaces-it-3gje" target="_blank">WHOIS is dead, I built an API for what replaces it</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-05 10:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23" target="_blank">Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-05 07:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/cloudflare-crawler/en/headerimage/generatedHeaderImage-1772581053627.jpg" alt="Cloudflare Debuts Markdown for Agents and Content Signals to Guide AI Crawlers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/cloudflare-crawler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Debuts Markdown for Agents and Content Signals to Guide AI Crawlers</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-05 07:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzh8pvh4uwilyxg1b8trq.png" alt="How I Prepare for Software Engineering Interviews in 6 Days (Without Burning Out)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/finalroundai/how-i-prepare-for-software-engineering-interviews-in-6-days-without-burning-out-1kb2" target="_blank">How I Prepare for Software Engineering Interviews in 6 Days (Without Burning Out)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-05 07:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3545650%2F71e51628-5e8b-4caf-a7c4-8805fdda2132.png" alt="The bot monitors Polymarket order books through WebSocket streams and reacts in milliseconds." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/benjamin_martin_749c1d57f/the-bot-monitors-polymarket-order-books-through-websocket-streams-and-reacts-in-milliseconds-5h7g" target="_blank">The bot monitors Polymarket order books through WebSocket streams and reacts in milliseconds.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-05 05:58</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/manipulating-ai-summarization-features.html" target="_blank">Manipulating AI Summarization Features</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-03-04 12:06</span>
             </div>
         </div>
 </div>
@@ -323,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 11:10 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 12:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
