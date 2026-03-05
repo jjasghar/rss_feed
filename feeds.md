@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-05 00:07:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-05 01:30:52 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, March 05, 2026 - 00:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, March 05, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +103,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/889701/trump-white-house-call-of-duty-footage-iran" target="_blank">A new video from the White House mixes Call of Duty footage with actual video of Iran strikes</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-05 01:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/" target="_blank">Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-05 01:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/67f99b8323ad641f89bf3ee8/master/pass/Asus-Vivobook-14_front-view_Photo-SOURCE-Luke-Larsen.jpg" alt="These $500 Windows Laptops Show the MacBook Neo’s Competition" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -145,29 +156,20 @@
                 <span class="time">2026-03-04 22:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/889526/epic-games-google-deal-metaverse-apps" target="_blank">Epic and Google have signed a special deal for a new class of &amp;#8216;metaverse&amp;#8217; apps</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-04 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686d7dd0f31ad9f082b64555/master/pass/The%20Best%20USB%20Hubs%20for%20Connecting%20All%20Your%20Gadgets.png" alt="USB Hubs Can Save You Lots of Hassles—Here Are 5 We Like Best in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-usb-hubs/" target="_blank">USB Hubs Can Save You Lots of Hassles—Here Are 5 We Like Best in 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-04 20:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9mz1u77kjce1irf65m8.png" alt="SLAG! 🛡️ an invisble layer of protection 🔒" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/iseecodepeople/slag-an-invisble-layer-of-protection-500b" target="_blank">SLAG! 🛡️ an invisble layer of protection 🔒</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-05 01:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +215,6 @@
                 <span class="time">2026-03-04 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://deflock.org/map#map=5/37.125286/-96.284180" target="_blank">An interactive map of Flock Cams</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-04 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/04/DHS_WR_at.jpg?fit=640%2C563&amp;quality=60&amp;ssl=1" alt="DHS investigating Border Patrol&#x27;s &quot;Gruppenführer&quot; Greg Bovino for antisemitic cracks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/04/dhs-investigating-border-patrols-gruppenfuhrer-greg-bovino-for-antisemitic-cracks.html" target="_blank">DHS investigating Border Patrol&#x27;s &quot;Gruppenführer&quot; Greg Bovino for antisemitic cracks</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-05 00:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Aikido-turbine-1280x853.jpg" alt="This Startup Wants to Tuck Data Centers Beneath Offshore Wind Turbines" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +288,6 @@
                 <span class="time">2026-03-04 22:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Project-Hail-Mary-Ryan-Gosling-1280x853.jpg" alt="‘Project Hail Mary’ Used a Surprising Amount of Practical Effects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/project-hail-mary-practical-effects-green-screen-vfx-2000729741" target="_blank">‘Project Hail Mary’ Used a Surprising Amount of Practical Effects</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-04 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,22 +320,13 @@
                 <span class="time">2026-03-04 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5778.png" alt="Olympic Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5778" target="_blank">Olympic Games</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-03-04 01:14</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 00:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
