@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-05 15:14:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-05 16:13:17 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, March 05, 2026 - 15:14 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, March 05, 2026 - 16:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +106,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/889878/ikea-bluetooth-speaker-kallsup-now-available-price" target="_blank">You can now fill your home with Ikea’s cheap and tiny new Bluetooth speaker</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-05 15:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/05/match-group-coo-out-as-dating-apps-struggle-to-connect-with-gen-z/" target="_blank">Match Group COO out, as dating apps struggle to connect with Gen Z</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-05 15:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1243763764-500x500.jpg" alt="Musk testifies tweet that led to $44 billion lawsuit &quot;may not have been my wisest&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -138,29 +159,47 @@
                 <span class="time">2026-03-05 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a8b170661380d619c15741/master/pass/KEF%20Muo_Lifestyle_KEF_Muo_2025_lifestyle_image_MossGreen_Planting.jpg" alt="KEF Muo Bluetooth Speaker: Portable Hi-Fi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/kef-muo-2026/" target="_blank">KEF Muo Bluetooth Speaker: Portable Hi-Fi</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-05 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/889782/anthropic-pentagon-discussions-ai-deal" target="_blank">Anthropic makes last-ditch effort to salvage deal with Pentagon after blowup</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-05 11:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/03/05/developerweek-2026/" target="_blank">DeveloperWeek 2026: Making AI tools that are actually good</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-03-05 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/luckypipewrench/your-mcp-servers-tool-descriptions-are-an-attack-surface-37pj" target="_blank">Your MCP server&#x27;s tool descriptions are an attack surface</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-05 16:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Debian-DPL-Update-March-2026" target="_blank">Debian Still Debating AI Contributions Plus A Need For More Diverse Contributors</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-05 16:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.norn-labs.com/blog/huginn-report-feb-2026" target="_blank">Google Safe Browsing missed 84% of phishing sites we found in February</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-05 15:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -177,42 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-AMDGPU-1" target="_blank">AMD DCN 4.2 IP, GFX 12.1 Updates For AMDGPU Driver In Linux 7.1 Plus GCN 1.1 APU DC</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-05 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fucg8ahfgsta4cixclo5o.gif" alt="I built a fast, driver-less TUI for browsing PostgreSQL, with ER diagrams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/riii111_8782a7e607d04c8e8/i-built-a-fast-driver-less-tui-for-browsing-postgresql-with-er-diagrams-50k9" target="_blank">I built a fast, driver-less TUI for browsing PostgreSQL, with ER diagrams</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-05 14:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pranay_batta/best-open-source-ai-gateway-in-2026-2flb" target="_blank">Best Open Source AI Gateway in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-05 13:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18899291&w=600" alt="Autoscaling Is Not Elasticity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/autoscaling-is-not-elasticity-1" target="_blank">Autoscaling Is Not Elasticity</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-05 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="Autonomous AI in Legal Limbo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rawveg/autonomous-ai-in-legal-limbo-c5j" target="_blank">Autonomous AI in Legal Limbo</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-05 12:00</span>
             </div>
         </div>
 </div>
@@ -234,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJX5H49EKTFG9JE3SW8Z3VHD/hero-image.jpg" alt="10 Hacks Every TikTok User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tiktok-hacks?utm_medium=RSS" target="_blank">10 Hacks Every TikTok User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-05 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/IMG_2054-1280x720.jpg" alt="How To Skip Building Times In Pokémon Pokopia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +291,6 @@
                 <span class="time">2026-03-05 11:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/trump-official-photo-white-house-1280x853.jpg" alt="Former Military Officials, Academics, and Tech Policy Leaders Denounce Pentagon’s Tactics Against Anthropic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/former-military-officials-academics-and-tech-policy-leaders-denounce-pentagons-tactics-against-anthropic-2000729872" target="_blank">Former Military Officials, Academics, and Tech Policy Leaders Denounce Pentagon’s Tactics Against Anthropic</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-05 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 15:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 16:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
