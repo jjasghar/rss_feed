@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-05 16:13:17 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-03-05 17:42:57 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, March 05, 2026 - 16:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, March 05, 2026 - 17:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +49,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2026/3/5/aje-onl-tt_irn_usiranmonday_av_v1-020326?traffic_source=rss" target="_blank">‘The Truth Social war’: the US playbook for war with Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-05 17:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/05/nx-s1-5725470/trump-jan-6-pardon-sexual-abuse-prison" target="_blank">A Jan. 6 rioter pardoned by Trump was sentenced to life in prison for child sex abuse</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-05 16:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/05/south-africa-president-cyril-ramaphosa-calls-donald-trump-policy-white-afrikaners-racist" target="_blank">South Africa’s president calls Trump’s policy to offer refuge to white Afrikaners ‘racist’</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-05 16:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca8/live/ae943050-189f-11f1-801d-ed3cff6bf876.jpg" alt="First UK government flight departs Middle East after delay" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&at_campaign=rss" target="_blank">First UK government flight departs Middle East after delay</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-05 14:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/5/which-kurdish-groups-is-the-us-rallying-to-fight?traffic_source=rss" target="_blank">Which Kurdish groups is the US rallying to fight Iran?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-05 14:17</span>
@@ -64,47 +99,20 @@
                 <span class="time">2026-03-05 13:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eac/live/650adf00-1869-11f1-8f1d-d7bdb1ea156f.jpg" alt="Healey visits Cyprus after criticism of UK response to drone attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0e55y0pzgwo?at_medium=RSS&at_campaign=rss" target="_blank">Healey visits Cyprus after criticism of UK response to drone attacks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-05 13:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/sub-5-ht-gmh-260304_1772635476259_hpMain_4x3t_384.jpg" alt="Iran live updates: US torpedo attack on Iran warship &#x27;an atrocity&#x27; minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: US torpedo attack on Iran warship &#x27;an atrocity&#x27; minister says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-05 13:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/5/will-the-us-benefit-from-the-oil-crisis-sparked-by-the-war-on-iran?traffic_source=rss" target="_blank">Will the US benefit from the oil crisis sparked by the war on Iran?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-05 12:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772714469305_tdy_news_7a_simmons_americans_stranded_iran_260305_1920x1080-z1qmz1.jpg" alt="Thousands of Americans Still Stranded as Iran War Spreads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/stranded-americans-voice-concern-as-iran-war-spreads-258746437678" target="_blank">Thousands of Americans Still Stranded as Iran War Spreads</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-05 12:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/889954/roblox-ai-real-time-chat-rephrasing" target="_blank">Roblox is censoring chats with AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-05 16:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +158,6 @@
                 <span class="time">2026-03-05 13:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a8b10e7ec5e387c831c738/master/pass/The%20Best%20Gravel%20Running%20Shoes.png" alt="Best Gravel Running Shoes (2026): Salomon, Adidas, Nike" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-gravel-running-shoes/" target="_blank">Best Gravel Running Shoes (2026): Salomon, Adidas, Nike</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-05 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -180,6 +179,15 @@
                 <span class="title"><a href="https://dev.to/luckypipewrench/your-mcp-servers-tool-descriptions-are-an-attack-surface-37pj" target="_blank">Your MCP server&#x27;s tool descriptions are an attack surface</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-05 16:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.wikimediastatus.net" target="_blank">Wikipedia in read-only mode following mass admin account compromise</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-05 16:04</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +217,6 @@
                 <span class="time">2026-03-05 15:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-AMDGPU-1" target="_blank">AMD DCN 4.2 IP, GFX 12.1 Updates For AMDGPU Driver In Linux 7.1 Plus GCN 1.1 APU DC</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-05 14:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2020/09/i1lhoqlbjxk1be9gu6fh-1024x577.jpg" alt="Epic Games CEO Tim Sweeney Agrees to Put on a Muzzle Until at Least 2032" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/epic-games-ceo-tim-sweeney-agrees-to-put-on-a-muzzle-until-at-least-2032-2000730087" target="_blank">Epic Games CEO Tim Sweeney Agrees to Put on a Muzzle Until at Least 2032</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-05 17:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Apple-iPad.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This iPad is now under $100" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/05/this-ipad-is-now-under-100.html" target="_blank">This iPad is now under $100</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-05 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KJX5H49EKTFG9JE3SW8Z3VHD/hero-image.jpg" alt="10 Hacks Every TikTok User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +290,6 @@
                 <span class="time">2026-03-05 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/control3-1280x720.jpg" alt="Remedy Explains What Defines A Control Game As Its Sequels Veer Off In Wild Directions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/control-resonant-remedy-shooter-third-person-2000675970" target="_blank">Remedy Explains What Defines A Control Game As Its Sequels Veer Off In Wild Directions</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-05 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Apple-MacBook-Neo-hero-260304_big-1.jpg.large_2x-1.jpg?fit=1457%2C967&amp;quality=60&amp;ssl=1" alt="MacBook Neo: 13-inches, $599, green" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/05/macbook-neo-13-inches-599-green.html" target="_blank">MacBook Neo: 13-inches, $599, green</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-05 11:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,22 +313,13 @@
                 <span class="time">2026-03-05 02:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1772481186-20260304.png" alt="Saturday Morning Breakfast Cereal - Serve" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/serve" target="_blank">Saturday Morning Breakfast Cereal - Serve</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-03-04 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 16:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 17:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
