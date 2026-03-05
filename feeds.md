@@ -1,38 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-03-05 21:07:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-05 22:04:08 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, March 05, 2026 - 21:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, March 05, 2026 - 22:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -85,6 +91,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/05/three-men-deported-us-eswatini-legal-case-detention" target="_blank">Three men deported by US file legal case against Eswatini over detention</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-05 19:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Trump fires DHS secretary Kristi Noem: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -93,20 +108,47 @@
                 <span class="time">2026-03-05 19:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/3/5/explosions-rock-tehran-as-israel-intensifies-strikes-on-government-sites?traffic_source=rss" target="_blank">Israel, US intensify Iran strikes, targeting homes, hospitals, stadium</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-05 19:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69a887d2900eb391be83a12d/master/pass/Model-Behavior-AI-Companies-Cant-Negotiate-With-Pentagon-Business.jpg" alt="OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/" target="_blank">OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-05 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/" target="_blank">AWS launches a new AI agent platform specifically for health care</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-05 21:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/streaming/890312/roku-roklue-trivia-game" target="_blank">Roku&amp;#8217;s solution to streaming decision fatigue is a trivia game</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-05 21:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/xboxlisting-500x500.png" alt="MS exec: Microsoft&#x27;s next console will play &quot;Xbox and PC games&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/03/ms-exec-microsofts-next-console-will-play-xbox-and-pc-games/" target="_blank">MS exec: Microsoft&#x27;s next console will play &quot;Xbox and PC games&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-05 21:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-535059003-500x500.jpg" alt="Amazon appears to be down, with over 20,000 reported problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -123,42 +165,6 @@
                 <span class="title"><a href="https://www.theverge.com/games/890131/pokopia-pokemon-high-tech-future-3d-printer" target="_blank">Pokopia made me look at Pokémon’s high-tech future in a whole new way</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-05 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/05/x-revamps-creator-subscriptions-with-new-features-like-exclusive-threads-and-shareable-cards/" target="_blank">X revamps Creator Subscriptions with new features, like exclusive threads and shareable cards</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-05 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/boys2-500x500.jpg" alt="The Boys S5 trailer tees up a bloody final season" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/03/the-boys-s5-trailer-tees-up-a-bloody-final-season/" target="_blank">The Boys S5 trailer tees up a bloody final season</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-05 18:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/" target="_blank">EXCLUSIVE: Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-05 18:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/889954/roblox-ai-real-time-chat-rephrasing" target="_blank">Roblox is censoring chats with AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-05 16:58</span>
             </div>
         </div>
 </div>
@@ -249,12 +255,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJZP64S5AWPMXT8E85JKQ4FB/hero-image.png" alt="This Compact Samsung Soundbar/Subwoofer Combo Is on Sale for $140" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-soundbar-and-subwoofer-combo-sale-march-2026?utm_medium=RSS" target="_blank">This Compact Samsung Soundbar/Subwoofer Combo Is on Sale for $140</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-05 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1280x720.jpg" alt="Microsoft Confirms Next-Gen Xbox Is Still Happening, It’s Called Project Helix, And It’ll Play Your PC Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/xbox-project-helix-codename-next-gen-pc-games-2000676398" target="_blank">Microsoft Confirms Next-Gen Xbox Is Still Happening, It’s Called Project Helix, And It’ll Play Your PC Games</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-05 20:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/Screenshot-2025-04-02-at-6.54.39-PM-e1744214308984.png?fit=400%2C393&amp;quality=55&amp;ssl=1" alt="Both parties vote to keep congressional sex harassment files secret" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/05/both-parties-vote-to-keep-congressional-sex-harassment-files-secret.html" target="_blank">Both parties vote to keep congressional sex harassment files secret</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-05 20:34</span>
             </div>
         </div>
 <div class="story">
@@ -282,24 +306,6 @@
                 <span class="title"><a href="https://kotaku.com/pokemon-pokopia-white-pikachu-peakychu-pokedex-ghost-2000676344" target="_blank">The Backstory For Pokopia’s White Pikachu Is Super Sad</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-05 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJZDJY9NCW2E83CSZF90F0ZF/hero-image.png" alt="A Four-Pack of These Samsung Tracking Tags Is $45 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsungs-galaxy-smarttag-2-deal-march-2026?utm_medium=RSS" target="_blank">A Four-Pack of These Samsung Tracking Tags Is $45 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-05 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2020/09/i1lhoqlbjxk1be9gu6fh-1024x577.jpg" alt="Epic Games CEO Tim Sweeney Agrees to Put on a Muzzle Until at Least 2032" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/epic-games-ceo-tim-sweeney-agrees-to-put-on-a-muzzle-until-at-least-2032-2000730087" target="_blank">Epic Games CEO Tim Sweeney Agrees to Put on a Muzzle Until at Least 2032</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-05 17:25</span>
             </div>
         </div>
 </div>
@@ -339,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 288 |
-        🔄 Last Updated: 21:07 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 22:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
