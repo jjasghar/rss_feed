@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-05 14:13:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-05 15:14:14 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, March 05, 2026 - 14:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, March 05, 2026 - 15:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/5/which-kurdish-groups-is-the-us-rallying-to-fight?traffic_source=rss" target="_blank">Which Kurdish groups is the US rallying to fight Iran?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-05 14:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,21 +89,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772714469305_tdy_news_7a_simmons_americans_stranded_iran_260305_1920x1080-z1qmz1.jpg" alt="Thousands of Americans Still Stranded as Iran War Spreads" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/05/g-s1-112596/up-first-newsletter-iran-israel-us-trump-democratic-primaries-minnesota-medicaid" target="_blank">House to vote on Trump&#x27;s war powers. And, Minnesota sues over halted Medicaid funding</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-05 12:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/UAE-fire-DB-260305_1772709801941_hpMain_4x3t_384.jpg" alt="Iran live updates: Explosions in Qatar, 6 injured in UAE amid Iranian attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: Explosions in Qatar, 6 injured in UAE amid Iranian attacks</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-05 11:40</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/stranded-americans-voice-concern-as-iran-war-spreads-258746437678" target="_blank">Thousands of Americans Still Stranded as Iran War Spreads</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-05 12:41</span>
             </div>
         </div>
 </div>
@@ -107,6 +102,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1243763764-500x500.jpg" alt="Musk testifies tweet that led to $44 billion lawsuit &quot;may not have been my wisest&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/musk-testifies-tweet-that-led-to-44-billion-lawsuit-may-not-have-been-my-wisest/" target="_blank">Musk testifies tweet that led to $44 billion lawsuit &quot;may not have been my wisest&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-05 14:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +156,29 @@
                 <span class="time">2026-03-05 11:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/889768/bill-gates-terrapower-nuclear-wyoming-reactor" target="_blank">Bill Gates&amp;#8217; nuclear company is the first to get approval to build next-gen reactor</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-05 10:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-26-10/" target="_blank">FOSS Weekly #26.10: Age Verification in Linux, systemd Troubleshooting Tools, Graphene Phone, Longer Linux LTS Kernels and More</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-03-05 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-AMDGPU-1" target="_blank">AMD DCN 4.2 IP, GFX 12.1 Updates For AMDGPU Driver In Linux 7.1 Plus GCN 1.1 APU DC</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-05 14:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fucg8ahfgsta4cixclo5o.gif" alt="I built a fast, driver-less TUI for browsing PostgreSQL, with ER diagrams" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,24 +215,6 @@
                 <span class="time">2026-03-05 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/opinion/why-hate-ubuntu/" target="_blank">Why Linux Users Love to Hate Ubuntu</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-03-05 11:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/architecture-advice-process/en/headerimage/architecture-advice-process-header-1772449456246.jpg" alt="Decentralizing Architectural Decisions with the Architecture Advice Process" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/architecture-advice-process/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Decentralizing Architectural Decisions with the Architecture Advice Process</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-05 11:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/IMG_2054-1280x720.jpg" alt="How To Skip Building Times In Pokémon Pokopia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-pokopia-building-wait-times-skip-switch-2-clock-2000676252" target="_blank">How To Skip Building Times In Pokémon Pokopia</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-05 14:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/MS0304-the-batman-robert-pattinson-1280x853.jpg" alt="It’s Time For Even More Outlandish ‘The Batman, Part II’ Casting Rumors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +288,6 @@
                 <span class="time">2026-03-05 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/10/shutterstock_33885607-e1740688660250.jpg?fit=1080%2C771&amp;quality=60&amp;ssl=1" alt="Watch a trailered sailboat execute a four-lane change and jump the median" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/04/watch-a-trailered-sailboat-execute-a-four-lane-change-and-jump-the-median.html" target="_blank">Watch a trailered sailboat execute a four-lane change and jump the median</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-05 01:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 14:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 15:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
