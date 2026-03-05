@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-05 17:42:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-05 18:31:59 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, March 05, 2026 - 17:43 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, March 05, 2026 - 18:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/05/nx-s1-5735682/atlanta-half-marathon-world-championship-mcclain-born-hurley-kurgat" target="_blank">They were led off course in a big race. But a fix is more complicated than prize money</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-05 18:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +98,20 @@
                 <span class="time">2026-03-05 14:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/sport/2026/mar/05/lewis-hamilton-race-africa-grand-prix-retiring-formula-one-colonial" target="_blank">Lewis Hamilton sets sights on racing in an African grand prix before retiring</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-05 13:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/" target="_blank">EXCLUSIVE: Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-05 18:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +157,38 @@
                 <span class="time">2026-03-05 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/05/how-1000-customer-calls-shaped-a-breakout-enterprise-ai-startup/" target="_blank">How 1,000+ customer calls shaped a breakout enterprise AI startup</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-05 13:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2Fca83f532-6d1c-4809-a6b0-eb49fc879e31" alt="JavaScript Operators: The Basics You Need to Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/subhrangsu90/javascript-operators-the-basics-you-need-to-know-4koi" target="_blank">JavaScript Operators: The Basics You Need to Know</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-05 18:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18897966&w=600" alt="Consensus in Distributed Systems: Understanding the Raft Algorithm" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/understanding-raft-consensus-algorithm" target="_blank">Consensus in Distributed Systems: Understanding the Raft Algorithm</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-05 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/developer-skills/career-growth/scaling-ai-opportunity-across-the-globe-learnings-from-github-and-andela/" target="_blank">Scaling AI opportunity across the globe: Learnings from GitHub and Andela</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-03-05 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,33 +216,6 @@
                 <span class="time">2026-03-05 16:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Debian-DPL-Update-March-2026" target="_blank">Debian Still Debating AI Contributions Plus A Need For More Diverse Contributors</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-05 16:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.norn-labs.com/blog/huginn-report-feb-2026" target="_blank">Google Safe Browsing missed 84% of phishing sites we found in February</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-05 15:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-26-10/" target="_blank">FOSS Weekly #26.10: Age Verification in Linux, systemd Troubleshooting Tools, Graphene Phone, Longer Linux LTS Kernels and More</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-03-05 15:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/pokemon-pokopia-peakychu-variant.jpg" alt="The Backstory For Pokopia’s White Pikachu Is Super Sad" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-pokopia-white-pikachu-peakychu-pokedex-ghost-2000676344" target="_blank">The Backstory For Pokopia’s White Pikachu Is Super Sad</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-05 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJZDJY9NCW2E83CSZF90F0ZF/hero-image.png" alt="A Four-Pack of These Samsung Tracking Tags Is $45 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsungs-galaxy-smarttag-2-deal-march-2026?utm_medium=RSS" target="_blank">A Four-Pack of These Samsung Tracking Tags Is $45 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-05 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2020/09/i1lhoqlbjxk1be9gu6fh-1024x577.jpg" alt="Epic Games CEO Tim Sweeney Agrees to Put on a Muzzle Until at Least 2032" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,29 +289,20 @@
                 <span class="time">2026-03-05 14:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/MS0304-the-batman-robert-pattinson-1280x853.jpg" alt="It’s Time For Even More Outlandish ‘The Batman, Part II’ Casting Rumors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/batman-part-2-harvey-dent-father-daniel-craig-liam-neeson-2000729821" target="_blank">It’s Time For Even More Outlandish ‘The Batman, Part II’ Casting Rumors</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-05 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01J18F8YP5JAGB28DQE70HGBJ5/hero-image.png" alt="How to Use the ‘80/20’ Rule for Running" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/how-to-use-80-20-rule-for-running?utm_medium=RSS" target="_blank">How to Use the ‘80/20’ Rule for Running</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-05 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1772678238-20260305.png" alt="Saturday Morning Breakfast Cereal - Wow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/wow-3" target="_blank">Saturday Morning Breakfast Cereal - Wow</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-05 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5779.png" alt="Medalists" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -318,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 17:43 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 18:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
