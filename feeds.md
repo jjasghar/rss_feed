@@ -1,18 +1,19 @@
-<!-- Processing 54 RSS feeds at 2026-03-04 23:05:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-05 00:07:49 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
@@ -22,16 +23,18 @@
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, March 04, 2026 - 23:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, March 05, 2026 - 00:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/4/death-toll-in-iran-surpasses-1000-as-israel-us-strikes-continue?traffic_source=rss" target="_blank">Death toll in Iran surpasses 1,000 as Israel-US strikes continue</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-04 23:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +104,20 @@
                 <span class="time">2026-03-04 19:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b12a/live/f0f206b0-17ec-11f1-9c51-afc92387d880.jpg" alt="Sisters drowned after paddle at national park beauty spot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1d66xp5e5wo?at_medium=RSS&at_campaign=rss" target="_blank">Sisters drowned after paddle at national park beauty spot</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-04 19:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67f99b8323ad641f89bf3ee8/master/pass/Asus-Vivobook-14_front-view_Photo-SOURCE-Luke-Larsen.jpg" alt="These $500 Windows Laptops Show the MacBook Neo’s Competition" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/asus-vivobook-14-deal-macbook-neo/" target="_blank">These $500 Windows Laptops Show the MacBook Neo’s Competition</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-04 23:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69a72224fed0d8b129f5a806/master/pass/Grammarly-Making-LLMs-Based-on-Dead-Academics-Culture-1473977398.jpg" alt="Grammarly Is Offering ‘Expert’ AI Reviews From Your Favorite Authors—Dead or Alive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -113,6 +125,15 @@
                 <span class="title"><a href="https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/" target="_blank">Grammarly Is Offering ‘Expert’ AI Reviews From Your Favorite Authors—Dead or Alive</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-03-04 22:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/" target="_blank">Anthropic CEO Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies,’ report says</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-04 22:40</span>
             </div>
         </div>
 <div class="story">
@@ -142,29 +163,20 @@
                 <span class="time">2026-03-04 20:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/04/google-settles-with-epic-games-drops-its-play-store-commissions-to-20/" target="_blank">Google settles with Epic Games, drops its Play Store commissions to 20%</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-04 20:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/04/u-s-and-eu-police-shut-down-leakbase-a-site-accused-of-sharing-stolen-passwords-and-hacking-tools/" target="_blank">U.S. and EU police shut down LeakBase, a site accused of sharing stolen passwords and hacking tools</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-04 19:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/the_seventeen/run-your-dev-server-without-a-env-file-1jda" target="_blank">Run Your Dev Server Without a .env File</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-05 00:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +222,6 @@
                 <span class="time">2026-03-04 18:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://deflock.org/map#map=5/37.125286/-96.284180" target="_blank">An interactive map of FLock Cams</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-04 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +242,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Aikido-turbine-1280x853.jpg" alt="This Startup Wants to Tuck Data Centers Beneath Offshore Wind Turbines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-startup-wants-to-tuck-data-centers-beneath-offshore-wind-turbines-2000729795" target="_blank">This Startup Wants to Tuck Data Centers Beneath Offshore Wind Turbines</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-05 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-04 23:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/highguardsa-1280x722.jpg" alt="‘Skeleton Crew’ Crunches On Highguard‘s Biggest Update Ever Just Days Before Shutdown As Director Battles Conspiracy Theories" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/highguard-final-update-shutdown-concord-toxic-2000675964" target="_blank">‘Skeleton Crew’ Crunches On Highguard‘s Biggest Update Ever Just Days Before Shutdown As Director Battles Conspiracy Theories</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-04 23:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/GettyImages-2060647671-1280x853.jpg" alt="ChatGPT Health Underestimates Medical Emergencies, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -248,48 +278,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Vampirella.jpg?fit=1200%2C794&amp;quality=60&amp;ssl=1" alt="Frazetta painted the clothes off Vampirella, sold the result for $3.1M" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/04/frazetta-painted-the-clothes-off-vampirella-sold-the-result-for-3-1m.html" target="_blank">Frazetta painted the clothes off Vampirella, sold the result for $3.1M</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-04 22:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Project-Hail-Mary-Ryan-Gosling-1280x853.jpg" alt="‘Project Hail Mary’ Used a Surprising Amount of Practical Effects" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/project-hail-mary-practical-effects-green-screen-vfx-2000729741" target="_blank">‘Project Hail Mary’ Used a Surprising Amount of Practical Effects</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-04 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJXB4QRPG6W5D046P5H13AF7/hero-image.jpg" alt="The MacBook Neo Is Here to Disrupt the Personal Computing Market" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/the-macbook-neo-could-disrupt-the-personal-computing-market?utm_medium=RSS" target="_blank">The MacBook Neo Is Here to Disrupt the Personal Computing Market</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-04 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/knight-of-the-seven-kingdoms-valarr-targaryen-1280x853.jpg" alt="The Plague That Changed the Course of ‘Game of Thrones’ History" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/knight-of-the-seven-kingdoms-great-spring-sickness-explained-game-of-thrones-2000729556" target="_blank">The Plague That Changed the Course of ‘Game of Thrones’ History</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-04 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJX6R05BX7AG4H5ZW9FHSE45/hero-image.png" alt="Walmart Has a Preorder Deal on the New M4 iPad Air" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/ipad-air-m4-preorder-deal-march-2026?utm_medium=RSS" target="_blank">Walmart Has a Preorder Deal on the New M4 iPad Air</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-04 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/morncheckbungie-1280x720.jpg" alt="Marathon Is Already Trailing Behind Arc Raiders, Says Analyst" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marathon-is-already-trailing-behind-arc-raiders-says-analyst-2000675903" target="_blank">Marathon Is Already Trailing Behind Arc Raiders, Says Analyst</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-04 19:16</span>
             </div>
         </div>
 </div>
@@ -338,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 23:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 00:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
