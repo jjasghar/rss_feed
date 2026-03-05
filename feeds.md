@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-05 09:10:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-05 10:10:43 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Error processing https://www.phoronix.com/rss.php: The read operation timed out -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, March 05, 2026 - 09:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, March 05, 2026 - 10:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/05/nx-s1-5736120/tariff-refunds-wall-street-trade" target="_blank">Wall Street is betting on tariff refunds after Supreme Court ruling</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-05 10:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/5/iran-denies-firing-missile-towards-turkiye-after-nato-interception?traffic_source=rss" target="_blank">Iran denies firing missile towards Turkiye after NATO interception</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-05 06:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/5/canada-pm-carney-says-unable-to-rule-out-military-role-in-iran-war?traffic_source=rss" target="_blank">Canada PM Carney says unable to rule out military role in Iran war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-05 04:44</span>
             </div>
         </div>
 </div>
@@ -163,6 +167,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/boutetnico/whois-is-dead-i-built-an-api-for-what-replaces-it-3gje" target="_blank">WHOIS is dead, I built an API for what replaces it</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-05 10:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/cloudflare-crawler/en/headerimage/generatedHeaderImage-1772581053627.jpg" alt="Cloudflare Debuts Markdown for Agents and Content Signals to Guide AI Crawlers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/cloudflare-crawler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Debuts Markdown for Agents and Content Signals to Guide AI Crawlers</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-05 07:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzh8pvh4uwilyxg1b8trq.png" alt="How I Prepare for Software Engineering Interviews in 6 Days (Without Burning Out)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,24 +220,6 @@
                 <span class="time">2026-03-05 04:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVMe-RAID-Replace-March-2026" target="_blank">Notice: Brief Downtime Expected Overnight</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-05 02:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9mz1u77kjce1irf65m8.png" alt="SLAG! 🛡️ an invisble layer of protection 🔒" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/iseecodepeople/slag-an-invisble-layer-of-protection-500b" target="_blank">SLAG! 🛡️ an invisble layer of protection 🔒</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-05 01:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/trump-official-photo-white-house-1280x853.jpg" alt="Former Military Officials, Academics, and Tech Policy Leaders Denounce Pentagon’s Tactics Against Anthropic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/former-military-officials-academics-and-tech-policy-leaders-denounce-pentagons-tactics-against-anthropic-2000729872" target="_blank">Former Military Officials, Academics, and Tech Policy Leaders Denounce Pentagon’s Tactics Against Anthropic</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-05 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/10/shutterstock_33885607-e1740688660250.jpg?fit=1080%2C771&amp;quality=60&amp;ssl=1" alt="Watch a trailered sailboat execute a four-lane change and jump the median" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +293,6 @@
                 <span class="time">2026-03-04 23:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/GettyImages-2060647671-1280x853.jpg" alt="ChatGPT Health Underestimates Medical Emergencies, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/chatgpt-health-underestimates-medical-emergencies-study-finds-2000729137" target="_blank">ChatGPT Health Underestimates Medical Emergencies, Study Finds</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-04 22:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 09:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 10:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
