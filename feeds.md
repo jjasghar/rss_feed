@@ -1,37 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-03-06 03:44:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-06 04:30:37 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, March 06, 2026 - 03:44 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, March 06, 2026 - 04:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/6/us-house-joins-senate-to-vote-down-war-powers-resolution?traffic_source=rss" target="_blank">US House joins Senate to vote down war powers resolution</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-06 03:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260305-trump-miami-vsb-2038-f20720.jpg" alt="Trump says he wants Iran&#x27;s leadership structure gone and has preferences for a &#x27;good leader&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/wants-iran-leadership-structure-gone-preference-good-leader-rcna262039" target="_blank">Trump says he wants Iran&#x27;s leadership structure gone and has preferences for a &#x27;good leader&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-06 03:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,39 +91,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca8/live/ae943050-189f-11f1-801d-ed3cff6bf876.jpg" alt="First UK government flight from Middle East lands at Stansted Airport" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&at_campaign=rss" target="_blank">First UK government flight from Middle East lands at Stansted Airport</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-06 01:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-6-gty-gmh-260305_1772748734424_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump offers immunity or &#x27;guaranteed death&#x27; to Iranian forces" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: Trump offers immunity or &#x27;guaranteed death&#x27; to Iranian forces</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-06 00:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/6/us-says-iran-missile-attacks-down-90-after-strikes-from-b-2-bombers?traffic_source=rss" target="_blank">US says Iran missile attacks down 90% after strikes from B-2 bombers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-06 00:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772756807866_nn_palexander_noemfired_260305_1920x1080-6g4qjs.jpg" alt="Trump fires DHS Secretary Kristi Noem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-fires-dhs-secretary-kristi-noem-258789445976" target="_blank">Trump fires DHS Secretary Kristi Noem</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-06 00:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/05/nx-s1-5732929/tylenol-pregnant-women-autism-trump-warning" target="_blank">Pregnant women in ERs took less Tylenol after Trump autism warning</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-05 23:32</span>
             </div>
         </div>
 </div>
@@ -166,6 +173,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shajam/what-can-we-learn-from-me-central-1-region-outage-n9a" target="_blank">What can we learn from me-central-1 region outage</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-06 04:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/age-verification-pandemic/" target="_blank">Age Verification Laws Are Multiplying Like a Virus, and Your Linux Computer Might be Next</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-03-06 03:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wayland-1.25-RC1" target="_blank">Wayland 1.25 RC1 Released With Improved Documentation, Minor Changes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-06 02:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fve0yjzlshlcdqrp2eppl.png" alt="Which Framework to use for Making eLearning Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -190,33 +224,6 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-march-6-2026-red-hat" target="_blank">Friday Five — March 6, 2026</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-06 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/robertatkinson3570/i-built-a-docsend-competitor-in-weeks-using-claude-code-i69" target="_blank">I built a DocSend competitor in weeks using Claude Code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-05 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/System76-Age-Verification-Laws" target="_blank">System76 Comments On Recent Age Verification Laws</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-05 22:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://ocramz.github.io/posts/2026-03-05-ascend.html" target="_blank">ascend : run Python functions on Kubernetes</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-05 21:06</span>
             </div>
         </div>
 </div>
@@ -307,6 +314,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5780.png" alt="Into The Drink" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5780" target="_blank">Into The Drink</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-03-06 02:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1772678238-20260305.png" alt="Saturday Morning Breakfast Cereal - Wow" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -315,22 +331,13 @@
                 <span class="time">2026-03-05 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5779.png" alt="Medalists" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5779" target="_blank">Medalists</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-03-05 03:46</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 03:44 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 04:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
