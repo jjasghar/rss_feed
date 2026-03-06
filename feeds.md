@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-03-06 20:03:54 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-03-06 21:04:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, March 06, 2026 - 20:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, March 06, 2026 - 21:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Pres. Clinton speaks at Jesse Jackson memorial service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Pres. Clinton speaks at Jesse Jackson memorial service</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-06 20:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +95,38 @@
                 <span class="time">2026-03-06 17:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/6/israel-extending-gaza-playbook-to-lebanon-charity-warns?traffic_source=rss" target="_blank">Israel extending ‘Gaza playbook’ to Lebanon, charity warns</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-06 16:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews" target="_blank">Grammarly is using our identities without permission</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-06 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/06/osha-probing-fatality-at-rivian-warehouse/" target="_blank">OSHA probing fatality at Rivian warehouse</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-06 20:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/10/maxresdefault-500x500.jpg" alt="Google&#x27;s new command line tool can plug OpenClaw into your Workspace data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/03/googles-new-command-line-tool-can-plug-openclaw-into-your-workspace-data/" target="_blank">Google&#x27;s new command line tool can plug OpenClaw into your Workspace data</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-06 19:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,38 +154,29 @@
                 <span class="time">2026-03-06 18:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69aa57fa133f03206e0ed537/master/pass/The%20Best%20Android%20Phones%20-%202.png" alt="9 Best Android Phones of 2026, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-android-phones/" target="_blank">9 Best Android Phones of 2026, Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-06 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/" target="_blank">Claude’s consumer growth surge continues after Pentagon deal debacle</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-06 17:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/890389/apple-ipad-air-m4-xbox-wireless-controller-deal-sale" target="_blank">You can already save up to $50 on the new M4 iPad Air</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-06 17:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18926392&w=600" alt="2026 Developer Research Report" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/2026-developer-research-report" target="_blank">2026 Developer Research Report</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-06 20:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.adaic.org/ada-resources/standards/ada22/" target="_blank">Ada 2022</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-06 20:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18908127&w=600" alt="Modern State Management: Signals, Observables, and Server Components" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,24 +213,6 @@
                 <span class="time">2026-03-06 17:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://twitter.com/JosephPolitano/status/2029916364664611242" target="_blank">Tech employment now significantly worse than the 2008 or 2020 recessions</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-06 17:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/ubuntu-2604-search-overview-1.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 LTS adds Snap and web search to the Overview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ubuntu-2604-gnome-search-extensions" target="_blank">Ubuntu 26.04 LTS adds Snap and web search to the Overview</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-06 17:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/08/7e7957bd9d578d0ea5990cb5e1cd7bce-1280x720.jpg" alt="Major Fortnite Leaker Actually Worked For Epic Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fortnite-leak-epic-games-adirafn-south-park-2000676751" target="_blank">Major Fortnite Leaker Actually Worked For Epic Games</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-06 20:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KK2B44HHQMG39S3F0GQ7X874/hero-image.png" alt="This Handheld Atari Console Comes With 200 Old-School Games, and It&#x27;s $50 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/retro-atari-gaming-handheld-deal-march-2026?utm_medium=RSS" target="_blank">This Handheld Atari Console Comes With 200 Old-School Games, and It&#x27;s $50 Off</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-06 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Bruce-Willis-Armageddon-1280x853.jpg" alt="The Author Behind ‘The Social Network’ Has an Asteroid Movie Coming Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,24 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/sec-settles-case-against-investor-in-trump-linked-crypto-projects-amid-pay-to-play-allegations-2000730615" target="_blank">SEC Settles Case Against Investor in Trump-Linked Crypto Projects Amid Pay-to-Play Allegations</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-06 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/tylenol-1280x853.jpg" alt="Trump and RFK Jr. Told Pregnant Women to Stop Using Tylenol. It’s Happening" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-and-rfk-jr-told-pregnant-women-to-stop-using-tylenol-its-happening-2000730622" target="_blank">Trump and RFK Jr. Told Pregnant Women to Stop Using Tylenol. It’s Happening</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-06 17:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/streamers.jpg" alt="Kalshi Reportedly Paid 15-Year-Old Gamer To Promote Online Betting Until Its Legal Department Said Please Don’t" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kalshi-polymarket-betting-draftkings-2000676656" target="_blank">Kalshi Reportedly Paid 15-Year-Old Gamer To Promote Online Betting Until Its Legal Department Said Please Don’t</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-06 16:59</span>
             </div>
         </div>
 </div>
@@ -367,8 +359,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 20:04 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 21:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
