@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-06 19:12:16 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-06 20:03:54 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, March 06, 2026 - 19:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, March 06, 2026 - 20:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/6/messi-criticised-for-applauding-trump-amid-us-attacks-on-iran?traffic_source=rss" target="_blank">Messi criticised for applauding Trump amid US attacks on Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-06 19:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Pres. Obama speaks at Jesse Jackson memorial service: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Pres. Obama speaks at Jesse Jackson memorial service: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-06 19:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +103,20 @@
                 <span class="time">2026-03-06 16:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/06/nx-s1-5727603/farc-colombia-election" target="_blank">From guns to ballots: FARC&#x27;s campaign for votes in Colombia</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-06 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/06/nx-s1-5732793/college-student-perspective-using-ai-in-class" target="_blank">A college student&#x27;s perspective on using AI in class</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-06 15:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/" target="_blank">Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-06 19:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +162,29 @@
                 <span class="time">2026-03-06 17:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/06/social-media-ban-children-countries-list/" target="_blank">These are the countries moving to ban social media for children</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-06 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18908127&w=600" alt="Modern State Management: Signals, Observables, and Server Components" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/signals-vs-observables-vs-server-components" target="_blank">Modern State Management: Signals, Observables, and Server Components</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-06 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GTK-4.22-Released" target="_blank">GTK 4.22 Released With Improved SVG Support, Reduced Motion Option</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-06 19:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/03/agents-context-file-value-review/en/headerimage/generatedHeaderImage-1772736779089.jpg" alt="New Research Reassesses the Value of AGENTS.md Files for AI Coding" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -180,39 +204,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://twitter.com/JosephPolitano/status/2029916364664611242" target="_blank">Tech employment now significantly worse than the 2008 or 2020 recessions</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-06 17:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/ubuntu-2604-search-overview-1.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 LTS adds Snap and web search to the Overview" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ubuntu-2604-gnome-search-extensions" target="_blank">Ubuntu 26.04 LTS adds Snap and web search to the Overview</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-03-06 17:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rajat10/why-we-dont-use-socket-connections-for-everything-3j6g" target="_blank">Why We Don&#x27;t Use Socket Connections for Everything</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-06 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/selfhostingsh/navidrome-vs-emby-which-music-server-should-you-self-host-4ppj" target="_blank">Navidrome vs Emby: Which Music Server Should You Self-Host?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-06 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/doordash-dasherglobal-onboarding/en/headerimage/dasherunifiedarch-1772084926728.jpeg" alt="Architecting for Global Scale: Inside DoorDash’s Unified, Composable Dasher Onboarding Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/doordash-dasherglobal-onboarding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Architecting for Global Scale: Inside DoorDash’s Unified, Composable Dasher Onboarding Platform</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-06 15:00</span>
             </div>
         </div>
 </div>
@@ -244,12 +250,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Bruce-Willis-Armageddon-1280x853.jpg" alt="The Author Behind ‘The Social Network’ Has an Asteroid Movie Coming Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-author-behind-the-social-network-has-an-asteroid-movie-coming-out-2000730674" target="_blank">The Author Behind ‘The Social Network’ Has an Asteroid Movie Coming Out</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-06 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/lawyermario-1280x720.jpg" alt="Nintendo Suing United States Govt. Over Trump Tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/nintendo-suing-united-states-govt-over-trump-tariffs-2000676696" target="_blank">Nintendo Suing United States Govt. Over Trump Tariffs</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-06 18:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JJSQ0P8EAHN1MFH0GC3MV7H9/hero-image.png" alt="These Bose Ultra Open Earbuds Are $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/bose-ultra-open-earbuds-deal-march-2026?utm_medium=RSS" target="_blank">These Bose Ultra Open Earbuds Are $100 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-06 18:30</span>
             </div>
         </div>
 <div class="story">
@@ -279,29 +303,20 @@
                 <span class="time">2026-03-06 16:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/peanuts-1280x853.jpg" alt="Scientists Find a Built-In Weapon Against Peanut Allergies: Human Spit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/scientists-find-a-built-in-weapon-against-peanut-allergies-human-spit-2000730392" target="_blank">Scientists Find a Built-In Weapon Against Peanut Allergies: Human Spit</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-06 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/IMG_2058-1280x720.jpg" alt="Fans Are Obsessed With All Of The Neat Little Ways Pokémon Interact In Pokopia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-pokopia-interactions-conversations-switch-2-2000676652" target="_blank">Fans Are Obsessed With All Of The Neat Little Ways Pokémon Interact In Pokopia</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-06 15:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/06/once-upon-a-galaxy" target="_blank">Once Upon a Galaxy!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-06 19:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -352,8 +367,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 19:12 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 20:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
