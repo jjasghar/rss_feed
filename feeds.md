@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-05 23:21:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-06 00:12:40 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, March 05, 2026 - 23:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, March 06, 2026 - 00:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/05/nx-s1-5732929/tylenol-pregnant-women-autism-trump-warning" target="_blank">Pregnant women in ERs took less Tylenol after Trump autism warning</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-05 23:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/5/suspected-iranian-missile-debris-ignites-fires-in-central-israel?traffic_source=rss" target="_blank">Suspected Iranian missile debris ignites fires in central Israel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-05 23:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/5/sri-lanka-evacuates-crew-of-second-iranian-vessel-after-us-sunk-iris-dena?traffic_source=rss" target="_blank">Sri Lanka evacuates crew of second Iranian vessel after US sunk IRIS Dena</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-05 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/05/nx-s1-5667546/kristi-noem-homeland-security-fired" target="_blank">Trump fires Kristi Noem as DHS chief, names Sen. Markwayne Mullin to replace her</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-05 19:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/05/three-men-deported-us-eswatini-legal-case-detention" target="_blank">Three men deported by US file legal case against Eswatini over detention</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-05 19:17</span>
             </div>
         </div>
 </div>
@@ -249,6 +244,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/horizon-worlds-1280x853.jpg" alt="Please Just Let the Metaverse Go" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/please-just-let-the-metaverse-go-2000730281" target="_blank">Please Just Let the Metaverse Go</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-05 23:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Lightspeed_io9_March2026-2-1280x853.jpg" alt="‘Girl Dinner’ Takes on a Deliciously Grisly New Meaning in This Speculative Short Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -293,15 +297,6 @@
                 <span class="time">2026-03-05 20:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/Screenshot-2025-04-02-at-6.54.39-PM-e1744214308984.png?fit=400%2C393&amp;quality=55&amp;ssl=1" alt="Both parties vote to keep congressional sex harassment files secret" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/05/both-parties-vote-to-keep-congressional-sex-harassment-files-secret.html" target="_blank">Both parties vote to keep congressional sex harassment files secret</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-05 20:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -339,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 23:21 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 00:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
