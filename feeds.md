@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-06 06:10:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-06 07:13:53 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, March 06, 2026 - 06:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, March 06, 2026 - 07:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/06/nx-s1-5738955/gonzales-texas-ends-reelection-bid-affair-aide" target="_blank">GOP Rep. Tony Gonzales of Texas ends reelection bid after admitting to affair with aide</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-06 06:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/6/sudanese-army-retakes-bara-secures-el-obeid-in-north-kordofan?traffic_source=rss" target="_blank">Sudanese army retakes Bara, secures el-Obeid in North Kordofan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-06 06:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7632/live/a8071190-1911-11f1-b048-c9424b2cf5fd.jpg" alt="Passengers describe &#x27;surreal&#x27; scramble to reach first government flight out of Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,24 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/05/nx-s1-5737562/justice-department-missing-epstein-files-trump" target="_blank">Justice Department publishes some missing Epstein files related to Trump</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-06 03:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/hegseth-speaking-01-ht-jt-260305_1772751401272_hpMain_4x3t_384.jpg" alt="Hegseth says US has enough munitions to continue Iran war &#x27;as long as we need to&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/hegseth-us-munitions-continue-iran-war-long/story?id=130806959" target="_blank">Hegseth says US has enough munitions to continue Iran war &#x27;as long as we need to&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-06 01:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca8/live/ae943050-189f-11f1-801d-ed3cff6bf876.jpg" alt="First UK government flight from Middle East lands at Stansted Airport" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&at_campaign=rss" target="_blank">First UK government flight from Middle East lands at Stansted Airport</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-06 01:30</span>
             </div>
         </div>
 </div>
@@ -161,6 +168,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/03/06/building-brains-for-bulldozers/" target="_blank">Building brains for bulldozers</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-03-06 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftyhpsp64tbtlbz8m28de.png" alt="Open Source Project of the Day (Part 7): UI/UX Pro Max Skill - AI Design Intelligence for Building Professional UI/UX" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wonderlab/open-source-project-of-the-day-part-7-uiux-pro-max-skill-ai-design-intelligence-for-building-4bd5" target="_blank">Open Source Project of the Day (Part 7): UI/UX Pro Max Skill - AI Design Intelligence for Building Professional UI/UX</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-06 07:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxkionpfz2ie87lv4xt36.png" alt="What is Engineer persona?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -194,24 +219,6 @@
                 <span class="title"><a href="https://itsfoss.com/news/age-verification-pandemic/" target="_blank">Age Verification Laws Are Multiplying Like a Virus, and Your Linux Computer Might be Next</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-03-06 03:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wayland-1.25-RC1" target="_blank">Wayland 1.25 RC1 Released With Improved Documentation, Minor Changes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-06 02:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fve0yjzlshlcdqrp2eppl.png" alt="Which Framework to use for Making eLearning Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zimlearn/which-framework-to-use-for-making-elearning-apps-51p" target="_blank">Which Framework to use for Making eLearning Apps</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-06 02:45</span>
             </div>
         </div>
 </div>
@@ -324,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 06:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 07:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
