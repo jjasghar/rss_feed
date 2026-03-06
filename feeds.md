@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-06 02:53:16 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-06 03:44:12 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, March 06, 2026 - 02:53 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, March 06, 2026 - 03:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/05/nx-s1-5737562/justice-department-missing-epstein-files-trump" target="_blank">Justice Department publishes some missing Epstein files related to Trump</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-06 03:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/hegseth-speaking-01-ht-jt-260305_1772751401272_hpMain_4x3t_384.jpg" alt="Hegseth says US has enough munitions to continue Iran war &#x27;as long as we need to&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,20 +101,20 @@
                 <span class="time">2026-03-05 23:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/5/suspected-iranian-missile-debris-ignites-fires-in-central-israel?traffic_source=rss" target="_blank">Suspected Iranian missile debris ignites fires in central Israel</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-05 23:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/" target="_blank">Anthropic to challenge DOD’s supply-chain label in court</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-06 01:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +158,6 @@
                 <span class="title"><a href="https://www.wired.com/story/every-country-directly-impacted-by-the-war-on-iran/" target="_blank">Here’s Every Country Directly Impacted by the War on Iran</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-03-05 22:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a887d2900eb391be83a12d/master/pass/Model-Behavior-AI-Companies-Cant-Negotiate-With-Pentagon-Business.jpg" alt="OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/" target="_blank">OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-05 22:00</span>
             </div>
         </div>
 </div>
@@ -331,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 02:53 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 03:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
