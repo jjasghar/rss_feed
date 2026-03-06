@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-06 16:06:57 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-06 17:10:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, March 06, 2026 - 16:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, March 06, 2026 - 17:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/6/israel-extending-gaza-playbook-to-lebanon-charity-warns?traffic_source=rss" target="_blank">Israel extending ‘Gaza playbook’ to Lebanon, charity warns</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-06 16:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/06/nx-s1-5727603/farc-colombia-election" target="_blank">From guns to ballots: FARC&#x27;s campaign for votes in Colombia</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-06 16:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +103,20 @@
                 <span class="time">2026-03-06 14:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-6-gty-gmh-260305_1772748734424_hpMain_4x3t_384.jpg" alt="Iran live updates: US ramping up strikes on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: US ramping up strikes on Iran</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-06 13:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/6/al-aqsa-compound-empty-as-israel-restricts-access-to-holy-sites?traffic_source=rss" target="_blank">Al-Aqsa compound empty as Israel restricts access to holy sites</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-06 12:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/890389/apple-ipad-air-m4-xbox-wireless-controller-deal-sale" target="_blank">You can already save up to $50 on the new M4 iPad Air</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-06 17:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +162,20 @@
                 <span class="time">2026-03-06 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2208185431-500x500-1772751881.jpg" alt="Tech industry is in tariff hell, even if refunds are automated" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/tech-industry-is-in-tariff-hell-even-if-refunds-are-automated/" target="_blank">Tech industry is in tariff hell, even if refunds are automated</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-06 12:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rajat10/why-we-dont-use-socket-connections-for-everything-3j6g" target="_blank">Why We Don&#x27;t Use Socket Connections for Everything</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-06 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,20 +221,20 @@
                 <span class="time">2026-03-06 14:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18900360&w=600" alt="Fabric&#x27;s Resource Governance and Scaling Pitfalls" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/fabrics-resource-governance-and-scaling-pitfalls" target="_blank">Fabric&#x27;s Resource Governance and Scaling Pitfalls</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-06 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/anthropic-and-the-pentagon.html" target="_blank">Anthropic and the Pentagon</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-03-06 17:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -245,6 +258,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/tylenol-1280x853.jpg" alt="Trump and RFK Jr. Told Pregnant Women to Stop Using Tylenol. It’s Happening" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-and-rfk-jr-told-pregnant-women-to-stop-using-tylenol-its-happening-2000730622" target="_blank">Trump and RFK Jr. Told Pregnant Women to Stop Using Tylenol. It’s Happening</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-06 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/streamers.jpg" alt="Kalshi Reportedly Paid 15-Year-Old Gamer To Promote Online Betting Until Its Legal Department Said Please Don’t" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kalshi-polymarket-betting-draftkings-2000676656" target="_blank">Kalshi Reportedly Paid 15-Year-Old Gamer To Promote Online Betting Until Its Legal Department Said Please Don’t</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-06 16:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/peanuts-1280x853.jpg" alt="Scientists Find a Built-In Weapon Against Peanut Allergies: Human Spit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,29 +312,20 @@
                 <span class="time">2026-03-06 14:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/IMG_2059-1280x720.jpg" alt="You Can Cheat Your Way To Playing Pokémon Pokopia’s First Event Early" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-pokopia-hoppip-skiploom-jumpluff-event-early-access-2000676632" target="_blank">You Can Cheat Your Way To Playing Pokémon Pokopia’s First Event Early</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-06 14:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KK16TD4HX6PAJVVJ1R6Q5JZY/hero-image.png" alt="These Bowers &amp; Wilkins ANC Headphones Are Nearly 60% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/bowers-wilkins-px7-s2-anc-headphones-sale-march-2026?utm_medium=RSS" target="_blank">These Bowers &amp; Wilkins ANC Headphones Are Nearly 60% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-06 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1772766658-20260306.png" alt="Saturday Morning Breakfast Cereal - Curses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/curses" target="_blank">Saturday Morning Breakfast Cereal - Curses</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-06 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -322,22 +344,13 @@
                 <span class="time">2026-03-06 02:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1772678238-20260305.png" alt="Saturday Morning Breakfast Cereal - Wow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/wow-3" target="_blank">Saturday Morning Breakfast Cereal - Wow</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-03-05 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 16:07 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 17:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
