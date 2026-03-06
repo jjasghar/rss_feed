@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-06 07:13:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-06 08:05:10 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, March 06, 2026 - 07:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, March 06, 2026 - 08:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/6/death-toll-in-israels-lebanon-attacks-over-120-as-beirut-south-east-hit?traffic_source=rss" target="_blank">More than 120 killed in Israel’s Lebanon attacks as Beirut, south, east hit</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-06 07:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +97,20 @@
                 <span class="time">2026-03-06 03:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/05/nx-s1-5737562/justice-department-missing-epstein-files-trump" target="_blank">Justice Department publishes some missing Epstein files related to Trump</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-06 03:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Mattress Firm Coupons and Discounts: Save Up to $600" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mattress-firm-coupon/" target="_blank">Mattress Firm Coupons and Discounts: Save Up to $600</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-06 06:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,15 +156,6 @@
                 <span class="time">2026-03-05 23:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a8d5863abb8898930d9906/master/pass/security_MiddleEastMap_GettyImages-129380269.jpg" alt="Here’s Every Country Directly Impacted by the War on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/every-country-directly-impacted-by-the-war-on-iran/" target="_blank">Here’s Every Country Directly Impacted by the War on Iran</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-05 22:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +168,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/03/06/building-brains-for-bulldozers/" target="_blank">Building brains for bulldozers</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-03-06 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3xtbf8xrukcu982rv98d.png" alt="🐾FurEver Care AI — Turning Pet Health Observations into Vet-Ready Timelines with Notion + AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/siti_aisyahmatzainal_73/furever-care-ai-turning-pet-health-observations-into-vet-ready-timelines-with-notion-ai-2n41" target="_blank">🐾FurEver Care AI — Turning Pet Health Observations into Vet-Ready Timelines with Notion + AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-06 08:00</span>
             </div>
         </div>
 <div class="story">
@@ -210,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/shajam/what-can-we-learn-from-me-central-1-region-outage-n9a" target="_blank">What can we learn from me-central-1 region outage</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-06 04:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/age-verification-pandemic/" target="_blank">Age Verification Laws Are Multiplying Like a Virus, and Your Linux Computer Might be Next</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-03-06 03:34</span>
             </div>
         </div>
 </div>
@@ -331,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 07:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 284 |
+        🔄 Last Updated: 08:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
