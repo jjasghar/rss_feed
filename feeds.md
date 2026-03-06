@@ -1,43 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-06 12:04:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-06 13:21:20 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 34 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, March 06, 2026 - 12:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, March 06, 2026 - 13:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-6-gty-gmh-260305_1772748734424_hpMain_4x3t_384.jpg" alt="Iran live updates: US ramping up strikes on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: US ramping up strikes on Iran</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-06 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/6/al-aqsa-compound-empty-as-israel-restricts-access-to-holy-sites?traffic_source=rss" target="_blank">Al-Aqsa compound empty as Israel restricts access to holy sites</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-06 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772799778843_tdy_news_7a_engel_trump_iran_next_leader_260306_1920x1080-5lav1f.jpg" alt="Trump Wants to Be Involved in Selecting Iran&#x27;s Next Leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-wants-to-be-involved-in-selecting-iran-s-next-leader-258818629627" target="_blank">Trump Wants to Be Involved in Selecting Iran&#x27;s Next Leader</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-06 12:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,38 +97,29 @@
                 <span class="time">2026-03-06 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/mar/06/generic-drugs-weight-loss-semaglutide-ozempic-wegovy-diabetes-obesity-study" target="_blank">Weight-loss jab could be made for $3 a month, study finds</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-06 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5287/live/30733120-1936-11f1-b048-c9424b2cf5fd.jpg" alt="Four arrested on suspicion of assisting Iran&#x27;s intelligence service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz6e7g96890o?at_medium=RSS&at_campaign=rss" target="_blank">Four arrested on suspicion of assisting Iran&#x27;s intelligence service</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-06 08:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/6/death-toll-in-israels-lebanon-attacks-over-120-as-beirut-south-east-hit?traffic_source=rss" target="_blank">More than 120 killed in Israel’s Lebanon attacks as Beirut, south, east hit</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-06 07:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69aa71f4cb35fa25edf8f59e/master/pass/Review-%20Corsair%20Sabre%20V2%20Carbon%20Fiber%20and%20Magnesium%20Gaming%20Mice.png" alt="Corsair Sabre V2 Carbon Fiber and Magnesium Gaming Mice Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/corsair-sabre-v2-cf-and-mg/" target="_blank">Corsair Sabre V2 Carbon Fiber and Magnesium Gaming Mice Review</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-06 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2208185431-500x500-1772751881.jpg" alt="Tech industry is in tariff hell, even if refunds are automated" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/tech-industry-is-in-tariff-hell-even-if-refunds-are-automated/" target="_blank">Tech industry is in tariff hell, even if refunds are automated</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-06 12:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,29 +156,29 @@
                 <span class="time">2026-03-06 06:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/" target="_blank">Anthropic to challenge DOD’s supply-chain label in court</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-06 01:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/" target="_blank">Anthropic to challenge DOD’s supply chain label in court</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-06 01:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwj2frce4rgg1u5foqceu.png" alt="How to Use Dremio with Claude CoWork: Connect, Query, and Build Data Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alexmercedcoder/how-to-use-dremio-with-claude-cowork-connect-query-and-build-data-apps-1mi4" target="_blank">How to Use Dremio with Claude CoWork: Connect, Query, and Build Data Apps</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-06 13:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18900332&w=600" alt="The A3 Handoff Canvas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/a3-handoff-canvas" target="_blank">The A3 Handoff Canvas</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-06 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18908054&w=600" alt="Deterministic AI With OpenSymbolicAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/shany_khan_dd47c3bb612ff3/predicting-customer-lifetime-value-clv-with-machine-learning-c8k" target="_blank">Predicting Customer Lifetime Value (CLV) with Machine Learning</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-06 11:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Oracle-Solaris-CBE-2026" target="_blank">Oracle Updates Free Solaris CBE For Open-Source Developers / Non-Production Uses</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-06 11:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/geanruca/tenant-landing-page-optimization-caching-for-performance-18nf" target="_blank">Tenant Landing Page Optimization: Caching for Performance</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-06 10:55</span>
             </div>
         </div>
 </div>
@@ -344,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 12:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 13:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
