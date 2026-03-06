@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-06 08:05:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-06 09:08:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, March 06, 2026 - 08:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, March 06, 2026 - 09:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/mar/06/generic-drugs-weight-loss-semaglutide-ozempic-wegovy-diabetes-obesity-study" target="_blank">Weight-loss jab could be made for $3 a month, study finds</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-06 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5287/live/30733120-1936-11f1-b048-c9424b2cf5fd.jpg" alt="Four arrested on suspicion of assisting Iran&#x27;s intelligence service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cz6e7g96890o?at_medium=RSS&at_campaign=rss" target="_blank">Four arrested on suspicion of assisting Iran&#x27;s intelligence service</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-06 08:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cq8gw0k0330o?at_medium=RSS&at_campaign=rss" target="_blank">Passengers describe &#x27;surreal&#x27; scramble to reach first government flight out of Middle East</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-06 05:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/6/us-house-joins-senate-to-vote-down-war-powers-resolution?traffic_source=rss" target="_blank">US House joins Senate to vote down war powers resolution</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-06 03:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260305-trump-miami-vsb-2038-f20720.jpg" alt="Trump says he wants Iran&#x27;s leadership structure gone and has preferences for a &#x27;good leader&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/wants-iran-leadership-structure-gone-preference-good-leader-rcna262039" target="_blank">Trump says he wants Iran&#x27;s leadership structure gone and has preferences for a &#x27;good leader&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-06 03:10</span>
             </div>
         </div>
 </div>
@@ -164,6 +164,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sandipandassd/render-latex-math-chemistry-in-react-react-native-flutter-one-package-5cgp" target="_blank">Render LaTeX, Math &amp; Chemistry in React, React Native, Flutter — One Package</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-06 09:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/read-copy-update/en/headerimage/read-copy-update-header-1772618412119.jpg" alt="Article: Read-Copy-Update (RCU): The Secret to Lock-Free Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/read-copy-update/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Read-Copy-Update (RCU): The Secret to Lock-Free Performance</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-06 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2026/03/06/building-brains-for-bulldozers/" target="_blank">Building brains for bulldozers</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -195,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/priya_sajja_c336921bbda87/what-is-engineer-persona-5e29" target="_blank">What is Engineer persona?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-06 06:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/firefox-nova-redesign.webp?resize=406%2C232&amp;ssl=1" alt="Firefox Nova – our first look at the browser’s big redesign" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/firefox-nova-redesign" target="_blank">Firefox Nova – our first look at the browser’s big redesign</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-06 04:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shajam/what-can-we-learn-from-me-central-1-region-outage-n9a" target="_blank">What can we learn from me-central-1 region outage</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-06 04:23</span>
             </div>
         </div>
 </div>
@@ -325,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 284 |
-        🔄 Last Updated: 08:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 283 |
+        🔄 Last Updated: 09:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
