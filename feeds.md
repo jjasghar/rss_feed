@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-06 13:21:20 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-06 14:09:33 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
 <!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, March 06, 2026 - 13:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, March 06, 2026 - 14:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69aa124714b6500578e2ec70/master/pass/Spring%20Scrub_%20BEST%20USB%20Flash%20Drives.png" alt="11 Best USB Flash Drives (2026): Pen Drives, Thumb Drives, Memory Sticks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-usb-flash-drives/" target="_blank">11 Best USB Flash Drives (2026): Pen Drives, Thumb Drives, Memory Sticks</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-06 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69aa71f4cb35fa25edf8f59e/master/pass/Review-%20Corsair%20Sabre%20V2%20Carbon%20Fiber%20and%20Magnesium%20Gaming%20Mice.png" alt="Corsair Sabre V2 Carbon Fiber and Magnesium Gaming Mice Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -147,20 +156,47 @@
                 <span class="time">2026-03-06 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Mattress Firm Coupons and Discounts: Save Up to $600" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mattress-firm-coupon/" target="_blank">Mattress Firm Coupons and Discounts: Save Up to $600</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-06 06:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18900360&w=600" alt="Fabric&#x27;s Resource Governance and Scaling Pitfalls" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/fabrics-resource-governance-and-scaling-pitfalls" target="_blank">Fabric&#x27;s Resource Governance and Scaling Pitfalls</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-06 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shubhr_modh_29ab8db84e041/building-a-shared-networking-layer-using-ktor-in-kmp-1knk" target="_blank">Building a Shared Networking Layer using ktor in KMP</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-06 13:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs" target="_blank">Workers who love &#x27;synergizing paradigms&#x27; might be bad at their jobs</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-06 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-CPPC-Performance-Priority" target="_blank">AMD CPPC Performance Priority Being Prepared For Linux - New Zen 6 Feature</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-06 13:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwj2frce4rgg1u5foqceu.png" alt="How to Use Dremio with Claude CoWork: Connect, Query, and Build Data Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -177,42 +213,6 @@
                 <span class="title"><a href="https://dzone.com/articles/a3-handoff-canvas" target="_blank">The A3 Handoff Canvas</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-06 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18908054&w=600" alt="Deterministic AI With OpenSymbolicAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/deterministic-ai-with-opensymbolicai" target="_blank">Deterministic AI With OpenSymbolicAI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-06 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/cncf-dragonfly-graduation/en/headerimage/generatedHeaderImage-1772027784217.jpg" alt="CNCF Graduates Dragonfly, Marking Major Milestone for Cloud-Native Image Distribution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/cncf-dragonfly-graduation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">CNCF Graduates Dragonfly, Marking Major Milestone for Cloud-Native Image Distribution</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-06 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/sovereign-cloud-confidential-computing" target="_blank">Sovereign clouds: enhanced data security with confidential computing</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-03-06 11:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxt6984slh1k7h4kmv8dr.png" alt="Predicting Customer Lifetime Value (CLV) with Machine Learning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shany_khan_dd47c3bb612ff3/predicting-customer-lifetime-value-clv-with-machine-learning-c8k" target="_blank">Predicting Customer Lifetime Value (CLV) with Machine Learning</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-06 11:54</span>
             </div>
         </div>
 </div>
@@ -243,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/IMG_2059-1280x720.jpg" alt="You Can Cheat Your Way To Playing Pokémon Pokopia’s First Event Early" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-pokopia-hoppip-skiploom-jumpluff-event-early-access-2000676632" target="_blank">You Can Cheat Your Way To Playing Pokémon Pokopia’s First Event Early</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-06 14:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Firefly-trio-1280x853.jpg" alt="People Are Convinced Nathan Fillion Is Reviving ‘Firefly’ Via… Instagram Posts?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-world-is-convinced-nathan-fillion-is-reviving-firefly-via-instagram-posts-2000730393" target="_blank">People Are Convinced Nathan Fillion Is Reviving ‘Firefly’ Via… Instagram Posts?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-06 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/SarahJMaas-1280x853.jpg" alt="The World of ‘A Court of Thorns and Roses’ Will Expand in a Big Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,24 +295,6 @@
                 <span class="title"><a href="https://gizmodo.com/please-just-let-the-metaverse-go-2000730281" target="_blank">Please Just Let the Metaverse Go</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-05 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Lightspeed_io9_March2026-2-1280x853.jpg" alt="‘Girl Dinner’ Takes on a Deliciously Grisly New Meaning in This Speculative Short Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/girl-dinner-takes-on-a-deliciously-grisly-new-meaning-in-this-speculative-short-story-2000729760" target="_blank">‘Girl Dinner’ Takes on a Deliciously Grisly New Meaning in This Speculative Short Story</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-05 23:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/gtanba-1280x720.jpg" alt="Rockstar Is Gearing Up To Turn GTA+ Into The Next Gaming Super Bundle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/rockstar-games-gta-nba-2k-26-subscritpion-game-pass-2000676453" target="_blank">Rockstar Is Gearing Up To Turn GTA+ Into The Next Gaming Super Bundle</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-05 22:57</span>
             </div>
         </div>
 </div>
@@ -334,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 13:21 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 14:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
