@@ -1,34 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-03-06 22:02:59 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-06 23:04:18 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, March 06, 2026 - 22:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, March 06, 2026 - 23:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/school-minab-03-ap-jt-260228_1772313584069_hpMain_4x3t_384.jpg" alt="Iran live updates: US was operating in area of school ahead of strike, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: US was operating in area of school ahead of strike, sources say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-06 22:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/iran-11-ht-gmh-260304_1772644440705_hpMain_4x3t_384.jpg" alt="US believes Russia is providing Iran with locations of American troops, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,6 +75,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-russia-paralympics_7184553.jpg?20260306203827" alt="Boos and boycotts as Russian flag returns to global sporting stage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/boos-and-boycotts-as-russian-flag-returns-to-sporting-stage-at-winter-paralympics-13516285" target="_blank">Boos and boycotts as Russian flag returns to global sporting stage</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-06 21:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Pres. Clinton speaks at Jesse Jackson memorial service" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -80,29 +92,20 @@
                 <span class="time">2026-03-06 20:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/6/messi-criticised-for-applauding-trump-amid-us-attacks-on-iran?traffic_source=rss" target="_blank">Messi criticised for applauding Trump amid US attacks on Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-06 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Pres. Obama speaks at Jesse Jackson memorial service: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Pres. Obama speaks at Jesse Jackson memorial service: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-06 19:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69aa58c4cbab96eaf5f20ee0/master/pass/Review-%20Marley%20Spoon%20Meal%20Kit%20(2026).png" alt="Marley Spoon Meal Kit Review 2026: Less Martha, More Moroccan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/marley-spoon-meal-kit-2026/" target="_blank">Marley Spoon Meal Kit Review 2026: Less Martha, More Moroccan</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-06 22:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +149,6 @@
                 <span class="title"><a href="https://arstechnica.com/ai/2026/03/googles-new-command-line-tool-can-plug-openclaw-into-your-workspace-data/" target="_blank">Google&#x27;s new command line tool can plug OpenClaw into your Workspace data</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-03-06 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/" target="_blank">Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-06 19:50</span>
             </div>
         </div>
 </div>
@@ -245,6 +239,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Hoppers-Kings-1280x853.jpg" alt="The Director of ‘Hoppers’ Was Sure He’d Have to Cut Its Most Shocking Moment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-director-of-hoppers-was-sure-hed-have-to-cut-its-most-shocking-moment-2000730796" target="_blank">The Director of ‘Hoppers’ Was Sure He’d Have to Cut Its Most Shocking Moment</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-06 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/terminalslmarath-1280x720.jpg" alt="Something Cool Just Happened In Marathon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marathon-bungie-terminals-durandal-secret-lore-arg-cryo-update-2000676774" target="_blank">Something Cool Just Happened In Marathon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-06 22:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2024/08/7e7957bd9d578d0ea5990cb5e1cd7bce-1280x720.jpg" alt="Major Fortnite Leaker Actually Worked For Epic Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -278,24 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/nintendo-suing-united-states-govt-over-trump-tariffs-2000676696" target="_blank">Nintendo Suing United States Govt. Over Trump Tariffs</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-06 18:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JJSQ0P8EAHN1MFH0GC3MV7H9/hero-image.png" alt="These Bose Ultra Open Earbuds Are $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/bose-ultra-open-earbuds-deal-march-2026?utm_medium=RSS" target="_blank">These Bose Ultra Open Earbuds Are $100 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-06 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Justin-Sun-Tron-SEC-1280x853.jpg" alt="SEC Settles Case Against Investor in Trump-Linked Crypto Projects Amid Pay-to-Play Allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sec-settles-case-against-investor-in-trump-linked-crypto-projects-amid-pay-to-play-allegations-2000730615" target="_blank">SEC Settles Case Against Investor in Trump-Linked Crypto Projects Amid Pay-to-Play Allegations</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-06 17:45</span>
             </div>
         </div>
 </div>
@@ -362,8 +356,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 22:03 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 23:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
