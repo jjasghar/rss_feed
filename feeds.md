@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-06 15:08:53 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-06 16:06:57 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, March 06, 2026 - 15:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, March 06, 2026 - 16:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/06/nx-s1-5732793/college-student-perspective-using-ai-in-class" target="_blank">A college student&#x27;s perspective on using AI in class</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-06 15:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +99,20 @@
                 <span class="time">2026-03-06 12:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772799778843_tdy_news_7a_engel_trump_iran_next_leader_260306_1920x1080-5lav1f.jpg" alt="Trump Wants to Be Involved in Selecting Iran&#x27;s Next Leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-wants-to-be-involved-in-selecting-iran-s-next-leader-258818629627" target="_blank">Trump Wants to Be Involved in Selecting Iran&#x27;s Next Leader</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-06 12:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/06/social-media-ban-children-countries-list/" target="_blank">These are the countries moving to ban social media for children</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-06 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +158,29 @@
                 <span class="time">2026-03-06 12:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/889756/mwc-2026-unihertz-light-phone-clicks" target="_blank">Meet your new phone away from phone</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-06 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/selfhostingsh/navidrome-vs-emby-which-music-server-should-you-self-host-4ppj" target="_blank">Navidrome vs Emby: Which Music Server Should You Self-Host?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-06 15:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/doordash-dasherglobal-onboarding/en/headerimage/dasherunifiedarch-1772084926728.jpeg" alt="Architecting for Global Scale: Inside DoorDash’s Unified, Composable Dasher Onboarding Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/doordash-dasherglobal-onboarding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Architecting for Global Scale: Inside DoorDash’s Unified, Composable Dasher Onboarding Platform</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-06 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18902500&w=600" alt="When Million Requests Arrive in a Minute: Why Reactive Auto Scaling Fails and the Predictive Fix" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -169,6 +188,15 @@
                 <span class="title"><a href="https://dzone.com/articles/reactive-autoscaling-fails-predictive-scaling-fix" target="_blank">When Million Requests Arrive in a Minute: Why Reactive Auto Scaling Fails and the Predictive Fix</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-06 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Slab-Severe-Perf-Fix" target="_blank">Linux 7.0 Slab Fix On The Way For A &quot;Severe Performance Regression&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-06 14:23</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +215,6 @@
                 <span class="title"><a href="https://dzone.com/articles/fabrics-resource-governance-and-scaling-pitfalls" target="_blank">Fabric&#x27;s Resource Governance and Scaling Pitfalls</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-06 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shubhr_modh_29ab8db84e041/building-a-shared-networking-layer-using-ktor-in-kmp-1knk" target="_blank">Building a Shared Networking Layer using ktor in KMP</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-06 13:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs" target="_blank">Workers who love &#x27;synergizing paradigms&#x27; might be bad at their jobs</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-06 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-CPPC-Performance-Priority" target="_blank">AMD CPPC Performance Priority Being Prepared For Linux - New Zen 6 Feature</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-06 13:28</span>
             </div>
         </div>
 </div>
@@ -244,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/peanuts-1280x853.jpg" alt="Scientists Find a Built-In Weapon Against Peanut Allergies: Human Spit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/scientists-find-a-built-in-weapon-against-peanut-allergies-human-spit-2000730392" target="_blank">Scientists Find a Built-In Weapon Against Peanut Allergies: Human Spit</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-06 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/IMG_2058-1280x720.jpg" alt="Fans Are Obsessed With All Of The Neat Little Ways Pokémon Interact In Pokopia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-pokopia-interactions-conversations-switch-2-2000676652" target="_blank">Fans Are Obsessed With All Of The Neat Little Ways Pokémon Interact In Pokopia</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-06 15:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/image-4-1280x720.jpg" alt="PlayStation 5 Is Showing Different Players Different Prices For The Same Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +297,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/bowers-wilkins-px7-s2-anc-headphones-sale-march-2026?utm_medium=RSS" target="_blank">These Bowers &amp; Wilkins ANC Headphones Are Nearly 60% Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-06 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Firefly-trio-1280x853.jpg" alt="People Are Convinced Nathan Fillion Is Reviving ‘Firefly’ Via… Instagram Posts?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-world-is-convinced-nathan-fillion-is-reviving-firefly-via-instagram-posts-2000730393" target="_blank">People Are Convinced Nathan Fillion Is Reviving ‘Firefly’ Via… Instagram Posts?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-06 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/SarahJMaas-1280x853.jpg" alt="The World of ‘A Court of Thorns and Roses’ Will Expand in a Big Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-world-of-a-court-of-thorns-and-roses-will-expand-in-a-big-way-2000730395" target="_blank">The World of ‘A Court of Thorns and Roses’ Will Expand in a Big Way</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-06 12:00</span>
             </div>
         </div>
 </div>
@@ -335,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 15:09 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 16:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
