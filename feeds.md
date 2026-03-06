@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-06 14:09:33 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-06 15:08:53 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, March 06, 2026 - 14:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, March 06, 2026 - 15:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/6/qatar-warns-iran-war-could-halt-gulf-energy-exports-within-weeks?traffic_source=rss" target="_blank">Qatar warns Iran war could halt Gulf energy exports ‘within weeks’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-06 14:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-3-gty-gmh-260306_1772805238169_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says &#x27;no deal with Iran except unconditional surrender&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: Trump says &#x27;no deal with Iran except unconditional surrender&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-06 14:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48c6/live/3d46d720-cb8f-11f0-8b24-8191145688b1.jpg" alt="Whole-life term for man who killed family in fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg88v948d8o?at_medium=RSS&at_campaign=rss" target="_blank">Whole-life term for man who killed family in fire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-06 14:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-6-gty-gmh-260305_1772748734424_hpMain_4x3t_384.jpg" alt="Iran live updates: US ramping up strikes on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,38 +98,29 @@
                 <span class="time">2026-03-06 12:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/3/6/segregation-multimillion-dollar-crime-wall-causes-uproar-in-s-africa?traffic_source=rss" target="_blank">‘Segregation’: Multimillion-dollar crime wall causes uproar in S Africa</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-06 11:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-6-gty-gmh-260305_1772748734424_hpMain_4x3t_384.jpg" alt="Iran live updates: Ukraine drone specialists going to Middle East to defend US bases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: Ukraine drone specialists going to Middle East to defend US bases</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-06 11:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/06/nx-s1-5719268/sauna-heat-health-benefits-science" target="_blank">Taking the heat. Sauna&#x27;s popular and there may be health benefits too</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-06 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/889837/trump-phone-mobile-world-congress-mwc" target="_blank">The Trump phone was a no-show at the world’s biggest mobile show</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-06 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/06/trizetto-confirms-3-4m-peoples-health-and-personal-data-was-stolen-during-breach/" target="_blank">TriZetto confirms 3.4M people’s health and personal data was stolen during breach</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-06 14:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69aa124714b6500578e2ec70/master/pass/Spring%20Scrub_%20BEST%20USB%20Flash%20Drives.png" alt="11 Best USB Flash Drives (2026): Pen Drives, Thumb Drives, Memory Sticks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +157,29 @@
                 <span class="time">2026-03-06 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6870914c7df7ab0fb03f65d5/master/pass/The%20Best%20Laptop%20Docking%20Stations%20to%20Supercharge%20Your%20Workstation.png" alt="7 Laptop Docking Stations to Unlock the Full Desktop Experience (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-laptop-docking-stations/" target="_blank">7 Laptop Docking Stations to Unlock the Full Desktop Experience (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-06 11:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69aa3519fd9d3f6311038e57/master/pass/Big-Interview-Jack-Dorsey-Business-2001060765.jpg" alt="Jack Dorsey Is Ready to Explain the Block Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/jack-dorsey-explains-block-layoffs/" target="_blank">Jack Dorsey Is Ready to Explain the Block Layoffs</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-06 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18902500&w=600" alt="When Million Requests Arrive in a Minute: Why Reactive Auto Scaling Fails and the Predictive Fix" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/reactive-autoscaling-fails-predictive-scaling-fix" target="_blank">When Million Requests Arrive in a Minute: Why Reactive Auto Scaling Fails and the Predictive Fix</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-06 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.researchgate.net/publication/389855619_Global_Warming_has_Accelerated_Significantly" target="_blank">Global Warming Has Accelerated Significantly</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-06 14:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18900360&w=600" alt="Fabric&#x27;s Resource Governance and Scaling Pitfalls" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,24 +216,6 @@
                 <span class="time">2026-03-06 13:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwj2frce4rgg1u5foqceu.png" alt="How to Use Dremio with Claude CoWork: Connect, Query, and Build Data Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alexmercedcoder/how-to-use-dremio-with-claude-cowork-connect-query-and-build-data-apps-1mi4" target="_blank">How to Use Dremio with Claude CoWork: Connect, Query, and Build Data Apps</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-06 13:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18900332&w=600" alt="The A3 Handoff Canvas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/a3-handoff-canvas" target="_blank">The A3 Handoff Canvas</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-06 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,12 +245,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/image-4-1280x720.jpg" alt="PlayStation 5 Is Showing Different Players Different Prices For The Same Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/playstation-store-psn-prices-assassins-creed-unity-a-b-pricing-2000676646" target="_blank">PlayStation 5 Is Showing Different Players Different Prices For The Same Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-06 14:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Taxes-1280x853.jpg" alt="xAI Exec Says Have Grok Check Your Taxes. Here’s How That Could Go Very Wrong" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/xai-exec-says-have-grok-check-your-taxes-tax-experts-say-do-not-do-that-2000730219" target="_blank">xAI Exec Says Have Grok Check Your Taxes. Here’s How That Could Go Very Wrong</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-06 14:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/IMG_2059-1280x720.jpg" alt="You Can Cheat Your Way To Playing Pokémon Pokopia’s First Event Early" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/pokemon-pokopia-hoppip-skiploom-jumpluff-event-early-access-2000676632" target="_blank">You Can Cheat Your Way To Playing Pokémon Pokopia’s First Event Early</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-06 14:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KK16TD4HX6PAJVVJ1R6Q5JZY/hero-image.png" alt="These Bowers &amp; Wilkins ANC Headphones Are Nearly 60% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/bowers-wilkins-px7-s2-anc-headphones-sale-march-2026?utm_medium=RSS" target="_blank">These Bowers &amp; Wilkins ANC Headphones Are Nearly 60% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-06 14:00</span>
             </div>
         </div>
 <div class="story">
@@ -268,33 +296,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-world-of-a-court-of-thorns-and-roses-will-expand-in-a-big-way-2000730395" target="_blank">The World of ‘A Court of Thorns and Roses’ Will Expand in a Big Way</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-06 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/sock-monkey.jpg?fit=1200%2C798&amp;quality=60&amp;ssl=1" alt="Giant sock monkey sculpture becomes world&#x27;s largest soft toy artwork" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/05/giant-sock-monkey-sculpture-becomes-worlds-largest-soft-toy-artwork.html" target="_blank">Giant sock monkey sculpture becomes world&#x27;s largest soft toy artwork</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-06 01:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/05/949455d36a49e00c4f36058909cbffa2-1280x720.jpg" alt="7 Things You Absolutely Shouldn’t Do In Marathon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marathon-tips-to-stop-dying-help-guide-new-players-ps5-xbox-bungie-2000676268" target="_blank">7 Things You Absolutely Shouldn’t Do In Marathon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-06 00:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/horizon-worlds-1280x853.jpg" alt="Please Just Let the Metaverse Go" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/please-just-let-the-metaverse-go-2000730281" target="_blank">Please Just Let the Metaverse Go</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-05 23:30</span>
             </div>
         </div>
 </div>
@@ -334,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 14:09 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 15:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
