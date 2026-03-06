@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-06 01:30:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-03-06 02:53:16 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 33 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, March 06, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, March 06, 2026 - 02:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/hegseth-speaking-01-ht-jt-260305_1772751401272_hpMain_4x3t_384.jpg" alt="Hegseth says US has enough munitions to continue Iran war &#x27;as long as we need to&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/hegseth-us-munitions-continue-iran-war-long/story?id=130806959" target="_blank">Hegseth says US has enough munitions to continue Iran war &#x27;as long as we need to&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-06 01:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-6-gty-gmh-260305_1772748734424_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump offers immunity or &#x27;guaranteed death&#x27; to Iranian forces" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/5/suspected-iranian-missile-debris-ignites-fires-in-central-israel?traffic_source=rss" target="_blank">Suspected Iranian missile debris ignites fires in central Israel</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-05 23:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c4/live/d67046d0-1887-11f1-aff7-a32b6621d3cc.jpg" alt="&#x27;What is the game plan?&#x27;: The Iran war is unsettling China and its ambitions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;What is the game plan?&#x27;: The Iran war is unsettling China and its ambitions</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-05 23:13</span>
             </div>
         </div>
 </div>
@@ -170,12 +168,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fve0yjzlshlcdqrp2eppl.png" alt="Which Framework to use for Making eLearning Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zimlearn/which-framework-to-use-for-making-elearning-apps-51p" target="_blank">Which Framework to use for Making eLearning Apps</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-06 02:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.anthropic.com/news/where-stand-department-war" target="_blank">Where things stand with the Department of War</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-06 00:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-march-6-2026-red-hat" target="_blank">Friday Five — March 6, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-03-06 00:00</span>
             </div>
         </div>
 <div class="story">
@@ -199,28 +215,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/spranab/i-gave-claude-code-a-phone-a-friend-lifeline-it-calls-gpt-gemini-and-deepseek-3gjo" target="_blank">I Gave Claude Code a &quot;Phone a Friend&quot; Lifeline — It Calls GPT, Gemini, and DeepSeek</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-05 21:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/60-million-copilot-code-reviews-and-counting/" target="_blank">60 million Copilot code reviews and counting</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-03-05 20:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cloudwiseteam/the-hidden-cost-layers-of-ec2-and-why-stopped-instances-still-drain-your-budget-5bmf" target="_blank">The Hidden Cost Layers of EC2 (And Why Stopped Instances Still Drain Your Budget)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-05 20:04</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://ocramz.github.io/posts/2026-03-05-ascend.html" target="_blank">ascend : run Python functions on Kubernetes</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-05 21:06</span>
             </div>
         </div>
 </div>
@@ -328,22 +326,13 @@
                 <span class="time">2026-03-05 03:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/05/exodized" target="_blank">Exodized</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-03-05 02:12</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 02:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
