@@ -1,44 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-06 10:07:12 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-06 11:06:44 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 34 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, March 06, 2026 - 10:07 UTC</div>
+    <div class="newspaper-date">Friday, March 06, 2026 - 11:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-6-gty-gmh-260305_1772748734424_hpMain_4x3t_384.jpg" alt="Iran live updates: Ukraine drone specialists going to Middle East to defend US bases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: Ukraine drone specialists going to Middle East to defend US bases</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-06 11:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/6/sudanese-army-retakes-bara-secures-el-obeid-in-north-kordofan?traffic_source=rss" target="_blank">Sudanese army retakes Bara, secures el-Obeid in North Kordofan</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-06 06:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7632/live/a8071190-1911-11f1-b048-c9424b2cf5fd.jpg" alt="Passengers describe &#x27;surreal&#x27; scramble to reach first government flight out of Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq8gw0k0330o?at_medium=RSS&at_campaign=rss" target="_blank">Passengers describe &#x27;surreal&#x27; scramble to reach first government flight out of Middle East</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-06 05:30</span>
             </div>
         </div>
 </div>
@@ -176,6 +164,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/geanruca/tenant-landing-page-optimization-caching-for-performance-18nf" target="_blank">Tenant Landing Page Optimization: Caching for Performance</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-06 10:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/silicon_zee/stop-letting-your-ai-agent-read-the-entire-repo-introducing-trail-docs-321k" target="_blank">Stop Letting Your AI Agent Read the entire Repo: Introducing trail-docs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-06 10:00</span>
@@ -215,15 +212,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/03/06/building-brains-for-bulldozers/" target="_blank">Building brains for bulldozers</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-03-06 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3xtbf8xrukcu982rv98d.png" alt="🐾FurEver Care AI — Turning Pet Health Observations into Vet-Ready Timelines with Notion + AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/siti_aisyahmatzainal_73/furever-care-ai-turning-pet-health-observations-into-vet-ready-timelines-with-notion-ai-2n41" target="_blank">🐾FurEver Care AI — Turning Pet Health Observations into Vet-Ready Timelines with Notion + AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-06 08:00</span>
             </div>
         </div>
 </div>
@@ -345,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 10:07 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 284 |
+        🔄 Last Updated: 11:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
