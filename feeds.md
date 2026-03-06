@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-06 18:07:11 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-06 19:12:16 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, March 06, 2026 - 18:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, March 06, 2026 - 19:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/06/nx-s1-5737627/iran-us-military-poll-trump-approval" target="_blank">Poll: A majority of Americans opposes U.S. military action in Iran</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-06 19:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/6/us-customs-agency-says-it-is-not-yet-able-to-reimburse-tariff-costs?traffic_source=rss" target="_blank">US customs agency says it is not yet able to reimburse tariff costs</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-06 18:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260306-missile-launched-from-iran-ew-1205p-975fb4.jpg" alt="Russia is providing intelligence to Iran on the location of U.S. forces, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +97,29 @@
                 <span class="time">2026-03-06 15:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/6/qatar-warns-iran-war-could-halt-gulf-energy-exports-within-weeks?traffic_source=rss" target="_blank">Qatar warns Iran war could halt Gulf energy exports ‘within weeks’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-06 14:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-3-gty-gmh-260306_1772805238169_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says &#x27;no deal with Iran except unconditional surrender&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: Trump says &#x27;no deal with Iran except unconditional surrender&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-06 14:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review" target="_blank">The AI Doc is an overwrought hype piece for doomers and accelerationists alike</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-06 19:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69ab195f9fe32e08bb6fbf0b/master/pass/These%20Beats%20Headphones%20We%20Like%20Are%20$150%20Off.png" alt="These Beats Headphones We Like Are $150 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/beats-studio-pro-deal-326/" target="_blank">These Beats Headphones We Like Are $150 Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-06 18:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69aa57fa133f03206e0ed537/master/pass/The%20Best%20Android%20Phones%20-%202.png" alt="9 Best Android Phones of 2026, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +156,20 @@
                 <span class="time">2026-03-06 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/889837/trump-phone-mobile-world-congress-mwc" target="_blank">The Trump phone was a no-show at the world’s biggest mobile show</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-06 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/06/trizetto-confirms-3-4m-peoples-health-and-personal-data-was-stolen-during-breach/" target="_blank">TriZetto confirms 3.4M people’s health and personal data was stolen during breach</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-06 14:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/agents-context-file-value-review/en/headerimage/generatedHeaderImage-1772736779089.jpg" alt="New Research Reassesses the Value of AGENTS.md Files for AI Coding" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/agents-context-file-value-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New Research Reassesses the Value of AGENTS.md Files for AI Coding</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-06 18:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -172,6 +177,15 @@
                 <span class="title"><a href="https://dev.to/tiamatenity/the-agent-to-agent-privacy-problem-how-pii-leaks-through-multi-agent-systems-4kk1" target="_blank">The Agent-to-Agent Privacy Problem: How PII Leaks Through Multi-Agent Systems</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-06 17:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/ubuntu-2604-search-overview-1.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 LTS adds Snap and web search to the Overview" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ubuntu-2604-gnome-search-extensions" target="_blank">Ubuntu 26.04 LTS adds Snap and web search to the Overview</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-06 17:34</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +213,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/03/doordash-dasherglobal-onboarding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Architecting for Global Scale: Inside DoorDash’s Unified, Composable Dasher Onboarding Platform</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-03-06 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18902500&w=600" alt="When Million Requests Arrive in a Minute: Why Reactive Auto Scaling Fails and the Predictive Fix" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/reactive-autoscaling-fails-predictive-scaling-fix" target="_blank">When Million Requests Arrive in a Minute: Why Reactive Auto Scaling Fails and the Predictive Fix</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-06 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Slab-Severe-Perf-Fix" target="_blank">Linux 7.0 Slab Fix On The Way For A &quot;Severe Performance Regression&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-06 14:23</span>
             </div>
         </div>
 </div>
@@ -247,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/lawyermario-1280x720.jpg" alt="Nintendo Suing United States Govt. Over Trump Tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-suing-united-states-govt-over-trump-tariffs-2000676696" target="_blank">Nintendo Suing United States Govt. Over Trump Tariffs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-06 18:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Justin-Sun-Tron-SEC-1280x853.jpg" alt="SEC Settles Case Against Investor in Trump-Linked Crypto Projects Amid Pay-to-Play Allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,20 +297,20 @@
                 <span class="time">2026-03-06 15:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/image-4-1280x720.jpg" alt="PlayStation 5 Is Showing Different Players Different Prices For The Same Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/playstation-store-psn-prices-assassins-creed-unity-a-b-pricing-2000676646" target="_blank">PlayStation 5 Is Showing Different Players Different Prices For The Same Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-06 14:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/06/man-bun" target="_blank">Man Bun</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-06 18:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1772766658-20260306.png" alt="Saturday Morning Breakfast Cereal - Curses" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -347,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 18:07 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 19:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
