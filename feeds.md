@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-06 17:10:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-06 18:07:11 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, March 06, 2026 - 17:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, March 06, 2026 - 18:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260306-missile-launched-from-iran-ew-1205p-975fb4.jpg" alt="Russia is providing intelligence to Iran on the location of U.S. forces, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/national-security/russia-providing-intelligence-iran-location-us-forces-sources-say-rcna262115" target="_blank">Russia is providing intelligence to Iran on the location of U.S. forces, sources say</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-06 17:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +101,29 @@
                 <span class="time">2026-03-06 14:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48c6/live/3d46d720-cb8f-11f0-8b24-8191145688b1.jpg" alt="Whole-life term for man who killed family in fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg88v948d8o?at_medium=RSS&at_campaign=rss" target="_blank">Whole-life term for man who killed family in fire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-06 14:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69aa57fa133f03206e0ed537/master/pass/The%20Best%20Android%20Phones%20-%202.png" alt="9 Best Android Phones of 2026, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-android-phones/" target="_blank">9 Best Android Phones of 2026, Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-06 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/" target="_blank">Claude’s consumer growth surge continues after Pentagon deal debacle</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-06 17:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +160,20 @@
                 <span class="time">2026-03-06 14:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69aa124714b6500578e2ec70/master/pass/Spring%20Scrub_%20BEST%20USB%20Flash%20Drives.png" alt="11 Best USB Flash Drives (2026): Pen Drives, Thumb Drives, Memory Sticks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-usb-flash-drives/" target="_blank">11 Best USB Flash Drives (2026): Pen Drives, Thumb Drives, Memory Sticks</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-06 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69aa71f4cb35fa25edf8f59e/master/pass/Review-%20Corsair%20Sabre%20V2%20Carbon%20Fiber%20and%20Magnesium%20Gaming%20Mice.png" alt="Corsair Sabre V2 Carbon Fiber and Magnesium Gaming Mice Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/corsair-sabre-v2-cf-and-mg/" target="_blank">Corsair Sabre V2 Carbon Fiber and Magnesium Gaming Mice Review</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-06 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tiamatenity/the-agent-to-agent-privacy-problem-how-pii-leaks-through-multi-agent-systems-4kk1" target="_blank">The Agent-to-Agent Privacy Problem: How PII Leaks Through Multi-Agent Systems</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-06 17:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +219,6 @@
                 <span class="time">2026-03-06 14:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.researchgate.net/publication/389855619_Global_Warming_has_Accelerated_Significantly" target="_blank">Global Warming Has Accelerated Significantly</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-06 14:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,20 +242,20 @@
                 <span class="time">2026-03-06 11:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/israel-hacked-traffic-cameras-in-iran.html" target="_blank">Israel Hacked Traffic Cameras in Iran</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-03-05 17:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Justin-Sun-Tron-SEC-1280x853.jpg" alt="SEC Settles Case Against Investor in Trump-Linked Crypto Projects Amid Pay-to-Play Allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sec-settles-case-against-investor-in-trump-linked-crypto-projects-amid-pay-to-play-allegations-2000730615" target="_blank">SEC Settles Case Against Investor in Trump-Linked Crypto Projects Amid Pay-to-Play Allegations</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-06 17:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/tylenol-1280x853.jpg" alt="Trump and RFK Jr. Told Pregnant Women to Stop Using Tylenol. It’s Happening" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -303,15 +301,6 @@
                 <span class="time">2026-03-06 14:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Taxes-1280x853.jpg" alt="xAI Exec Says Have Grok Check Your Taxes. Here’s How That Could Go Very Wrong" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/xai-exec-says-have-grok-check-your-taxes-tax-experts-say-do-not-do-that-2000730219" target="_blank">xAI Exec Says Have Grok Check Your Taxes. Here’s How That Could Go Very Wrong</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-06 14:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,6 +325,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/bazookasaurus.png" alt="Bazookasaurus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3216/" target="_blank">Bazookasaurus</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-03-06 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5780.png" alt="Into The Drink" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -349,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 17:10 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 18:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
