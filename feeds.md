@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-07 11:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-07 12:02:26 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, March 07, 2026 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, March 07, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -68,6 +68,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/07/nx-s1-5739242/iran-war-oil-trump-israel-spain-economy-one-week" target="_blank">One week into the Iran war, the fallout is global</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-07 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/03/07/g-s1-112246/curling-had-its-moment-at-the-olympics-and-now-paralympics-it-sparked-a-curling-bonanza-in-america" target="_blank">Curling had its moment at the Olympics and now Paralympics. It sparked a curling bonanza in America</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-07 10:00</span>
@@ -91,20 +100,20 @@
                 <span class="time">2026-03-07 09:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-3-gty-gmh-260306_1772805238169_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran’s president says there’ll be no unconditional surrender" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: Iran’s president says there’ll be no unconditional surrender</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-07 09:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69ab9385e507bc24d160dc68/master/pass/The%20Best%20MIDI%20Controllers%20for%20Synths,%20Recording,%20and%20More.png" alt="The Best MIDI Controllers for Synths, Guitars, and More (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-midi-controllers/" target="_blank">The Best MIDI Controllers for Synths, Guitars, and More (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-07 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69ab643d69eb9242c5114a60/master/pass/security_Iranian_Missiles_WIREDME.jpg" alt="How Each Gulf Country Is Intercepting Iranian Missiles and Drones" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +159,20 @@
                 <span class="time">2026-03-06 23:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/upper-exploration-witch-hat-500x500.jpg" alt="Ding-dong! The Exploration Upper Stage is dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/03/ding-dong-the-exploration-upper-stage-is-dead/" target="_blank">Ding-dong! The Exploration Upper Stage is dead</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-06 23:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kailash_ac43c0ef1daf14abd/what-changed-when-our-research-pipeline-hit-a-pdf-wall-production-case-study-g94" target="_blank">What Changed When Our Research Pipeline Hit a PDF Wall (Production Case Study)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-07 11:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/03/cloudflare-post-quantum-ipsec/en/headerimage/generatedHeaderImage-1772203190740.jpg" alt="Standardizing Post-Quantum IPsec: Cloudflare Adopts Hybrid ML-KEM to Replace Ciphersuite Bloat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +218,6 @@
                 <span class="time">2026-03-07 04:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/pigeon-gnome-shell-email-notification.webp?resize=406%2C232&amp;ssl=1" alt="Get Gmail alerts on Ubuntu without a dedicated mail client" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/gnome-email-notifier-gmail-outlook" target="_blank">Get Gmail alerts on Ubuntu without a dedicated mail client</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-07 04:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,15 +239,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/anthropic-and-the-pentagon.html" target="_blank">Anthropic and the Pentagon</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-03-06 17:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/claude-used-to-hack-mexican-government.html" target="_blank">Claude Used to Hack Mexican Government</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-03-06 11:53</span>
             </div>
         </div>
 </div>
@@ -355,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 133 | 📡 Total Sources: 43 | 📸 With Images: 275 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 43 | 📸 With Images: 274 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
