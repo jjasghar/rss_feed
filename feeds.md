@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-07 21:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-07 22:01:33 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, March 07, 2026 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, March 07, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/3/7/how-far-will-the-iran-war-spillover?traffic_source=rss" target="_blank">How far will the Iran war spillover?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-07 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772911317130_nbc_spec_hamamdjian_iran_skies_260307_1920x1080-ent9ee.jpg" alt="Skies above Tehran &#x27;turning orange&#x27; amid U.S. strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/skies-above-tehran-turning-orange-amid-u-s-strikes-258900549866" target="_blank">Skies above Tehran &#x27;turning orange&#x27; amid U.S. strikes</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-07 19:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2caa/live/28e2d850-1a5a-11f1-868f-4fb5e9a9e1f8.jpg" alt="Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,24 +94,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2026/mar/07/descendants-of-zimbabwe-resistance-heroes-urge-uk-to-locate-looted-skulls" target="_blank">Descendants of Zimbabwe resistance heroes urge UK to locate looted skulls</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-03-07 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-sky-news-explains-us_7185243.jpg?20260307164500" alt="US v Iran - how did we get here?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/us-v-iran-how-did-we-get-here-13516544" target="_blank">US v Iran - how did we get here?</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-07 16:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/84801090-1a2a-11f1-b048-c9424b2cf5fd.jpg" alt="Iranian ambassador warns UK to be &#x27;very careful&#x27; about further involvement in war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss" target="_blank">Iranian ambassador warns UK to be &#x27;very careful&#x27; about further involvement in war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-07 16:53</span>
             </div>
         </div>
 </div>
@@ -237,6 +234,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/cookie.jpg" alt="One Person’s Unhinged Crusade To Erase An Obscure PC Game From Existence Has Finally Been Stopped" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/one-persons-unhinged-crusade-to-erase-an-obscure-pc-game-from-existence-has-finally-been-stopped-2000677017" target="_blank">One Person’s Unhinged Crusade To Erase An Obscure PC Game From Existence Has Finally Been Stopped</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-07 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/the-mandalorian-and-grogu-rotta-1280x853.jpg" alt="Seeing Jabba the Hutt’s Son in ‘The Mandalorian &amp; Grogu’ Is Breaking Me" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -281,15 +287,6 @@
                 <span class="time">2026-03-07 16:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/f2e0c810ca1866360ee164a048d735cd-1280x720.jpg" alt="The Script For Zach Cregger’s Resident Evil Movie Has Reportedly Leaked Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/zach-cregger-resident-evil-movie-script-leak-spoilers-2000676977" target="_blank">The Script For Zach Cregger’s Resident Evil Movie Has Reportedly Leaked Online</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-07 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 100 | 📡 Total Sources: 43 | 📸 With Images: 272 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 94 | 📡 Total Sources: 43 | 📸 With Images: 274 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
