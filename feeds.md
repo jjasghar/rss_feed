@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-07 10:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-07 11:01:46 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, March 07, 2026 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, March 07, 2026 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/7/protests-in-cuba-after-thousands-without-power-following-blackout?traffic_source=rss" target="_blank">Protests in Cuba after thousands without power following blackout</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-07 10:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/632a/live/1b65adb0-19a6-11f1-9120-a910fc22c6ac.jpg" alt="Soham murderer Ian Huntley dies after prison attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c80jmm00379o?at_medium=RSS&at_campaign=rss" target="_blank">Soham murderer Ian Huntley dies after prison attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-07 10:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/07/g-s1-112246/curling-had-its-moment-at-the-olympics-and-now-paralympics-it-sparked-a-curling-bonanza-in-america" target="_blank">Curling had its moment at the Olympics and now Paralympics. It sparked a curling bonanza in America</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-07 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,38 +100,20 @@
                 <span class="time">2026-03-07 09:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53a4/live/46be29a0-19a2-11f1-978b-fbdac352fba0.jpg" alt="US lands bomber at UK air base after warning of surge in strikes on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c75ekve9yq9o?at_medium=RSS&at_campaign=rss" target="_blank">US lands bomber at UK air base after warning of surge in strikes on Iran</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-07 07:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/7/hezbollah-israeli-troops-clash-on-the-ground-in-eastern-lebanons-bekaa?traffic_source=rss" target="_blank">Hezbollah, Israeli troops clash on the ground in eastern Lebanon’s Bekaa</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-07 07:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/07/nx-s1-5734381/white-house-messaging-iran-us-israel-war" target="_blank">What the Trump administration says about why it went to war with Iran</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-07 07:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69ab643d69eb9242c5114a60/master/pass/security_Iranian_Missiles_WIREDME.jpg" alt="How Each Gulf Country Is Intercepting Iranian Missiles and Drones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-each-gulf-country-is-intercepting-iranian-missiles-and-drones/" target="_blank">How Each Gulf Country Is Intercepting Iranian Missiles and Drones</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-07 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +159,29 @@
                 <span class="time">2026-03-06 23:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/890986/valve-steam-machine-frame-controller-delay-ram-memory" target="_blank">Valve says it still plans to ship the Steam Machine in 2026</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-06 23:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/cloudflare-post-quantum-ipsec/en/headerimage/generatedHeaderImage-1772203190740.jpg" alt="Standardizing Post-Quantum IPsec: Cloudflare Adopts Hybrid ML-KEM to Replace Ciphersuite Bloat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/cloudflare-post-quantum-ipsec/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Standardizing Post-Quantum IPsec: Cloudflare Adopts Hybrid ML-KEM to Replace Ciphersuite Bloat</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-07 10:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej" target="_blank">3 words worth a billion dollars: Drift to Determinism (DriDe)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-07 10:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +216,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/gnome-email-notifier-gmail-outlook" target="_blank">Get Gmail alerts on Ubuntu without a dedicated mail client</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-03-07 04:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd9gyjjtvsznaf4mx3821.png" alt="Re-imagine DevSecOps with AWS - CD applied to Authorization with IAM Identity Center and AWS IAM Access Analyzer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/re-imagine-devsecops-with-aws-cd-applied-to-authorization-with-iam-identity-center-and-aws-iam-3lk6" target="_blank">Re-imagine DevSecOps with AWS - CD applied to Authorization with IAM Identity Center and AWS IAM Access Analyzer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-07 02:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.6.x-Polish-Fixes" target="_blank">KDE Plasma Saw A Lot Of Bug/Crash Fixing &amp; UI Polishing This Week</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-07 01:24</span>
             </div>
         </div>
 </div>
@@ -358,8 +355,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 130 | 📡 Total Sources: 43 | 📸 With Images: 275 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 133 | 📡 Total Sources: 43 | 📸 With Images: 275 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
