@@ -1,36 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-03-07 08:02:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-07 09:04:28 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, March 07, 2026 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, March 07, 2026 - 09:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53a4/live/46be29a0-19a2-11f1-978b-fbdac352fba0.jpg" alt="US lands bomber at UK air base after warning of surge in strikes on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c75ekve9yq9o?at_medium=RSS&at_campaign=rss" target="_blank">US lands bomber at UK air base after warning of surge in strikes on Iran</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-07 07:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,6 +67,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-ukraine-kharkiv_7184893.jpg?20260307073643" alt="Seven killed in Russian missile strikes in Ukraine&#x27;s second largest city" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/two-children-among-seven-dead-in-russian-missile-strikes-in-ukraine-13516381" target="_blank">Seven killed in Russian missile strikes in Ukraine&#x27;s second largest city</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-07 07:10</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -80,24 +91,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/7/anti-aircraft-fire-seen-in-eastern-lebanon-amid-israeli-incursion?traffic_source=rss" target="_blank">Anti-aircraft fire seen in eastern Lebanon amid Israeli incursion</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-07 03:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/06/nx-s1-5740596/trump-administrations-embattled-fda-vaccine-chief-is-leaving-for-the-second-time" target="_blank">Trump administration&#x27;s embattled FDA vaccine chief is leaving for the second time</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-07 02:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd6/live/fa5d3e90-197c-11f1-9156-4356592fc9c8.jpg" alt="Trump demands &#x27;unconditional surrender&#x27; from Iran as Putin speaks with Iran&#x27;s president" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yq82k1wk8o?at_medium=RSS&at_campaign=rss" target="_blank">Trump demands &#x27;unconditional surrender&#x27; from Iran as Putin speaks with Iran&#x27;s president</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-07 02:04</span>
             </div>
         </div>
 </div>
@@ -183,6 +176,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/pigeon-gnome-shell-email-notification.webp?resize=406%2C232&amp;ssl=1" alt="Get Gmail alerts on Ubuntu without a dedicated mail client" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/gnome-email-notifier-gmail-outlook" target="_blank">Get Gmail alerts on Ubuntu without a dedicated mail client</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-07 04:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd9gyjjtvsznaf4mx3821.png" alt="Re-imagine DevSecOps with AWS - CD applied to Authorization with IAM Identity Center and AWS IAM Access Analyzer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +209,6 @@
                 <span class="title"><a href="https://plasma-bigscreen.org" target="_blank">Plasma Bigscreen – 10-foot interface for KDE plasma</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-06 23:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.4-Released" target="_blank">Wine 11.4 Released With More Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-06 22:47</span>
             </div>
         </div>
 </div>
@@ -355,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 131 | 📡 Total Sources: 43 | 📸 With Images: 276 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 129 | 📡 Total Sources: 43 | 📸 With Images: 277 |
+        🔄 Last Updated: 09:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
