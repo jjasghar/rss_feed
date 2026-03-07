@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-07 02:46:56 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-07 03:37:11 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, March 07, 2026 - 02:47 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, March 07, 2026 - 03:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/7/anti-aircraft-fire-seen-in-eastern-lebanon-amid-israeli-incursion?traffic_source=rss" target="_blank">Anti-aircraft fire seen in eastern Lebanon amid Israeli incursion</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-07 03:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4703/live/e940d3a0-19b9-11f1-801d-ed3cff6bf876.jpg" alt="Soham murderer Ian Huntley taken off life support, BBC understands" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +100,6 @@
                 <span class="time">2026-03-06 23:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/6/cuba-closes-quito-embassy-after-ecuadors-daniel-noboa-expels-its-diplomats?traffic_source=rss" target="_blank">Cuba closes Quito embassy after Ecuador’s Daniel Noboa expels its diplomats</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-06 23:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -120,6 +121,15 @@
                 <span class="title"><a href="https://www.wired.com/story/deveillance-spectre-i/" target="_blank">This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won&#x27;t Work</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-03-06 23:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/upper-exploration-witch-hat-500x500.jpg" alt="Ding-dong! The Exploration Upper Stage is dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/03/ding-dong-the-exploration-upper-stage-is-dead/" target="_blank">Ding-dong! The Exploration Upper Stage is dead</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-06 23:40</span>
             </div>
         </div>
 <div class="story">
@@ -147,15 +157,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/03/06/life-ev-officially-owns-rad-power-bikes-now/" target="_blank">Life EV officially owns Rad Power Bikes now</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-06 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69aa53e2c474b26a6b75ee8a/master/pass/WIRED%E2%80%99s%20Favorite%20%E2%80%98Buy%20It%20for%20Life%E2%80%99%20Gear.png" alt="72 &#x27;Buy It for Life&#x27; Products: Cast-Iron, Tools, Speakers, Chairs, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/buy-it-for-life/" target="_blank">72 &#x27;Buy It for Life&#x27; Products: Cast-Iron, Tools, Speakers, Chairs, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-06 21:27</span>
             </div>
         </div>
 </div>
@@ -372,8 +373,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 33 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 02:47 UTC
+        📊 Displayed: 33 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 03:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
