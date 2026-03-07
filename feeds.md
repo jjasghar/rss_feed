@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-03-07 22:01:33 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-07 23:01:47 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, March 07, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, March 07, 2026 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +100,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69ab835464d7eed1bd30d871/master/pass/Drip%20Coffee%20Was%20My%20First%20Taste%20of%20Adulthood.%20The%20Ratio%20Four%20Brewer%20Offers%20It%20Pure.png" alt="Why the Ratio Four Series Two Is What I Use to Test New Coffees" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ratio-four-drip-coffee-java-base/" target="_blank">Why the Ratio Four Series Two Is What I Use to Test New Coffees</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-07 22:35</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -144,15 +151,6 @@
                 <span class="title"><a href="https://www.wired.com/story/fix-the-dangling-wires-behind-your-desk/" target="_blank">The WIRED Guide to Wires: How to Manage the Mess of Cables Around Your Desk</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-03-07 13:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/spinosaurus-mirabilis-main-Background-Removed-500x500.jpeg" alt="A unicorn-like Spinosaurus found in the Sahara" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/03/a-unicorn-like-spinosaurus-found-in-the-sahara/" target="_blank">A unicorn-like Spinosaurus found in the Sahara</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-07 12:30</span>
             </div>
         </div>
 </div>
@@ -216,20 +214,6 @@
         </div>
 </div>
 </div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-squid-in-byzantine-monk-cooking.html" target="_blank">Friday Squid Blogging: Squid in Byzantine Monk Cooking</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-03-06 22:03</span>
-            </div>
-        </div>
-</div>
-</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
@@ -240,6 +224,15 @@
                 <span class="title"><a href="https://kotaku.com/one-persons-unhinged-crusade-to-erase-an-obscure-pc-game-from-existence-has-finally-been-stopped-2000677017" target="_blank">One Person’s Unhinged Crusade To Erase An Obscure PC Game From Existence Has Finally Been Stopped</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-07 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/openai-logo-1280x852.jpg" alt="There Was Just an Unusually Unsettling Pentagon-Related Resignation at OpenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/there-was-just-an-unusually-unsettling-pentagon-related-resignation-at-openai-2000731036" target="_blank">There Was Just an Unusually Unsettling Pentagon-Related Resignation at OpenAI</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-07 21:02</span>
             </div>
         </div>
 <div class="story">
@@ -278,15 +271,6 @@
                 <span class="time">2026-03-07 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/evangelion-asuka-1-1280x853.jpg" alt="Celebrate the Many Sides of Asuka in This 30th Anniversary ‘Evangelion’ Short" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/celebrate-the-many-sides-of-asuka-in-this-30th-anniversary-evangelion-short-2000730995" target="_blank">Celebrate the Many Sides of Asuka in This 30th Anniversary ‘Evangelion’ Short</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-07 16:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 94 | 📡 Total Sources: 43 | 📸 With Images: 274 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 43 | 📸 With Images: 274 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
