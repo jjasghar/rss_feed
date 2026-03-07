@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-07 01:30:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-07 02:46:56 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, March 07, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, March 07, 2026 - 02:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4703/live/e940d3a0-19b9-11f1-801d-ed3cff6bf876.jpg" alt="Soham murderer Ian Huntley taken off life support, BBC understands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62d410y4qko?at_medium=RSS&at_campaign=rss" target="_blank">Soham murderer Ian Huntley taken off life support, BBC understands</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-07 01:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/7/iranian-missiles-over-tel-aviv-prompt-sirens-interceptor-launches?traffic_source=rss" target="_blank">Iranian missiles over Tel Aviv prompt sirens, interceptor launches</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-07 01:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/iran-3-gty-gmh-260306_1772805238169_hpMain_4x3t_384.jpg" alt="Iran live updates: 27,000 Americans have returned to US from Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,24 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/6/cuba-closes-quito-embassy-after-ecuadors-daniel-noboa-expels-its-diplomats?traffic_source=rss" target="_blank">Cuba closes Quito embassy after Ecuador’s Daniel Noboa expels its diplomats</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-06 23:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/school-minab-03-ap-jt-260228_1772313584069_hpMain_4x3t_384.jpg" alt="Iran live updates: US was operating in area of school ahead of strike, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: US was operating in area of school ahead of strike, sources say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-06 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-11-ht-gmh-260304_1772644440705_hpMain_4x3t_384.jpg" alt="US believes Russia is providing Iran with locations of American troops, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/us-believes-russia-providing-iran-locations-american-troops/story?id=130833310" target="_blank">US believes Russia is providing Iran with locations of American troops, sources say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-06 21:40</span>
             </div>
         </div>
 </div>
@@ -169,6 +164,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd9gyjjtvsznaf4mx3821.png" alt="Re-imagine DevSecOps with AWS - CD applied to Authorization with IAM Identity Center and AWS IAM Access Analyzer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/re-imagine-devsecops-with-aws-cd-applied-to-authorization-with-iam-identity-center-and-aws-iam-3lk6" target="_blank">Re-imagine DevSecOps with AWS - CD applied to Authorization with IAM Identity Center and AWS IAM Access Analyzer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-07 02:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.6.x-Polish-Fixes" target="_blank">KDE Plasma Saw A Lot Of Bug/Crash Fixing &amp; UI Polishing This Week</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-07 01:24</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -202,24 +215,6 @@
                 <span class="title"><a href="https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/" target="_blank">How to scan for vulnerabilities with GitHub Security Lab’s open source AI-powered framework</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-03-06 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18926392&w=600" alt="2026 Developer Research Report" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/2026-developer-research-report" target="_blank">2026 Developer Research Report</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-06 20:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.adaic.org/ada-resources/standards/ada22/" target="_blank">Ada 2022</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-06 20:03</span>
             </div>
         </div>
 </div>
@@ -377,8 +372,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 33 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 33 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 02:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
