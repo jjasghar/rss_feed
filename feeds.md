@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-07 18:02:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-07 19:03:46 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, March 07, 2026 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, March 07, 2026 - 19:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/7/israel-launches-raid-in-lebanon-searching-for-missing-pilot?traffic_source=rss" target="_blank">Israel launches raid in Lebanon searching for missing pilot</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-07 18:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/upfront/2026/3/7/war-against-iran-how-far-will-it-go?traffic_source=rss" target="_blank">War against Iran: How far will it go?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-07 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/619f/live/ccf608d0-1a2e-11f1-b048-c9424b2cf5fd.jpg" alt="UK aircraft carrier given five days to be ready to deploy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c39w2nj1rk8o?at_medium=RSS&at_campaign=rss" target="_blank">UK aircraft carrier given five days to be ready to deploy</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-07 14:52</span>
             </div>
         </div>
 </div>
@@ -166,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/custodiaadmin/enterprise-mcp-governance-is-here-and-its-missing-visual-proof-235k" target="_blank">Enterprise MCP Governance Is Here — and It&#x27;s Missing Visual Proof</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-07 18:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/03/dropbox-scaling-human-judgement/en/headerimage/dropbox-scaling-human-judgement-1772903595832.jpeg" alt="Scaling Human Judgment: How Dropbox Uses LLMs to Improve Labeling for RAG Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -208,15 +214,6 @@
                 <span class="title"><a href="https://github.com/yessGlory17/argus" target="_blank">Show HN: Argus – VSCode debugger for Claude Code sessions</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-07 15:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-GAIA-0.16" target="_blank">AMD GAIA 0.16 Introduces C++17 Agent Framework For Building AI PC Agents In Pure C++</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-07 15:07</span>
             </div>
         </div>
 </div>
@@ -324,22 +321,13 @@
                 <span class="time">2026-03-06 19:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/06/man-bun" target="_blank">Man Bun</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-03-06 18:10</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 43 | 📸 With Images: 269 |
+        🔄 Last Updated: 19:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
