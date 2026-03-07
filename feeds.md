@@ -1,31 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-03-07 04:27:46 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-07 05:14:03 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, March 07, 2026 - 04:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, March 07, 2026 - 05:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +99,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/06/robinhoods-startup-fund-stumbles-in-nyse-debut/" target="_blank">Robinhood’s startup fund stumbles in NYSE debut</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-07 02:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69a9ed524d78fe1b285c59c4/master/pass/Gear_Spectre_2.jpg" alt="This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -145,20 +152,20 @@
                 <span class="time">2026-03-06 22:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/06/life-ev-officially-owns-rad-power-bikes-now/" target="_blank">Life EV officially owns Rad Power Bikes now</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-06 21:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ckmtools/i-built-a-free-hemingway-editor-alternative-that-runs-in-your-browser-14d4" target="_blank">I Built a Free Hemingway Editor Alternative That Runs in Your Browser</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-07 04:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd9gyjjtvsznaf4mx3821.png" alt="Re-imagine DevSecOps with AWS - CD applied to Authorization with IAM Identity Center and AWS IAM Access Analyzer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,15 +209,6 @@
                 <span class="title"><a href="https://will-keleher.com/posts/this-css-makes-me-human/" target="_blank">this css proves me human</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-06 21:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/" target="_blank">How to scan for vulnerabilities with GitHub Security Lab’s open source AI-powered framework</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-03-06 21:09</span>
             </div>
         </div>
 </div>
@@ -354,22 +352,13 @@
                 <span class="time">2026-03-06 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/bazookasaurus.png" alt="Bazookasaurus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3216/" target="_blank">Bazookasaurus</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-03-06 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 33 | 📅 Last 24h: 135 | 📡 Total Sources: 43 | 📸 With Images: 280 |
-        🔄 Last Updated: 04:27 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 135 | 📡 Total Sources: 43 | 📸 With Images: 280 |
+        🔄 Last Updated: 05:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
