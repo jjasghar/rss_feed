@@ -1,27 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-07 06:05:30 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-07 07:07:56 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 0 new posts out of 19 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, March 07, 2026 - 06:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, March 07, 2026 - 07:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/07/g-s1-112852/trump-americas-summit" target="_blank">Trump looks to turn attention to Western Hemisphere at Americas summit</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-07 05:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/7/iranian-missiles-over-tel-aviv-prompt-sirens-interceptor-launches?traffic_source=rss" target="_blank">Iranian missiles over Tel Aviv prompt sirens, interceptor launches</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-07 01:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-3-gty-gmh-260306_1772805238169_hpMain_4x3t_384.jpg" alt="Iran live updates: 27,000 Americans have returned to US from Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: 27,000 Americans have returned to US from Middle East</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-07 00:37</span>
             </div>
         </div>
 </div>
@@ -159,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/prince_sharma_spx/developers-should-learn-a-little-marketing-38ld" target="_blank">Developers Should Learn a Little Marketing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-07 06:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ckmtools/i-built-a-free-hemingway-editor-alternative-that-runs-in-your-browser-14d4" target="_blank">I Built a Free Hemingway Editor Alternative That Runs in Your Browser</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-07 04:33</span>
@@ -198,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Wine-11.4-Released" target="_blank">Wine 11.4 Released With More Improvements</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-06 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://will-keleher.com/posts/this-css-makes-me-human/" target="_blank">this css proves me human</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-06 21:52</span>
             </div>
         </div>
 </div>
@@ -355,8 +363,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 133 | 📡 Total Sources: 43 | 📸 With Images: 280 |
-        🔄 Last Updated: 06:05 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 131 | 📡 Total Sources: 43 | 📸 With Images: 278 |
+        🔄 Last Updated: 07:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
