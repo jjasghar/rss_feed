@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-07 12:02:26 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-07 13:14:10 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, March 07, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, March 07, 2026 - 13:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/7/india-vs-new-zealand-fans-hope-for-world-cup-final-redemption-in-ahmedabad?traffic_source=rss" target="_blank">India vs New Zealand: Fans hope for World Cup final redemption in Ahmedabad</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-07 13:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/07/nx-s1-5734392/sleep-better-wind-down-routine-bedtime-rituals" target="_blank">Too hyped up to sleep? Rituals to calm your body and mind before bed</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-07 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/7/iranian-kurd-leader-in-iraq-says-ground-operation-into-iran-highly-likely?traffic_source=rss" target="_blank">Iranian Kurd leader in Iraq says ground operation into Iran ‘highly likely’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-07 09:50</span>
             </div>
         </div>
 </div>
@@ -168,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/micheal_angelo_41cea4e81a/what-happens-behind-the-scenes-when-you-publish-a-website-33n2" target="_blank">What Happens Behind the Scenes When You Publish a Website</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-07 13:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kailash_ac43c0ef1daf14abd/what-changed-when-our-research-pipeline-hit-a-pdf-wall-production-case-study-g94" target="_blank">What Changed When Our Research Pipeline Hit a PDF Wall (Production Case Study)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-07 11:48</span>
@@ -207,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/prince_sharma_spx/developers-should-learn-a-little-marketing-38ld" target="_blank">Developers Should Learn a Little Marketing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-07 06:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ckmtools/i-built-a-free-hemingway-editor-alternative-that-runs-in-your-browser-14d4" target="_blank">I Built a Free Hemingway Editor Alternative That Runs in Your Browser</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-07 04:33</span>
             </div>
         </div>
 </div>
@@ -346,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 43 | 📸 With Images: 274 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 13:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
