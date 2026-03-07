@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-07 13:14:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-07 14:02:44 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, March 07, 2026 - 13:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, March 07, 2026 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-3-gty-gmh-260306_1772805238169_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran says no unconditional surrender, apologizes to neighbors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: Iran says no unconditional surrender, apologizes to neighbors</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-07 13:07</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/7/india-vs-new-zealand-fans-hope-for-world-cup-final-redemption-in-ahmedabad?traffic_source=rss" target="_blank">India vs New Zealand: Fans hope for World Cup final redemption in Ahmedabad</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-07 13:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/07/nx-s1-5731444/opinion-the-immorality-of-betting-on-war" target="_blank">Opinion: The immorality of betting on war</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-07 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -71,29 +92,11 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260228-donald-trump-iran-ww-2129-9afd59.jpg" alt="Camouflage and crudites: Trump wages war and hosts parties at Mar-a-Lago" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/07/nx-s1-5739242/iran-war-oil-trump-israel-spain-economy-one-week" target="_blank">One week into the Iran war, the fallout is global</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-07 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/07/g-s1-112246/curling-had-its-moment-at-the-olympics-and-now-paralympics-it-sparked-a-curling-bonanza-in-america" target="_blank">Curling had its moment at the Olympics and now Paralympics. It sparked a curling bonanza in America</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-07 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/07/nx-s1-5734392/sleep-better-wind-down-routine-bedtime-rituals" target="_blank">Too hyped up to sleep? Rituals to calm your body and mind before bed</a></span>
-                <span class="feed">NPR Topics: News</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-wages-iran-war-situation-room-mar-lago-rcna261389" target="_blank">Camouflage and crudites: Trump wages war and hosts parties at Mar-a-Lago</a></span>
+                <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-03-07 10:00</span>
             </div>
         </div>
@@ -102,6 +105,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai" target="_blank">The OpenClaw superfan meetup serves optimism and lobster</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-07 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69ab7beedf7471f343fe92b0/master/pass/Spring%20Scrub_Cable%20Management.png" alt="The WIRED Guide to Wires: How to Manage the Mess of Cables Around Your Desk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/fix-the-dangling-wires-behind-your-desk/" target="_blank">The WIRED Guide to Wires: How to Manage the Mess of Cables Around Your Desk</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-07 13:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69ab9385e507bc24d160dc68/master/pass/The%20Best%20MIDI%20Controllers%20for%20Synths,%20Recording,%20and%20More.png" alt="The Best MIDI Controllers for Synths, Guitars, and More (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +159,20 @@
                 <span class="time">2026-03-07 02:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a9ed524d78fe1b285c59c4/master/pass/Gear_Spectre_2.jpg" alt="This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/deveillance-spectre-i/" target="_blank">This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-06 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a9ed524d78fe1b285c59c4/master/pass/Gear_Spectre_2.jpg" alt="This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won&#x27;t Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/deveillance-spectre-i/" target="_blank">This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won&#x27;t Work</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-06 23:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kamilbakierzynski/i-built-a-3d-room-moodboard-that-works-with-screenshots-from-any-store-35a4" target="_blank">I built a 3D room moodboard that works with screenshots from any store</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-07 13:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +218,6 @@
                 <span class="time">2026-03-07 09:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/prince_sharma_spx/developers-should-learn-a-little-marketing-38ld" target="_blank">Developers Should Learn a Little Marketing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-07 06:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/IMG_1996-1280x720.jpg" alt="Resident Evil Requiem Director Takes Internet Break After The Leon Shipping War Gets Out Of Hand" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/resident-evil-requiem-koshi-nakanishi-leon-wedding-ring-2000676756" target="_blank">Resident Evil Requiem Director Takes Internet Break After The Leon Shipping War Gets Out Of Hand</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-07 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/Hoppers-Kings-1280x853.jpg" alt="The Director of ‘Hoppers’ Was Sure He’d Have to Cut Its Most Shocking Moment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +298,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/retro-atari-gaming-handheld-deal-march-2026?utm_medium=RSS" target="_blank">This Handheld Atari Console Comes With 200 Old-School Games, and It&#x27;s $50 Off</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-06 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Bruce-Willis-Armageddon-1280x853.jpg" alt="The Author Behind ‘The Social Network’ Has an Asteroid Movie Coming Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-author-behind-the-social-network-has-an-asteroid-movie-coming-out-2000730674" target="_blank">The Author Behind ‘The Social Network’ Has an Asteroid Movie Coming Out</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-06 19:30</span>
             </div>
         </div>
 </div>
@@ -343,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 13:14 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 123 | 📡 Total Sources: 43 | 📸 With Images: 274 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
