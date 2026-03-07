@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-07 20:01:57 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-03-07 21:01:40 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, March 07, 2026 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, March 07, 2026 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +107,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/" target="_blank">OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-07 20:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games" target="_blank">Sony appears to be testing dynamic pricing on PlayStation games</a></span>
                 <span class="feed">The Verge</span>
@@ -147,15 +156,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/03/a-unicorn-like-spinosaurus-found-in-the-sahara/" target="_blank">A unicorn-like Spinosaurus found in the Sahara</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-03-07 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69ab9385e507bc24d160dc68/master/pass/The%20Best%20MIDI%20Controllers%20for%20Synths,%20Recording,%20and%20More.png" alt="The Best MIDI Controllers for Synths, Guitars, and More (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-midi-controllers/" target="_blank">The Best MIDI Controllers for Synths, Guitars, and More (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-07 12:00</span>
             </div>
         </div>
 </div>
@@ -237,6 +237,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/the-mandalorian-and-grogu-rotta-1280x853.jpg" alt="Seeing Jabba the Hutt’s Son in ‘The Mandalorian &amp; Grogu’ Is Breaking Me" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/seeing-jabba-the-hutts-son-in-the-mandalorian-grogu-is-breaking-me-2000730847" target="_blank">Seeing Jabba the Hutt’s Son in ‘The Mandalorian &amp; Grogu’ Is Breaking Me</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-07 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/division-2s-1280x694.jpg" alt="The Division 2 Comes Roaring Back On Steam After Plummeting To $3 Bargain Bin Territory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/division-2-steam-sale-cheap-roadmap-update-2000676999" target="_blank">The Division 2 Comes Roaring Back On Steam After Plummeting To $3 Bargain Bin Territory</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-07 19:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/stephen-spielberg-disclosure-emily-blunt-1280x853.jpg" alt="‘Disclosure Day’ or Not, UFO Movies Never Left" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -272,24 +290,6 @@
                 <span class="time">2026-03-07 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/monsters-inc-pixar-hed-1280x853.jpg" alt="Pixar Is Developing ‘Monsters Inc. 3’, a Ghost Story and Its First Musical" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/pixar-is-developing-monsters-inc-3-a-ghost-story-and-its-first-musical-2000730953" target="_blank">Pixar Is Developing ‘Monsters Inc. 3’, a Ghost Story and Its First Musical</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-07 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/2026_Marathon_Preorder_Press_Kit_Deluxe_Rewards_Compressed_002-1280x720.jpg" alt="Marathon Is Already Patching A Major Microtransaction Complaint With More Fixes On The Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marathon-lux-cosmetics-microtransactions-patch-ammo-2000676964" target="_blank">Marathon Is Already Patching A Major Microtransaction Complaint With More Fixes On The Way</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-07 14:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 103 | 📡 Total Sources: 43 | 📸 With Images: 271 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 100 | 📡 Total Sources: 43 | 📸 With Images: 272 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
