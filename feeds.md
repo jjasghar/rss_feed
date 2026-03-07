@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-03-07 03:37:11 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-03-07 04:27:46 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, March 07, 2026 - 03:37 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, March 07, 2026 - 04:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +48,24 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/7/anti-aircraft-fire-seen-in-eastern-lebanon-amid-israeli-incursion?traffic_source=rss" target="_blank">Anti-aircraft fire seen in eastern Lebanon amid Israeli incursion</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-07 03:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/06/nx-s1-5740596/trump-administrations-embattled-fda-vaccine-chief-is-leaving-for-the-second-time" target="_blank">Trump administration&#x27;s embattled FDA vaccine chief is leaving for the second time</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-07 02:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd6/live/fa5d3e90-197c-11f1-9156-4356592fc9c8.jpg" alt="Trump demands &#x27;unconditional surrender&#x27; from Iran as Putin speaks with Iran&#x27;s president" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yq82k1wk8o?at_medium=RSS&at_campaign=rss" target="_blank">Trump demands &#x27;unconditional surrender&#x27; from Iran as Putin speaks with Iran&#x27;s president</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-07 02:04</span>
             </div>
         </div>
 <div class="story">
@@ -80,24 +93,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: 27,000 Americans have returned to US from Middle East</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-07 00:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/06/g-s1-112830/bernard-lafayette-dies" target="_blank">Bernard LaFayette, Selma voting rights organizer, dies at 85</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-07 00:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772845203257_nn_ren_trump_demands_unconditional_surrender_from_iran_260306_1920x1080-d51r8z.jpg" alt="Trump demands ‘unconditional surrender’ from Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-demands-unconditional-surrender-from-iran-258862661671" target="_blank">Trump demands ‘unconditional surrender’ from Iran</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-06 23:52</span>
             </div>
         </div>
 </div>
@@ -373,8 +368,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 33 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 03:37 UTC
+        📊 Displayed: 33 | 📅 Last 24h: 135 | 📡 Total Sources: 43 | 📸 With Images: 280 |
+        🔄 Last Updated: 04:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
