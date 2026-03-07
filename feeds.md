@@ -1,29 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-07 09:04:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-07 10:01:52 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, March 07, 2026 - 09:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, March 07, 2026 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/07/nx-s1-5734392/sleep-better-wind-down-routine-bedtime-rituals" target="_blank">Too hyped up to sleep? Rituals to calm your body and mind before bed</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-07 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/7/iranian-kurd-leader-in-iraq-says-ground-operation-into-iran-highly-likely?traffic_source=rss" target="_blank">Iranian Kurd leader in Iraq says ground operation into Iran ‘highly likely’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-07 09:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-3-gty-gmh-260306_1772805238169_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran’s president says there’ll be no unconditional surrender" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: Iran’s president says there’ll be no unconditional surrender</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-07 09:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53a4/live/46be29a0-19a2-11f1-978b-fbdac352fba0.jpg" alt="US lands bomber at UK air base after warning of surge in strikes on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,33 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/07/nx-s1-5734381/white-house-messaging-iran-us-israel-war" target="_blank">What the Trump administration says about why it went to war with Iran</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-07 07:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-ukraine-kharkiv_7184893.jpg?20260307073643" alt="Seven killed in Russian missile strikes in Ukraine&#x27;s second largest city" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/two-children-among-seven-dead-in-russian-missile-strikes-in-ukraine-13516381" target="_blank">Seven killed in Russian missile strikes in Ukraine&#x27;s second largest city</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-07 07:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/07/g-s1-112852/trump-americas-summit" target="_blank">Trump looks to turn attention to Western Hemisphere at Americas summit</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-07 05:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/7/anti-aircraft-fire-seen-in-eastern-lebanon-amid-israeli-incursion?traffic_source=rss" target="_blank">Anti-aircraft fire seen in eastern Lebanon amid Israeli incursion</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-07 03:18</span>
             </div>
         </div>
 </div>
@@ -161,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rpi1337/building-udp-like-telemetry-with-auto-remediation-over-websockets-57h1" target="_blank">Building UDP-Like Telemetry with Auto-Remediation Over WebSockets</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-07 09:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/prince_sharma_spx/developers-should-learn-a-little-marketing-38ld" target="_blank">Developers Should Learn a Little Marketing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-07 06:56</span>
@@ -200,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.6.x-Polish-Fixes" target="_blank">KDE Plasma Saw A Lot Of Bug/Crash Fixing &amp; UI Polishing This Week</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-07 01:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://plasma-bigscreen.org" target="_blank">Plasma Bigscreen – 10-foot interface for KDE plasma</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-06 23:59</span>
             </div>
         </div>
 </div>
@@ -348,8 +358,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 129 | 📡 Total Sources: 43 | 📸 With Images: 277 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 130 | 📡 Total Sources: 43 | 📸 With Images: 275 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
