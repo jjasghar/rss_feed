@@ -1,31 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-07 00:07:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-07 01:30:42 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, March 07, 2026 - 00:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, March 07, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-3-gty-gmh-260306_1772805238169_hpMain_4x3t_384.jpg" alt="Iran live updates: 27,000 Americans have returned to US from Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: 27,000 Americans have returned to US from Middle East</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-07 00:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/06/g-s1-112830/bernard-lafayette-dies" target="_blank">Bernard LaFayette, Selma voting rights organizer, dies at 85</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-07 00:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772845203257_nn_ren_trump_demands_unconditional_surrender_from_iran_260306_1920x1080-d51r8z.jpg" alt="Trump demands ‘unconditional surrender’ from Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-demands-unconditional-surrender-from-iran-258862661671" target="_blank">Trump demands ‘unconditional surrender’ from Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-06 23:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,38 +104,20 @@
                 <span class="time">2026-03-06 21:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/06/nx-s1-5739370/netflix-ben-affleck-ai-interpositive-deal" target="_blank">Netflix acquires Ben Affleck&#x27;s AI company</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-06 21:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/6/us-issues-limited-licence-for-venezuelan-gold-following-high-level-visit?traffic_source=rss" target="_blank">US issues limited licence for Venezuelan gold following high-level visit</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-06 21:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-russia-paralympics_7184553.jpg?20260306203827" alt="Boos and boycotts as Russian flag returns to global sporting stage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/boos-and-boycotts-as-russian-flag-returns-to-sporting-stage-at-winter-paralympics-13516285" target="_blank">Boos and boycotts as Russian flag returns to global sporting stage</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-06 21:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69a9ed524d78fe1b285c59c4/master/pass/Gear_Spectre_2.jpg" alt="This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/deveillance-spectre-i/" target="_blank">This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-06 23:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69a9ed524d78fe1b285c59c4/master/pass/Gear_Spectre_2.jpg" alt="This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won&#x27;t Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -107,6 +125,15 @@
                 <span class="title"><a href="https://www.wired.com/story/deveillance-spectre-i/" target="_blank">This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won&#x27;t Work</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-03-06 23:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/890986/valve-steam-machine-frame-controller-delay-ram-memory" target="_blank">Valve says it still plans to ship the Steam Machine in 2026</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-06 23:39</span>
             </div>
         </div>
 <div class="story">
@@ -136,29 +163,20 @@
                 <span class="time">2026-03-06 21:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews" target="_blank">Grammarly is using our identities without permission</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-06 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/06/osha-probing-fatality-at-rivian-warehouse/" target="_blank">OSHA probing fatality at Rivian warehouse</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-06 20:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://plasma-bigscreen.org" target="_blank">Plasma Bigscreen – 10-foot interface for KDE plasma</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-06 23:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +220,6 @@
                 <span class="title"><a href="https://www.adaic.org/ada-resources/standards/ada22/" target="_blank">Ada 2022</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-06 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18908127&w=600" alt="Modern State Management: Signals, Observables, and Server Components" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/signals-vs-observables-vs-server-components" target="_blank">Modern State Management: Signals, Observables, and Server Components</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-06 20:00</span>
             </div>
         </div>
 </div>
@@ -269,6 +278,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-06 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2024/08/7e7957bd9d578d0ea5990cb5e1cd7bce-1280x720.jpg" alt="Major Fortnite Leaker Actually Worked For Epic Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -293,15 +311,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-author-behind-the-social-network-has-an-asteroid-movie-coming-out-2000730674" target="_blank">The Author Behind ‘The Social Network’ Has an Asteroid Movie Coming Out</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-06 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/lawyermario-1280x720.jpg" alt="Nintendo Suing United States Govt. Over Trump Tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nintendo-suing-united-states-govt-over-trump-tariffs-2000676696" target="_blank">Nintendo Suing United States Govt. Over Trump Tariffs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-06 18:40</span>
             </div>
         </div>
 </div>
@@ -368,8 +377,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 33 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 00:07 UTC
+        📊 Displayed: 33 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
