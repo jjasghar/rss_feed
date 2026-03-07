@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-07 17:02:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-07 18:02:10 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, March 07, 2026 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, March 07, 2026 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/07/descendants-of-zimbabwe-resistance-heroes-urge-uk-to-locate-looted-skulls" target="_blank">Descendants of Zimbabwe resistance heroes urge UK to locate looted skulls</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-07 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-sky-news-explains-us_7185243.jpg?20260307164500" alt="US v Iran - how did we get here?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/us-v-iran-how-did-we-get-here-13516544" target="_blank">US v Iran - how did we get here?</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-07 16:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/84801090-1a2a-11f1-b048-c9424b2cf5fd.jpg" alt="Iranian ambassador warns UK to be &#x27;very careful&#x27; about further involvement in war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss" target="_blank">Iranian ambassador warns UK to be &#x27;very careful&#x27; about further involvement in war</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-07 16:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/iran-3-gty-gmh-260306_1772805238169_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump warns Iran may face &#x27;complete destruction and certain death&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,38 +101,20 @@
                 <span class="time">2026-03-07 14:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/84801090-1a2a-11f1-b048-c9424b2cf5fd.jpg" alt="Iran will continue to defend itself against aggression, ambassador to UK says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss" target="_blank">Iran will continue to defend itself against aggression, ambassador to UK says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-07 14:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-3-gty-gmh-260306_1772805238169_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran says no unconditional surrender, apologizes to neighbors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: Iran says no unconditional surrender, apologizes to neighbors</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-07 13:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/7/india-vs-new-zealand-fans-hope-for-world-cup-final-redemption-in-ahmedabad?traffic_source=rss" target="_blank">India vs New Zealand: Fans hope for World Cup final redemption in Ahmedabad</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-07 13:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games" target="_blank">Sony appears to be testing dynamic pricing on PlayStation games</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-07 17:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +160,38 @@
                 <span class="time">2026-03-07 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69ab643d69eb9242c5114a60/master/pass/security_Iranian_Missiles_WIREDME.jpg" alt="How Each Gulf Country Is Intercepting Iranian Missiles and Drones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-each-gulf-country-is-intercepting-iranian-missiles-and-drones/" target="_blank">How Each Gulf Country Is Intercepting Iranian Missiles and Drones</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-07 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/dropbox-scaling-human-judgement/en/headerimage/dropbox-scaling-human-judgement-1772903595832.jpeg" alt="Scaling Human Judgment: How Dropbox Uses LLMs to Improve Labeling for RAG Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/dropbox-scaling-human-judgement/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Scaling Human Judgment: How Dropbox Uses LLMs to Improve Labeling for RAG Systems</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-07 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Budgie-10.10.2-Released" target="_blank">Budgie 10.10.2 Brings Improved Labwc Wayland Compositor Integration</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-07 17:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://cacm.acm.org/research/a-decade-of-docker-containers/" target="_blank">A Decade of Docker Containers</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-07 16:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,33 +219,6 @@
                 <span class="time">2026-03-07 15:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/irarainey/important-a-vs-code-extension-that-keeps-your-python-imports-clean-je6" target="_blank">Important: A VS Code Extension That Keeps Your Python Imports Clean</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-07 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kamilbakierzynski/i-built-a-3d-room-moodboard-that-works-with-screenshots-from-any-store-35a4" target="_blank">I built a 3D room moodboard that works with screenshots from any store</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-07 13:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/micheal_angelo_41cea4e81a/what-happens-behind-the-scenes-when-you-publish-a-website-33n2" target="_blank">What Happens Behind the Scenes When You Publish a Website</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-07 13:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,15 +233,6 @@
                 <span class="time">2026-03-06 22:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/anthropic-and-the-pentagon.html" target="_blank">Anthropic and the Pentagon</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-03-06 17:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -251,6 +245,15 @@
                 <span class="title"><a href="https://kotaku.com/heartopia-steam-life-sim-monkey-quest-racism-removed-2000676983" target="_blank">Heartopia Removes Questline Featuring ‘Monkey Noises’ After Accusations Of ‘Blatant Racism’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-07 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/evangelion-asuka-1-1280x853.jpg" alt="Celebrate the Many Sides of Asuka in This 30th Anniversary ‘Evangelion’ Short" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/celebrate-the-many-sides-of-asuka-in-this-30th-anniversary-evangelion-short-2000730995" target="_blank">Celebrate the Many Sides of Asuka in This 30th Anniversary ‘Evangelion’ Short</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-07 16:50</span>
             </div>
         </div>
 <div class="story">
@@ -289,20 +292,20 @@
                 <span class="time">2026-03-07 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Hoppers-Kings-1280x853.jpg" alt="The Director of ‘Hoppers’ Was Sure He’d Have to Cut Its Most Shocking Moment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-director-of-hoppers-was-sure-hed-have-to-cut-its-most-shocking-moment-2000730796" target="_blank">The Director of ‘Hoppers’ Was Sure He’d Have to Cut Its Most Shocking Moment</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-06 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1772766766-20260307Copy.png" alt="Saturday Morning Breakfast Cereal - Pumpkin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/pumpkin" target="_blank">Saturday Morning Breakfast Cereal - Pumpkin</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-07 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -335,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 43 | 📸 With Images: 271 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
