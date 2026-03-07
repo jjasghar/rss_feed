@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-07 14:02:44 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-07 15:01:52 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, March 07, 2026 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, March 07, 2026 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/84801090-1a2a-11f1-b048-c9424b2cf5fd.jpg" alt="Iran will continue to defend itself against aggression, ambassador to UK says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss" target="_blank">Iran will continue to defend itself against aggression, ambassador to UK says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-07 14:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/iran-3-gty-gmh-260306_1772805238169_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran says no unconditional surrender, apologizes to neighbors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +103,6 @@
                 <span class="time">2026-03-07 10:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260228-donald-trump-iran-ww-2129-9afd59.jpg" alt="Camouflage and crudites: Trump wages war and hosts parties at Mar-a-Lago" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-wages-iran-war-situation-room-mar-lago-rcna261389" target="_blank">Camouflage and crudites: Trump wages war and hosts parties at Mar-a-Lago</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-07 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -121,6 +124,15 @@
                 <span class="title"><a href="https://www.wired.com/story/fix-the-dangling-wires-behind-your-desk/" target="_blank">The WIRED Guide to Wires: How to Manage the Mess of Cables Around Your Desk</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-03-07 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/spinosaurus-mirabilis-main-Background-Removed-500x500.jpeg" alt="A unicorn-like Spinosaurus found in the Sahara" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/03/a-unicorn-like-spinosaurus-found-in-the-sahara/" target="_blank">A unicorn-like Spinosaurus found in the Sahara</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-07 12:30</span>
             </div>
         </div>
 <div class="story">
@@ -150,20 +162,20 @@
                 <span class="time">2026-03-07 02:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/06/robinhoods-startup-fund-stumbles-in-nyse-debut/" target="_blank">Robinhood’s startup fund stumbles in NYSE debut</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-07 02:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/irarainey/important-a-vs-code-extension-that-keeps-your-python-imports-clean-je6" target="_blank">Important: A VS Code Extension That Keeps Your Python Imports Clean</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-07 14:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -183,39 +195,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/03/aws-ec2-nested-virtualization/en/headerimage/generatedHeaderImage-1771609127095.jpg" alt="AWS Introduces Nested Virtualization on EC2 Instances" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/aws-ec2-nested-virtualization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces Nested Virtualization on EC2 Instances</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-07 12:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15.1-Realtek-KDE-Wins" target="_blank">FreeBSD 15.1 On Track With Better Realtek WiFi &amp; KDE Desktop Install Option</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-07 12:13</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kailash_ac43c0ef1daf14abd/what-changed-when-our-research-pipeline-hit-a-pdf-wall-production-case-study-g94" target="_blank">What Changed When Our Research Pipeline Hit a PDF Wall (Production Case Study)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-07 11:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/cloudflare-post-quantum-ipsec/en/headerimage/generatedHeaderImage-1772203190740.jpg" alt="Standardizing Post-Quantum IPsec: Cloudflare Adopts Hybrid ML-KEM to Replace Ciphersuite Bloat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/cloudflare-post-quantum-ipsec/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Standardizing Post-Quantum IPsec: Cloudflare Adopts Hybrid ML-KEM to Replace Ciphersuite Bloat</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-07 10:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej" target="_blank">3 words worth a billion dollars: Drift to Determinism (DriDe)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-07 10:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rpi1337/building-udp-like-telemetry-with-auto-remediation-over-websockets-57h1" target="_blank">Building UDP-Like Telemetry with Auto-Remediation Over WebSockets</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-07 09:53</span>
             </div>
         </div>
 </div>
@@ -246,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/2026_Marathon_Preorder_Press_Kit_Deluxe_Rewards_Compressed_002-1280x720.jpg" alt="Marathon Is Already Patching A Major Microtransaction Complaint With More Fixes On The Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marathon-lux-cosmetics-microtransactions-patch-ammo-2000676964" target="_blank">Marathon Is Already Patching A Major Microtransaction Complaint With More Fixes On The Way</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-07 14:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/IMG_1996-1280x720.jpg" alt="Resident Evil Requiem Director Takes Internet Break After The Leon Shipping War Gets Out Of Hand" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +301,6 @@
                 <span class="title"><a href="https://kotaku.com/fortnite-leak-epic-games-adirafn-south-park-2000676751" target="_blank">Major Fortnite Leaker Actually Worked For Epic Games</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-06 20:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KK2B44HHQMG39S3F0GQ7X874/hero-image.png" alt="This Handheld Atari Console Comes With 200 Old-School Games, and It&#x27;s $50 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/retro-atari-gaming-handheld-deal-march-2026?utm_medium=RSS" target="_blank">This Handheld Atari Console Comes With 200 Old-School Games, and It&#x27;s $50 Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-06 20:00</span>
             </div>
         </div>
 </div>
@@ -346,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 123 | 📡 Total Sources: 43 | 📸 With Images: 274 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 43 | 📸 With Images: 273 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
