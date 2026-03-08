@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-08 01:30:45 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-03-08 02:55:35 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, March 08, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, March 08, 2026 - 02:55 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -171,10 +163,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mock_server/stop-waiting-for-the-backend-mock-your-apis-in-30-seconds-56m4" target="_blank">Stop Waiting for the Backend — Mock Your APIs in 30 Seconds</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-08 02:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-epoll-Zen-2-Opt" target="_blank">Linux 7.0 Adds A New Minor Performance Optimization Shown With AMD Zen 2 CPUs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-08 01:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html" target="_blank">Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-08 00:44</span>
             </div>
         </div>
 <div class="story">
@@ -202,24 +212,6 @@
                 <span class="title"><a href="https://github.com/0x0mer/CasNum" target="_blank">CasNum</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-07 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fklnbtz6a5rs2xq8em3sa.png" alt="Auditing AI Systems: A Practical Guide to Testing Models for Bias, Compliance, Security, and Explainability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/qa-leaders/auditing-ai-systems-a-practical-guide-to-testing-models-for-bias-compliance-security-and-2n9e" target="_blank">Auditing AI Systems: A Practical Guide to Testing Models for Bias, Compliance, Security, and Explainability</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-07 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/custodiaadmin/enterprise-mcp-governance-is-here-and-its-missing-visual-proof-235k" target="_blank">Enterprise MCP Governance Is Here — and It&#x27;s Missing Visual Proof</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-07 18:41</span>
             </div>
         </div>
 </div>
@@ -300,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 43 | 📸 With Images: 270 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 43 | 📸 With Images: 269 |
+        🔄 Last Updated: 02:55 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
