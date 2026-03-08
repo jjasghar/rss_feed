@@ -1,39 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-03-08 05:17:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-08 06:09:03 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, March 08, 2026 - 05:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, March 08, 2026 - 06:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +58,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/8/flames-engulf-kuwaiti-high-rise-amid-iranian-drone-strikes?traffic_source=rss" target="_blank">Flames engulf Kuwaiti high-rise amid Iranian drone strikes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-08 04:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/07/nx-s1-5741132/trump-cuba-venezuela-cooperation-summit" target="_blank">Trump vows to &#x27;take care of Cuba,&#x27; praises Venezuela cooperation at summit</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-08 02:02</span>
             </div>
         </div>
 <div class="story">
@@ -94,20 +105,20 @@
                 <span class="time">2026-03-07 21:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772911317130_nbc_spec_hamamdjian_iran_skies_260307_1920x1080-ent9ee.jpg" alt="Skies above Tehran &#x27;turning orange&#x27; amid U.S. strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/skies-above-tehran-turning-orange-amid-u-s-strikes-258900549866" target="_blank">Skies above Tehran &#x27;turning orange&#x27; amid U.S. strikes</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-07 19:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/" target="_blank">A roadmap for AI, if anyone will listen</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-08 06:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +162,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/" target="_blank">OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-07 20:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games" target="_blank">Sony appears to be testing dynamic pricing on PlayStation games</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-07 17:52</span>
             </div>
         </div>
 </div>
@@ -299,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 43 | 📸 With Images: 267 |
-        🔄 Last Updated: 05:17 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 43 | 📸 With Images: 266 |
+        🔄 Last Updated: 06:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
