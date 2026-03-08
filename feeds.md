@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-08 00:06:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-08 01:30:45 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, March 08, 2026 - 00:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, March 08, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/8/trump-says-us-does-not-need-united-kingdom-aircraft-carriers-for-iran-war?traffic_source=rss" target="_blank">Trump says US does not need UK’s aircraft carriers for Iran war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-08 00:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772927112943_wnn_kod_trump_troops_return_260307_1920x1080-ertux0.jpg" alt="Trump oversees return of fallen American troops amid war with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-oversees-return-of-fallen-american-troops-amid-war-with-iran-258913349629" target="_blank">Trump oversees return of fallen American troops amid war with Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-07 23:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +102,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&at_campaign=rss" target="_blank">Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-07 19:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/07/nx-s1-5741133/deadly-tornadoes-michigan-oklahoma" target="_blank">Authorities searching debris after suspected tornadoes kill 6 in Michigan, Oklahoma</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-07 19:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/7/israel-launches-raid-in-lebanon-searching-for-missing-pilot?traffic_source=rss" target="_blank">Israel launches raid in Lebanon searching for missing pilot</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-07 18:24</span>
             </div>
         </div>
 </div>
@@ -166,6 +171,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-epoll-Zen-2-Opt" target="_blank">Linux 7.0 Adds A New Minor Performance Optimization Shown With AMD Zen 2 CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-08 01:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dapperdandev/singleton-pattern-12pp" target="_blank">Design Pattern Anatomy - Singleton Pattern</a></span>
                 <span class="feed">DEV Community</span>
@@ -179,6 +193,15 @@
                 <span class="title"><a href="https://zipcodefirst.com" target="_blank">Put the zipcode first</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-07 23:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/0x0mer/CasNum" target="_blank">CasNum</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-07 20:43</span>
             </div>
         </div>
 <div class="story">
@@ -199,29 +222,20 @@
                 <span class="time">2026-03-07 18:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/dropbox-scaling-human-judgement/en/headerimage/dropbox-scaling-human-judgement-1772903595832.jpeg" alt="Scaling Human Judgment: How Dropbox Uses LLMs to Improve Labeling for RAG Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/dropbox-scaling-human-judgement/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Scaling Human Judgment: How Dropbox Uses LLMs to Improve Labeling for RAG Systems</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-07 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Budgie-10.10.2-Released" target="_blank">Budgie 10.10.2 Brings Improved Labwc Wayland Compositor Integration</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-07 17:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/GP-Australia-Streaming-Free-1280x853.jpeg" alt="How to Watch the F1 Australian GP 2026 Live Stream for Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-to-watch-the-f1-australian-gp-2026-live-stream-for-free-2000728326" target="_blank">How to Watch the F1 Australian GP 2026 Live Stream for Free</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-07 23:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/cookie.jpg" alt="One Person’s Unhinged Crusade To Erase An Obscure PC Game From Existence Has Finally Been Stopped" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +281,6 @@
                 <span class="time">2026-03-07 18:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/hearts.jpg" alt="Heartopia Removes Questline Featuring ‘Monkey Noises’ After Accusations Of ‘Blatant Racism’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/heartopia-steam-life-sim-monkey-quest-racism-removed-2000676983" target="_blank">Heartopia Removes Questline Featuring ‘Monkey Noises’ After Accusations Of ‘Blatant Racism’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-07 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 43 | 📸 With Images: 272 |
-        🔄 Last Updated: 00:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 43 | 📸 With Images: 270 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
