@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-08 14:03:16 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-08 15:02:17 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, March 08, 2026 - 14:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, March 08, 2026 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -127,6 +120,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/69ab8df77066ad25778082bb/master/pass/How%20to%20Run%20Ethernet%20Cables%20to%20Your%20Router%20and%20Keep%20Them%20Tidy.png" alt="How to Run Ethernet Cables to Your Router and Keep Them Tidy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-run-ethernet-cables-around-your-home/" target="_blank">How to Run Ethernet Cables to Your Router and Keep Them Tidy</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-08 11:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69ab02c4ae15bcb547e25ca5/master/pass/GettyImages-1253877737.jpg" alt="Left-Handed People Are More Competitive, Says Science" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -153,20 +155,20 @@
                 <span class="time">2026-03-08 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/" target="_blank">Grammarly’s ‘expert review’ is just missing the actual experts</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-07 22:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/paulworks/i-cut-my-rails-hosting-costs-by-70-migrating-from-heroku-to-railway-22op" target="_blank">I Cut My Rails Hosting Costs by 70%: Migrating from Heroku to Railway</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-08 14:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnb63agub5bas6zoq39d3.png" alt="A Spec Template Built for AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -212,20 +214,20 @@
                 <span class="time">2026-03-08 09:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiv.org/abs/2603.03823" target="_blank">SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-08 08:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/spaceking-1280x680.jpg" alt="Web Cartoon’s ‘No Girls Allowed’ Box Set Spoofing Warhammer Gives Fans Lead Poisoning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/space-king-edgelord-miniatures-no-girls-allowed-box-set-2000677061" target="_blank">Web Cartoon’s ‘No Girls Allowed’ Box Set Spoofing Warhammer Gives Fans Lead Poisoning</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-08 14:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/the-sims-1280x853.jpg" alt="An AI Company Apparently Inspired by ‘the Sims’ Wants to Revolutionize Public Opinion Research" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +273,6 @@
                 <span class="time">2026-03-07 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/division-2s-1280x694.jpg" alt="The Division 2 Comes Roaring Back On Steam After Plummeting To $3 Bargain Bin Territory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/division-2-steam-sale-cheap-roadmap-update-2000676999" target="_blank">The Division 2 Comes Roaring Back On Steam After Plummeting To $3 Bargain Bin Territory</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-07 19:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -300,7 +293,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 43 | 📸 With Images: 262 |
-        🔄 Last Updated: 14:03 UTC
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
