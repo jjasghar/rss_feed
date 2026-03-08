@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-08 12:02:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-08 13:14:53 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, March 08, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, March 08, 2026 - 13:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/8/iran-war-threatens-prolonged-impact-on-energy-markets-as-oil-prices-rise?traffic_source=rss" target="_blank">Iran war threatens prolonged impact on energy markets as oil prices rise</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-08 12:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/08/g-s1-112521/photos-international-womens-day-justice-rights-action" target="_blank">Photos: These bold women stand up for justice, rights ... and freedom</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-08 11:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,29 +99,20 @@
                 <span class="time">2026-03-08 07:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/3/8/palestinians-risk-life-and-limb-to-fish-in-gazas-israeli-controlled-sea?traffic_source=rss" target="_blank">Palestinians risk life and limb to fish in Gaza’s Israeli-controlled sea</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-08 06:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/8/flames-engulf-kuwaiti-high-rise-amid-iranian-drone-strikes?traffic_source=rss" target="_blank">Flames engulf Kuwaiti high-rise amid Iranian drone strikes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-08 04:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/daredevilTOP-500x500-1772919296.jpg" alt="Jessica Jones joins the fray in Daredevil: Born Again trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/03/jessica-jones-joins-the-fray-in-daredevil-born-again-trailer/" target="_blank">Jessica Jones joins the fray in Daredevil: Born Again trailer</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-08 13:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69ab02c4ae15bcb547e25ca5/master/pass/GettyImages-1253877737.jpg" alt="Left-Handed People Are More Competitive, Says Science" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,20 +158,29 @@
                 <span class="time">2026-03-07 22:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/ghost2-500x500-1772823881.jpg" alt="Hunting for elusive &quot;ghost elephants&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/03/hunting-for-elusive-ghost-elephants/" target="_blank">Hunting for elusive &quot;ghost elephants&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-07 21:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FFmpeg-8.1-Coming-Soon" target="_blank">FFmpeg 8.1 Preparing For Release With Vulkan Improvements, JPEG-XS &amp; More</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-08 12:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/rspress-docs-2-release/en/headerimage/generatedHeaderImage-1772809836480.jpg" alt="Rspress 2.0: AI-Native Documentation, Faster Startup and a Redesigned Theme" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/rspress-docs-2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Rspress 2.0: AI-Native Documentation, Faster Startup and a Redesigned Theme</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-08 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/03/google-bigquery-cross-region-sql/en/headerimage/generatedHeaderImage-1772183601447.jpg" alt="Google BigQuery Previews Cross-Region SQL Queries for Distributed Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -191,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/prince_pandit_15ea3192c6d/how-i-invented-lodu-code-the-most-aggressive-desi-programming-language-2i87" target="_blank">How I Invented &quot;Lodu Code&quot; - The Most Aggressive Desi Programming Language</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-08 07:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mock_server/stop-waiting-for-the-backend-mock-your-apis-in-30-seconds-56m4" target="_blank">Stop Waiting for the Backend — Mock Your APIs in 30 Seconds</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-08 02:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-epoll-Zen-2-Opt" target="_blank">Linux 7.0 Adds A New Minor Performance Optimization Shown With AMD Zen 2 CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-08 01:23</span>
             </div>
         </div>
 </div>
@@ -289,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 43 | 📸 With Images: 266 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 43 | 📸 With Images: 264 |
+        🔄 Last Updated: 13:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
