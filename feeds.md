@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-08 21:02:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-08 22:01:55 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, March 08, 2026 - 21:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, March 08, 2026 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Mojtaba-Khamenei-1-ap-gmh-260303_1772594361227_hpMain_4x3t_384.jpg" alt="Iran live updates: Mojtaba Khamenei chosen as Iran&#x27;s next supreme leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: Mojtaba Khamenei chosen as Iran&#x27;s next supreme leader</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-08 21:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae4/live/262c84f0-1878-11f1-8f1d-d7bdb1ea156f.jpg" alt="Who is Mojtaba Khamenei, Iran&#x27;s new supreme leader?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&at_campaign=rss" target="_blank">Who is Mojtaba Khamenei, Iran&#x27;s new supreme leader?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-08 21:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/03/08/g-s1-112915/photos-scenes-from-jesse-jacksons-homegoing-services" target="_blank">Photos: Scenes from Jesse Jackson&#x27;s homegoing services</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-08 18:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-qatar-yalda_7186382.jpg?20260308200558" alt="Iran has &#x27;betrayed us&#x27; but all sides must de-escalate, says Qatar PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/iran-has-betrayed-us-but-all-sides-must-de-escalate-says-qatar-pm-13517019" target="_blank">Iran has &#x27;betrayed us&#x27; but all sides must de-escalate, says Qatar PM</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-08 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Mojtaba-Khamenei-1-ap-gmh-260303_1772594361227_hpMain_4x3t_384.jpg" alt="Iran live updates: Country&#x27;s Assembly of Experts want Khamenei&#x27;s son as next leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: Country&#x27;s Assembly of Experts want Khamenei&#x27;s son as next leader</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-08 17:48</span>
             </div>
         </div>
 </div>
@@ -173,6 +170,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://agent-safehouse.dev/" target="_blank">Agent Safehouse – macOS-native sandboxing for local agents</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-08 20:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ofyhde00d38u5ywgmys.png" alt="Building a Semantic Search API with Spring Boot and pgvector - Part 1: Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/tiamatenity/faq-employee-ai-monitoring-what-workers-need-to-know-1pnm" target="_blank">FAQ: Employee AI Monitoring — What Workers Need To Know</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-08 16:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/itlackey/your-ai-agents-skill-list-is-getting-out-of-hand-32ck" target="_blank">Your AI Agent&#x27;s Skill List Is Getting Out of Hand</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-08 15:58</span>
             </div>
         </div>
 </div>
@@ -295,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 43 | 📸 With Images: 260 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 43 | 📸 With Images: 259 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
