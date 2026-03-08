@@ -1,41 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-08 20:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-08 21:02:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, March 08, 2026 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, March 08, 2026 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/08/nx-s1-5741779/openai-resigns-ai-pentagon-guardrails-military" target="_blank">OpenAI robotics leader resigns over concerns about Pentagon AI deal</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-08 20:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Mojtaba-Khamenei-1-ap-gmh-260303_1772594361227_hpMain_4x3t_384.jpg" alt="Iran live updates: Assembly of Experts back Khamenei’s son as next leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,6 +82,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-qatar-yalda_7186382.jpg?20260308200558" alt="Iran has &#x27;betrayed us&#x27; but all sides must de-escalate, says Qatar PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/iran-has-betrayed-us-but-all-sides-must-de-escalate-says-qatar-pm-13517019" target="_blank">Iran has &#x27;betrayed us&#x27; but all sides must de-escalate, says Qatar PM</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-08 18:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/Mojtaba-Khamenei-1-ap-gmh-260303_1772594361227_hpMain_4x3t_384.jpg" alt="Iran live updates: Country&#x27;s Assembly of Experts want Khamenei&#x27;s son as next leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -87,29 +99,29 @@
                 <span class="time">2026-03-08 17:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/08/nx-s1-5741742/five-key-takeaways-from-an-annual-briefing-by-chinas-foreign-minister" target="_blank">Five key takeaways from an annual briefing by China&#x27;s foreign minister</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-08 17:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/3/8/israels-mossad-relies-on-us-cover-and-security-rot-for-iran-strikes?traffic_source=rss" target="_blank">Israel’s Mossad relies on US cover and security rot for Iran strikes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-08 17:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/" target="_blank">Will the Pentagon’s Anthropic controversy scare startups away from defense work?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-08 20:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/891151/apple-is-going-high-end-with-new-ultra-products-next" target="_blank">Apple is going high-end with new ‘Ultra’ products next</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-08 17:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,29 +158,20 @@
                 <span class="time">2026-03-08 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69ab02c4ae15bcb547e25ca5/master/pass/GettyImages-1253877737.jpg" alt="Left-Handed People Are More Competitive, Says Science" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/left-handed-people-are-more-competitive-says-science/" target="_blank">Left-Handed People Are More Competitive, Says Science</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-08 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/" target="_blank">A roadmap for AI, if anyone will listen</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-08 06:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fabio_a26a4e58d4163919a53/supabase-security-the-hidden-dangers-of-rls-and-how-to-audit-your-api-29e9" target="_blank">Supabase Security: The Hidden Dangers of RLS and How to Audit Your API 🛡️</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-08 20:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ofyhde00d38u5ywgmys.png" alt="Building a Semantic Search API with Spring Boot and pgvector - Part 1: Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -214,20 +217,20 @@
                 <span class="time">2026-03-08 15:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://fb.edoo.gg" target="_blank">FrameBook</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-08 15:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/spider-man-covers-1280x853.jpg" alt="Spider-Man Gets Two New Comics for ‘Brand New Day’ Synergy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/spider-man-gets-two-new-comics-for-brand-new-day-synergy-2000730740" target="_blank">Spider-Man Gets Two New Comics for ‘Brand New Day’ Synergy</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-08 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/iNeKWgcTqUJhBToaosUXgca2nSY-1280x719.jpg" alt="Take AI’s Job And Respond To Real Prompts In New Browser Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,15 +276,6 @@
                 <span class="time">2026-03-08 16:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Mini-4G-Android-Smartphone-with-Face-Unlock-2.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Out: Dumb phones. In: Mini phones." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/08/out-dumb-phones-in-mini-phones.html" target="_blank">Out: Dumb phones. In: Mini phones.</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-08 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 43 | 📸 With Images: 260 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
