@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-08 04:30:19 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-08 05:17:25 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 0 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, March 08, 2026 - 04:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, March 08, 2026 - 05:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/8/flames-engulf-kuwaiti-high-rise-amid-iranian-drone-strikes?traffic_source=rss" target="_blank">Flames engulf Kuwaiti high-rise amid Iranian drone strikes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-08 04:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +103,20 @@
                 <span class="time">2026-03-07 19:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2caa/live/28e2d850-1a5a-11f1-868f-4fb5e9a9e1f8.jpg" alt="Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&at_campaign=rss" target="_blank">Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-07 19:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/07/push-for-40-smartphones-builds-momentum-but-still-faces-cost-hurdles/" target="_blank">Push for $40 smartphones builds momentum, but still faces cost hurdles</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-08 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +162,6 @@
                 <span class="time">2026-03-07 17:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/890788/macbook-neo-air-pro-samsung-galaxy-s26-gift-card-deal-sale" target="_blank">Time’s running out to get a free gift card when you preorder a new MacBook</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-07 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -187,6 +189,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html" target="_blank">Cloud VM benchmarks 2026</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-08 00:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html" target="_blank">Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-08 00:44</span>
@@ -208,15 +219,6 @@
                 <span class="title"><a href="https://zipcodefirst.com" target="_blank">Put the zipcode first</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-07 23:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/0x0mer/CasNum" target="_blank">CasNum</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-07 20:43</span>
             </div>
         </div>
 </div>
@@ -297,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 43 | 📸 With Images: 270 |
-        🔄 Last Updated: 04:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 43 | 📸 With Images: 267 |
+        🔄 Last Updated: 05:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
