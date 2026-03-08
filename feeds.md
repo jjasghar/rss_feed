@@ -1,37 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-03-08 07:10:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-08 08:02:37 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 28 feeds processed -->
+<!-- Generated 2 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, March 08, 2026 - 07:10 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, March 08, 2026 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/8/iran-war-what-is-happening-on-day-nine-of-us-israel-attacks?traffic_source=rss" target="_blank">Iran war: What is happening on day nine of US-Israel attacks?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-08 07:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +106,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/trump-oversees-return-of-fallen-american-troops-amid-war-with-iran-258913349629" target="_blank">Trump oversees return of fallen American troops amid war with Iran</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-03-07 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/07/nx-s1-5741076/british-columbia-daylight-saving-time" target="_blank">British Columbia to make daylight saving time permanent</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-07 23:25</span>
             </div>
         </div>
 </div>
@@ -169,6 +176,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/prince_pandit_15ea3192c6d/how-i-invented-lodu-code-the-most-aggressive-desi-programming-language-2i87" target="_blank">How I Invented &quot;Lodu Code&quot; - The Most Aggressive Desi Programming Language</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-08 07:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mock_server/stop-waiting-for-the-backend-mock-your-apis-in-30-seconds-56m4" target="_blank">Stop Waiting for the Backend — Mock Your APIs in 30 Seconds</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-08 02:50</span>
@@ -208,15 +224,6 @@
                 <span class="title"><a href="https://dev.to/dapperdandev/singleton-pattern-12pp" target="_blank">Design Pattern Anatomy - Singleton Pattern</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-07 23:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://zipcodefirst.com" target="_blank">Put the zipcode first</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-07 23:26</span>
             </div>
         </div>
 </div>
@@ -297,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 43 | 📸 With Images: 266 |
-        🔄 Last Updated: 07:10 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 43 | 📸 With Images: 265 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
