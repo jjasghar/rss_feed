@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-03-08 22:01:55 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-03-08 23:02:14 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, March 08, 2026 - 22:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, March 08, 2026 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -61,6 +60,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260304-Mojtaba-Khamenei-gk-c37f74.jpg" alt="Mojtaba Khamenei, son of late ayatollah, named Iran&#x27;s new supreme leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/iran/iran-supreme-leader-mojtaba-khamenei-rcna261645" target="_blank">Mojtaba Khamenei, son of late ayatollah, named Iran&#x27;s new supreme leader</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-08 21:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -85,15 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2026/3/8/how-do-you-track-a-war-in-real-time?traffic_source=rss" target="_blank">How do you track a war in real time?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-08 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/03/08/g-s1-112915/photos-scenes-from-jesse-jacksons-homegoing-services" target="_blank">Photos: Scenes from Jesse Jackson&#x27;s homegoing services</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-08 18:20</span>
             </div>
         </div>
 </div>
@@ -164,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jcasman/howto-start-a-python-project-with-uv-and-build-your-first-flet-ui-app-ch0" target="_blank">HowTo: Start a Python Project with `uv` and Build Your First Flet UI App</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-08 22:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/fabio_a26a4e58d4163919a53/supabase-security-the-hidden-dangers-of-rls-and-how-to-audit-your-api-29e9" target="_blank">Supabase Security: The Hidden Dangers of RLS and How to Audit Your API 🛡️</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-08 20:45</span>
@@ -203,15 +211,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/resources-1-10-2-intel-npu-fixes" target="_blank">Resources 1.10.2 fixes ‘implausible’ Intel NPU values</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-03-08 17:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tiamatenity/faq-employee-ai-monitoring-what-workers-need-to-know-1pnm" target="_blank">FAQ: Employee AI Monitoring — What Workers Need To Know</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-08 16:52</span>
             </div>
         </div>
 </div>
@@ -292,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 43 | 📸 With Images: 259 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 43 | 📸 With Images: 260 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
