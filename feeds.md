@@ -1,43 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-08 18:02:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-08 19:04:38 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 34 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, March 08, 2026 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, March 08, 2026 - 19:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/03/08/g-s1-112915/photos-scenes-from-jesse-jacksons-homegoing-services" target="_blank">Photos: Scenes from Jesse Jackson&#x27;s homegoing services</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-08 18:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Mojtaba-Khamenei-1-ap-gmh-260303_1772594361227_hpMain_4x3t_384.jpg" alt="Iran live updates: Country&#x27;s Assembly of Experts want Khamenei&#x27;s son as next leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -96,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/3/8/is-israel-reshaping-lebanon-trying-to-separate-hezbollah-from-its-people?traffic_source=rss" target="_blank">Is Israel reshaping Lebanon, trying to separate Hezbollah from its people?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-08 16:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-2-gty-gmh-260303_1772557032732_hpMain_4x3t_384.jpg" alt="Iran&#x27;s next supreme leader won&#x27;t &#x27;last long&#x27; without my approval, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/irans-supreme-leader-long-approval-trump/story?id=130878307" target="_blank">Iran&#x27;s next supreme leader won&#x27;t &#x27;last long&#x27; without my approval, Trump says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-08 16:09</span>
             </div>
         </div>
 </div>
@@ -231,6 +221,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/satyanadella.jpg" alt="Microsoft Shoots Down “Blank Check” Rumor About Project Helix Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/microsoft-shoots-down-blank-check-rumor-about-project-helix-budget-2000677082" target="_blank">Microsoft Shoots Down “Blank Check” Rumor About Project Helix Budget</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-08 19:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/apple-watch-ultra-3-review-9-1280x853.jpg" alt="Report Says More High-End ‘Ultra’ Apple Products Are On Their Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -275,15 +274,6 @@
                 <span class="time">2026-03-07 23:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/cookie.jpg" alt="One Person’s Unhinged Crusade To Erase An Obscure PC Game From Existence Has Finally Been Stopped" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/one-persons-unhinged-crusade-to-erase-an-obscure-pc-game-from-existence-has-finally-been-stopped-2000677017" target="_blank">One Person’s Unhinged Crusade To Erase An Obscure PC Game From Existence Has Finally Been Stopped</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-07 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 43 | 📸 With Images: 261 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 43 | 📸 With Images: 260 |
+        🔄 Last Updated: 19:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
