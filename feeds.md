@@ -1,33 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-03-08 17:03:26 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-08 18:02:18 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 11 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, March 08, 2026 - 17:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, March 08, 2026 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +54,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/Mojtaba-Khamenei-1-ap-gmh-260303_1772594361227_hpMain_4x3t_384.jpg" alt="Iran live updates: Country&#x27;s Assembly of Experts want Khamenei&#x27;s son as next leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: Country&#x27;s Assembly of Experts want Khamenei&#x27;s son as next leader</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-08 17:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/08/nx-s1-5741742/five-key-takeaways-from-an-annual-briefing-by-chinas-foreign-minister" target="_blank">Five key takeaways from an annual briefing by China&#x27;s foreign minister</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-08 17:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/3/8/israels-mossad-relies-on-us-cover-and-security-rot-for-iran-strikes?traffic_source=rss" target="_blank">Israel’s Mossad relies on US cover and security rot for Iran strikes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-08 17:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a833/live/cb9345a0-1b0c-11f1-870b-03d961994130.jpg" alt="Starmer and Trump speak for first time since president&#x27;s Iran criticism" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer and Trump speak for first time since president&#x27;s Iran criticism</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-08 16:56</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -59,42 +105,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/irans-supreme-leader-long-approval-trump/story?id=130878307" target="_blank">Iran&#x27;s next supreme leader won&#x27;t &#x27;last long&#x27; without my approval, Trump says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-08 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/08/nx-s1-5741670/explosion-outside-us-embassy-in-oslo-norway" target="_blank">Police investigate an explosion outside the U.S. Embassy in Oslo</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-08 13:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/8/iran-war-threatens-prolonged-impact-on-energy-markets-as-oil-prices-rise?traffic_source=rss" target="_blank">Iran war threatens prolonged impact on energy markets as oil prices rise</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-08 12:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/08/g-s1-112521/photos-international-womens-day-justice-rights-action" target="_blank">Photos: These bold women stand up for justice, rights ... and freedom</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-08 11:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/525b/live/9f5636e0-1ae0-11f1-b048-c9424b2cf5fd.jpg" alt="PM is standing up for UK interests, says Cooper after Trump criticism" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&at_campaign=rss" target="_blank">PM is standing up for UK interests, says Cooper after Trump criticism</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-08 11:02</span>
             </div>
         </div>
 </div>
@@ -162,6 +172,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ofyhde00d38u5ywgmys.png" alt="Building a Semantic Search API with Spring Boot and pgvector - Part 1: Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/oozioma/building-a-semantic-search-api-with-spring-boot-and-pgvector-part-1-architecture-58b9" target="_blank">Building a Semantic Search API with Spring Boot and pgvector - Part 1: Architecture</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-08 17:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/CachyOS-March-2026" target="_blank">CachyOS Handheld Edition Switches To Wayland, CachyOS Installer Drops Bcachefs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-08 17:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/10/resources-flatpak-app.jpg?resize=406%2C232&amp;ssl=1" alt="Resources 1.10.2 fixes ‘implausible’ Intel NPU values" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/resources-1-10-2-intel-npu-fixes" target="_blank">Resources 1.10.2 fixes ‘implausible’ Intel NPU values</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-08 17:19</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -188,38 +225,29 @@
                 <span class="time">2026-03-08 14:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnb63agub5bas6zoq39d3.png" alt="A Spec Template Built for AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/goodrelax/a-spec-template-built-for-ai-3bkp" target="_blank">A Spec Template Built for AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-08 14:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FFmpeg-8.1-Coming-Soon" target="_blank">FFmpeg 8.1 Preparing For Release With Vulkan Improvements, JPEG-XS &amp; More</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-08 12:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/rspress-docs-2-release/en/headerimage/generatedHeaderImage-1772809836480.jpg" alt="Rspress 2.0: AI-Native Documentation, Faster Startup and a Redesigned Theme" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/rspress-docs-2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Rspress 2.0: AI-Native Documentation, Faster Startup and a Redesigned Theme</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-08 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/apple-watch-ultra-3-review-9-1280x853.jpg" alt="Report Says More High-End ‘Ultra’ Apple Products Are On Their Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/report-says-more-high-end-ultra-apple-products-are-on-their-way-2000731044" target="_blank">Report Says More High-End ‘Ultra’ Apple Products Are On Their Way</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-08 16:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/asmongold-1280x661.jpg" alt="Asmongold Dropped By Streamer Talent Agency He Co-Founded Following School Bombing Remarks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/asmongold-mythic-iran-school-bombing-2000677075" target="_blank">Asmongold Dropped By Streamer Talent Agency He Co-Founded Following School Bombing Remarks</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-08 16:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/spaceking-1280x680.jpg" alt="Web Cartoon’s ‘No Girls Allowed’ Box Set Spoofing Warhammer Gives Fans Lead Poisoning" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,24 +284,6 @@
                 <span class="time">2026-03-07 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/openai-logo-1280x852.jpg" alt="There Was Just an Unusually Unsettling Pentagon-Related Resignation at OpenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/there-was-just-an-unusually-unsettling-pentagon-related-resignation-at-openai-2000731036" target="_blank">There Was Just an Unusually Unsettling Pentagon-Related Resignation at OpenAI</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-07 21:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/the-mandalorian-and-grogu-rotta-1280x853.jpg" alt="Seeing Jabba the Hutt’s Son in ‘The Mandalorian &amp; Grogu’ Is Breaking Me" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/seeing-jabba-the-hutts-son-in-the-mandalorian-grogu-is-breaking-me-2000730847" target="_blank">Seeing Jabba the Hutt’s Son in ‘The Mandalorian &amp; Grogu’ Is Breaking Me</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-07 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 65 | 📡 Total Sources: 43 | 📸 With Images: 261 |
-        🔄 Last Updated: 17:03 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 43 | 📸 With Images: 261 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
