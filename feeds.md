@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-03-08 19:04:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-08 20:01:52 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, March 08, 2026 - 19:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, March 08, 2026 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Mojtaba-Khamenei-1-ap-gmh-260303_1772594361227_hpMain_4x3t_384.jpg" alt="Iran live updates: Assembly of Experts back Khamenei’s son as next leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: Assembly of Experts back Khamenei’s son as next leader</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-08 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2026/3/8/how-do-you-track-a-war-in-real-time?traffic_source=rss" target="_blank">How do you track a war in real time?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-08 19:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +103,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/3/8/israels-mossad-relies-on-us-cover-and-security-rot-for-iran-strikes?traffic_source=rss" target="_blank">Israel’s Mossad relies on US cover and security rot for Iran strikes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-08 17:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a833/live/cb9345a0-1b0c-11f1-870b-03d961994130.jpg" alt="Starmer and Trump speak for first time since president&#x27;s Iran criticism" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer and Trump speak for first time since president&#x27;s Iran criticism</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-08 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/3/8/is-israel-reshaping-lebanon-trying-to-separate-hezbollah-from-its-people?traffic_source=rss" target="_blank">Is Israel reshaping Lebanon, trying to separate Hezbollah from its people?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-08 16:36</span>
             </div>
         </div>
 </div>
@@ -209,10 +217,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/paulworks/i-cut-my-rails-hosting-costs-by-70-migrating-from-heroku-to-railway-22op" target="_blank">I Cut My Rails Hosting Costs by 70%: Migrating from Heroku to Railway</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-08 14:59</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://fb.edoo.gg" target="_blank">FrameBook</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-08 15:21</span>
             </div>
         </div>
 </div>
@@ -221,12 +229,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/iNeKWgcTqUJhBToaosUXgca2nSY-1280x719.jpg" alt="Take AI’s Job And Respond To Real Prompts In New Browser Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ai-llm-slop-new-free-game-2000677087" target="_blank">Take AI’s Job And Respond To Real Prompts In New Browser Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-08 19:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/satyanadella.jpg" alt="Microsoft Shoots Down “Blank Check” Rumor About Project Helix Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/microsoft-shoots-down-blank-check-rumor-about-project-helix-budget-2000677082" target="_blank">Microsoft Shoots Down “Blank Check” Rumor About Project Helix Budget</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-08 19:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/godzilla-minusone-toy-hed-1280x853.jpg" alt="Godzilla’s Early ‘Minus One’ Form Comes to Life in This Action Figure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/godzillas-early-minus-one-form-comes-to-life-in-this-action-figure-2000731053" target="_blank">Godzilla’s Early ‘Minus One’ Form Comes to Life in This Action Figure</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-08 18:50</span>
             </div>
         </div>
 <div class="story">
@@ -248,30 +274,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/spaceking-1280x680.jpg" alt="Web Cartoon’s ‘No Girls Allowed’ Box Set Spoofing Warhammer Gives Fans Lead Poisoning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Mini-4G-Android-Smartphone-with-Face-Unlock-2.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Out: Dumb phones. In: Mini phones." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/space-king-edgelord-miniatures-no-girls-allowed-box-set-2000677061" target="_blank">Web Cartoon’s ‘No Girls Allowed’ Box Set Spoofing Warhammer Gives Fans Lead Poisoning</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-08 14:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/the-sims-1280x853.jpg" alt="An AI Company Apparently Inspired by ‘the Sims’ Wants to Revolutionize Public Opinion Research" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/an-ai-company-apparently-inspired-by-the-sims-wants-to-revolutionize-public-opinion-research-2000731038" target="_blank">An AI Company Apparently Inspired by ‘the Sims’ Wants to Revolutionize Public Opinion Research</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-08 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/GP-Australia-Streaming-Free-1280x853.jpeg" alt="How to Watch the F1 Australian GP 2026 Live Stream for Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-to-watch-the-f1-australian-gp-2026-live-stream-for-free-2000728326" target="_blank">How to Watch the F1 Australian GP 2026 Live Stream for Free</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-07 23:21</span>
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/08/out-dumb-phones-in-mini-phones.html" target="_blank">Out: Dumb phones. In: Mini phones.</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-08 15:00</span>
             </div>
         </div>
 </div>
@@ -293,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 43 | 📸 With Images: 260 |
-        🔄 Last Updated: 19:04 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
