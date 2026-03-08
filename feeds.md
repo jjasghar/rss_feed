@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-08 15:02:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-08 16:01:46 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, March 08, 2026 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, March 08, 2026 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -164,6 +164,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/itlackey/your-ai-agents-skill-list-is-getting-out-of-hand-32ck" target="_blank">Your AI Agent&#x27;s Skill List Is Getting Out of Hand</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-08 15:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/paulworks/i-cut-my-rails-hosting-costs-by-70-migrating-from-heroku-to-railway-22op" target="_blank">I Cut My Rails Hosting Costs by 70%: Migrating from Heroku to Railway</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-08 14:59</span>
@@ -203,15 +212,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/03/google-bigquery-cross-region-sql/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google BigQuery Previews Cross-Region SQL Queries for Distributed Data</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-03-08 10:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw8el0ucrx5l0f64axcn8.png" alt="Not Everyone Gets to Be a Beginner in Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/the_nortern_dev/not-everyone-gets-to-be-a-beginner-in-tech-9a8" target="_blank">Not Everyone Gets to Be a Beginner in Tech</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-08 09:02</span>
             </div>
         </div>
 </div>
@@ -279,6 +279,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1772766819-20260308.png" alt="Saturday Morning Breakfast Cereal - Hooray" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/hooray" target="_blank">Saturday Morning Breakfast Cereal - Hooray</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-08 15:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1772766766-20260307Copy.png" alt="Saturday Morning Breakfast Cereal - Pumpkin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -292,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 43 | 📸 With Images: 262 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 70 | 📡 Total Sources: 43 | 📸 With Images: 262 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
