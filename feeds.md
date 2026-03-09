@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-09 11:12:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-09 12:05:23 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, March 09, 2026 - 11:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, March 09, 2026 - 12:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +45,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/9/bahrain-king-calls-iranian-attacks-unjustifiable?traffic_source=rss" target="_blank">Bahrain king calls Iranian attacks unjustifiable</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-09 11:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/09/g-s1-112966/up-first-newsletter-iran-israel-us-mojtaba-khamenei-trump-voting-openai" target="_blank">Iran picks new leader. And, Trump won&#x27;t sign bills until Congress overhauls voting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-09 11:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b41a/live/386856d0-1ba2-11f1-9f65-e32170917420.jpg" alt="Call off King&#x27;s US visit over Iran, urge Lib Dems" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cz6evlwl68do?at_medium=RSS&at_campaign=rss" target="_blank">Call off King&#x27;s US visit over Iran, urge Lib Dems</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-09 10:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-main_1773049974148_hpMain_4x3t_384.jpg" alt="Iran live updates: 3 injured as Iranian missiles target central Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: 3 injured as Iranian missiles target central Israel</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-09 10:27</span>
             </div>
         </div>
 <div class="story">
@@ -71,33 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/9/crowd-chants-save-our-girls-at-bus-carrying-iran-womens-team?traffic_source=rss" target="_blank">Crowd chants ‘save our girls’ at bus carrying Iran women’s team</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-09 08:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/3/9/what-asymmetric-warfare-may-tell-us-about-irans-fighting-chances?traffic_source=rss" target="_blank">What asymmetric warfare may tell us about Iran’s fighting chances</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-09 07:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/9/bangladesh-shuts-universities-limits-fuel-sale-as-iran-war-causes-shortage?traffic_source=rss" target="_blank">Bangladesh shuts universities, limits fuel sale as Iran war causes shortage</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-09 07:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/09/g-s1-112960/12-years-missing-flight-mh370" target="_blank">12 years on, renewed hunt for missing Malaysia Airlines flight comes up empty</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-09 05:49</span>
             </div>
         </div>
 </div>
@@ -165,12 +163,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vxncxnx/i-scanned-2500-startup-ideas-with-ai-here-is-what-the-data-says-about-why-most-fail-nh3" target="_blank">I scanned 2,500 startup ideas with AI. Here is what the data says about why most fail.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-09 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc6xn4dm9u2c8kiubs1o0.png" alt="🛡️ Introducing Guardio — Take Back Control of Your AI Agent&#x27;s Actions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/radoslawsz/introducing-guardio-take-back-control-of-your-ai-agents-actions-2mik" target="_blank">🛡️ Introducing Guardio — Take Back Control of Your AI Agent&#x27;s Actions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-09 11:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GCC-16-RC-Mid-April" target="_blank">GCC 16 Compiler Aiming For Mid-April Release Candidate But &quot;Slow&quot; Progress On Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-09 10:28</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +214,6 @@
                 <span class="title"><a href="https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf" target="_blank">US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-09 06:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/avinashwagh/from-static-storage-to-managed-databases-learning-amazon-rds-dynamodb-aws-lambda-day-5-3mnj" target="_blank">From Static Storage to Managed Databases: Learning Amazon RDS, DynamoDB &amp; AWS Lambda (Day 5)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-09 04:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rust-Coreutils-uutils-0.7" target="_blank">Rust Coreutils 0.7 Released With Many Performance Optimizations</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-09 04:00</span>
             </div>
         </div>
 </div>
@@ -337,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 83 | 📡 Total Sources: 43 | 📸 With Images: 253 |
-        🔄 Last Updated: 11:12 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 85 | 📡 Total Sources: 43 | 📸 With Images: 252 |
+        🔄 Last Updated: 12:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
