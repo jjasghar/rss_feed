@@ -1,26 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-09 17:15:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-09 18:11:39 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 18 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, March 09, 2026 - 17:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, March 09, 2026 - 18:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b3c/live/1f5ed620-1bdc-11f1-801d-ed3cff6bf876.jpg" alt="Days of disruption expected as Glasgow Central closed after fire near station" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1w5yjjylzzo?at_medium=RSS&at_campaign=rss" target="_blank">Days of disruption expected as Glasgow Central closed after fire near station</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-09 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/09/nx-s1-5742548/anthropic-pentagon-lawsuit-amodai-hegseth" target="_blank">Anthropic sues the Trump administration over &#x27;supply chain risk&#x27; label</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-09 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260309-donald-trump-mn-1045-077dbc.jpg" alt="Trump says it&#x27;s &#x27;too soon&#x27; to talk about seizing Iran&#x27;s oil — but doesn&#x27;t rule it out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-seizing-iran-oil-rcna262437" target="_blank">Trump says it&#x27;s &#x27;too soon&#x27; to talk about seizing Iran&#x27;s oil — but doesn&#x27;t rule it out</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-09 17:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -63,38 +98,20 @@
                 <span class="time">2026-03-09 13:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/tehran-1-ap-jef-260309_1773058622529_hpMain_4x3t_384.jpg" alt="Iran may be activating sleeper cells outside the country, alert says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/iran-activating-sleeper-cells-alert/story?id=130897687" target="_blank">Iran may be activating sleeper cells outside the country, alert says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-09 13:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/9/new-missile-video-puts-spotlight-on-us-over-iran-school-attack?traffic_source=rss" target="_blank">New missile video puts spotlight on US over Iran school attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-09 13:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff76/live/29cf0b90-1ba3-11f1-9f65-e32170917420.jpg" alt="Passer-by tried to tackle vape shop blaze before inferno" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd70wdxrrn4o?at_medium=RSS&at_campaign=rss" target="_blank">Passer-by tried to tackle vape shop blaze before inferno</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-09 12:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/891339/google-pixel-watch-3-4-sony-wh-1000xm5-headphones-deal-sale" target="_blank">Google’s latest Pixel Watches have fallen to their lowest prices ever</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-09 16:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,20 +157,29 @@
                 <span class="time">2026-03-09 14:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/2027-Chevrolet-Bolt-1-500x500.jpg" alt="Chevrolet killed it then brought it back, now we drive it: The 2027 Bolt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/03/new-battery-new-motor-but-the-2027-chevrolet-bolt-keeps-its-charm/" target="_blank">Chevrolet killed it then brought it back, now we drive it: The 2027 Bolt</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-09 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18906953&w=600" alt="AI in Patient Portals: From Digital Access to Intelligent Healthcare Experiences" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-in-patient-portals-intelligent-healthcare-experiences" target="_blank">AI in Patient Portals: From Digital Access to Intelligent Healthcare Experiences</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-09 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://fixfest.therestartproject.org/" target="_blank">Fixfest is a global gathering of repairers, tinkerers, and activists</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-09 17:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18906944&w=600" alt="Beyond Django and Flask: How FastAPI Became Python&#x27;s Fastest-Growing Framework for Production APIs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -190,24 +216,6 @@
                 <span class="time">2026-03-09 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.04-LTS-Authd" target="_blank">Ubuntu 26.04 LTS Officially Supporting Cloud-Based Authentication With Authd</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-09 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/nvidia-595-linux" target="_blank">NVIDIA 595 Linux Driver Running Well In Early Benchmarks</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-09 14:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/ParamountWB-1280x853.jpg" alt="Paramount’s Takeover of Warner Bros Is Turning Into an International Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/paramounts-takeover-of-warner-bros-is-turning-into-an-international-crisis-2000731404" target="_blank">Paramount’s Takeover of Warner Bros Is Turning Into an International Crisis</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-09 18:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KAXWWJFKER5JD91DVQ2WFGG4/hero-image.png" alt="The Best Headphones I’ve Ever Tested Are $60 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/sony-wh-1000xm6-headphones-sale?utm_medium=RSS" target="_blank">The Best Headphones I’ve Ever Tested Are $60 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-09 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/shutterstock_391931851.jpg?fit=1500%2C1140&amp;quality=60&amp;ssl=1" alt="I just learned Keanu Reeves has a band, so you have to learn that too" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +296,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/09/scientists-find-300-million-year-old-fossilized-butthole.html" target="_blank">Scientists find 300 million year old fossilized butthole</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-09 15:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/11/GettyImages-1246499609-1024x683.jpg" alt="Live Nation Reaches a Settlement With the DOJ Over Alleged Ticketing Monopoly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/live-nation-reaches-a-settlement-with-the-doj-over-alleged-ticketing-monopoly-2000731322" target="_blank">Live Nation Reaches a Settlement With the DOJ Over Alleged Ticketing Monopoly</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-09 15:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/US-3-11.jpg?fit=1600%2C900&amp;quality=60&amp;ssl=1" alt="Latest &quot;Andrew&quot; pics from Epstein Files look an awful lot like footage stills" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/09/latest-andrew-pics-from-epstein-files-look-an-awful-lot-like-footage-stills.html" target="_blank">Latest &quot;Andrew&quot; pics from Epstein Files look an awful lot like footage stills</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-09 14:51</span>
             </div>
         </div>
 </div>
@@ -327,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 100 | 📡 Total Sources: 43 | 📸 With Images: 257 |
-        🔄 Last Updated: 17:15 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 103 | 📡 Total Sources: 43 | 📸 With Images: 260 |
+        🔄 Last Updated: 18:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
