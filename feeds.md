@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-09 12:05:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-09 13:26:17 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, March 09, 2026 - 12:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, March 09, 2026 - 13:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/9/new-missile-video-puts-spotlight-on-us-over-iran-school-attack?traffic_source=rss" target="_blank">New missile video puts spotlight on US over Iran school attack</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-09 13:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +100,20 @@
                 <span class="time">2026-03-09 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/9/crowd-chants-save-our-girls-at-bus-carrying-iran-womens-team?traffic_source=rss" target="_blank">Crowd chants ‘save our girls’ at bus carrying Iran women’s team</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-09 08:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/2027-Chevrolet-Bolt-1-500x500.jpg" alt="Chevrolet killed it then brought it back, now we drive it: The 2027 Bolt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/03/new-battery-new-motor-but-the-2027-chevrolet-bolt-keeps-its-charm/" target="_blank">Chevrolet killed it then brought it back, now we drive it: The 2027 Bolt</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-09 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/san-francisco-shadow-police-500x500.jpg" alt="“It doesn&#x27;t feel safe”—Many international game developers plan to skip GDC in US" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +159,29 @@
                 <span class="time">2026-03-08 21:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/" target="_blank">Will the Pentagon’s Anthropic controversy scare startups away from defense work?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-08 20:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fum95y6s1j72oefsq712i.png" alt="SQL Injection – UNION attack, retrieving data from other tables | PortSwigger Lab Note #4" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kenny-cipher/sql-injection-union-attack-retrieving-data-from-other-tables-portswigger-lab-note-4-580c" target="_blank">SQL Injection – UNION attack, retrieving data from other tables | PortSwigger Lab Note #4</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-09 13:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18890255&w=600" alt="Best Practices to Make Your Data AI-Ready" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/best-practices-to-make-your-data-ai-ready" target="_blank">Best Practices to Make Your Data AI-Ready</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-09 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +218,6 @@
                 <span class="time">2026-03-09 10:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thecodeforge/the-for-loop-in-java-what-most-tutorials-dont-tell-you-46fl" target="_blank">The for Loop in Java — What Most Tutorials Don&#x27;t Tell You</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-09 07:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf" target="_blank">US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-09 06:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +247,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2021/02/okxeqatxfjuxs8wj4nb4.jpg" alt="Master Chief Actor Calls White House Video Featuring His Voice ‘Disgusting And Juvenile War Porn’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/white-house-justice-american-way-iran-strike-video-halo-2000677185" target="_blank">Master Chief Actor Calls White House Video Featuring His Voice ‘Disgusting And Juvenile War Porn’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-09 13:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/MS0309-daredevil-born-again-jessica-jones-1280x853.jpg" alt="‘Daredevil: Born Again’ Showrunner Teases Jessica Jones’ Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/daredevil-born-again-jessica-jones-netflix-connection-mcu-2000731131" target="_blank">‘Daredevil: Born Again’ Showrunner Teases Jessica Jones’ Return</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-09 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KK8YK8SNQB80C443P120Y25B/hero-image.png" alt="This Arlo Outdoor Camera Two-Pack Is Over $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/arlo-essential-spotlight-camera-bundle-sale-march-2026?utm_medium=RSS" target="_blank">This Arlo Outdoor Camera Two-Pack Is Over $100 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-09 12:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/Hoppers-Bear-1280x853.jpg" alt="Dam, People Sure Saw ‘Hoppers’ This Weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -269,33 +298,6 @@
                 <span class="title"><a href="https://kotaku.com/mcdonalds-ceo-bigarch-reddit-viral-2000677093" target="_blank">McDonald’s CEO Should Leave Burger Enjoying To The Professionals</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-08 23:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Crusoe-data-center-Texas-1280x853.jpg" alt="Coming Soon, From the People Behind ICE Detention Camps: Data Center Company Towns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/coming-soon-from-the-people-behind-ice-detention-camps-data-center-company-towns-2000731145" target="_blank">Coming Soon, From the People Behind ICE Detention Camps: Data Center Company Towns</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-08 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/spider-man-covers-1280x853.jpg" alt="Spider-Man Gets Two New Comics for ‘Brand New Day’ Synergy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spider-man-gets-two-new-comics-for-brand-new-day-synergy-2000730740" target="_blank">Spider-Man Gets Two New Comics for ‘Brand New Day’ Synergy</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-08 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/iNeKWgcTqUJhBToaosUXgca2nSY-1280x719.jpg" alt="Take AI’s Job And Respond To Real Prompts In New Browser Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ai-llm-slop-new-free-game-2000677087" target="_blank">Take AI’s Job And Respond To Real Prompts In New Browser Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-08 19:50</span>
             </div>
         </div>
 </div>
@@ -335,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 85 | 📡 Total Sources: 43 | 📸 With Images: 252 |
-        🔄 Last Updated: 12:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 88 | 📡 Total Sources: 43 | 📸 With Images: 254 |
+        🔄 Last Updated: 13:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
