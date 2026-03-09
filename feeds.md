@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-09 01:30:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-09 02:56:21 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, March 09, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, March 09, 2026 - 02:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/08/nx-s1-5739395/iran-school-airstrike-tomahawk-missile-trump" target="_blank">Video appears to show U.S. cruise missile striking Iranian school compound</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-09 02:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +96,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/world/iran/iran-supreme-leader-mojtaba-khamenei-rcna261645" target="_blank">Mojtaba Khamenei, son of late ayatollah, named Iran&#x27;s new supreme leader</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-03-08 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/08/nx-s1-5741779/openai-resigns-ai-pentagon-guardrails-military" target="_blank">OpenAI robotics leader resigns over concerns about Pentagon AI deal</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-08 20:44</span>
             </div>
         </div>
 </div>
@@ -170,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/panmarkcake/potential-challenges-and-pitfalls-of-network-automation-nb4" target="_blank">Potential Challenges and Pitfalls of Network Automation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-09 02:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc3" target="_blank">Linux 7.0-rc3 Released: &quot;Some Of The Biggest In Recent History&quot;</a></span>
                 <span class="feed">Phoronix</span>
@@ -210,15 +214,6 @@
                 <span class="title"><a href="https://agent-safehouse.dev/" target="_blank">Agent Safehouse – macOS-native sandboxing for local agents</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-08 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ofyhde00d38u5ywgmys.png" alt="Building a Semantic Search API with Spring Boot and pgvector - Part 1: Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/oozioma/building-a-semantic-search-api-with-spring-boot-and-pgvector-part-1-architecture-58b9" target="_blank">Building a Semantic Search API with Spring Boot and pgvector - Part 1: Architecture</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-08 17:52</span>
             </div>
         </div>
 </div>
@@ -286,6 +281,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5781.png" alt="Get In The Tank, Liz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5781" target="_blank">Get In The Tank, Liz</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-03-09 01:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1772766819-20260308.png" alt="Saturday Morning Breakfast Cereal - Hooray" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -299,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 43 | 📸 With Images: 258 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 73 | 📡 Total Sources: 43 | 📸 With Images: 257 |
+        🔄 Last Updated: 02:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
