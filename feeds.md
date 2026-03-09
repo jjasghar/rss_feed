@@ -1,10 +1,15 @@
-<!-- Processing 54 RSS feeds at 2026-03-09 03:48:01 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-09 04:33:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
@@ -12,22 +17,22 @@
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, March 09, 2026 - 03:48 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, March 09, 2026 - 04:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -165,6 +170,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/avinashwagh/from-static-storage-to-managed-databases-learning-amazon-rds-dynamodb-aws-lambda-day-5-3mnj" target="_blank">From Static Storage to Managed Databases: Learning Amazon RDS, DynamoDB &amp; AWS Lambda (Day 5)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-09 04:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rust-Coreutils-uutils-0.7" target="_blank">Rust Coreutils 0.7 Released With Many Performance Optimizations</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-09 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/naysmith/the-implementation-layer-just-collapsed-34kf" target="_blank">The Implementation Layer Just Collapsed</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-09 03:41</span>
@@ -195,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/mgobea/ai-agents-run-smoothly-on-geminis-free-tier-42ai" target="_blank">AI Agents Run Smoothly on Gemini&#x27;s Free Tier!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-08 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jcasman/howto-start-a-python-project-with-uv-and-build-your-first-flet-ui-app-ch0" target="_blank">HowTo: Start a Python Project with `uv` and Build Your First Flet UI App</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-08 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fabio_a26a4e58d4163919a53/supabase-security-the-hidden-dangers-of-rls-and-how-to-audit-your-api-29e9" target="_blank">Supabase Security: The Hidden Dangers of RLS and How to Audit Your API 🛡️</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-08 20:45</span>
             </div>
         </div>
 </div>
@@ -302,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 03:48 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 43 | 📸 With Images: 256 |
+        🔄 Last Updated: 04:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
