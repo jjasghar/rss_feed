@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-09 22:03:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-09 23:04:08 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, March 09, 2026 - 22:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, March 09, 2026 - 23:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +106,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69af2389702083dfd2bd1f29/master/pass/FAA-and-DOT-Announced-Pilot-Program-Gear-2026-0308-Midnight_T02_FLying_DSC_0665.jpg" alt="‘Flying Cars’ Will Take Off in American Skies This Summer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/flying-cars-will-take-off-in-american-skies-this-summer/" target="_blank">‘Flying Cars’ Will Take Off in American Skies This Summer</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-09 22:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/09/electric-air-taxis-are-about-to-take-flight-in-26-states/" target="_blank">Electric air taxis are about to take flight in 26 states</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-09 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor" target="_blank">Apple smart home display rumors now point to a fall launch with iOS 27</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-09 22:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -131,33 +157,6 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/testing-apples-2026-16-inch-macbook-pro-m5-max-and-its-new-performance-cores/" target="_blank">Testing Apple&#x27;s 2026 16-inch MacBook Pro, M5 Max, and its new &quot;performance&quot; cores</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-03-09 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/" target="_blank">Anthropic launches code review tool to check flood of AI-generated code</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-09 19:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69af093a61b0f5301ec00ccc/master/pass/Jay-Graber-Stepping-Down-Business-2216862328.jpg" alt="Bluesky CEO Jay Graber Is Stepping Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/bluesky-ceo-jay-graber-is-stepping-down/" target="_blank">Bluesky CEO Jay Graber Is Stepping Down</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-09 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/891339/google-pixel-watch-3-4-sony-wh-1000xm5-headphones-deal-sale" target="_blank">Google’s latest Pixel Watches have fallen to their lowest prices ever</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-09 16:45</span>
             </div>
         </div>
 </div>
@@ -248,6 +247,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-09 22:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/tinkerbell-1280x853.jpg" alt="Disney Is Trying Something Different With Its Next Live-Action Remake" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/disney-is-trying-something-different-with-its-next-live-action-remake-2000731559" target="_blank">Disney Is Trying Something Different With Its Next Live-Action Remake</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-09 22:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/shutterstock_2686848411-e1773087726843-1280x852.jpg" alt="Elon Musk Wants a Do-Over on Twitter Trial After Jury Pool Couldn’t Hide Its Disdain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -281,24 +298,6 @@
                 <span class="title"><a href="https://gizmodo.com/people-hate-ai-even-more-than-they-hate-ice-poll-finds-2000731438" target="_blank">People Hate AI Even More Than They Hate ICE, Poll Finds</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-09 18:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/ParamountWB-1280x853.jpg" alt="Paramount’s Takeover of Warner Bros Is Turning Into an International Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/paramounts-takeover-of-warner-bros-is-turning-into-an-international-crisis-2000731404" target="_blank">Paramount’s Takeover of Warner Bros Is Turning Into an International Crisis</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-09 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KAXWWJFKER5JD91DVQ2WFGG4/hero-image.png" alt="The Best Headphones I’ve Ever Tested Are $60 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/sony-wh-1000xm6-headphones-sale?utm_medium=RSS" target="_blank">The Best Headphones I’ve Ever Tested Are $60 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-09 17:30</span>
             </div>
         </div>
 </div>
@@ -347,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 22:03 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 23:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
