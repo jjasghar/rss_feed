@@ -1,38 +1,26 @@
-<!-- Processing 54 RSS feeds at 2026-03-09 16:17:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-09 17:15:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, March 09, 2026 - 16:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, March 09, 2026 - 17:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +36,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/09/nx-s1-5738478/darkology-blackface-rhae-lynn-barnes" target="_blank">This historian dug up the hidden history of &#x27;amateur&#x27; blackface in America</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-09 16:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +90,20 @@
                 <span class="time">2026-03-09 12:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/9/bahrain-king-calls-iranian-attacks-unjustifiable?traffic_source=rss" target="_blank">Bahrain king calls Iranian attacks unjustifiable</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-09 11:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/09/slate-auto-changes-ceo-months-ahead-of-affordable-ev-launch/" target="_blank">Slate Auto changes CEO months ahead of affordable EV launch</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-09 16:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2264858760-500x500.jpg" alt="2026 Australian Grand Prix: Formula 1 debuts a new style of racing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +149,20 @@
                 <span class="time">2026-03-09 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/san-francisco-shadow-police-500x500.jpg" alt="“It doesn&#x27;t feel safe”—Many international game developers plan to skip GDC in US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/03/it-doesnt-feel-safe-many-international-game-developers-plan-to-skip-gdc-in-us/" target="_blank">“It doesn&#x27;t feel safe”—Many international game developers plan to skip GDC in US</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-09 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18906944&w=600" alt="Beyond Django and Flask: How FastAPI Became Python&#x27;s Fastest-Growing Framework for Production APIs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-fastapi-became-pythons-fastest-growing-framework" target="_blank">Beyond Django and Flask: How FastAPI Became Python&#x27;s Fastest-Growing Framework for Production APIs</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-09 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +208,6 @@
                 <span class="time">2026-03-09 14:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ssj256x/building-a-declarative-json-extraction-engine-with-pythons-annotated-types-jq-and-pydantic-4fka" target="_blank">Building a Declarative JSON Extraction Engine with Python’s Annotated Types, jq and Pydantic</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-09 14:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/shutterstock_391931851.jpg?fit=1500%2C1140&amp;quality=60&amp;ssl=1" alt="I just learned Keanu Reeves has a band, so you have to learn that too" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/09/i-just-learned-keanu-reeves-has-a-band-so-you-have-to-learn-that-too.html" target="_blank">I just learned Keanu Reeves has a band, so you have to learn that too</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-09 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KK9NFBQM2E24T79S83X989K8/hero-image.jpg" alt="The MacBook Neo Outperforms These M-Series MacBooks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-macbook-neos-binned-iphone-chip-vs-other-macbooks?utm_medium=RSS" target="_blank">The MacBook Neo Outperforms These M-Series MacBooks</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-09 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/IMG_2148-1280x720.jpg" alt="Three Pokémon Pokopia Upgrades You Should Buy Immediately" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,24 +288,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/09/latest-andrew-pics-from-epstein-files-look-an-awful-lot-like-footage-stills.html" target="_blank">Latest &quot;Andrew&quot; pics from Epstein Files look an awful lot like footage stills</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-09 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KK1QP4W8J04BTT5FFSBR23W0/hero-image.jpg" alt="10 Hacks Every Dark Web User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-dark-web-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Dark Web User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-09 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2021/02/okxeqatxfjuxs8wj4nb4.jpg" alt="Master Chief Actor Calls White House Video Featuring His Voice ‘Disgusting And Juvenile War Porn’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/white-house-justice-american-way-iran-strike-video-halo-2000677185" target="_blank">Master Chief Actor Calls White House Video Featuring His Voice ‘Disgusting And Juvenile War Porn’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-09 13:14</span>
             </div>
         </div>
 </div>
@@ -339,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 102 | 📡 Total Sources: 43 | 📸 With Images: 255 |
-        🔄 Last Updated: 16:17 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 100 | 📡 Total Sources: 43 | 📸 With Images: 257 |
+        🔄 Last Updated: 17:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
