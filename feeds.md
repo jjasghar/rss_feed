@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-09 06:16:53 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-09 07:20:09 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, March 09, 2026 - 06:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, March 09, 2026 - 07:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/9/bangladesh-shuts-universities-limits-fuel-sale-as-iran-war-causes-shortage?traffic_source=rss" target="_blank">Bangladesh shuts universities, limits fuel sale as Iran war causes shortage</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-09 07:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +99,20 @@
                 <span class="time">2026-03-08 23:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773011700001_wnn_mbr_iran_new_supreme_leader_260308_1920x1080-9csire.jpg" alt="Seventh American service member dies amid U.S. war with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/seventh-american-service-member-dies-amid-u-s-war-with-iran-258936901794" target="_blank">Seventh American service member dies amid U.S. war with Iran</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-08 23:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/" target="_blank">Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-09 04:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +158,20 @@
                 <span class="time">2026-03-08 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/daredevilTOP-500x500-1772919296.jpg" alt="Jessica Jones joins the fray in Daredevil: Born Again trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/03/jessica-jones-joins-the-fray-in-daredevil-born-again-trailer/" target="_blank">Jessica Jones joins the fray in Daredevil: Born Again trailer</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-08 13:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thecodeforge/the-for-loop-in-java-what-most-tutorials-dont-tell-you-46fl" target="_blank">The for Loop in Java — What Most Tutorials Don&#x27;t Tell You</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-09 07:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +215,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/handbrake-update-prores-encoding" target="_blank">HandBrake 1.11 adds ProRes, DNxHR encoders and MOV output</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-03-09 02:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc3" target="_blank">Linux 7.0-rc3 Released: &quot;Some Of The Biggest In Recent History&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-09 00:27</span>
             </div>
         </div>
 </div>
@@ -323,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 78 | 📡 Total Sources: 43 | 📸 With Images: 257 |
-        🔄 Last Updated: 06:17 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 43 | 📸 With Images: 255 |
+        🔄 Last Updated: 07:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
