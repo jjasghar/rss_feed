@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-09 19:14:29 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-09 20:04:26 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, March 09, 2026 - 19:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, March 09, 2026 - 20:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +110,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/IMG_3650-500x500.jpeg" alt="Testing Apple&#x27;s 2026 16-inch MacBook Pro, M5 Max, and its new &quot;performance&quot; cores" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/testing-apples-2026-16-inch-macbook-pro-m5-max-and-its-new-performance-cores/" target="_blank">Testing Apple&#x27;s 2026 16-inch MacBook Pro, M5 Max, and its new &quot;performance&quot; cores</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-09 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69af093a61b0f5301ec00ccc/master/pass/Jay-Graber-Stepping-Down-Business-2216862328.jpg" alt="Bluesky CEO Jay Graber Is Stepping Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -148,20 +163,20 @@
                 <span class="time">2026-03-09 15:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/891304/switch-2-microsd-express-card-samsung-mario-day-deal-sale" target="_blank">Samsung’s Mario-themed microSD card for Switch 2 is 35 percent off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-09 15:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/riteshrajpurohit/ready-made-templates-vs-custom-builds-which-should-you-choose-for-your-website-or-app-41c" target="_blank">Ready-Made Templates vs Custom Builds — Which Should You Choose for Your Website or App?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-09 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +222,6 @@
                 <span class="time">2026-03-09 17:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18906944&w=600" alt="Beyond Django and Flask: How FastAPI Became Python&#x27;s Fastest-Growing Framework for Production APIs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-fastapi-became-pythons-fastest-growing-framework" target="_blank">Beyond Django and Flask: How FastAPI Became Python&#x27;s Fastest-Growing Framework for Production APIs</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-09 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +250,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/Screenshot-2026-03-09-144528.jpg" alt="Monster Hunter Stories 3: Twisted Reflection: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/monster-hunter-stories-3-review-twisted-reflection-combat-rpg-story-2000677317" target="_blank">Monster Hunter Stories 3: Twisted Reflection: The Kotaku Review</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-09 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Arnold-Schwarzenegger-King-Conan-1280x853.jpg" alt="Arnold Schwarzenegger Will Be Back… as Conan the Barbarian" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/arnold-schwarzenegger-will-be-back-as-conan-the-barbarian-2000731566" target="_blank">Arnold Schwarzenegger Will Be Back… as Conan the Barbarian</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-09 19:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/GettyImages-1469884525-1280x853.jpg" alt="People Hate AI Even More Than They Hate ICE, Poll Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +302,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/09/i-just-learned-keanu-reeves-has-a-band-so-you-have-to-learn-that-too.html" target="_blank">I just learned Keanu Reeves has a band, so you have to learn that too</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-09 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KK9NFBQM2E24T79S83X989K8/hero-image.jpg" alt="The MacBook Neo Outperforms These M-Series MacBooks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/the-macbook-neos-binned-iphone-chip-vs-other-macbooks?utm_medium=RSS" target="_blank">The MacBook Neo Outperforms These M-Series MacBooks</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-09 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/IMG_2148-1280x720.jpg" alt="Three Pokémon Pokopia Upgrades You Should Buy Immediately" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-pokopia-best-upgrades-items-handy-bag-space-2000677269" target="_blank">Three Pokémon Pokopia Upgrades You Should Buy Immediately</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-09 16:12</span>
             </div>
         </div>
 </div>
@@ -335,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 106 | 📡 Total Sources: 43 | 📸 With Images: 261 |
-        🔄 Last Updated: 19:14 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 43 | 📸 With Images: 261 |
+        🔄 Last Updated: 20:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
