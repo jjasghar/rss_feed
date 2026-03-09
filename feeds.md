@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-09 14:16:12 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-03-09 15:16:20 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, March 09, 2026 - 14:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, March 09, 2026 - 15:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -113,6 +105,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/891304/switch-2-microsd-express-card-samsung-mario-day-deal-sale" target="_blank">Samsung’s Mario-themed microSD card for Switch 2 is 35 percent off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-09 15:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/podcast/890703/hasbro-toys-games-magic-exodus-ai-tariffs" target="_blank">Hasbro’s CEO has an AI Peppa Pig help design toys</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-09 14:05</span>
@@ -154,20 +155,20 @@
                 <span class="time">2026-03-09 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/" target="_blank">Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-09 04:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/nvidia-595-linux" target="_blank">NVIDIA 595 Linux Driver Running Well In Early Benchmarks</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-09 14:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +214,6 @@
                 <span class="time">2026-03-09 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc6xn4dm9u2c8kiubs1o0.png" alt="🛡️ Introducing Guardio — Take Back Control of Your AI Agent&#x27;s Actions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/radoslawsz/introducing-guardio-take-back-control-of-your-ai-agents-actions-2mik" target="_blank">🛡️ Introducing Guardio — Take Back Control of Your AI Agent&#x27;s Actions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-09 11:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -251,6 +243,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/11/GettyImages-1246499609-1024x683.jpg" alt="Live Nation Reaches a Settlement With the DOJ Over Alleged Ticketing Monopoly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/live-nation-reaches-a-settlement-with-the-doj-over-alleged-ticketing-monopoly-2000731322" target="_blank">Live Nation Reaches a Settlement With the DOJ Over Alleged Ticketing Monopoly</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-09 15:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/US-3-11.jpg?fit=1600%2C900&amp;quality=60&amp;ssl=1" alt="Latest &quot;Andrew&quot; pics from Epstein Files look an awful lot like footage stills" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/09/latest-andrew-pics-from-epstein-files-look-an-awful-lot-like-footage-stills.html" target="_blank">Latest &quot;Andrew&quot; pics from Epstein Files look an awful lot like footage stills</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-09 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KK1QP4W8J04BTT5FFSBR23W0/hero-image.jpg" alt="10 Hacks Every Dark Web User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-dark-web-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Dark Web User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-09 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2021/02/okxeqatxfjuxs8wj4nb4.jpg" alt="Master Chief Actor Calls White House Video Featuring His Voice ‘Disgusting And Juvenile War Porn’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -275,33 +294,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/arlo-essential-spotlight-camera-bundle-sale-march-2026?utm_medium=RSS" target="_blank">This Arlo Outdoor Camera Two-Pack Is Over $100 Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-09 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Hoppers-Bear-1280x853.jpg" alt="Dam, People Sure Saw ‘Hoppers’ This Weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dam-people-sure-saw-hoppers-this-weekend-2000731159" target="_blank">Dam, People Sure Saw ‘Hoppers’ This Weekend</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-09 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/havana.jpg?fit=1200%2C779&amp;quality=60&amp;ssl=1" alt="U.S. agents bought a portable Russian microwave weapon that may explain Havana Syndrome" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/08/u-s-agents-bought-a-portable-russian-microwave-weapon-that-may-explain-havana-syndrome.html" target="_blank">U.S. agents bought a portable Russian microwave weapon that may explain Havana Syndrome</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-09 02:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/spaceking-1.jpg" alt="McDonald’s CEO Should Leave Burger Enjoying To The Professionals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mcdonalds-ceo-bigarch-reddit-viral-2000677093" target="_blank">McDonald’s CEO Should Leave Burger Enjoying To The Professionals</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-08 23:11</span>
             </div>
         </div>
 </div>
@@ -341,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 93 | 📡 Total Sources: 43 | 📸 With Images: 256 |
-        🔄 Last Updated: 14:16 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 95 | 📡 Total Sources: 43 | 📸 With Images: 255 |
+        🔄 Last Updated: 15:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
