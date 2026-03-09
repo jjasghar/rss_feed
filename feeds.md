@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-09 07:20:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-09 08:08:38 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, March 09, 2026 - 07:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, March 09, 2026 - 08:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/3/9/what-asymmetric-warfare-may-tell-us-about-irans-fighting-chances?traffic_source=rss" target="_blank">What asymmetric warfare may tell us about Iran’s fighting chances</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-09 07:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +102,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cy8l2wx0027o?at_medium=RSS&at_campaign=rss" target="_blank">Huge fire at Glasgow Central Station prompts evacuations as building collapses</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-09 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/08/nx-s1-5741805/country-joe-mcdonald-woodstock-vietnam-protest" target="_blank">Country Joe McDonald, anti-war singer who electrified Woodstock, dies at 84</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-08 23:33</span>
             </div>
         </div>
 </div>
@@ -175,6 +180,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf" target="_blank">US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-09 06:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/avinashwagh/from-static-storage-to-managed-databases-learning-amazon-rds-dynamodb-aws-lambda-day-5-3mnj" target="_blank">From Static Storage to Managed Databases: Learning Amazon RDS, DynamoDB &amp; AWS Lambda (Day 5)</a></span>
                 <span class="feed">DEV Community</span>
@@ -206,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/panmarkcake/potential-challenges-and-pitfalls-of-network-automation-nb4" target="_blank">Potential Challenges and Pitfalls of Network Automation</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-09 02:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/11/handbrake-logo-on-colourful-background.jpg?resize=406%2C232&amp;ssl=1" alt="HandBrake 1.11 adds ProRes, DNxHR encoders and MOV output" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/handbrake-update-prores-encoding" target="_blank">HandBrake 1.11 adds ProRes, DNxHR encoders and MOV output</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-09 02:20</span>
             </div>
         </div>
 </div>
@@ -296,6 +301,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/03/09/unc-tier" target="_blank">Unc Tier</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-09 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5781.png" alt="Get In The Tank, Liz" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -318,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 43 | 📸 With Images: 255 |
-        🔄 Last Updated: 07:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 81 | 📡 Total Sources: 43 | 📸 With Images: 253 |
+        🔄 Last Updated: 08:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
