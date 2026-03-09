@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-09 18:11:39 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-09 19:14:29 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, March 09, 2026 - 18:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, March 09, 2026 - 19:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/3/9/anthropic-sues-trump-administration-to-undo-us-supply-chain-risk-tag?traffic_source=rss" target="_blank">Anthropic sues Trump administration to undo US ‘supply chain risk’ tag</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-09 18:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/09/nx-s1-5742633/arizona-maricopa-county-2020-records-petersen" target="_blank">Top Arizona lawmaker says he&#x27;s complied with a subpoena for 2020 election records</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-09 18:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-8-gty-gmh-260308_1772980681214_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says he&#x27;s &#x27;nowhere near&#x27; decision on ground operation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: Trump says he&#x27;s &#x27;nowhere near&#x27; decision on ground operation</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-09 18:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b3c/live/1f5ed620-1bdc-11f1-801d-ed3cff6bf876.jpg" alt="Days of disruption expected as Glasgow Central closed after fire near station" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,38 +98,20 @@
                 <span class="time">2026-03-09 17:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/09/nx-s1-5738478/darkology-blackface-rhae-lynn-barnes" target="_blank">This historian dug up the hidden history of &#x27;amateur&#x27; blackface in America</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-09 16:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/09/nx-s1-5742434/explosives-new-york-zohran-mamdani-isis" target="_blank">Attempted attack with explosives in New York City investigated as &quot;ISIS-inspired terrorism&quot;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-09 15:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/3/9/it-is-time-for-the-world-to-move-on-without-the-united-states?traffic_source=rss" target="_blank">It is time for the world to move on without the United States</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-09 13:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69af093a61b0f5301ec00ccc/master/pass/Jay-Graber-Stepping-Down-Business-2216862328.jpg" alt="Bluesky CEO Jay Graber Is Stepping Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/bluesky-ceo-jay-graber-is-stepping-down/" target="_blank">Bluesky CEO Jay Graber Is Stepping Down</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-09 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +157,38 @@
                 <span class="time">2026-03-09 15:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/890703/hasbro-toys-games-magic-exodus-ai-tariffs" target="_blank">Hasbro’s CEO has an AI Peppa Pig help design toys</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-09 14:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/apiverve/summarize-text-with-ai-a-practical-guide-p5a" target="_blank">Summarize Text with AI: A Practical Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-09 19:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18883631&w=600" alt="Why Kotlin Multiplatform is a Game-Changer for Startup Teams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/kotlin-multiplatform-is-a-game-changer-for-startups" target="_blank">Why Kotlin Multiplatform is a Game-Changer for Startup Teams</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-09 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Official-RHEL-Compat" target="_blank">NVIDIA Adds Official Support For RHEL-Compatible Distributions Like AlmaLinux With CUDA 13.2</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-09 18:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18906953&w=600" alt="AI in Patient Portals: From Digital Access to Intelligent Healthcare Experiences" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -187,33 +214,6 @@
                 <span class="title"><a href="https://dzone.com/articles/how-fastapi-became-pythons-fastest-growing-framework" target="_blank">Beyond Django and Flask: How FastAPI Became Python&#x27;s Fastest-Growing Framework for Production APIs</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-09 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/canonical-and-arduino-collaborate-to-enable-ubuntu-on-the-ventuno-q-the-next-generation-platform-for-ai" target="_blank">Canonical and Arduino collaborate to enable Ubuntu on the VENTUNO Q, the next generation platform for AI</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-03-09 16:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18899220&w=600" alt="How to Use AWS IAM Identity Center for Scalable, Compliant Cloud Access Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-to-use-aws-iam-identity-center-for-scalable-co" target="_blank">How to Use AWS IAM Identity Center for Scalable, Compliant Cloud Access Control</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-09 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/" target="_blank">Under the hood: Security architecture of GitHub Agentic Workflows</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-03-09 16:00</span>
             </div>
         </div>
 </div>
@@ -244,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/GettyImages-1469884525-1280x853.jpg" alt="People Hate AI Even More Than They Hate ICE, Poll Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/people-hate-ai-even-more-than-they-hate-ice-poll-finds-2000731438" target="_blank">People Hate AI Even More Than They Hate ICE, Poll Finds</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-09 18:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/ParamountWB-1280x853.jpg" alt="Paramount’s Takeover of Warner Bros Is Turning Into an International Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +298,6 @@
                 <span class="time">2026-03-09 16:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/cloaca.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Scientists find 300 million year old fossilized butthole" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/09/scientists-find-300-million-year-old-fossilized-butthole.html" target="_blank">Scientists find 300 million year old fossilized butthole</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-09 15:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -335,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 103 | 📡 Total Sources: 43 | 📸 With Images: 260 |
-        🔄 Last Updated: 18:11 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 106 | 📡 Total Sources: 43 | 📸 With Images: 261 |
+        🔄 Last Updated: 19:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
