@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-09 20:04:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-09 21:05:58 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, March 09, 2026 - 20:04 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, March 09, 2026 - 21:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/3/9/who-is-irans-new-supreme-leader?traffic_source=rss" target="_blank">Who is Iran’s new supreme leader, Mojtaba Khamenei?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-09 20:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,15 +101,6 @@
                 <span class="time">2026-03-09 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260309-donald-trump-mn-1045-077dbc.jpg" alt="Trump says it&#x27;s &#x27;too soon&#x27; to talk about seizing Iran&#x27;s oil — but doesn&#x27;t rule it out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-seizing-iran-oil-rcna262437" target="_blank">Trump says it&#x27;s &#x27;too soon&#x27; to talk about seizing Iran&#x27;s oil — but doesn&#x27;t rule it out</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-09 17:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -116,6 +113,15 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/testing-apples-2026-16-inch-macbook-pro-m5-max-and-its-new-performance-cores/" target="_blank">Testing Apple&#x27;s 2026 16-inch MacBook Pro, M5 Max, and its new &quot;performance&quot; cores</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-03-09 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/" target="_blank">Anthropic launches code review tool to check flood of AI-generated code</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-09 19:41</span>
             </div>
         </div>
 <div class="story">
@@ -154,26 +160,44 @@
                 <span class="time">2026-03-09 15:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a77e0879e62d2329a1659f/master/pass/Anthropic-Sues-DOD-Business-2261514586.jpg" alt="Anthropic Sues Department of Defense Over Supply-Chain Risk Designation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/" target="_blank">Anthropic Sues Department of Defense Over Supply-Chain Risk Designation</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-09 15:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvfduo9ctngz16u5uuskq.png" alt="Enforcing voice and tone with Claude Code hooks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tompahoward/enforcing-voice-and-tone-with-claude-code-hooks-6db" target="_blank">Enforcing voice and tone with Claude Code hooks</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-09 21:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-595.44.02-Linux-Vulkan" target="_blank">NVIDIA Releases New R595-Derived Vulkan Developer Beta For Linux With New Features</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-09 20:33</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/riteshrajpurohit/ready-made-templates-vs-custom-builds-which-should-you-choose-for-your-website-or-app-41c" target="_blank">Ready-Made Templates vs Custom Builds — Which Should You Choose for Your Website or App?</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2026-03-09 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18906973&w=600" alt="Augmenting Your Dev Org with Agentic Teams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/augmenting-your-dev-org-with-agentic-teams" target="_blank">Augmenting Your Dev Org with Agentic Teams</a></span>
+                <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-09 20:00</span>
             </div>
         </div>
@@ -193,33 +217,6 @@
                 <span class="title"><a href="https://dzone.com/articles/kotlin-multiplatform-is-a-game-changer-for-startups" target="_blank">Why Kotlin Multiplatform is a Game-Changer for Startup Teams</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-09 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Official-RHEL-Compat" target="_blank">NVIDIA Adds Official Support For RHEL-Compatible Distributions Like AlmaLinux With CUDA 13.2</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-09 18:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18906953&w=600" alt="AI in Patient Portals: From Digital Access to Intelligent Healthcare Experiences" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-in-patient-portals-intelligent-healthcare-experiences" target="_blank">AI in Patient Portals: From Digital Access to Intelligent Healthcare Experiences</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-09 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://fixfest.therestartproject.org/" target="_blank">Fixfest is a global gathering of repairers, tinkerers, and activists</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-09 17:34</span>
             </div>
         </div>
 </div>
@@ -250,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/shutterstock_2686848411-e1773087726843-1280x852.jpg" alt="Elon Musk Wants a Do-Over on Twitter Trial After Jury Pool Couldn’t Hide Its Disdain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musk-wants-a-do-over-twitter-trial-after-jury-pool-couldnt-hide-its-disdain-2000731598" target="_blank">Elon Musk Wants a Do-Over on Twitter Trial After Jury Pool Couldn’t Hide Its Disdain</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-09 20:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/Screenshot-2026-03-09-144528.jpg" alt="Monster Hunter Stories 3: Twisted Reflection: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -295,20 +301,20 @@
                 <span class="time">2026-03-09 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/shutterstock_391931851.jpg?fit=1500%2C1140&amp;quality=60&amp;ssl=1" alt="I just learned Keanu Reeves has a band, so you have to learn that too" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/09/i-just-learned-keanu-reeves-has-a-band-so-you-have-to-learn-that-too.html" target="_blank">I just learned Keanu Reeves has a band, so you have to learn that too</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-09 16:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/09/unc-tier" target="_blank">Unc Tier</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-09 19:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1773007628-20260309.png" alt="Saturday Morning Breakfast Cereal - Invisible" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -341,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 43 | 📸 With Images: 261 |
-        🔄 Last Updated: 20:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 21:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
