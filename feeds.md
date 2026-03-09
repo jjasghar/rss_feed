@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-08 23:02:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-09 00:06:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, March 08, 2026 - 23:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, March 09, 2026 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/08/nx-s1-5741805/country-joe-mcdonald-woodstock-vietnam-protest" target="_blank">Country Joe McDonald, anti-war singer who electrified Woodstock, dies at 84</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-08 23:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Mojtaba-Khamenei-1-ap-gmh-260303_1772594361227_hpMain_4x3t_384.jpg" alt="Iran live updates: Mojtaba Khamenei chosen as Iran&#x27;s next supreme leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,15 +101,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836" target="_blank">Iran live updates: Assembly of Experts back Khamenei’s son as next leader</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-08 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2026/3/8/how-do-you-track-a-war-in-real-time?traffic_source=rss" target="_blank">How do you track a war in real time?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-08 19:30</span>
             </div>
         </div>
 </div>
@@ -163,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mgobea/ai-agents-run-smoothly-on-geminis-free-tier-42ai" target="_blank">AI Agents Run Smoothly on Gemini&#x27;s Free Tier!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-08 23:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jcasman/howto-start-a-python-project-with-uv-and-build-your-first-flet-ui-app-ch0" target="_blank">HowTo: Start a Python Project with `uv` and Build Your First Flet UI App</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-08 22:51</span>
@@ -204,20 +221,20 @@
                 <span class="time">2026-03-08 17:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/10/resources-flatpak-app.jpg?resize=406%2C232&amp;ssl=1" alt="Resources 1.10.2 fixes ‘implausible’ Intel NPU values" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/resources-1-10-2-intel-npu-fixes" target="_blank">Resources 1.10.2 fixes ‘implausible’ Intel NPU values</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-08 17:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Crusoe-data-center-Texas-1280x853.jpg" alt="Coming Soon, From the People Behind ICE Detention Camps: Data Center Company Towns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/coming-soon-from-the-people-behind-ice-detention-camps-data-center-company-towns-2000731145" target="_blank">Coming Soon, From the People Behind ICE Detention Camps: Data Center Company Towns</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-08 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/spider-man-covers-1280x853.jpg" alt="Spider-Man Gets Two New Comics for ‘Brand New Day’ Synergy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,15 +280,6 @@
                 <span class="time">2026-03-08 16:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/asmongold-1280x661.jpg" alt="Asmongold Dropped By Streamer Talent Agency He Co-Founded Following School Bombing Remarks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/asmongold-mythic-iran-school-bombing-2000677075" target="_blank">Asmongold Dropped By Streamer Talent Agency He Co-Founded Following School Bombing Remarks</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-08 16:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -291,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 43 | 📸 With Images: 260 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 43 | 📸 With Images: 260 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
