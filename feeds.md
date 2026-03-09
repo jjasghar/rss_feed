@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-09 10:13:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-09 11:12:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, March 09, 2026 - 10:13 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, March 09, 2026 - 11:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b41a/live/386856d0-1ba2-11f1-9f65-e32170917420.jpg" alt="Call off King&#x27;s US visit over Iran, urge Lib Dems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cz6evlwl68do?at_medium=RSS&at_campaign=rss" target="_blank">Call off King&#x27;s US visit over Iran, urge Lib Dems</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-09 10:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/09/nx-s1-5740557/chimpanzees-fermented-fruit-alcohol-evolution" target="_blank">Chimps&#x27; taste for fermented fruit hints at origins of human love of alcohol</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-09 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +100,20 @@
                 <span class="time">2026-03-09 05:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/08/nx-s1-5739395/iran-school-airstrike-tomahawk-missile-trump" target="_blank">Video appears to show U.S. cruise missile striking Iranian school compound</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-09 02:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/3/9/oil-soars-past-100-a-barrel-amid-iran-war?traffic_source=rss" target="_blank">Oil soars past $100 a barrel amid Iran war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-09 00:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/san-francisco-shadow-police-500x500.jpg" alt="“It doesn&#x27;t feel safe”—Many international game developers plan to skip GDC in US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/03/it-doesnt-feel-safe-many-international-game-developers-plan-to-skip-gdc-in-us/" target="_blank">“It doesn&#x27;t feel safe”—Many international game developers plan to skip GDC in US</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-09 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/699c832687b4ddbea4d1c67a/master/pass/022326_Science-UFO-Files-Dissapointment.jpg" alt="Don’t Expect Big Surprises in the Government’s Alien Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,20 +159,20 @@
                 <span class="time">2026-03-08 20:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/891151/apple-is-going-high-end-with-new-ultra-products-next" target="_blank">Apple is going high-end with new ‘Ultra’ products next</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-08 17:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc6xn4dm9u2c8kiubs1o0.png" alt="🛡️ Introducing Guardio — Take Back Control of Your AI Agent&#x27;s Actions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/radoslawsz/introducing-guardio-take-back-control-of-your-ai-agents-actions-2mik" target="_blank">🛡️ Introducing Guardio — Take Back Control of Your AI Agent&#x27;s Actions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-09 11:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,20 +218,20 @@
                 <span class="time">2026-03-09 04:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/naysmith/the-implementation-layer-just-collapsed-34kf" target="_blank">The Implementation Layer Just Collapsed</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-09 03:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/new-attack-against-wi-fi.html" target="_blank">New Attack Against Wi-Fi</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-03-09 10:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -232,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Hoppers-Bear-1280x853.jpg" alt="Dam, People Sure Saw ‘Hoppers’ This Weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dam-people-sure-saw-hoppers-this-weekend-2000731159" target="_blank">Dam, People Sure Saw ‘Hoppers’ This Weekend</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-09 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/havana.jpg?fit=1200%2C779&amp;quality=60&amp;ssl=1" alt="U.S. agents bought a portable Russian microwave weapon that may explain Havana Syndrome" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +300,6 @@
                 <span class="time">2026-03-08 19:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/satyanadella.jpg" alt="Microsoft Shoots Down “Blank Check” Rumor About Project Helix Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/microsoft-shoots-down-blank-check-rumor-about-project-helix-budget-2000677082" target="_blank">Microsoft Shoots Down “Blank Check” Rumor About Project Helix Budget</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-08 19:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 79 | 📡 Total Sources: 43 | 📸 With Images: 253 |
-        🔄 Last Updated: 10:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 83 | 📡 Total Sources: 43 | 📸 With Images: 253 |
+        🔄 Last Updated: 11:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
