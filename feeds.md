@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-09 13:26:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-09 14:16:12 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, March 09, 2026 - 13:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, March 09, 2026 - 14:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,9 +54,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/3/9/it-is-time-for-the-world-to-move-on-without-the-united-states?traffic_source=rss" target="_blank">It is time for the world to move on without the United States</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-09 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/tehran-1-ap-jef-260309_1773058622529_hpMain_4x3t_384.jpg" alt="Iran may be activating sleeper cells outside the country, alert says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/iran-activating-sleeper-cells-alert/story?id=130897687" target="_blank">Iran may be activating sleeper cells outside the country, alert says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-09 13:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/9/new-missile-video-puts-spotlight-on-us-over-iran-school-attack?traffic_source=rss" target="_blank">New missile video puts spotlight on US over Iran school attack</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-09 13:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff76/live/29cf0b90-1ba3-11f1-9f65-e32170917420.jpg" alt="Passer-by tried to tackle vape shop blaze before inferno" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd70wdxrrn4o?at_medium=RSS&at_campaign=rss" target="_blank">Passer-by tried to tackle vape shop blaze before inferno</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-09 12:52</span>
             </div>
         </div>
 <div class="story">
@@ -65,39 +96,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773055918134_tdy_news_7a_romans_oil_100_per_barrel_260309_1920x1080-tkbfvq.jpg" alt="Oil Hits $100 Per Barrel as Impact of Iran War Widens" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/09/g-s1-112966/up-first-newsletter-iran-israel-us-mojtaba-khamenei-trump-voting-openai" target="_blank">Iran picks new leader. And, Trump won&#x27;t sign bills until Congress overhauls voting</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-09 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b41a/live/386856d0-1ba2-11f1-9f65-e32170917420.jpg" alt="Call off King&#x27;s US visit over Iran, urge Lib Dems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz6evlwl68do?at_medium=RSS&at_campaign=rss" target="_blank">Call off King&#x27;s US visit over Iran, urge Lib Dems</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-09 10:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-main_1773049974148_hpMain_4x3t_384.jpg" alt="Iran live updates: 3 injured as Iranian missiles target central Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: 3 injured as Iranian missiles target central Israel</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-09 10:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/09/nx-s1-5740557/chimpanzees-fermented-fruit-alcohol-evolution" target="_blank">Chimps&#x27; taste for fermented fruit hints at origins of human love of alcohol</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-09 10:00</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/iran-war-oil-hits-100-per-barrel-dow-down-3-over-past-week-258954821683" target="_blank">Oil Hits $100 Per Barrel as Impact of Iran War Widens</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-09 11:32</span>
             </div>
         </div>
 </div>
@@ -105,6 +109,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/890703/hasbro-toys-games-magic-exodus-ai-tariffs" target="_blank">Hasbro’s CEO has an AI Peppa Pig help design toys</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-09 14:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/2027-Chevrolet-Bolt-1-500x500.jpg" alt="Chevrolet killed it then brought it back, now we drive it: The 2027 Bolt" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +163,29 @@
                 <span class="time">2026-03-09 04:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/08/palmer-luckeys-retro-gaming-startup-modretro-reportedly-seeks-funding-at-1b-valuation/" target="_blank">Palmer Luckey’s retro gaming startup ModRetro reportedly seeks funding at $1B valuation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-08 21:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ssj256x/building-a-declarative-json-extraction-engine-with-pythons-annotated-types-jq-and-pydantic-4fka" target="_blank">Building a Declarative JSON Extraction Engine with Python’s Annotated Types, jq and Pydantic</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-09 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18899192&w=600" alt="Square, SumUp, Shopify: Data Streaming for Real-Time Point-of-Sale (POS)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/square-sumup-shopify-data-streaming-for-real-time" target="_blank">Square, SumUp, Shopify: Data Streaming for Real-Time Point-of-Sale (POS)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-09 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fum95y6s1j72oefsq712i.png" alt="SQL Injection – UNION attack, retrieving data from other tables | PortSwigger Lab Note #4" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/radoslawsz/introducing-guardio-take-back-control-of-your-ai-agents-actions-2mik" target="_blank">🛡️ Introducing Guardio — Take Back Control of Your AI Agent&#x27;s Actions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-09 11:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GCC-16-RC-Mid-April" target="_blank">GCC 16 Compiler Aiming For Mid-April Release Candidate But &quot;Slow&quot; Progress On Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-09 10:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bridgeace/why-your-ai-code-editor-sends-your-code-to-the-cloud-and-why-it-shouldnt-49c8" target="_blank">Why Your AI Code Editor Sends Your Code to the Cloud (And Why It Shouldn&#x27;t)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-09 10:10</span>
             </div>
         </div>
 </div>
@@ -337,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 88 | 📡 Total Sources: 43 | 📸 With Images: 254 |
-        🔄 Last Updated: 13:26 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 93 | 📡 Total Sources: 43 | 📸 With Images: 256 |
+        🔄 Last Updated: 14:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
