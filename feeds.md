@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-09 15:16:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-09 16:17:32 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, March 09, 2026 - 15:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, March 09, 2026 - 16:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/09/nx-s1-5742434/explosives-new-york-zohran-mamdani-isis" target="_blank">Attempted attack with explosives in New York City investigated as &quot;ISIS-inspired terrorism&quot;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-09 15:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +102,29 @@
                 <span class="time">2026-03-09 11:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773055918134_tdy_news_7a_romans_oil_100_per_barrel_260309_1920x1080-tkbfvq.jpg" alt="Oil Hits $100 Per Barrel as Impact of Iran War Widens" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/iran-war-oil-hits-100-per-barrel-dow-down-3-over-past-week-258954821683" target="_blank">Oil Hits $100 Per Barrel as Impact of Iran War Widens</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-09 11:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2264858760-500x500.jpg" alt="2026 Australian Grand Prix: Formula 1 debuts a new style of racing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/03/2026-australian-grand-prix-formula-1-debuts-a-new-style-of-racing/" target="_blank">2026 Australian Grand Prix: Formula 1 debuts a new style of racing</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-09 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69a77e0879e62d2329a1659f/master/pass/Anthropic-Sues-DOD-Business-2261514586.jpg" alt="Anthropic Sues Department of Defense Over Supply-Chain Risk Designation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/" target="_blank">Anthropic Sues Department of Defense Over Supply-Chain Risk Designation</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-09 15:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +161,47 @@
                 <span class="time">2026-03-09 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/699c832687b4ddbea4d1c67a/master/pass/022326_Science-UFO-Files-Dissapointment.jpg" alt="Don’t Expect Big Surprises in the Government’s Alien Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dont-expect-big-surprises-in-the-governments-alien-files/" target="_blank">Don’t Expect Big Surprises in the Government’s Alien Files</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-09 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69ab52106bb4a5ea9482a549/master/pass/Can-AI-Kill-Venture-Capitalists-Business.jpg" alt="Can AI Kill the Venture Capitalist?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ai-kill-venture-capital/" target="_blank">Can AI Kill the Venture Capitalist?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-09 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/canonical-and-arduino-collaborate-to-enable-ubuntu-on-the-ventuno-q-the-next-generation-platform-for-ai" target="_blank">Canonical and Arduino collaborate to enable Ubuntu on the VENTUNO Q, the next generation platform for AI</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-03-09 16:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18899220&w=600" alt="How to Use AWS IAM Identity Center for Scalable, Compliant Cloud Access Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-to-use-aws-iam-identity-center-for-scalable-co" target="_blank">How to Use AWS IAM Identity Center for Scalable, Compliant Cloud Access Control</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-09 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/" target="_blank">Under the hood: Security architecture of GitHub Agentic Workflows</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-03-09 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.04-LTS-Authd" target="_blank">Ubuntu 26.04 LTS Officially Supporting Cloud-Based Authentication With Authd</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-09 15:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -176,42 +218,6 @@
                 <span class="title"><a href="https://dev.to/ssj256x/building-a-declarative-json-extraction-engine-with-pythons-annotated-types-jq-and-pydantic-4fka" target="_blank">Building a Declarative JSON Extraction Engine with Python’s Annotated Types, jq and Pydantic</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-09 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18899192&w=600" alt="Square, SumUp, Shopify: Data Streaming for Real-Time Point-of-Sale (POS)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/square-sumup-shopify-data-streaming-for-real-time" target="_blank">Square, SumUp, Shopify: Data Streaming for Real-Time Point-of-Sale (POS)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-09 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fum95y6s1j72oefsq712i.png" alt="SQL Injection – UNION attack, retrieving data from other tables | PortSwigger Lab Note #4" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kenny-cipher/sql-injection-union-attack-retrieving-data-from-other-tables-portswigger-lab-note-4-580c" target="_blank">SQL Injection – UNION attack, retrieving data from other tables | PortSwigger Lab Note #4</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-09 13:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18890255&w=600" alt="Best Practices to Make Your Data AI-Ready" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/best-practices-to-make-your-data-ai-ready" target="_blank">Best Practices to Make Your Data AI-Ready</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-09 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vxncxnx/i-scanned-2500-startup-ideas-with-ai-here-is-what-the-data-says-about-why-most-fail-nh3" target="_blank">I scanned 2,500 startup ideas with AI. Here is what the data says about why most fail.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-09 12:00</span>
             </div>
         </div>
 </div>
@@ -242,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/IMG_2148-1280x720.jpg" alt="Three Pokémon Pokopia Upgrades You Should Buy Immediately" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-pokopia-best-upgrades-items-handy-bag-space-2000677269" target="_blank">Three Pokémon Pokopia Upgrades You Should Buy Immediately</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-09 16:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/cloaca.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Scientists find 300 million year old fossilized butthole" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/09/scientists-find-300-million-year-old-fossilized-butthole.html" target="_blank">Scientists find 300 million year old fossilized butthole</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-09 15:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/11/GettyImages-1246499609-1024x683.jpg" alt="Live Nation Reaches a Settlement With the DOJ Over Alleged Ticketing Monopoly" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,29 +302,20 @@
                 <span class="time">2026-03-09 13:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/MS0309-daredevil-born-again-jessica-jones-1280x853.jpg" alt="‘Daredevil: Born Again’ Showrunner Teases Jessica Jones’ Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/daredevil-born-again-jessica-jones-netflix-connection-mcu-2000731131" target="_blank">‘Daredevil: Born Again’ Showrunner Teases Jessica Jones’ Return</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-09 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KK8YK8SNQB80C443P120Y25B/hero-image.png" alt="This Arlo Outdoor Camera Two-Pack Is Over $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/arlo-essential-spotlight-camera-bundle-sale-march-2026?utm_medium=RSS" target="_blank">This Arlo Outdoor Camera Two-Pack Is Over $100 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-09 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1773007628-20260309.png" alt="Saturday Morning Breakfast Cereal - Invisible" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/invisible" target="_blank">Saturday Morning Breakfast Cereal - Invisible</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-09 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -319,22 +334,13 @@
                 <span class="time">2026-03-09 01:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1772766819-20260308.png" alt="Saturday Morning Breakfast Cereal - Hooray" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/hooray" target="_blank">Saturday Morning Breakfast Cereal - Hooray</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-03-08 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 95 | 📡 Total Sources: 43 | 📸 With Images: 255 |
-        🔄 Last Updated: 15:16 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 102 | 📡 Total Sources: 43 | 📸 With Images: 255 |
+        🔄 Last Updated: 16:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
