@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-10 00:05:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-10 01:30:31 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, March 10, 2026 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, March 10, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +51,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/10/no-middle-ground-israelis-back-iran-war-despite-taking-mounting-hits?traffic_source=rss" target="_blank">‘No middle ground’: Israelis back Iran war, despite taking mounting hits</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-10 00:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-israel-matula_7187487.png?20260310011625" alt="&#x27;The fighting feels like we&#x27;re going to finish it - once and for all&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/the-fighting-feels-like-were-going-to-finish-it-once-and-for-all-13517537" target="_blank">&#x27;The fighting feels like we&#x27;re going to finish it - once and for all&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-10 00:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773097658238_nn_ren_iran_strikes_260309_1920x1080-ubphjn.jpg" alt="Trump says war with Iran is ‘very complete’ and could end soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-says-war-with-iran-is-very-complete-and-could-end-soon-259004997685" target="_blank">Trump says war with Iran is ‘very complete’ and could end soon</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-03-09 23:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a78d/live/67889ea0-1bea-11f1-b830-cb1fa32e1d18.jpg" alt="Reeves to look at how to help households with heating oil bills" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c07jyd0rrz2o?at_medium=RSS&at_campaign=rss" target="_blank">Reeves to look at how to help households with heating oil bills</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-09 22:00</span>
             </div>
         </div>
 <div class="story">
@@ -73,38 +104,29 @@
                 <span class="time">2026-03-09 21:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/3/9/who-is-irans-new-supreme-leader?traffic_source=rss" target="_blank">Who is Iran’s new supreme leader, Mojtaba Khamenei?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-09 20:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/3/9/anthropic-sues-trump-administration-to-undo-us-supply-chain-risk-tag?traffic_source=rss" target="_blank">Anthropic sues Trump administration to undo US ‘supply chain risk’ tag</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-09 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/09/nx-s1-5742633/arizona-maricopa-county-2020-records-petersen" target="_blank">Top Arizona lawmaker says he&#x27;s complied with a subpoena for 2020 election records</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-09 18:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/" target="_blank">Founders Fund nears $6 billion close for latest growth fund, sources say</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-10 01:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69aa166a88f33482258401e7/master/pass/Nvidia-Scoop-Business-2260170952.jpg" alt="Nvidia Is Planning to Launch an Open-Source AI Agent Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/" target="_blank">Nvidia Is Planning to Launch an Open-Source AI Agent Platform</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-09 23:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1036093724-500x500.jpg" alt="After falling far behind the rest of industry, Blue Origin creates new stock option plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,24 +161,6 @@
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor" target="_blank">Apple smart home display rumors now point to a fall launch with iOS 27</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-09 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/" target="_blank">OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-09 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69af1b724c895b3ad54af4cd/master/pass/Anthropic-Claims-Business-Is-in-Peril-Business-2235057484.jpg" alt="Anthropic Claims Pentagon Feud Could Cost It Billions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/" target="_blank">Anthropic Claims Pentagon Feud Could Cost It Billions</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-09 20:49</span>
             </div>
         </div>
 </div>
@@ -323,22 +327,13 @@
                 <span class="time">2026-03-09 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5781.png" alt="Get In The Tank, Liz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5781" target="_blank">Get In The Tank, Liz</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-03-09 01:09</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 43 | 📸 With Images: 264 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
