@@ -1,40 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-03-10 01:30:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-10 02:51:27 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, March 10, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, March 10, 2026 - 02:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -113,6 +115,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/09/an-iphone-hacking-toolkit-used-by-russian-spies-likely-came-from-u-s-military-contractor/" target="_blank">An iPhone-hacking toolkit used by Russian spies likely came from U.S military contractor</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-10 01:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/" target="_blank">Founders Fund nears $6 billion close for latest growth fund, sources say</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-10 01:03</span>
@@ -154,20 +165,29 @@
                 <span class="time">2026-03-09 22:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor" target="_blank">Apple smart home display rumors now point to a fall launch with iOS 27</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-09 22:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tiamatenity/faq-agentic-ai-security-threats-your-top-questions-answered-og3" target="_blank">FAQ: Agentic AI Security Threats — Your Top Questions Answered</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-10 02:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.rahuljuliato.com/posts/emacs-solo-two-years" target="_blank">Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-10 00:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,24 +224,6 @@
                 <span class="time">2026-03-09 20:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/riteshrajpurohit/ready-made-templates-vs-custom-builds-which-should-you-choose-for-your-website-or-app-41c" target="_blank">Ready-Made Templates vs Custom Builds — Which Should You Choose for Your Website or App?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-09 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18906973&w=600" alt="Augmenting Your Dev Org with Agentic Teams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/augmenting-your-dev-org-with-agentic-teams" target="_blank">Augmenting Your Dev Org with Agentic Teams</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-09 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2020/06/zombie-gnome-horror.jpg?fit=1194%2C717&amp;quality=60&amp;ssl=1" alt="Garden gnome fails to defend tiny patch of land against claim" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/09/garden-gnome-fails-to-defend-tiny-patch-of-land-against-claim.html" target="_blank">Garden gnome fails to defend tiny patch of land against claim</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-10 01:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,20 +297,20 @@
                 <span class="time">2026-03-09 19:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Arnold-Schwarzenegger-King-Conan-1280x853.jpg" alt="Arnold Schwarzenegger Will Be Back… as Conan the Barbarian" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/arnold-schwarzenegger-will-be-back-as-conan-the-barbarian-2000731566" target="_blank">Arnold Schwarzenegger Will Be Back… as Conan the Barbarian</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-09 19:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5782.png" alt="Bubbles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5782" target="_blank">Bubbles</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-03-10 01:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -332,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 43 | 📸 With Images: 264 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 43 | 📸 With Images: 263 |
+        🔄 Last Updated: 02:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
