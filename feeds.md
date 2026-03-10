@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-10 09:11:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-10 10:10:30 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, March 10, 2026 - 09:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, March 10, 2026 - 10:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/10/air-strike-kills-four-iran-linked-fighters-in-iraq?traffic_source=rss" target="_blank">Air strike kills four Iran-linked fighters in Iraq</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-10 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +99,29 @@
                 <span class="time">2026-03-10 05:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/10/us-consumers-express-dismay-over-rising-gas-prices-after-attack-on-iran?traffic_source=rss" target="_blank">US consumers express dismay over rising gas prices after attack on Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-10 05:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram" target="_blank">Meta’s deepfake moderation isn’t good enough, says Oversight Board</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-10 10:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69afa24636c2b7ff606ae9ea/master/pass/Review--Wiim-Amp-Ultra-Streaming-Amplifier.jpg" alt="Wiim Amp Ultra Review: A Fantastic Streaming Amp With TV Input" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/wiim-amp-ultra/" target="_blank">Wiim Amp Ultra Review: A Fantastic Streaming Amp With TV Input</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-10 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +158,29 @@
                 <span class="time">2026-03-10 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/09/an-iphone-hacking-toolkit-used-by-russian-spies-likely-came-from-u-s-military-contractor/" target="_blank">An iPhone-hacking toolkit used by Russian spies likely came from U.S military contractor</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-10 01:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/" target="_blank">Founders Fund nears $6 billion close for latest growth fund, sources say</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-10 01:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/exfatprogs-1.3.2" target="_blank">exfatprogs 1.3.2 Brings Improvements To mkfs.exfat, fsck.exfat</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-10 10:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tsung_8b0f8018e887871fda/i-ran-300-ai-models-against-pltr-heres-what-multi-model-consensus-found-43c8" target="_blank">I ran 300+ AI models against PLTR — here&#x27;s what multi-model consensus found</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-10 10:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,29 +217,20 @@
                 <span class="time">2026-03-10 06:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gauravdgreat/the-over-engineering-trap-in-modern-software-development-696" target="_blank">The Over-Engineering Trap in Modern Software Development.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-10 03:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tiamatenity/faq-agentic-ai-security-threats-your-top-questions-answered-og3" target="_blank">FAQ: Agentic AI Security Threats — Your Top Questions Answered</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-10 02:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/jailbreaking-the-f-35-fighter-jet.html" target="_blank">Jailbreaking the F-35 Fighter Jet</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-03-10 09:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -327,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 43 | 📸 With Images: 259 |
-        🔄 Last Updated: 09:11 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 10:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
