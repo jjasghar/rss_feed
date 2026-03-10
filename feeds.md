@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-10 10:10:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-10 11:10:01 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, March 10, 2026 - 10:10 UTC</div>
+    <div class="newspaper-date">Tuesday, March 10, 2026 - 11:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/AP26069039140652_1773139635872_hpMain_4x3t_384.jpg" alt="Iran live updates: Hegseth to address war, after Trump says it will be &#x27;ended soon&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: Hegseth to address war, after Trump says it will be &#x27;ended soon&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-10 11:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/632a/live/1b65adb0-19a6-11f1-9120-a910fc22c6ac.jpg" alt="Inmate charged with murder of Soham killer Ian Huntley" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg8ll4l7d9o?at_medium=RSS&at_campaign=rss" target="_blank">Inmate charged with murder of Soham killer Ian Huntley</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-10 11:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/planet-money/2026/03/10/g-s1-112700/pro-worker-ai-streaming-fatalities-and-other-fascinating-new-economic-studies" target="_blank">&#x27;Pro-worker AI,&#x27; streaming fatalities, and other fascinating new economic studies</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-10 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/10/hundreds-killed-in-haiti-drone-strikes-including-60-civilians-report?traffic_source=rss" target="_blank">Hundreds killed in Haiti drone strikes, including 60 civilians: Report</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-10 10:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -63,47 +103,20 @@
                 <span class="time">2026-03-10 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/10/iranian-strike-kills-bahraini-woman-after-hitting-residential-building?traffic_source=rss" target="_blank">Iranian strike kills Bahraini woman after hitting residential building</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-10 07:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-8-gty-gmh-260308_1772980681214_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says war will be &#x27;ended soon&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: Trump says war will be &#x27;ended soon&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-10 07:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/10/woman-killed-in-bahrain-as-other-gulf-states-intercept-iranian-missiles?traffic_source=rss" target="_blank">Woman killed in Bahrain as Gulf states intercept more Iranian missiles</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-10 06:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/10/g-s1-113147/alexander-brothers-convicted-sex-trafficking" target="_blank">Alexander brothers convicted of sex trafficking in Manhattan federal court</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-10 05:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69aa1cf123fe0f2f8bea6e65/master/pass/Why-Can-a-Single-Train-Locomotives-Pull-So-Much-Weight_-Science-1865711837.jpg" alt="How Can a Locomotive Pull a Long Train That’s Much Heavier?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-can-a-locomotive-pull-a-train-thats-much-heavier/" target="_blank">How Can a Locomotive Pull a Long Train That’s Much Heavier?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-10 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +162,20 @@
                 <span class="time">2026-03-10 06:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69ab547169eb9242c51148d7/master/pass/Yann-LeCun-QA-Business-2198379404.jpg" alt="Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/" target="_blank">Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-10 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-RADV-More-Per-Game-Tuning" target="_blank">Valve/RADV Developers Look At More Per-Game Tuning/Optimizations For Mesa Drivers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-10 10:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +221,6 @@
                 <span class="time">2026-03-10 07:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6is52n14jnwhozsdisa3.jpg" alt="QuickVideo – Batch Change Video Speed with Python and FFmpeg" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/matetechnologie/quickvideo-batch-change-video-speed-with-python-and-ffmpeg-17lh" target="_blank">QuickVideo – Batch Change Video Speed with Python and FFmpeg</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-10 06:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,15 +233,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/jailbreaking-the-f-35-fighter-jet.html" target="_blank">Jailbreaking the F-35 Fighter Jet</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-03-10 09:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/new-attack-against-wi-fi.html" target="_blank">New Attack Against Wi-Fi</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-03-09 10:57</span>
             </div>
         </div>
 </div>
@@ -336,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 10:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 11:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
