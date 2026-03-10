@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-03-10 18:11:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-10 19:13:51 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 13 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, March 10, 2026 - 18:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, March 10, 2026 - 19:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +52,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773169172781_now_brk_leavitt_whitehouse_end_iran_260310_1920x1080-qij2hh.jpg" alt="White House: Iran war will end when Trump says &#x27;military objectives have been met&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/white-house-iran-war-will-end-when-trump-says-military-objectives-have-been-met-259065925569" target="_blank">White House: Iran war will end when Trump says &#x27;military objectives have been met&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-10 18:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/10/russian-attack-kills-four-in-ukraines-sloviansk-as-both-sides-claim-gains?traffic_source=rss" target="_blank">Russian attack kills four in Ukraine’s Sloviansk as both sides claim gains</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-10 18:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/10/nx-s1-5743543/steve-emt-paralympics-wheelchair-curling" target="_blank">Wheelchair curler Steve Emt&#x27;s path from drunk driver to three-time Paralympian</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-10 18:10</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2026/3/10/dutertes-drug-war-faces-judgement-at-the-icc?traffic_source=rss" target="_blank">Duterte’s drug war faces judgement at the ICC</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-10 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f5e/live/59fb3320-1cb1-11f1-b048-c9424b2cf5fd.jpg" alt="HMS Dragon departs UK for eastern Mediterranean" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0k1yyg475ko?at_medium=RSS&at_campaign=rss" target="_blank">HMS Dragon departs UK for eastern Mediterranean</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-10 17:37</span>
             </div>
         </div>
 <div class="story">
@@ -61,47 +105,38 @@
                 <span class="time">2026-03-10 16:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/travel/2026/mar/10/principe-africa-villagers-to-be-paid-protect-ecosystem-african-galapagos" target="_blank">Villagers on Principe, the ‘African Galapagos’, to be paid for protecting the ecosystem</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-10 16:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/10/us-general-says-he-respects-irans-fight?traffic_source=rss" target="_blank">US general says he ‘respects’ Iran’s fight</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-10 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-putin-thisiswhy_7187985.jpg?20260310152909" alt="Could Putin be the big winner of the Iran war?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/could-putin-be-the-big-winner-of-the-iran-war-13517775" target="_blank">Could Putin be the big winner of the Iran war?</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-10 15:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/10/nx-s1-5742457/psilocybin-magic-mushroom-quit-smoking" target="_blank">A dose of psilocybin helps smokers quit in new study</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-10 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/moltbook-chest-burster-500x500.jpg" alt="Meta acquires Moltbook, the AI agent social network" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/03/meta-acquires-moltbook-the-ai-agent-social-network/" target="_blank">Meta acquires Moltbook, the AI agent social network</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-10 19:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/892066/pokopia-pokedex-review" target="_blank">Pokopia Pokédex review: a classic, reimagined</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-10 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b068dd60617a9bda5a3f49/master/pass/Power-Up-Your-Spring-With-Anker%E2%80%99s-Discounted-Portable-Power-Station.jpg" alt="Anker’s Discounted Power Station Can Power Your Next Camping Trip" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anker-solix-c1000-spring-deal/" target="_blank">Anker’s Discounted Power Station Can Power Your Next Camping Trip</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-10 18:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-628879332-500x500.jpg" alt="Trump&#x27;s divisive FDA vaccine regulator self-destructs, will exit agency (again)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -129,38 +164,29 @@
                 <span class="time">2026-03-10 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/890592/satechi-onthego-foldable-stand-hub-dock-ipad-tablet" target="_blank">Satechi’s new folding dock adds USB, audio, and video ports to the iPad</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-10 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/09/ignobles-2022-500x500-1757622572.jpg" alt="Ig Nobels ceremony moves to Europe over security concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/03/ig-nobels-ceremony-moves-to-europe-over-security-concerns/" target="_blank">Ig Nobels ceremony moves to Europe over security concerns</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-10 14:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/" target="_blank">Adobe is debuting an AI assistant for Photoshop</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-10 13:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2js75363wbxq193syr6y.png" alt="Developing a Bevy Plugin for Special Relativistic Rendering: Balancing Accuracy and Efficiency in 3D Scenes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/serbyte/developing-a-bevy-plugin-for-special-relativistic-rendering-balancing-accuracy-and-efficiency-in-26k2" target="_blank">Developing a Bevy Plugin for Special Relativistic Rendering: Balancing Accuracy and Efficiency in 3D Scenes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-10 19:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/msi-pro-b850p-wifi" target="_blank">MSI PRO B850-P WiFi: A Special AMD Ryzen AM5 Motherboard For Linux / Open-Source Enthusiasts</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-10 18:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +223,6 @@
                 <span class="time">2026-03-10 15:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F224811%2F505d6c9e-8f45-40b7-bbcf-f7d3513b34f1.jpeg" alt="Top 7 Featured DEV Posts of the Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1889" target="_blank">Top 7 Featured DEV Posts of the Week</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-10 15:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18908135&w=600" alt="AI Is Rewriting How Product Managers and Engineers Build Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-rewriting-product-managers-engineers-build-together" target="_blank">AI Is Rewriting How Product Managers and Engineers Build Together</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-10 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/M2x2-Lego-computer-1280x853.jpg" alt="This Custom Lego-Inspired Mac Mini Case Is Retrofuturism Done Right" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-custom-lego-inspired-mac-mini-case-is-retrofuturism-done-right-2000731897" target="_blank">This Custom Lego-Inspired Mac Mini Case Is Retrofuturism Done Right</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-10 19:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JQY69Y27GQ0D5NSQG57AEPQJ/hero-image.png" alt="You Can Get These Bose QuietComfort Ultra Earbuds for 40% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/bose-quietcomfort-ultra-earbuds-deal-march-2026?utm_medium=RSS" target="_blank">You Can Get These Bose QuietComfort Ultra Earbuds for 40% Off</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-10 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/reg.jpg?fit=1280%2C720&amp;quality=60&amp;ssl=1" alt="Heritage railway&#x27;s new fox mascot was drawn by a furry artist and it works out great" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +294,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/10/he-made-videos-of-himself-singing-beach-boys-songs-and-they-were-so-good-the-beach-boys-brought-him-into-the-band.html" target="_blank">He made videos of himself singing Beach Boys songs – and they were so good the Beach Boys brought him into the band</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-10 16:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHPM03ZJFRAKBM337N5306KQ/hero-image.jpg" alt="Here Are the New Features Coming in iOS 26.4" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/here-are-the-new-features-coming-in-ios-264?utm_medium=RSS" target="_blank">Here Are the New Features Coming in iOS 26.4</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-10 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/RESIDENT-EVIL-requiem_20260213204857-1280x720.jpg" alt="Resident Evil Requiem Story DLC And More Already In Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/resident-evil-requiem-story-dlc-photo-mode-mini-game-expansion-capcom-announces-2000677545" target="_blank">Resident Evil Requiem Story DLC And More Already In Development</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-10 14:55</span>
             </div>
         </div>
 </div>
@@ -325,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 18:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 19:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
