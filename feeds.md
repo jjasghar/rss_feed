@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-10 07:14:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-10 08:06:57 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, March 10, 2026 - 07:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, March 10, 2026 - 08:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/10/iranian-strike-kills-bahraini-woman-after-hitting-residential-building?traffic_source=rss" target="_blank">Iranian strike kills Bahraini woman after hitting residential building</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-10 07:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-8-gty-gmh-260308_1772980681214_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says war will be &#x27;ended soon&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: Trump says war will be &#x27;ended soon&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-10 07:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +100,20 @@
                 <span class="time">2026-03-10 02:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebee/live/6343ae10-1c4f-11f1-b048-c9424b2cf5fd.jpg" alt="Rising prices, mixed messages: Iran war is fraught with political risk for Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss" target="_blank">Rising prices, mixed messages: Iran war is fraught with political risk for Trump</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-10 02:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/10/no-middle-ground-israelis-back-iran-war-despite-taking-mounting-hits?traffic_source=rss" target="_blank">‘No middle ground’: Israelis back Iran war, despite taking mounting hits</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-10 00:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/10/uzbekistans-uzum-valuation-rises-1-5x-in-seven-months-to-2-3b/" target="_blank">Uzbekistan’s Uzum valuation leaps over 50% in seven months to $2.3B</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-10 07:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +159,29 @@
                 <span class="time">2026-03-09 23:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1036093724-500x500.jpg" alt="After falling far behind the rest of industry, Blue Origin creates new stock option plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/03/after-years-of-missteps-blue-origin-to-finally-offer-meaningful-stock-options/" target="_blank">After falling far behind the rest of industry, Blue Origin creates new stock option plan</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-09 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/fast-tracking-industrial-and-ai-deployment-on-renesas-rz-platforms" target="_blank">Fast-tracking industrial and AI deployment on Renesas RZ platforms</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-03-10 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/..." alt="How Authentication Works: JWT vs Sessions Explained" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/exactsolutionofficial/how-authentication-works-jwt-vs-sessions-explained-ipp" target="_blank">How Authentication Works: JWT vs Sessions Explained</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-10 07:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6is52n14jnwhozsdisa3.jpg" alt="QuickVideo – Batch Change Video Speed with Python and FFmpeg" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,24 +216,6 @@
                 <span class="title"><a href="https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/" target="_blank">Learnings from paying artists royalties for AI-generated art</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-10 02:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-14.4-Released" target="_blank">FreeBSD 14.4 Released For Those Not Yet Ready To Move To FreeBSD 15</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-10 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.rahuljuliato.com/posts/emacs-solo-two-years" target="_blank">Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-10 00:16</span>
             </div>
         </div>
 </div>
@@ -325,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 43 | 📸 With Images: 262 |
-        🔄 Last Updated: 07:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 08:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
