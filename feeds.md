@@ -1,35 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-03-10 04:30:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-10 05:17:53 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 2 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, March 10, 2026 - 04:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, March 10, 2026 - 05:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +97,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69ab547169eb9242c51148d7/master/pass/Yann-LeCun-QA-Business-2198379404.jpg" alt="Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/" target="_blank">Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-10 05:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -149,15 +150,6 @@
                 <span class="time">2026-03-09 22:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/09/electric-air-taxis-are-about-to-take-flight-in-26-states/" target="_blank">Electric air taxis are about to take flight in 26 states</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-09 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -179,6 +171,15 @@
                 <span class="title"><a href="https://dev.to/tiamatenity/faq-agentic-ai-security-threats-your-top-questions-answered-og3" target="_blank">FAQ: Agentic AI Security Threats — Your Top Questions Answered</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-10 02:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/" target="_blank">Learnings from paying artists royalties for AI-generated art</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-10 02:24</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +207,6 @@
                 <span class="title"><a href="http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html" target="_blank">Sir Tony Hoare has died</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-09 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/askpatrick/the-prototype-to-production-gap-why-your-ai-agent-works-in-testing-but-fails-in-the-wild-2g2o" target="_blank">The Prototype-to-Production Gap: Why Your AI Agent Works in Testing But Fails in the Wild</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-09 21:52</span>
             </div>
         </div>
 </div>
@@ -336,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 43 | 📸 With Images: 263 |
-        🔄 Last Updated: 04:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 43 | 📸 With Images: 263 |
+        🔄 Last Updated: 05:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
