@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-10 17:14:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-10 18:11:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, March 10, 2026 - 17:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, March 10, 2026 - 18:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,10 +46,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/3/10/dutertes-drug-war-faces-judgement-at-the-icc?traffic_source=rss" target="_blank">Duterte’s drug war faces judgement at the ICC</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-10 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/03/10/g-s1-111238/immigration-detention-deaths-custody" target="_blank">Immigration detention on track for deadliest fiscal year since 2004</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-10 16:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/travel/2026/mar/10/principe-africa-villagers-to-be-paid-protect-ecosystem-african-galapagos" target="_blank">Villagers on Principe, the ‘African Galapagos’, to be paid for protecting the ecosystem</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-10 16:13</span>
             </div>
         </div>
 <div class="story">
@@ -67,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-putin-thisiswhy_7187985.jpg?20260310152909" alt="Could Putin be the big winner of the Iran war?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/could-putin-be-the-big-winner-of-the-iran-war-13517775" target="_blank">Could Putin be the big winner of the Iran war?</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-10 15:51</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -75,38 +97,20 @@
                 <span class="time">2026-03-10 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/10/protesters-block-irans-womens-football-team-bus-en-route-to-airport?traffic_source=rss" target="_blank">Protesters block Iran’s women’s football team bus en route to airport</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-10 14:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/oentagon-presser-iran_1773145494840_hpMain_4x3t_384.jpg" alt="Iran live updates: Tuesday to mark &#x27;most intense&#x27; US strikes in Iran, Hegseth says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: Tuesday to mark &#x27;most intense&#x27; US strikes in Iran, Hegseth says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-10 13:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773146973023_now_mnn_sahil_hegseth_recap_260310_1920x1080-hk4idt.jpg" alt="Hegseth indicates Trump will decide when Iran war is complete" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/hegseth-indicates-trump-will-decide-when-iran-war-is-complete-259039301533" target="_blank">Hegseth indicates Trump will decide when Iran war is complete</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-10 12:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-628879332-500x500.jpg" alt="Trump&#x27;s divisive FDA vaccine regulator self-destructs, will exit agency (again)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/03/trumps-divisive-fda-vaccine-regulator-self-destructs-will-exit-agency-again/" target="_blank">Trump&#x27;s divisive FDA vaccine regulator self-destructs, will exit agency (again)</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-10 17:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69b044944c5dd30e33d9f540/master/pass/Fake-AI-Content-About-Iran-War-All-Over-X-Politics-2191851142.jpg" alt="Fake AI Content About the Iran War Is All Over X" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +156,20 @@
                 <span class="time">2026-03-10 13:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69af44e9e115af3d75342fa8/master/pass/MacBook-neo-01%20.JPG" alt="Apple MacBook Neo Review: Delicious, Low-Hanging Fruit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/apple-macbook-neo/" target="_blank">Apple MacBook Neo Review: Delicious, Low-Hanging Fruit</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-10 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thegdsks/i-tested-every-open-source-brand-svg-library-so-you-dont-have-to-2026-edition-3jcc" target="_blank">I Tested Every Open-Source Brand SVG Library So You Don&#x27;t Have To (2026 Edition)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-10 18:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj1qynjyr33dva490sgqv.png" alt="Why Programmers Need To Type Fast" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +215,6 @@
                 <span class="time">2026-03-10 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html" target="_blank">Tony Hoare has died</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-10 14:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/reg.jpg?fit=1280%2C720&amp;quality=60&amp;ssl=1" alt="Heritage railway&#x27;s new fox mascot was drawn by a furry artist and it works out great" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/10/historic-english-railway-hires-a-furry-artist-for-its-new-mascot-and-it-works-out-great.html" target="_blank">Heritage railway&#x27;s new fox mascot was drawn by a furry artist and it works out great</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-10 17:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/12/it-welcome-to-derry_6-2-1024x683.jpg" alt="Andy Muschietti Assures Fans That ‘It: Welcome to Derry’ Will Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +288,6 @@
                 <span class="time">2026-03-10 14:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/MS0310-predator-badlands-1280x853.jpg" alt="Arnold Schwarzenegger Says He May Be Back for the Next ‘Predator’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/arnold-schwarzenegger-predator-return-dan-trachtenberg-2000731575" target="_blank">Arnold Schwarzenegger Says He May Be Back for the Next ‘Predator’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-10 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 17:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 18:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
