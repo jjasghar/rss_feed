@@ -1,42 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-10 02:51:27 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-03-10 03:43:26 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 33 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, March 10, 2026 - 02:51 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, March 10, 2026 - 03:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/3/10/trump-says-some-sanctions-to-be-lifted-on-oil-producers-amid-iran-war?traffic_source=rss" target="_blank">Trump says some sanctions to be lifted on oil producers amid Iran war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-10 02:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,15 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/9/us-blacklists-sudanese-muslim-brotherhood-as-terrorist-group?traffic_source=rss" target="_blank">US blacklists Sudanese Muslim Brotherhood as ‘terrorist’ group</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-09 21:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump holds news conference: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  President Trump holds news conference: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-09 21:30</span>
             </div>
         </div>
 </div>
@@ -174,9 +170,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gauravdgreat/the-over-engineering-trap-in-modern-software-development-696" target="_blank">The Over-Engineering Trap in Modern Software Development.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-10 03:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/tiamatenity/faq-agentic-ai-security-threats-your-top-questions-answered-og3" target="_blank">FAQ: Agentic AI Security Threats — Your Top Questions Answered</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-10 02:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-14.4-Released" target="_blank">FreeBSD 14.4 Released For Those Not Yet Ready To Move To FreeBSD 15</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-10 00:30</span>
             </div>
         </div>
 <div class="story">
@@ -204,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/askpatrick/the-prototype-to-production-gap-why-your-ai-agent-works-in-testing-but-fails-in-the-wild-2g2o" target="_blank">The Prototype-to-Production Gap: Why Your AI Agent Works in Testing But Fails in the Wild</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-09 21:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvfduo9ctngz16u5uuskq.png" alt="Enforcing voice and tone with Claude Code hooks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tompahoward/enforcing-voice-and-tone-with-claude-code-hooks-6db" target="_blank">Enforcing voice and tone with Claude Code hooks</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-09 21:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-595.44.02-Linux-Vulkan" target="_blank">NVIDIA Releases New R595-Derived Vulkan Developer Beta For Linux With New Features</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-09 20:33</span>
             </div>
         </div>
 </div>
@@ -280,21 +276,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/yoshi-1-1280x720.jpg" alt="Donald Glover Is Playing Yoshi In Super Mario Galaxy Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/super-mario-galaxy-movie-direct-yoshi-donald-glover-2000677355" target="_blank">Donald Glover Is Playing Yoshi In Super Mario Galaxy Movie</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-09 21:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/shutterstock_2686848411-e1773087726843-1280x852.jpg" alt="Elon Musk Wants a Do-Over on Twitter Trial After Jury Pool Couldn’t Hide Its Disdain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/elon-musk-wants-a-do-over-twitter-trial-after-jury-pool-couldnt-hide-its-disdain-2000731598" target="_blank">Elon Musk Wants a Do-Over on Twitter Trial After Jury Pool Couldn’t Hide Its Disdain</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-09 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/Screenshot-2026-03-09-144528.jpg" alt="Monster Hunter Stories 3: Twisted Reflection: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/monster-hunter-stories-3-review-twisted-reflection-combat-rpg-story-2000677317" target="_blank">Monster Hunter Stories 3: Twisted Reflection: The Kotaku Review</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-09 19:50</span>
             </div>
         </div>
 </div>
@@ -343,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 43 | 📸 With Images: 263 |
-        🔄 Last Updated: 02:51 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 43 | 📸 With Images: 262 |
+        🔄 Last Updated: 03:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
