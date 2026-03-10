@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-10 14:14:12 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-10 15:15:44 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
 <!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, March 10, 2026 - 14:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, March 10, 2026 - 15:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/10/protesters-block-irans-womens-football-team-bus-en-route-to-airport?traffic_source=rss" target="_blank">Protesters block Iran’s women’s football team bus en route to airport</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-10 14:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/oentagon-presser-iran_1773145494840_hpMain_4x3t_384.jpg" alt="Iran live updates: Tuesday to mark &#x27;most intense&#x27; US strikes in Iran, Hegseth says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvg8ll4l7d9o?at_medium=RSS&at_campaign=rss" target="_blank">Inmate charged with murder of Soham killer Ian Huntley</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-10 11:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/planet-money/2026/03/10/g-s1-112700/pro-worker-ai-streaming-fatalities-and-other-fascinating-new-economic-studies" target="_blank">&#x27;Pro-worker AI,&#x27; streaming fatalities, and other fascinating new economic studies</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-10 10:30</span>
             </div>
         </div>
 </div>
@@ -165,10 +164,46 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/SUSE-Possibly-For-Sale-2026" target="_blank">SUSE Reportedly May Be For Sale Yet Again</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-10 15:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F224811%2F505d6c9e-8f45-40b7-bbcf-f7d3513b34f1.jpeg" alt="Top 7 Featured DEV Posts of the Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1889" target="_blank">Top 7 Featured DEV Posts of the Week</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-10 15:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html" target="_blank">Turing Award winner and former Oxford professor Tony Hoare passed away</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-10 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hunterryskoski/how-to-install-active-directory-users-and-computers-with-powershell-1fca" target="_blank">How to Install Active Directory Users and Computers with PowerShell</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-10 14:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18907075&w=600" alt="How We Rebuilt a Legacy HBase + Elasticsearch System Using Apache Iceberg, Spark, Trino, and Doris" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-we-rebuilt-a-legacy-hbase-elasticsearch-system" target="_blank">How We Rebuilt a Legacy HBase + Elasticsearch System Using Apache Iceberg, Spark, Trino, and Doris</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-10 14:00</span>
             </div>
         </div>
 <div class="story">
@@ -178,42 +213,6 @@
                 <span class="title"><a href="https://entropicthoughts.com/rebasing-in-magit" target="_blank">Rebasing in Magit</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-10 13:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18907056&w=600" alt="Optimizing Data Loader Jobs in SQL Server: Production Implementation Strategies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/optimizing-data-loader-jobs-in-sql-server" target="_blank">Optimizing Data Loader Jobs in SQL Server: Production Implementation Strategies</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-10 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://blog.fabiomanganiello.com/article/Madblog-federated-blogging-from-markdown" target="_blank">Madblog: Turn a Markdown folder into a federated blog</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-10 12:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Directed-Pkg-Thermal-Int" target="_blank">Intel Preps Linux For Directed Package Thermal Interrupts</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-10 12:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/gitlab-ai-governance/en/headerimage/generatedHeaderImage-1772719912632.jpg" alt="GitLab Suggests AI Can Detect Vulnerabilities But it&#x27;s AI Governance that Determines Risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/gitlab-ai-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitLab Suggests AI Can Detect Vulnerabilities But it&#x27;s AI Governance that Determines Risk</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-10 12:00</span>
             </div>
         </div>
 </div>
@@ -235,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/RESIDENT-EVIL-requiem_20260213204857-1280x720.jpg" alt="Resident Evil Requiem Story DLC And More Already In Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/resident-evil-requiem-story-dlc-photo-mode-mini-game-expansion-capcom-announces-2000677545" target="_blank">Resident Evil Requiem Story DLC And More Already In Development</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-10 14:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/MS0310-predator-badlands-1280x853.jpg" alt="Arnold Schwarzenegger Says He May Be Back for the Next ‘Predator’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +288,6 @@
                 <span class="time">2026-03-10 01:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-09 22:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 14:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 15:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
