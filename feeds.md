@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-10 12:05:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-10 13:25:24 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, March 10, 2026 - 12:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, March 10, 2026 - 13:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/oentagon-presser-iran_1773145494840_hpMain_4x3t_384.jpg" alt="Iran live updates: Tuesday to mark &#x27;most intense&#x27; US strikes in Iran, Hegseth says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: Tuesday to mark &#x27;most intense&#x27; US strikes in Iran, Hegseth says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-10 13:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/10/g-s1-113153/up-first-newsletter-iran-us-israel-lebanon-trump-new-york-protest-attack-epstein-lawsuit-immigration" target="_blank">Trump gives mixed signals on Iran war. And, how Epstein built ties to scientists</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-10 11:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/AP26069039140652_1773139635872_hpMain_4x3t_384.jpg" alt="Iran live updates: Hegseth to address war, after Trump says it will be &#x27;ended soon&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +97,29 @@
                 <span class="time">2026-03-10 10:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/10/air-strike-kills-four-iran-linked-fighters-in-iraq?traffic_source=rss" target="_blank">Air strike kills four Iran-linked fighters in Iraq</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-10 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/10/nx-s1-5734333/congress-war-powers-explained" target="_blank">Why Congress rarely pushes back when presidents deploy military force</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-10 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/" target="_blank">Adobe is debuting an AI assistant for Photoshop</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-10 13:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69af44e9e115af3d75342fa8/master/pass/MacBook-neo-01%20.JPG" alt="Apple MacBook Neo Review: Delicious, Low-Hanging Fruit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/apple-macbook-neo/" target="_blank">Apple MacBook Neo Review: Delicious, Low-Hanging Fruit</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-10 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69aa1cf123fe0f2f8bea6e65/master/pass/Why-Can-a-Single-Train-Locomotives-Pull-So-Much-Weight_-Science-1865711837.jpg" alt="How Can a Locomotive Pull a Long Train That’s Much Heavier?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,29 +156,38 @@
                 <span class="time">2026-03-10 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/10/uzbekistans-uzum-valuation-rises-1-5x-in-seven-months-to-2-3b/" target="_blank">Uzbekistan’s Uzum valuation leaps over 50% in seven months to $2.3B</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-10 07:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/09/apple-now-makes-one-in-four-iphones-in-india-report/" target="_blank">Apple now makes one in four iPhones in India: report</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-10 06:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18907056&w=600" alt="Optimizing Data Loader Jobs in SQL Server: Production Implementation Strategies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/optimizing-data-loader-jobs-in-sql-server" target="_blank">Optimizing Data Loader Jobs in SQL Server: Production Implementation Strategies</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-10 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Directed-Pkg-Thermal-Int" target="_blank">Intel Preps Linux For Directed Package Thermal Interrupts</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-10 12:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/gitlab-ai-governance/en/headerimage/generatedHeaderImage-1772719912632.jpg" alt="GitLab Suggests AI Can Detect Vulnerabilities But it&#x27;s AI Governance that Determines Risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/gitlab-ai-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitLab Suggests AI Can Detect Vulnerabilities But it&#x27;s AI Governance that Determines Risk</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-10 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,33 +215,6 @@
                 <span class="time">2026-03-10 10:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tsung_8b0f8018e887871fda/i-ran-300-ai-models-against-pltr-heres-what-multi-model-consensus-found-43c8" target="_blank">I ran 300+ AI models against PLTR — here&#x27;s what multi-model consensus found</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-10 10:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md" target="_blank">Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-10 08:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/fast-tracking-industrial-and-ai-deployment-on-renesas-rz-platforms" target="_blank">Fast-tracking industrial and AI deployment on Renesas RZ platforms</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-03-10 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KCNBS6CYM17M0QM4P47CWYX6/hero-image.png" alt="These Stylish Marshall Headphones Are Nearly 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/marshall-major-v-headphones-sale-march-2026?utm_medium=RSS" target="_blank">These Stylish Marshall Headphones Are Nearly 50% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-10 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Good-Luck-Have-Fun-Dont-Die-Sam-Rockwell-1280x853.jpg" alt="One of the Year’s Best Sci-Fi Films (So Far) Is Now Available at Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +288,6 @@
                 <span class="time">2026-03-09 22:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/tinkerbell-1280x853.jpg" alt="Disney Is Trying Something Different With Its Next Live-Action Remake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/disney-is-trying-something-different-with-its-next-live-action-remake-2000731559" target="_blank">Disney Is Trying Something Different With Its Next Live-Action Remake</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-09 22:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 12:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 13:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
