@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-10 20:04:47 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-10 21:05:56 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, March 10, 2026 - 20:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, March 10, 2026 - 21:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +52,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/10/g-s1-113167/democrats-iran-trump" target="_blank">Senate Democrats ramp up pressure campaign for public hearings on war with Iran</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-10 19:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/jd-vance-2-ap-gmh-260309._1773068730268_hpMain_4x3t_384.jpg" alt="Trump says he and Vance are &#x27;philosophically&#x27; different on Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-vance-philosophically-iran-war/story?id=130937389" target="_blank">Trump says he and Vance are &#x27;philosophically&#x27; different on Iran war</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-10 19:20</span>
             </div>
         </div>
 <div class="story">
@@ -92,20 +99,20 @@
                 <span class="time">2026-03-10 17:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f5e/live/59fb3320-1cb1-11f1-b048-c9424b2cf5fd.jpg" alt="HMS Dragon departs UK for eastern Mediterranean" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0k1yyg475ko?at_medium=RSS&at_campaign=rss" target="_blank">HMS Dragon departs UK for eastern Mediterranean</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-10 17:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69b065a91905820af01e5fdb/master/pass/politics_Hegseth_GettyImages-2264294587.jpg" alt="Pete Hegseth Is Pushing Defense Employees to Volunteer With DHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/pete-hegseth-is-pushing-defense-employees-to-volunteer-for-dhs/" target="_blank">Pete Hegseth Is Pushing Defense Employees to Volunteer With DHS</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-10 20:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +158,60 @@
                 <span class="time">2026-03-10 18:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-628879332-500x500.jpg" alt="Trump&#x27;s divisive FDA vaccine regulator self-destructs, will exit agency (again)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/03/trumps-divisive-fda-vaccine-regulator-self-destructs-will-exit-agency-again/" target="_blank">Trump&#x27;s divisive FDA vaccine regulator self-destructs, will exit agency (again)</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-10 17:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F759190%2Fd50fa025-a769-431b-a628-0b7db1fd605e.jpeg" alt="I&#x27;ve updated this walkthrough to work with the latest version of Podman, Distrobox, and &quot;any&quot; of your favorite Linux OS!
+
+Cloudflare WARP is the easiest way to enable IPv6 and security on your network today." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/archerallstars/ive-updated-this-walkthrough-to-work-with-the-latest-version-of-podman-distrobox-and-any-of-1g94" target="_blank">I&#x27;ve updated this walkthrough to work with the latest version of Podman, Distrobox, and &quot;any&quot; of your favorite Linux OS!
+
+Cloudflare WARP is the easiest way to enable IPv6 and security on your network today.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-10 21:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/datadog-go-binary-optimization/en/headerimage/go-binary-size-reduction-1773175114910.jpeg" alt="How Datadog Cut the Size of Its Agent Go Binaries by 77%" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/datadog-go-binary-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Datadog Cut the Size of Its Agent Go Binaries by 77%</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-10 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/the-era-of-ai-as-text-is-over-execution-is-the-new-interface/" target="_blank">The era of “AI as text” is over. Execution is the new interface.</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-03-10 20:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18908467&w=600" alt="Solving the Global Data Residency Conflict: A Blueprint for the &quot;Minimum Org&quot; Salesforce Strategy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/solving-the-global-data-residency-conflict-a-bluep" target="_blank">Solving the Global Data Residency Conflict: A Blueprint for the &quot;Minimum Org&quot; Salesforce Strategy</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-10 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!uBE4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F596ad0d5-6c2e-41ad-8aa8-570641097308_2048x1366.png" alt="How Uber uses AI for development: inside look" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/how-uber-uses-ai-for-development" target="_blank">How Uber uses AI for development: inside look</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-03-10 19:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -172,51 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/RISC-V-Slow-Fedora-Packages" target="_blank">Current RISC-V CPUs Being Too Slow Causes Headaches For Fedora: ~5x Slower Builds</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-10 19:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2js75363wbxq193syr6y.png" alt="Developing a Bevy Plugin for Special Relativistic Rendering: Balancing Accuracy and Efficiency in 3D Scenes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/serbyte/developing-a-bevy-plugin-for-special-relativistic-rendering-balancing-accuracy-and-efficiency-in-26k2" target="_blank">Developing a Bevy Plugin for Special Relativistic Rendering: Balancing Accuracy and Efficiency in 3D Scenes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-10 19:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/msi-pro-b850p-wifi" target="_blank">MSI PRO B850-P WiFi: A Special AMD Ryzen AM5 Motherboard For Linux / Open-Source Enthusiasts</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-10 18:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thegdsks/i-tested-every-open-source-brand-svg-library-so-you-dont-have-to-2026-edition-3jcc" target="_blank">I Tested Every Open-Source Brand SVG Library So You Don&#x27;t Have To (2026 Edition)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-10 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj1qynjyr33dva490sgqv.png" alt="Why Programmers Need To Type Fast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cyberjanitor/why-programmers-need-to-type-fast-3k10" target="_blank">Why Programmers Need To Type Fast</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-10 16:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/OpenSSL-4.0-Alpha-1" target="_blank">OpenSSL 4.0 Alpha 1 Released With Encrypted Client Hello &quot;ECH&quot; &amp; Other Features</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-10 16:13</span>
             </div>
         </div>
 </div>
@@ -238,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/star-trek-starfleet-academy-jonathan-frakes-1280x853.jpg" alt="‘Starfleet Academy’ Might Be the Last Time Jonathan Frakes Directs ‘Star Trek’—But Not If He Has Anything to Say About It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/starfleet-academy-jonathan-frakes-last-episode-star-trek-2000731997" target="_blank">‘Starfleet Academy’ Might Be the Last Time Jonathan Frakes Directs ‘Star Trek’—But Not If He Has Anything to Say About It</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-10 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/lego-mario-minifigure-1280x853.jpg" alt="Lego Gives in, Will Finally Make Mario Minifigures" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,21 +286,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JQY69Y27GQ0D5NSQG57AEPQJ/hero-image.png" alt="You Can Get These Bose QuietComfort Ultra Earbuds for 40% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://lifehacker.com/imagery/articles/01KKCCA3FQQW15Q8K083RH8W2J/hero-image.png" alt="The Garmin Forerunner 965 Smartwatch Is 33% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/bose-quietcomfort-ultra-earbuds-deal-march-2026?utm_medium=RSS" target="_blank">You Can Get These Bose QuietComfort Ultra Earbuds for 40% Off</a></span>
+                <span class="title"><a href="https://lifehacker.com/tech/garmin-forerunner-965-smartwatch-sale-march-2026?utm_medium=RSS" target="_blank">The Garmin Forerunner 965 Smartwatch Is 33% Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-10 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/reg.jpg?fit=1280%2C720&amp;quality=60&amp;ssl=1" alt="Heritage railway&#x27;s new fox mascot was drawn by a furry artist and it works out great" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/10/historic-english-railway-hires-a-furry-artist-for-its-new-mascot-and-it-works-out-great.html" target="_blank">Heritage railway&#x27;s new fox mascot was drawn by a furry artist and it works out great</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-10 17:51</span>
+                <span class="time">2026-03-10 19:07</span>
             </div>
         </div>
 </div>
@@ -320,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 20:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 21:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
