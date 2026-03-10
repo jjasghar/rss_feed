@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-10 21:05:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-10 22:02:41 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, March 10, 2026 - 21:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, March 10, 2026 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +48,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-2-rt-gmh-260303_1772544258816_hpMain_4x3t_384.jpg" alt="Large US special ops force needed on ground to seize Iran&#x27;s uranium, experts say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/large-us-special-ops-force-needed-ground-seize/story?id=130935450" target="_blank">Large US special ops force needed on ground to seize Iran&#x27;s uranium, experts say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-10 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/10/us-civil-rights-group-documents-broad-attack-on-muslim-life-in-2025?traffic_source=rss" target="_blank">US civil rights group documents ‘broad attack on Muslim life’ in 2025</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-10 21:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/03/10/g-s1-113167/democrats-iran-trump" target="_blank">Senate Democrats ramp up pressure campaign for public hearings on war with Iran</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-10 19:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-dxf-reuters_7188048.jpg?20260310164418" alt="Dark ships and shadow fleets &amp;#8211; what is crossing &#x27;closed&#x27; Strait of Hormuz?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/dark-ships-and-shadow-fleets-8211-what-is-crossing-closed-strait-of-hormuz-13517746" target="_blank">Dark ships and shadow fleets &amp;#8211; what is crossing &#x27;closed&#x27; Strait of Hormuz?</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-10 19:24</span>
             </div>
         </div>
 <div class="story">
@@ -72,38 +101,29 @@
                 <span class="time">2026-03-10 18:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/10/russian-attack-kills-four-in-ukraines-sloviansk-as-both-sides-claim-gains?traffic_source=rss" target="_blank">Russian attack kills four in Ukraine’s Sloviansk as both sides claim gains</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-10 18:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/10/nx-s1-5743543/steve-emt-paralympics-wheelchair-curling" target="_blank">Wheelchair curler Steve Emt&#x27;s path from drunk driver to three-time Paralympian</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-10 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/3/10/dutertes-drug-war-faces-judgement-at-the-icc?traffic_source=rss" target="_blank">Duterte’s drug war faces judgement at the ICC</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-10 17:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/892675/a-live-action-samurai-champloo-is-in-the-works" target="_blank">A live-action Samurai Champloo is in the works</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-10 21:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/10/google-and-tesla-think-were-managing-the-electrical-grid-all-wrong/" target="_blank">Google and Tesla think we’re managing the electrical grid all wrong</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-10 20:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69b065a91905820af01e5fdb/master/pass/politics_Hegseth_GettyImages-2264294587.jpg" alt="Pete Hegseth Is Pushing Defense Employees to Volunteer With DHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,24 +160,6 @@
                 <span class="time">2026-03-10 19:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/892066/pokopia-pokedex-review" target="_blank">Pokopia Pokédex review: a classic, reimagined</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-10 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b068dd60617a9bda5a3f49/master/pass/Power-Up-Your-Spring-With-Anker%E2%80%99s-Discounted-Portable-Power-Station.jpg" alt="Anker’s Discounted Power Station Can Power Your Next Camping Trip" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/anker-solix-c1000-spring-deal/" target="_blank">Anker’s Discounted Power Station Can Power Your Next Camping Trip</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-10 18:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -186,6 +188,15 @@ Cloudflare WARP is the easiest way to enable IPv6 and security on your network t
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/Ghostty.gif?resize=406%2C232&amp;ssl=1" alt="Ghostty 1.3 terminal brings big new features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ghostty-1-3-terminal-brings-big-new-features" target="_blank">Ghostty 1.3 terminal brings big new features</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-10 20:47</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
@@ -210,15 +221,6 @@ Cloudflare WARP is the easiest way to enable IPv6 and security on your network t
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/how-uber-uses-ai-for-development" target="_blank">How Uber uses AI for development: inside look</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2026-03-10 19:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/RISC-V-Slow-Fedora-Packages" target="_blank">Current RISC-V CPUs Being Too Slow Causes Headaches For Fedora: ~5x Slower Builds</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-10 19:22</span>
             </div>
         </div>
 </div>
@@ -322,8 +324,8 @@ Cloudflare WARP is the easiest way to enable IPv6 and security on your network t
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 21:06 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
