@@ -1,27 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-03-10 05:17:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-10 06:09:59 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 2 new posts out of 19 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, March 10, 2026 - 05:17 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, March 10, 2026 - 06:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/10/g-s1-113147/alexander-brothers-convicted-sex-trafficking" target="_blank">Alexander brothers convicted of sex trafficking in Manhattan federal court</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-10 05:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/10/us-consumers-express-dismay-over-rising-gas-prices-after-attack-on-iran?traffic_source=rss" target="_blank">US consumers express dismay over rising gas prices after attack on Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-10 05:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,24 +104,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-says-war-with-iran-is-very-complete-and-could-end-soon-259004997685" target="_blank">Trump says war with Iran is ‘very complete’ and could end soon</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-03-09 23:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b3f/live/99ef4fc0-1bee-11f1-9120-a910fc22c6ac.png" alt="Business owners &#x27;heartbroken&#x27; after retail units destroyed in Glasgow fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd70wvj2xnyo?at_medium=RSS&at_campaign=rss" target="_blank">Business owners &#x27;heartbroken&#x27; after retail units destroyed in Glasgow fire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-09 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a78d/live/67889ea0-1bea-11f1-b830-cb1fa32e1d18.jpg" alt="Reeves to look at how to help households with heating oil bills" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c07jyd0rrz2o?at_medium=RSS&at_campaign=rss" target="_blank">Reeves to look at how to help households with heating oil bills</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-09 22:00</span>
             </div>
         </div>
 </div>
@@ -156,6 +171,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6is52n14jnwhozsdisa3.jpg" alt="QuickVideo – Batch Change Video Speed with Python and FFmpeg" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/matetechnologie/quickvideo-batch-change-video-speed-with-python-and-ffmpeg-17lh" target="_blank">QuickVideo – Batch Change Video Speed with Python and FFmpeg</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-10 06:07</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,15 +224,6 @@
                 <span class="time">2026-03-10 00:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html" target="_blank">Sir Tony Hoare has died</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-09 22:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/jay-graber-1280x829.jpg" alt="Jay Graber Is Leaving Her Role as CEO of Bluesky" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jay-graber-is-leaving-her-role-as-ceo-of-bluesky-2000731731" target="_blank">Jay Graber Is Leaving Her Role as CEO of Bluesky</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-10 04:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2020/06/zombie-gnome-horror.jpg?fit=1194%2C717&amp;quality=60&amp;ssl=1" alt="Garden gnome fails to defend tiny patch of land against claim" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +295,6 @@
                 <span class="title"><a href="https://kotaku.com/super-mario-galaxy-movie-direct-yoshi-donald-glover-2000677355" target="_blank">Donald Glover Is Playing Yoshi In Super Mario Galaxy Movie</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-09 21:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/shutterstock_2686848411-e1773087726843-1280x852.jpg" alt="Elon Musk Wants a Do-Over on Twitter Trial After Jury Pool Couldn’t Hide Its Disdain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musk-wants-a-do-over-twitter-trial-after-jury-pool-couldnt-hide-its-disdain-2000731598" target="_blank">Elon Musk Wants a Do-Over on Twitter Trial After Jury Pool Couldn’t Hide Its Disdain</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-09 20:55</span>
             </div>
         </div>
 </div>
@@ -328,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 43 | 📸 With Images: 263 |
-        🔄 Last Updated: 05:17 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 43 | 📸 With Images: 263 |
+        🔄 Last Updated: 06:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
