@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-03-10 11:10:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-10 12:05:19 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, March 10, 2026 - 11:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, March 10, 2026 - 12:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -170,6 +162,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yash_sonawane25/notionops-ai-i-built-an-ai-devops-brain-that-lives-inside-notion-4ied" target="_blank">NotionOps AI — I Built an AI DevOps Brain That Lives Inside Notion 🧠</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-10 11:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Mesa-RADV-More-Per-Game-Tuning" target="_blank">Valve/RADV Developers Look At More Per-Game Tuning/Optimizations For Mesa Drivers</a></span>
                 <span class="feed">Phoronix</span>
@@ -212,15 +213,6 @@
                 <span class="time">2026-03-10 08:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/..." alt="How Authentication Works: JWT vs Sessions Explained" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/exactsolutionofficial/how-authentication-works-jwt-vs-sessions-explained-ipp" target="_blank">How Authentication Works: JWT vs Sessions Explained</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-10 07:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Good-Luck-Have-Fun-Dont-Die-Sam-Rockwell-1280x853.jpg" alt="One of the Year’s Best Sci-Fi Films (So Far) Is Now Available at Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/one-of-the-years-best-sci-fi-films-so-far-is-now-available-at-home-2000731691" target="_blank">One of the Year’s Best Sci-Fi Films (So Far) Is Now Available at Home</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-10 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/jay-graber-1280x829.jpg" alt="Jay Graber Is Leaving Her Role as CEO of Bluesky" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +286,6 @@
                 <span class="time">2026-03-09 22:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/yoshi-1-1280x720.jpg" alt="Donald Glover Is Playing Yoshi In Super Mario Galaxy Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/super-mario-galaxy-movie-direct-yoshi-donald-glover-2000677355" target="_blank">Donald Glover Is Playing Yoshi In Super Mario Galaxy Movie</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-09 21:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 11:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 12:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
