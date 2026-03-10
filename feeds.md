@@ -1,42 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-10 06:09:59 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-10 07:14:11 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, March 10, 2026 - 06:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, March 10, 2026 - 07:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/10/woman-killed-in-bahrain-as-other-gulf-states-intercept-iranian-missiles?traffic_source=rss" target="_blank">Woman killed in Bahrain as Gulf states intercept more Iranian missiles</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-10 06:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebee/live/6343ae10-1c4f-11f1-b048-c9424b2cf5fd.jpg" alt="Rising prices, mixed messages: Iran war is fraught with political risk for Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss" target="_blank">Rising prices, mixed messages: Iran war is fraught with political risk for Trump</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-10 02:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -88,29 +97,20 @@
                 <span class="time">2026-03-10 00:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-israel-matula_7187487.png?20260310011625" alt="&#x27;The fighting feels like we&#x27;re going to finish it - once and for all&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/the-fighting-feels-like-were-going-to-finish-it-once-and-for-all-13517537" target="_blank">&#x27;The fighting feels like we&#x27;re going to finish it - once and for all&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-10 00:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773097658238_nn_ren_iran_strikes_260309_1920x1080-ubphjn.jpg" alt="Trump says war with Iran is ‘very complete’ and could end soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-says-war-with-iran-is-very-complete-and-could-end-soon-259004997685" target="_blank">Trump says war with Iran is ‘very complete’ and could end soon</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-09 23:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/09/apple-now-makes-one-in-four-iphones-in-india-report/" target="_blank">Apple now makes one in four iPhones in India: report</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-10 06:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69ab547169eb9242c51148d7/master/pass/Yann-LeCun-QA-Business-2198379404.jpg" alt="Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,15 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/space/2026/03/after-years-of-missteps-blue-origin-to-finally-offer-meaningful-stock-options/" target="_blank">After falling far behind the rest of industry, Blue Origin creates new stock option plan</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-03-09 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69af2389702083dfd2bd1f29/master/pass/FAA-and-DOT-Announced-Pilot-Program-Gear-2026-0308-Midnight_T02_FLying_DSC_0665.jpg" alt="‘Flying Cars’ Will Take Off in American Skies This Summer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/flying-cars-will-take-off-in-american-skies-this-summer/" target="_blank">‘Flying Cars’ Will Take Off in American Skies This Summer</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-09 22:39</span>
             </div>
         </div>
 </div>
@@ -329,22 +320,13 @@
                 <span class="time">2026-03-09 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/03/09/unc-tier" target="_blank">Unc Tier</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-03-09 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 43 | 📸 With Images: 263 |
-        🔄 Last Updated: 06:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 43 | 📸 With Images: 262 |
+        🔄 Last Updated: 07:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
