@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-10 13:25:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-10 14:14:12 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, March 10, 2026 - 13:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, March 10, 2026 - 14:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +51,15 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: Tuesday to mark &#x27;most intense&#x27; US strikes in Iran, Hegseth says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-10 13:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773146973023_now_mnn_sahil_hegseth_recap_260310_1920x1080-hk4idt.jpg" alt="Hegseth indicates Trump will decide when Iran war is complete" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/hegseth-indicates-trump-will-decide-when-iran-war-is-complete-259039301533" target="_blank">Hegseth indicates Trump will decide when Iran war is complete</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-10 12:49</span>
             </div>
         </div>
 <div class="story">
@@ -88,20 +98,20 @@
                 <span class="time">2026-03-10 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/10/hundreds-killed-in-haiti-drone-strikes-including-60-civilians-report?traffic_source=rss" target="_blank">Hundreds killed in Haiti drone strikes, including 60 civilians: Report</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-10 10:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/09/ignobles-2022-500x500-1757622572.jpg" alt="Ig Nobels ceremony moves to Europe over security concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/03/ig-nobels-ceremony-moves-to-europe-over-security-concerns/" target="_blank">Ig Nobels ceremony moves to Europe over security concerns</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-10 14:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +157,29 @@
                 <span class="time">2026-03-10 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor" target="_blank">You Could Be Next</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-10 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hunterryskoski/how-to-install-active-directory-users-and-computers-with-powershell-1fca" target="_blank">How to Install Active Directory Users and Computers with PowerShell</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-10 14:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://entropicthoughts.com/rebasing-in-magit" target="_blank">Rebasing in Magit</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-10 13:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18907056&w=600" alt="Optimizing Data Loader Jobs in SQL Server: Production Implementation Strategies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -168,6 +187,15 @@
                 <span class="title"><a href="https://dzone.com/articles/optimizing-data-loader-jobs-in-sql-server" target="_blank">Optimizing Data Loader Jobs in SQL Server: Production Implementation Strategies</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-10 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.fabiomanganiello.com/article/Madblog-federated-blogging-from-markdown" target="_blank">Madblog: Turn a Markdown folder into a federated blog</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-10 12:55</span>
             </div>
         </div>
 <div class="story">
@@ -186,33 +214,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/03/gitlab-ai-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitLab Suggests AI Can Detect Vulnerabilities But it&#x27;s AI Governance that Determines Risk</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-03-10 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yash_sonawane25/notionops-ai-i-built-an-ai-devops-brain-that-lives-inside-notion-4ied" target="_blank">NotionOps AI — I Built an AI DevOps Brain That Lives Inside Notion 🧠</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-10 11:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-RADV-More-Per-Game-Tuning" target="_blank">Valve/RADV Developers Look At More Per-Game Tuning/Optimizations For Mesa Drivers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-10 10:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/exfatprogs-1.3.2" target="_blank">exfatprogs 1.3.2 Brings Improvements To mkfs.exfat, fsck.exfat</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-10 10:08</span>
             </div>
         </div>
 </div>
@@ -234,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/MS0310-predator-badlands-1280x853.jpg" alt="Arnold Schwarzenegger Says He May Be Back for the Next ‘Predator’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/arnold-schwarzenegger-predator-return-dan-trachtenberg-2000731575" target="_blank">Arnold Schwarzenegger Says He May Be Back for the Next ‘Predator’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-10 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KCNBS6CYM17M0QM4P47CWYX6/hero-image.png" alt="These Stylish Marshall Headphones Are Nearly 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +289,6 @@
                 <span class="time">2026-03-09 22:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/trump-china.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="ProPublica uncovers the Trump administration&#x27;s impressive collection of conflicts of interest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/09/propublica-uncovers-the-trump-administrations-impressive-collection-of-conflicts-of-interest.html" target="_blank">ProPublica uncovers the Trump administration&#x27;s impressive collection of conflicts of interest</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-09 22:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 13:25 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 14:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
