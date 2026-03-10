@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-09 23:04:08 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-10 00:05:26 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, March 09, 2026 - 23:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, March 10, 2026 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773097658238_nn_ren_iran_strikes_260309_1920x1080-ubphjn.jpg" alt="Trump says war with Iran is ‘very complete’ and could end soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-says-war-with-iran-is-very-complete-and-could-end-soon-259004997685" target="_blank">Trump says war with Iran is ‘very complete’ and could end soon</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-09 23:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +100,20 @@
                 <span class="time">2026-03-09 18:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-8-gty-gmh-260308_1772980681214_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says he&#x27;s &#x27;nowhere near&#x27; decision on ground operation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: Trump says he&#x27;s &#x27;nowhere near&#x27; decision on ground operation</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-09 18:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1036093724-500x500.jpg" alt="After falling far behind the rest of industry, Blue Origin creates new stock option plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/03/after-years-of-missteps-blue-origin-to-finally-offer-meaningful-stock-options/" target="_blank">After falling far behind the rest of industry, Blue Origin creates new stock option plan</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-09 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69af2389702083dfd2bd1f29/master/pass/FAA-and-DOT-Announced-Pilot-Program-Gear-2026-0308-Midnight_T02_FLying_DSC_0665.jpg" alt="‘Flying Cars’ Will Take Off in American Skies This Summer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +159,20 @@
                 <span class="time">2026-03-09 20:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/IMG_3650-500x500.jpeg" alt="Testing Apple&#x27;s 2026 16-inch MacBook Pro, M5 Max, and its new &quot;performance&quot; cores" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/testing-apples-2026-16-inch-macbook-pro-m5-max-and-its-new-performance-cores/" target="_blank">Testing Apple&#x27;s 2026 16-inch MacBook Pro, M5 Max, and its new &quot;performance&quot; cores</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-09 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html" target="_blank">Sir Tony Hoare has died</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-09 22:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +218,6 @@
                 <span class="time">2026-03-09 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/apiverve/summarize-text-with-ai-a-practical-guide-p5a" target="_blank">Summarize Text with AI: A Practical Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-09 19:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,15 +232,6 @@
                 <span class="time">2026-03-09 10:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/" target="_blank">How AI Assistants are Moving the Security Goalposts</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-03-08 23:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -253,6 +244,15 @@
                 <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-09 22:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/trump-china.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="ProPublica uncovers the Trump administration&#x27;s impressive collection of conflicts of interest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/09/propublica-uncovers-the-trump-administrations-impressive-collection-of-conflicts-of-interest.html" target="_blank">ProPublica uncovers the Trump administration&#x27;s impressive collection of conflicts of interest</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-09 22:22</span>
             </div>
         </div>
 <div class="story">
@@ -289,15 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/arnold-schwarzenegger-will-be-back-as-conan-the-barbarian-2000731566" target="_blank">Arnold Schwarzenegger Will Be Back… as Conan the Barbarian</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-09 19:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/GettyImages-1469884525-1280x853.jpg" alt="People Hate AI Even More Than They Hate ICE, Poll Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/people-hate-ai-even-more-than-they-hate-ice-poll-finds-2000731438" target="_blank">People Hate AI Even More Than They Hate ICE, Poll Finds</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-09 18:35</span>
             </div>
         </div>
 </div>
@@ -346,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 23:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
