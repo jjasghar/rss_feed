@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-10 19:13:51 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-10 20:04:47 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 32 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, March 10, 2026 - 19:14 UTC</div>
+    <div class="newspaper-date">Tuesday, March 10, 2026 - 20:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/10/g-s1-113167/democrats-iran-trump" target="_blank">Senate Democrats ramp up pressure campaign for public hearings on war with Iran</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-10 19:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773169172781_now_brk_leavitt_whitehouse_end_iran_260310_1920x1080-qij2hh.jpg" alt="White House: Iran war will end when Trump says &#x27;military objectives have been met&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -96,20 +101,29 @@
                 <span class="time">2026-03-10 17:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/10/g-s1-111238/immigration-detention-deaths-custody" target="_blank">Immigration detention on track for deadliest fiscal year since 2004</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-10 16:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/10/pokemon-pokopia-review-animal-crossing-ditto-nintendo-switch/" target="_blank">‘Pokémon Pokopia’ is a game about rehabilitating a broken world — and I love it</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-10 19:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2167753513-500x500-1773169243.jpg" alt="AI can rewrite open source code—but can it rewrite the license, too?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/03/ai-can-rewrite-open-source-code-but-can-it-rewrite-the-license-too/" target="_blank">AI can rewrite open source code—but can it rewrite the license, too?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-10 19:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/moltbook-chest-burster-500x500.jpg" alt="Meta acquires Moltbook, the AI agent social network" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,29 +160,20 @@
                 <span class="time">2026-03-10 17:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b044944c5dd30e33d9f540/master/pass/Fake-AI-Content-About-Iran-War-All-Over-X-Politics-2191851142.jpg" alt="Fake AI Content About the Iran War Is All Over X" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/fake-ai-content-about-the-iran-war-is-all-over-x/" target="_blank">Fake AI Content About the Iran War Is All Over X</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-10 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/10/pokemon-pokopia-is-even-better-than-animal-crossing-new-horizons/" target="_blank">‘Pokémon Pokopia’ is even better than ‘Animal Crossing: New Horizons’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-10 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RISC-V-Slow-Fedora-Packages" target="_blank">Current RISC-V CPUs Being Too Slow Causes Headaches For Fedora: ~5x Slower Builds</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-10 19:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2js75363wbxq193syr6y.png" alt="Developing a Bevy Plugin for Special Relativistic Rendering: Balancing Accuracy and Efficiency in 3D Scenes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -214,15 +219,6 @@
                 <span class="time">2026-03-10 16:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/SUSE-Possibly-For-Sale-2026" target="_blank">SUSE Reportedly May Be For Sale Yet Again</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-10 15:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +238,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/lego-mario-minifigure-1280x853.jpg" alt="Lego Gives in, Will Finally Make Mario Minifigures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lego-mario-minifigures-2027-2000732046" target="_blank">Lego Gives in, Will Finally Make Mario Minifigures</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-10 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding brains wages war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/10/grandpa-pudding-brains-wages-war.html" target="_blank">Grandpa Pudding brains wages war</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-10 19:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/Screenshot-2026-03-10-152740-1280x716.jpg" alt="Mega Man Voice Actor Drops Out Of Sequel After Being Asked To Work Without Union Protections By Capcom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mega-man-12-dual-override-capcom-voice-actor-ben-diskin-union-sag-aftra-2000677630" target="_blank">Mega Man Voice Actor Drops Out Of Sequel After Being Asked To Work Without Union Protections By Capcom</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-10 19:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/M2x2-Lego-computer-1280x853.jpg" alt="This Custom Lego-Inspired Mac Mini Case Is Retrofuturism Done Right" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,33 +292,6 @@
                 <span class="time">2026-03-10 17:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/12/it-welcome-to-derry_6-2-1024x683.jpg" alt="Andy Muschietti Assures Fans That ‘It: Welcome to Derry’ Will Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/it-welcome-to-derry-season-2-andy-muschietti-hbo-2000731965" target="_blank">Andy Muschietti Assures Fans That ‘It: Welcome to Derry’ Will Return</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-10 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/crimson-desert-1280x786.jpg" alt="Crimson Desert Reveals Console Specs And It’s Making Some Compromises On PS5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/crimson-desert-ps5-performance-framerate-pc-specs-2000677595" target="_blank">Crimson Desert Reveals Console Specs And It’s Making Some Compromises On PS5</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-10 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Screenshot-2026-03-09-at-6.23.36-PM.png?fit=1200%2C720&amp;quality=55&amp;ssl=1" alt="He made videos of himself singing Beach Boys songs – and they were so good the Beach Boys brought him into the band" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/10/he-made-videos-of-himself-singing-beach-boys-songs-and-they-were-so-good-the-beach-boys-brought-him-into-the-band.html" target="_blank">He made videos of himself singing Beach Boys songs – and they were so good the Beach Boys brought him into the band</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-10 16:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,22 +315,13 @@
                 <span class="time">2026-03-10 01:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/09/unc-tier" target="_blank">Unc Tier</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-03-09 19:34</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 19:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 20:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
