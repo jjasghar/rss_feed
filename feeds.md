@@ -1,28 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-10 23:04:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-11 00:08:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 20 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, March 10, 2026 - 23:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, March 11, 2026 - 00:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/10/brazils-jair-bolsonaro-seeks-court-approval-for-visit-from-trump-official?traffic_source=rss" target="_blank">Brazil’s Jair Bolsonaro seeks court approval for visit from Trump official</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-10 23:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/iran-2-rt-gmh-260303_1772544258816_hpMain_4x3t_384.jpg" alt="Large US special ops force needed on ground to seize Iran&#x27;s uranium, experts say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,15 +103,6 @@
                 <span class="time">2026-03-10 19:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773169172781_now_brk_leavitt_whitehouse_end_iran_260310_1920x1080-qij2hh.jpg" alt="White House: Iran war will end when Trump says &#x27;military objectives have been met&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/white-house-iran-war-will-end-when-trump-says-military-objectives-have-been-met-259065925569" target="_blank">White House: Iran war will end when Trump says &#x27;military objectives have been met&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-10 18:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -103,6 +114,15 @@
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/03/10/in-a-vote-of-confidence-for-metas-threads-kalshi-adds-sharing-feature/" target="_blank">In a vote of confidence for Meta’s Threads, Kalshi adds sharing feature</a></span>
                 <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-10 23:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/KSC-2012-4288large-500x500.jpg" alt="Reentry of NASA satellite will exceed the agency&#x27;s risk guidelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/03/nasa-approved-a-safety-waiver-for-this-weeks-reentry-of-van-allen-probe/" target="_blank">Reentry of NASA satellite will exceed the agency&#x27;s risk guidelines</a></span>
+                <span class="feed">Ars Technica</span>
                 <span class="time">2026-03-10 23:01</span>
             </div>
         </div>
@@ -142,20 +162,20 @@
                 <span class="time">2026-03-10 20:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b065a91905820af01e5fdb/master/pass/politics_Hegseth_GettyImages-2264294587.jpg" alt="Pete Hegseth Is Pushing Defense Employees to Volunteer With DHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/pete-hegseth-is-pushing-defense-employees-to-volunteer-for-dhs/" target="_blank">Pete Hegseth Is Pushing Defense Employees to Volunteer With DHS</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-10 20:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ggondim/duckflux-a-declarative-workflow-dsl-born-from-the-multi-agent-orchestration-gap-4n28" target="_blank">duckflux — A Declarative Workflow DSL Born from the Multi-Agent Orchestration Gap</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-11 00:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F759190%2Fd50fa025-a769-431b-a628-0b7db1fd605e.jpeg" alt="I&#x27;ve updated this walkthrough to work with the latest version of Podman, Distrobox, and &quot;any&quot; of your favorite Linux OS!
 
@@ -205,15 +225,6 @@ Cloudflare WARP is the easiest way to enable IPv6 and security on your network t
                 <span class="time">2026-03-10 20:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18908467&w=600" alt="Solving the Global Data Residency Conflict: A Blueprint for the &quot;Minimum Org&quot; Salesforce Strategy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/solving-the-global-data-residency-conflict-a-bluep" target="_blank">Solving the Global Data Residency Conflict: A Blueprint for the &quot;Minimum Org&quot; Salesforce Strategy</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-10 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +244,24 @@ Cloudflare WARP is the easiest way to enable IPv6 and security on your network t
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KFXF73Q0G8T8FAAJ0JP67JMZ/hero-image.png" alt="You Can Get ClearVPN, an Easy, Beginner-Friendly VPN Setup, on Sale for Just $20 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/clearvpn-beginner-friendly-vpn-stacksocial-sale-march-2026?utm_medium=RSS" target="_blank">You Can Get ClearVPN, an Easy, Beginner-Friendly VPN Setup, on Sale for Just $20 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-10 23:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/gas-prices-soaring-los-angeles-1280x853.jpg" alt="Gas Tax Holiday Floated as Band-Aid for Skyrocketing Prices at the Pump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/gas-prices-aaa-tax-holiday-iran-war-2000732093" target="_blank">Gas Tax Holiday Floated as Band-Aid for Skyrocketing Prices at the Pump</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-10 23:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/marathoncool-1280x720.jpg" alt="15 Tips To Check Out Before Starting Marathon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +298,6 @@ Cloudflare WARP is the easiest way to enable IPv6 and security on your network t
                 <span class="time">2026-03-10 19:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/Screenshot-2026-03-10-152740-1280x716.jpg" alt="Mega Man Voice Actor Drops Out Of Sequel After Being Asked To Work Without Union Protections By Capcom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mega-man-12-dual-override-capcom-voice-actor-ben-diskin-union-sag-aftra-2000677630" target="_blank">Mega Man Voice Actor Drops Out Of Sequel After Being Asked To Work Without Union Protections By Capcom</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-10 19:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/M2x2-Lego-computer-1280x853.jpg" alt="This Custom Lego-Inspired Mac Mini Case Is Retrofuturism Done Right" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-custom-lego-inspired-mac-mini-case-is-retrofuturism-done-right-2000731897" target="_blank">This Custom Lego-Inspired Mac Mini Case Is Retrofuturism Done Right</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-10 19:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +326,8 @@ Cloudflare WARP is the easiest way to enable IPv6 and security on your network t
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 23:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 00:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
