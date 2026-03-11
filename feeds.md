@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-11 04:30:22 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-11 05:19:16 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, March 11, 2026 - 04:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, March 11, 2026 - 05:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f52/live/6192b030-1cf3-11f1-bb35-653e5995a61a.jpg" alt="Government approves Met request to ban Al Quds Day march" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm28gmlvedro?at_medium=RSS&at_campaign=rss" target="_blank">Government approves Met request to ban Al Quds Day march</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-11 04:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1e9yyg23dyo?at_medium=RSS&at_campaign=rss" target="_blank">University tuition fees system is a &#x27;mess&#x27;, says Clegg</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-11 00:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/10/brazils-jair-bolsonaro-seeks-court-approval-for-visit-from-trump-official?traffic_source=rss" target="_blank">Brazil’s Jair Bolsonaro seeks court approval for visit from Trump official</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-10 23:15</span>
             </div>
         </div>
 </div>
@@ -166,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/stuntcycle.png" alt="Building a Better Kicker: The Physics Behind the Jump Simulator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/stalefishlabs/building-a-better-kicker-the-physics-behind-the-jump-simulator-44gj" target="_blank">Building a Better Kicker: The Physics Behind the Jump Simulator</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-11 05:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,19 +218,6 @@
                 <span class="title"><a href="https://dev.to/ggondim/duckflux-a-declarative-workflow-dsl-born-from-the-multi-agent-orchestration-gap-4n28" target="_blank">duckflux — A Declarative Workflow DSL Born from the Multi-Agent Orchestration Gap</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-11 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F759190%2Fd50fa025-a769-431b-a628-0b7db1fd605e.jpeg" alt="I&#x27;ve updated this walkthrough to work with the latest version of Podman, Distrobox, and &quot;any&quot; of your favorite Linux OS!
-
-Cloudflare WARP is the easiest way to enable IPv6 and security on your network today." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/archerallstars/ive-updated-this-walkthrough-to-work-with-the-latest-version-of-podman-distrobox-and-any-of-1g94" target="_blank">I&#x27;ve updated this walkthrough to work with the latest version of Podman, Distrobox, and &quot;any&quot; of your favorite Linux OS!
-
-Cloudflare WARP is the easiest way to enable IPv6 and security on your network today.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-10 21:03</span>
             </div>
         </div>
 </div>
@@ -333,8 +330,8 @@ Cloudflare WARP is the easiest way to enable IPv6 and security on your network t
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 04:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 05:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
