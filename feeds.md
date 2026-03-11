@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-11 08:07:31 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-11 10:10:48 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, March 11, 2026 - 08:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, March 11, 2026 - 10:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/11/nx-s1-5744029/us-iran-war" target="_blank">US attacks Iranian mine-laying vessels near Hormuz on Day 12 of war</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-11 09:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-13-ht-gmh-260310_1773158692081_hpMain_4x3t_384.jpg" alt="Iran live updates: 140 US troops wounded so far, mostly minor injuries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: 140 US troops wounded so far, mostly minor injuries</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-11 09:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/11/icc-rejects-bias-claims-from-stranded-south-africa-west-indies-cricketers?traffic_source=rss" target="_blank">ICC rejects bias claims from stranded South Africa, West Indies cricketers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-11 09:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,33 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/11/the-other-side-of-iits-student-suicides-haunt-indias-top-tech-schools?traffic_source=rss" target="_blank">‘The other side’ of IITs: Student suicides haunt India’s top tech schools</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-11 05:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2247/live/b61b69b0-1d13-11f1-820a-dd3b8b80b677.jpg" alt="Al Quds Day march to be banned after government approves Met request" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm28gmlvedro?at_medium=RSS&at_campaign=rss" target="_blank">Al Quds Day march to be banned after government approves Met request</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-11 04:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f52/live/6192b030-1cf3-11f1-bb35-653e5995a61a.jpg" alt="Government approves Met request to ban Al Quds Day march" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm28gmlvedro?at_medium=RSS&at_campaign=rss" target="_blank">Government approves Met request to ban Al Quds Day march</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-11 04:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/11/qatars-foreign-minister-says-keeping-strait-of-hormuz-open-is-critical?traffic_source=rss" target="_blank">Qatar’s foreign minister says ‘regional countries are not an enemy of Iran’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-11 04:06</span>
             </div>
         </div>
 </div>
@@ -167,6 +169,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-KVM-Preps-Intel-APX" target="_blank">Linux&#x27;s KVM Virtualization Preparing For Intel Advanced Performance Extensions (APX)</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-11 09:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/ai-bot-github-actions-exploit/en/headerimage/generatedHeaderImage-1772789238300.jpg" alt="AI-Powered Bot Compromises GitHub Actions Workflows Across Microsoft, DataDog, and CNCF Projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/ai-bot-github-actions-exploit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI-Powered Bot Compromises GitHub Actions Workflows Across Microsoft, DataDog, and CNCF Projects</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-11 09:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kurtulu_z_14942168b1fb6/openssl-40-is-coming-encrypted-client-hello-and-new-cryptographic-features-4407" target="_blank">OpenSSL 4.0 Is Coming: Encrypted Client Hello and New Cryptographic Features</a></span>
                 <span class="feed">DEV Community</span>
@@ -200,24 +220,6 @@
                 <span class="time">2026-03-11 01:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/mutating/pristan" target="_blank">Pristan: The simplest way to create a plugin infrastructure in Python</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-11 01:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-Tech-Innovation-Process" target="_blank">Fedora Evaluating New Idea For For Experimental Concepts &amp; Fostering New Innovations</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-11 00:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,15 +232,6 @@
                 <span class="title"><a href="https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/" target="_blank">Microsoft Patch Tuesday, March 2026 Edition</a></span>
                 <span class="feed">Krebs on Security</span>
                 <span class="time">2026-03-11 00:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/jailbreaking-the-f-35-fighter-jet.html" target="_blank">Jailbreaking the F-35 Fighter Jet</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-03-10 09:50</span>
             </div>
         </div>
 </div>
@@ -306,6 +299,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/03/11/fire-in-the-hole" target="_blank">Fire In The Hole</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-11 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5783.png" alt="Topical Application" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -328,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 08:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 10:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
