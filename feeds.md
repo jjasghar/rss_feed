@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-11 16:13:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-11 17:15:47 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Generated 10 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, March 11, 2026 - 16:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, March 11, 2026 - 17:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,9 +46,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/11/g-s1-113300/britain-parliament-hereditary-house-of-lords-aristocrats-duke-earl-viscount" target="_blank">No Nobles Day: Britain&#x27;s Parliament boots its last hereditary Lords after 700 years</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-11 16:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/11/iea-recommends-record-400m-barrel-oil-release-amid-iran-war?traffic_source=rss" target="_blank">IEA recommends record 400M barrel oil release amid Iran war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-11 16:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/03/11/nx-s1-5742438/iran-war-flight-airline-travel-tips" target="_blank">How the Iran war is disrupting air travel -- and advice if you&#x27;re planning a trip</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-11 15:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels" target="_blank">French aid worker among three killed in dronestrike in east DRC, M23 rebels say</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-11 15:06</span>
             </div>
         </div>
 <div class="story">
@@ -75,38 +96,29 @@
                 <span class="time">2026-03-11 14:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ac/live/9c070350-1d3a-11f1-8a7a-4725a6287ab3.jpg" alt="Countries agree to record release of emergency oil reserves as prices surge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss" target="_blank">Countries agree to record release of emergency oil reserves as prices surge</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-11 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/11/g-s1-113159/year-of-the-horse-shanghai-jade-buddha-temple-tai-sui" target="_blank">Greetings from a Shanghai temple where you can ward off bad luck in the Year of the Horse</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-11 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ac/live/9c070350-1d3a-11f1-8a7a-4725a6287ab3.jpg" alt="Record release of emergency oil reserves planned as prices surge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss" target="_blank">Record release of emergency oil reserves planned as prices surge</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-11 13:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration" target="_blank">OpenAI’s Sora video generator is reportedly coming to ChatGPT</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-11 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b07cf9aa47ce31a54437e3/master/pass/IMG_5688.JPG" alt="Best Mattress for Back Pain (2026): Saatva, Bear, Helix" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/the-best-mattresses-for-back-pain/" target="_blank">Best Mattress for Back Pain (2026): Saatva, Bear, Helix</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-11 16:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +155,29 @@
                 <span class="time">2026-03-11 15:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b09927e0b42af7e5e1b5e5/master/pass/politics_creators_fundraise_millions.jpg" alt="This Is the Next Wave of Political Fundraising" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/this-is-the-next-wave-of-political-fundraising/" target="_blank">This Is the Next Wave of Political Fundraising</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-11 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job" target="_blank">I was interviewed by an AI bot for a job</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-11 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtvm4sfrxyh0zpskxdei.png" alt="Functional programming in Angular" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/earthdmitriy/functional-programming-in-angular-57f8" target="_blank">Functional programming in Angular</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-11 17:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://dgroshev.com/blog/okmain/" target="_blank">Okmain: you have an image but you want a colour</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-11 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6i9w8fetd96rt844jh3.gif" alt="I Built a Retro FPS That Turns Your Git Repo Into a Shooting Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,24 +212,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/03/uber-mysql-uptime-consensus/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">From Minutes to Seconds: Uber Boosts MySQL Cluster Uptime with Consensus Architecture</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-03-11 14:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18906623&w=600" alt="Entangled Kubernetes Objects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/entangled-kubernetes-objects" target="_blank">Entangled Kubernetes Objects</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-11 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/D7VK-1.5-Released" target="_blank">D7VK 1.5 Released With Direct3D 3 Now Implemented Over Vulkan</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-11 13:39</span>
             </div>
         </div>
 </div>
@@ -339,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 16:14 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 17:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
