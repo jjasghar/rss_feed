@@ -1,11 +1,15 @@
-<!-- Processing 54 RSS feeds at 2026-03-11 13:25:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-11 14:15:35 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
@@ -13,25 +17,26 @@
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, March 11, 2026 - 13:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, March 11, 2026 - 14:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ac/live/9c070350-1d3a-11f1-8a7a-4725a6287ab3.jpg" alt="Record release of emergency oil reserves planned as prices surge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss" target="_blank">Record release of emergency oil reserves planned as prices surge</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-11 13:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +106,29 @@
                 <span class="time">2026-03-11 11:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70fa/live/86ff01c0-1d34-11f1-802f-8f5855cf51f2.jpg" alt="March organised by Iran-linked group banned after police request" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm28gmlvedro?at_medium=RSS&at_campaign=rss" target="_blank">March organised by Iran-linked group banned after police request</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-11 11:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job" target="_blank">I was interviewed by an AI bot for a job</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-11 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/07/GettyImages-128228162-500x500.jpg" alt="What crackdown? Trump&#x27;s EPA enforcement claims don&#x27;t pass sniff test." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/trumps-epa-says-its-cracking-down-but-the-data-tell-a-different-story/" target="_blank">What crackdown? Trump&#x27;s EPA enforcement claims don&#x27;t pass sniff test.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-11 13:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69b06dc54c5dd30e33d9fe71/master/pass/HLD-dog.jpg" alt="This Digital Picture Frame Wants to Bring People Closer to a Holographic Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +165,20 @@
                 <span class="time">2026-03-11 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/Half-Moebius-topology-illustration-IBM-500x500.png" alt="Quantum computing meets the Möbius molecule" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/03/quantum-computing-meets-the-mobius-molecule/" target="_blank">Quantum computing meets the Möbius molecule</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-11 11:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/892311/samsung-galaxy-s26-plus-review-screen-battery-camera-software" target="_blank">Samsung Galaxy S26 and S26 Plus review: This again</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-11 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18906623&w=600" alt="Entangled Kubernetes Objects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/entangled-kubernetes-objects" target="_blank">Entangled Kubernetes Objects</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-11 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -172,6 +186,15 @@
                 <span class="title"><a href="https://dev.to/docat0209/i-made-claude-call-any-rest-api-in-30-seconds-zero-code-just-one-command-4jfo" target="_blank">I Made Claude Call Any REST API in 30 Seconds - Zero Code, Just One Command</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-11 13:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.linux.com/contributed/implementing-secure-zero-touch-provisioning-in-ai-and-edge-infrastructure/" target="_blank">Implementing Secure Zero-Touch Provisioning in AI and Edge Infrastructure</a></span>
+                <span class="feed">Linux.com</span>
+                <span class="time">2026-03-11 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +222,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-KVM-Preps-Intel-APX" target="_blank">Linux&#x27;s KVM Virtualization Preparing For Intel Advanced Performance Extensions (APX)</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-11 09:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/ai-bot-github-actions-exploit/en/headerimage/generatedHeaderImage-1772789238300.jpg" alt="AI-Powered Bot Compromises GitHub Actions Workflows Across Microsoft, DataDog, and CNCF Projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/ai-bot-github-actions-exploit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI-Powered Bot Compromises GitHub Actions Workflows Across Microsoft, DataDog, and CNCF Projects</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-11 09:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kurtulu_z_14942168b1fb6/openssl-40-is-coming-encrypted-client-hello-and-new-cryptographic-features-4407" target="_blank">OpenSSL 4.0 Is Coming: Encrypted Client Hello and New Cryptographic Features</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-11 07:15</span>
             </div>
         </div>
 </div>
@@ -248,6 +253,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K7FDV9SVRS44PHHSZYPRDK07/hero-image.jpg" alt="You Can Get a One-Year BJ&#x27;s Membership for Just $20 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/bjs-membership-stacksocial-sale-march-2026?utm_medium=RSS" target="_blank">You Can Get a One-Year BJ&#x27;s Membership for Just $20 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-11 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/IMG_2165-1280x720.jpg" alt="I Wish I’d Known This One Pokémon Pokopia Trick 30 Hours Ago" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -266,6 +280,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/20260310-harris-fuller.jpg?fit=860%2C484&amp;quality=60&amp;ssl=1" alt="Democrat advances to runoff in Marjorie Taylor-Greene&#x27;s deep-red district" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/11/democrat-advances-to-runoff-in-marjorie-taylor-greenes-deep-red-district.html" target="_blank">Democrat advances to runoff in Marjorie Taylor-Greene&#x27;s deep-red district</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-11 12:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Chris-Pratt-Mercy-Poster-1280x853.jpg" alt="One of the Year’s Worst Sci-Fi Films (So Far) Is Coming Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -281,24 +304,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/11/minesweeper-but-its-the-strait-of-hormuz.html" target="_blank">Minesweeper but it&#x27;s the Strait of Hormuz</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-11 11:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/highguard-sobel-1280x720.jpg" alt="Highguard Dev Who Deleted His Socials Following Toxic Abuse Is Back, Expressing Regrets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/highguard-developer-deleted-x-restored-account-2000677868" target="_blank">Highguard Dev Who Deleted His Socials Following Toxic Abuse Is Back, Expressing Regrets</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-11 11:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/future-police-woman-1280x957.jpg" alt="Do You Have What It Takes to Be ‘Future Chief of Police’ of Starbase, Texas?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/do-you-have-what-it-takes-to-be-future-chief-of-police-of-starbase-texas-2000731756" target="_blank">Do You Have What It Takes to Be ‘Future Chief of Police’ of Starbase, Texas?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-11 01:17</span>
             </div>
         </div>
 </div>
@@ -338,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 13:25 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 14:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
