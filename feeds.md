@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-11 03:43:28 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-11 04:30:22 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, March 11, 2026 - 03:43 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, March 11, 2026 - 04:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/11/qatars-foreign-minister-says-keeping-strait-of-hormuz-open-is-critical?traffic_source=rss" target="_blank">Qatar’s foreign minister says ‘regional countries are not an enemy of Iran’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-11 04:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +101,20 @@
                 <span class="time">2026-03-10 23:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-2-rt-gmh-260303_1772544258816_hpMain_4x3t_384.jpg" alt="Large US special ops force needed on ground to seize Iran&#x27;s uranium, experts say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/large-us-special-ops-force-needed-ground-seize/story?id=130935450" target="_blank">Large US special ops force needed on ground to seize Iran&#x27;s uranium, experts say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-10 21:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6902e960c0fbe92c80e74e2f/master/pass/CITY%20GUIDE%20-%20Chicago.png" alt="What to Do in Chicago If You’re Here for Business (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-wired-guide-to-chicago-for-business-travelers/" target="_blank">What to Do in Chicago If You’re Here for Business (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-11 03:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,15 +156,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/space/2026/03/nasa-approved-a-safety-waiver-for-this-weeks-reentry-of-van-allen-probe/" target="_blank">Reentry of NASA satellite will exceed the agency&#x27;s risk guidelines</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-10 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/KSC-2012-4288large-500x500.jpg" alt="NASA approved a safety waiver for this week&#x27;s reentry of Van Allen Probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/03/nasa-approved-a-safety-waiver-for-this-weeks-reentry-of-van-allen-probe/" target="_blank">NASA approved a safety waiver for this week&#x27;s reentry of Van Allen Probe</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-03-10 23:01</span>
             </div>
@@ -247,6 +252,15 @@ Cloudflare WARP is the easiest way to enable IPv6 and security on your network t
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/future-police-woman-1280x957.jpg" alt="Do You Have What It Takes to Be ‘Future Chief of Police’ of Starbase, Texas?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/do-you-have-what-it-takes-to-be-future-chief-of-police-of-starbase-texas-2000731756" target="_blank">Do You Have What It Takes to Be ‘Future Chief of Police’ of Starbase, Texas?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-11 01:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KFXF73Q0G8T8FAAJ0JP67JMZ/hero-image.png" alt="You Can Get ClearVPN, an Easy, Beginner-Friendly VPN Setup, on Sale for Just $20 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -291,15 +305,6 @@ Cloudflare WARP is the easiest way to enable IPv6 and security on your network t
                 <span class="time">2026-03-10 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/lego-mario-minifigure-1280x853.jpg" alt="Lego Gives in, Will Finally Make Mario Minifigures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/lego-mario-minifigures-2027-2000732046" target="_blank">Lego Gives in, Will Finally Make Mario Minifigures</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-10 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +333,8 @@ Cloudflare WARP is the easiest way to enable IPv6 and security on your network t
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 03:43 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 04:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
