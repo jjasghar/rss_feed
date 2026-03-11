@@ -1,42 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-11 14:15:35 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-11 15:14:05 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 33 feeds processed -->
+<!-- Generated 13 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, March 11, 2026 - 14:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, March 11, 2026 - 15:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +43,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels" target="_blank">French aid worker among three killed in drone attack in east DRC, M23 rebels say</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-11 14:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-4-rt-gmh-260311_1773233315589_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says there’s &#x27;practically nothing left to target&#x27; in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: Trump says there’s &#x27;practically nothing left to target&#x27; in Iran</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-11 14:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ac/live/9c070350-1d3a-11f1-8a7a-4725a6287ab3.jpg" alt="Countries agree to record release of emergency oil reserves as prices surge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss" target="_blank">Countries agree to record release of emergency oil reserves as prices surge</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-11 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/11/g-s1-113159/year-of-the-horse-shanghai-jade-buddha-temple-tai-sui" target="_blank">Greetings from a Shanghai temple where you can ward off bad luck in the Year of the Horse</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-11 14:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ac/live/9c070350-1d3a-11f1-8a7a-4725a6287ab3.jpg" alt="Record release of emergency oil reserves planned as prices surge" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,47 +97,38 @@
                 <span class="time">2026-03-11 13:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/11/turkish-president-urges-end-to-iran-war?traffic_source=rss" target="_blank">Turkish president urges end to Iran war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-11 13:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ac/live/9c070350-1d3a-11f1-8a7a-4725a6287ab3.jpg" alt="G7 welcomes potential record release of oil reserves as prices surge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss" target="_blank">G7 welcomes potential record release of oil reserves as prices surge</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-11 12:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/11/iran-security-chief-warns-against-anti-government-protests?traffic_source=rss" target="_blank">Iran security chief warns against anti-government protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-11 11:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773229318905_tdy_news_7a_engel_mine_laying_vessels_260311_1920x1080-eux1ds.jpg" alt="US Says It Hit 16 Iranian Mine-Laying Ships Near Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/pentagon-says-it-hit-iran-s-mine-laying-vessels-as-strikes-intensify-259107909878" target="_blank">US Says It Hit 16 Iranian Mine-Laying Ships Near Strait of Hormuz</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-11 11:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/11/meta-didnt-buy-moltbook-for-bots-it-bought-into-the-agentic-web/" target="_blank">Meta didn’t buy Moltbook for bots — it bought into the agentic web</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-11 15:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta" target="_blank">Canva’s new editing tool adds layers to AI-generated designs</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-11 15:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b09927e0b42af7e5e1b5e5/master/pass/politics_creators_fundraise_millions.jpg" alt="This Is the Next Wave of Political Fundraising" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/this-is-the-next-wave-of-political-fundraising/" target="_blank">This Is the Next Wave of Political Fundraising</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-11 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,38 +156,20 @@
                 <span class="time">2026-03-11 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/tongue-TOP-500x500-1772990932.jpg" alt="Don&#x27;t lick that cold metal pole in winter—if you do, don&#x27;t panic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/03/exploring-the-science-of-tundra-tongue/" target="_blank">Don&#x27;t lick that cold metal pole in winter—if you do, don&#x27;t panic</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-11 12:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b0c057f343539f6f92aa1f/master/pass/FORT-19-edited.png" alt="The Fort Strength Training Wearable Tracks Your Sets (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/fort-strength-training-wearable-launch/" target="_blank">The Fort Strength Training Wearable Tracks Your Sets (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-11 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/892358/iran-war-dubai-airport-travel-flight-cancel" target="_blank">How Trump’s war on Iran stranded a million fliers — and plunged the Gulf’s favorite playground into chaos</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-11 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/harman_panwar_46de8d9454b/understanding-control-flow-in-javascript-ebg" target="_blank">Understanding Control Flow in JavaScript</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-11 15:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18906623&w=600" alt="Entangled Kubernetes Objects" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -177,6 +177,15 @@
                 <span class="title"><a href="https://dzone.com/articles/entangled-kubernetes-objects" target="_blank">Entangled Kubernetes Objects</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-11 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/D7VK-1.5-Released" target="_blank">D7VK 1.5 Released With Direct3D 3 Now Implemented Over Vulkan</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-11 13:39</span>
             </div>
         </div>
 <div class="story">
@@ -191,37 +200,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/" target="_blank">Lego&#x27;s 0.002 mm Specification and Its Implications for Manufacturing (2025)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-11 13:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.linux.com/contributed/implementing-secure-zero-touch-provisioning-in-ai-and-edge-infrastructure/" target="_blank">Implementing Secure Zero-Touch Provisioning in AI and Edge Infrastructure</a></span>
                 <span class="feed">Linux.com</span>
                 <span class="time">2026-03-11 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/microsoft/BitNet" target="_blank">Microsoft BitNet: 100B Param 1-Bit model for local CPUs</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-11 12:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dainwi/how-i-used-ollama-locally-instead-of-paying-for-the-openai-api-egk" target="_blank">How I Used Ollama Locally Instead of Paying for the OpenAI API</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-11 11:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-KVM-Preps-Intel-APX" target="_blank">Linux&#x27;s KVM Virtualization Preparing For Intel Advanced Performance Extensions (APX)</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-11 09:57</span>
             </div>
         </div>
 </div>
@@ -252,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/hypothetical-particle-list-top-image-1280x800.jpg" alt="6 Freaky Particles That Could Fix Physics—If They Exist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/6-freaky-particles-that-could-fix-physics-if-they-exist-2000732052" target="_blank">6 Freaky Particles That Could Fix Physics—If They Exist</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-11 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K7FDV9SVRS44PHHSZYPRDK07/hero-image.jpg" alt="You Can Get a One-Year BJ&#x27;s Membership for Just $20 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -297,15 +297,6 @@
                 <span class="time">2026-03-11 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Minesweeper-Sweep-the-Strait.jpg?fit=1080%2C785&amp;quality=60&amp;ssl=1" alt="Minesweeper but it&#x27;s the Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/11/minesweeper-but-its-the-strait-of-hormuz.html" target="_blank">Minesweeper but it&#x27;s the Strait of Hormuz</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-11 11:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -343,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 14:15 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 15:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
