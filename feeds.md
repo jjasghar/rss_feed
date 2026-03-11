@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-11 18:13:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-11 19:15:19 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, March 11, 2026 - 18:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, March 11, 2026 - 19:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +105,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/" target="_blank">Replit snags $9B valuation 6 months after hitting $3B</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-11 18:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled" target="_blank">Grammarly says it will stop using AI to clone experts without permission</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-11 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b191adfc8d6f2d9f4732fe/master/pass/BugTech_LEAD2.jpg" alt="Iran Warns US Tech Firms Could Become Targets as War Expands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/" target="_blank">Iran Warns US Tech Firms Could Become Targets as War Expands</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-11 18:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2263087121-500x500.jpg" alt="Binance sues WSJ over report sparking government probes into exchange" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -129,38 +158,29 @@
                 <span class="time">2026-03-11 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration" target="_blank">OpenAI’s Sora video generator is reportedly coming to ChatGPT</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-11 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b07cf9aa47ce31a54437e3/master/pass/IMG_5688.JPG" alt="Best Mattress for Back Pain (2026): Saatva, Bear, Helix" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/the-best-mattresses-for-back-pain/" target="_blank">Best Mattress for Back Pain (2026): Saatva, Bear, Helix</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-11 16:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/" target="_blank">Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-11 16:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rozhnev/why-sum-over-order-by-sometimes-feels-wrong-a-practical-guide-to-sql-window-frames-1iga" target="_blank">Why `SUM() OVER (ORDER BY ...)` Sometimes Feels Wrong: A Practical Guide to SQL Window Frames</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-11 19:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18909993&w=600" alt="Building the Future-Proofing Forensics Pipeline with Dilithium" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-the-future-proofing-forensics-pipeline-wi-1" target="_blank">Building the Future-Proofing Forensics Pipeline with Dilithium</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-11 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,30 +209,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://res.infoq.com/news/2026/03/webpack-2026-roadmap/en/headerimage/generatedHeaderImage-1773153527392.jpg" alt="Webpack Publishes 2026 Roadmap with Native CSS Support, Universal Target, and Path to Version 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://dgroshev.com/blog/okmain/" target="_blank">Okmain: you have an image but you want a colour</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-11 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6i9w8fetd96rt844jh3.gif" alt="I Built a Retro FPS That Turns Your Git Repo Into a Shooting Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/miss_terry/i-built-a-retro-fps-that-turns-your-git-repo-into-a-shooting-game-1oef" target="_blank">I Built a Retro FPS That Turns Your Git Repo Into a Shooting Game</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-11 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2604-nvidia-gaming" target="_blank">Ubuntu 26.04 With GNOME 50 Offering Some Performance Benefits For NVIDIA Linux Gaming</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-11 15:36</span>
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/webpack-2026-roadmap/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Webpack Publishes 2026 Roadmap with Native CSS Support, Universal Target, and Path to Version 6</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-11 16:30</span>
             </div>
         </div>
 </div>
@@ -262,6 +264,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1280x720.jpg" alt="Xbox’s Next-Gen Console Sounds Powerful, But Dev Kits Not Going Out Until 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-not-planning-to-send-next-gen-console-dev-kits-out-until-2027-2000678006" target="_blank">Xbox’s Next-Gen Console Sounds Powerful, But Dev Kits Not Going Out Until 2027</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-11 18:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1280x720.jpg" alt="Xbox Not Planning To Send Next Gen Console Dev Kits Out Until 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -294,15 +305,6 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/6-freaky-particles-that-could-fix-physics-if-they-exist-2000732052" target="_blank">6 Freaky Particles That Could Fix Physics—If They Exist</a></span>
                 <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-11 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKCC224SKY7PB973QGNE29GS/hero-image.jpg" alt="Five Hacks Every Fitness Watch User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/hacks-every-fitness-watch-user-should-know?utm_medium=RSS" target="_blank">Five Hacks Every Fitness Watch User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-11 15:00</span>
             </div>
         </div>
@@ -343,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 18:13 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 19:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
