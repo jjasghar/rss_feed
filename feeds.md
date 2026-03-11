@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-11 00:08:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-11 01:30:29 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, March 11, 2026 - 00:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, March 11, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +49,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/11/an-intercepted-drone-burns-and-falls-over-erbil-in-iraq?traffic_source=rss" target="_blank">An intercepted drone burns and falls over Erbil in Iraq</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-11 00:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/10/brazils-jair-bolsonaro-seeks-court-approval-for-visit-from-trump-official?traffic_source=rss" target="_blank">Brazil’s Jair Bolsonaro seeks court approval for visit from Trump official</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-10 23:15</span>
@@ -65,6 +70,15 @@
                 <span class="title"><a href="https://abcnews.com/Politics/large-us-special-ops-force-needed-ground-seize/story?id=130935450" target="_blank">Large US special ops force needed on ground to seize Iran&#x27;s uranium, experts say</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-10 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-yalda-hakim-the-world_7085303.jpg?20251118182005" alt="How the&amp;#8239;Iran&amp;#8239;conflict&amp;#8239;is becoming a global crisis&amp;#8239;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/how-the8239iran8239conflict8239is-becoming-a-global-crisis8239-13517897" target="_blank">How the&amp;#8239;Iran&amp;#8239;conflict&amp;#8239;is becoming a global crisis&amp;#8239;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-10 21:41</span>
             </div>
         </div>
 <div class="story">
@@ -85,24 +99,6 @@
                 <span class="time">2026-03-10 19:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-dxf-reuters_7188048.jpg?20260310164418" alt="Dark ships and shadow fleets &amp;#8211; what is crossing &#x27;closed&#x27; Strait of Hormuz?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/dark-ships-and-shadow-fleets-8211-what-is-crossing-closed-strait-of-hormuz-13517746" target="_blank">Dark ships and shadow fleets &amp;#8211; what is crossing &#x27;closed&#x27; Strait of Hormuz?</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-10 19:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/jd-vance-2-ap-gmh-260309._1773068730268_hpMain_4x3t_384.jpg" alt="Trump says he and Vance are &#x27;philosophically&#x27; different on Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-vance-philosophically-iran-war/story?id=130937389" target="_blank">Trump says he and Vance are &#x27;philosophically&#x27; different on Iran war</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-10 19:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,6 +110,15 @@
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/03/10/in-a-vote-of-confidence-for-metas-threads-kalshi-adds-sharing-feature/" target="_blank">In a vote of confidence for Meta’s Threads, Kalshi adds sharing feature</a></span>
                 <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-10 23:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/KSC-2012-4288large-500x500.jpg" alt="Reentry of NASA satellite will exceed the agency&#x27;s own risk guidelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/03/nasa-approved-a-safety-waiver-for-this-weeks-reentry-of-van-allen-probe/" target="_blank">Reentry of NASA satellite will exceed the agency&#x27;s own risk guidelines</a></span>
+                <span class="feed">Ars Technica</span>
                 <span class="time">2026-03-10 23:01</span>
             </div>
         </div>
@@ -153,20 +158,20 @@
                 <span class="time">2026-03-10 21:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/10/google-and-tesla-think-were-managing-the-electrical-grid-all-wrong/" target="_blank">Google and Tesla think we’re managing the electrical grid all wrong</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-10 20:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0g7irbxnkm26ng0azoqp.gif" alt="I Built multi-ai-cli to Kill Browser Tab Hell: True Multi-LLM Orchestration + Blackboard Memory in Your Terminal (v0.13.0)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/albatrosary/i-built-multi-ai-cli-to-kill-browser-tab-hell-true-multi-llm-orchestration-blackboard-memory-in-3mc6" target="_blank">I Built multi-ai-cli to Kill Browser Tab Hell: True Multi-LLM Orchestration + Blackboard Memory in Your Terminal (v0.13.0)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-11 01:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -216,20 +221,20 @@ Cloudflare WARP is the easiest way to enable IPv6 and security on your network t
                 <span class="time">2026-03-10 20:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/the-era-of-ai-as-text-is-over-execution-is-the-new-interface/" target="_blank">The era of “AI as text” is over. Execution is the new interface.</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-03-10 20:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/" target="_blank">Microsoft Patch Tuesday, March 2026 Edition</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-03-11 00:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -304,6 +309,15 @@ Cloudflare WARP is the easiest way to enable IPv6 and security on your network t
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5783.png" alt="Topical Application" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5783" target="_blank">Topical Application</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-03-11 01:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1773007680-20260310.png" alt="Saturday Morning Breakfast Cereal - Learn" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -312,22 +326,13 @@ Cloudflare WARP is the easiest way to enable IPv6 and security on your network t
                 <span class="time">2026-03-10 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5782.png" alt="Bubbles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5782" target="_blank">Bubbles</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-03-10 01:04</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 00:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
