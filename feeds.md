@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-11 20:05:28 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-03-11 21:05:31 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 10 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, March 11, 2026 - 20:05 UTC</div>
+    <div class="newspaper-date">Wednesday, March 11, 2026 - 21:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/11/two-killed-as-tornadoes-sweep-across-us-midwest-in-latest-extreme-weather?traffic_source=rss" target="_blank">Two killed as tornadoes sweep across US Midwest in latest extreme weather</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-11 20:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260311-Shajareh-Tayyebeh-ch-1145-a5972f.jpg" alt="Outdated intel likely led to deadly U.S. strike on Iranian elementary school, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/iran/old-intelligence-likely-led-us-strike-iran-elementary-school-rcna262967" target="_blank">Outdated intel likely led to deadly U.S. strike on Iranian elementary school, sources say</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-11 20:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/11/nx-s1-5744855/fifa-world-cup-iran-team" target="_blank">Iran&#x27;s soccer team cannot participate in the FIFA World Cup, Iranian minister says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-11 19:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/03/11/nx-s1-5744981/pentagon-iran-missile-school-hegseth" target="_blank">Pentagon probe points to U.S. missile hitting Iranian school</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -57,48 +79,21 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/International/GettyImages-2147784914_1773248758057_hpMain_4x3t_384.jpg" alt="FBI warns Iran aspired to attack California with drones in retaliation for war: Alert" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/fbi-warns-iran-aspired-attack-california-drones-retaliation/story?id=130973820" target="_blank">FBI warns Iran aspired to attack California with drones in retaliation for war: Alert</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-11 17:35</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/11/g-s1-113300/britain-parliament-hereditary-house-of-lords-aristocrats-duke-earl-viscount" target="_blank">No Nobles Day: Britain&#x27;s Parliament boots its last hereditary Lords after 700 years</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-11 16:56</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/11/at-least-17-killed-after-drone-strikes-school-in-sudan" target="_blank">At least 17 killed after drone strikes school in Sudan</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-11 19:08</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9d9/live/89059d00-1d7d-11f1-a17e-358a512ba0b9.jpg" alt="Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/933f/live/4b25c3d0-1d63-11f1-8f98-5df0827ab403.jpg" alt="PM warned of &#x27;reputational risk&#x27; over Mandelson&#x27;s Epstein links" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&at_campaign=rss" target="_blank">Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large</a></span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd70lgywgqqo?at_medium=RSS&at_campaign=rss" target="_blank">PM warned of &#x27;reputational risk&#x27; over Mandelson&#x27;s Epstein links</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-03-11 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/11/iea-recommends-record-400m-barrel-oil-release-amid-iran-war?traffic_source=rss" target="_blank">IEA recommends record 400M barrel oil release amid Iran war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-11 16:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/11/nx-s1-5742438/iran-war-flight-airline-travel-tips" target="_blank">How the Iran war is disrupting air travel -- and advice if you&#x27;re planning a trip</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-11 15:55</span>
+                <span class="time">2026-03-11 18:30</span>
             </div>
         </div>
 </div>
@@ -106,6 +101,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/11/quince-series-e-10b-valuation-with-500m-round-led-by-iconiq/" target="_blank">Quince hits $10B valuation with giant $500M round led by Iconiq</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-11 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b1c8b19fd417e67bc5b525/master/pass/031126-grammarly-AI-experts-1.jpg" alt="Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/" target="_blank">Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-11 20:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +155,20 @@
                 <span class="time">2026-03-11 18:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2263087121-500x500.jpg" alt="Binance sues WSJ, panicked by gov’t probes into sanctioned crypto transfers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/binance-sues-wsj-over-report-sparking-government-probes-into-exchange/" target="_blank">Binance sues WSJ, panicked by gov’t probes into sanctioned crypto transfers</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-11 18:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2263087121-500x500.jpg" alt="Binance sues WSJ over report sparking government probes into exchange" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/binance-sues-wsj-over-report-sparking-government-probes-into-exchange/" target="_blank">Binance sues WSJ over report sparking government probes into exchange</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-11 18:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2a2cb0oc1ff4x5jzfd5f.png" alt="MiniScript Roadmap Update (March 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/joestrout/miniscript-roadmap-update-march-2026-41a4" target="_blank">MiniScript Roadmap Update (March 2026)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-11 20:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +214,6 @@
                 <span class="time">2026-03-11 17:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtvm4sfrxyh0zpskxdei.png" alt="Functional programming in Angular" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/earthdmitriy/functional-programming-in-angular-57f8" target="_blank">Functional programming in Angular</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-11 17:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -256,6 +251,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6V0RB94JY93HJ3PTXR7KGDJ/hero-image.jpg" alt="You Can Get Both Windows 11 Pro and Microsoft Office Pro for Just $50 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/windows-11-pro-microsoft-office-pro-stacksocial-sale-march-2026?utm_medium=RSS" target="_blank">You Can Get Both Windows 11 Pro and Microsoft Office Pro for Just $50 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-11 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KKF2HS2871XXPZRMAYHFMPXT/hero-image.png" alt="These Smart Glasses Can Be Used As a Private HD Screen, and They’re $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -301,15 +305,6 @@
                 <span class="time">2026-03-11 18:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/shutterstock_2687208051-e1773242334527-1280x852.jpg" alt="Microsoft Backs Anthropic in Pentagon Fallout Despite Heated Rivalry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/microsoft-backs-anthropic-in-pentagon-fallout-despite-heated-rivalry-2000732315" target="_blank">Microsoft Backs Anthropic in Pentagon Fallout Despite Heated Rivalry</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-11 15:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -347,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 20:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 21:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
