@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-11 15:14:05 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-11 16:13:59 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, March 11, 2026 - 15:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, March 11, 2026 - 16:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/11/nx-s1-5742438/iran-war-flight-airline-travel-tips" target="_blank">How the Iran war is disrupting air travel -- and advice if you&#x27;re planning a trip</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-11 15:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +102,29 @@
                 <span class="time">2026-03-11 13:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/11/nigerian-soldiers-killed-jihadist-raids-north-east" target="_blank">At least 65 Nigerian soldiers killed in jihadist raids in country’s north-east</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-11 13:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/" target="_blank">Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-11 16:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2260549686-500x500-1773238471.jpg" alt="NIH director launches &quot;Scientific Freedom&quot; lectures with non-scientist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/03/nih-director-launches-scientific-freedom-lectures-with-non-scientist/" target="_blank">NIH director launches &quot;Scientific Freedom&quot; lectures with non-scientist</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-11 15:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +161,29 @@
                 <span class="time">2026-03-11 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/07/GettyImages-128228162-500x500.jpg" alt="What crackdown? Trump&#x27;s EPA enforcement claims don&#x27;t pass sniff test." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/trumps-epa-says-its-cracking-down-but-the-data-tell-a-different-story/" target="_blank">What crackdown? Trump&#x27;s EPA enforcement claims don&#x27;t pass sniff test.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-11 13:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b06dc54c5dd30e33d9fe71/master/pass/HLD-dog.jpg" alt="This Digital Picture Frame Wants to Bring People Closer to a Holographic Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/looking-glass-musubi/" target="_blank">This Digital Picture Frame Wants to Bring People Closer to a Holographic Future</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-11 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6i9w8fetd96rt844jh3.gif" alt="I Built a Retro FPS That Turns Your Git Repo Into a Shooting Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/miss_terry/i-built-a-retro-fps-that-turns-your-git-repo-into-a-shooting-game-1oef" target="_blank">I Built a Retro FPS That Turns Your Git Repo Into a Shooting Game</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-11 16:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2604-nvidia-gaming" target="_blank">Ubuntu 26.04 With GNOME 50 Offering Some Performance Benefits For NVIDIA Linux Gaming</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-11 15:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -168,6 +191,15 @@
                 <span class="title"><a href="https://dev.to/harman_panwar_46de8d9454b/understanding-control-flow-in-javascript-ebg" target="_blank">Understanding Control Flow in JavaScript</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-11 15:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/uber-mysql-uptime-consensus/en/headerimage/consensus-1772309087126.jpeg" alt="From Minutes to Seconds: Uber Boosts MySQL Cluster Uptime with Consensus Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/uber-mysql-uptime-consensus/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">From Minutes to Seconds: Uber Boosts MySQL Cluster Uptime with Consensus Architecture</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-11 14:15</span>
             </div>
         </div>
 <div class="story">
@@ -186,33 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/D7VK-1.5-Released" target="_blank">D7VK 1.5 Released With Direct3D 3 Now Implemented Over Vulkan</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-11 13:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/docat0209/i-made-claude-call-any-rest-api-in-30-seconds-zero-code-just-one-command-4jfo" target="_blank">I Made Claude Call Any REST API in 30 Seconds - Zero Code, Just One Command</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-11 13:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/" target="_blank">Lego&#x27;s 0.002 mm Specification and Its Implications for Manufacturing (2025)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-11 13:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.linux.com/contributed/implementing-secure-zero-touch-provisioning-in-ai-and-edge-infrastructure/" target="_blank">Implementing Secure Zero-Touch Provisioning in AI and Edge Infrastructure</a></span>
-                <span class="feed">Linux.com</span>
-                <span class="time">2026-03-11 13:00</span>
             </div>
         </div>
 </div>
@@ -244,11 +249,38 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/shutterstock_2687208051-e1773242334527-1280x852.jpg" alt="Microsoft Backs Anthropic in Pentagon Fallout Despite Heated Rivalry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/microsoft-backs-anthropic-in-pentagon-fallout-despite-heated-rivalry-2000732315" target="_blank">Microsoft Backs Anthropic in Pentagon Fallout Despite Heated Rivalry</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-11 15:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/triceratops-scaled.webp?fit=2560%2C1707&amp;quality=55&amp;ssl=1" alt="Triceratops fossil up for auction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/11/triceratops-fossil-up-for-auction.html" target="_blank">Triceratops fossil up for auction</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-11 15:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/hypothetical-particle-list-top-image-1280x800.jpg" alt="6 Freaky Particles That Could Fix Physics—If They Exist" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/6-freaky-particles-that-could-fix-physics-if-they-exist-2000732052" target="_blank">6 Freaky Particles That Could Fix Physics—If They Exist</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-11 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKCC224SKY7PB973QGNE29GS/hero-image.jpg" alt="Five Hacks Every Fitness Watch User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/hacks-every-fitness-watch-user-should-know?utm_medium=RSS" target="_blank">Five Hacks Every Fitness Watch User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-11 15:00</span>
             </div>
         </div>
@@ -270,38 +302,20 @@
                 <span class="time">2026-03-11 13:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKCSQPCVSRMAFTXGY7BKQ2SE/hero-image.jpg" alt="Microsoft&#x27;s &#x27;Patch Tuesday&#x27; for March Addresses Two Zero-Day Flaws" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/microsoft-patch-tuesday-march-2026?utm_medium=RSS" target="_blank">Microsoft&#x27;s &#x27;Patch Tuesday&#x27; for March Addresses Two Zero-Day Flaws</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-11 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/20260310-harris-fuller.jpg?fit=860%2C484&amp;quality=60&amp;ssl=1" alt="Democrat advances to runoff in Marjorie Taylor-Greene&#x27;s deep-red district" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/11/democrat-advances-to-runoff-in-marjorie-taylor-greenes-deep-red-district.html" target="_blank">Democrat advances to runoff in Marjorie Taylor-Greene&#x27;s deep-red district</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-11 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Chris-Pratt-Mercy-Poster-1280x853.jpg" alt="One of the Year’s Worst Sci-Fi Films (So Far) Is Coming Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/one-of-the-years-worst-sci-fi-films-so-far-is-coming-home-2000732142" target="_blank">One of the Year’s Worst Sci-Fi Films (So Far) Is Coming Home</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-11 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1773007729-20260311.png" alt="Saturday Morning Breakfast Cereal - Holy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/holy-2" target="_blank">Saturday Morning Breakfast Cereal - Holy</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-11 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -320,22 +334,13 @@
                 <span class="time">2026-03-11 01:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1773007680-20260310.png" alt="Saturday Morning Breakfast Cereal - Learn" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/learn-2" target="_blank">Saturday Morning Breakfast Cereal - Learn</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-03-10 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 15:14 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 16:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
