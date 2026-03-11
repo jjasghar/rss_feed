@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-11 06:11:43 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-11 07:15:38 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, March 11, 2026 - 06:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, March 11, 2026 - 07:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,10 +50,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/mar/11/prison-sentences-attacked-gay-men-hope-kenya-lgbtq-community" target="_blank">Prison sentences for pair who attacked gay men hailed as sign of hope for Kenya’s LGBTQ+ community</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-11 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/11/the-other-side-of-iits-student-suicides-haunt-indias-top-tech-schools?traffic_source=rss" target="_blank">‘The other side’ of IITs: Student suicides haunt India’s top tech schools</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-11 05:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2247/live/b61b69b0-1d13-11f1-820a-dd3b8b80b677.jpg" alt="Al Quds Day march to be banned after government approves Met request" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm28gmlvedro?at_medium=RSS&at_campaign=rss" target="_blank">Al Quds Day march to be banned after government approves Met request</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-11 04:14</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +101,20 @@
                 <span class="time">2026-03-11 03:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/11/indian-traveller-stranded-in-qatar-takes-long-road-to?traffic_source=rss" target="_blank">Indian traveller stranded in Qatar takes long road to Riyadh</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-11 02:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/11/an-intercepted-drone-burns-and-falls-over-erbil-in-iraq?traffic_source=rss" target="_blank">An intercepted drone burns and falls over Erbil in Iraq</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-11 00:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/11/anduril-snaps-up-space-surveillance-firm-exoanalytic-solutions/" target="_blank">Anduril snaps up space surveillance firm ExoAnalytic Solutions</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-11 07:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6902e960c0fbe92c80e74e2f/master/pass/CITY%20GUIDE%20-%20Chicago.png" alt="What to Do in Chicago If You’re Here for Business (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +160,20 @@
                 <span class="time">2026-03-10 23:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/KSC-2012-4288large-500x500.jpg" alt="Reentry of NASA satellite will exceed the agency&#x27;s risk guidelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/03/nasa-approved-a-safety-waiver-for-this-weeks-reentry-of-van-allen-probe/" target="_blank">Reentry of NASA satellite will exceed the agency&#x27;s risk guidelines</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-10 23:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kurtulu_z_14942168b1fb6/openssl-40-is-coming-encrypted-client-hello-and-new-cryptographic-features-4407" target="_blank">OpenSSL 4.0 Is Coming: Encrypted Client Hello and New Cryptographic Features</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-11 07:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/stuntcycle.png" alt="Building a Better Kicker: The Physics Behind the Jump Simulator" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Fedora-Tech-Innovation-Process" target="_blank">Fedora Evaluating New Idea For For Experimental Concepts &amp; Fostering New Innovations</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-11 00:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ggondim/duckflux-a-declarative-workflow-dsl-born-from-the-multi-agent-orchestration-gap-4n28" target="_blank">duckflux — A Declarative Workflow DSL Born from the Multi-Agent Orchestration Gap</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-11 00:01</span>
             </div>
         </div>
 </div>
@@ -328,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 06:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 07:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
