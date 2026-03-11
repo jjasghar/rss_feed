@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-11 17:15:47 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-11 18:13:08 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 23 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, March 11, 2026 - 17:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, March 11, 2026 - 18:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/GettyImages-2147784914_1773248758057_hpMain_4x3t_384.jpg" alt="FBI warns Iran aspired to attack California with drones in retaliation for war: Alert" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/fbi-warns-iran-aspired-attack-california-drones-retaliation/story?id=130973820" target="_blank">FBI warns Iran aspired to attack California with drones in retaliation for war: Alert</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-11 17:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +97,38 @@
                 <span class="time">2026-03-11 14:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-4-rt-gmh-260311_1773233315589_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says there’s &#x27;practically nothing left to target&#x27; in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: Trump says there’s &#x27;practically nothing left to target&#x27; in Iran</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-11 14:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2263087121-500x500.jpg" alt="Binance sues WSJ over report sparking government probes into exchange" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/binance-sues-wsj-over-report-sparking-government-probes-into-exchange/" target="_blank">Binance sues WSJ over report sparking government probes into exchange</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-11 18:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/892875/microsoft-xbox-mode-windows-11-gdc" target="_blank">Microsoft&amp;#8217;s ‘Xbox mode’ is coming to every Windows 11 PC</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-11 18:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69af3f3792d66aac27c0e361/master/pass/AI-Lab-Nvidia-Goes-All-in-on-AI-Business.jpg" alt="Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/" target="_blank">Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-11 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -128,38 +156,20 @@
                 <span class="time">2026-03-11 16:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2260549686-500x500-1773238471.jpg" alt="NIH director launches &quot;Scientific Freedom&quot; lectures with non-scientist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/03/nih-director-launches-scientific-freedom-lectures-with-non-scientist/" target="_blank">NIH director launches &quot;Scientific Freedom&quot; lectures with non-scientist</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-11 15:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/11/meta-didnt-buy-moltbook-for-bots-it-bought-into-the-agentic-web/" target="_blank">Meta didn’t buy Moltbook for bots — it bought into the agentic web</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-11 15:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta" target="_blank">Canva’s new editing tool adds layers to AI-generated designs</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-11 15:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/the-bare-metal-problem-in-ai-factories" target="_blank">The bare metal problem in AI Factories</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-03-11 17:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtvm4sfrxyh0zpskxdei.png" alt="Functional programming in Angular" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -167,6 +177,15 @@
                 <span class="title"><a href="https://dev.to/earthdmitriy/functional-programming-in-angular-57f8" target="_blank">Functional programming in Angular</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-11 17:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/from-ides-to-ai-agents-with-steve" target="_blank">From IDEs to AI Agents with Steve Yegge</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-03-11 16:58</span>
             </div>
         </div>
 <div class="story">
@@ -196,29 +215,20 @@
                 <span class="time">2026-03-11 15:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/harman_panwar_46de8d9454b/understanding-control-flow-in-javascript-ebg" target="_blank">Understanding Control Flow in JavaScript</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-11 15:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/uber-mysql-uptime-consensus/en/headerimage/consensus-1772309087126.jpeg" alt="From Minutes to Seconds: Uber Boosts MySQL Cluster Uptime with Consensus Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/uber-mysql-uptime-consensus/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">From Minutes to Seconds: Uber Boosts MySQL Cluster Uptime with Consensus Architecture</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-11 14:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/" target="_blank">Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-03-11 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -242,6 +252,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/child-graves-march-3-2026-iran-1280x853.jpg" alt="Outdated Targeting Data Blamed for Strike on Iranian School as Pentagon Fights for Autonomous Weapons" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/outdated-targeting-data-blamed-for-strike-on-iranian-school-as-pentagon-fights-for-autonomous-weapons-2000732391" target="_blank">Outdated Targeting Data Blamed for Strike on Iranian School as Pentagon Fights for Autonomous Weapons</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-11 18:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1280x720.jpg" alt="Xbox Not Planning To Send Next Gen Console Dev Kits Out Until 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-not-planning-to-send-next-gen-console-dev-kits-out-until-2027-2000678006" target="_blank">Xbox Not Planning To Send Next Gen Console Dev Kits Out Until 2027</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-11 18:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/shutterstock_2687208051-e1773242334527-1280x852.jpg" alt="Microsoft Backs Anthropic in Pentagon Fallout Despite Heated Rivalry" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +304,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/hacks-every-fitness-watch-user-should-know?utm_medium=RSS" target="_blank">Five Hacks Every Fitness Watch User Should Know</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-11 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K7FDV9SVRS44PHHSZYPRDK07/hero-image.jpg" alt="You Can Get a One-Year BJ&#x27;s Membership for Just $20 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/bjs-membership-stacksocial-sale-march-2026?utm_medium=RSS" target="_blank">You Can Get a One-Year BJ&#x27;s Membership for Just $20 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-11 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/IMG_2165-1280x720.jpg" alt="I Wish I’d Known This One Pokémon Pokopia Trick 30 Hours Ago" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-pokopia-cut-crops-plants-beans-tomatoes-harvest-2000677894" target="_blank">I Wish I’d Known This One Pokémon Pokopia Trick 30 Hours Ago</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-11 13:05</span>
             </div>
         </div>
 </div>
@@ -333,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 17:16 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 18:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
