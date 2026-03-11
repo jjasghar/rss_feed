@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-11 01:30:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-11 02:51:15 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, March 11, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, March 11, 2026 - 02:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/11/indian-traveller-stranded-in-qatar-takes-long-road-to?traffic_source=rss" target="_blank">Indian traveller stranded in Qatar takes long road to Riyadh</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-11 02:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +97,29 @@
                 <span class="time">2026-03-10 21:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/10/g-s1-113167/democrats-iran-trump" target="_blank">Senate Democrats ramp up pressure campaign for public hearings on war with Iran</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-10 19:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/" target="_blank">Google brings Gemini in Chrome to India</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-11 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b0b00478980662668bc8c8/master/pass/Trump-Admin-Refuses-to-Say-Wont-Take-Further-Action-Against-Anthropic-Business-2265661562.jpg" alt="Trump Administration Won’t Rule Out Further Action Against Anthropic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/" target="_blank">Trump Administration Won’t Rule Out Further Action Against Anthropic</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-11 01:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,24 +156,6 @@
                 <span class="time">2026-03-10 23:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/892661/iran-war-oil-gas-prices-data-center-electricity" target="_blank">How the spiraling Iran conflict could affect data centers and electricity costs</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-10 22:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/892675/a-live-action-samurai-champloo-is-in-the-works" target="_blank">A live-action Samurai Champloo is in the works</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-10 21:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +168,24 @@
                 <span class="title"><a href="https://dev.to/albatrosary/i-built-multi-ai-cli-to-kill-browser-tab-hell-true-multi-llm-orchestration-blackboard-memory-in-3mc6" target="_blank">I Built multi-ai-cli to Kill Browser Tab Hell: True Multi-LLM Orchestration + Blackboard Memory in Your Terminal (v0.13.0)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-11 01:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/mutating/pristan" target="_blank">Pristan: The simplest way to create a plugin infrastructure in Python</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-11 01:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-Tech-Innovation-Process" target="_blank">Fedora Evaluating New Idea For For Experimental Concepts &amp; Fostering New Innovations</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-11 00:37</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +217,6 @@ Cloudflare WARP is the easiest way to enable IPv6 and security on your network t
                 <span class="title"><a href="https://www.infoq.com/news/2026/03/datadog-go-binary-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Datadog Cut the Size of Its Agent Go Binaries by 77%</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-03-10 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/Ghostty.gif?resize=406%2C232&amp;ssl=1" alt="Ghostty 1.3 terminal released with search, scrollbars and more" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ghostty-1-3-terminal-brings-big-new-features" target="_blank">Ghostty 1.3 terminal released with search, scrollbars and more</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-10 20:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/Ghostty.gif?resize=406%2C232&amp;ssl=1" alt="Ghostty 1.3 terminal brings big new features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ghostty-1-3-terminal-brings-big-new-features" target="_blank">Ghostty 1.3 terminal brings big new features</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-10 20:47</span>
             </div>
         </div>
 </div>
@@ -331,8 +329,8 @@ Cloudflare WARP is the easiest way to enable IPv6 and security on your network t
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 02:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
