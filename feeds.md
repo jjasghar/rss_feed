@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-11 21:05:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-11 22:03:17 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, March 11, 2026 - 21:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, March 11, 2026 - 22:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/11/nx-s1-5742420/rebecca-gayheart-dane-eric-dane" target="_blank">Rebecca Gayheart Dane on caring for her late husband, Eric Dane, and synthetic voices</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-11 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/11/un-security-council-adopts-gulf-countries-draft-resolution-2?traffic_source=rss" target="_blank">UN Security Council adopts Gulf countries’ draft resolution</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-11 21:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +96,20 @@
                 <span class="time">2026-03-11 19:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/11/at-least-17-killed-after-drone-strikes-school-in-sudan" target="_blank">At least 17 killed after drone strikes school in Sudan</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-11 19:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/933f/live/4b25c3d0-1d63-11f1-8f98-5df0827ab403.jpg" alt="PM warned of &#x27;reputational risk&#x27; over Mandelson&#x27;s Epstein links" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd70lgywgqqo?at_medium=RSS&at_campaign=rss" target="_blank">PM warned of &#x27;reputational risk&#x27; over Mandelson&#x27;s Epstein links</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-11 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/" target="_blank">Netflix may have paid $600 million for Ben Affleck’s AI startup</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-11 22:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +155,38 @@
                 <span class="time">2026-03-11 18:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b191adfc8d6f2d9f4732fe/master/pass/BugTech_LEAD2.jpg" alt="Iran Warns US Tech Firms Could Become Targets as War Expands" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/" target="_blank">Iran Warns US Tech Firms Could Become Targets as War Expands</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-11 18:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/OBS-Studio-32.1-Released" target="_blank">OBS Studio 32.1 Released With WebRTC Simulcast Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-11 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fawgxxruw64y5xa1p5r9s.gif" alt="Your Docs Are Likely Obsolete" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mennanov/your-docs-are-likely-obsolete-a17" target="_blank">Your Docs Are Likely Obsolete</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-11 21:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://labs.quansight.org/blog/free-threaded-python-halfway" target="_blank">Halfway on the path to community support for free-threaded Python</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-11 21:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2a2cb0oc1ff4x5jzfd5f.png" alt="MiniScript Roadmap Update (March 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -185,33 +212,6 @@
                 <span class="title"><a href="https://news.ycombinator.com/newsguidelines.html#generated" target="_blank">Don&#x27;t post generated/AI-edited comments. HN is for conversation between humans.</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-11 19:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rozhnev/why-sum-over-order-by-sometimes-feels-wrong-a-practical-guide-to-sql-window-frames-1iga" target="_blank">Why `SUM() OVER (ORDER BY ...)` Sometimes Feels Wrong: A Practical Guide to SQL Window Frames</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-11 19:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18909993&w=600" alt="Building the Future-Proofing Forensics Pipeline with Dilithium" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-the-future-proofing-forensics-pipeline-wi-1" target="_blank">Building the Future-Proofing Forensics Pipeline with Dilithium</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-11 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/the-bare-metal-problem-in-ai-factories" target="_blank">The bare metal problem in AI Factories</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-03-11 17:23</span>
             </div>
         </div>
 </div>
@@ -252,6 +252,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/Starwarsfirstasssultgameplay-1280x720.jpg" alt="13 Years After It Was Cancelled, Star Wars: Battlefront III Prequel Is Playable On PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/star-wars-first-assault-battlefront-3-prequel-beta-revived-download-pc-instal-xbox-360-2000678058" target="_blank">13 Years After It Was Cancelled, Star Wars: Battlefront III Prequel Is Playable On PC</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-11 21:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/berry.jpg?fit=1080%2C776&amp;quality=60&amp;ssl=1" alt="Matt Berry to announce at 98th Oscars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/11/matt-berry-to-announce-at-98th-oscars.html" target="_blank">Matt Berry to announce at 98th Oscars</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-11 21:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K6V0RB94JY93HJ3PTXR7KGDJ/hero-image.jpg" alt="You Can Get Both Windows 11 Pro and Microsoft Office Pro for Just $50 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -285,24 +303,6 @@
                 <span class="title"><a href="https://gizmodo.com/outdated-targeting-data-blamed-for-strike-on-iranian-school-as-pentagon-fights-for-autonomous-weapons-2000732391" target="_blank">Outdated Targeting Data Blamed for Strike on Iranian School as Pentagon Fights for Autonomous Weapons</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-11 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1280x720.jpg" alt="Xbox’s Next-Gen Console Sounds Powerful, But Dev Kits Not Going Out Until 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-not-planning-to-send-next-gen-console-dev-kits-out-until-2027-2000678006" target="_blank">Xbox’s Next-Gen Console Sounds Powerful, But Dev Kits Not Going Out Until 2027</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-11 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1280x720.jpg" alt="Xbox Not Planning To Send Next Gen Console Dev Kits Out Until 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-not-planning-to-send-next-gen-console-dev-kits-out-until-2027-2000678006" target="_blank">Xbox Not Planning To Send Next Gen Console Dev Kits Out Until 2027</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-11 18:01</span>
             </div>
         </div>
 </div>
@@ -342,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 21:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 22:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
