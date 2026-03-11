@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-11 19:15:19 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-11 20:05:28 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, March 11, 2026 - 19:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, March 11, 2026 - 20:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/11/nx-s1-5744981/pentagon-iran-missile-school-hegseth" target="_blank">Pentagon probe points to U.S. missile hitting Iranian school</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-11 19:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/GettyImages-2147784914_1773248758057_hpMain_4x3t_384.jpg" alt="FBI warns Iran aspired to attack California with drones in retaliation for war: Alert" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -61,6 +72,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/11/g-s1-113300/britain-parliament-hereditary-house-of-lords-aristocrats-duke-earl-viscount" target="_blank">No Nobles Day: Britain&#x27;s Parliament boots its last hereditary Lords after 700 years</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-11 16:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9d9/live/89059d00-1d7d-11f1-a17e-358a512ba0b9.jpg" alt="Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&at_campaign=rss" target="_blank">Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-11 16:45</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +101,20 @@
                 <span class="time">2026-03-11 15:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels" target="_blank">French aid worker among three killed in dronestrike in east DRC, M23 rebels say</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-11 15:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels" target="_blank">French aid worker among three killed in drone attack in east DRC, M23 rebels say</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-11 14:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/893272/live-nation-ticketmaster-doj-settlement-states" target="_blank">The Live Nation settlement has industry insiders baffled</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-11 19:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,6 +143,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2263087121-500x500.jpg" alt="Binance sues WSJ, panicked by gov’t probes into sanctioned crypto transfers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/binance-sues-wsj-over-report-sparking-government-probes-into-exchange/" target="_blank">Binance sues WSJ, panicked by gov’t probes into sanctioned crypto transfers</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-11 18:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2263087121-500x500.jpg" alt="Binance sues WSJ over report sparking government probes into exchange" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -140,29 +160,29 @@
                 <span class="time">2026-03-11 18:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/892875/microsoft-xbox-mode-windows-11-gdc" target="_blank">Microsoft&amp;#8217;s ‘Xbox mode’ is coming to every Windows 11 PC</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-11 18:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69af3f3792d66aac27c0e361/master/pass/AI-Lab-Nvidia-Goes-All-in-on-AI-Business.jpg" alt="Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/" target="_blank">Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-11 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/system76-new-thelio" target="_blank">Exclusive Preview Of System76&#x27;s Completely Redesigned Thelio Desktop</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-11 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://news.ycombinator.com/newsguidelines.html#generated" target="_blank">Don&#x27;t post generated/AI-edited comments. HN is for conversation between humans.</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-11 19:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/earthdmitriy/functional-programming-in-angular-57f8" target="_blank">Functional programming in Angular</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-11 17:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/from-ides-to-ai-agents-with-steve" target="_blank">From IDEs to AI Agents with Steve Yegge</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-03-11 16:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/webpack-2026-roadmap/en/headerimage/generatedHeaderImage-1773153527392.jpg" alt="Webpack Publishes 2026 Roadmap with Native CSS Support, Universal Target, and Path to Version 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/webpack-2026-roadmap/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Webpack Publishes 2026 Roadmap with Native CSS Support, Universal Target, and Path to Version 6</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-11 16:30</span>
             </div>
         </div>
 </div>
@@ -255,6 +257,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKF2HS2871XXPZRMAYHFMPXT/hero-image.png" alt="These Smart Glasses Can Be Used As a Private HD Screen, and They’re $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/rayneo-air-4-pro-deal-march-2026?utm_medium=RSS" target="_blank">These Smart Glasses Can Be Used As a Private HD Screen, and They’re $50 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-11 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/spider-man-ride-feature.jpeg?fit=1200%2C765&amp;quality=60&amp;ssl=1" alt="Universal Orlando&#x27;s Spider-Man ride is 27 years old, but looks and feels brand new" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/11/universal-orlandos-spider-man-ride-is-27-years-old-but-looks-and-feels-brand-new.html" target="_blank">Universal Orlando&#x27;s Spider-Man ride is 27 years old, but looks and feels brand new</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-11 19:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/child-graves-march-3-2026-iran-1280x853.jpg" alt="Outdated Targeting Data Blamed for Strike on Iranian School as Pentagon Fights for Autonomous Weapons" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -288,24 +308,6 @@
                 <span class="title"><a href="https://gizmodo.com/microsoft-backs-anthropic-in-pentagon-fallout-despite-heated-rivalry-2000732315" target="_blank">Microsoft Backs Anthropic in Pentagon Fallout Despite Heated Rivalry</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-11 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/triceratops-scaled.webp?fit=2560%2C1707&amp;quality=55&amp;ssl=1" alt="Triceratops fossil up for auction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/11/triceratops-fossil-up-for-auction.html" target="_blank">Triceratops fossil up for auction</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-11 15:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/hypothetical-particle-list-top-image-1280x800.jpg" alt="6 Freaky Particles That Could Fix Physics—If They Exist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/6-freaky-particles-that-could-fix-physics-if-they-exist-2000732052" target="_blank">6 Freaky Particles That Could Fix Physics—If They Exist</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-11 15:00</span>
             </div>
         </div>
 </div>
@@ -345,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 19:15 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 20:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
