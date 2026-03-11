@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-11 11:09:54 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-11 12:05:54 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, March 11, 2026 - 11:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, March 11, 2026 - 12:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/11/iran-security-chief-warns-against-anti-government-protests?traffic_source=rss" target="_blank">Iran security chief warns against anti-government protests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-11 11:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70fa/live/86ff01c0-1d34-11f1-802f-8f5855cf51f2.jpg" alt="March organised by Iran-linked group banned after police request" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm28gmlvedro?at_medium=RSS&at_campaign=rss" target="_blank">March organised by Iran-linked group banned after police request</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-11 11:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +100,29 @@
                 <span class="time">2026-03-11 09:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-13-ht-gmh-260310_1773158692081_hpMain_4x3t_384.jpg" alt="Iran live updates: 140 US troops wounded so far, mostly minor injuries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: 140 US troops wounded so far, mostly minor injuries</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-11 09:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/11/icc-rejects-bias-claims-from-stranded-south-africa-west-indies-cricketers?traffic_source=rss" target="_blank">ICC rejects bias claims from stranded South Africa, West Indies cricketers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-11 09:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69b0c057f343539f6f92aa1f/master/pass/FORT-19-edited.png" alt="The Fort Strength Training Wearable Tracks Your Sets (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/fort-strength-training-wearable-launch/" target="_blank">The Fort Strength Training Wearable Tracks Your Sets (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-11 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/892358/iran-war-dubai-airport-travel-flight-cancel" target="_blank">How Trump’s war on Iran stranded a million fliers — and plunged the Gulf’s favorite playground into chaos</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-11 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/Half-Moebius-topology-illustration-IBM-500x500.png" alt="Quantum computing meets the Möbius molecule" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,24 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/story/the-wired-guide-to-chicago-for-business-travelers/" target="_blank">What to Do in Chicago If You’re Here for Business (2026)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-03-11 03:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/" target="_blank">Google brings Gemini in Chrome to India</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-11 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b0b00478980662668bc8c8/master/pass/Trump-Admin-Refuses-to-Say-Wont-Take-Further-Action-Against-Anthropic-Business-2265661562.jpg" alt="Trump Administration Won’t Rule Out Further Action Against Anthropic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/" target="_blank">Trump Administration Won’t Rule Out Further Action Against Anthropic</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-11 01:41</span>
             </div>
         </div>
 </div>
@@ -238,6 +238,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Chris-Pratt-Mercy-Poster-1280x853.jpg" alt="One of the Year’s Worst Sci-Fi Films (So Far) Is Coming Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/one-of-the-years-worst-sci-fi-films-so-far-is-coming-home-2000732142" target="_blank">One of the Year’s Worst Sci-Fi Films (So Far) Is Coming Home</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-11 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Minesweeper-Sweep-the-Strait.jpg?fit=1080%2C785&amp;quality=60&amp;ssl=1" alt="Minesweeper but it&#x27;s the Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/11/minesweeper-but-its-the-strait-of-hormuz.html" target="_blank">Minesweeper but it&#x27;s the Strait of Hormuz</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-11 11:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/highguard-sobel-1280x720.jpg" alt="Highguard Dev Who Deleted His Socials Following Toxic Abuse Is Back, Expressing Regrets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/highguard-developer-deleted-x-restored-account-2000677868" target="_blank">Highguard Dev Who Deleted His Socials Following Toxic Abuse Is Back, Expressing Regrets</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-11 11:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/future-police-woman-1280x957.jpg" alt="Do You Have What It Takes to Be ‘Future Chief of Police’ of Starbase, Texas?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -262,33 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/gas-prices-aaa-tax-holiday-iran-war-2000732093" target="_blank">Gas Tax Holiday Floated as Band-Aid for Skyrocketing Prices at the Pump</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-10 23:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/island.jpg?fit=1200%2C672&amp;quality=60&amp;ssl=1" alt="21 years on a remote island with no power grid, no building codes, and no regrets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/10/21-years-on-a-remote-island-with-no-power-grid-no-building-codes-and-no-regrets.html" target="_blank">21 years on a remote island with no power grid, no building codes, and no regrets</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-10 22:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/marathoncool-1280x720.jpg" alt="15 Tips To Check Out Before Starting Marathon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marathon-beginner-starting-tips-guide-help-lockbox-heat-best-loot-contracts-factions-2000677645" target="_blank">15 Tips To Check Out Before Starting Marathon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-10 22:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/star-trek-starfleet-academy-jonathan-frakes-1280x853.jpg" alt="‘Starfleet Academy’ Might Be the Last Time Jonathan Frakes Directs ‘Star Trek’—But Not If He Has Anything to Say About It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/starfleet-academy-jonathan-frakes-last-episode-star-trek-2000731997" target="_blank">‘Starfleet Academy’ Might Be the Last Time Jonathan Frakes Directs ‘Star Trek’—But Not If He Has Anything to Say About It</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-10 21:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 11:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 12:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
