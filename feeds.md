@@ -1,43 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-12 19:15:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-12 20:05:20 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 34 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, March 12, 2026 - 19:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, March 12, 2026 - 20:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -75,6 +66,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/12/nx-s1-5745970/suspect-in-attack-at-michigan-synagogue-is-dead-atf-offical-says" target="_blank">Suspect in attack at Michigan synagogue is dead, officials say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-12 18:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/03/12/nx-s1-5745970/suspect-in-attack-at-michigan-synagogue-is-dead-atf-offical-says" target="_blank">Suspect in attack at Michigan synagogue is dead, ATF official says</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-12 18:27</span>
@@ -96,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/12/nx-s1-5744667/wake-now-in-the-fire-book-review" target="_blank">This tale of a Chicago school book ban was inspired by true events</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-12 17:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60f9/live/b383d160-1e30-11f1-801d-ed3cff6bf876.jpg" alt="British man charged in Dubai for alleged filming of Iranian missiles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c743g4yn4k8o?at_medium=RSS&at_campaign=rss" target="_blank">British man charged in Dubai for alleged filming of Iranian missiles</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-12 16:52</span>
             </div>
         </div>
 </div>
@@ -227,9 +218,32 @@
         </div>
 </div>
 </div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/iphones-and-ipads-approved-for-nato-classified-data.html" target="_blank">iPhones and iPads Approved for NATO Classified Data</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-03-12 19:59</span>
+            </div>
+        </div>
+</div>
+</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JMYVKCC8N0627KVP2VQC6PKW/hero-image.png" alt="Apple AirTags Are Under $14 for the First Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-airtags-deal?utm_medium=RSS" target="_blank">Apple AirTags Are Under $14 for the First Time</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-12 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/j302z4oqoncf1-1280x720.jpg" alt="Netflix Finally Stops Beating Around The Bush And Confirms KPop Demon Hunters 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -249,6 +263,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Kash-Patel.jpg?fit=680%2C383&amp;quality=60&amp;ssl=1" alt="The FBI will now train with cage fighters in the latest Trump-era reality show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/12/the-fbi-will-now-train-with-cage-fighters-in-the-latest-trump-era-reality-show.html" target="_blank">The FBI will now train with cage fighters in the latest Trump-era reality show</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-12 18:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/brain.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Artificial intelligence is just underpaid human labor" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -264,24 +287,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/m5-macbook-pro-deal-march-2026?utm_medium=RSS" target="_blank">The 1TB M5 MacBook Pro Just Got Its Biggest Discount Ever</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-12 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKHB5HBXVYWRBD2V02KE9AAZ/hero-image.jpg" alt="Even Google Maps Has an AI Assistant Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/even-google-maps-has-an-ai-assistant-now?utm_medium=RSS" target="_blank">Even Google Maps Has an AI Assistant Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-12 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Noem-on-a-horse.-_24220m.-.jpg?fit=1080%2C842&amp;quality=60&amp;ssl=1" alt="Kristi Noem&#x27;s $220m vanity ads cost more than Hollywood blockbusters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/12/kristi-noems-220m-vanity-ads-cost-more-than-hollywood-blockbusters.html" target="_blank">Kristi Noem&#x27;s $220m vanity ads cost more than Hollywood blockbusters</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-12 15:18</span>
             </div>
         </div>
 </div>
@@ -321,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 19:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 20:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
