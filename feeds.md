@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-11 23:02:54 UTC -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-03-12 00:07:13 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, March 11, 2026 - 23:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, March 12, 2026 - 00:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/11/massive-fires-on-two-oil-tankers-after-attack-in-iraqi-waters?traffic_source=rss" target="_blank">Massive fires on two oil tankers after attack in Iraqi waters</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-11 23:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773269186349_nn_cku_us_responsible_iran_school_strike_260311_1920x1080-2xxntk.jpg" alt="U.S. likely responsible for strike on Iranian school" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/us-likely-responsible-for-strike-on-iranian-school-259157573510" target="_blank">U.S. likely responsible for strike on Iranian school</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-11 22:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +98,20 @@
                 <span class="time">2026-03-11 20:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260311-Shajareh-Tayyebeh-ch-1145-a5972f.jpg" alt="Outdated intel likely led to deadly U.S. strike on Iranian elementary school, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/iran/old-intelligence-likely-led-us-strike-iran-elementary-school-rcna262967" target="_blank">Outdated intel likely led to deadly U.S. strike on Iranian elementary school, sources say</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-11 20:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/11/nx-s1-5744855/fifa-world-cup-iran-team" target="_blank">Iran&#x27;s soccer team cannot participate in the FIFA World Cup, Iranian minister says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-11 19:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/" target="_blank">AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-11 23:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2216099156-500x500.jpg" alt="Report: RFK Jr.’s anti-vaccine agenda curbed as GOP realizes it&#x27;s unpopular" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -110,6 +119,15 @@
                 <span class="title"><a href="https://arstechnica.com/health/2026/03/report-trump-admin-trying-to-rein-in-rfk-jr-s-unpopular-anti-vaccine-agenda/" target="_blank">Report: RFK Jr.’s anti-vaccine agenda curbed as GOP realizes it&#x27;s unpopular</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-03-11 22:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b06741afd392d14ab2c8ea/master/pass/science_measles_GettyImages-2259641016.jpg" alt="The South Carolina Measles Outbreak Is Slowing Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-south-carolina-measles-outbreak-is-slowing-down/" target="_blank">The South Carolina Measles Outbreak Is Slowing Down</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-11 22:12</span>
             </div>
         </div>
 <div class="story">
@@ -139,29 +157,20 @@
                 <span class="time">2026-03-11 20:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/893272/live-nation-ticketmaster-doj-settlement-states" target="_blank">The Live Nation settlement has industry insiders baffled</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-11 19:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/" target="_blank">Replit snags $9B valuation 6 months after hitting $3B</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-11 18:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/brian_kim_193a06896baee81/how-to-list-all-google-voice-users-and-numbers-with-gam-4n87" target="_blank">How to List All Google Voice Users and Numbers with GAM</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-11 23:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +216,6 @@
                 <span class="time">2026-03-11 21:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2a2cb0oc1ff4x5jzfd5f.png" alt="MiniScript Roadmap Update (March 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/joestrout/miniscript-roadmap-update-march-2026-41a4" target="_blank">MiniScript Roadmap Update (March 2026)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-11 20:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -253,6 +253,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/04/pexels-photo-12585534.jpeg?fit=1880%2C1252&amp;quality=60&amp;ssl=1" alt="The creator of Wordle has a new game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/11/the-creator-of-wordle-has-a-new-game.html" target="_blank">The creator of Wordle has a new game</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-11 23:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/GettyImages-2264994719-1280x853.jpg" alt="Iran Includes American Tech Giants on List of New Targets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -298,15 +307,6 @@
                 <span class="time">2026-03-11 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKF2HS2871XXPZRMAYHFMPXT/hero-image.png" alt="These Smart Glasses Can Be Used As a Private HD Screen, and They’re $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/rayneo-air-4-pro-deal-march-2026?utm_medium=RSS" target="_blank">These Smart Glasses Can Be Used As a Private HD Screen, and They’re $50 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-11 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -344,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 23:03 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 00:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
