@@ -1,41 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-12 09:12:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-12 10:11:09 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, March 12, 2026 - 09:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, March 12, 2026 - 10:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/IRAN-CRISIS-IRAQTANKERS_1773285203167_hpMain_2_4x3t_384.jpg" alt="Iran live updates: 3 more ships set afire by &#x27;unknown&#x27; projectiles in Persian Gulf" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: 3 more ships set afire by &#x27;unknown&#x27; projectiles in Persian Gulf</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-12 10:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3c8/live/49ff69d0-1df3-11f1-9120-a910fc22c6ac.jpg" alt="Minister defends PM&#x27;s handling of Mandelson appointment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c875nzlv7ddo?at_medium=RSS&at_campaign=rss" target="_blank">Minister defends PM&#x27;s handling of Mandelson appointment</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-12 09:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,24 +94,6 @@
                 <span class="title"><a href="https://www.theguardian.com/global-development/2026/mar/12/invasive-ai-led-mass-surveillance-in-africa-violating-freedoms-warn-experts" target="_blank">‘Invasive’ AI-led mass surveillance in Africa violating freedoms, warn experts</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-03-12 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/12/g-s1-113393/bam-adebayo-83-point-not-everyone-pleased" target="_blank">Bam Adebayo&#x27;s 83-point night was one to remember. But not everyone was pleased</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-12 05:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/12/chinas-key-npc-meeting-comes-to-a-close-as-lower-growth-target-set?traffic_source=rss" target="_blank">China’s key NPC meeting comes to a close as lower growth target set</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-12 04:50</span>
             </div>
         </div>
 </div>
@@ -170,12 +161,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/adityamitra5102/the-passkey-problem-why-doesnt-the-watchman-give-me-my-own-home-keys-1413" target="_blank">The Passkey Problem - Why Doesn’t the Watchman Give Me My Own Home Keys?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-12 10:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2xvwcn9tqbrckj8rn0qa.png" alt="Pi-hole behind Tailscale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nfrankel/pi-hole-behind-tailscale-2ang" target="_blank">Pi-hole behind Tailscale</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-12 09:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.oliver-charles.com/pages/3d-knitting" target="_blank">3D-Knitting: The Ultimate Guide</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-12 08:27</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/custodiaadmin/cursor-automations-are-here-heres-how-to-add-visual-proof-to-your-always-on-agents-2fdj" target="_blank">Cursor Automations Are Here. Here&#x27;s How to Add Visual Proof to Your Always-On Agents.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-12 03:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-february-2026/" target="_blank">GitHub availability report: February 2026</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-03-12 03:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/smart-window-firefox-button.webp?resize=406%2C232&amp;ssl=1" alt="I tried Firefox’s new AI ‘Smart Window’ in a beta build" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/firefox-smart-window-hands-on" target="_blank">I tried Firefox’s new AI ‘Smart Window’ in a beta build</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-12 03:23</span>
             </div>
         </div>
 </div>
@@ -342,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 157 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 09:12 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 156 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 10:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
