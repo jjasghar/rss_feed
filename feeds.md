@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-12 14:15:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-12 15:15:22 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, March 12, 2026 - 14:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, March 12, 2026 - 15:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -83,21 +81,21 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/International/IRAN-CRISIS-IRAQTANKERS_1773285203167_hpMain_2_4x3t_384.jpg" alt="Iran live updates: 3 more ships set afire in Persian Gulf" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: 3 more ships set afire in Persian Gulf</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-12 11:21</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/mar/12/uk-government-axes-flagship-global-health-project" target="_blank">UK government axes flagship global health project</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-12 12:59</span>
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-iran-minab-school-strike_7189376.jpg?20260311201652" alt="What we know about the deadly Iran school strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/12/g-s1-113410/up-first-newsletter-iran-war-gas-prices-trump-immigrants-commerical-license-doge-social-security-data" target="_blank">U.S. investigates strike on Iranian school as the war sparks a global oil crisis</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-12 11:04</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/what-we-know-about-the-deadly-iran-school-strike-13518642" target="_blank">What we know about the deadly Iran school strike</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-12 12:21</span>
             </div>
         </div>
 </div>
@@ -105,6 +103,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/893766/wordpress-browser-website-creator" target="_blank">WordPress launches an in-browser website creator</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-12 15:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +157,20 @@
                 <span class="time">2026-03-12 12:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b1db7c9fd417e67bc5b5ca/master/pass/Google-Launches-Gemini-Powered-Ask-Maps-in-Google-Maps-Gear-2262145010.jpg" alt="Google Maps Gets Chatty With a New Gemini-Powered Interface" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/" target="_blank">Google Maps Gets Chatty With a New Gemini-Powered Interface</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-12 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cristiantalasanchez/how-i-reverse-engineered-the-skool-api-and-ended-up-publishing-a-chrome-extension-1m9i" target="_blank">How I Reverse Engineered the Skool API (And Ended Up Publishing a Chrome Extension)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-12 15:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +216,6 @@
                 <span class="time">2026-03-12 13:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18898661&w=600" alt="Cost Control in AI Systems Is an Architectural Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/cost-control-ai-architecture" target="_blank">Cost Control in AI Systems Is an Architectural Problem</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-12 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Meta-Ray-Ban-Display-review-22-1280x853.jpg" alt="Meta Hopes Mini Games Will Make You Forget Its Smart Glasses Are Recording You Naked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/meta-hopes-mini-games-will-make-you-forget-its-smart-glasses-are-recording-you-naked-2000732798" target="_blank">Meta Hopes Mini Games Will Make You Forget Its Smart Glasses Are Recording You Naked</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-12 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2007209882-scaled.jpg?fit=2560%2C1588&amp;quality=60&amp;ssl=1" alt="Meow! Britain imports America&#x27;s &quot;kids using litterboxes in school&quot; hoax" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/12/meow-britain-imports-americas-kids-using-litterboxes-in-school-folk-panic.html" target="_blank">Meow! Britain imports America&#x27;s &quot;kids using litterboxes in school&quot; hoax</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-12 14:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KKF1SVY5JCEN9MMQFNASS5RS/hero-image.jpg" alt="I Went to &#x27;The Inspired Home Show&#x27; As a New Homeowner, and It Forever Changed How I&#x27;ll Shop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +287,6 @@
                 <span class="title"><a href="https://kotaku.com/overwatch-legend-california-jeff-kaplan-steam-2000678096" target="_blank">Overwatch Director Reveals His Next Game And It Looks Like Red Dead Redemption 2 Meets Rust</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-12 06:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/teens-phone-ai-1280x853.jpg" alt="AI Chatbots Are Giving Teens Absolutely Terrible Diet Advice, Study Warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ai-chatbots-are-giving-teens-absolutely-terrible-diet-advice-study-warns-2000732494" target="_blank">AI Chatbots Are Giving Teens Absolutely Terrible Diet Advice, Study Warns</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-12 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Shishir-Mehrotra-CEO-of-Grammarly-1280x853.jpg" alt="Grammarly Allegedly ‘Misappropriated’ Names of Journalists, Says Class Action Suit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/grammarly-allegedly-misappropriated-names-of-journalists-says-class-action-suit-2000732687" target="_blank">Grammarly Allegedly ‘Misappropriated’ Names of Journalists, Says Class Action Suit</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-12 01:18</span>
             </div>
         </div>
 </div>
@@ -328,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 14:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 15:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
