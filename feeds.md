@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-03-12 01:30:39 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-12 02:54:31 UTC -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, March 12, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, March 12, 2026 - 02:54 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/lebanon_1773279343306_hpMain_4x3t_384.jpg" alt="Strikes between Israel and Hezbollah ramp up as evacuation notice issued for Beirut" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/strikes-israel-hezbollah-ramp-evacuation-notice-issued-beirut/story?id=130981948" target="_blank">Strikes between Israel and Hezbollah ramp up as evacuation notice issued for Beirut</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-12 02:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -60,6 +66,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/11/massive-fires-on-two-oil-tankers-after-attack-in-iraqi-waters?traffic_source=rss" target="_blank">Massive fires on two oil tankers after attack in Iraqi waters</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-11 23:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773279303780_nn_gha_hormuz_attacks_trump_to_tap_petroleum_reserves_260311_1920x1080-fkir2l.jpg" alt="Trump to tap strategic oil reserve to bring down gas prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-to-tap-strategic-oil-reserve-to-bring-down-gas-prices-259156037710" target="_blank">Trump to tap strategic oil reserve to bring down gas prices</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-11 23:08</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +95,20 @@
                 <span class="time">2026-03-11 22:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/11/nx-s1-5742420/rebecca-gayheart-dane-eric-dane" target="_blank">Rebecca Gayheart Dane on caring for her late husband, Eric Dane, and synthetic voices</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-11 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/11/un-security-council-adopts-gulf-countries-draft-resolution-2?traffic_source=rss" target="_blank">UN Security Council adopts Gulf countries’ draft resolution</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-11 21:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/690d30c5fc40524223ebe1f4/master/pass/CITY%20GUIDE%20Dumbo.png" alt="What to Do in Dumbo If You’re Here for Business (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-wired-guide-to-dumbo-for-business-travelers/" target="_blank">What to Do in Dumbo If You’re Here for Business (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-12 01:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +152,6 @@
                 <span class="title"><a href="https://www.wired.com/story/the-south-carolina-measles-outbreak-is-slowing-down/" target="_blank">The South Carolina Measles Outbreak Is Slowing Down</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-03-11 22:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/" target="_blank">Netflix may have paid $600 million for Ben Affleck’s AI startup</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-11 22:00</span>
             </div>
         </div>
 </div>
@@ -336,7 +333,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 01:30 UTC
+        🔄 Last Updated: 02:54 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
