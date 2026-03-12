@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-12 15:15:22 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-12 16:19:08 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, March 12, 2026 - 15:15 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, March 12, 2026 - 16:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +112,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams" target="_blank">Anthropic&amp;#8217;s Claude AI can respond with charts, diagrams, and other visuals now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-12 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/" target="_blank">Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-12 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/893766/wordpress-browser-website-creator" target="_blank">WordPress launches an in-browser website creator</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-12 15:15</span>
@@ -139,29 +162,38 @@
                 <span class="time">2026-03-12 13:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/" target="_blank">Google is using old news reports and AI to predict flash floods</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-12 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/01-Honda-0-Saloon-Honda-0-SUV-copy-500x500.jpg" alt="Facing heavy losses, Honda cancels its three US-made electric vehicles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/03/facing-heavy-losses-honda-cancels-its-three-us-made-electric-vehicles/" target="_blank">Facing heavy losses, Honda cancels its three US-made electric vehicles</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-12 12:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18888915&w=600" alt="The Global Race to Govern AI Agents Has Begun" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/global-race-govern-ai-agents" target="_blank">The Global Race to Govern AI Agents Has Begun</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-12 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/" target="_blank">Continuous AI for accessibility: How GitHub transforms feedback into inclusion</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-03-12 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-panther-lake-mitigations" target="_blank">Intel CPU Security Mitigation Costs From Haswell Through Panther Lake</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-12 15:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,33 +221,6 @@
                 <span class="time">2026-03-12 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Optical-Compute-Interconnect" target="_blank">AMD, NVIDIA, OpenAI &amp; Others Form An Optical Scale-up Consortium</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-12 13:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cloudwiseteam/the-silent-33month-charge-understanding-aws-nat-gateway-costs-19c3" target="_blank">The Silent $33/Month Charge: Understanding AWS NAT Gateway Costs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-12 13:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/RADV-KHR_copy_memory_indirect" target="_blank">Radeon &quot;RADV&quot; Vulkan Driver Finally Lands VK_KHR_copy_memory_indirect</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-12 13:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKHB5HBXVYWRBD2V02KE9AAZ/hero-image.jpg" alt="Even Google Maps Has an AI Assistant Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/even-google-maps-has-an-ai-assistant-now?utm_medium=RSS" target="_blank">Even Google Maps Has an AI Assistant Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-12 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Noem-on-a-horse.-_24220m.-.jpg?fit=1080%2C842&amp;quality=60&amp;ssl=1" alt="Kristi Noem&#x27;s $220m vanity ads cost more than Hollywood blockbusters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/12/kristi-noems-220m-vanity-ads-cost-more-than-hollywood-blockbusters.html" target="_blank">Kristi Noem&#x27;s $220m vanity ads cost more than Hollywood blockbusters</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-12 15:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Meta-Ray-Ban-Display-review-22-1280x853.jpg" alt="Meta Hopes Mini Games Will Make You Forget Its Smart Glasses Are Recording You Naked" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,29 +294,20 @@
                 <span class="time">2026-03-12 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/kids-watching-tablet-1280x915.jpg" alt="Google Invests $1 Million in Company That Makes AI YouTube Videos for Kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/google-invests-1-million-in-company-that-makes-ai-youtube-videos-for-kids-2000732685" target="_blank">Google Invests $1 Million in Company That Makes AI YouTube Videos for Kids</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-12 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/red.jpg" alt="Overwatch Director Reveals His Next Game And It Looks Like Red Dead Redemption 2 Meets Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/overwatch-legend-california-jeff-kaplan-steam-2000678096" target="_blank">Overwatch Director Reveals His Next Game And It Looks Like Red Dead Redemption 2 Meets Rust</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-12 06:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1773265059-20260312.png" alt="Saturday Morning Breakfast Cereal - Sci fi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/sci-fi" target="_blank">Saturday Morning Breakfast Cereal - Sci fi</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-12 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5784.png" alt="The Shape Of You" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -312,22 +326,13 @@
                 <span class="time">2026-03-11 22:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1773007729-20260311.png" alt="Saturday Morning Breakfast Cereal - Holy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/holy-2" target="_blank">Saturday Morning Breakfast Cereal - Holy</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-03-11 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 15:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 16:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
