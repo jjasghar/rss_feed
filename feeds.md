@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-03-12 11:09:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-12 12:04:16 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, March 12, 2026 - 11:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, March 12, 2026 - 12:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +40,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/IRAN-CRISIS-IRAQTANKERS_1773285203167_hpMain_2_4x3t_384.jpg" alt="Iran live updates: 3 more ships set afire in Persian Gulf" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: 3 more ships set afire in Persian Gulf</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-12 11:21</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/03/12/g-s1-113410/up-first-newsletter-iran-war-gas-prices-trump-immigrants-commerical-license-doge-social-security-data" target="_blank">U.S. investigates strike on Iranian school as the war sparks a global oil crisis</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-12 11:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d6/live/f2533390-1dae-11f1-9b9f-e70729f325ca.jpg" alt="&#x27;Fingers on the trigger&#x27;: Deadly warnings for Iranians being urged to take action" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y5rldz897o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Fingers on the trigger&#x27;: Deadly warnings for Iranians being urged to take action</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-12 10:07</span>
             </div>
         </div>
 <div class="story">
@@ -84,29 +93,29 @@
                 <span class="time">2026-03-12 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/2026-03-12T024455Z_1_LOV319311032026RP1_RTRMADV_STREAM-2000-16X9-MP4_IRAN-CRISIS-IRAQ-TANKERS.MP4.00_01_24_12.Still001-idqboy.jpg" alt="Two oil tankers catch fire after Iranian attacks in Iraqi waters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/two-oil-tankers-catch-fire-after-iranian-attacks-in-iraqi-waters-259181125604" target="_blank">Two oil tankers catch fire after Iranian attacks in Iraqi waters</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-12 08:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/project-force-2/2026/3/12/in-the-us-israeli-war-on-iran-who-will-run-out-of-missiles-first?traffic_source=rss" target="_blank">In the US-Israeli war on Iran, who will run out of missiles first?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-12 07:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/12/group14-opens-factory-to-produce-battery-materials-for-flash-charging-evs/" target="_blank">Group14 opens factory to produce battery materials for flash charging EVs</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-12 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/hero-500x500.jpg" alt="Remembering the 30-year-old computer game that introduced me to Star Wars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/03/30-years-later-star-wars-shadows-of-the-empire-is-a-relic-of-a-lost-era/" target="_blank">Remembering the 30-year-old computer game that introduced me to Star Wars</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-12 11:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/Buddy-fly-500x500.jpg" alt="How I streamed my off-road Miata race using Starlink and StarStream" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,24 +150,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/03/11/bci-startup-gestala-raises-21-million-for-non-invasive-ultrasound-brain-tech/" target="_blank">Chinese brain interface startup Gestala raises $21M just two months after launch</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-12 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690d30c5fc40524223ebe1f4/master/pass/CITY%20GUIDE%20Dumbo.png" alt="What to Do in Dumbo If You’re Here for Business (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-wired-guide-to-dumbo-for-business-travelers/" target="_blank">What to Do in Dumbo If You’re Here for Business (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-12 01:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/" target="_blank">AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-11 23:35</span>
             </div>
         </div>
 </div>
@@ -240,6 +231,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/dungeons-and-dragons-paladin-divine-smite-1280x853.jpg" alt="Hasbro’s CEO Says ‘Magic: The Gathering’ and ‘Dungeons &amp; Dragons’ Will Never Use Generative AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/wizards-of-the-coast-dnd-magic-no-ai-2000732646" target="_blank">Hasbro’s CEO Says ‘Magic: The Gathering’ and ‘Dungeons &amp; Dragons’ Will Never Use Generative AI</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-12 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/kids-watching-tablet-1280x915.jpg" alt="Google Invests $1 Million in Company That Makes AI YouTube Videos for Kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -284,15 +284,6 @@
                 <span class="time">2026-03-11 23:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/cced90a5244a804ab7fce7f4177b0509-1280x720.jpg" alt="Nintendo Reveals The Secrets To Donkey Kong Bananza‘s Super Satisfying Destruction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/donkey-kong-bananza-nintendo-gdc-2026-2000678021" target="_blank">Nintendo Reveals The Secrets To Donkey Kong Bananza‘s Super Satisfying Destruction</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-11 23:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 11:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 12:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
