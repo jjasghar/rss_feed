@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-12 22:03:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-12 23:03:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, March 12, 2026 - 22:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, March 12, 2026 - 23:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/data-wiper-malware-500x500.jpg" alt="The who, what, and why of the attack that has shut down Stryker&#x27;s Windows network&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/" target="_blank">The who, what, and why of the attack that has shut down Stryker&#x27;s Windows network&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-12 22:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/live-nation-500x500-1773346298.jpg" alt="Live Nation director boasted of gouging ticket buyers, &quot;robbing them blind&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -150,20 +157,29 @@
                 <span class="time">2026-03-12 18:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/CUV_HARNESS-500x500.jpg" alt="Lucid announces midsize EV platform, says profitability lies with SUVs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/03/lucid-announces-midsize-ev-platform-says-profitability-lies-with-suvs/" target="_blank">Lucid announces midsize EV platform, says profitability lies with SUVs</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-12 17:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/moemenali/ai-tools-every-software-engineer-has-to-try-in-2026-1fkc" target="_blank">AI Tools Every Software Engineer Has to Try in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-12 22:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-More-cpupower" target="_blank">Linux 7.0 cpupower Now Handles systemd Service Setting EPP, Intel P-State Turbo Boost</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-12 21:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +216,6 @@
                 <span class="time">2026-03-12 17:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/systemd-260-rc3" target="_blank">systemd 260-rc3 Released With AI Agents Documentation Added</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-12 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18888915&w=600" alt="The Global Race to Govern AI Agents Has Begun" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/global-race-govern-ai-agents" target="_blank">The Global Race to Govern AI Agents Has Begun</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-12 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/large-1-1280x720.jpg" alt="Ghost Of Yotei’s New Free Online Mode Is So Good I’d Pay Money For It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ghost-of-yoteis-new-free-multiplayer-legends-mode-how-unlock-review-ps5-2000678464" target="_blank">Ghost Of Yotei’s New Free Online Mode Is So Good I’d Pay Money For It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-12 22:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKF8VKQETXRM4HFJJ7P2ASJ1/hero-image.jpg" alt="10 Hacks Every Peloton Rider Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/best-peloton-hacks?utm_medium=RSS" target="_blank">10 Hacks Every Peloton Rider Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-12 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/target-avatar-tshirt-1280x853.jpg" alt="We Accidentally Just Got Our First Look at the Grown-Up Heroes of the ‘Last Airbender’ Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +289,6 @@
                 <span class="time">2026-03-12 19:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JMYVKCC8N0627KVP2VQC6PKW/hero-image.png" alt="Apple AirTags Are Under $14 for the First Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-airtags-deal?utm_medium=RSS" target="_blank">Apple AirTags Are Under $14 for the First Time</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-12 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/j302z4oqoncf1-1280x720.jpg" alt="Netflix Finally Stops Beating Around The Bush And Confirms KPop Demon Hunters 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kpop-demon-hunters-2-sequel-streaming-netflix-maggie-kang-2000678434" target="_blank">Netflix Finally Stops Beating Around The Bush And Confirms KPop Demon Hunters 2</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-12 19:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,22 +312,13 @@
                 <span class="time">2026-03-12 00:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/11/fire-in-the-hole" target="_blank">Fire In The Hole</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-03-11 22:25</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 22:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 23:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
