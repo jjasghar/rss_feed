@@ -1,34 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-03-12 20:05:20 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-12 21:06:35 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, March 12, 2026 - 20:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, March 12, 2026 - 21:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Temple-Israel-11-gty-gmh-260312_1773342019971_hpMain_4x3t_384.jpg" alt="Suspect dead after ramming truck into Detroit-area synagogue: Sheriff" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/active-shooter-reported-synagogue-west-bloomfield-michigan-sheriff/story?id=131007066" target="_blank">Suspect dead after ramming truck into Detroit-area synagogue: Sheriff</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-12 20:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0728/live/24bf66b0-1e26-11f1-8cc8-6d61f147f0ba.jpg" alt="Iran&#x27;s new supreme leader vows to block Strait of Hormuz in first statement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdxg599655vo?at_medium=RSS&at_campaign=rss" target="_blank">Iran&#x27;s new supreme leader vows to block Strait of Hormuz in first statement</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-12 20:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7ce/live/f5f58a60-1e2c-11f1-a76e-b1f08d59c0bf.jpg" alt="UK troops at Iraq base shot down Iranian drones, Healey says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0e531gve7do?at_medium=RSS&at_campaign=rss" target="_blank">UK troops at Iraq base shot down Iranian drones, Healey says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-12 20:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +106,20 @@
                 <span class="time">2026-03-12 18:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/12/nx-s1-5745970/suspect-in-attack-at-michigan-synagogue-is-dead-atf-offical-says" target="_blank">Suspect in attack at Michigan synagogue is dead, ATF official says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-12 18:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/12/fbi-reports-active-shooter-situation-at-detroit-area-synagogue-in-the-us?traffic_source=rss" target="_blank">FBI reports ‘active shooter situation’ at Detroit-area synagogue in the US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-12 18:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/12/nx-s1-5744667/wake-now-in-the-fire-book-review" target="_blank">This tale of a Chicago school book ban was inspired by true events</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-12 17:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/live-nation-500x500-1773346298.jpg" alt="Live Nation director boasted of gouging ticket buyers, &quot;robbing them blind&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/live-nation-director-boasted-of-gouging-ticket-buyers-robbing-them-blind/" target="_blank">Live Nation director boasted of gouging ticket buyers, &quot;robbing them blind&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-12 20:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +165,20 @@
                 <span class="time">2026-03-12 17:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/bundle-b-with-mask-500x500.jpg" alt="Centuries before the Inca, Peru&#x27;s wealthy imported parrots from afar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/03/centuries-before-the-inca-perus-wealthy-imported-parrots-from-afar/" target="_blank">Centuries before the Inca, Peru&#x27;s wealthy imported parrots from afar</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-12 16:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Google-Chrome-ARM64-Linux-Q2" target="_blank">Google To Finally Provide Chrome ARM64 Binaries For Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-12 20:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18912993&w=600" alt="Google Cloud AI Agents With Gemini 3: Building Multi-Agent Systems That Actually Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +224,6 @@
                 <span class="time">2026-03-12 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/" target="_blank">Continuous AI for accessibility: How GitHub transforms feedback into inclusion</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-03-12 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2021/06/c068c8c625872da19553e15cd4081085-1280x720.jpg" alt="Which Cowardly Game Company Will Be The First To Stand Up To Trump?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/white-house-video-wii-sports-iran-israel-nintendo-lawsuit-2000678455" target="_blank">Which Cowardly Game Company Will Be The First To Stand Up To Trump?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-12 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/Pam-Bondi-e1768500225995.jpeg?fit=768%2C494&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s DOJ dismantles hate-crime prevention office and pretends nothing happened" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/12/trumps-doj-dismantles-hate-crime-prevention-office-and-pretends-nothing-happened.html" target="_blank">Trump&#x27;s DOJ dismantles hate-crime prevention office and pretends nothing happened</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-12 19:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JMYVKCC8N0627KVP2VQC6PKW/hero-image.png" alt="Apple AirTags Are Under $14 for the First Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +295,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/12/the-fbi-will-now-train-with-cage-fighters-in-the-latest-trump-era-reality-show.html" target="_blank">The FBI will now train with cage fighters in the latest Trump-era reality show</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-12 18:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/brain.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Artificial intelligence is just underpaid human labor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/12/artificial-intelligence-is-just-underpaid-human-labor.html" target="_blank">Artificial intelligence is just underpaid human labor</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-12 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KC4THEKR9K42WFGR8JS0VNX7/hero-image.png" alt="The 1TB M5 MacBook Pro Just Got Its Biggest Discount Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/m5-macbook-pro-deal-march-2026?utm_medium=RSS" target="_blank">The 1TB M5 MacBook Pro Just Got Its Biggest Discount Ever</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-12 17:00</span>
             </div>
         </div>
 </div>
@@ -326,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 20:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 21:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
