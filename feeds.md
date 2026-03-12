@@ -1,34 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-03-12 18:12:31 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-12 19:15:24 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Generated 12 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, March 12, 2026 - 18:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, March 12, 2026 - 19:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +53,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/12/icc-prosecutor-opens-probe-into-belarus-over-deportations-to-lithuania?traffic_source=rss" target="_blank">ICC prosecutor opens probe into Belarus over deportations to Lithuania</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-12 18:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Suspect dead after attack on Michigan synagogue, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Suspect dead after attack on Michigan synagogue, sources say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-12 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/12/nx-s1-5745970/suspect-in-attack-at-michigan-synagogue-is-dead-atf-offical-says" target="_blank">Suspect in attack at Michigan synagogue is dead, ATF official says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-12 18:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +107,38 @@
                 <span class="time">2026-03-12 16:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/12/irans-president-sets-terms-to-end-the-war-is-an-off-ramp-in-sight?traffic_source=rss" target="_blank">Iran’s president sets terms to end the war: Is an off-ramp in sight?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-12 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-oil-basra-iraq_7189998.jpg?20260312120124" alt="Midget subs and kamikaze drone boats - how Iran blocks the Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/midget-subs-and-kamikaze-drone-boats-how-iran-blocks-the-strait-of-hormuz-13518700" target="_blank">Midget subs and kamikaze drone boats - how Iran blocks the Strait of Hormuz</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-12 14:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/motjaba-main_1773319659513_hpMain_4x3t_384.jpg" alt="Iran live updates: 1st purported message from new supreme leader read on state TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: 1st purported message from new supreme leader read on state TV</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-12 13:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/893930/social-media-addiction-trial-los-angeles-zuckerberg-instagram-youtube" target="_blank">What it was like to watch grieving parents stare down Mark Zuckerberg in court</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-12 18:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1258714131-500x500.jpg" alt="Trump&#x27;s DOJ is not falling for Sam Bankman-Fried&#x27;s MAGA makeover on X" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/trumps-doj-is-not-falling-for-sam-bankman-frieds-maga-makeover-on-x/" target="_blank">Trump&#x27;s DOJ is not falling for Sam Bankman-Fried&#x27;s MAGA makeover on X</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-12 18:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/12/substack-launches-a-built-in-recording-studio/" target="_blank">Substack launches a built-in recording studio</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-12 18:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/CUV_HARNESS-500x500.jpg" alt="Lucid announces midsize EV platform, says profitability lies with SUVs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,38 +166,20 @@
                 <span class="time">2026-03-12 16:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b2024c98dd43374a26f887/master/pass/What-is-Handala-Security.jpg" alt="How ‘Handala’ Became the Face of Iran’s Hacker Counterattacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/handala-hacker-group-iran-us-israel-war/" target="_blank">How ‘Handala’ Became the Face of Iran’s Hacker Counterattacks</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-12 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams" target="_blank">Anthropic&amp;#8217;s Claude AI can respond with charts, diagrams, and other visuals now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-12 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/" target="_blank">Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-12 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18912993&w=600" alt="Google Cloud AI Agents With Gemini 3: Building Multi-Agent Systems That Actually Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/google-cloud-ai-agents-gemini-3" target="_blank">Google Cloud AI Agents With Gemini 3: Building Multi-Agent Systems That Actually Work</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-12 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18912989&w=600" alt="Beyond the Heartbeat: Monitoring Agentic Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,20 +225,29 @@
                 <span class="time">2026-03-12 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-panther-lake-mitigations" target="_blank">Intel CPU Security Mitigation Costs From Haswell Through Panther Lake</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-12 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/j302z4oqoncf1-1280x720.jpg" alt="Netflix Finally Stops Beating Around The Bush And Confirms KPop Demon Hunters 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kpop-demon-hunters-2-sequel-streaming-netflix-maggie-kang-2000678434" target="_blank">Netflix Finally Stops Beating Around The Bush And Confirms KPop Demon Hunters 2</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-12 19:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/shutterstock_1514808599-1280x854.jpg" alt="Amazon Employees Say AI Is Just Increasing Workload. A New Study Confirms Their Suspicions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794" target="_blank">Amazon Employees Say AI Is Just Increasing Workload. A New Study Confirms Their Suspicions</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-12 18:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/brain.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Artificial intelligence is just underpaid human labor" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -255,24 +282,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/12/kristi-noems-220m-vanity-ads-cost-more-than-hollywood-blockbusters.html" target="_blank">Kristi Noem&#x27;s $220m vanity ads cost more than Hollywood blockbusters</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-12 15:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Meta-Ray-Ban-Display-review-22-1280x853.jpg" alt="Meta Hopes Mini Games Will Make You Forget Its Smart Glasses Are Recording You Naked" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/meta-hopes-mini-games-will-make-you-forget-its-smart-glasses-are-recording-you-naked-2000732798" target="_blank">Meta Hopes Mini Games Will Make You Forget Its Smart Glasses Are Recording You Naked</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-12 15:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2007209882-scaled.jpg?fit=2560%2C1588&amp;quality=60&amp;ssl=1" alt="Meow! Britain imports America&#x27;s &quot;kids using litterboxes in school&quot; hoax" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/12/meow-britain-imports-americas-kids-using-litterboxes-in-school-folk-panic.html" target="_blank">Meow! Britain imports America&#x27;s &quot;kids using litterboxes in school&quot; hoax</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-12 14:34</span>
             </div>
         </div>
 </div>
@@ -312,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 18:12 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 19:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
