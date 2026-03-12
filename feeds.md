@@ -1,29 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-12 12:04:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-12 13:24:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, March 12, 2026 - 12:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, March 12, 2026 - 13:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/12/al-jazeera-reporter-sees-destruction-in-tehran-neighbourhood?traffic_source=rss" target="_blank">Al Jazeera reporter sees destruction in Tehran neighbourhood</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-12 13:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/motjaba-main_1773319659513_hpMain_4x3t_384.jpg" alt="Iran live updates: New supreme leader to issue 1st message, state media says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: New supreme leader to issue 1st message, state media says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-12 13:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/IRAN-CRISIS-IRAQTANKERS_1773285203167_hpMain_2_4x3t_384.jpg" alt="Iran live updates: 3 more ships set afire in Persian Gulf" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,29 +101,38 @@
                 <span class="time">2026-03-12 10:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3c8/live/49ff69d0-1df3-11f1-9120-a910fc22c6ac.jpg" alt="Minister defends PM&#x27;s handling of Mandelson appointment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c875nzlv7ddo?at_medium=RSS&at_campaign=rss" target="_blank">Minister defends PM&#x27;s handling of Mandelson appointment</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-12 09:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/12/nx-s1-5744781/trump-iran-michigan-focus-group" target="_blank">Trump&#x27;s war with Iran is angering some swing voters who want money spent at home</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-12 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/893594/microsoft-copilot-health-launch" target="_blank">Microsoft’s Copilot Health can connect to your medical records and wearables</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-12 13:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/" target="_blank">Google is using old news reports and AI to predict flash floods</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-12 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b1db7c9fd417e67bc5b5ca/master/pass/Google-Launches-Gemini-Powered-Ask-Maps-in-Google-Maps-Gear-2262145010.jpg" alt="Google Maps Gets Chatty With a New Gemini-Powered Interface" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/" target="_blank">Google Maps Gets Chatty With a New Gemini-Powered Interface</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-12 12:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -125,38 +160,47 @@
                 <span class="time">2026-03-12 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b1e789c1d39e1385474b99/master/pass/macbook-pro-2026-top.JPG" alt="Apple MacBook Pro Review (M5 Max, 16-inch): The Fastest MacBook Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/macbook-pro-16-inch-m5-max/" target="_blank">Apple MacBook Pro Review (M5 Max, 16-inch): The Fastest MacBook Yet</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-12 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" alt="Booking.com Promo Codes and Deals: Up to 20% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/booking-com-promo-code/" target="_blank">Booking.com Promo Codes and Deals: Up to 20% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-12 05:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/11/bci-startup-gestala-raises-21-million-for-non-invasive-ultrasound-brain-tech/" target="_blank">Chinese brain interface startup Gestala raises $21M just two months after launch</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-12 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cloudwiseteam/the-silent-33month-charge-understanding-aws-nat-gateway-costs-19c3" target="_blank">The Silent $33/Month Charge: Understanding AWS NAT Gateway Costs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-12 13:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RADV-KHR_copy_memory_indirect" target="_blank">Radeon &quot;RADV&quot; Vulkan Driver Finally Lands VK_KHR_copy_memory_indirect</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-12 13:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18898661&w=600" alt="Cost Control in AI Systems Is an Architectural Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/cost-control-ai-architecture" target="_blank">Cost Control in AI Systems Is an Architectural Problem</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-12 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/architect-certification-program/en/headerimage/online-architecture-cohort-1773313768892.jpg" alt="Advance Your Socio-Technical Architecture Skills with InfoQ’s New Online Cohorts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/architect-certification-program/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Advance Your Socio-Technical Architecture Skills with InfoQ’s New Online Cohorts</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-12 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -173,42 +217,6 @@
                 <span class="title"><a href="https://dev.to/adityamitra5102/the-passkey-problem-why-doesnt-the-watchman-give-me-my-own-home-keys-1413" target="_blank">The Passkey Problem - Why Doesn’t the Watchman Give Me My Own Home Keys?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-12 10:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2xvwcn9tqbrckj8rn0qa.png" alt="Pi-hole behind Tailscale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nfrankel/pi-hole-behind-tailscale-2ang" target="_blank">Pi-hole behind Tailscale</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-12 09:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.oliver-charles.com/pages/3d-knitting" target="_blank">3D-Knitting: The Ultimate Guide</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-12 08:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dinesh_04/this-is-when-runtime-virtual-texture-finally-made-sense-5f51" target="_blank">This Is When Runtime Virtual Texture Finally Made Sense</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-12 07:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf" target="_blank">SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-12 06:55</span>
             </div>
         </div>
 </div>
@@ -230,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKF1SVY5JCEN9MMQFNASS5RS/hero-image.jpg" alt="I Went to &#x27;The Inspired Home Show&#x27; As a New Homeowner, and It Forever Changed How I&#x27;ll Shop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/what-is-the-inspired-home-show?utm_medium=RSS" target="_blank">I Went to &#x27;The Inspired Home Show&#x27; As a New Homeowner, and It Forever Changed How I&#x27;ll Shop</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-12 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/dungeons-and-dragons-paladin-divine-smite-1280x853.jpg" alt="Hasbro’s CEO Says ‘Magic: The Gathering’ and ‘Dungeons &amp; Dragons’ Will Never Use Generative AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +292,6 @@
                 <span class="time">2026-03-12 01:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/04/pexels-photo-12585534.jpeg?fit=1880%2C1252&amp;quality=60&amp;ssl=1" alt="The creator of Wordle has a new game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/11/the-creator-of-wordle-has-a-new-game.html" target="_blank">The creator of Wordle has a new game</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-11 23:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 12:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 13:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
