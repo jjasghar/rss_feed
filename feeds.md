@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-12 10:11:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-12 11:09:55 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, March 12, 2026 - 10:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, March 12, 2026 - 11:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/12/g-s1-113410/up-first-newsletter-iran-war-gas-prices-trump-immigrants-commerical-license-doge-social-security-data" target="_blank">U.S. investigates strike on Iranian school as the war sparks a global oil crisis</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-12 11:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/IRAN-CRISIS-IRAQTANKERS_1773285203167_hpMain_2_4x3t_384.jpg" alt="Iran live updates: 3 more ships set afire by &#x27;unknown&#x27; projectiles in Persian Gulf" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,6 +85,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/2026-03-12T024455Z_1_LOV319311032026RP1_RTRMADV_STREAM-2000-16X9-MP4_IRAN-CRISIS-IRAQ-TANKERS.MP4.00_01_24_12.Still001-idqboy.jpg" alt="Two oil tankers catch fire after Iranian attacks in Iraqi waters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/two-oil-tankers-catch-fire-after-iranian-attacks-in-iraqi-waters-259181125604" target="_blank">Two oil tankers catch fire after Iranian attacks in Iraqi waters</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-12 08:10</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -78,29 +102,29 @@
                 <span class="time">2026-03-12 07:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/12/israeli-double-tap-strike-hits-displaced-on-beirut-seafront-kills-eight?traffic_source=rss" target="_blank">Israeli ‘double-tap strike’ hits displaced on Beirut seafront, kills eight</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-12 07:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/mar/12/invasive-ai-led-mass-surveillance-in-africa-violating-freedoms-warn-experts" target="_blank">‘Invasive’ AI-led mass surveillance in Africa violating freedoms, warn experts</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-12 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/Buddy-fly-500x500.jpg" alt="How I streamed my off-road Miata race using Starlink and StarStream" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/03/how-i-streamed-my-off-road-miata-race-using-starlink-and-starstream/" target="_blank">How I streamed my off-road Miata race using Starlink and StarStream</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-12 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b1e789c1d39e1385474b99/master/pass/macbook-pro-2026-top.JPG" alt="Apple MacBook Pro Review (M5 Max, 16-inch): The Fastest MacBook Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/macbook-pro-16-inch-m5-max/" target="_blank">Apple MacBook Pro Review (M5 Max, 16-inch): The Fastest MacBook Yet</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-12 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" alt="Booking.com Promo Codes and Deals: Up to 20% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,29 +161,20 @@
                 <span class="time">2026-03-11 23:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/Play-Games-PC-1-500x500.jpg" alt="Google Play Games for PC is getting more premium titles and cross-buy with Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/03/google-play-games-for-pc-is-getting-more-premium-titles-and-cross-buy-with-android/" target="_blank">Google Play Games for PC is getting more premium titles and cross-buy with Android</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-11 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin" target="_blank">One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-11 22:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fwupd-2.1.1-Released" target="_blank">Fwupd 2.1.1 Released With Lots Of New Hardware Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-12 10:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +220,6 @@
                 <span class="time">2026-03-12 06:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/custodiaadmin/cursor-automations-are-here-heres-how-to-add-visual-proof-to-your-always-on-agents-2fdj" target="_blank">Cursor Automations Are Here. Here&#x27;s How to Add Visual Proof to Your Always-On Agents.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-12 03:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -226,15 +232,6 @@
                 <span class="title"><a href="https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/" target="_blank">Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker</a></span>
                 <span class="feed">Krebs on Security</span>
                 <span class="time">2026-03-11 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/canada-needs-nationalized-public-ai.html" target="_blank">Canada Needs Nationalized, Public AI</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-03-11 11:04</span>
             </div>
         </div>
 </div>
@@ -333,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 156 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 10:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 11:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
