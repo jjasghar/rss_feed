@@ -1,42 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-12 21:06:35 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-12 22:03:19 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, March 12, 2026 - 21:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, March 12, 2026 - 22:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/12/nx-s1-5746128/nasa-artemis-ii-april-launch" target="_blank">NASA targets Artemis II crewed moon mission for April 1 launch</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-12 21:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/12/netanyahu-says-israel-stronger-than-ever-in-first-speech-since-iran-war?traffic_source=rss" target="_blank">Netanyahu says Israel ‘stronger than ever’ in first speech since Iran war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-12 21:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/mar/12/trump-immigration-deportations-eswatini" target="_blank">Eswatini says it received more ‘third country’ deportees as part of deal with Trump administration</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-12 21:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Temple-Israel-11-gty-gmh-260312_1773342019971_hpMain_4x3t_384.jpg" alt="Suspect dead after ramming truck into Detroit-area synagogue: Sheriff" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,33 +100,6 @@
                 <span class="time">2026-03-12 20:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/12/icc-prosecutor-opens-probe-into-belarus-over-deportations-to-lithuania?traffic_source=rss" target="_blank">ICC prosecutor opens probe into Belarus over deportations to Lithuania</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-12 18:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Suspect dead after attack on Michigan synagogue, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Suspect dead after attack on Michigan synagogue, sources say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-12 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/12/nx-s1-5745970/suspect-in-attack-at-michigan-synagogue-is-dead-atf-offical-says" target="_blank">Suspect in attack at Michigan synagogue is dead, officials say</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-12 18:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -118,6 +112,15 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/live-nation-director-boasted-of-gouging-ticket-buyers-robbing-them-blind/" target="_blank">Live Nation director boasted of gouging ticket buyers, &quot;robbing them blind&quot;</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-03-12 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b1e2dbc3f018fe4f48986f/master/pass/pol_DOGESSA_GettyImages-2205899439.jpg" alt="John Solly Is the DOGE Operative Accused of Planning to Take Social Security Data to His New Job" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/john-solly-doge-operative-accused-social-security-data-leidos/" target="_blank">John Solly Is the DOGE Operative Accused of Planning to Take Social Security Data to His New Job</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-12 20:15</span>
             </div>
         </div>
 <div class="story">
@@ -154,15 +157,6 @@
                 <span class="title"><a href="https://arstechnica.com/cars/2026/03/lucid-announces-midsize-ev-platform-says-profitability-lies-with-suvs/" target="_blank">Lucid announces midsize EV platform, says profitability lies with SUVs</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-03-12 17:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/12/humanoid-maker-sunday-reaches-1-15-billion-valuation-to-build-household-robots/" target="_blank">Humanoid maker Sunday reaches $1.15 billion valuation to build household robots</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-12 17:04</span>
             </div>
         </div>
 </div>
@@ -244,6 +238,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/target-avatar-tshirt-1280x853.jpg" alt="We Accidentally Just Got Our First Look at the Grown-Up Heroes of the ‘Last Airbender’ Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/avatar-last-airbender-aang-movie-first-look-katara-zuko-toph-sokka-2000732933" target="_blank">We Accidentally Just Got Our First Look at the Grown-Up Heroes of the ‘Last Airbender’ Movie</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-12 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKHPXPSMKPX5FVHMFGPECRR2/hero-image.jpg" alt="What We Know About Apple&#x27;s 50th Anniversary Plans (So Far)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-50th-anniversary-plans?utm_medium=RSS" target="_blank">What We Know About Apple&#x27;s 50th Anniversary Plans (So Far)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-12 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2021/06/c068c8c625872da19553e15cd4081085-1280x720.jpg" alt="Which Cowardly Game Company Will Be The First To Stand Up To Trump?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -277,24 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/kpop-demon-hunters-2-sequel-streaming-netflix-maggie-kang-2000678434" target="_blank">Netflix Finally Stops Beating Around The Bush And Confirms KPop Demon Hunters 2</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-12 19:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/shutterstock_1514808599-1280x854.jpg" alt="Amazon Employees Say AI Is Just Increasing Workload. A New Study Confirms Their Suspicions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794" target="_blank">Amazon Employees Say AI Is Just Increasing Workload. A New Study Confirms Their Suspicions</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-12 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Kash-Patel.jpg?fit=680%2C383&amp;quality=60&amp;ssl=1" alt="The FBI will now train with cage fighters in the latest Trump-era reality show" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/12/the-fbi-will-now-train-with-cage-fighters-in-the-latest-trump-era-reality-show.html" target="_blank">The FBI will now train with cage fighters in the latest Trump-era reality show</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-12 18:25</span>
             </div>
         </div>
 </div>
@@ -334,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 21:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 22:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
