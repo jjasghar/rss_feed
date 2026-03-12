@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-03-12 08:08:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-12 09:12:27 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, March 12, 2026 - 08:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, March 12, 2026 - 09:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/12/nx-s1-5744781/trump-iran-michigan-focus-group" target="_blank">Trump&#x27;s war with Iran is angering some swing voters who want money spent at home</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-12 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +103,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/12/chinas-key-npc-meeting-comes-to-a-close-as-lower-growth-target-set?traffic_source=rss" target="_blank">China’s key NPC meeting comes to a close as lower growth target set</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-12 04:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1e7/live/7f186850-1db8-11f1-9502-59ba76ba5db5.jpg" alt="Oil price jumps despite deal to release record amount of reserves" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1w5141vx53o?at_medium=RSS&at_campaign=rss" target="_blank">Oil price jumps despite deal to release record amount of reserves</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-12 03:04</span>
             </div>
         </div>
 </div>
@@ -166,12 +170,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2xvwcn9tqbrckj8rn0qa.png" alt="Pi-hole behind Tailscale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nfrankel/pi-hole-behind-tailscale-2ang" target="_blank">Pi-hole behind Tailscale</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-12 09:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dinesh_04/this-is-when-runtime-virtual-texture-finally-made-sense-5f51" target="_blank">This Is When Runtime Virtual Texture Finally Made Sense</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-12 07:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf" target="_blank">SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-12 06:55</span>
             </div>
         </div>
 <div class="story">
@@ -193,30 +215,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/firefox-smart-window-new-tab-prompt.webp?resize=406%2C232&amp;ssl=1" alt="I tried Firefox’s new ‘Smart Window’ in a beta build" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/smart-window-firefox-button.webp?resize=406%2C232&amp;ssl=1" alt="I tried Firefox’s new AI ‘Smart Window’ in a beta build" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/firefox-smart-window-hands-on" target="_blank">I tried Firefox’s new ‘Smart Window’ in a beta build</a></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/firefox-smart-window-hands-on" target="_blank">I tried Firefox’s new AI ‘Smart Window’ in a beta build</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-03-12 03:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fer4931twtuyna54nlupr.png" alt="O que é o Electron e Por Que Todo Dev Web Deveria Conhecer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ikauedev/o-que-e-o-electron-e-por-que-todo-dev-web-deveria-conhecer-24in" target="_blank">O que é o Electron e Por Que Todo Dev Web Deveria Conhecer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-12 01:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="http://satproto.org/" target="_blank">Show HN: s@: decentralized social networking over static sites</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-12 00:22</span>
             </div>
         </div>
 </div>
@@ -247,6 +251,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/kids-watching-tablet-1280x915.jpg" alt="Google Invests $1 Million in Company That Makes AI YouTube Videos for Kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/google-invests-1-million-in-company-that-makes-ai-youtube-videos-for-kids-2000732685" target="_blank">Google Invests $1 Million in Company That Makes AI YouTube Videos for Kids</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-12 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/red.jpg" alt="Overwatch Director Reveals His Next Game And It Looks Like Red Dead Redemption 2 Meets Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/overwatch-legend-california-jeff-kaplan-steam-2000678096" target="_blank">Overwatch Director Reveals His Next Game And It Looks Like Red Dead Redemption 2 Meets Rust</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-12 06:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/teens-phone-ai-1280x853.jpg" alt="AI Chatbots Are Giving Teens Absolutely Terrible Diet Advice, Study Warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +303,6 @@
                 <span class="title"><a href="https://kotaku.com/donkey-kong-bananza-nintendo-gdc-2026-2000678021" target="_blank">Nintendo Reveals The Secrets To Donkey Kong Bananza‘s Super Satisfying Destruction</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-11 23:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/GettyImages-2264994719-1280x853.jpg" alt="Iran Includes American Tech Giants on List of New Targets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/iran-includes-american-tech-giants-on-list-of-new-targets-2000732530" target="_blank">Iran Includes American Tech Giants on List of New Targets</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-11 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKF6FWV6FFZ4CTPN8Q1M75HV/hero-image.jpg" alt="Microsoft Will Soon Let You Use Any Windows 11 PC Like an Xbox" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/microsoft-is-now-letting-you-use-your-pc-like-an-xbox?utm_medium=RSS" target="_blank">Microsoft Will Soon Let You Use Any Windows 11 PC Like an Xbox</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-11 21:30</span>
             </div>
         </div>
 </div>
@@ -338,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 08:08 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 157 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 09:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
