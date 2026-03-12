@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-12 02:54:31 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-03-12 03:45:31 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, March 12, 2026 - 02:54 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, March 12, 2026 - 03:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +52,15 @@
                 <span class="title"><a href="https://abcnews.com/International/strikes-israel-hezbollah-ramp-evacuation-notice-issued-beirut/story?id=130981948" target="_blank">Strikes between Israel and Hezbollah ramp up as evacuation notice issued for Beirut</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-12 02:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/11/nx-s1-5745153/doge-social-security-data-whistleblower-investigation" target="_blank">The government is investigating new claims that DOGE misused Social Security data</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-12 01:53</span>
             </div>
         </div>
 <div class="story">
@@ -84,15 +97,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/us-likely-responsible-for-strike-on-iranian-school-259157573510" target="_blank">U.S. likely responsible for strike on Iranian school</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-03-11 22:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/11/south-africa-summons-new-us-ambassador-over-undiplomatic-remarks?traffic_source=rss" target="_blank">South Africa summons new US ambassador over ‘undiplomatic remarks’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-11 22:33</span>
             </div>
         </div>
 </div>
@@ -160,12 +164,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/custodiaadmin/cursor-automations-are-here-heres-how-to-add-visual-proof-to-your-always-on-agents-2fdj" target="_blank">Cursor Automations Are Here. Here&#x27;s How to Add Visual Proof to Your Always-On Agents.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-12 03:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/firefox-smart-window-new-tab-prompt.webp?resize=406%2C232&amp;ssl=1" alt="I tried Firefox’s new ‘Smart Window’ in a beta build" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/firefox-smart-window-hands-on" target="_blank">I tried Firefox’s new ‘Smart Window’ in a beta build</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-12 03:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fer4931twtuyna54nlupr.png" alt="O que é o Electron e Por Que Todo Dev Web Deveria Conhecer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ikauedev/o-que-e-o-electron-e-por-que-todo-dev-web-deveria-conhecer-24in" target="_blank">O que é o Electron e Por Que Todo Dev Web Deveria Conhecer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-12 01:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="http://satproto.org/" target="_blank">Show HN: s@: decentralized social networking over static sites</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-12 00:22</span>
             </div>
         </div>
 <div class="story">
@@ -184,33 +215,6 @@
                 <span class="title"><a href="https://dev.to/custodiaadmin/aiuc-1-is-the-first-ai-agent-security-standard-heres-what-compliance-evidence-looks-like-5enl" target="_blank">AIUC-1 Is the First AI Agent Security Standard. Here&#x27;s What Compliance Evidence Looks Like.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-11 22:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/OBS-Studio-32.1-Released" target="_blank">OBS Studio 32.1 Released With WebRTC Simulcast Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-11 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fawgxxruw64y5xa1p5r9s.gif" alt="Your Docs Are Likely Obsolete" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mennanov/your-docs-are-likely-obsolete-a17" target="_blank">Your Docs Are Likely Obsolete</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-11 21:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/" target="_blank">Addressing GitHub’s recent availability issues</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-03-11 21:41</span>
             </div>
         </div>
 </div>
@@ -260,6 +264,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/07/cced90a5244a804ab7fce7f4177b0509-1280x720.jpg" alt="Nintendo Reveals The Secrets To Donkey Kong Bananza‘s Super Satisfying Destruction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/donkey-kong-bananza-nintendo-gdc-2026-2000678021" target="_blank">Nintendo Reveals The Secrets To Donkey Kong Bananza‘s Super Satisfying Destruction</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-11 23:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/GettyImages-2264994719-1280x853.jpg" alt="Iran Includes American Tech Giants on List of New Targets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -286,15 +299,6 @@
                 <span class="time">2026-03-11 21:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/berry.jpg?fit=1080%2C776&amp;quality=60&amp;ssl=1" alt="Matt Berry to announce at 98th Oscars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/11/matt-berry-to-announce-at-98th-oscars.html" target="_blank">Matt Berry to announce at 98th Oscars</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-11 21:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -307,6 +311,15 @@
                 <span class="title"><a href="http://questionablecontent.net/view.php?comic=5784" target="_blank">The Shape Of You</a></span>
                 <span class="feed">QC RSS</span>
                 <span class="time">2026-03-12 00:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/11/fire-in-the-hole" target="_blank">Fire In The Hole</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-11 22:25</span>
             </div>
         </div>
 <div class="story">
@@ -327,13 +340,22 @@
                 <span class="time">2026-03-11 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/subduction_retrieval.png" alt="Subduction Retrieval" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3218/" target="_blank">Subduction Retrieval</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-03-11 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 02:54 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 03:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
