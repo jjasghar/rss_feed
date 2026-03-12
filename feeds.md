@@ -1,34 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-03-12 04:31:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-12 05:21:42 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 25 feeds processed -->
+<!-- Generated 1 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, March 12, 2026 - 04:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, March 12, 2026 - 05:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -245,6 +240,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/teens-phone-ai-1280x853.jpg" alt="AI Chatbots Are Giving Teens Absolutely Terrible Diet Advice, Study Warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ai-chatbots-are-giving-teens-absolutely-terrible-diet-advice-study-warns-2000732494" target="_blank">AI Chatbots Are Giving Teens Absolutely Terrible Diet Advice, Study Warns</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-12 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Shishir-Mehrotra-CEO-of-Grammarly-1280x853.jpg" alt="Grammarly Allegedly ‘Misappropriated’ Names of Journalists, Says Class Action Suit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -287,15 +291,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/microsoft-is-now-letting-you-use-your-pc-like-an-xbox?utm_medium=RSS" target="_blank">Microsoft Will Soon Let You Use Any Windows 11 PC Like an Xbox</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-11 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/Starwarsfirstasssultgameplay-1280x720.jpg" alt="13 Years After It Was Cancelled, Star Wars: Battlefront III Prequel Is Playable On PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/star-wars-first-assault-battlefront-3-prequel-beta-revived-download-pc-instal-xbox-360-2000678058" target="_blank">13 Years After It Was Cancelled, Star Wars: Battlefront III Prequel Is Playable On PC</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-11 21:17</span>
             </div>
         </div>
 </div>
@@ -344,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 04:31 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 05:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
