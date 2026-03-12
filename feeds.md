@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-12 00:07:13 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-12 01:30:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, March 12, 2026 - 00:07 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, March 12, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/12/qatar-pm-urges-resilience-and-unity-amid-iran-strikes?traffic_source=rss" target="_blank">Qatar PM urges resilience and unity amid Iran strikes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-12 00:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +98,6 @@
                 <span class="time">2026-03-11 21:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/11/two-killed-as-tornadoes-sweep-across-us-midwest-in-latest-extreme-weather?traffic_source=rss" target="_blank">Two killed as tornadoes sweep across US Midwest in latest extreme weather</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-11 20:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,6 +110,24 @@
                 <span class="title"><a href="https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/" target="_blank">AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-11 23:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/Play-Games-PC-1-500x500.jpg" alt="Google Play Games for PC is getting more premium titles and cross-buy with Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/03/google-play-games-for-pc-is-getting-more-premium-titles-and-cross-buy-with-android/" target="_blank">Google Play Games for PC is getting more premium titles and cross-buy with Android</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-11 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin" target="_blank">One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-11 22:51</span>
             </div>
         </div>
 <div class="story">
@@ -139,29 +157,20 @@
                 <span class="time">2026-03-11 22:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/11/quince-series-e-10b-valuation-with-500m-round-led-by-iconiq/" target="_blank">Quince hits $10B valuation with giant $500M round led by Iconiq</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-11 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b1c8b19fd417e67bc5b525/master/pass/031126-grammarly-AI-experts-1.jpg" alt="Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/" target="_blank">Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-11 20:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fer4931twtuyna54nlupr.png" alt="O que é o Electron e Por Que Todo Dev Web Deveria Conhecer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ikauedev/o-que-e-o-electron-e-por-que-todo-dev-web-deveria-conhecer-24in" target="_blank">O que é o Electron e Por Que Todo Dev Web Deveria Conhecer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-12 01:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +216,6 @@
                 <span class="time">2026-03-11 21:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://labs.quansight.org/blog/free-threaded-python-halfway" target="_blank">Halfway on the path to community support for free-threaded Python</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-11 21:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,20 +239,20 @@
                 <span class="time">2026-03-11 11:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/" target="_blank">Microsoft Patch Tuesday, March 2026 Edition</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-03-11 00:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Shishir-Mehrotra-CEO-of-Grammarly-1280x853.jpg" alt="Grammarly Allegedly ‘Misappropriated’ Names of Journalists, Says Class Action Suit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/grammarly-allegedly-misappropriated-names-of-journalists-says-class-action-suit-2000732687" target="_blank">Grammarly Allegedly ‘Misappropriated’ Names of Journalists, Says Class Action Suit</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-12 01:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/04/pexels-photo-12585534.jpeg?fit=1880%2C1252&amp;quality=60&amp;ssl=1" alt="The creator of Wordle has a new game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -298,20 +298,20 @@
                 <span class="time">2026-03-11 21:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6V0RB94JY93HJ3PTXR7KGDJ/hero-image.jpg" alt="You Can Get Both Windows 11 Pro and Microsoft Office Pro for Just $50 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/windows-11-pro-microsoft-office-pro-stacksocial-sale-march-2026?utm_medium=RSS" target="_blank">You Can Get Both Windows 11 Pro and Microsoft Office Pro for Just $50 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-11 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5784.png" alt="The Shape Of You" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5784" target="_blank">The Shape Of You</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-03-12 00:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1773007729-20260311.png" alt="Saturday Morning Breakfast Cereal - Holy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -330,22 +330,13 @@
                 <span class="time">2026-03-11 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5783.png" alt="Topical Application" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5783" target="_blank">Topical Application</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-03-11 01:04</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 00:07 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
