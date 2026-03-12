@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-12 07:16:44 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-12 08:08:34 UTC -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, March 12, 2026 - 07:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, March 12, 2026 - 08:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/project-force-2/2026/3/12/in-the-us-israeli-war-on-iran-who-will-run-out-of-missiles-first?traffic_source=rss" target="_blank">In the US-Israeli war on Iran, who will run out of missiles first?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-12 07:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1w5141vx53o?at_medium=RSS&at_campaign=rss" target="_blank">Oil price jumps despite deal to release record amount of reserves</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-12 03:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/lebanon_1773279343306_hpMain_4x3t_384.jpg" alt="Strikes between Israel and Hezbollah ramp up as evacuation notice issued for Beirut" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/strikes-israel-hezbollah-ramp-evacuation-notice-issued-beirut/story?id=130981948" target="_blank">Strikes between Israel and Hezbollah ramp up as evacuation notice issued for Beirut</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-12 02:02</span>
             </div>
         </div>
 </div>
@@ -165,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dinesh_04/this-is-when-runtime-virtual-texture-finally-made-sense-5f51" target="_blank">This Is When Runtime Virtual Texture Finally Made Sense</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-12 07:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/custodiaadmin/cursor-automations-are-here-heres-how-to-add-visual-proof-to-your-always-on-agents-2fdj" target="_blank">Cursor Automations Are Here. Here&#x27;s How to Add Visual Proof to Your Always-On Agents.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-12 03:40</span>
@@ -204,15 +217,6 @@
                 <span class="title"><a href="http://satproto.org/" target="_blank">Show HN: s@: decentralized social networking over static sites</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-12 00:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/brian_kim_193a06896baee81/how-to-list-all-google-voice-users-and-numbers-with-gam-4n87" target="_blank">How to List All Google Voice Users and Numbers with GAM</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-11 23:55</span>
             </div>
         </div>
 </div>
@@ -334,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 07:16 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 08:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
