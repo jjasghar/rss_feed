@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-13 18:07:21 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-13 19:11:12 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 10 new posts out of 33 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, March 13, 2026 - 18:07 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, March 13, 2026 - 19:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/3/13/what-is-israels-endgame-in-lebanon?traffic_source=rss" target="_blank">What is Israel’s endgame in Lebanon?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-13 18:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/13/nx-s1-5745780/academy-awards-oscars-name" target="_blank">And the Oscar goes to — wait, why is it called an Oscar?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-13 18:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +102,38 @@
                 <span class="time">2026-03-13 16:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/hegseth-1-ht-gmh-260313_1773404074267_hpMain_4x3t_384.jpg" alt="Iran live updates: 2,200 Marines headed to Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: 2,200 Marines headed to Middle East</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-13 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/13/us-hegseth-claims-irans-new-supreme-leader-mojtaba-khamenei-injured?traffic_source=rss" target="_blank">US’s Hegseth claims new Iran Supreme Leader Mojtaba Khamenei injured</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-13 14:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/13/travis-kalanick-reportedly-starting-a-new-self-driving-company-backed-by-uber/" target="_blank">Travis Kalanick reportedly starting a new self-driving company backed by Uber</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-13 18:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2217925353-500x500.jpg" alt="Adobe settles DOJ cancellation fee lawsuit, will pay $75 million penalty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/adobe-settles-doj-cancellation-fee-lawsuit-will-pay-75-million-penalty/" target="_blank">Adobe settles DOJ cancellation fee lawsuit, will pay $75 million penalty</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-13 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/894319/google-pixel-10a-review-screen-specs-battery-camera" target="_blank">Google Pixel 10A review: Just buy the 9A</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-13 18:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/07/getty-att-logo-umbrella-500x500-1773422869.jpg" alt="Another AT&amp;T FirstNet user gets shocking $6,200 bill, at $2 per megabyte" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,38 +161,20 @@
                 <span class="time">2026-03-13 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/894466/amazon-prime-video-ultra-ad-free-price-hike" target="_blank">Amazon Prime Video&amp;#8217;s ad-free plan is getting a price hike</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-13 15:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b2f0e51f78ee2fffb6336f/master/pass/Iran-War-May-Hike-Jet-Fuel-Prices-Gear-2265405405.jpg" alt="Higher Jet Fuel Prices Could Melt Your Summer Travel Plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/higher-jet-fuel-prices-could-melt-your-summer-travel-plans/" target="_blank">Higher Jet Fuel Prices Could Melt Your Summer Travel Plans</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-13 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/13/apple-drops-commission-rates-in-china-25-percent/" target="_blank">Apple drops commission rates in China without a fuss</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-13 15:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-595.44.03-Linux" target="_blank">NVIDIA 595.44.03 Linux Driver Released With VK_KHR_device_address_commands</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-13 18:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -214,15 +220,6 @@
                 <span class="time">2026-03-13 16:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18913420&w=600" alt="GitOps Secrets Management: The Vault + External Secrets Operator Pattern (With Auto-Rotation)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/gitops-secrets-management-the-vault-external-secre" target="_blank">GitOps Secrets Management: The Vault + External Secrets Operator Pattern (With Auto-Rotation)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-13 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -251,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/knocker.jpg?fit=1200%2C1015&amp;quality=60&amp;ssl=1" alt="The long history of waking people up before alarm clocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/13/the-long-history-of-waking-people-up-before-alarm-clocks.html" target="_blank">The long history of waking people up before alarm clocks</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-13 19:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKM4108VBYC3ZZSTZFBDK7ZW/hero-image.png" alt="Update Chrome Immediately to Fix This Zero-Day Exploit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/update-chrome-immediately-to-fix-this-zero-day-exploit?utm_medium=RSS" target="_blank">Update Chrome Immediately to Fix This Zero-Day Exploit</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-13 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/spacex-mars-colony-1280x853.jpg" alt="Mars Doesn’t Have Enough Gravity to Keep Humans Healthy, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,24 +300,6 @@
                 <span class="title"><a href="https://kotaku.com/amazon-prime-removing-4k-streaming-access-locking-behind-it-new-extra-paywall-2000678690" target="_blank">Amazon Prime Removing 4K Streaming Access, Locking Behind It New Extra Paywall</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-13 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKKVTWE72QWR1E39MJMPPK0V/hero-image.jpg" alt="Why the MacBook Neo Might Not Be a Windows Laptop Replacement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/why-the-macbook-neo-might-not-be-a-windows-laptop-replacement?utm_medium=RSS" target="_blank">Why the MacBook Neo Might Not Be a Windows Laptop Replacement</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-13 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2731718297-scaled.jpg?fit=2560%2C1757&amp;quality=60&amp;ssl=1" alt="Cathedral dean accused of stealing baseball cards from Walmart" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/13/cathedral-dean-accused-of-stealing-baseball-cards-from-walmart.html" target="_blank">Cathedral dean accused of stealing baseball cards from Walmart</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-13 14:46</span>
             </div>
         </div>
 </div>
@@ -360,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 18:07 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 281 |
+        🔄 Last Updated: 19:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
