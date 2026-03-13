@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-13 21:06:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-13 22:04:07 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, March 13, 2026 - 21:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, March 13, 2026 - 22:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/13/nx-s1-5747122/doj-federal-reserve-jerome-powell-jeanine-pirro" target="_blank">Judge blocks DOJ&#x27;s criminal probe of Federal Reserve, blasting it as political</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-13 21:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +99,20 @@
                 <span class="time">2026-03-13 18:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/13/israel-destroys-bridge-in-lebanon-and-threatens-gaza-scale-devastation?traffic_source=rss" target="_blank">Israel destroys bridge in Lebanon and threatens Gaza-scale devastation</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-13 17:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/" target="_blank">Digg lays off staff and shuts down app as company retools</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-13 21:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +158,20 @@
                 <span class="time">2026-03-13 18:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/894319/google-pixel-10a-review-screen-specs-battery-camera" target="_blank">Google Pixel 10A review: Just buy the 9A</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-13 18:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://smiling.dev/blog/rust-shined-over-python-for-my-cli-tool/" target="_blank">Rust Shined Over Python for My CLI Tool</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-13 20:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18913469&w=600" alt="Serverless Glue Jobs at Scale: Where the Bottlenecks Really Are" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,20 +217,20 @@
                 <span class="time">2026-03-13 17:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18913462&w=600" alt="Extending Java Libraries with Service Loader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/extending-java-libraries-with-service-loader" target="_blank">Extending Java Libraries with Service Loader</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-13 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-increased-squid-population-in-the-falklands.html" target="_blank">Friday Squid Blogging: Increased Squid Population in the Falklands</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-03-13 21:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -235,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-13 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/IMG_2175-1280x720.jpg" alt="Pokopia Fans Are Making Other Pokémon Games’ Iconic Landmarks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +297,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/13/the-long-history-of-waking-people-up-before-alarm-clocks.html" target="_blank">The long history of waking people up before alarm clocks</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-13 19:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKM4108VBYC3ZZSTZFBDK7ZW/hero-image.png" alt="Update Chrome Immediately to Fix This Zero-Day Exploit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/update-chrome-immediately-to-fix-this-zero-day-exploit?utm_medium=RSS" target="_blank">Update Chrome Immediately to Fix This Zero-Day Exploit</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-13 18:30</span>
             </div>
         </div>
 </div>
@@ -353,8 +363,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 21:06 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 22:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
