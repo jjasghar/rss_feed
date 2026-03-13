@@ -1,36 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-03-13 01:30:41 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-13 02:52:55 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, March 13, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, March 13, 2026 - 02:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/12/nx-s1-5746061/us-china-trade-five-year-plan" target="_blank">China slams Trump&#x27;s trade investigation, as it approves a 5-year economic plan</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-13 02:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Temple-Israel-11-gty-gmh-260312_1773342019971_hpMain_4x3t_384.jpg" alt="Synagogue ramming probed as targeted act of violence against Jewish community: FBI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +91,6 @@
                 <span class="title"><a href="https://www.theguardian.com/us-news/2026/mar/12/trump-immigration-deportations-eswatini" target="_blank">Eswatini says it received more ‘third country’ deportees as part of deal with Trump administration</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-03-12 21:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Temple-Israel-11-gty-gmh-260312_1773342019971_hpMain_4x3t_384.jpg" alt="Suspect dead after ramming truck into Detroit-area synagogue: Sheriff" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/active-shooter-reported-synagogue-west-bloomfield-michigan-sheriff/story?id=131007066" target="_blank">Suspect dead after ramming truck into Detroit-area synagogue: Sheriff</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-12 20:38</span>
             </div>
         </div>
 </div>
@@ -167,6 +160,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/willvelida/preventing-rogue-ai-agents-53n2" target="_blank">Preventing Rogue AI Agents</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-13 02:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/TrueNAS-Connect-2026" target="_blank">TrueNAS Connect Announced For Offering Enterprise Features Without The Hardware</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-13 00:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-hat-cowboy"></span>
                 <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-march-13-2026" target="_blank">Friday Five — March 13, 2026</a></span>
                 <span class="feed">Red Hat Blog</span>
@@ -200,24 +211,6 @@
                 <span class="time">2026-03-12 21:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0" target="_blank">Shall I implement it? No</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-12 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Google-Chrome-ARM64-Linux-Q2" target="_blank">Google To Finally Provide Chrome ARM64 Binaries For Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-12 20:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +230,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/0-6.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Vet cures puffed up kitten" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/12/vet-cures-puffed-up-kitten.html" target="_blank">Vet cures puffed up kitten</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-13 01:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KKH90QNE3N7ES2BSGNS0TBC2/hero-image.png" alt="If You Have One of These Older Apple Devices, Update It ASAP" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +284,6 @@
                 <span class="time">2026-03-12 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2021/06/c068c8c625872da19553e15cd4081085-1280x720.jpg" alt="Which Cowardly Game Company Will Be The First To Stand Up To Trump?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/white-house-video-wii-sports-iran-israel-nintendo-lawsuit-2000678455" target="_blank">Which Cowardly Game Company Will Be The First To Stand Up To Trump?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-12 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 02:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
