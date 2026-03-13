@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-13 09:10:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-13 10:07:24 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, March 13, 2026 - 09:10 UTC</div>
+    <div class="newspaper-date">Friday, March 13, 2026 - 10:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53d7/live/a0e799b0-1e6c-11f1-b048-c9424b2cf5fd.jpg" alt="Four killed after US refuelling plane crashes in Iraq, military confirms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss" target="_blank">Four killed after US refuelling plane crashes in Iraq, military confirms</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-13 09:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260312-donald-trump-ew-416p-971ac5.jpg" alt="&#x27;Already won&#x27; or &#x27;got to finish the job&#x27;: Trump&#x27;s mixed messages on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/trump-administration-iran-statements-rcna263243" target="_blank">&#x27;Already won&#x27; or &#x27;got to finish the job&#x27;: Trump&#x27;s mixed messages on Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-13 09:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/13/g-s1-113315/timothee-chalamet-ballet-trump-nba-score-news-quiz" target="_blank">It&#x27;s Chalamet vs. ballet in this week&#x27;s news quiz. Are your answers en pointe?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-13 09:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,38 +100,20 @@
                 <span class="time">2026-03-13 06:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/13/french-soldier-killed-others-wounded-in-attack-in-iraq-macron-says?traffic_source=rss" target="_blank">French soldier killed, others wounded in attack in Iraq, Macron says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-13 05:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/3/13/the-palestinians-forced-to-demolish-their-own-homes-by-israel?traffic_source=rss" target="_blank">The Palestinians forced to demolish their own homes by Israel</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-13 04:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/13/nx-s1-5746192/nycs-mamdani-condemns-tubervilles-anti-muslim-posts-as-bigotry" target="_blank">NYC&#x27;s Mamdani condemns Tuberville&#x27;s anti-Muslim posts as &quot;bigotry&quot;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-13 04:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69a058f77da3e019b30e91a8/master/pass/ScienceSourceImages_1730789.jpg" alt="The Shingles Virus May Be Aging You More Quickly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/shingles-virus-aging/" target="_blank">The Shingles Virus May Be Aging You More Quickly</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-13 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +159,20 @@
                 <span class="time">2026-03-12 22:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/live-nation-500x500-1773346298.jpg" alt="Live Nation director boasted of gouging ticket buyers, &quot;robbing them blind&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/live-nation-director-boasted-of-gouging-ticket-buyers-robbing-them-blind/" target="_blank">Live Nation director boasted of gouging ticket buyers, &quot;robbing them blind&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-12 20:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-NPU-Driver-Linux-1.30" target="_blank">Intel NPU Driver 1.30 Released For Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-13 10:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feshfdate8hqec6p39sgs.jpg" alt="AI in Software Development: A Mirror, Not a Magic Wand" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/norvi_controllers/building-multi-year-iot-deployments-inside-the-norvi-ec-m12-bc-c6-c-a-lte-m-logger-46m0" target="_blank">Building Multi-Year IoT Deployments: Inside the NORVI EC-M12-BC-C6-C-A LTE-M Logger</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-13 03:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/willvelida/preventing-rogue-ai-agents-53n2" target="_blank">Preventing Rogue AI Agents</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-13 02:48</span>
             </div>
         </div>
 </div>
@@ -334,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 09:10 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 10:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
