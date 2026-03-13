@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-03-13 17:10:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-13 18:07:21 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DZone -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 13 new posts out of 30 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 10 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, March 13, 2026 - 17:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, March 13, 2026 - 18:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/13/israel-destroys-bridge-in-lebanon-and-threatens-gaza-scale-devastation?traffic_source=rss" target="_blank">Israel destroys bridge in Lebanon and threatens Gaza-scale devastation</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-13 17:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-260312_1773327198440_hpMain_4x3t_384.jpg" alt="A &#x27;little excursion&#x27; or &#x27;war&#x27;? It&#x27;s &#x27;both,&#x27; Trump says: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/excursion-war-trump-analysis/story?id=131003550" target="_blank">A &#x27;little excursion&#x27; or &#x27;war&#x27;? It&#x27;s &#x27;both,&#x27; Trump says: ANALYSIS</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-13 17:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +105,20 @@
                 <span class="time">2026-03-13 14:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba4/live/9b5b1120-1ed5-11f1-9120-a910fc22c6ac.jpg" alt="All six crew members killed after US refuelling plane crashes in Iraq" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss" target="_blank">All six crew members killed after US refuelling plane crashes in Iraq</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-13 14:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/13/cuban-president-diaz-canel-says-talks-held-with-us-amid-trump-threats?traffic_source=rss" target="_blank">Cuban President Diaz-Canel says talks held with US amid Trump threats</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-13 13:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/07/getty-att-logo-umbrella-500x500-1773422869.jpg" alt="Another AT&amp;T FirstNet user gets shocking $6,200 bill, at $2 per megabyte" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/att-wrongly-charged-man-6196-reversed-bill-after-hearing-from-ars/" target="_blank">Another AT&amp;T FirstNet user gets shocking $6,200 bill, at $2 per megabyte</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-13 17:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +164,29 @@
                 <span class="time">2026-03-13 15:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b065f5772e2c790732c214/master/pass/Backchannel-Iran-War-Disrupts-Tech-Supply-Chain-Business-241483526.jpg" alt="The Iran War Is Throwing Global Shipping Into Chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/iran-war-global-supply-chain-chaos/" target="_blank">The Iran War Is Throwing Global Shipping Into Chaos</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-13 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/googleai/deployments-made-easy-cloud-run-101-11ma" target="_blank">Deployments made easy: Cloud Run 101</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-13 17:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Panther-Lake-C-States" target="_blank">Panther Lake Tuning For The Intel Idle Driver In Linux 7.1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-13 17:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18913462&w=600" alt="Extending Java Libraries with Service Loader" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,24 +223,6 @@
                 <span class="time">2026-03-13 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jmolinasoler/running-automated-crypto-grid-trading-bots-across-multiple-l2s-a-month-in-production-579c" target="_blank">Running Automated Crypto Grid Trading Bots Across Multiple L2s: A Month in Production</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-13 15:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://blog.baro.dev/p/reinventing-pythons-asyncio" target="_blank">Reinventing Python&#x27;s AsyncIO</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-13 15:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +251,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/spacex-mars-colony-1280x853.jpg" alt="Mars Doesn’t Have Enough Gravity to Keep Humans Healthy, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/mars-doesnt-have-enough-gravity-to-keep-humans-healthy-study-suggests-2000733286" target="_blank">Mars Doesn’t Have Enough Gravity to Keep Humans Healthy, Study Suggests</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-13 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKM2G37GKSJ098WHBC38NNR7/hero-image.png" alt="The Voice Training Log on My Coros Watch Has Changed My Workouts for the Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/coros-watch-voice-notes-fitness-tech-upgrade-of-the-week?utm_medium=RSS" target="_blank">The Voice Training Log on My Coros Watch Has Changed My Workouts for the Better</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-13 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Screenshot-2026-03-12-at-8.03.20-PM-e1773421354558.png?fit=768%2C403&amp;quality=55&amp;ssl=1" alt="David Cross&#x27;s new comedy special is &quot;The End of the Beginning of the End&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,24 +303,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/13/cathedral-dean-accused-of-stealing-baseball-cards-from-walmart.html" target="_blank">Cathedral dean accused of stealing baseball cards from Walmart</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-13 14:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/stellar-twins-migration-1280x853.jpg" alt="Our Sun Was Born in a Hellish Part of the Milky Way. New Research Explains How It Escaped" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/our-sun-was-born-in-a-hellish-part-of-the-milky-way-new-research-explains-how-it-escaped-2000733122" target="_blank">Our Sun Was Born in a Hellish Part of the Milky Way. New Research Explains How It Escaped</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-13 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKHW7QCTZMAF6JCBSXZE5DDJ/hero-image.jpg" alt="Check Your Asus Router for Malware ASAP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/check-asus-router-for-malware?utm_medium=RSS" target="_blank">Check Your Asus Router for Malware ASAP</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-13 13:30</span>
             </div>
         </div>
 </div>
@@ -357,8 +360,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 17:10 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 282 |
+        🔄 Last Updated: 18:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
