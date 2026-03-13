@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-13 12:05:15 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-13 13:23:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, March 13, 2026 - 12:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, March 13, 2026 - 13:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/KC-135-aircraft-down_1773395728285_hpMain_4x3t_384.jpg" alt="4 dead after US refueling aircraft goes down in western Iraq" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/4-dead-after-us-refueling-aircraft-western-iraq/story?id=131031069" target="_blank">4 dead after US refueling aircraft goes down in western Iraq</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-13 13:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53d7/live/a0e799b0-1e6c-11f1-b048-c9424b2cf5fd.jpg" alt="Four crew members killed after US refuelling plane crashes in Iraq" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss" target="_blank">Four crew members killed after US refuelling plane crashes in Iraq</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-13 11:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02bc/live/c31b47f0-1ecd-11f1-84c5-132fa5d854db.jpg" alt="UK economy flatlines in January as people cut back on eating out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c75e06e0kd7o?at_medium=RSS&at_campaign=rss" target="_blank">UK economy flatlines in January as people cut back on eating out</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-13 11:26</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +100,38 @@
                 <span class="time">2026-03-13 09:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/13/g-s1-113315/timothee-chalamet-ballet-trump-nba-score-news-quiz" target="_blank">It&#x27;s Chalamet vs. ballet in this week&#x27;s news quiz. Are your answers en pointe?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-13 09:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/13/china-coach-tells-players-to-stay-calm-in-taiwan-clash-at-asian-cup?traffic_source=rss" target="_blank">China coach tells players to stay ‘calm’ in Taiwan clash at Asian Cup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-13 08:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/894274/macbook-neo-review-xbox-helix-vergecast" target="_blank">The MacBook Neo is a winner</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-13 13:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/55143071969_ca5b4ca8db_o-500x500.jpg" alt="Rocket Report: Pentagon needs more missile interceptors; Artemis II clears review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/03/rocket-report-pentagon-needs-more-missile-interceptors-artemis-ii-clears-review/" target="_blank">Rocket Report: Pentagon needs more missile interceptors; Artemis II clears review</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-13 12:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b2ee5feadc91f592dc322f/master/pass/shutterstock_2668436833.jpg" alt="Google&#x27;s AI Searches Love to Refer You Back to Google" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/" target="_blank">Google&#x27;s AI Searches Love to Refer You Back to Google</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-13 12:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69af4032df27a642d70d9a52/master/pass/Made-In-China-China-Going-All-in-on-OpenClaw-Business-2260596359.jpg" alt="China’s OpenClaw Boom Is a Gold Rush for AI Companies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,38 +159,29 @@
                 <span class="time">2026-03-13 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a058f77da3e019b30e91a8/master/pass/ScienceSourceImages_1730789.jpg" alt="The Shingles Virus May Be Aging You More Quickly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/shingles-virus-aging/" target="_blank">The Shingles Virus May Be Aging You More Quickly</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-13 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/" target="_blank">Before quantum computing arrives, this startup wants enterprises already running on it</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-13 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/" target="_blank">Truecaller now lets you hang up on scammers — on behalf of your family</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-13 04:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F02ny15wfagdzl6rbdapm.jpeg" alt="Pare de usar isEmpty() e isBlank() em seus Controllers Spring Boot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/isac_canedo/pare-de-usar-isempty-e-isblank-em-seus-controllers-spring-boot-2ack" target="_blank">Pare de usar isEmpty() e isBlank() em seus Controllers Spring Boot</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-13 13:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe-VM-BIND-DECOMPRESS" target="_blank">Intel Xe Driver In Linux 7.1 Preps For Intel Nova Lake P, Introduces VM_BIND DECOMPRESS</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-13 13:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/03/netflix-kernel-scaling-container/en/headerimage/generatedHeaderImage-1772720450776.jpg" alt="Netflix Uncovers Kernel-Level Bottlenecks While Scaling Containers on Modern CPUs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,24 +218,6 @@
                 <span class="time">2026-03-13 09:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feshfdate8hqec6p39sgs.jpg" alt="AI in Software Development: A Mirror, Not a Magic Wand" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jdinnovensa/ai-in-software-development-a-mirror-not-a-magic-wand-gge" target="_blank">AI in Software Development: A Mirror, Not a Magic Wand</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-13 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/03/13/open-source-for-awkward-robots/" target="_blank">Open source for awkward robots</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-03-13 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +246,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKKBQR1MK4TZ1WZJSBSKTJ38/hero-image.png" alt="The Samsung Galaxy Tab S10 FE+ Is Nearly 25% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-tab-s10-fe-plus-sale-march-2026?utm_medium=RSS" target="_blank">The Samsung Galaxy Tab S10 FE+ Is Nearly 25% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-13 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/Screenshot-2026-03-13-084042-1280x766.jpg" alt="Pokémon Copycat Pickmon Accused Of Ripping Off Fan Artists’ Designs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pickmon-fan-art-designs-stolen-pokemon-palworld-2000678640" target="_blank">Pokémon Copycat Pickmon Accused Of Ripping Off Fan Artists’ Designs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-13 12:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/StarTrekStarfleetAcademy-1280x853.jpg" alt="Alex Kurtzman Believes ‘Star Trek’ Still Has a Future on TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +298,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/older-apple-devices-security-update?utm_medium=RSS" target="_blank">If You Have One of These Older Apple Devices, Update It ASAP</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-12 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/large-1-1280x720.jpg" alt="Ghost Of Yotei’s New Free Online Mode Is So Good I’d Pay Money For It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ghost-of-yoteis-new-free-multiplayer-legends-mode-how-unlock-review-ps5-2000678464" target="_blank">Ghost Of Yotei’s New Free Online Mode Is So Good I’d Pay Money For It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-12 22:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKF8VKQETXRM4HFJJ7P2ASJ1/hero-image.jpg" alt="10 Hacks Every Peloton Rider Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/best-peloton-hacks?utm_medium=RSS" target="_blank">10 Hacks Every Peloton Rider Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-12 22:00</span>
             </div>
         </div>
 </div>
@@ -345,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 12:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 13:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
