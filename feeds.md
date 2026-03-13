@@ -1,27 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-13 16:07:53 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-13 17:10:29 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 19 feeds processed -->
+<!-- Generated 13 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, March 13, 2026 - 16:08 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, March 13, 2026 - 17:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/13/nx-s1-5742530/cdc-atlanta-firings-funding-cuts-shooting-public-health" target="_blank">After firings, funding cuts, and a shooting, can a demoralized CDC workforce recover?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-13 16:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2026/3/13/who-wins-and-loses-in-the-global-energy-crisis?traffic_source=rss" target="_blank">Who wins and loses in the global energy crisis?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-13 16:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/hegseth-1-ht-gmh-260313_1773404074267_hpMain_4x3t_384.jpg" alt="Iran live updates: 2,200 Marines headed to Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,24 +102,6 @@
                 <span class="time">2026-03-13 13:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/KC-135-aircraft-down_1773395728285_hpMain_4x3t_384.jpg" alt="4 dead after US refueling aircraft goes down in western Iraq" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/4-dead-after-us-refueling-aircraft-western-iraq/story?id=131031069" target="_blank">4 dead after US refueling aircraft goes down in western Iraq</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-13 13:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/13/france-returns-sacred-djidji-ayokwe-talking-drum-looted-from-cote-divoire" target="_blank">France returns sacred talking drum looted from Côte d’Ivoire over 100 years ago</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-13 13:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -99,10 +110,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/" target="_blank">The wild six weeks for NanoClaw’s creator that led to a deal with Docker</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-13 17:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/894461/ninja-creami-5-in-1-ice-cream-maker-deal-sale" target="_blank">Ninja’s star Creami ice cream maker is on sale for $169</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-13 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/894466/amazon-prime-video-ultra-ad-free-price-hike" target="_blank">Amazon Prime Video&amp;#8217;s ad-free plan is getting a price hike</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-13 15:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b2f0e51f78ee2fffb6336f/master/pass/Iran-War-May-Hike-Jet-Fuel-Prices-Gear-2265405405.jpg" alt="Higher Jet Fuel Prices Could Melt Your Summer Travel Plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/higher-jet-fuel-prices-could-melt-your-summer-travel-plans/" target="_blank">Higher Jet Fuel Prices Could Melt Your Summer Travel Plans</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-13 15:56</span>
             </div>
         </div>
 <div class="story">
@@ -123,38 +161,38 @@
                 <span class="time">2026-03-13 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/disclosure2-500x500-1773412687.jpg" alt="Aliens announce their presence in latest Disclosure Day trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/03/aliens-announce-their-presence-in-latest-disclosure-day-trailer/" target="_blank">Aliens announce their presence in latest Disclosure Day trailer</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-13 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b19fccd3de85f928242d06/master/pass/Simone-Giertz-Laundry-Chair-Gear-Hero-ClothesOnRail-Studio.jpg" alt="Toss Your Not-Quite-Clean Clothes on Simone Giertz’s Laundry Chair" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/simone-giertz-laundry-chair/" target="_blank">Toss Your Not-Quite-Clean Clothes on Simone Giertz’s Laundry Chair</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-13 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/" target="_blank">Peacock expands into AI-driven video, mobile-first live sports, and gaming</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-13 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18913462&w=600" alt="Extending Java Libraries with Service Loader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/extending-java-libraries-with-service-loader" target="_blank">Extending Java Libraries with Service Loader</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-13 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4l8oz8s9hm9yw02tfud9.png" alt="A 13MB Cursor Monitor: AppKit, Undocumented APIs, Zero Dependencies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/woojinahn/a-13mb-cursor-monitor-appkit-undocumented-apis-zero-dependencies-1k72" target="_blank">A 13MB Cursor Monitor: AppKit, Undocumented APIs, Zero Dependencies</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-13 16:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://channelsurfer.tv/" target="_blank">Channel Surfer – Watch YouTube Like It&#x27;s Cable TV</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-13 16:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18913420&w=600" alt="GitOps Secrets Management: The Vault + External Secrets Operator Pattern (With Auto-Rotation)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -180,33 +218,6 @@
                 <span class="title"><a href="https://blog.baro.dev/p/reinventing-pythons-asyncio" target="_blank">Reinventing Python&#x27;s AsyncIO</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-03-13 15:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/childrentime/react-19-hooks-whats-new-and-how-to-use-them-effectively-2i6n" target="_blank">React 19 Hooks: What&#x27;s New and How to Use Them Effectively</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-13 15:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18913987&w=600" alt="Understanding Custom Authorization Mechanisms in Amazon API Gateway and AWS AppSync" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/understanding-custom-authorization-mechanisms-in-a" target="_blank">Understanding Custom Authorization Mechanisms in Amazon API Gateway and AWS AppSync</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-13 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/en/headerimage/llmsimulation-1772868016503.jpeg" alt="DoorDash Builds LLM Conversation Simulator to Test Customer Support Chatbots at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DoorDash Builds LLM Conversation Simulator to Test Customer Support Chatbots at Scale</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-13 14:12</span>
             </div>
         </div>
 </div>
@@ -238,6 +249,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Screenshot-2026-03-12-at-8.03.20-PM-e1773421354558.png?fit=768%2C403&amp;quality=55&amp;ssl=1" alt="David Cross&#x27;s new comedy special is &quot;The End of the Beginning of the End&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/13/david-crosss-new-comedy-special-is-the-end-of-the-beginning-of-the-end.html" target="_blank">David Cross&#x27;s new comedy special is &quot;The End of the Beginning of the End&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-13 17:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/sadman-1280x720.jpg" alt="Amazon Prime Removing 4K Streaming Access, Locking Behind It New Extra Paywall" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-prime-removing-4k-streaming-access-locking-behind-it-new-extra-paywall-2000678690" target="_blank">Amazon Prime Removing 4K Streaming Access, Locking Behind It New Extra Paywall</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-13 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKKVTWE72QWR1E39MJMPPK0V/hero-image.jpg" alt="Why the MacBook Neo Might Not Be a Windows Laptop Replacement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/why-the-macbook-neo-might-not-be-a-windows-laptop-replacement?utm_medium=RSS" target="_blank">Why the MacBook Neo Might Not Be a Windows Laptop Replacement</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-13 16:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2731718297-scaled.jpg?fit=2560%2C1757&amp;quality=60&amp;ssl=1" alt="Cathedral dean accused of stealing baseball cards from Walmart" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -264,33 +302,6 @@
                 <span class="time">2026-03-13 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKKBQR1MK4TZ1WZJSBSKTJ38/hero-image.png" alt="The Samsung Galaxy Tab S10 FE+ Is Nearly 25% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-tab-s10-fe-plus-sale-march-2026?utm_medium=RSS" target="_blank">The Samsung Galaxy Tab S10 FE+ Is Nearly 25% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-13 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/Screenshot-2026-03-13-084042-1280x766.jpg" alt="Pokémon Copycat Pickmon Accused Of Ripping Off Fan Artists’ Designs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pickmon-fan-art-designs-stolen-pokemon-palworld-2000678640" target="_blank">Pokémon Copycat Pickmon Accused Of Ripping Off Fan Artists’ Designs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-13 12:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/StarTrekStarfleetAcademy-1280x853.jpg" alt="Alex Kurtzman Believes ‘Star Trek’ Still Has a Future on TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/alex-kurtzman-believes-star-trek-still-has-a-future-on-tv-2000733092" target="_blank">Alex Kurtzman Believes ‘Star Trek’ Still Has a Future on TV</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-13 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,6 +314,15 @@
                 <span class="title"><a href="https://www.smbc-comics.com/comic/hmm" target="_blank">Saturday Morning Breakfast Cereal - Hmm</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
                 <span class="time">2026-03-13 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/becoming-cool/" target="_blank">Becoming Cool</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-03-13 15:14</span>
             </div>
         </div>
 <div class="story">
@@ -337,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 16:08 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 17:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
