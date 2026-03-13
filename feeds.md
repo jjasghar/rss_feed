@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-13 07:16:20 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-13 08:08:12 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, March 13, 2026 - 07:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, March 13, 2026 - 08:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/375d/live/239fe7c0-1e38-11f1-b7fb-092a0008fe58.jpg" alt="UK economy saw zero growth in January ahead of Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c75e06e0kd7o?at_medium=RSS&at_campaign=rss" target="_blank">UK economy saw zero growth in January ahead of Iran war</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-13 07:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +96,20 @@
                 <span class="time">2026-03-13 03:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7544/live/82f7eb60-1e87-11f1-9610-8d2927afc8b3.jpg" alt="Oil price profiteering will not be tolerated, says Miliband" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crk83e2g65no?at_medium=RSS&at_campaign=rss" target="_blank">Oil price profiteering will not be tolerated, says Miliband</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-13 02:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/" target="_blank">Before quantum computing arrives, this startup wants enterprises already running on it</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-13 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +155,20 @@
                 <span class="time">2026-03-12 20:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b1e2dbc3f018fe4f48986f/master/pass/pol_DOGESSA_GettyImages-2205899439.jpg" alt="John Solly Is the DOGE Operative Accused of Planning to Take Social Security Data to His New Job" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/john-solly-doge-operative-accused-social-security-data-leidos/" target="_blank">John Solly Is the DOGE Operative Accused of Planning to Take Social Security Data to His New Job</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-12 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feshfdate8hqec6p39sgs.jpg" alt="AI in Software Development: A Mirror, Not a Magic Wand" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jdinnovensa/ai-in-software-development-a-mirror-not-a-magic-wand-gge" target="_blank">AI in Software Development: A Mirror, Not a Magic Wand</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-13 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/willvelida/preventing-rogue-ai-agents-53n2" target="_blank">Preventing Rogue AI Agents</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-13 02:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/TrueNAS-Connect-2026" target="_blank">TrueNAS Connect Announced For Offering Enterprise Features Without The Hardware</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-13 00:40</span>
             </div>
         </div>
 </div>
@@ -336,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 07:16 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 08:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
