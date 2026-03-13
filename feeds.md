@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-13 10:07:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-13 11:08:42 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, March 13, 2026 - 10:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, March 13, 2026 - 11:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/KC-135-aircraft-down_1773395728285_hpMain_4x3t_384.jpg" alt="4 dead after US refueling aircraft goes down in western Iraq" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/4-dead-after-us-refueling-aircraft-western-iraq/story?id=131031069" target="_blank">4 dead after US refueling aircraft goes down in western Iraq</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-13 10:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53d7/live/a0e799b0-1e6c-11f1-b048-c9424b2cf5fd.jpg" alt="Four killed after US refuelling plane crashes in Iraq, military confirms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +98,20 @@
                 <span class="time">2026-03-13 07:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/13/nx-s1-5746533/cuba-will-release-51-people-from-prison-in-an-unexpected-move" target="_blank">Cuba will release 51 people from prison in an unexpected move</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-13 06:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69b35ec43195877e5b75ab7f/master/pass/Logitech-K98M-Review--Logi's-Best-Mechanical-Keyboard-Yet.jpg" alt="Logitech K98M Wireless Keyboard Review: Great for Productivity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/logitech-k98m-wireless/" target="_blank">Logitech K98M Wireless Keyboard Review: Great for Productivity</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-13 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69a058f77da3e019b30e91a8/master/pass/ScienceSourceImages_1730789.jpg" alt="The Shingles Virus May Be Aging You More Quickly" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +157,6 @@
                 <span class="time">2026-03-12 22:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/data-wiper-malware-500x500.jpg" alt="The who, what, and why of the attack that has shut down Stryker&#x27;s Windows network&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/" target="_blank">The who, what, and why of the attack that has shut down Stryker&#x27;s Windows network&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-12 22:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,10 +165,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/richard_mtrask_7688ace5a2/best-dress-shoes-for-men-style-comfort-and-quality-combined-123c" target="_blank">Best Dress Shoes for Men: Style, Comfort, and Quality Combined</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-13 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-NPU-Driver-Linux-1.30" target="_blank">Intel NPU Driver 1.30 Released For Linux</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-13 10:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/oil-water-moment-ai-architecture/en/headerimage/the-oil-and-water-moment-in-ai-architecture-header-1773149586690.jpg" alt="Article: The Oil and Water Moment in AI Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/oil-water-moment-ai-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: The Oil and Water Moment in AI Architecture</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-13 09:30</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +216,6 @@
                 <span class="time">2026-03-13 06:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mark0_617b45cda9782a/understanding-grc-how-to-navigate-risks-and-compliance-standards-26na" target="_blank">Understanding GRC: How to Navigate Risks and Compliance Standards</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-13 05:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/norvi_controllers/building-multi-year-iot-deployments-inside-the-norvi-ec-m12-bc-c6-c-a-lte-m-logger-46m0" target="_blank">Building Multi-Year IoT Deployments: Inside the NORVI EC-M12-BC-C6-C-A LTE-M Logger</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-13 03:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/StarTrekStarfleetAcademy-1280x853.jpg" alt="Alex Kurtzman Believes ‘Star Trek’ Still Has a Future on TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/alex-kurtzman-believes-star-trek-still-has-a-future-on-tv-2000733092" target="_blank">Alex Kurtzman Believes ‘Star Trek’ Still Has a Future on TV</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-13 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/0-6.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Vet cures puffed up kitten" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +287,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/best-peloton-hacks?utm_medium=RSS" target="_blank">10 Hacks Every Peloton Rider Should Know</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-12 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/target-avatar-tshirt-1280x853.jpg" alt="We Accidentally Just Got Our First Look at the Grown-Up Heroes of the ‘Last Airbender’ Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/avatar-last-airbender-aang-movie-first-look-katara-zuko-toph-sokka-2000732933" target="_blank">We Accidentally Just Got Our First Look at the Grown-Up Heroes of the ‘Last Airbender’ Movie</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-12 21:30</span>
             </div>
         </div>
 </div>
@@ -337,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 10:07 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 11:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
