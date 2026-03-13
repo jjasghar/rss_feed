@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-13 00:07:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-13 01:30:41 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, March 13, 2026 - 00:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, March 13, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +106,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23769840/best-bluetooth-trackers" target="_blank">The best Bluetooth trackers for Apple and Android phones</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-12 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/data-wiper-malware-500x500.jpg" alt="The who, what, and why of the attack that has shut down Stryker&#x27;s Windows network" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -152,20 +159,29 @@
                 <span class="time">2026-03-12 18:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1258714131-500x500.jpg" alt="Trump&#x27;s DOJ is not falling for Sam Bankman-Fried&#x27;s MAGA makeover on X" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/trumps-doj-is-not-falling-for-sam-bankman-frieds-maga-makeover-on-x/" target="_blank">Trump&#x27;s DOJ is not falling for Sam Bankman-Fried&#x27;s MAGA makeover on X</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-12 18:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-march-13-2026" target="_blank">Friday Five — March 13, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-03-13 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/apparmor-vulnerability-fixes-available" target="_blank">AppArmor vulnerability fixes available</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-03-12 23:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +218,6 @@
                 <span class="time">2026-03-12 20:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18913000&w=600" alt="Advanced Workday Reporting in Practice: From Calculated Fields to Prism Analytics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/calculated-fields-prism-analytics" target="_blank">Advanced Workday Reporting in Practice: From Calculated Fields to Prism Analytics</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-12 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18912993&w=600" alt="Google Cloud AI Agents With Gemini 3: Building Multi-Agent Systems That Actually Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/google-cloud-ai-agents-gemini-3" target="_blank">Google Cloud AI Agents With Gemini 3: Building Multi-Agent Systems That Actually Work</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-12 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKH90QNE3N7ES2BSGNS0TBC2/hero-image.png" alt="If You Have One of These Older Apple Devices, Update It ASAP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/older-apple-devices-security-update?utm_medium=RSS" target="_blank">If You Have One of These Older Apple Devices, Update It ASAP</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-12 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/large-1-1280x720.jpg" alt="Ghost Of Yotei’s New Free Online Mode Is So Good I’d Pay Money For It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,20 +291,20 @@
                 <span class="time">2026-03-12 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/Pam-Bondi-e1768500225995.jpeg?fit=768%2C494&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s DOJ dismantles hate-crime prevention office and pretends nothing happened" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/12/trumps-doj-dismantles-hate-crime-prevention-office-and-pretends-nothing-happened.html" target="_blank">Trump&#x27;s DOJ dismantles hate-crime prevention office and pretends nothing happened</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-12 19:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5785.png" alt="Good At Everything" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5785" target="_blank">Good At Everything</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-03-13 01:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -316,22 +323,13 @@
                 <span class="time">2026-03-12 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5784.png" alt="The Shape Of You" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5784" target="_blank">The Shape Of You</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-03-12 00:59</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 00:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
