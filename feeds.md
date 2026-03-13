@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-13 22:04:07 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-13 23:04:16 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, March 13, 2026 - 22:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, March 13, 2026 - 23:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/13/nx-s1-5746783/potomac-sewage-lawsuit" target="_blank">Class-action lawsuit filed after the Potomac sewage spill</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-13 22:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/13/worshippers-pray-outside-al-aqsa-amid-closure-on-al-quds-day?traffic_source=rss" target="_blank">Worshippers pray outside Al-Aqsa amid closure on al-Quds Day</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-13 21:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/13/qatars-interior-minister-says-security-situation-stable-amid-iran-war?traffic_source=rss" target="_blank">Qatar’s interior minister says security situation ‘stable’ amid Iran war</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-13 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/3/13/what-is-israels-endgame-in-lebanon?traffic_source=rss" target="_blank">What is Israel’s endgame in Lebanon?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-13 18:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/13/nx-s1-5745780/academy-awards-oscars-name" target="_blank">And the Oscar goes to — wait, why is it called an Oscar?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-13 18:06</span>
             </div>
         </div>
 </div>
@@ -164,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxq94mwlunkqjxgwyakz4.PNG" alt="Vibe Coding Challenge — Day 15: Settings Generator UI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/labdays/vibe-coding-challenge-day-15-settings-generator-ui-1nda" target="_blank">Vibe Coding Challenge — Day 15: Settings Generator UI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-13 22:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
@@ -208,15 +217,6 @@
                 <span class="time">2026-03-13 17:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Panther-Lake-C-States" target="_blank">Panther Lake Tuning For The Intel Idle Driver In Linux 7.1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-13 17:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/J3XzypGr7cQMAQUTepX7Le-1280x720.jpg" alt="Arc Raiders Has Started Replacing AI Voices With Human Ones Which CEO Admits Are Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/arc-raiders-replaced-ai-generated-content-human-recorded-dialogue-voices-2000678774" target="_blank">Arc Raiders Has Started Replacing AI Voices With Human Ones Which CEO Admits Are Better</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-13 21:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/heggy.jpg?fit=1080%2C575&amp;quality=60&amp;ssl=1" alt="Whiskey Pete admits to committing war crimes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/13/whiskey-pete-admits-to-committing-war-crimes.html" target="_blank">Whiskey Pete admits to committing war crimes</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-13 21:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +297,6 @@
                 <span class="title"><a href="https://gizmodo.com/amazon-is-jacking-up-the-price-on-prime-video-without-ads-2000733493" target="_blank">Amazon Is Jacking Up the Price on Prime Video Without Ads</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-13 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKM6YTQV15WGB62C72Y4P4XP/hero-image.jpg" alt="‘Current’ Fixes My Biggest Issues With RSS Readers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/current-fixes-my-biggest-issues-with-rss-readers?utm_medium=RSS" target="_blank">‘Current’ Fixes My Biggest Issues With RSS Readers</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-13 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/knocker.jpg?fit=1200%2C1015&amp;quality=60&amp;ssl=1" alt="The long history of waking people up before alarm clocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/13/the-long-history-of-waking-people-up-before-alarm-clocks.html" target="_blank">The long history of waking people up before alarm clocks</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-13 19:04</span>
             </div>
         </div>
 </div>
@@ -363,8 +363,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 22:04 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 23:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
