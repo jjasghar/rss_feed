@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-13 20:04:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-13 21:06:47 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, March 13, 2026 - 20:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, March 13, 2026 - 21:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/13/nx-s1-5747111/cholesterol-guidelines-lipoproteina-test" target="_blank">A cholesterol test you&#x27;ve never heard of is now recommended to prevent heart disease</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-13 20:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/13/israels-military-campaign-in-lebanon-reaches-devastating-new-phase?traffic_source=rss" target="_blank">Israel’s military campaign in Lebanon reaches devastating new phase</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-13 20:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +98,20 @@
                 <span class="time">2026-03-13 17:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-260312_1773327198440_hpMain_4x3t_384.jpg" alt="A &#x27;little excursion&#x27; or &#x27;war&#x27;? It&#x27;s &#x27;both,&#x27; Trump says: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/excursion-war-trump-analysis/story?id=131003550" target="_blank">A &#x27;little excursion&#x27; or &#x27;war&#x27;? It&#x27;s &#x27;both,&#x27; Trump says: ANALYSIS</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-13 17:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/f_mo_mich_fireworks-oy5tod.jpg" alt="Video appears to show Michigan synagogue attack suspect buying fireworks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/video-shows-michigan-synagogue-attack-suspect-buying-fireworks-259268677523" target="_blank">Video appears to show Michigan synagogue attack suspect buying fireworks</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-13 17:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles" target="_blank">Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-13 20:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +155,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/894319/google-pixel-10a-review-screen-specs-battery-camera" target="_blank">Google Pixel 10A review: Just buy the 9A</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-13 18:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/07/getty-att-logo-umbrella-500x500-1773422869.jpg" alt="Another AT&amp;T FirstNet user gets shocking $6,200 bill, at $2 per megabyte" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/att-wrongly-charged-man-6196-reversed-bill-after-hearing-from-ars/" target="_blank">Another AT&amp;T FirstNet user gets shocking $6,200 bill, at $2 per megabyte</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-13 17:49</span>
             </div>
         </div>
 </div>
@@ -239,11 +236,38 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/IMG_2175-1280x720.jpg" alt="Pokopia Fans Are Making Other Pokémon Games’ Iconic Landmarks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-pokopia-mystery-dungeon-pelipper-sharpedo-2000678769" target="_blank">Pokopia Fans Are Making Other Pokémon Games’ Iconic Landmarks</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-13 20:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Apple-Studio-Display-XDR-review-1-1280x853.jpg" alt="Apple Studio Display XDR Review: It Looks So Good, I Wish It Were an iMac" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/apple-studio-display-xdr-review-it-looks-so-good-i-wish-it-were-an-imac-2000733073" target="_blank">Apple Studio Display XDR Review: It Looks So Good, I Wish It Were an iMac</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-13 20:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/god-of-war-amazon-kratos-atreus-1280x853.jpg" alt="Amazon Is Jacking Up the Price on Prime Video Without Ads" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/amazon-is-jacking-up-the-price-on-prime-video-without-ads-2000733493" target="_blank">Amazon Is Jacking Up the Price on Prime Video Without Ads</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-13 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKM6YTQV15WGB62C72Y4P4XP/hero-image.jpg" alt="‘Current’ Fixes My Biggest Issues With RSS Readers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/current-fixes-my-biggest-issues-with-rss-readers?utm_medium=RSS" target="_blank">‘Current’ Fixes My Biggest Issues With RSS Readers</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-13 20:00</span>
             </div>
         </div>
@@ -263,33 +287,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/update-chrome-immediately-to-fix-this-zero-day-exploit?utm_medium=RSS" target="_blank">Update Chrome Immediately to Fix This Zero-Day Exploit</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-13 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/spacex-mars-colony-1280x853.jpg" alt="Mars Doesn’t Have Enough Gravity to Keep Humans Healthy, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/mars-doesnt-have-enough-gravity-to-keep-humans-healthy-study-suggests-2000733286" target="_blank">Mars Doesn’t Have Enough Gravity to Keep Humans Healthy, Study Suggests</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-13 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKM2G37GKSJ098WHBC38NNR7/hero-image.png" alt="The Voice Training Log on My Coros Watch Has Changed My Workouts for the Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/coros-watch-voice-notes-fitness-tech-upgrade-of-the-week?utm_medium=RSS" target="_blank">The Voice Training Log on My Coros Watch Has Changed My Workouts for the Better</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-13 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Screenshot-2026-03-12-at-8.03.20-PM-e1773421354558.png?fit=768%2C403&amp;quality=55&amp;ssl=1" alt="David Cross&#x27;s new comedy special is &quot;The End of the Beginning of the End&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/13/david-crosss-new-comedy-special-is-the-end-of-the-beginning-of-the-end.html" target="_blank">David Cross&#x27;s new comedy special is &quot;The End of the Beginning of the End&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-13 17:03</span>
             </div>
         </div>
 </div>
@@ -356,8 +353,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 20:04 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 21:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
