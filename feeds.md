@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-13 04:30:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-13 05:20:06 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
 <!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, March 13, 2026 - 04:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, March 13, 2026 - 05:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/3/13/the-palestinians-forced-to-demolish-their-own-homes-by-israel?traffic_source=rss" target="_blank">The Palestinians forced to demolish their own homes by Israel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-13 04:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/13/nx-s1-5746192/nycs-mamdani-condemns-tubervilles-anti-muslim-posts-as-bigotry" target="_blank">NYC&#x27;s Mamdani condemns Tuberville&#x27;s anti-Muslim posts as &quot;bigotry&quot;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-13 04:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strikes-residential-area-in-northern-israel?traffic_source=rss" target="_blank">Iranian missile strikes residential area in northern Israel</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-13 01:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7df7/live/48199650-1c94-11f1-b048-c9424b2cf5fd.jpg" alt="Mission accomplished? The 2003 boast that haunts today&#x27;s Iran conflict" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss" target="_blank">Mission accomplished? The 2003 boast that haunts today&#x27;s Iran conflict</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-13 00:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Temple-Israel-11-gty-gmh-260312_1773342019971_hpMain_4x3t_384.jpg" alt="Synagogue ramming probed as targeted act of violence against Jewish community: FBI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/active-shooter-reported-synagogue-west-bloomfield-michigan-sheriff/story?id=131007066" target="_blank">Synagogue ramming probed as targeted act of violence against Jewish community: FBI</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-12 23:04</span>
             </div>
         </div>
 </div>
@@ -165,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mark0_617b45cda9782a/understanding-grc-how-to-navigate-risks-and-compliance-standards-26na" target="_blank">Understanding GRC: How to Navigate Risks and Compliance Standards</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-13 05:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/norvi_controllers/building-multi-year-iot-deployments-inside-the-norvi-ec-m12-bc-c6-c-a-lte-m-logger-46m0" target="_blank">Building Multi-Year IoT Deployments: Inside the NORVI EC-M12-BC-C6-C-A LTE-M Logger</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-13 03:34</span>
@@ -204,15 +213,6 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-march-13-2026" target="_blank">Friday Five — March 13, 2026</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-13 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/apparmor-vulnerability-fixes-available" target="_blank">AppArmor vulnerability fixes available</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-03-12 23:46</span>
             </div>
         </div>
 </div>
@@ -325,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 04:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 05:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
