@@ -1,29 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-03-13 15:12:31 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-13 16:07:53 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 21 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, March 13, 2026 - 15:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, March 13, 2026 - 16:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +37,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/hegseth-1-ht-gmh-260313_1773404074267_hpMain_4x3t_384.jpg" alt="Iran live updates: 2,200 Marines headed to Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: 2,200 Marines headed to Middle East</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-13 15:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,20 +91,20 @@
                 <span class="time">2026-03-13 13:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773404738234_tdy_news_7a_engel_welker_us_plane_crash_iran_260313_1920x1080-nazbgl.jpg" alt="4 US Crew Members Killed After Refueling Plane Crashes in Iraq" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/refueling-plane-crash-leaves-at-least-4-us-crew-members-dead-259253317521" target="_blank">4 US Crew Members Killed After Refueling Plane Crashes in Iraq</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-13 12:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/894466/amazon-prime-video-ultra-ad-free-price-hike" target="_blank">Amazon Prime Video&amp;#8217;s ad-free plan is getting a price hike</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-13 15:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,20 +150,38 @@
                 <span class="time">2026-03-13 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/894274/macbook-neo-review-xbox-helix-vergecast" target="_blank">The MacBook Neo is a winner</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-13 13:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18913420&w=600" alt="GitOps Secrets Management: The Vault + External Secrets Operator Pattern (With Auto-Rotation)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/gitops-secrets-management-the-vault-external-secre" target="_blank">GitOps Secrets Management: The Vault + External Secrets Operator Pattern (With Auto-Rotation)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-13 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jmolinasoler/running-automated-crypto-grid-trading-bots-across-multiple-l2s-a-month-in-production-579c" target="_blank">Running Automated Crypto Grid Trading Bots Across Multiple L2s: A Month in Production</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-13 15:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.baro.dev/p/reinventing-pythons-asyncio" target="_blank">Reinventing Python&#x27;s AsyncIO</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-13 15:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,33 +207,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DoorDash Builds LLM Conversation Simulator to Test Customer Support Chatbots at Scale</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-03-13 14:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18913946&w=600" alt="Building an AI-First Enterprise: Multi-Agent Systems, DSLMs, and the New SDLC in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-an-ai-first-enterprise-multi-agent-system" target="_blank">Building an AI-First Enterprise: Multi-Agent Systems, DSLMs, and the New SDLC in 2026</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-13 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-612-linux-70-xfs-ext4" target="_blank">Linux 6.12 Through Linux 7.0 File-System Benchmarks For EXT4 + XFS</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-13 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F02ny15wfagdzl6rbdapm.jpeg" alt="Pare de usar isEmpty() e isBlank() em seus Controllers Spring Boot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/isac_canedo/pare-de-usar-isempty-e-isblank-em-seus-controllers-spring-boot-2ack" target="_blank">Pare de usar isEmpty() e isBlank() em seus Controllers Spring Boot</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-13 13:21</span>
             </div>
         </div>
 </div>
@@ -239,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2731718297-scaled.jpg?fit=2560%2C1757&amp;quality=60&amp;ssl=1" alt="Cathedral dean accused of stealing baseball cards from Walmart" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/13/cathedral-dean-accused-of-stealing-baseball-cards-from-walmart.html" target="_blank">Cathedral dean accused of stealing baseball cards from Walmart</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-13 14:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/stellar-twins-migration-1280x853.jpg" alt="Our Sun Was Born in a Hellish Part of the Milky Way. New Research Explains How It Escaped" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,20 +291,20 @@
                 <span class="time">2026-03-13 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/0-6.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Vet cures puffed up kitten" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/12/vet-cures-puffed-up-kitten.html" target="_blank">Vet cures puffed up kitten</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-13 01:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1773265105-20260313 - Copy.png" alt="Saturday Morning Breakfast Cereal - Hmm" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/hmm" target="_blank">Saturday Morning Breakfast Cereal - Hmm</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-13 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -325,22 +332,13 @@
                 <span class="time">2026-03-12 22:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1773265059-20260312.png" alt="Saturday Morning Breakfast Cereal - Sci fi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/sci-fi" target="_blank">Saturday Morning Breakfast Cereal - Sci fi</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-03-12 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 15:12 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 16:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
