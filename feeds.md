@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-03-13 14:13:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-13 15:12:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, March 13, 2026 - 14:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, March 13, 2026 - 15:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/13/us-hegseth-claims-irans-new-supreme-leader-mojtaba-khamenei-injured?traffic_source=rss" target="_blank">US’s Hegseth claims new Iran Supreme Leader Mojtaba Khamenei injured</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-13 14:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba4/live/9b5b1120-1ed5-11f1-9120-a910fc22c6ac.jpg" alt="All six crew members killed after US refuelling plane crashes in Iraq" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss" target="_blank">All six crew members killed after US refuelling plane crashes in Iraq</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-13 14:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +93,38 @@
                 <span class="time">2026-03-13 12:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53d7/live/a0e799b0-1e6c-11f1-b048-c9424b2cf5fd.jpg" alt="Four crew members killed after US refuelling plane crashes in Iraq" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss" target="_blank">Four crew members killed after US refuelling plane crashes in Iraq</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-13 11:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02bc/live/c31b47f0-1ecd-11f1-84c5-132fa5d854db.jpg" alt="UK economy flatlines in January as people cut back on eating out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c75e06e0kd7o?at_medium=RSS&at_campaign=rss" target="_blank">UK economy flatlines in January as people cut back on eating out</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-13 11:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/13/apple-drops-commission-rates-in-china-25-percent/" target="_blank">Apple drops commission rates in China without a fuss</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-13 15:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b065f5772e2c790732c214/master/pass/Backchannel-Iran-War-Disrupts-Tech-Supply-Chain-Business-241483526.jpg" alt="The Iran War Is Throwing Global Shipping Into Chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/iran-war-global-supply-chain-chaos/" target="_blank">The Iran War Is Throwing Global Shipping Into Chaos</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-13 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/disclosure2-500x500-1773412687.jpg" alt="Aliens announce their presence in latest Disclosure Day trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/03/aliens-announce-their-presence-in-latest-disclosure-day-trailer/" target="_blank">Aliens announce their presence in latest Disclosure Day trailer</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-13 14:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69b19fccd3de85f928242d06/master/pass/Simone-Giertz-Laundry-Chair-Gear-Hero-ClothesOnRail-Studio.jpg" alt="Toss Your Not-Quite-Clean Clothes on Simone Giertz’s Laundry Chair" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,38 +152,38 @@
                 <span class="time">2026-03-13 13:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/55143071969_ca5b4ca8db_o-500x500.jpg" alt="Rocket Report: Pentagon needs more missile interceptors; Artemis II clears review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/03/rocket-report-pentagon-needs-more-missile-interceptors-artemis-ii-clears-review/" target="_blank">Rocket Report: Pentagon needs more missile interceptors; Artemis II clears review</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-13 12:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b2ee5feadc91f592dc322f/master/pass/shutterstock_2668436833.jpg" alt="Google&#x27;s AI Searches Love to Refer You Back to Google" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/" target="_blank">Google&#x27;s AI Searches Love to Refer You Back to Google</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-13 12:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69af4032df27a642d70d9a52/master/pass/Made-In-China-China-Going-All-in-on-OpenClaw-Business-2260596359.jpg" alt="China’s OpenClaw Boom Is a Gold Rush for AI Companies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/china-is-going-all-in-on-openclaw/" target="_blank">China’s OpenClaw Boom Is a Gold Rush for AI Companies</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-13 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/childrentime/react-19-hooks-whats-new-and-how-to-use-them-effectively-2i6n" target="_blank">React 19 Hooks: What&#x27;s New and How to Use Them Effectively</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-13 15:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18913987&w=600" alt="Understanding Custom Authorization Mechanisms in Amazon API Gateway and AWS AppSync" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/understanding-custom-authorization-mechanisms-in-a" target="_blank">Understanding Custom Authorization Mechanisms in Amazon API Gateway and AWS AppSync</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-13 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/en/headerimage/llmsimulation-1772868016503.jpeg" alt="DoorDash Builds LLM Conversation Simulator to Test Customer Support Chatbots at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DoorDash Builds LLM Conversation Simulator to Test Customer Support Chatbots at Scale</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-13 14:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18913946&w=600" alt="Building an AI-First Enterprise: Multi-Agent Systems, DSLMs, and the New SDLC in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -191,33 +209,6 @@
                 <span class="title"><a href="https://dev.to/isac_canedo/pare-de-usar-isempty-e-isblank-em-seus-controllers-spring-boot-2ack" target="_blank">Pare de usar isEmpty() e isBlank() em seus Controllers Spring Boot</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-13 13:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe-VM-BIND-DECOMPRESS" target="_blank">Intel Xe Driver In Linux 7.1 Preps For Intel Nova Lake P, Introduces VM_BIND DECOMPRESS</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-13 13:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17298787/chrome-linux-arm-announcement" target="_blank">Good News! Google Chrome on Linux is Getting the Much Awaited Upgrade</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-13 12:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/netflix-kernel-scaling-container/en/headerimage/generatedHeaderImage-1772720450776.jpg" alt="Netflix Uncovers Kernel-Level Bottlenecks While Scaling Containers on Modern CPUs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/netflix-kernel-scaling-container/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Netflix Uncovers Kernel-Level Bottlenecks While Scaling Containers on Modern CPUs</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-13 12:00</span>
             </div>
         </div>
 </div>
@@ -248,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/stellar-twins-migration-1280x853.jpg" alt="Our Sun Was Born in a Hellish Part of the Milky Way. New Research Explains How It Escaped" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/our-sun-was-born-in-a-hellish-part-of-the-milky-way-new-research-explains-how-it-escaped-2000733122" target="_blank">Our Sun Was Born in a Hellish Part of the Milky Way. New Research Explains How It Escaped</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-13 14:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KKHW7QCTZMAF6JCBSXZE5DDJ/hero-image.jpg" alt="Check Your Asus Router for Malware ASAP" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +291,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/12/vet-cures-puffed-up-kitten.html" target="_blank">Vet cures puffed up kitten</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-13 01:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/xboxaly-1280x720.jpg" alt="Xbox Is Marching Forward With AI Features But Says It Wants To Protect Content Creators" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-copilot-rog-ally-ai-microsoft-2000678483" target="_blank">Xbox Is Marching Forward With AI Features But Says It Wants To Protect Content Creators</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-13 01:37</span>
             </div>
         </div>
 </div>
@@ -348,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 14:13 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 15:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
