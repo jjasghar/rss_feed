@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-12 23:03:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-13 00:07:27 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, March 12, 2026 - 23:04 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, March 13, 2026 - 00:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Temple-Israel-11-gty-gmh-260312_1773342019971_hpMain_4x3t_384.jpg" alt="Synagogue ramming probed as targeted act of violence against Jewish community: FBI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/active-shooter-reported-synagogue-west-bloomfield-michigan-sheriff/story?id=131007066" target="_blank">Synagogue ramming probed as targeted act of violence against Jewish community: FBI</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-12 23:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773356397908_nn_rno_norfolk_shooting_260312_1920x1080-5ggo3f.jpg" alt="Deadly campus shooting investigated as act of terrorism" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/deadly-campus-shooting-investigated-as-act-of-terrorism-259222597944" target="_blank">Deadly campus shooting investigated as act of terrorism</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-12 23:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +102,20 @@
                 <span class="time">2026-03-12 20:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0728/live/24bf66b0-1e26-11f1-8cc8-6d61f147f0ba.jpg" alt="Iran&#x27;s new supreme leader vows to block Strait of Hormuz in first statement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdxg599655vo?at_medium=RSS&at_campaign=rss" target="_blank">Iran&#x27;s new supreme leader vows to block Strait of Hormuz in first statement</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-12 20:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7ce/live/f5f58a60-1e2c-11f1-a76e-b1f08d59c0bf.jpg" alt="UK troops at Iraq base shot down Iranian drones, Healey says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0e531gve7do?at_medium=RSS&at_campaign=rss" target="_blank">UK troops at Iraq base shot down Iranian drones, Healey says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-12 20:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/data-wiper-malware-500x500.jpg" alt="The who, what, and why of the attack that has shut down Stryker&#x27;s Windows network" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/" target="_blank">The who, what, and why of the attack that has shut down Stryker&#x27;s Windows network</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-12 22:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/data-wiper-malware-500x500.jpg" alt="The who, what, and why of the attack that has shut down Stryker&#x27;s Windows network&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +161,6 @@
                 <span class="time">2026-03-12 18:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/12/substack-launches-a-built-in-recording-studio/" target="_blank">Substack launches a built-in recording studio</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-12 18:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -183,10 +187,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0" target="_blank">Shall I implement it? No</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-12 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Google-Chrome-ARM64-Linux-Q2" target="_blank">Google To Finally Provide Chrome ARM64 Binaries For Linux</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-12 20:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18913000&w=600" alt="Advanced Workday Reporting in Practice: From Calculated Fields to Prism Analytics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/calculated-fields-prism-analytics" target="_blank">Advanced Workday Reporting in Practice: From Calculated Fields to Prism Analytics</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-12 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +218,6 @@
                 <span class="title"><a href="https://dzone.com/articles/google-cloud-ai-agents-gemini-3" target="_blank">Google Cloud AI Agents With Gemini 3: Building Multi-Agent Systems That Actually Work</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-12 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18912989&w=600" alt="Beyond the Heartbeat: Monitoring Agentic Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/monitoring-agentic-systems" target="_blank">Beyond the Heartbeat: Monitoring Agentic Systems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-12 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!uTLZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1886a999-fc50-43f4-8989-ac9cb6f395dd_2048x1536.jpeg" alt="The Pulse: What will the Staff Engineer role look like in 2027 and beyond?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-what-will-the-staff-engineer" target="_blank">The Pulse: What will the Staff Engineer role look like in 2027 and beyond?</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-03-12 17:46</span>
             </div>
         </div>
 </div>
@@ -295,6 +299,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/12/hue-and-cry" target="_blank">Hue And Cry</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-12 22:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1773265059-20260312.png" alt="Saturday Morning Breakfast Cereal - Sci fi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -317,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 23:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 00:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
