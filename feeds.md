@@ -1,29 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-13 02:52:55 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-13 03:44:48 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, March 13, 2026 - 02:53 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, March 13, 2026 - 03:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7544/live/82f7eb60-1e87-11f1-9610-8d2927afc8b3.jpg" alt="Oil price profiteering will not be tolerated, says Miliband" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crk83e2g65no?at_medium=RSS&at_campaign=rss" target="_blank">Oil price profiteering will not be tolerated, says Miliband</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-13 02:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/03/12/nx-s1-5746061/us-china-trade-five-year-plan" target="_blank">China slams Trump&#x27;s trade investigation, as it approves a 5-year economic plan</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-13 02:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strikes-residential-area-in-northern-israel?traffic_source=rss" target="_blank">Iranian missile strikes residential area in northern Israel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-13 01:55</span>
             </div>
         </div>
 <div class="story">
@@ -73,24 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/12/nx-s1-5746128/nasa-artemis-ii-april-launch" target="_blank">NASA targets Artemis II crewed moon mission for April 1 launch</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-12 21:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/12/netanyahu-says-israel-stronger-than-ever-in-first-speech-since-iran-war?traffic_source=rss" target="_blank">Netanyahu says Israel ‘stronger than ever’ in first speech since Iran war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-12 21:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/mar/12/trump-immigration-deportations-eswatini" target="_blank">Eswatini says it received more ‘third country’ deportees as part of deal with Trump administration</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-12 21:20</span>
             </div>
         </div>
 </div>
@@ -161,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/norvi_controllers/building-multi-year-iot-deployments-inside-the-norvi-ec-m12-bc-c6-c-a-lte-m-logger-46m0" target="_blank">Building Multi-Year IoT Deployments: Inside the NORVI EC-M12-BC-C6-C-A LTE-M Logger</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-13 03:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/willvelida/preventing-rogue-ai-agents-53n2" target="_blank">Preventing Rogue AI Agents</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-13 02:48</span>
@@ -173,6 +189,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/TrueNAS-Connect-2026" target="_blank">TrueNAS Connect Announced For Offering Enterprise Features Without The Hardware</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-13 00:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2020/02/chrome-browser-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Google Chrome is (finally) coming to ARM64 Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/google-chrome-arm64-linux" target="_blank">Google Chrome is (finally) coming to ARM64 Linux</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-13 00:07</span>
             </div>
         </div>
 <div class="story">
@@ -191,24 +216,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/apparmor-vulnerability-fixes-available" target="_blank">AppArmor vulnerability fixes available</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-03-12 23:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/moemenali/ai-tools-every-software-engineer-has-to-try-in-2026-1fkc" target="_blank">AI Tools Every Software Engineer Has to Try in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-12 22:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-More-cpupower" target="_blank">Linux 7.0 cpupower Now Handles systemd Service Setting EPP, Intel P-State Turbo Boost</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-12 21:31</span>
             </div>
         </div>
 </div>
@@ -237,6 +244,15 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/12/vet-cures-puffed-up-kitten.html" target="_blank">Vet cures puffed up kitten</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-13 01:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/xboxaly-1280x720.jpg" alt="Xbox Is Marching Forward With AI Features But Says It Wants To Protect Content Creators" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-copilot-rog-ally-ai-microsoft-2000678483" target="_blank">Xbox Is Marching Forward With AI Features But Says It Wants To Protect Content Creators</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-13 01:37</span>
             </div>
         </div>
 <div class="story">
@@ -272,15 +288,6 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/avatar-last-airbender-aang-movie-first-look-katara-zuko-toph-sokka-2000732933" target="_blank">We Accidentally Just Got Our First Look at the Grown-Up Heroes of the ‘Last Airbender’ Movie</a></span>
                 <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-12 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKHPXPSMKPX5FVHMFGPECRR2/hero-image.jpg" alt="What We Know About Apple&#x27;s 50th Anniversary Plans (So Far)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-50th-anniversary-plans?utm_medium=RSS" target="_blank">What We Know About Apple&#x27;s 50th Anniversary Plans (So Far)</a></span>
-                <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-12 21:30</span>
             </div>
         </div>
@@ -321,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 02:53 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 03:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
