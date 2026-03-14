@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-14 16:03:24 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-14 17:04:53 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, March 14, 2026 - 16:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, March 14, 2026 - 17:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +108,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/" target="_blank">Meta reportedly considering layoffs that could affect 20% of the company</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-14 16:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/03/14/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/" target="_blank">As people look for ways to make new friends, here are the apps promising to help</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-14 16:00</span>
@@ -147,20 +158,20 @@
                 <span class="time">2026-03-14 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/getty-musk-500x500.jpg" alt="Staff complain that xAI is flailing because of constant upheaval" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/" target="_blank">Staff complain that xAI is flailing because of constant upheaval</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-14 07:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3m7zswjpeg8nw3o8i9o8.png" alt="Running OpenClaw on Kubernetes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thenjdevopsguy/running-openclaw-on-kubernetes-57ki" target="_blank">Running OpenClaw on Kubernetes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-14 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -168,6 +179,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Snapdragon-X-Elite-Ubuntu-26.04" target="_blank">Trying Out Snapdragon X Elite With The Acer Swift 14 AI Laptop On Ubuntu 26.04</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-14 14:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/" target="_blank">Montana passes Right to Compute act (2025)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-14 13:59</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +215,6 @@
                 <span class="title"><a href="https://unplannedobsolescence.com/blog/xml-cheap-dsl/" target="_blank">XML Is a Cheap DSL</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-14 11:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/muneebdev/the-rise-of-agentic-ai-and-smarter-search-algorithms-3of" target="_blank">The Rise of Agentic AI and Smarter Search Algorithms</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-14 11:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Android-Using-Linux-AutoFDO" target="_blank">Google Now Using AutoFDO To Enhance Android&#x27;s Linux Kernel Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-14 10:57</span>
             </div>
         </div>
 </div>
@@ -243,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/zach-braff-1280x883.jpg" alt="Zach Braff’s AI Relationship Denial Is Raising a Lot of Questions Already Answered by the Denial" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/zach-braffs-ai-relationship-denial-is-raising-a-lot-of-questions-already-answered-by-his-denial-2000733708" target="_blank">Zach Braff’s AI Relationship Denial Is Raising a Lot of Questions Already Answered by the Denial</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-14 16:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/slay-the-spires.jpg" alt="Slay The Spire 2 Promises To Patch Out 1 Billion HP Exploit As It Sells A Whopping 3 Million Copies In Just One Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +299,6 @@
                 <span class="time">2026-03-13 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/J3XzypGr7cQMAQUTepX7Le-1280x720.jpg" alt="Arc Raiders Has Started Replacing AI Voices With Human Ones Which CEO Admits Are Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/arc-raiders-replaced-ai-generated-content-human-recorded-dialogue-voices-2000678774" target="_blank">Arc Raiders Has Started Replacing AI Voices With Human Ones Which CEO Admits Are Better</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-13 21:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 16:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 17:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
