@@ -1,37 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-03-14 22:02:28 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-14 23:04:20 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 2 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, March 14, 2026 - 22:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, March 14, 2026 - 23:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -169,6 +160,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sagar_joshi_31ac4ef39367a/the-missing-protocol-how-bfcp-unlocked-dual-monitor-conferencing-for-enterprise-room-systems-27af" target="_blank">The Missing Protocol: How BFCP Unlocked Dual-Monitor Conferencing for Enterprise Room Systems</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-14 22:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/micelclaw/entity-extraction-with-a-2b-model-benchmarks-from-a-personal-knowledge-graph-2f27" target="_blank">3º. Entity extraction with a 2B model: benchmarks from a personal knowledge graph</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-14 21:48</span>
@@ -210,15 +210,6 @@
                 <span class="time">2026-03-14 19:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/" target="_blank">MCP Is Dead; Long Live MCP</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-14 19:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +229,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/1AkKIRQNiuy2q7at1nJynbA.jpg" alt="Venture Capitalist ‘Shocked And Sad’ About How Much Gamers Hate AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/investors-grapple-with-ai-unpopularity-at-gdc-xbox-2000678933" target="_blank">Venture Capitalist ‘Shocked And Sad’ About How Much Gamers Hate AI</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-14 21:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/01/tiktok-study-ccp-1280x853.jpg" alt="ByteDance’s Controversial AI Video Model Reportedly on Hold Globally Due to Copyright Disputes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +283,6 @@
                 <span class="time">2026-03-14 13:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/08/DOJ-realpage-antitrust-header-1-1024x683.jpg" alt="These People Want Us to Let Them Hook Up AI to a Nuclear Weapon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/these-people-want-us-to-let-them-hook-up-ai-to-a-nuclear-weapon-2000733472" target="_blank">These People Want Us to Let Them Hook Up AI to a Nuclear Weapon</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-14 13:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 23:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
