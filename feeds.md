@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-14 19:07:09 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-14 20:02:16 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, March 14, 2026 - 19:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, March 14, 2026 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +106,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/business/895026/meta-laying-off-20-percent" target="_blank">Meta is reportedly laying off up to 20 percent of its staff</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-14 18:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/" target="_blank">Honda is killing its EVs — and any chance of competing in the future</a></span>
                 <span class="feed">TechCrunch</span>
@@ -151,20 +157,29 @@
                 <span class="time">2026-03-14 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/893765/asus-cetra-open-wireless-gaming-earbuds-hands-on-impressions" target="_blank">Asus’ new open earbuds are a wonderful companion for handheld gaming</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-14 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/grab-tlru-image-cache/en/headerimage/android-grab-image-cache-1773515077045.jpeg" alt="How Grab Optimizes Image Caching on Android with Time-Aware LRU" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/grab-tlru-image-cache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Grab Optimizes Image Caching on Android with Time-Aware LRU</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-14 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/deadletter/why-your-webhook-handler-is-silently-failing-and-how-to-fix-it-50ah" target="_blank">Why Your Webhook Handler Is Silently Failing (And How to Fix It)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-14 19:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +216,6 @@
                 <span class="time">2026-03-14 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable" target="_blank">What happens when US economic data becomes unreliable</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-14 16:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Snapdragon-X-Elite-Ubuntu-26.04" target="_blank">Trying Out Snapdragon X Elite With The Acer Swift 14 AI Laptop On Ubuntu 26.04</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-14 14:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/ss_c09706c6bed68996458c835ffa931900ac9c8b33.1920x1080-1280x720.jpg" alt="Egg Adventures, Trash Bandits, And Waking Nightmares: 5 Neat Indies You Definitely Missed This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/indie-games-hidden-gems-oeuf-mamas-sleeping-angels-2000678915" target="_blank">Egg Adventures, Trash Bandits, And Waking Nightmares: 5 Neat Indies You Definitely Missed This Week</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-14 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/doom-rosamund-pike-1280x853.jpg" alt="Rosamund Pike Thinks the ‘Doom’ Movie Is So Bad It Nearly Killed Her Career" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +298,6 @@
                 <span class="time">2026-03-14 13:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_444309646.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="BuzzFeed doubts it can stay in business after pivot to AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/13/buzzfeed-doubts-it-can-stay-in-business-after-pivot-to-ai.html" target="_blank">BuzzFeed doubts it can stay in business after pivot to AI</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-14 00:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,22 +312,13 @@
                 <span class="time">2026-03-14 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/13/streaming-some-once-upon-a-galaxy" target="_blank">Streaming Some Once Upon A Galaxy</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-03-13 19:11</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 19:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
