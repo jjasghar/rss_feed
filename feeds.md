@@ -1,42 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-14 07:12:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-14 08:04:10 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, March 14, 2026 - 07:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, March 14, 2026 - 08:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/14/us-embassy-in-baghdad-iraq-targeted-with-missile-hits-helipad?traffic_source=rss" target="_blank">US Embassy in Baghdad, Iraq attacked with missile that hits helipad</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-14 07:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,20 +97,20 @@
                 <span class="time">2026-03-14 00:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/14/republic-of-congo-election-who-is-running-and-whats-at-stake?traffic_source=rss" target="_blank">Republic of Congo election: Who is running and what’s at stake?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-14 00:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/getty-musk-500x500.jpg" alt="Staff complain that xAI is flailing because of constant upheaval" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/" target="_blank">Staff complain that xAI is flailing because of constant upheaval</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-14 07:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" alt="Vivid Seats Promo Codes and Deals: Save 10% This March" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,15 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/policy/894851/states-live-nation-monopoly-trial" target="_blank">States’ anti-monopoly case against Live Nation continues Monday</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-13 22:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/" target="_blank">Digg lays off staff and shuts down app as company retools</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-13 21:51</span>
             </div>
         </div>
 </div>
@@ -343,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 07:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 08:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
