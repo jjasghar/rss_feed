@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-14 10:03:19 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-03-14 11:03:25 UTC -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, March 14, 2026 - 10:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, March 14, 2026 - 11:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/14/china-edge-taiwan-2-0-in-extra-time-to-reach-womens-asian-cup-semifinals?traffic_source=rss" target="_blank">China beat Taiwan 2-0 in extra time to reach Women’s Asian Cup semifinals</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-14 10:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/14/nx-s1-5744006/congress-prediction-markets-disclosure-rules" target="_blank">With boom in prediction markets, some lawmakers worry about how to police themselves</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-14 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/14/iran-war-what-is-happening-on-day-15-of-us-israel-attacks?traffic_source=rss" target="_blank">Iran war: What is happening on day 15 of US-Israel attacks?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-14 05:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-kharg-island-iran-oil_7187013.jpg?20260309134512" alt="Bombs and bravado: Trump&#x27;s post reveals much about island strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/bombs-and-bravado-trumps-post-reveals-much-about-island-strike-13519463" target="_blank">Bombs and bravado: Trump&#x27;s post reveals much about island strike</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-14 03:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc9a/live/87c0d0f0-1f3e-11f1-9120-a910fc22c6ac.jpg" alt="Chancellor to offer support over rising heating oil costs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg3y9dpvxgo?at_medium=RSS&at_campaign=rss" target="_blank">Chancellor to offer support over rising heating oil costs</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-14 03:49</span>
             </div>
         </div>
 </div>
@@ -161,6 +165,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/muneebdev/the-rise-of-agentic-ai-and-smarter-search-algorithms-3of" target="_blank">The Rise of Agentic AI and Smarter Search Algorithms</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-14 11:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Android-Using-Linux-AutoFDO" target="_blank">Google Now Using AutoFDO To Enhance Android&#x27;s Linux Kernel Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-14 10:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpxzwkt0h502gtx1irpay.png" alt="Chain of Responsibility for LLM Response Handling" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -194,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/needlecode/stop-relying-on-bloated-themes-how-to-build-a-custom-wordpress-theme-from-scratch-ck5" target="_blank">Stop Relying on Bloated Themes: How to Build a Custom WordPress Theme from Scratch</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-14 06:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fglizqw0aj69z3964r84x.png" alt="Designing a Personal AI Assistant - Architecture &amp; Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dgwange/designing-a-personal-ai-assistant-architecture-design-25fc" target="_blank">Designing a Personal AI Assistant - Architecture &amp; Design</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-14 02:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/liam_altie/i-was-tired-of-parsing-xbrl-so-i-built-a-sec-edgar-api-1jp3" target="_blank">I Was Tired of Parsing XBRL, So I Built a SEC EDGAR API</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-14 01:24</span>
             </div>
         </div>
 </div>
@@ -333,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 10:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 11:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
