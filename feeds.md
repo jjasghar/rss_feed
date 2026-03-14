@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-13 23:04:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-14 00:08:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, March 13, 2026 - 23:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, March 14, 2026 - 00:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +53,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/13/nx-s1-5746783/potomac-sewage-lawsuit" target="_blank">Class-action lawsuit filed after the Potomac sewage spill</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-13 22:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260313-supermarket-ch-1016-be1695.jpg" alt="The Iran war&#x27;s looming economic threat: Higher food prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/consumer/iran-war-fertilizer-prices-food-rcna263336" target="_blank">The Iran war&#x27;s looming economic threat: Higher food prices</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-13 22:10</span>
             </div>
         </div>
 <div class="story">
@@ -90,20 +100,20 @@
                 <span class="time">2026-03-13 20:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/13/qatars-interior-minister-says-security-situation-stable-amid-iran-war?traffic_source=rss" target="_blank">Qatar’s interior minister says security situation ‘stable’ amid Iran war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-13 19:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69b35cec1e7f619c8ec103e8/master/pass/in-transit-las-vegas.jpg" alt="What to Do in Vegas If You’re Here for Business (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/in-transit-las-vegas/" target="_blank">What to Do in Vegas If You’re Here for Business (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-13 23:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +159,6 @@
                 <span class="time">2026-03-13 18:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2217925353-500x500.jpg" alt="Adobe settles DOJ cancellation fee lawsuit, will pay $75 million penalty" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/adobe-settles-doj-cancellation-fee-lawsuit-will-pay-75-million-penalty/" target="_blank">Adobe settles DOJ cancellation fee lawsuit, will pay $75 million penalty</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-13 18:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +171,15 @@
                 <span class="title"><a href="https://dev.to/labdays/vibe-coding-challenge-day-15-settings-generator-ui-1nda" target="_blank">Vibe Coding Challenge — Day 15: Settings Generator UI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-13 22:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Debian-debaudit" target="_blank">debauit Announced As Debian Source Package Auditor</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-13 21:48</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-595.44.03-Linux" target="_blank">NVIDIA 595.44.03 Linux Driver Released With VK_KHR_device_address_commands</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-13 18:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/googleai/deployments-made-easy-cloud-run-101-11ma" target="_blank">Deployments made easy: Cloud Run 101</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-13 17:53</span>
             </div>
         </div>
 </div>
@@ -363,8 +364,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 23:04 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 00:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
