@@ -1,25 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-14 05:18:35 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-14 06:10:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 17 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, March 14, 2026 - 05:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, March 14, 2026 - 06:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,9 +53,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/14/iran-war-what-is-happening-on-day-15-of-us-israel-attacks?traffic_source=rss" target="_blank">Iran war: What is happening on day 15 of US-Israel attacks?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-14 05:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/14/trump-claims-us-way-ahead-of-schedule-in-iran?traffic_source=rss" target="_blank">Trump claims US ‘way ahead of schedule’ in Iran war</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-14 03:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d4/live/b4e27fb0-1f30-11f1-8878-496c8cd59e21.jpg" alt="More US Marines and warships to be moved to Middle East, reports say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss" target="_blank">More US Marines and warships to be moved to Middle East, reports say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-14 00:53</span>
             </div>
         </div>
 <div class="story">
@@ -69,24 +101,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: US &#x27;bombing raid&#x27; strikes Kharg Island, Trump says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-13 23:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/13/nx-s1-5746783/potomac-sewage-lawsuit" target="_blank">Class-action lawsuit filed after the Potomac sewage spill</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-13 22:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260313-supermarket-ch-1016-be1695.jpg" alt="The Iran war&#x27;s looming economic threat: Higher food prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/consumer/iran-war-fertilizer-prices-food-rcna263336" target="_blank">The Iran war&#x27;s looming economic threat: Higher food prices</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-13 22:10</span>
             </div>
         </div>
 </div>
@@ -154,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/needlecode/stop-relying-on-bloated-themes-how-to-build-a-custom-wordpress-theme-from-scratch-ck5" target="_blank">Stop Relying on Bloated Themes: How to Build a Custom WordPress Theme from Scratch</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-14 06:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fglizqw0aj69z3964r84x.png" alt="Designing a Personal AI Assistant - Architecture &amp; Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,15 +219,6 @@
                 <span class="title"><a href="https://smiling.dev/blog/rust-shined-over-python-for-my-cli-tool/" target="_blank">Rust Shined Over Python for My CLI Tool</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-03-13 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18913469&w=600" alt="Serverless Glue Jobs at Scale: Where the Bottlenecks Really Are" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/serverless-glue-jobs-at-scale-where-the-bottleneck" target="_blank">Serverless Glue Jobs at Scale: Where the Bottlenecks Really Are</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-13 20:00</span>
             </div>
         </div>
 </div>
@@ -335,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 05:18 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 06:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
