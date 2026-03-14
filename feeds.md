@@ -1,43 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-14 18:03:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-14 19:07:09 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 34 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, March 14, 2026 - 18:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, March 14, 2026 - 19:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -175,6 +169,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/selfhostingsh/freescout-vs-zammad-3kg9" target="_blank">Freescout Vs Zammad</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-14 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://jazzband.co/news/2026/03/14/sunsetting-jazzband" target="_blank">Sunsetting Jazzband</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-14 18:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ptzyam/i-built-a-multi-tenant-telegram-support-bot-saas-in-4-working-days-the-other-10-were-waiting-for-5na" target="_blank">I built a multi-tenant Telegram support bot SaaS in 4 working days (the other 10 were waiting for API credits to refill)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-14 17:59</span>
@@ -192,37 +204,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Snapdragon-X-Elite-Ubuntu-26.04" target="_blank">Trying Out Snapdragon X Elite With The Acer Swift 14 AI Laptop On Ubuntu 26.04</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-14 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/" target="_blank">Montana passes Right to Compute act (2025)</a></span>
+                <span class="title"><a href="https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable" target="_blank">What happens when US economic data becomes unreliable</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-03-14 13:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/" target="_blank">Montana passes Right to Compute act</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-14 13:59</span>
+                <span class="time">2026-03-14 16:58</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/OpenRazer-3.12" target="_blank">OpenRazer 3.12 Released With Support For Newer Razer Products On Linux</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Snapdragon-X-Elite-Ubuntu-26.04" target="_blank">Trying Out Snapdragon X Elite With The Acer Swift 14 AI Laptop On Ubuntu 26.04</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-03-14 13:54</span>
+                <span class="time">2026-03-14 14:24</span>
             </div>
         </div>
 </div>
@@ -253,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/doom-rosamund-pike-1280x853.jpg" alt="Rosamund Pike Thinks the ‘Doom’ Movie Is So Bad It Nearly Killed Her Career" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/rosamund-pike-thinks-the-doom-movie-is-so-bad-it-nearly-killed-her-career-2000733572" target="_blank">Rosamund Pike Thinks the ‘Doom’ Movie Is So Bad It Nearly Killed Her Career</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-14 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/zach-braff-1280x883.jpg" alt="Zach Braff’s AI Relationship Denial Is Raising a Lot of Questions Already Answered by the Denial" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -298,15 +301,6 @@
                 <span class="time">2026-03-14 00:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/RingsofPower_Dwarves-1280x853.jpg" alt="Brandon Sanderson Explains Why He Doesn’t Write About Elves or Dwarves" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/brandon-sanderson-explains-why-he-doesnt-write-about-elves-or-dwarves-2000733551" target="_blank">Brandon Sanderson Explains Why He Doesn’t Write About Elves or Dwarves</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-13 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -335,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 18:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 19:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
