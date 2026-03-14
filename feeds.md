@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-14 14:06:02 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-14 15:03:59 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, March 14, 2026 - 14:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, March 14, 2026 - 15:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecce/live/0a54bbc0-1f86-11f1-b048-c9424b2cf5fd.jpg" alt="Why has the US targeted Iran&#x27;s Kharg Island?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss" target="_blank">Why has the US targeted Iran&#x27;s Kharg Island?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-14 13:42</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -62,6 +69,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/14/china-edge-taiwan-2-0-in-extra-time-to-reach-womens-asian-cup-semifinals?traffic_source=rss" target="_blank">China beat Taiwan 2-0 in extra time to reach Women’s Asian Cup semifinals</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-14 10:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260312-shahed-drones-jg-a64c75.jpg" alt="Videos and satellite images show Iran&#x27;s drone army puncturing U.S. and allied defenses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/tech/security/iran-drone-army-us-defense-video-image-shahed-attack-rcna262531" target="_blank">Videos and satellite images show Iran&#x27;s drone army puncturing U.S. and allied defenses</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-14 10:00</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +98,20 @@
                 <span class="time">2026-03-14 09:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/14/indian-owned-sunrisers-face-backlash-after-signing-pakistans-abrar-ahmed?traffic_source=rss" target="_blank">Indian-owned Sunrisers face backlash after signing Pakistan’s Abrar Ahmed</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-14 08:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-kharg-island-iran-oil_7192105.jpg?20260314115743" alt="Why is Iran&#x27;s Kharg Island so important and why wasn&#x27;t its oil infrastructure hit by US strikes?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/why-is-irans-kharg-island-so-important-and-why-wasnt-its-oil-infrastructure-hit-by-us-strikes-13519496" target="_blank">Why is Iran&#x27;s Kharg Island so important and why wasn&#x27;t its oil infrastructure hit by US strikes?</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-14 07:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/894866/apple-macbook-air-m5-15-2026-laptop-review" target="_blank">MacBook Air M5 review: a small update for the ‘just right’ Mac</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-14 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +157,20 @@
                 <span class="time">2026-03-14 05:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_0397-1-500x500.jpg" alt="NASA officials sidestepped questions on Artemis II risks—there&#x27;s a reason why" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/" target="_blank">NASA officials sidestepped questions on Artemis II risks—there&#x27;s a reason why</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-14 00:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Snapdragon-X-Elite-Ubuntu-26.04" target="_blank">Trying Out Snapdragon X Elite With The Acer Swift 14 AI Laptop On Ubuntu 26.04</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-14 14:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/mijura/chain-of-responsibility-for-llm-response-handling-3olc" target="_blank">Chain of Responsibility for LLM Response Handling</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-14 10:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/glyph_ravenops/i-got-tired-of-re-explaining-my-codebase-to-claude-every-day-so-i-built-contextkeep-4mj5" target="_blank">I Got Tired of Re-Explaining My Codebase to Claude Every Day - So I Built ContextKeep</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-14 09:06</span>
             </div>
         </div>
 </div>
@@ -328,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 14:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 15:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
