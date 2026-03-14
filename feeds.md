@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-03-14 08:04:10 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-14 09:06:34 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, March 14, 2026 - 08:04 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, March 14, 2026 - 09:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/14/indian-owned-sunrisers-face-backlash-after-signing-pakistans-abrar-ahmed?traffic_source=rss" target="_blank">Indian-owned Sunrisers face backlash after signing Pakistan’s Abrar Ahmed</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-14 08:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +105,20 @@
                 <span class="time">2026-03-14 03:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d4/live/b4e27fb0-1f30-11f1-8878-496c8cd59e21.jpg" alt="More US Marines and warships to be moved to Middle East, reports say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss" target="_blank">More US Marines and warships to be moved to Middle East, reports say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-14 00:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67cb75d367738ee482c4f92b/master/pass/Gear_MarchMadness_GettyImages-2203848378.jpg" alt="How to Watch March Madness 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-watch-march-madness/" target="_blank">How to Watch March Madness 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-14 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/getty-musk-500x500.jpg" alt="Staff complain that xAI is flailing because of constant upheaval" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +164,29 @@
                 <span class="time">2026-03-13 23:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/894851/states-live-nation-monopoly-trial" target="_blank">States’ anti-monopoly case against Live Nation continues Monday</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-13 22:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/glyph_ravenops/i-got-tired-of-re-explaining-my-codebase-to-claude-every-day-so-i-built-contextkeep-4mj5" target="_blank">I Got Tired of Re-Explaining My Codebase to Claude Every Day - So I Built ContextKeep</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-14 09:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/cloudflare-aspa-standard/en/headerimage/generatedHeaderImage-1772470473366.jpg" alt="Cloudflare Introduces Support for ASPA, an Emerging Internet Routing Security Standard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/cloudflare-aspa-standard/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Introduces Support for ASPA, an Emerging Internet Routing Security Standard</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-14 07:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +221,6 @@
                 <span class="title"><a href="https://dev.to/labdays/vibe-coding-challenge-day-15-settings-generator-ui-1nda" target="_blank">Vibe Coding Challenge — Day 15: Settings Generator UI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-13 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Debian-debaudit" target="_blank">debauit Announced As Debian Source Package Auditor</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-13 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://smiling.dev/blog/rust-shined-over-python-for-my-cli-tool/" target="_blank">Rust Shined Over Python for My CLI Tool</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-13 20:03</span>
             </div>
         </div>
 </div>
@@ -334,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 08:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 09:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
