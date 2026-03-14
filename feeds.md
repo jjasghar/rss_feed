@@ -1,36 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-03-14 00:08:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-14 01:30:29 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, March 14, 2026 - 00:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, March 14, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +54,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/14/republic-of-congo-election-who-is-running-and-whats-at-stake?traffic_source=rss" target="_blank">Republic of Congo election: Who is running and what’s at stake?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-14 00:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773447513831_now_topstory_trump_forces_kharg_island_260313_1920x1080-h2dkxw.jpg" alt="Trump says U.S. forces have destroyed the military assets of Kharg Island" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-says-u-s-forces-have-obliterated-the-military-assets-of-kharg-island-259293253709" target="_blank">Trump says U.S. forces have destroyed the military assets of Kharg Island</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-14 00:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-3-rt-er-260313_1773442374033_hpMain_4x3t_384.jpg" alt="Iran live updates: US &#x27;bombing raid&#x27; strikes Kharg Island, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: US &#x27;bombing raid&#x27; strikes Kharg Island, Trump says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-13 23:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +108,29 @@
                 <span class="time">2026-03-13 21:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/13/nx-s1-5747122/doj-federal-reserve-jerome-powell-jeanine-pirro" target="_blank">Judge blocks DOJ&#x27;s criminal probe of Federal Reserve, blasting it as political</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-13 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/13/nx-s1-5747111/cholesterol-guidelines-lipoproteina-test" target="_blank">A cholesterol test you&#x27;ve never heard of is now recommended to prevent heart disease</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-13 20:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/13/israels-military-campaign-in-lebanon-reaches-devastating-new-phase?traffic_source=rss" target="_blank">Israel’s military campaign in Lebanon reaches devastating new phase</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-13 20:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_0397-1-500x500.jpg" alt="NASA officials sidestepped questions on Artemis II risks—there&#x27;s a reason why" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/" target="_blank">NASA officials sidestepped questions on Artemis II risks—there&#x27;s a reason why</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-14 00:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/" target="_blank">‘Not built right the first time’ — Musk’s xAI is starting over again, again</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-14 00:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69b35cec1e7f619c8ec103e8/master/pass/in-transit-las-vegas.jpg" alt="What to Do in Vegas If You’re Here for Business (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -112,6 +138,15 @@
                 <span class="title"><a href="https://www.wired.com/story/in-transit-las-vegas/" target="_blank">What to Do in Vegas If You’re Here for Business (2026)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-03-13 23:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/894851/states-live-nation-monopoly-trial" target="_blank">States’ anti-monopoly case against Live Nation continues Monday</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-13 22:08</span>
             </div>
         </div>
 <div class="story">
@@ -132,38 +167,20 @@
                 <span class="time">2026-03-13 20:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/894752/instagram-end-to-end-encryption" target="_blank">Instagram is getting rid of end-to-end encrypted DMs that ‘very few’ people used</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-13 19:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/13/travis-kalanick-reportedly-starting-a-new-self-driving-company-backed-by-uber/" target="_blank">Travis Kalanick reportedly starting a new self-driving company backed by Uber</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-13 18:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b44aca42bce4e007f6638a/master/pass/My-Favorite-Air-Fryer-for-Steaks%E2%80%94Yes,-Steaks%E2%80%94is-Almost-Half-Off.jpg" alt="Best Dreo Spring Sale Deals: Air Fryer, Heater, Fans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dreo-spring-sale-deals-dreo-chefmaker/" target="_blank">Best Dreo Spring Sale Deals: Air Fryer, Heater, Fans</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-13 18:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/liam_altie/i-was-tired-of-parsing-xbrl-so-i-built-a-sec-edgar-api-1jp3" target="_blank">I Was Tired of Parsing XBRL, So I Built a SEC EDGAR API</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-14 01:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxq94mwlunkqjxgwyakz4.PNG" alt="Vibe Coding Challenge — Day 15: Settings Generator UI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +226,6 @@
                 <span class="time">2026-03-13 19:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-595.44.03-Linux" target="_blank">NVIDIA 595.44.03 Linux Driver Released With VK_KHR_device_address_commands</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-13 18:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +254,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_444309646.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="BuzzFeed doubts it can stay in business after pivot to AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/13/buzzfeed-doubts-it-can-stay-in-business-after-pivot-to-ai.html" target="_blank">BuzzFeed doubts it can stay in business after pivot to AI</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-14 00:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/RingsofPower_Dwarves-1280x853.jpg" alt="Brandon Sanderson Explains Why He Doesn’t Write About Elves or Dwarves" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/brandon-sanderson-explains-why-he-doesnt-write-about-elves-or-dwarves-2000733551" target="_blank">Brandon Sanderson Explains Why He Doesn’t Write About Elves or Dwarves</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-13 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/J3XzypGr7cQMAQUTepX7Le-1280x720.jpg" alt="Arc Raiders Has Started Replacing AI Voices With Human Ones Which CEO Admits Are Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,24 +306,6 @@
                 <span class="title"><a href="https://kotaku.com/pokemon-pokopia-mystery-dungeon-pelipper-sharpedo-2000678769" target="_blank">Pokopia Fans Are Making Other Pokémon Games’ Iconic Landmarks</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-13 20:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Apple-Studio-Display-XDR-review-1-1280x853.jpg" alt="Apple Studio Display XDR Review: It Looks So Good, I Wish It Were an iMac" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/apple-studio-display-xdr-review-it-looks-so-good-i-wish-it-were-an-imac-2000733073" target="_blank">Apple Studio Display XDR Review: It Looks So Good, I Wish It Were an iMac</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-13 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/god-of-war-amazon-kratos-atreus-1280x853.jpg" alt="Amazon Is Jacking Up the Price on Prime Video Without Ads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/amazon-is-jacking-up-the-price-on-prime-video-without-ads-2000733493" target="_blank">Amazon Is Jacking Up the Price on Prime Video Without Ads</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-13 20:00</span>
             </div>
         </div>
 </div>
@@ -350,22 +358,13 @@
                 <span class="time">2026-03-13 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5785.png" alt="Good At Everything" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5785" target="_blank">Good At Everything</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-03-13 01:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 278 |
-        🔄 Last Updated: 00:08 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
