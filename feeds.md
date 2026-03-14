@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-14 13:17:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-14 14:06:02 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, March 14, 2026 - 13:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, March 14, 2026 - 14:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -166,6 +167,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/OpenRazer-3.12" target="_blank">OpenRazer 3.12 Released With Support For Newer Razer Products On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-14 13:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://unplannedobsolescence.com/blog/xml-cheap-dsl/" target="_blank">XML Is a Cheap DSL</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-14 11:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/muneebdev/the-rise-of-agentic-ai-and-smarter-search-algorithms-3of" target="_blank">The Rise of Agentic AI and Smarter Search Algorithms</a></span>
                 <span class="feed">DEV Community</span>
@@ -199,24 +218,6 @@
                 <span class="time">2026-03-14 09:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/cloudflare-aspa-standard/en/headerimage/generatedHeaderImage-1772470473366.jpg" alt="Cloudflare Introduces Support for ASPA, an Emerging Internet Routing Security Standard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/cloudflare-aspa-standard/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Introduces Support for ASPA, an Emerging Internet Routing Security Standard</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-14 07:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/needlecode/stop-relying-on-bloated-themes-how-to-build-a-custom-wordpress-theme-from-scratch-ck5" target="_blank">Stop Relying on Bloated Themes: How to Build a Custom WordPress Theme from Scratch</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-14 06:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/slay-the-spires.jpg" alt="Slay The Spire 2 Promises To Patch Out 1 Billion HP Exploit As It Sells A Whopping 3 Million Copies In Just One Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/slay-spire-2-patch-notes-sales-damage-build-2000678909" target="_blank">Slay The Spire 2 Promises To Patch Out 1 Billion HP Exploit As It Sells A Whopping 3 Million Copies In Just One Week</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-14 13:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/08/DOJ-realpage-antitrust-header-1-1024x683.jpg" alt="These People Want Us to Let Them Hook Up AI to a Nuclear Weapon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/these-people-want-us-to-let-them-hook-up-ai-to-a-nuclear-weapon-2000733472" target="_blank">These People Want Us to Let Them Hook Up AI to a Nuclear Weapon</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-14 13:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/showcases.jpg" alt="This New Games Showcase Just  Featured 15 Of The Coolest, Weirdest Games Out There" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/arc-raiders-replaced-ai-generated-content-human-recorded-dialogue-voices-2000678774" target="_blank">Arc Raiders Has Started Replacing AI Voices With Human Ones Which CEO Admits Are Better</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-13 21:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/heggy.jpg?fit=1080%2C575&amp;quality=60&amp;ssl=1" alt="Whiskey Pete admits to committing war crimes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/13/whiskey-pete-admits-to-committing-war-crimes.html" target="_blank">Whiskey Pete admits to committing war crimes</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-13 21:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-13 21:30</span>
             </div>
         </div>
 </div>
@@ -327,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 13:17 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 14:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
