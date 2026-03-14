@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-14 12:02:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-14 13:17:07 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, March 14, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, March 14, 2026 - 13:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/14/nx-s1-5734051/measles-outbreak-parents-south-carolina-vaccines" target="_blank">As the risk of measles grows, why are parents so divided on vaccines?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-14 12:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,21 +91,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-kharg-island-iran-oil_7192105.jpg?20260314115743" alt="Why is Iran&#x27;s Kharg Island so important and why wasn&#x27;t its oil infrastructure hit by US strikes?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/14/us-embassy-in-baghdad-iraq-targeted-with-missile-hits-helipad?traffic_source=rss" target="_blank">US Embassy in Baghdad, Iraq attacked with missile that hits helipad</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-14 07:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/14/iran-war-what-is-happening-on-day-15-of-us-israel-attacks?traffic_source=rss" target="_blank">Iran war: What is happening on day 15 of US-Israel attacks?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-14 05:45</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/why-is-irans-kharg-island-so-important-and-why-wasnt-its-oil-infrastructure-hit-by-us-strikes-13519496" target="_blank">Why is Iran&#x27;s Kharg Island so important and why wasn&#x27;t its oil infrastructure hit by US strikes?</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-14 07:39</span>
             </div>
         </div>
 </div>
@@ -101,6 +104,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/893765/asus-cetra-open-wireless-gaming-earbuds-hands-on-impressions" target="_blank">Asus’ new open earbuds are a wonderful companion for handheld gaming</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-14 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/" target="_blank">How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-14 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67cb75d367738ee482c4f92b/master/pass/Gear_MarchMadness_GettyImages-2203848378.jpg" alt="How to Watch March Madness 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,24 +156,6 @@
                 <span class="title"><a href="https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/" target="_blank">NASA officials sidestepped questions on Artemis II risks—there&#x27;s a reason why</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-03-14 00:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/" target="_blank">‘Not built right the first time’ — Musk’s xAI is starting over again, again</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-14 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b35cec1e7f619c8ec103e8/master/pass/in-transit-las-vegas.jpg" alt="What to Do in Vegas If You’re Here for Business (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/in-transit-las-vegas/" target="_blank">What to Do in Vegas If You’re Here for Business (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-13 23:37</span>
             </div>
         </div>
 </div>
@@ -234,6 +237,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/showcases.jpg" alt="This New Games Showcase Just  Featured 15 Of The Coolest, Weirdest Games Out There" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/indie-game-computer-world-showcase-steam-demo-2000678906" target="_blank">This New Games Showcase Just  Featured 15 Of The Coolest, Weirdest Games Out There</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-14 13:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_444309646.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="BuzzFeed doubts it can stay in business after pivot to AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -278,15 +290,6 @@
                 <span class="time">2026-03-13 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/IMG_2175-1280x720.jpg" alt="Pokopia Fans Are Making Other Pokémon Games’ Iconic Landmarks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-pokopia-mystery-dungeon-pelipper-sharpedo-2000678769" target="_blank">Pokopia Fans Are Making Other Pokémon Games’ Iconic Landmarks</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-13 20:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 13:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
