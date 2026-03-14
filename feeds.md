@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-14 21:04:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-14 22:02:28 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, March 14, 2026 - 21:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, March 14, 2026 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/14/us-israeli-strike-kills-15-at-isfahan-factory-iranian-media-says?traffic_source=rss" target="_blank">US-Israeli strike kills 15 at Isfahan factory, Iranian media says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-14 21:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa81/live/e8928700-1fb3-11f1-9120-a910fc22c6ac.jpg" alt="Three more Iran football team members change minds over asylum" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&at_campaign=rss" target="_blank">Three more Iran football team members change minds over asylum</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-14 20:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/14/nx-s1-5747959/russian-strike-kyiv-region" target="_blank">Russian strike on Kyiv region kills 4 and wounds 15, with peace talks stalled</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-14 15:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/3/14/carneys-build-big-and-build-fast-push-is-dividing-canadas-indigenous?traffic_source=rss" target="_blank">How Carney’s ‘build fast’ push divides Canada’s Indigenous peoples</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-14 15:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2090/live/30396d50-1ee5-11f1-9120-a910fc22c6ac.jpg" alt="We expect government help in a crisis. Will Reeves intervene on energy bills this time?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgky84z6lro?at_medium=RSS&at_campaign=rss" target="_blank">We expect government help in a crisis. Will Reeves intervene on energy bills this time?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-14 14:28</span>
             </div>
         </div>
 </div>
@@ -165,9 +169,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/micelclaw/entity-extraction-with-a-2b-model-benchmarks-from-a-personal-knowledge-graph-2f27" target="_blank">3º. Entity extraction with a 2B model: benchmarks from a personal knowledge graph</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-14 21:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nebulagg/how-to-add-memory-to-a-python-ai-agent-od5" target="_blank">How to Add Memory to a Python AI Agent</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-14 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion" target="_blank">Claude March 2026 usage promotion</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-14 20:08</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +219,6 @@
                 <span class="time">2026-03-14 19:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/selfhostingsh/freescout-vs-zammad-3kg9" target="_blank">Freescout Vs Zammad</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-14 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GIMP-3.2-Released" target="_blank">GIMP 3.2 Released With Many Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-14 18:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,20 +233,20 @@
                 <span class="time">2026-03-14 16:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-increased-squid-population-in-the-falklands.html" target="_blank">Friday Squid Blogging: Increased Squid Population in the Falklands</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-03-13 21:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/01/tiktok-study-ccp-1280x853.jpg" alt="ByteDance’s Controversial AI Video Model Reportedly on Hold Globally Due to Copyright Disputes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/bytedances-controversial-ai-video-model-reportedly-on-hold-globally-due-to-copyright-disputes-2000733748" target="_blank">ByteDance’s Controversial AI Video Model Reportedly on Hold Globally Due to Copyright Disputes</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-14 19:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/ss_c09706c6bed68996458c835ffa931900ac9c8b33.1920x1080-1280x720.jpg" alt="Egg Adventures, Trash Bandits, And Waking Nightmares: 5 Neat Indies You Definitely Missed This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +292,6 @@
                 <span class="time">2026-03-14 13:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/showcases.jpg" alt="This New Games Showcase Just  Featured 15 Of The Coolest, Weirdest Games Out There" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/indie-game-computer-world-showcase-steam-demo-2000678906" target="_blank">This New Games Showcase Just  Featured 15 Of The Coolest, Weirdest Games Out There</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-14 13:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 21:04 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
