@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-15 21:04:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-15 22:02:38 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Error processing https://arstechnica.com/feed/: The read operation timed out -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, March 15, 2026 - 21:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, March 15, 2026 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c301/live/8017f630-20a6-11f1-b760-7d6278c3d0c0.jpg" alt="Two die including uni student in meningitis outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdxg35dv7npo?at_medium=RSS&at_campaign=rss" target="_blank">Two die including uni student in meningitis outbreak</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-15 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/15/iranian-ambassador-to-saudia-arabia-denies-attacks-on-oil-infrasture?traffic_source=rss" target="_blank">Iran’s ambassador to Saudi Arabia denies attacks on its oil facilities</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-15 21:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c301/live/8017f630-20a6-11f1-b760-7d6278c3d0c0.jpg" alt="Two die in university meningitis outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,24 +102,6 @@
                 <span class="time">2026-03-15 17:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/15/manchester-united-beat-aston-villa-3-1-to-tighten-hold-on-third-place?traffic_source=rss" target="_blank">Manchester United beat Aston Villa 3-1  to tighten hold on third place</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-15 16:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/strait-of-hormuz-20260315-rt-jh_1773581826055_hpMain_4x3t_384.jpg" alt="Energy Secretary Wright says war with Iran &#x27;will certainly&#x27; end in next few weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/energy-secretary-wright-war-iran-end-weeks/story?id=131082819" target="_blank">Energy Secretary Wright says war with Iran &#x27;will certainly&#x27; end in next few weeks</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-15 15:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,6 +114,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/" target="_blank">ByteDance reportedly pauses global launch of its Seedance 2.0 video generator</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-15 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/895083/aether-os-browser-at-protocol" target="_blank">Aether OS is a computer in a browser built for the AT Protocol</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-15 19:35</span>
             </div>
         </div>
 <div class="story">
@@ -152,20 +161,29 @@
                 <span class="time">2026-03-15 16:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran" target="_blank">AI Czar David Sacks wants Trump to ‘get out’ of Iran</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-15 14:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ilhammmaulana/why-your-laravel-app-is-heavy-and-how-to-fix-it-in-5-minutes-5j6" target="_blank">Why Your Laravel App is &quot;Heavy&quot; (and How to Fix it in 5 Minutes)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-15 21:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc4-Released" target="_blank">Linux 7.0-rc4 Released With Hang Fixes, Resolves At Least One Performance Regression</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-15 21:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/kesimo/building-scalable-document-pipelines-mastering-autype-api-for-bulk-rendering-and-webhooks-4b6a" target="_blank">Building Scalable Document Pipelines: Mastering Autype API for Bulk Rendering and Webhooks</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-15 19:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-1.37-Released" target="_blank">Bcachefs 1.37 Released With Linux 7.0 Support, Erasure Coding Stable &amp; New Sub-Commands</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-15 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried" target="_blank">Grandparents are glued to their phones, families are worried [video]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-15 17:43</span>
             </div>
         </div>
 </div>
@@ -299,7 +299,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 21:04 UTC
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
