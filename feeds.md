@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-15 02:58:49 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-03-15 04:02:35 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, March 15, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, March 15, 2026 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-lynch-vt-grab-lebanon-evacuation-zone_7192911.jpg?20260315023301" alt="Some weep while others stare blankly at makeshift cemetery in Lebanon&#x27;s evacuation zone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/some-weep-while-others-stare-blankly-ahead-at-a-makeshift-cemetery-in-lebanons-evacuation-zone-13519932" target="_blank">Some weep while others stare blankly at makeshift cemetery in Lebanon&#x27;s evacuation zone</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-15 02:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/KC-135-aircraft-down_1773395728285_hpMain_4x3t_384.jpg" alt="Pentagon identifies 6 Air Force airmen killed in KC-135 refueling aircraft crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/14/g-s1-113826/why-the-chicago-bears-could-be-moving-to-indiana" target="_blank">Why the Chicago Bears could be moving to Indiana</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-14 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9bb/live/986d6330-1fea-11f1-9436-9505a8c587fc.jpg" alt="BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss" target="_blank">BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-14 22:55</span>
             </div>
         </div>
 </div>
@@ -169,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cg4g7kn99q3o" target="_blank">Treasure hunter freed from jail after refusing to turn over shipwreck gold</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-15 02:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/methew_smith/docker-commands-1kh" target="_blank">Docker commands</a></span>
                 <span class="feed">DEV Community</span>
@@ -209,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/micelclaw/entity-extraction-with-a-2b-model-benchmarks-from-a-personal-knowledge-graph-2f27" target="_blank">3º. Entity extraction with a 2B model: benchmarks from a personal knowledge graph</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-14 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nebulagg/how-to-add-memory-to-a-python-ai-agent-od5" target="_blank">How to Add Memory to a Python AI Agent</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-14 21:01</span>
             </div>
         </div>
 </div>
@@ -312,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
