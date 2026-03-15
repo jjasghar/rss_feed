@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-15 22:02:38 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-15 23:04:32 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Error processing https://arstechnica.com/feed/: The read operation timed out -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, March 15, 2026 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, March 15, 2026 - 23:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/oscars-8-rt-gmh-260315_1773607649272_hpMain_4x3t_384.jpg" alt="Oscars 2026 live updates: Rose Byrne, Jessie Buckley and more walk the red carpet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/live-updates/oscars-2026/?id=130977802" target="_blank">Oscars 2026 live updates: Rose Byrne, Jessie Buckley and more walk the red carpet</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-15 22:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c301/live/8017f630-20a6-11f1-b760-7d6278c3d0c0.jpg" alt="Two die including uni student in meningitis outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,6 +76,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/15/g-s1-113846/selection-sunday-march-madness-duke-uconn-ucla" target="_blank">Selection Sunday is here. Here&#x27;s what to know ahead of March Madness</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-15 21:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c301/live/8017f630-20a6-11f1-b760-7d6278c3d0c0.jpg" alt="Two die in university meningitis outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -82,24 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/15/displaced-families-in-lebanon-turn-vehicles-into-rain-soaked-shelters?traffic_source=rss" target="_blank">Displaced families in Lebanon turn vehicles into rain-soaked shelters</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-15 20:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/oscar-1-gty-er-260313_1773421095667_hpMain_4x3t_384.jpg" alt="Oscars 2026: Live updates, winners, best moments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/live-updates/oscars-2026/?id=130977802" target="_blank">Oscars 2026: Live updates, winners, best moments</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-15 19:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/15/g-s1-113841/snow-and-wind-batter-parts-of-us-with-threat-of-thunderstorms-and-tornadoes" target="_blank">Snow and wind batter parts of US, with threat of thunderstorms and tornadoes</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-15 17:41</span>
             </div>
         </div>
 </div>
@@ -170,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/adioof/your-vibecoded-prototype-took-30-minutes-shipping-it-will-take-100-hours-4bkf" target="_blank">Your Vibecoded Prototype Took 30 Minutes. Shipping It Will Take 100 Hours.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-15 22:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ilhammmaulana/why-your-laravel-app-is-heavy-and-how-to-fix-it-in-5-minutes-5j6" target="_blank">Why Your Laravel App is &quot;Heavy&quot; (and How to Fix it in 5 Minutes)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-15 21:52</span>
@@ -209,15 +218,6 @@
                 <span class="title"><a href="https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session" target="_blank">Let your Coding Agent debug the browser session with Chrome DevTools MCP</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-15 19:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcms.autype.com%2Fassets%2F83ac7a25-88ce-4a73-870c-23db1f1c1d52" alt="Building Scalable Document Pipelines: Mastering Autype API for Bulk Rendering and Webhooks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kesimo/building-scalable-document-pipelines-mastering-autype-api-for-bulk-rendering-and-webhooks-4b6a" target="_blank">Building Scalable Document Pipelines: Mastering Autype API for Bulk Rendering and Webhooks</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-15 19:04</span>
             </div>
         </div>
 </div>
@@ -298,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 23:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
