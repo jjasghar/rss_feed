@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-15 15:04:49 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-15 16:04:06 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: WIRED -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, March 15, 2026 - 15:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, March 15, 2026 - 16:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/strait-of-hormuz-20260315-rt-jh_1773581826055_hpMain_4x3t_384.jpg" alt="Energy Secretary Wright says war with Iran &#x27;will certainly&#x27; end in next few weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/energy-secretary-wright-war-iran-end-weeks/story?id=131082819" target="_blank">Energy Secretary Wright says war with Iran &#x27;will certainly&#x27; end in next few weeks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-15 15:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cj4z7zr4kd8o?at_medium=RSS&at_campaign=rss" target="_blank">We will intervene on energy bills if necessary, says Miliband</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-15 11:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/15/g-s1-113834/israeli-soldiers-fire-on-family-car-in-occupied-west-bank-killing-4" target="_blank">Israeli soldiers fire on family car in occupied West Bank, killing 4</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-15 11:41</span>
             </div>
         </div>
 </div>
@@ -215,20 +217,6 @@
         </div>
 </div>
 </div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/upcoming-speaking-engagements-54.html" target="_blank">Upcoming Speaking Engagements</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-03-14 16:02</span>
-            </div>
-        </div>
-</div>
-</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
@@ -292,12 +280,12 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1773265146-20260314.png" alt="Saturday Morning Breakfast Cereal - Rated" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1773555018-20260315.png" alt="Saturday Morning Breakfast Cereal - Machine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/rated" target="_blank">Saturday Morning Breakfast Cereal - Rated</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/machine" target="_blank">Saturday Morning Breakfast Cereal - Machine</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-03-14 15:20</span>
+                <span class="time">2026-03-15 15:20</span>
             </div>
         </div>
 </div>
@@ -305,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 15:04 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 16:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
