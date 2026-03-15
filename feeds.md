@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-15 18:04:26 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-15 19:08:11 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, March 15, 2026 - 18:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, March 15, 2026 - 19:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -118,6 +116,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review" target="_blank">Sotomayor’s Wabi Sabi is the funnest record of 2026</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-15 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran" target="_blank">AI Czar David Sacks wants Trump to ‘get out’ of Iran</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-15 14:13</span>
@@ -150,20 +157,20 @@
                 <span class="time">2026-03-15 11:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b578c7f7421933bcdf6b2c/master/pass/Review--Brompton-Electric-T-Line-with-E-Motiq.jpg" alt="Brompton Electric T-Line Folding Electric Bicycle Review: Pocket-Sized Pedal Power" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/brompton-electric-t-line-with-e-motiq/" target="_blank">Brompton Electric T-Line Folding Electric Bicycle Review: Pocket-Sized Pedal Power</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-15 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcms.autype.com%2Fassets%2F83ac7a25-88ce-4a73-870c-23db1f1c1d52" alt="Building Scalable Document Pipelines: Mastering Autype API for Bulk Rendering and Webhooks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kesimo/building-scalable-document-pipelines-mastering-autype-api-for-bulk-rendering-and-webhooks-4b6a" target="_blank">Building Scalable Document Pipelines: Mastering Autype API for Bulk Rendering and Webhooks</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-15 19:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/mwc/the-canvas-revolution-when-pixels-took-over-the-web-51bl" target="_blank">The Canvas Revolution: When Pixels Took Over the Web</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-15 13:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tomclancy.info/harold-and-george.html" target="_blank">A Theory of the World as run by large adult children</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-15 12:48</span>
             </div>
         </div>
 </div>
@@ -296,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 18:04 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 19:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
