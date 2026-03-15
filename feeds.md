@@ -1,28 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-14 23:04:20 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-15 00:08:10 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 19 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, March 14, 2026 - 23:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, March 15, 2026 - 00:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/14/pakistan-strikes-afghan-base-after-its-president-warns-red-line-crossed?traffic_source=rss" target="_blank">Pakistan strikes Afghan base after its president warns ‘red line’ crossed</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-14 23:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/14/g-s1-113826/why-the-chicago-bears-could-be-moving-to-indiana" target="_blank">Why the Chicago Bears could be moving to Indiana</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-14 22:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,29 +101,20 @@
                 <span class="time">2026-03-14 17:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-15-rt-gmh-260312_1773340118789_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump calls on other countries to assist in Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022" target="_blank">Iran live updates: Trump calls on other countries to assist in Strait of Hormuz</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-14 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/14/nx-s1-5747959/russian-strike-kyiv-region" target="_blank">Russian strike on Kyiv region kills 4 and wounds 15, with peace talks stalled</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-14 15:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/" target="_blank">The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-14 21:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,15 +158,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/03/14/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/" target="_blank">As people look for ways to make new friends, here are the apps promising to help</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-14 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/894699/hulu-disney-plus-subscription-oscars-google-pixel-watch-4-deal-sale" target="_blank">Hulu, Disney Plus, and the Pixel Watch 4 are among this week’s best deals</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-14 15:46</span>
             </div>
         </div>
 </div>
@@ -302,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 23:04 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 00:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
