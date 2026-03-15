@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-15 07:17:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-15 08:06:19 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, March 15, 2026 - 07:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, March 15, 2026 - 08:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/15/smoke-rises-over-beiruts-southern-suburbs?traffic_source=rss" target="_blank">Smoke rises over Beirut’s southern suburbs</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-15 07:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/03/1920x1080/skynews-grab-from-lynch-vt_7192912.jpg?20260315023418" alt="Mourners defy Israel&#x27;s evacuation orders as they bury &#x27;martyred&#x27; loved ones in makeshift cemetery" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/14/pakistan-strikes-afghan-base-after-its-president-warns-red-line-crossed?traffic_source=rss" target="_blank">Pakistan strikes Afghan base after its president warns ‘red line’ crossed</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-14 23:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260314-trump-ch-1313-53d2d1.jpg" alt="Trump says Iran is ready to negotiate a ceasefire but he&#x27;s not ready to make a deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/iran-negotiate-ceasefire-deal-trump-kharg-hormuz-oil-rcna263474" target="_blank">Trump says Iran is ready to negotiate a ceasefire but he&#x27;s not ready to make a deal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-14 23:12</span>
             </div>
         </div>
 </div>
@@ -160,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzgh9xg4ayen39m7hsrf.png" alt="Building an AI-Powered Storybook with Gemini&#x27;s Interleaved Output" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ajitonelson/building-an-ai-powered-storybook-with-geminis-interleaved-output-2cdm" target="_blank">Building an AI-Powered Storybook with Gemini&#x27;s Interleaved Output</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-15 08:03</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Open-Source-GreenBoost-NVIDIA" target="_blank">Open-Source &quot;GreenBoost&quot; Driver Aims To Augment NVIDIA GPUs vRAM With System RAM &amp; NVMe To Handle Larger LLMs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-15 00:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sagar_joshi_31ac4ef39367a/the-missing-protocol-how-bfcp-unlocked-dual-monitor-conferencing-for-enterprise-room-systems-27af" target="_blank">The Missing Protocol: How BFCP Unlocked Dual-Monitor Conferencing for Enterprise Room Systems</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-14 22:57</span>
             </div>
         </div>
 </div>
@@ -305,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 07:17 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 08:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
