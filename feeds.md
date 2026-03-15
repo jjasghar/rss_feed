@@ -1,11 +1,8 @@
-<!-- Processing 54 RSS feeds at 2026-03-15 11:04:22 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-15 12:03:49 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
@@ -13,25 +10,25 @@
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, March 15, 2026 - 11:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, March 15, 2026 - 12:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/15/g-s1-113834/israeli-soldiers-fire-on-family-car-in-occupied-west-bank-killing-4" target="_blank">Israeli soldiers fire on family car in occupied West Bank, killing 4</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-15 11:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/15/oscars-2026-nominees-predictions-start-time-and-how-to-watch?traffic_source=rss" target="_blank">Oscars 2026: Nominees, predictions, start time and how to watch</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-15 11:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +98,29 @@
                 <span class="time">2026-03-15 02:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-lynch-vt-grab-lebanon-evacuation-zone_7192911.jpg?20260315023301" alt="Some weep while others stare blankly at makeshift cemetery in Lebanon&#x27;s evacuation zone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/some-weep-while-others-stare-blankly-ahead-at-a-makeshift-cemetery-in-lebanons-evacuation-zone-13519932" target="_blank">Some weep while others stare blankly at makeshift cemetery in Lebanon&#x27;s evacuation zone</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-15 02:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/KC-135-aircraft-down_1773395728285_hpMain_4x3t_384.jpg" alt="Pentagon identifies 6 Air Force airmen killed in KC-135 refueling aircraft crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/4-dead-after-us-refueling-aircraft-western-iraq/story?id=131031069" target="_blank">Pentagon identifies 6 Air Force airmen killed in KC-135 refueling aircraft crash</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-15 01:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/893294/live-service-games-mess" target="_blank">Live-service games are a mess</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-15 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b578c7f7421933bcdf6b2c/master/pass/Review--Brompton-Electric-T-Line-with-E-Motiq.jpg" alt="Brompton Electric T-Line Folding Electric Bicycle Review: Pocket-Sized Pedal Power" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/brompton-electric-t-line-with-e-motiq/" target="_blank">Brompton Electric T-Line Folding Electric Bicycle Review: Pocket-Sized Pedal Power</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-15 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69b574c39dac584a2261aa12/master/pass/Review--iGarden-M1-Pro-Max-100-Pool-Robot.jpg" alt="iGarden M1 Pro Max 100 Review: A Sports Car for Your Pool" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +157,20 @@
                 <span class="time">2026-03-14 21:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/" target="_blank">US Army announces contract with Anduril worth up to $20B</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-14 20:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/business/895026/meta-laying-off-20-percent" target="_blank">Meta is reportedly laying off up to 20 percent of its staff</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-14 18:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket" target="_blank">$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-15 10:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/03/aws-lightsail-openclaw-security/en/headerimage/generatedHeaderImage-1772738153368.jpg" alt="AWS Launches Managed Openclaw on Lightsail Amid Critical Security Vulnerabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +216,6 @@
                 <span class="time">2026-03-15 06:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://sa.lj.am/rack-mount-hydroponics/" target="_blank">Rack-mount hydroponics</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-15 04:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/level-lock-pro-review-4-1280x853.jpg" alt="Level Lock Pro Review: As Good as a Secret Smart Lock Gets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/level-lock-pro-review-as-good-as-a-secret-smart-lock-gets-2000727162" target="_blank">Level Lock Pro Review: As Good as a Secret Smart Lock Gets</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-15 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2022/07/e6eb3589c7e6ab1ef9cb26dcb3cf98e5-1024x575.jpg" alt="Co-Founder of Uber Pivots Real Estate Company to Robots, Posts Manifesto" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +289,6 @@
                 <span class="time">2026-03-14 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/zach-braff-1280x883.jpg" alt="Zach Braff’s AI Relationship Denial Is Raising a Lot of Questions Already Answered by the Denial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/zach-braffs-ai-relationship-denial-is-raising-a-lot-of-questions-already-answered-by-his-denial-2000733708" target="_blank">Zach Braff’s AI Relationship Denial Is Raising a Lot of Questions Already Answered by the Denial</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-14 16:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 11:04 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 12:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
