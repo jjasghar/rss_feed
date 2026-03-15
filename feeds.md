@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-15 20:02:48 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing 54 RSS feeds at 2026-03-15 21:04:17 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, March 15, 2026 - 20:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, March 15, 2026 - 21:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +49,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c301/live/8017f630-20a6-11f1-b760-7d6278c3d0c0.jpg" alt="Two die in university meningitis outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdxg35dv7npo?at_medium=RSS&at_campaign=rss" target="_blank">Two die in university meningitis outbreak</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-15 20:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/15/displaced-families-in-lebanon-turn-vehicles-into-rain-soaked-shelters?traffic_source=rss" target="_blank">Displaced families in Lebanon turn vehicles into rain-soaked shelters</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-15 20:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/GMA/oscar-1-gty-er-260313_1773421095667_hpMain_4x3t_384.jpg" alt="Oscars 2026: Live updates, winners, best moments" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/GMA/Culture/live-updates/oscars-2026/?id=130977802" target="_blank">Oscars 2026: Live updates, winners, best moments</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-15 19:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/15/g-s1-113841/snow-and-wind-batter-parts-of-us-with-threat-of-thunderstorms-and-tornadoes" target="_blank">Snow and wind batter parts of US, with threat of thunderstorms and tornadoes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-15 17:41</span>
             </div>
         </div>
 <div class="story">
@@ -72,38 +102,20 @@
                 <span class="time">2026-03-15 15:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/15/trump-calls-for-naval-coalition-to-open-strait-of-hormuz-can-it-work?traffic_source=rss" target="_blank">Trump calls for naval coalition to open Strait of Hormuz: Can it work?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-15 14:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cd2/live/3a83cd80-2068-11f1-801d-ed3cff6bf876.jpg" alt="UK looking at &#x27;all options&#x27; to secure key oil route through Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj0dlvl086eo?at_medium=RSS&at_campaign=rss" target="_blank">UK looking at &#x27;all options&#x27; to secure key oil route through Strait of Hormuz</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-15 13:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773580788658_mtp_full_wright_260315_1920x1080-cxpnil.jpg" alt="Energy Sec. Wright says ‘good chance’ but ‘no guarantees’ of cheaper gas soon: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/energy-sec-wright-says-good-chance-but-no-guarantees-of-cheaper-gas-soon-full-interview-259345989658" target="_blank">Energy Sec. Wright says ‘good chance’ but ‘no guarantees’ of cheaper gas soon: Full interview</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-15 13:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/" target="_blank">ByteDance reportedly pauses global launch of its Seedance 2.0 video generator</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-15 21:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +161,29 @@
                 <span class="time">2026-03-15 14:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/894501/samsung-galaxy-buds-4-pro-review" target="_blank">Samsung’s Galaxy Buds 4 Pro are the choice — if you have a Galaxy phone</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-15 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/krisying/harness-engineering-why-the-model-is-a-commodity-and-the-infrastructure-is-your-moat-398a" target="_blank">Harness Engineering: Why the Model Is a Commodity and the Infrastructure Is Your Moat</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-15 20:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/firefox-logo-frustrated.jpg?resize=406%2C232&amp;ssl=1" alt="New Firefox logo coming? Mozilla’s socials suggest so…" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/is-firefox-about-to-get-a-new-logo" target="_blank">New Firefox logo coming? Mozilla’s socials suggest so…</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-15 19:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,37 +205,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-1.37-Released" target="_blank">Bcachefs 1.37 Released With Linux 7.0 Support, Erasure Coding Stable &amp; New Sub-Commands</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-15 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried" target="_blank">Grandparents are glued to their phones, families are worried [video]</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-15 17:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/gimp-3.2-1.jpg?resize=406%2C232&amp;ssl=1" alt="GIMP 3.2 is out with Link Layers, SVG export and better painting UX" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/gimp-3-2-release-new-features" target="_blank">GIMP 3.2 is out with Link Layers, SVG export and better painting UX</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-15 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://cbmg.umd.edu/news-events/news/brantley-hall-umd-scientists-create-smart-underwear-measure-human-flatulence" target="_blank">UMD Scientists Create &#x27;Smart Underwear&#x27; to Measure Human Flatulence</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-15 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/unlimited_sheets_1535003f/how-to-scrape-data-directly-in-google-sheets-no-code-required-3n5" target="_blank">How to Scrape Data Directly in Google Sheets (No Code Required)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-15 14:48</span>
             </div>
         </div>
 </div>
@@ -222,6 +225,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/x-men-97-s2cover-1280x853.jpg" alt="Marvel Wants to Remind You ‘X-Men ’97’ Season 2 Is Really Close" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/marvel-wants-to-remind-you-x-men-97-season-2-is-really-close-2000733562" target="_blank">Marvel Wants to Remind You ‘X-Men ’97’ Season 2 Is Really Close</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-15 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/05/1cdb3cf333e9b7ef18f25329ad58a6ce.jpg" alt="$70 Games Are Riskier Than Ever As Cheaper Games Dominate On Steam" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +279,6 @@
                 <span class="time">2026-03-15 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/1AkKIRQNiuy2q7at1nJynbA.jpg" alt="Venture Capitalist ‘Shocked And Sad’ About How Much Gamers Hate AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/investors-grapple-with-ai-unpopularity-at-gdc-xbox-2000678933" target="_blank">Venture Capitalist ‘Shocked And Sad’ About How Much Gamers Hate AI</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-14 21:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 20:03 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 21:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
