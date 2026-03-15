@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-15 09:07:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-15 10:03:43 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, March 15, 2026 - 09:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, March 15, 2026 - 10:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -163,6 +165,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fraw.githubusercontent.com%2FSonAIengine%2Fgraph-tool-call%2Fmain%2Fassets%2Fdemo.gif" alt="I gave an LLM 248 tools and accuracy dropped to 12%. Here&#x27;s what fixed it." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sonaiengine/i-gave-an-llm-248-tools-and-accuracy-dropped-to-12-heres-what-fixed-it-91h" target="_blank">I gave an LLM 248 tools and accuracy dropped to 12%. Here&#x27;s what fixed it.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-15 09:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html" target="_blank">The Appalling Stupidity of Spotify&#x27;s AI DJ</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-15 08:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzgh9xg4ayen39m7hsrf.png" alt="Building an AI-Powered Storybook with Gemini&#x27;s Interleaved Output" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,24 +216,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cg4g7kn99q3o" target="_blank">Treasure hunter freed from jail after refusing to turn over shipwreck gold</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-15 02:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/methew_smith/docker-commands-1kh" target="_blank">Docker commands</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-15 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Open-Source-GreenBoost-NVIDIA" target="_blank">Open-Source &quot;GreenBoost&quot; Driver Aims To Augment NVIDIA GPUs vRAM With System RAM &amp; NVMe To Handle Larger LLMs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-15 00:17</span>
             </div>
         </div>
 </div>
@@ -308,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 09:07 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 10:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
