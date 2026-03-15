@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-15 19:08:11 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-15 20:02:48 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, March 15, 2026 - 19:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, March 15, 2026 - 20:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/oscar-1-gty-er-260313_1773421095667_hpMain_4x3t_384.jpg" alt="Oscars 2026: Live updates, winners, best moments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/live-updates/oscars-2026/?id=130977802" target="_blank">Oscars 2026: Live updates, winners, best moments</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-15 19:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +99,29 @@
                 <span class="time">2026-03-15 13:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/15/keisuke-honda-loses-us-advertising-deal-over-iran-support-at-world-cup?traffic_source=rss" target="_blank">Keisuke Honda loses US advertising deal over Iran support at World Cup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-15 13:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/895083/aether-os-browser-at-protocol" target="_blank">Aether OS is computer in a browser built for the AT Protocol</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-15 19:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/" target="_blank">Lawyer behind AI psychosis cases warns of mass casualty risks</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-15 18:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +158,20 @@
                 <span class="time">2026-03-15 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/893294/live-service-games-mess" target="_blank">Live-service games are a mess</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-15 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/honda-prelude-ad-500x500.jpg" alt="An engineering thesis disguised as a coupe: A history of the Honda Prelude" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/03/an-engineering-thesis-disguised-as-a-coupe-a-history-of-the-honda-prelude/" target="_blank">An engineering thesis disguised as a coupe: A history of the Honda Prelude</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-15 11:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session" target="_blank">Let your Coding Agent debug the browser session with Chrome DevTools MCP</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-15 19:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcms.autype.com%2Fassets%2F83ac7a25-88ce-4a73-870c-23db1f1c1d52" alt="Building Scalable Document Pipelines: Mastering Autype API for Bulk Rendering and Webhooks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,20 +217,20 @@
                 <span class="time">2026-03-15 14:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mwc/the-canvas-revolution-when-pixels-took-over-the-web-51bl" target="_blank">The Canvas Revolution: When Pixels Took Over the Web</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-15 13:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/05/1cdb3cf333e9b7ef18f25329ad58a6ce.jpg" alt="$70 Games Are Riskier Than Ever As Cheaper Games Dominate On Steam" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/steam-game-prices-clair-obscur-data-sales-2000678987" target="_blank">$70 Games Are Riskier Than Ever As Cheaper Games Dominate On Steam</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-15 19:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Firefly-trio-1280x853.jpg" alt="The Return of ‘Firefly’ Could Be an Animated Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +276,6 @@
                 <span class="time">2026-03-14 21:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/01/tiktok-study-ccp-1280x853.jpg" alt="ByteDance’s Controversial AI Video Model Reportedly on Hold Globally Due to Copyright Disputes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/bytedances-controversial-ai-video-model-reportedly-on-hold-globally-due-to-copyright-disputes-2000733748" target="_blank">ByteDance’s Controversial AI Video Model Reportedly on Hold Globally Due to Copyright Disputes</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-14 19:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 19:08 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 20:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
