@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-03-15 14:07:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-15 15:04:49 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, March 15, 2026 - 14:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, March 15, 2026 - 15:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +42,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/15/trump-calls-for-naval-coalition-to-open-strait-of-hormuz-can-it-work?traffic_source=rss" target="_blank">Trump calls for naval coalition to open Strait of Hormuz: Can it work?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-15 14:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cd2/live/3a83cd80-2068-11f1-801d-ed3cff6bf876.jpg" alt="UK looking at &#x27;all options&#x27; to secure key oil route through Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cj0dlvl086eo?at_medium=RSS&at_campaign=rss" target="_blank">UK looking at &#x27;all options&#x27; to secure key oil route through Strait of Hormuz</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-15 13:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773580788658_mtp_full_wright_260315_1920x1080-cxpnil.jpg" alt="Energy Sec. Wright says ‘good chance’ but ‘no guarantees’ of cheaper gas soon: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/energy-sec-wright-says-good-chance-but-no-guarantees-of-cheaper-gas-soon-full-interview-259345989658" target="_blank">Energy Sec. Wright says ‘good chance’ but ‘no guarantees’ of cheaper gas soon: Full interview</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-15 13:19</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +95,20 @@
                 <span class="time">2026-03-15 11:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/15/oscars-2026-nominees-predictions-start-time-and-how-to-watch?traffic_source=rss" target="_blank">Oscars 2026: Nominees, predictions, start time and how to watch</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-15 11:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/media/2026/mar/15/nigerias-online-content-creator-market-has-boomed-can-the-skit-makers-and-streamers-make-it-pay" target="_blank">Nigeria’s online content creator market has boomed. Can the skit-makers and streamers make it pay?</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-15 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran" target="_blank">AI Czar David Sacks wants Trump to ‘get out’ of Iran</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-15 14:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +154,20 @@
                 <span class="time">2026-03-15 10:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b4789121798c785e64c18e/master/pass/1059347572" alt="A New Study Details How Cats Almost Always Land on Their Feet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-new-study-details-how-cats-almost-always-land-on-their-feet/" target="_blank">A New Study Details How Cats Almost Always Land on Their Feet</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-15 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/unlimited_sheets_1535003f/how-to-scrape-data-directly-in-google-sheets-no-code-required-3n5" target="_blank">How to Scrape Data Directly in Google Sheets (No Code Required)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-15 14:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +211,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/03/aws-lightsail-openclaw-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches Managed Openclaw on Lightsail Amid Critical Security Vulnerabilities</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-03-15 10:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fraw.githubusercontent.com%2FSonAIengine%2Fgraph-tool-call%2Fmain%2Fassets%2Fdemo.gif" alt="I gave an LLM 248 tools and accuracy dropped to 12%. Here&#x27;s what fixed it." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sonaiengine/i-gave-an-llm-248-tools-and-accuracy-dropped-to-12-heres-what-fixed-it-91h" target="_blank">I gave an LLM 248 tools and accuracy dropped to 12%. Here&#x27;s what fixed it.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-15 09:45</span>
             </div>
         </div>
 </div>
@@ -308,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 14:07 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 15:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
