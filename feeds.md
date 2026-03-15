@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-15 12:03:49 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-15 13:18:21 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, March 15, 2026 - 12:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, March 15, 2026 - 13:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27bc/live/1ba73180-205f-11f1-933d-e9cc2c09d951.jpg" alt="We will intervene on energy bills if necessary, says Miliband" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj4z7zr4kd8o?at_medium=RSS&at_campaign=rss" target="_blank">We will intervene on energy bills if necessary, says Miliband</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-15 11:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,6 +78,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/media/2026/mar/15/nigerias-online-content-creator-market-has-boomed-can-the-skit-makers-and-streamers-make-it-pay" target="_blank">Nigeria’s online content creator market has boomed. Can the skit-makers and streamers make it pay?</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-15 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/15/thousands-in-paris-protest-military-actions-in-iran-lebanon-and-palestine?traffic_source=rss" target="_blank">Thousands in Paris protest military actions in Iran, Lebanon and Palestine</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -80,24 +102,6 @@
                 <span class="time">2026-03-15 08:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/15/smoke-rises-over-beiruts-southern-suburbs?traffic_source=rss" target="_blank">Smoke rises over Beirut’s southern suburbs</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-15 07:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-grab-from-lynch-vt_7192912.jpg?20260315023418" alt="Mourners defy Israel&#x27;s evacuation orders as they bury &#x27;martyred&#x27; loved ones in makeshift cemetery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/some-weep-while-others-stare-blankly-ahead-at-a-makeshift-cemetery-in-lebanons-evacuation-zone-13519932" target="_blank">Mourners defy Israel&#x27;s evacuation orders as they bury &#x27;martyred&#x27; loved ones in makeshift cemetery</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-15 02:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -107,9 +111,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/894501/samsung-galaxy-buds-4-pro-review" target="_blank">Samsung’s Galaxy Buds 4 Pro are the choice — if you have a Galaxy phone</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-15 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/column/893294/live-service-games-mess" target="_blank">Live-service games are a mess</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-15 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/honda-prelude-ad-500x500.jpg" alt="An engineering thesis disguised as a coupe: A history of the Honda Prelude" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/03/an-engineering-thesis-disguised-as-a-coupe-a-history-of-the-honda-prelude/" target="_blank">An engineering thesis disguised as a coupe: A history of the Honda Prelude</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-15 11:15</span>
             </div>
         </div>
 <div class="story">
@@ -139,29 +161,29 @@
                 <span class="time">2026-03-15 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/895039/trump-10-billion-tiktok" target="_blank">Trump administration is allegedly collecting $10 billion on the TikTok deal</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-14 21:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/" target="_blank">The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-14 21:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mwc/the-canvas-revolution-when-pixels-took-over-the-web-51bl" target="_blank">The Canvas Revolution: When Pixels Took Over the Web</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-15 13:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://cemrehancavdar.com/2026/03/10/optimization-ladder/" target="_blank">The Optimization Ladder</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-15 10:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +218,6 @@
                 <span class="title"><a href="https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html" target="_blank">The Appalling Stupidity of Spotify&#x27;s AI DJ</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-15 08:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzgh9xg4ayen39m7hsrf.png" alt="Building an AI-Powered Storybook with Gemini&#x27;s Interleaved Output" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ajitonelson/building-an-ai-powered-storybook-with-geminis-interleaved-output-2cdm" target="_blank">Building an AI-Powered Storybook with Gemini&#x27;s Interleaved Output</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-15 08:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jakubb_ing/surrealdb-the-one-size-fits-all-database-for-lazy-developers-part-1-1foe" target="_blank">SurrealDB: The &quot;One-Size-Fits-All&quot; Database for Lazy Developers (Part 1)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-15 06:13</span>
             </div>
         </div>
 </div>
@@ -308,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 12:03 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 13:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
