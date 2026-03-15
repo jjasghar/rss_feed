@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-15 16:04:06 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-15 17:04:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: WIRED -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, March 15, 2026 - 16:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, March 15, 2026 - 17:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -164,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://cbmg.umd.edu/news-events/news/brantley-hall-umd-scientists-create-smart-underwear-measure-human-flatulence" target="_blank">UMD Scientists Create &#x27;Smart Underwear&#x27; to Measure Human Flatulence</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-15 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/unlimited_sheets_1535003f/how-to-scrape-data-directly-in-google-sheets-no-code-required-3n5" target="_blank">How to Scrape Data Directly in Google Sheets (No Code Required)</a></span>
                 <span class="feed">DEV Community</span>
@@ -191,28 +200,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://cemrehancavdar.com/2026/03/10/optimization-ladder/" target="_blank">The Optimization Ladder</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-15 10:28</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc4-More-Rust" target="_blank">Linux 7.0 Lands Improvements To Deal With Upcoming Rust Changes, Build Reproducibility</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-15 11:02</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket" target="_blank">$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-15 10:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/aws-lightsail-openclaw-security/en/headerimage/generatedHeaderImage-1772738153368.jpg" alt="AWS Launches Managed Openclaw on Lightsail Amid Critical Security Vulnerabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/aws-lightsail-openclaw-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches Managed Openclaw on Lightsail Amid Critical Security Vulnerabilities</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-15 10:08</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://cemrehancavdar.com/2026/03/10/optimization-ladder/" target="_blank">The Optimization Ladder</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-15 10:28</span>
             </div>
         </div>
 </div>
@@ -220,6 +220,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Firefly-trio-1280x853.jpg" alt="The Return of ‘Firefly’ Could Be an Animated Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-return-of-firefly-could-be-an-animated-series-2000733778" target="_blank">The Return of ‘Firefly’ Could Be an Animated Series</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-15 16:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/maxresdefault.jpg" alt="Google Spends $1 Million On AI-Generated Kids Videos While Slop Floods YouTube" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +274,6 @@
                 <span class="time">2026-03-14 19:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/ss_c09706c6bed68996458c835ffa931900ac9c8b33.1920x1080-1280x720.jpg" alt="Egg Adventures, Trash Bandits, And Waking Nightmares: 5 Neat Indies You Definitely Missed This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/indie-games-hidden-gems-oeuf-mamas-sleeping-angels-2000678915" target="_blank">Egg Adventures, Trash Bandits, And Waking Nightmares: 5 Neat Indies You Definitely Missed This Week</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-14 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 16:04 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 17:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
