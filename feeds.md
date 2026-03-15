@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-15 17:04:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-15 18:04:26 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: WIRED -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, March 15, 2026 - 17:04 UTC</div>
+    <div class="newspaper-date">Sunday, March 15, 2026 - 18:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/15/manchester-united-beat-aston-villa-3-1-to-tighten-hold-on-third-place?traffic_source=rss" target="_blank">Manchester United beat Aston Villa 3-1  to tighten hold on third place</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-15 16:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/strait-of-hormuz-20260315-rt-jh_1773581826055_hpMain_4x3t_384.jpg" alt="Energy Secretary Wright says war with Iran &#x27;will certainly&#x27; end in next few weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +100,20 @@
                 <span class="time">2026-03-15 13:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27bc/live/1ba73180-205f-11f1-933d-e9cc2c09d951.jpg" alt="We will intervene on energy bills if necessary, says Miliband" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj4z7zr4kd8o?at_medium=RSS&at_campaign=rss" target="_blank">We will intervene on energy bills if necessary, says Miliband</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-15 11:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/" target="_blank">Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-15 17:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +159,29 @@
                 <span class="time">2026-03-15 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b574c39dac584a2261aa12/master/pass/Review--iGarden-M1-Pro-Max-100-Pool-Robot.jpg" alt="iGarden M1 Pro Max 100 Review: A Sports Car for Your Pool" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/igarden-m1-pro-max-100-pool-robot/" target="_blank">iGarden M1 Pro Max 100 Review: A Sports Car for Your Pool</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-15 10:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried" target="_blank">Grandparents are glued to their phones, families are worried [video]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-15 17:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/gimp-3.2-1.jpg?resize=406%2C232&amp;ssl=1" alt="GIMP 3.2 is out with Link Layers, SVG export and better painting UX" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/gimp-3-2-release-new-features" target="_blank">GIMP 3.2 is out with Link Layers, SVG export and better painting UX</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-15 16:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +216,6 @@
                 <span class="title"><a href="https://tomclancy.info/harold-and-george.html" target="_blank">A Theory of the World as run by large adult children</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-15 12:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc4-More-Rust" target="_blank">Linux 7.0 Lands Improvements To Deal With Upcoming Rust Changes, Build Reproducibility</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-15 11:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://cemrehancavdar.com/2026/03/10/optimization-ladder/" target="_blank">The Optimization Ladder</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-15 10:28</span>
             </div>
         </div>
 </div>
@@ -293,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 17:04 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 18:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
