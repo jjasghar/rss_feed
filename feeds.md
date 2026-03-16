@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-16 04:05:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-16 05:34:30 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, March 16, 2026 - 04:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, March 16, 2026 - 05:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,10 +51,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/16/nx-s1-5739288/oscars-2026-takeaways-winners-best-picture-actor" target="_blank">5 takeaways from an Oscars night that spread the love</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-16 04:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/quotable/2026/3/16/nobody-wants-to-get-involved-in-strait-of-hormuz-military-operations?traffic_source=rss" target="_blank">Nobody wants to get involved’ in Strait of Hormuz military operations</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-16 03:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/MBJ-site-edit-qaaf57.jpg" alt="Michael B. Jordan wins best actor for &#x27;Sinners&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/michael-b-jordan-wins-best-actor-for-sinners-259369541923" target="_blank">Michael B. Jordan wins best actor for &#x27;Sinners&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-16 03:04</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +102,20 @@
                 <span class="time">2026-03-16 00:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/oscars-42-gty-gmh-260315_1773616565629_hpMain_4x3t_384.jpg" alt="Oscars 2026 live updates: 1st awards handed out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/live-updates/oscars-2026/?id=130977802" target="_blank">Oscars 2026 live updates: 1st awards handed out</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-16 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3ba/live/cc0fefa0-20b2-11f1-801d-ed3cff6bf876.jpg" alt="&#x27;A new norm&#x27;: BBC visits Doha market starting to fill up again two weeks into Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;A new norm&#x27;: BBC visits Doha market starting to fill up again two weeks into Iran war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-15 23:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69b46904c31047dc3da91a22/master/pass/The-Best-Early-Deals-from-the-Amazon-Big-Spring-Sale.jpg" alt="These 15 Amazon Spring Sale Tech Deals Are Actually Good. WWe Checked the Price History  (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/amazon-spring-sale-2026/" target="_blank">These 15 Amazon Spring Sale Tech Deals Are Actually Good. WWe Checked the Price History  (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-16 05:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +161,20 @@
                 <span class="time">2026-03-15 19:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/" target="_blank">Lawyer behind AI psychosis cases warns of mass casualty risks</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-15 18:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mateenali66/github-actions-costs-are-leaking-and-most-teams-dont-notice-until-its-too-late-27d1" target="_blank">GitHub Actions costs are leaking, and most teams don&#x27;t notice until it&#x27;s too late</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-16 05:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnwmt6h59ydofxtvw1vwh.png" alt="CodeRabbit vs Bito: AI Code Review Comparison for 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -171,6 +182,15 @@
                 <span class="title"><a href="https://dev.to/rahulxsingh/coderabbit-vs-bito-ai-code-review-comparison-for-2026-3p05" target="_blank">CodeRabbit vs Bito: AI Code Review Comparison for 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-16 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/orion-beta.jpg?resize=406%2C232&amp;ssl=1" alt="Kagi’s Orion browser hits public beta on Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/orion-for-linux-beta-release" target="_blank">Kagi’s Orion browser hits public beta on Linux</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-16 03:09</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/adioof/your-vibecoded-prototype-took-30-minutes-shipping-it-will-take-100-hours-4bkf" target="_blank">Your Vibecoded Prototype Took 30 Minutes. Shipping It Will Take 100 Hours.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-15 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ilhammmaulana/why-your-laravel-app-is-heavy-and-how-to-fix-it-in-5-minutes-5j6" target="_blank">Why Your Laravel App is &quot;Heavy&quot; (and How to Fix it in 5 Minutes)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-15 21:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/" target="_blank">Canada&#x27;s bill C-22 mandates mass metadata surveillance of Canadians</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-15 21:22</span>
             </div>
         </div>
 </div>
@@ -305,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 04:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 05:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
