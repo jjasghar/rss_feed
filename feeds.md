@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-16 20:07:30 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-16 21:10:11 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
 <!-- Generated 10 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, March 16, 2026 - 20:07 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, March 16, 2026 - 21:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -88,12 +89,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-tehran-iran-war_7194748.jpg?20260316182832" alt="Tehran is dotted with the scars of war - but Iran&#x27;s government seems firmly in control" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/16/indian-farmers-dress-up-as-bears-to-protect-crops-from-monkeys?traffic_source=rss" target="_blank">Indian farmers dress up as bears to protect crops from monkeys</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-16 17:37</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/tehran-is-dotted-with-the-scars-of-war-but-irans-government-seems-firmly-in-control-13520634" target="_blank">Tehran is dotted with the scars of war - but Iran&#x27;s government seems firmly in control</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-16 18:09</span>
             </div>
         </div>
 </div>
@@ -101,6 +102,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/" target="_blank">Warren presses Pentagon over decision to grant xAI access to classified networks</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-16 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2201503706-500x500.jpg" alt="RFK Jr&#x27;s changes to CDC vaccine guidance, advisory board blocked by judge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/03/judge-temporarily-blocks-rfk-jr-s-changes-to-cdc-vaccine-recommendations/" target="_blank">RFK Jr&#x27;s changes to CDC vaccine guidance, advisory board blocked by judge</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-16 20:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy" target="_blank">Benjamin Netanyahu is struggling to prove he&amp;#8217;s not an AI clone</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-16 20:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -128,38 +156,20 @@
                 <span class="time">2026-03-16 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2266728234-500x500.jpg" alt="F1 in China: I&#x27;ve never seen so many people in those grandstands" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/03/f1-in-china-ive-never-seen-so-many-people-in-those-grandstands/" target="_blank">F1 in China: I&#x27;ve never seen so many people in those grandstands</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-16 17:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b837c21d0dc350fb541883/master/pass/JBL's-Best-Wireless-Headphones-Are-$170-Off-at-Walmart.jpg" alt="JBL&#x27;s Best Wireless Headphones Are $170 Off at Walmart" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/jbl-tour-one-m3-headphones-deal-326/" target="_blank">JBL&#x27;s Best Wireless Headphones Are $170 Off at Walmart</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-16 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit" target="_blank">Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-16 17:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nebulagg/how-to-stream-ai-agent-responses-in-5-min-1i0l" target="_blank">How to Stream AI Agent Responses in 5 Min</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-16 21:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,30 +198,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/03/google-cel-expr-python/en/headerimage/google-cel-expr-python-1773686641450.jpeg" alt="Google Open-Sources the Common Expression Language for Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/google-cel-expr-python/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Open-Sources the Common Expression Language for Python</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-16 19:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18913547&w=600" alt="Zero Trust, Build High Scale TLS Termination Layer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/zero-trust-build-high-scale-tls-termination-layer" target="_blank">Zero Trust, Build High Scale TLS Termination Layer</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-16 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/" target="_blank">Jemalloc un-abandoned by Meta</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-16 18:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bharath_kumar_30_vog/improving-my-automation-website-making-api-setup-easier-for-users-5ek4" target="_blank">Improving My Automation Website: Making API Setup Easier for Users 🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-16 18:04</span>
             </div>
         </div>
 </div>
@@ -233,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/nvidia-dlss-5-geforce-rtx-resident-evil-requiem-comparison-003-on-1280x853.jpeg" alt="Nvidia Wants to Slop-ify Your PC Games With Its New AI Upscaler" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nvidia-wants-to-sloppify-your-pc-games-with-its-new-ai-upscaler-2000734176" target="_blank">Nvidia Wants to Slop-ify Your PC Games With Its New AI Upscaler</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-16 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/mark_garlick_illustration_v2-1280x853.jpg" alt="This Alien Planet Might Be the Stinkiest Place in the Galaxy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +288,6 @@
                 <span class="time">2026-03-16 17:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Weapons-Gladys-Amy-Madigan-1280x853.jpg" alt="Amy Madigan’s ‘Weapons’ Oscar Win Was a Big Win for Horror" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/amy-madigans-weapons-oscar-win-was-a-big-win-for-horror-2000734020" target="_blank">Amy Madigan’s ‘Weapons’ Oscar Win Was a Big Win for Horror</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-16 17:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 20:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 21:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
