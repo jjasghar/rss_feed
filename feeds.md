@@ -1,44 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-16 16:19:11 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-16 17:20:19 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 35 feeds processed -->
+<!-- Generated 13 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, March 16, 2026 - 16:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, March 16, 2026 - 17:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,9 +51,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/16/afghanistan-says-children-among-those-killed-in-latest-attacks-by-pakistan?traffic_source=rss" target="_blank">Afghanistan says children among four killed in latest attacks by Pakistan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-16 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/16/us-israel-now-know-what-kind-of-nation-they-are-dealing?traffic_source=rss" target="_blank">US, Israel now know ‘what kind of nation they are dealing with’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-16 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/16/nx-s1-5742376/2026-winter-paralympics-highlights-usa-hockey-skiing-snowboarding" target="_blank">Team USA dominated the Paralympics on both ice and snow. Check out the highlights</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-16 15:34</span>
             </div>
         </div>
 <div class="story">
@@ -73,6 +84,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-iran-waghorn_7194581.jpg?20260316153042" alt="US faces another Vietnam if it puts boots on the ground, Iran&#x27;s deputy FM tells Sky News" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/us-faces-another-vietnam-if-it-puts-boots-on-the-ground-irans-deputy-fm-tells-sky-news-13520555" target="_blank">US faces another Vietnam if it puts boots on the ground, Iran&#x27;s deputy FM tells Sky News</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-16 14:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdcc/live/de4b0bd0-2087-11f1-8af0-cf4f458e05d4.jpg" alt="Starmer announces £53m support to help with heating oil costs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -81,38 +101,47 @@
                 <span class="time">2026-03-16 14:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/16/kenya-and-russia-agree-no-kenyans-will-be-recruited-for-ukraine-war?traffic_source=rss" target="_blank">Kenya and Russia agree no Kenyans will be recruited for Ukraine war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-16 14:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/tdy-cuba-tne7lg.jpg" alt="Cuba Set to Welcome US Investment, Official Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/exclusive-cuba-set-to-welcome-us-investment-259382341743" target="_blank">Cuba Set to Welcome US Investment, Official Says</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-16 12:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d1/live/62f891c0-2125-11f1-821c-5783b4f9d6f9.jpg" alt="Iran hits key UAE oil port and Dubai airport" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss" target="_blank">Iran hits key UAE oil port and Dubai airport</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-16 12:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2266728234-500x500.jpg" alt="F1 in China: I&#x27;ve never seen so many people in those grandstands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/03/f1-in-china-ive-never-seen-so-many-people-in-those-grandstands/" target="_blank">F1 in China: I&#x27;ve never seen so many people in those grandstands</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-16 17:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b837c21d0dc350fb541883/master/pass/JBL's-Best-Wireless-Headphones-Are-$170-Off-at-Walmart.jpg" alt="JBL&#x27;s Best Wireless Headphones Are $170 Off at Walmart" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/jbl-tour-one-m3-headphones-deal-326/" target="_blank">JBL&#x27;s Best Wireless Headphones Are $170 Off at Walmart</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-16 17:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit" target="_blank">Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-16 17:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/16/antonio-gracias-says-hes-loomg-for-proentropic-startups-those-that-are-built-to-survive-chaos/" target="_blank">Antonio Gracias says he’s longing for ‘proentropic’ startups — those that are built to survive chaos</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-16 15:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,47 +160,29 @@
                 <span class="time">2026-03-16 13:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload" target="_blank">This is not a fly uploaded to a computer</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-16 12:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-480542603-500x500.jpg" alt="A century after the first rocket launch, Ars staffers pick their favorites" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/03/a-century-after-the-first-rocket-launch-ars-staffers-pick-their-favorites/" target="_blank">A century after the first rocket launch, Ars staffers pick their favorites</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-16 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a95ff9037de6a35674f788/master/pass/WRD_COBOL.gif" alt="COBOL Is the Asbestos of Programming Languages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cobol-is-the-asbestos-of-programming-languages/" target="_blank">COBOL Is the Asbestos of Programming Languages</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-16 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/features/889835/fitness-trackers-chronic-illness-visible-whoop" target="_blank">My fitness tracker is a secret weapon against my chronic illness</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-16 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/eliotdill/how-to-convert-a-any-vibe-coded-website-to-wordpress-without-banging-your-head-against-the-wall-4e1m" target="_blank">How to convert a any vibe coded website to WordPress (without banging your head against the wall)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-16 17:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/engineering-boring-problems/en/headerimage/generatedHeaderImage-1773671777267.jpg" alt="QCon London 2026: The Hidden Power of Boring Problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/engineering-boring-problems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: The Hidden Power of Boring Problems</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-16 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cplh7fmykynr89a33fq.png" alt="Agent Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,24 +219,6 @@
                 <span class="time">2026-03-16 15:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Linux-7.1-UHBR-DP-Prep" target="_blank">Intel Graphics Driver Preps For UHBR DP Tunnels With Linux 7.1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-16 15:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18913064&w=600" alt="How Multimodal AI Is Reshaping Kubernetes Workflows: Future-Proofing Your Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/multimodal-ai-kubernetes-workflows-future-proof" target="_blank">How Multimodal AI Is Reshaping Kubernetes Workflows: Future-Proofing Your Platform</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-16 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Weapons-Gladys-Amy-Madigan-1280x853.jpg" alt="Amy Madigan’s ‘Weapons’ Oscar Win Was a Big Win for Horror" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/amy-madigans-weapons-oscar-win-was-a-big-win-for-horror-2000734020" target="_blank">Amy Madigan’s ‘Weapons’ Oscar Win Was a Big Win for Horror</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-16 17:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/IMG_2490-1280x720.jpg" alt="Yes, Your Pokémon Are Disappearing In Pokopia And It’s Really Annoying To Get Them Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-pokopia-disappearing-despawn-respawn-honey-2000679147" target="_blank">Yes, Your Pokémon Are Disappearing In Pokopia And It’s Really Annoying To Get Them Back</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-16 16:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/crackedxbox-1280x720.jpg" alt="The ‘Unhackable’ Xbox One Has Finally Been Hacked, 12 Years After Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,29 +292,20 @@
                 <span class="time">2026-03-16 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKVFNF162PP42NT7QXKK1X88/hero-image.jpg" alt="Android 16 Now Has a Desktop Mode for Your Pixel 8 or Newer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/android-16-desktop-mode-pixel?utm_medium=RSS" target="_blank">Android 16 Now Has a Desktop Mode for Your Pixel 8 or Newer</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-16 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Image-Banksy.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Banksy conclusively identified by Reuters as Robin Gunningham" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/16/banksy-conclusively-identified-by-reuters-as-robin-gunningham.html" target="_blank">Banksy conclusively identified by Reuters as Robin Gunningham</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-16 14:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1773626130-20260316.png" alt="Saturday Morning Breakfast Cereal - Under" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/under" target="_blank">Saturday Morning Breakfast Cereal - Under</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-16 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -327,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 16:19 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 17:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
