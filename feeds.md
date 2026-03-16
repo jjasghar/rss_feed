@@ -1,32 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-03-16 15:21:32 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-16 16:19:11 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, March 16, 2026 - 15:21 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, March 16, 2026 - 16:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/16/us-israel-now-know-what-kind-of-nation-they-are-dealing?traffic_source=rss" target="_blank">US, Israel now know ‘what kind of nation they are dealing with’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-16 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +106,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss" target="_blank">Iran hits key UAE oil port and Dubai airport</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-16 12:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/16/africa-particularly-vulnerable-iran-conflict-disrupts-supply-chains" target="_blank">Africa particularly vulnerable as Iran conflict disrupts supply chains, say experts</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-16 12:03</span>
             </div>
         </div>
 </div>
@@ -161,6 +173,42 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cplh7fmykynr89a33fq.png" alt="Agent Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/neuml/agent-tools-428a" target="_blank">Agent Tools</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-16 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18913068&w=600" alt="Agentic AI: Autonomous AI Agent With PostgreSQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/agentic-ai-autonomous-postgresql-ai-agent" target="_blank">Agentic AI: Autonomous AI Agent With PostgreSQL</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-16 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-actions/" target="_blank">GitHub for Beginners: Getting started with GitHub Actions</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-03-16 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17300251/android-developer-verification" target="_blank">Google Says Developer Verification Makes Android Safer. Critics Say It Just Makes Android More Closed</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-16 15:40</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -176,42 +224,6 @@
                 <span class="title"><a href="https://dzone.com/articles/multimodal-ai-kubernetes-workflows-future-proof" target="_blank">How Multimodal AI Is Reshaping Kubernetes Workflows: Future-Proofing Your Platform</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-16 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/03/16/domain-expertise-still-wanted-the-latest-trends-in-ai/" target="_blank">Domain expertise still wanted: the latest trends in AI-assisted knowledge for developers</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-03-16 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Lenovo-Go-S-HID-Linux-7.1" target="_blank">Lenovo Legion Go HID Drivers Queued Ahead Of Linux 7.1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-16 13:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full" target="_blank">Corruption erodes social trust more in democracies than in autocracies</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-16 11:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/evaluating-ai-agents-lessons-learned/en/headerimage/evaluating-ai-agents-lessons-learned-header-1773307288872.jpg" alt="Article: Evaluating AI Agents in Practice: Benchmarks, Frameworks, and Lessons Learned" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/evaluating-ai-agents-lessons-learned/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Evaluating AI Agents in Practice: Benchmarks, Frameworks, and Lessons Learned</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-16 11:00</span>
             </div>
         </div>
 </div>
@@ -234,12 +246,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/crackedxbox-1280x720.jpg" alt="The ‘Unhackable’ Xbox One Has Finally Been Hacked, 12 Years After Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-one-hack-jailbreak-2000679120" target="_blank">The ‘Unhackable’ Xbox One Has Finally Been Hacked, 12 Years After Release</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-16 16:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/22All-I-have-are-negative-thoughts_22-about-the-man.jpg?fit=1080%2C1007&amp;quality=60&amp;ssl=1" alt="Behold the very finest &quot;mall ninja shit&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/16/behold-the-very-finest-mall-ninja-shit.html" target="_blank">Behold the very finest &quot;mall ninja shit&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-16 15:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/doctor-who-the-daleks-master-plan-first-doctor-1280x853.jpg" alt="Watch a Clip of ‘Doctor Who’ That’s Not Been Seen for Over 60 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/doctor-who-missing-episodes-first-look-daleks-master-plan-2000733964" target="_blank">Watch a Clip of ‘Doctor Who’ That’s Not Been Seen for Over 60 Years</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-16 15:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKVGRF5GVH9T7WP42KPKFX2B/hero-image.jpg" alt="The New AirPods Max 2 Will Finally Have Features Apple’s Earbuds Have Had for Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/new-airpods-max-2-finally-have-features-apples-earbuds-have-had-for-years?utm_medium=RSS" target="_blank">The New AirPods Max 2 Will Finally Have Features Apple’s Earbuds Have Had for Years</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-16 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -258,33 +297,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/16/banksy-conclusively-identified-by-reuters-as-robin-gunningham.html" target="_blank">Banksy conclusively identified by Reuters as Robin Gunningham</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-16 14:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKN1BAZDWJ0K6E6MZM6KPM2E/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Are &#x27;Frambled&#x27; Eggs?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-what-are-frambled-eggs?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Are &#x27;Frambled&#x27; Eggs?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-16 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2021/04/i5tojylzfwjmfq36clhy-1280x720.jpg" alt="Jeff Kaplan Says Complaining About Games You Won’t Play Gets You Ignored: ‘Shut The F*** Up. No One Cares’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/jeff-kaplan-overwatch-legend-california-stream-twitch-2000679066" target="_blank">Jeff Kaplan Says Complaining About Games You Won’t Play Gets You Ignored: ‘Shut The F*** Up. No One Cares’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-16 13:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKV3KNYXWBZ8Z5WSXRW4KTTD/hero-image.png" alt="The Samsung Galaxy S26 Ultra Is Up to $720 Off With This Trade-In Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-s26-ultra-trade-in-deal-march-2026?utm_medium=RSS" target="_blank">The Samsung Galaxy S26 Ultra Is Up to $720 Off With This Trade-In Deal</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-16 13:00</span>
             </div>
         </div>
 </div>
@@ -315,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 15:21 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 16:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
