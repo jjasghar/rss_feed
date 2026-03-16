@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-16 01:31:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-16 02:59:11 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, March 16, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, March 16, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/oscars-103-gty-gmh-260315_1773628451753_hpMain_4x3t_384.jpg" alt="Oscars 2026 recap: The biggest winners and best moments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/live-updates/oscars-2026/?id=130977802" target="_blank">Oscars 2026 recap: The biggest winners and best moments</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-16 02:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/16/fire-erupts-at-dubai-airport-following-drone-attack?traffic_source=rss" target="_blank">Fire erupts at Dubai airport following drone attack</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-16 02:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260315-oscars-best-live-action-lr-2c2e0e.jpg" alt="It&#x27;s an Oscars tie! Two films win best live-action short film." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +101,20 @@
                 <span class="time">2026-03-15 22:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c301/live/8017f630-20a6-11f1-b760-7d6278c3d0c0.jpg" alt="Two die including uni student in meningitis outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdxg35dv7npo?at_medium=RSS&at_campaign=rss" target="_blank">Two die including uni student in meningitis outbreak</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-15 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/15/iranian-ambassador-to-saudia-arabia-denies-attacks-on-oil-infrasture?traffic_source=rss" target="_blank">Iran’s ambassador to Saudi Arabia denies attacks on its oil facilities</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-15 21:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/15/netflixs-frankenstein-wins-three-oscars-kpop-demon-hunters-wins-two/" target="_blank">Netflix’s ‘Frankenstein’ wins three Oscars, ‘KPop Demon Hunters’ wins two</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-16 02:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +158,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/" target="_blank">Lawyer behind AI psychosis cases warns of mass casualty risks</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-15 18:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/" target="_blank">Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-15 17:19</span>
             </div>
         </div>
 </div>
@@ -224,6 +225,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Sinners-Michael-B-Jordan-Ryan-Coogler-1280x853.jpg" alt="Killing Vampires Pays Off as Michael B. Jordan Wins Best Actor for ‘Sinners’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/oscars-2026-michael-b-jordan-best-actor-sinners-2000733410" target="_blank">Killing Vampires Pays Off as Michael B. Jordan Wins Best Actor for ‘Sinners’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-16 02:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/x-men-97-s2cover-1280x853.jpg" alt="Marvel Wants to Remind You ‘X-Men ’97’ Season 2 Is Really Close" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -268,15 +278,6 @@
                 <span class="time">2026-03-15 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2022/07/e6eb3589c7e6ab1ef9cb26dcb3cf98e5-1024x575.jpg" alt="Co-Founder of Uber Pivots Real Estate Company to Robots, Posts Manifesto" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/co-founder-of-uber-pivots-real-estate-company-to-robots-posts-manifesto-2000733751" target="_blank">Co-Founder of Uber Pivots Real Estate Company to Robots, Posts Manifesto</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-15 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
