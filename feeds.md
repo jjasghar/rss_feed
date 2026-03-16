@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-03-16 21:10:11 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-16 22:07:06 UTC -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, March 16, 2026 - 21:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, March 16, 2026 - 22:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/16/fourth-world-nation-trump-slams-somalia-ilhan-omar?traffic_source=rss" target="_blank">‘Fourth world nation’: Trump slams Somalia, Ilhan Omar</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-16 21:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +95,20 @@
                 <span class="time">2026-03-16 18:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-tehran-iran-war_7194748.jpg?20260316182832" alt="Tehran is dotted with the scars of war - but Iran&#x27;s government seems firmly in control" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/tehran-is-dotted-with-the-scars-of-war-but-irans-government-seems-firmly-in-control-13520634" target="_blank">Tehran is dotted with the scars of war - but Iran&#x27;s government seems firmly in control</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-16 18:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics" target="_blank">DLSS 5 looks like a real-time generative AI filter for video games</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-16 21:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +154,6 @@
                 <span class="time">2026-03-16 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/2026-Porsche-911-Cup-012-500x500.jpg" alt="Driving the $375,000 Porsche race car that debuted as a $12 DLC in iRacing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/03/from-pixels-to-pavement-testing-the-new-porsche-911-cup-in-iracing-and-irl/" target="_blank">Driving the $375,000 Porsche race car that debuted as a $12 DLC in iRacing</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-16 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +166,24 @@
                 <span class="title"><a href="https://dev.to/nebulagg/how-to-stream-ai-agent-responses-in-5-min-1i0l" target="_blank">How to Stream AI Agent Responses in 5 Min</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-16 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/nvidia-gtc-2026" target="_blank">Meet Canonical at NVIDIA GTC 2026: NVIDIA CUDA and NVIDIA Vera Rubin NVL72 support in Ubuntu 26.04 LTS</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-03-16 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Glibc-Faster-cosh-x86-64-FMA" target="_blank">GNU C Library Lands x86_64 FMA&#x27;ed cosh For A ~35% Improvement</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-16 20:21</span>
             </div>
         </div>
 <div class="story">
@@ -189,30 +205,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/new-yaru-folder-icon.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04’s new folder icons are here – and you’re going to have opinions…" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/ubuntu-yaru-icons.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu new folder icons are here – and you’re going to have opinions…" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ubuntu-2604-new-folder-icons" target="_blank">Ubuntu 26.04’s new folder icons are here – and you’re going to have opinions…</a></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ubuntu-2604-new-folder-icons" target="_blank">Ubuntu new folder icons are here – and you’re going to have opinions…</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-03-16 19:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/google-cel-expr-python/en/headerimage/google-cel-expr-python-1773686641450.jpeg" alt="Google Open-Sources the Common Expression Language for Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/google-cel-expr-python/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Open-Sources the Common Expression Language for Python</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-16 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18913547&w=600" alt="Zero Trust, Build High Scale TLS Termination Layer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/zero-trust-build-high-scale-tls-termination-layer" target="_blank">Zero Trust, Build High Scale TLS Termination Layer</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-16 19:00</span>
             </div>
         </div>
 </div>
@@ -235,11 +233,38 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Patrick-Wilson-Conjuring-1280x853.jpg" alt="‘The Last of Us’ Season 3 Just Cast Patrick Wilson to Die Immediately" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-last-of-us-season-3-just-cast-patrick-wilson-to-die-immediately-2000734158" target="_blank">‘The Last of Us’ Season 3 Just Cast Patrick Wilson to Die Immediately</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-16 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKW7538V6SA42ACGG18EKVGE/hero-image.jpg" alt="Prime Video Is About to Take 4K Streaming Away From &#x27;Basic&#x27; Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/prime-video-is-about-to-gatekeep-4k-streaming-from-basic-users?utm_medium=RSS" target="_blank">Prime Video Is About to Take 4K Streaming Away From &#x27;Basic&#x27; Users</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-16 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/nvidia-dlss-5-geforce-rtx-resident-evil-requiem-comparison-003-on-1280x853.jpeg" alt="Nvidia Wants to Slop-ify Your PC Games With Its New AI Upscaler" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/nvidia-wants-to-sloppify-your-pc-games-with-its-new-ai-upscaler-2000734176" target="_blank">Nvidia Wants to Slop-ify Your PC Games With Its New AI Upscaler</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-16 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Plantum.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Aspiring green thumb? Never kill a plant again with this AI-enabled app" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/16/aspiring-green-thumb-never-kill-a-plant-again-with-this-ai-enabled-app.html" target="_blank">Aspiring green thumb? Never kill a plant again with this AI-enabled app</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-16 21:00</span>
             </div>
         </div>
@@ -259,33 +284,6 @@
                 <span class="title"><a href="https://gizmodo.com/firefly-animated-tv-series-outlaw-star-anime-2000734026" target="_blank">Animated ‘Firefly’ Already Exists, and It’s Called ‘Outlaw Star’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-16 19:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/braind.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Memory hack: self-testing beats re-reading by 50%, research shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/16/memory-hack-self-testing-beats-re-reading-by-50-research-shows.html" target="_blank">Memory hack: self-testing beats re-reading by 50%, research shows</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-16 18:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JKXFMADDQZ89T2XRSZRSPH18/hero-image.png" alt="You Can Finally Get an Apple Watch Ultra 2 for Under $500" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-watch-ultra-2-deal-march-2026?utm_medium=RSS" target="_blank">You Can Finally Get an Apple Watch Ultra 2 for Under $500</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-16 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/c6fe2ac031e2e4dc16c414acdd1c7662-1280x720.jpg" alt="Subnautica 2 Publisher Followed ChatGPT’s Advice On How To Break The Law" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/subnautica-2-publisher-followed-chatgpts-advice-on-how-to-break-the-law-2000679155" target="_blank">Subnautica 2 Publisher Followed ChatGPT’s Advice On How To Break The Law</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-16 17:29</span>
             </div>
         </div>
 </div>
@@ -325,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 21:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 22:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
