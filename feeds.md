@@ -1,31 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-03-16 22:07:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-16 23:04:50 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Generated 10 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, March 16, 2026 - 22:07 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, March 16, 2026 - 23:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,12 +55,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/106c/live/55756740-216f-11f1-a79a-77e93010d956.jpg" alt="Family &#x27;beyond devastated&#x27; by meningitis death as hundreds get antibiotics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp9mdxz4dd2o?at_medium=RSS&at_campaign=rss" target="_blank">Family &#x27;beyond devastated&#x27; by meningitis death as hundreds get antibiotics</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-16 22:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/16/nx-s1-5745069/supreme-court-tps-syria-haiti" target="_blank">Supreme Court to hear expedited arguments on protected status for migrants</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-16 21:25</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/16/fourth-world-nation-trump-slams-somalia-ilhan-omar?traffic_source=rss" target="_blank">‘Fourth world nation’: Trump slams Somalia, Ilhan Omar</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-16 21:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251013-cdc-mb-0631-0a730e.jpg" alt="Federal judge blocks RFK Jr.&#x27;s changes to childhood vaccine schedule" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/health/health-news/federal-judge-blocks-rfk-jr-cdc-childhood-vaccine-schedule-rcna263697" target="_blank">Federal judge blocks RFK Jr.&#x27;s changes to childhood vaccine schedule</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-16 20:25</span>
             </div>
         </div>
 <div class="story">
@@ -66,33 +106,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492" target="_blank">Iran live updates: 200 US troops have been wounded, including 10 &#x27;seriously&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-16 19:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/16/nx-s1-5739183/maha-vaccine-safety-kennedy" target="_blank">Vaccine critics keep the pressure on, even as RFK Jr. shifts focus</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-16 19:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/16/trump-says-hormuz-strait-help-on-the-way-as-allies-reject-military-action?traffic_source=rss" target="_blank">Trump says Hormuz Strait help ‘on the way’ as allies reject military action</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-16 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec4c/live/718c1200-2163-11f1-b297-95b0a0a8331e.jpg" alt="Trump says UK should &#x27;enthusiastically&#x27; join efforts to reopen Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp816jwg411o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says UK should &#x27;enthusiastically&#x27; join efforts to reopen Strait of Hormuz</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-16 18:45</span>
             </div>
         </div>
 </div>
@@ -171,6 +184,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mistral.ai/news/leanstral" target="_blank">Leanstral: Open-Source foundation for trustworthy vibe-coding</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-16 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://ubuntu.com//blog/nvidia-gtc-2026" target="_blank">Meet Canonical at NVIDIA GTC 2026: NVIDIA CUDA and NVIDIA Vera Rubin NVL72 support in Ubuntu 26.04 LTS</a></span>
                 <span class="feed">Ubuntu blog</span>
@@ -204,15 +226,6 @@
                 <span class="time">2026-03-16 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/ubuntu-yaru-icons.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu new folder icons are here – and you’re going to have opinions…" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ubuntu-2604-new-folder-icons" target="_blank">Ubuntu new folder icons are here – and you’re going to have opinions…</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-16 19:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +245,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/david-sacks-donald-trump-2025-1280x853.jpg" alt="Trump Advisors Warn of Nuclear Spiral in Iran, Push to Nuke a New Canal for Shipping" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-advisors-warn-of-nuclear-spiral-in-iran-push-to-nuke-a-new-canal-for-shipping-2000734127" target="_blank">Trump Advisors Warn of Nuclear Spiral in Iran, Push to Nuke a New Canal for Shipping</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-16 22:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/badnewsgpu-1280x720.jpg" alt="PC Gaming Hardware Maker Calls 2026 ‘Most Challenging Year Ever’ As It Hikes Prices Up To 30 Percent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/msi-2026-most-challenging-year-hikes-prices-up-to-30-percent-low-end-gpu-2000679237" target="_blank">PC Gaming Hardware Maker Calls 2026 ‘Most Challenging Year Ever’ As It Hikes Prices Up To 30 Percent</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-16 22:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKW7G9598QRRFT03GZYE18RJ/hero-image.webp" alt="All the Details on Target&#x27;s Answer to Amazon&#x27;s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/target-circle-deal-days-amazon-big-spring-sale?utm_medium=RSS" target="_blank">All the Details on Target&#x27;s Answer to Amazon&#x27;s Big Spring Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-16 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Patrick-Wilson-Conjuring-1280x853.jpg" alt="‘The Last of Us’ Season 3 Just Cast Patrick Wilson to Die Immediately" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,38 +299,20 @@
                 <span class="time">2026-03-16 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Plantum.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Aspiring green thumb? Never kill a plant again with this AI-enabled app" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/16/aspiring-green-thumb-never-kill-a-plant-again-with-this-ai-enabled-app.html" target="_blank">Aspiring green thumb? Never kill a plant again with this AI-enabled app</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-16 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/mark_garlick_illustration_v2-1280x853.jpg" alt="This Alien Planet Might Be the Stinkiest Place in the Galaxy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-alien-planet-might-be-the-stinkiest-place-in-the-galaxy-2000733966" target="_blank">This Alien Planet Might Be the Stinkiest Place in the Galaxy</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-16 19:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/outlaw-star-gene-1280x853.jpg" alt="Animated ‘Firefly’ Already Exists, and It’s Called ‘Outlaw Star’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/firefly-animated-tv-series-outlaw-star-anime-2000734026" target="_blank">Animated ‘Firefly’ Already Exists, and It’s Called ‘Outlaw Star’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-16 19:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/16/lost-and-found" target="_blank">Lost And Found</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-16 21:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1773626130-20260316.png" alt="Saturday Morning Breakfast Cereal - Under" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -323,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 22:07 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 23:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
