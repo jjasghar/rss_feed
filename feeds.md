@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-16 19:21:01 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-03-16 20:07:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 10 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, March 16, 2026 - 19:21 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, March 16, 2026 - 20:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/16/g-s1-113246/sleeping-sickness-drug-treatment-tsetse-fly" target="_blank">A new drug could be the beginning of the end for sleeping sickness</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-16 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-14-ht-gmh-260310_1773158691134_hpMain_4x3t_384.jpg" alt="Iran live updates: 200 US troops have been wounded, including 10 &#x27;seriously&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492" target="_blank">Iran live updates: 200 US troops have been wounded, including 10 &#x27;seriously&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-16 19:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/03/16/nx-s1-5739183/maha-vaccine-safety-kennedy" target="_blank">Vaccine critics keep the pressure on, even as RFK Jr. shifts focus</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-16 19:11</span>
@@ -66,6 +79,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec4c/live/718c1200-2163-11f1-b297-95b0a0a8331e.jpg" alt="Trump says UK should &#x27;enthusiastically&#x27; join efforts to reopen Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp816jwg411o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says UK should &#x27;enthusiastically&#x27; join efforts to reopen Strait of Hormuz</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-16 18:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -74,38 +96,29 @@
                 <span class="time">2026-03-16 17:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f521/live/30b2ab10-214d-11f1-8771-8f3ba04352de.jpg" alt="Wary allies show there&#x27;s no quick fix to Trump&#x27;s Iran crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss" target="_blank">Wary allies show there&#x27;s no quick fix to Trump&#x27;s Iran crisis</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-16 17:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/16/afghanistan-says-children-among-those-killed-in-latest-attacks-by-pakistan?traffic_source=rss" target="_blank">Afghanistan says children among four killed in latest attacks by Pakistan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-16 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/16/us-israel-now-know-what-kind-of-nation-they-are-dealing?traffic_source=rss" target="_blank">US, Israel now know ‘what kind of nation they are dealing with’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-16 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/16/samsung-bets-this-island-startup-can-tame-the-grid-with-software-and-batteries/" target="_blank">Samsung bets this island startup can tame the grid with software and batteries</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-16 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b8522c2b6c9f02aa54969a/master/pass/Save-Almost-20-Percent-On-Our-Favorite-Portable-Bluetooth-Speaker.jpg" alt="Save Almost 20 Percent On Our Favorite Portable Bluetooth Speaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/tribit-stormbox-miniplus-deal-326/" target="_blank">Save Almost 20 Percent On Our Favorite Portable Bluetooth Speaker</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-16 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/2026-Porsche-911-Cup-012-500x500.jpg" alt="Driving the $375,000 Porsche race car that debuted as a $12 DLC in iRacing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +155,38 @@
                 <span class="time">2026-03-16 17:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/16/antonio-gracias-says-hes-loomg-for-proentropic-startups-those-that-are-built-to-survive-chaos/" target="_blank">Antonio Gracias says he’s longing for ‘proentropic’ startups — those that are built to survive chaos</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-16 15:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/16/apple-quietly-launches-airpods-max-2/" target="_blank">Apple quietly launches AirPods Max 2</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-16 14:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/paul310/ai-makes-your-firm-faster-maister-explains-why-it-doesnt-make-you-richer-1kd" target="_blank">AI Makes Your Firm Faster. Maister Explains Why It Doesn&#x27;t Make You Richer.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-16 20:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914612&w=600" alt="Production LLM Data Extraction Pipeline With LaunchDarkly and Vercel AI Gateway" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/build-llm-data-extraction-pipeline-launchdarkly-vercel" target="_blank">Production LLM Data Extraction Pipeline With LaunchDarkly and Vercel AI Gateway</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-16 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/new-yaru-folder-icon.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04’s new folder icons are here – and you’re going to have opinions…" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ubuntu-2604-new-folder-icons" target="_blank">Ubuntu 26.04’s new folder icons are here – and you’re going to have opinions…</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-16 19:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18913547&w=600" alt="Zero Trust, Build High Scale TLS Termination Layer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,33 +214,6 @@
                 <span class="time">2026-03-16 18:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17300329/orion-browser-linux-beta-release" target="_blank">Not a Firefox Fork! Kagi&amp;#x27;s Orion Browser Arrives on Linux as a Public Beta</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-16 17:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/eliotdill/how-to-convert-a-any-vibe-coded-website-to-wordpress-without-banging-your-head-against-the-wall-4e1m" target="_blank">How to convert a any vibe coded website to WordPress (without banging your head against the wall)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-16 17:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/engineering-boring-problems/en/headerimage/generatedHeaderImage-1773671777267.jpg" alt="QCon London 2026: The Hidden Power of Boring Problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/engineering-boring-problems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: The Hidden Power of Boring Problems</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-16 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/mark_garlick_illustration_v2-1280x853.jpg" alt="This Alien Planet Might Be the Stinkiest Place in the Galaxy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-alien-planet-might-be-the-stinkiest-place-in-the-galaxy-2000733966" target="_blank">This Alien Planet Might Be the Stinkiest Place in the Galaxy</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-16 19:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/outlaw-star-gene-1280x853.jpg" alt="Animated ‘Firefly’ Already Exists, and It’s Called ‘Outlaw Star’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +287,6 @@
                 <span class="time">2026-03-16 17:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/IMG_2490-1280x720.jpg" alt="Yes, Your Pokémon Are Disappearing In Pokopia And It’s Really Annoying To Get Them Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-pokopia-disappearing-despawn-respawn-honey-2000679147" target="_blank">Yes, Your Pokémon Are Disappearing In Pokopia And It’s Really Annoying To Get Them Back</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-16 16:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 19:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 20:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
