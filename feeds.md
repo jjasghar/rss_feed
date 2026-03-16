@@ -1,30 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-03-16 12:10:40 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-03-16 13:28:48 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, March 16, 2026 - 12:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, March 16, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/tdy-cuba-tne7lg.jpg" alt="Cuba Set to Welcome US Investment, Official Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/exclusive-cuba-set-to-welcome-us-investment-259382341743" target="_blank">Cuba Set to Welcome US Investment, Official Says</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-16 12:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +92,20 @@
                 <span class="time">2026-03-16 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdcc/live/de4b0bd0-2087-11f1-8af0-cf4f458e05d4.jpg" alt="Starmer to set out support plan for heating oil costs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp9mgpzn901o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to set out support plan for heating oil costs</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-16 07:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload" target="_blank">This is not a fly uploaded to a computer</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-16 12:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-480542603-500x500.jpg" alt="A century after the first rocket launch, Ars staffers pick their favorites" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +151,20 @@
                 <span class="time">2026-03-16 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b46904c31047dc3da91a22/master/pass/The-Best-Early-Deals-from-the-Amazon-Big-Spring-Sale.jpg" alt="These 15 Amazon Spring Sale Tech Deals Are Actually Good. WWe Checked the Price History  (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/amazon-spring-sale-2026/" target="_blank">These 15 Amazon Spring Sale Tech Deals Are Actually Good. WWe Checked the Price History  (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-16 05:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Lenovo-Go-S-HID-Linux-7.1" target="_blank">Lenovo Legion Go HID Drivers Queued Ahead Of Linux 7.1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-16 13:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/evaluating-ai-agents-lessons-learned/en/headerimage/evaluating-ai-agents-lessons-learned-header-1773307288872.jpg" alt="Article: Evaluating AI Agents in Practice: Benchmarks, Frameworks, and Lessons Learned" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,15 +210,6 @@
                 <span class="time">2026-03-16 08:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17299966/things-linux-can-window-not" target="_blank">10 Things Linux Can Do That Windows Still Can’t</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-16 06:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +229,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2021/04/i5tojylzfwjmfq36clhy-1280x720.jpg" alt="Jeff Kaplan Says Complaining About Games You Won’t Play Gets You Ignored: ‘Shut The F*** Up. No One Cares’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/jeff-kaplan-overwatch-legend-california-stream-twitch-2000679066" target="_blank">Jeff Kaplan Says Complaining About Games You Won’t Play Gets You Ignored: ‘Shut The F*** Up. No One Cares’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-16 13:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKV3KNYXWBZ8Z5WSXRW4KTTD/hero-image.png" alt="The Samsung Galaxy S26 Ultra Is Up to $720 Off With This Trade-In Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-s26-ultra-trade-in-deal-march-2026?utm_medium=RSS" target="_blank">The Samsung Galaxy S26 Ultra Is Up to $720 Off With This Trade-In Deal</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-16 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/sinners-oscars-performance-1280x853.jpg" alt="You Have to See the Oscars’ Awesome ‘Sinners’ Performance (Again)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/you-have-to-see-the-oscars-awesome-sinners-performance-again-2000733834" target="_blank">You Have to See the Oscars’ Awesome ‘Sinners’ Performance (Again)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-16 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/oscars-2026-winners-weapons-sinners-frankenstein-1280x853.jpg" alt="Here Are the 2026 Oscar Winners" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,33 +281,6 @@
                 <span class="title"><a href="https://gizmodo.com/nissan-kills-nissanconnect-ev-for-cars-made-as-late-as-2022-2000733816" target="_blank">Nissan Kills NissanConnect EV for Cars Made as Late as 2022</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-16 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Sinners-Michael-B-Jordan-Ryan-Coogler-1280x853.jpg" alt="Killing Vampires Pays Off as Michael B. Jordan Wins Best Actor for ‘Sinners’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/oscars-2026-michael-b-jordan-best-actor-sinners-2000733410" target="_blank">Killing Vampires Pays Off as Michael B. Jordan Wins Best Actor for ‘Sinners’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-16 02:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/x-men-97-s2cover-1280x853.jpg" alt="Marvel Wants to Remind You ‘X-Men ’97’ Season 2 Is Really Close" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/marvel-wants-to-remind-you-x-men-97-season-2-is-really-close-2000733562" target="_blank">Marvel Wants to Remind You ‘X-Men ’97’ Season 2 Is Really Close</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-15 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/05/1cdb3cf333e9b7ef18f25329ad58a6ce.jpg" alt="$70 Games Are Riskier Than Ever As Cheaper Games Dominate On Steam" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/steam-game-prices-clair-obscur-data-sales-2000678987" target="_blank">$70 Games Are Riskier Than Ever As Cheaper Games Dominate On Steam</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-15 19:22</span>
             </div>
         </div>
 </div>
@@ -322,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 12:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
