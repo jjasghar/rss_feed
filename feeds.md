@@ -1,28 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-16 13:28:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-16 14:24:22 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 20 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, March 16, 2026 - 13:28 UTC</div>
+    <div class="newspaper-date">Monday, March 16, 2026 - 14:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,12 +47,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdcc/live/de4b0bd0-2087-11f1-8af0-cf4f458e05d4.jpg" alt="Starmer announces £53m support to help with heating oil costs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp9mgpzn901o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer announces £53m support to help with heating oil costs</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-16 14:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/16/kenya-and-russia-agree-no-kenyans-will-be-recruited-for-ukraine-war?traffic_source=rss" target="_blank">Kenya and Russia agree no Kenyans will be recruited for Ukraine war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-16 14:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/tdy-cuba-tne7lg.jpg" alt="Cuba Set to Welcome US Investment, Official Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.today.com/video/exclusive-cuba-set-to-welcome-us-investment-259382341743" target="_blank">Cuba Set to Welcome US Investment, Official Says</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-03-16 12:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d1/live/62f891c0-2125-11f1-821c-5783b4f9d6f9.jpg" alt="Iran hits key UAE oil port and Dubai airport" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss" target="_blank">Iran hits key UAE oil port and Dubai airport</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-16 12:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/16/africa-particularly-vulnerable-iran-conflict-disrupts-supply-chains" target="_blank">Africa particularly vulnerable as Iran conflict disrupts supply chains, say experts</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-16 12:03</span>
             </div>
         </div>
 <div class="story">
@@ -56,47 +100,20 @@
                 <span class="time">2026-03-16 11:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260316-Oscar-Perez-Oliva-Fraga-rs-28c59b.jpg" alt="Cuba will allow nationals abroad to invest in and own businesses on the island, economic czar says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/cuba/cuba-allow-nationals-living-abroad-invest-businesses-island-economy-rcna263637" target="_blank">Cuba will allow nationals abroad to invest in and own businesses on the island, economic czar says</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-16 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/16/nx-s1-5749109/trump-threatens-nato-strait-hormuz-iran-war" target="_blank">Trump threatens NATO allies over Strait of Hormuz help</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-16 10:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3346/live/fd2d4bb0-2115-11f1-ac51-03f49875b3d3.jpg" alt="School confirms pupil died in Kent meningitis outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp9mdxz4dd2o?at_medium=RSS&at_campaign=rss" target="_blank">School confirms pupil died in Kent meningitis outbreak</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-16 08:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/16/iran-war-what-is-happening-on-day-17-of-us-israel-attacks?traffic_source=rss" target="_blank">Iran war: What is happening on day 17 of US-Israel attacks?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-16 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/16/apple-quietly-launches-airpods-max-2/" target="_blank">Apple quietly launches AirPods Max 2</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-16 14:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,15 +159,6 @@
                 <span class="time">2026-03-16 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/699f5d34a7cb1833c2431617/master/pass/Models-Applying-to-Be-Face-of-AI-Scams-Security-115921890.jpg" alt="‘100 Video Calls Per Day’: Models Are Applying to Be the Face of AI Scams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/" target="_blank">‘100 Video Calls Per Day’: Models Are Applying to Be the Face of AI Scams</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-16 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -163,6 +171,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Lenovo-Go-S-HID-Linux-7.1" target="_blank">Lenovo Legion Go HID Drivers Queued Ahead Of Linux 7.1</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-16 13:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full" target="_blank">Corruption erodes social trust more in democracies than in autocracies</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-16 11:25</span>
             </div>
         </div>
 <div class="story">
@@ -201,15 +218,6 @@
                 <span class="time">2026-03-16 09:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyfsr3hj1xh0kse69hz05.png" alt="I Built a Browser UI for Claude Code — Here&#x27;s Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959" target="_blank">I Built a Browser UI for Claude Code — Here&#x27;s Why</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-16 08:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKN1BAZDWJ0K6E6MZM6KPM2E/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Are &#x27;Frambled&#x27; Eggs?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-what-are-frambled-eggs?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Are &#x27;Frambled&#x27; Eggs?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-16 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2021/04/i5tojylzfwjmfq36clhy-1280x720.jpg" alt="Jeff Kaplan Says Complaining About Games You Won’t Play Gets You Ignored: ‘Shut The F*** Up. No One Cares’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -257,30 +274,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/eb23f770-1edb-11f1-aedd-0da0e866b1f3.jpg.webp?fit=1536%2C864&amp;quality=55&amp;ssl=1" alt="79-year-old paperboy not retiring yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/16/79-year-old-paperboy-not-retiring-yet.html" target="_blank">79-year-old paperboy not retiring yet</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-16 11:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/oscars-2026-winners-weapons-sinners-frankenstein-1280x853.jpg" alt="Here Are the 2026 Oscar Winners" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/oscars-2026-winners-sinners-weapons-frankenstein-2000733793" target="_blank">Here Are the 2026 Oscar Winners</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-16 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/filler.png?fit=1600%2C1000&amp;quality=55&amp;ssl=1" alt="Fake RAM sticks popular as prices driven up by AI industry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/16/fake-ram-sticks-popular-as-prices-driven-up-by-ai-industry.html" target="_blank">Fake RAM sticks popular as prices driven up by AI industry</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-16 10:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/nissan-leaf-1280x782.jpg" alt="Nissan Kills NissanConnect EV for Cars Made as Late as 2022" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nissan-kills-nissanconnect-ev-for-cars-made-as-late-as-2022-2000733816" target="_blank">Nissan Kills NissanConnect EV for Cars Made as Late as 2022</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-16 09:30</span>
             </div>
         </div>
 </div>
@@ -320,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 14:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
