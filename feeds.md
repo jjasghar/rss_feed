@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-16 08:18:05 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-16 09:19:02 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, March 16, 2026 - 08:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, March 16, 2026 - 09:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3346/live/fd2d4bb0-2115-11f1-ac51-03f49875b3d3.jpg" alt="School confirms pupil died in Kent meningitis outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp9mdxz4dd2o?at_medium=RSS&at_campaign=rss" target="_blank">School confirms pupil died in Kent meningitis outbreak</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-16 08:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +98,20 @@
                 <span class="time">2026-03-16 04:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2026/3/16/nobody-wants-to-get-involved-in-strait-of-hormuz-military-operations?traffic_source=rss" target="_blank">Nobody wants to get involved’ in Strait of Hormuz military operations</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-16 03:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/699f5d34a7cb1833c2431617/master/pass/Models-Applying-to-Be-Face-of-AI-Scams-Security-115921890.jpg" alt="‘100 Video Calls Per Day’: Models Are Applying to Be the Face of AI Scams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/" target="_blank">‘100 Video Calls Per Day’: Models Are Applying to Be the Face of AI Scams</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-16 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69b46904c31047dc3da91a22/master/pass/The-Best-Early-Deals-from-the-Amazon-Big-Spring-Sale.jpg" alt="These 15 Amazon Spring Sale Tech Deals Are Actually Good. WWe Checked the Price History  (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +157,20 @@
                 <span class="time">2026-03-15 21:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/895083/aether-os-browser-at-protocol" target="_blank">Aether OS is a computer in a browser built for the AT Protocol</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-15 19:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff5s9lcy58q795fz1t4xy.png" alt="Meme Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thiraisuvadu_dev/meme-monday-26" target="_blank">Meme Monday</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-16 09:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyfsr3hj1xh0kse69hz05.png" alt="I Built a Browser UI for Claude Code — Here&#x27;s Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -174,6 +178,15 @@
                 <span class="title"><a href="https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959" target="_blank">I Built a Browser UI for Claude Code — Here&#x27;s Why</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-16 08:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17299966/things-linux-can-window-not" target="_blank">10 Things Linux Can Do That Windows Still Can’t</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-16 06:09</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +214,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/orion-for-linux-beta-release" target="_blank">Kagi’s Orion browser hits public beta on Linux</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-03-16 03:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/orion-beta.jpg?resize=406%2C232&amp;ssl=1" alt="Orion web browser enters ‘early beta’ on Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/orion-for-linux-beta-release" target="_blank">Orion web browser enters ‘early beta’ on Linux</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-16 03:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/java-news-roundup-mar09-2026/en/headerimage/java-istock-image-01-1773563751851.jpg" alt="Java News Roundup: JHipster 9.0, Project Valhalla, Spring, Helidon, OpenXava, Java Operator SDK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/java-news-roundup-mar09-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JHipster 9.0, Project Valhalla, Spring, Helidon, OpenXava, Java Operator SDK</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-16 02:30</span>
             </div>
         </div>
 </div>
@@ -317,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 08:18 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 09:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
