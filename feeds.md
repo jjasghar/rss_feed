@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-03-16 11:16:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-16 12:10:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, March 16, 2026 - 11:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, March 16, 2026 - 12:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/16/g-s1-113909/up-first-newsletter-middle-east-war-trump-voting-act-academy-awards" target="_blank">Senate prepares to vote on Trump&#x27;s SAVE Act. And, takeaways from last night&#x27;s Oscars</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-16 11:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260316-Oscar-Perez-Oliva-Fraga-rs-28c59b.jpg" alt="Cuba will allow nationals abroad to invest in and own businesses on the island, economic czar says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/cuba/cuba-allow-nationals-living-abroad-invest-businesses-island-economy-rcna263637" target="_blank">Cuba will allow nationals abroad to invest in and own businesses on the island, economic czar says</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-16 11:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +94,29 @@
                 <span class="time">2026-03-16 07:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/16/g-s1-113899/5th-member-of-iranian-womens-soccer-team-gives-up-asylum-in-australia" target="_blank">5th member of Iranian women&#x27;s soccer team gives up asylum in Australia</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-16 06:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/oscars-107-rt-gmh-260315_1773629292374_hpMain_4x3t_384.jpg" alt="Oscars 2026: Full winners list from the 98th Academy Awards" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/oscars-2026-full-winners-list/story?id=130769299" target="_blank">Oscars 2026: Full winners list from the 98th Academy Awards</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-16 06:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-480542603-500x500.jpg" alt="A century after the first rocket launch, Ars staffers pick their favorites" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/03/a-century-after-the-first-rocket-launch-ars-staffers-pick-their-favorites/" target="_blank">A century after the first rocket launch, Ars staffers pick their favorites</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-16 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69a95ff9037de6a35674f788/master/pass/WRD_COBOL.gif" alt="COBOL Is the Asbestos of Programming Languages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cobol-is-the-asbestos-of-programming-languages/" target="_blank">COBOL Is the Asbestos of Programming Languages</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-16 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,24 +153,6 @@
                 <span class="time">2026-03-16 05:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/" target="_blank">The billionaires made a promise — now some want out</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-16 04:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/15/netflixs-frankenstein-wins-three-oscars-kpop-demon-hunters-wins-two/" target="_blank">Netflix’s ‘Frankenstein’ wins three Oscars, ‘KPop Demon Hunters’ wins two</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-16 02:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +165,15 @@
                 <span class="title"><a href="https://www.infoq.com/articles/evaluating-ai-agents-lessons-learned/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Evaluating AI Agents in Practice: Benchmarks, Frameworks, and Lessons Learned</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-03-16 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Retiring-UDP-Lite" target="_blank">Linux 7.1 To Retire UDP-Lite - Allows For Better Performance With Cleansed Code</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-16 10:31</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +210,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17299966/things-linux-can-window-not" target="_blank">10 Things Linux Can Do That Windows Still Can’t</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-03-16 06:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mateenali66/github-actions-costs-are-leaking-and-most-teams-dont-notice-until-its-too-late-27d1" target="_blank">GitHub Actions costs are leaking, and most teams don&#x27;t notice until it&#x27;s too late</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-16 05:24</span>
             </div>
         </div>
 </div>
@@ -327,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 11:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 12:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
