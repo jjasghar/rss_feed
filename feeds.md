@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-16 05:34:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-16 06:26:24 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, March 16, 2026 - 05:34 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, March 16, 2026 - 06:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/16/g-s1-113899/5th-member-of-iranian-womens-soccer-team-gives-up-asylum-in-australia" target="_blank">5th member of Iranian women&#x27;s soccer team gives up asylum in Australia</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-16 06:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/oscars-107-rt-gmh-260315_1773629292374_hpMain_4x3t_384.jpg" alt="Oscars 2026: Full winners list from the 98th Academy Awards" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/oscars-2026-full-winners-list/story?id=130769299" target="_blank">Oscars 2026: Full winners list from the 98th Academy Awards</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-16 06:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +103,6 @@
                 <span class="time">2026-03-16 02:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/16/fire-erupts-at-dubai-airport-following-drone-attack?traffic_source=rss" target="_blank">Fire erupts at Dubai airport following drone attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-16 02:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260315-oscars-best-live-action-lr-2c2e0e.jpg" alt="It&#x27;s an Oscars tie! Two films win best live-action short film." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/oscars-tie-best-short-film-live-action-academy-award-winners-rcna263522" target="_blank">It&#x27;s an Oscars tie! Two films win best live-action short film.</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-16 00:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,6 +115,15 @@
                 <span class="title"><a href="https://www.wired.com/story/amazon-spring-sale-2026/" target="_blank">These 15 Amazon Spring Sale Tech Deals Are Actually Good. WWe Checked the Price History  (2026)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-03-16 05:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/" target="_blank">The billionaires made a promise — now some want out</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-16 04:40</span>
             </div>
         </div>
 <div class="story">
@@ -148,15 +158,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/895083/aether-os-browser-at-protocol" target="_blank">Aether OS is a computer in a browser built for the AT Protocol</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-15 19:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/895083/aether-os-browser-at-protocol" target="_blank">Aether OS is computer in a browser built for the AT Protocol</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-15 19:35</span>
             </div>
@@ -307,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 05:34 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 06:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
