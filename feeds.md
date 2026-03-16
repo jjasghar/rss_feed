@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-16 14:24:22 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-16 15:21:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, March 16, 2026 - 14:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, March 16, 2026 - 15:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/16/qatar-airways-announces-limited-flights-to-and-from-doha?traffic_source=rss" target="_blank">Qatar Airways announces ‘limited’ flights to and from Doha</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-16 15:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdcc/live/de4b0bd0-2087-11f1-8af0-cf4f458e05d4.jpg" alt="Starmer announces £53m support to help with heating oil costs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +96,6 @@
                 <span class="time">2026-03-16 12:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/16/g-s1-113909/up-first-newsletter-middle-east-war-trump-voting-act-academy-awards" target="_blank">Senate prepares to vote on Trump&#x27;s SAVE Act. And, takeaways from last night&#x27;s Oscars</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-16 11:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -112,6 +108,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/03/16/apple-quietly-launches-airpods-max-2/" target="_blank">Apple quietly launches AirPods Max 2</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-16 14:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/09/GettyImages-1297809831-500x500.jpg" alt="No accountability: Bills would ban liability lawsuits for climate change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/emerging-legislation-would-shield-polluters-from-liability-for-climate-change/" target="_blank">No accountability: Bills would ban liability lawsuits for climate change</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-16 13:33</span>
             </div>
         </div>
 <div class="story">
@@ -150,20 +155,38 @@
                 <span class="time">2026-03-16 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b4601dc2a6f0bd2801fa14/master/pass/Masterpiece.png" alt="These Musical Instruments of the Future Sound Weird, Wacky—and Are Easy for Anyone to Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/georgia-tech-guthman-musical-instrument-competition-2026/" target="_blank">These Musical Instruments of the Future Sound Weird, Wacky—and Are Easy for Anyone to Play</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-16 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Linux-7.1-UHBR-DP-Prep" target="_blank">Intel Graphics Driver Preps For UHBR DP Tunnels With Linux 7.1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-16 15:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18913064&w=600" alt="How Multimodal AI Is Reshaping Kubernetes Workflows: Future-Proofing Your Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/multimodal-ai-kubernetes-workflows-future-proof" target="_blank">How Multimodal AI Is Reshaping Kubernetes Workflows: Future-Proofing Your Platform</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-16 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/03/16/domain-expertise-still-wanted-the-latest-trends-in-ai/" target="_blank">Domain expertise still wanted: the latest trends in AI-assisted knowledge for developers</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-03-16 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,33 +214,6 @@
                 <span class="time">2026-03-16 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Retiring-UDP-Lite" target="_blank">Linux 7.1 To Retire UDP-Lite - Allows For Better Performance With Cleansed Code</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-16 10:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/More-AMDGPU-For-Linux-7.1" target="_blank">AMD Preps More Graphics Driver Code For Linux 7.1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-16 10:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff5s9lcy58q795fz1t4xy.png" alt="Meme Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thiraisuvadu_dev/meme-monday-26" target="_blank">Meme Monday</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-16 09:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +233,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/doctor-who-the-daleks-master-plan-first-doctor-1280x853.jpg" alt="Watch a Clip of ‘Doctor Who’ That’s Not Been Seen for Over 60 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/doctor-who-missing-episodes-first-look-daleks-master-plan-2000733964" target="_blank">Watch a Clip of ‘Doctor Who’ That’s Not Been Seen for Over 60 Years</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-16 15:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKVFNF162PP42NT7QXKK1X88/hero-image.jpg" alt="Android 16 Now Has a Desktop Mode for Your Pixel 8 or Newer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/android-16-desktop-mode-pixel?utm_medium=RSS" target="_blank">Android 16 Now Has a Desktop Mode for Your Pixel 8 or Newer</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-16 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Image-Banksy.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Banksy conclusively identified by Reuters as Robin Gunningham" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/16/banksy-conclusively-identified-by-reuters-as-robin-gunningham.html" target="_blank">Banksy conclusively identified by Reuters as Robin Gunningham</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-16 14:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KKN1BAZDWJ0K6E6MZM6KPM2E/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Are &#x27;Frambled&#x27; Eggs?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,33 +287,6 @@
                 <span class="time">2026-03-16 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/sinners-oscars-performance-1280x853.jpg" alt="You Have to See the Oscars’ Awesome ‘Sinners’ Performance (Again)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/you-have-to-see-the-oscars-awesome-sinners-performance-again-2000733834" target="_blank">You Have to See the Oscars’ Awesome ‘Sinners’ Performance (Again)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-16 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/eb23f770-1edb-11f1-aedd-0da0e866b1f3.jpg.webp?fit=1536%2C864&amp;quality=55&amp;ssl=1" alt="79-year-old paperboy not retiring yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/16/79-year-old-paperboy-not-retiring-yet.html" target="_blank">79-year-old paperboy not retiring yet</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-16 11:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/oscars-2026-winners-weapons-sinners-frankenstein-1280x853.jpg" alt="Here Are the 2026 Oscar Winners" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/oscars-2026-winners-sinners-weapons-frankenstein-2000733793" target="_blank">Here Are the 2026 Oscar Winners</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-16 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,22 +310,13 @@
                 <span class="time">2026-03-16 00:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1773555018-20260315.png" alt="Saturday Morning Breakfast Cereal - Machine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/machine" target="_blank">Saturday Morning Breakfast Cereal - Machine</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-03-15 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 14:24 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 15:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
