@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-16 09:19:02 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-16 10:18:55 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, March 16, 2026 - 09:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, March 16, 2026 - 10:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/16/nx-s1-5749109/trump-threatens-nato-strait-hormuz-iran-war" target="_blank">Trump threatens NATO allies over Strait of Hormuz help</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-16 10:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3346/live/fd2d4bb0-2115-11f1-ac51-03f49875b3d3.jpg" alt="School confirms pupil died in Kent meningitis outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +97,20 @@
                 <span class="time">2026-03-16 06:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/16/nx-s1-5739288/oscars-2026-takeaways-winners-best-picture-actor" target="_blank">5 takeaways from an Oscars night that spread the love</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-16 04:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69b4601dc2a6f0bd2801fa14/master/pass/Masterpiece.png" alt="These Musical Instruments of the Future Sound Weird, Wacky—and Are Easy for Anyone to Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/georgia-tech-guthman-musical-instrument-competition-2026/" target="_blank">These Musical Instruments of the Future Sound Weird, Wacky—and Are Easy for Anyone to Play</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-16 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/699f5d34a7cb1833c2431617/master/pass/Models-Applying-to-Be-Face-of-AI-Scams-Security-115921890.jpg" alt="‘100 Video Calls Per Day’: Models Are Applying to Be the Face of AI Scams" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +156,20 @@
                 <span class="time">2026-03-16 00:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/" target="_blank">ByteDance reportedly pauses global launch of its Seedance 2.0 video generator</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-15 21:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/More-AMDGPU-For-Linux-7.1" target="_blank">AMD Preps More Graphics Driver Code For Linux 7.1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-16 10:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff5s9lcy58q795fz1t4xy.png" alt="Meme Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,13 +215,18 @@
                 <span class="time">2026-03-16 04:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/orion-beta.jpg?resize=406%2C232&amp;ssl=1" alt="Kagi’s Orion browser hits public beta on Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/orion-for-linux-beta-release" target="_blank">Kagi’s Orion browser hits public beta on Linux</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-16 03:09</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/possible-new-result-in-quantum-factorization.html" target="_blank">Possible New Result in Quantum Factorization</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-03-16 09:46</span>
             </div>
         </div>
 </div>
@@ -221,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/nissan-leaf-1280x782.jpg" alt="Nissan Kills NissanConnect EV for Cars Made as Late as 2022" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nissan-kills-nissanconnect-ev-for-cars-made-as-late-as-2022-2000733816" target="_blank">Nissan Kills NissanConnect EV for Cars Made as Late as 2022</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-16 09:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Sinners-Michael-B-Jordan-Ryan-Coogler-1280x853.jpg" alt="Killing Vampires Pays Off as Michael B. Jordan Wins Best Actor for ‘Sinners’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +288,6 @@
                 <span class="time">2026-03-15 13:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/level-lock-pro-review-4-1280x853.jpg" alt="Level Lock Pro Review: As Good as a Secret Smart Lock Gets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/level-lock-pro-review-as-good-as-a-secret-smart-lock-gets-2000727162" target="_blank">Level Lock Pro Review: As Good as a Secret Smart Lock Gets</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-15 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 09:19 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 10:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
