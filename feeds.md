@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-16 10:18:55 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-16 11:16:18 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, March 16, 2026 - 10:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, March 16, 2026 - 11:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +105,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/features/889835/fitness-trackers-chronic-illness-visible-whoop" target="_blank">My fitness tracker is a secret weapon against my chronic illness</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-16 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69b4601dc2a6f0bd2801fa14/master/pass/Masterpiece.png" alt="These Musical Instruments of the Future Sound Weird, Wacky—and Are Easy for Anyone to Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -147,20 +158,20 @@
                 <span class="time">2026-03-16 02:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/" target="_blank">Google, Accel India accelerator choses 5 startups and none are ‘AI wrappers’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-16 00:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/evaluating-ai-agents-lessons-learned/en/headerimage/evaluating-ai-agents-lessons-learned-header-1773307288872.jpg" alt="Article: Evaluating AI Agents in Practice: Benchmarks, Frameworks, and Lessons Learned" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/evaluating-ai-agents-lessons-learned/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Evaluating AI Agents in Practice: Benchmarks, Frameworks, and Lessons Learned</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-16 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +217,6 @@
                 <span class="time">2026-03-16 05:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnwmt6h59ydofxtvw1vwh.png" alt="CodeRabbit vs Bito: AI Code Review Comparison for 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rahulxsingh/coderabbit-vs-bito-ai-code-review-comparison-for-2026-3p05" target="_blank">CodeRabbit vs Bito: AI Code Review Comparison for 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-16 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/oscars-2026-winners-weapons-sinners-frankenstein-1280x853.jpg" alt="Here Are the 2026 Oscar Winners" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/oscars-2026-winners-sinners-weapons-frankenstein-2000733793" target="_blank">Here Are the 2026 Oscar Winners</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-16 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/filler.png?fit=1600%2C1000&amp;quality=55&amp;ssl=1" alt="Fake RAM sticks popular as prices driven up by AI industry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/16/fake-ram-sticks-popular-as-prices-driven-up-by-ai-industry.html" target="_blank">Fake RAM sticks popular as prices driven up by AI industry</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-16 10:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/nissan-leaf-1280x782.jpg" alt="Nissan Kills NissanConnect EV for Cars Made as Late as 2022" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/steam-game-prices-clair-obscur-data-sales-2000678987" target="_blank">$70 Games Are Riskier Than Ever As Cheaper Games Dominate On Steam</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-15 19:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Firefly-trio-1280x853.jpg" alt="The Return of ‘Firefly’ Could Be an Animated Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-return-of-firefly-could-be-an-animated-series-2000733778" target="_blank">The Return of ‘Firefly’ Could Be an Animated Series</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-15 16:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/maxresdefault.jpg" alt="Google Spends $1 Million On AI-Generated Kids Videos While Slop Floods YouTube" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/google-spends-1-million-on-ai-generated-kids-videos-while-slop-floods-youtube-2000678951" target="_blank">Google Spends $1 Million On AI-Generated Kids Videos While Slop Floods YouTube</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-15 13:25</span>
             </div>
         </div>
 </div>
@@ -325,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 10:19 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 11:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
