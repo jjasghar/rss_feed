@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-16 18:15:33 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-16 19:21:01 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, March 16, 2026 - 18:15 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, March 16, 2026 - 19:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/16/nx-s1-5739183/maha-vaccine-safety-kennedy" target="_blank">Vaccine critics keep the pressure on, even as RFK Jr. shifts focus</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-16 19:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/16/trump-says-hormuz-strait-help-on-the-way-as-allies-reject-military-action?traffic_source=rss" target="_blank">Trump says Hormuz Strait help ‘on the way’ as allies reject military action</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-16 18:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/16/us-israel-now-know-what-kind-of-nation-they-are-dealing?traffic_source=rss" target="_blank">US, Israel now know ‘what kind of nation they are dealing with’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-16 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/16/nx-s1-5742376/2026-winter-paralympics-highlights-usa-hockey-skiing-snowboarding" target="_blank">Team USA dominated the Paralympics on both ice and snow. Check out the highlights</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-16 15:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/16/qatar-airways-announces-limited-flights-to-and-from-doha?traffic_source=rss" target="_blank">Qatar Airways announces ‘limited’ flights to and from Doha</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-16 15:04</span>
             </div>
         </div>
 </div>
@@ -167,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18913547&w=600" alt="Zero Trust, Build High Scale TLS Termination Layer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/zero-trust-build-high-scale-tls-termination-layer" target="_blank">Zero Trust, Build High Scale TLS Termination Layer</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-16 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/" target="_blank">Jemalloc un-abandoned by Meta</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-16 18:12</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,24 +219,6 @@
                 <span class="time">2026-03-16 16:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/fedora-44-beta" target="_blank">Fedora Workstation 44 Beta Benchmarks On The AMD Ryzen AI Max Framework Desktop</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-16 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cplh7fmykynr89a33fq.png" alt="Agent Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/neuml/agent-tools-428a" target="_blank">Agent Tools</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-16 16:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/outlaw-star-gene-1280x853.jpg" alt="Animated ‘Firefly’ Already Exists, and It’s Called ‘Outlaw Star’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/firefly-animated-tv-series-outlaw-star-anime-2000734026" target="_blank">Animated ‘Firefly’ Already Exists, and It’s Called ‘Outlaw Star’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-16 19:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/braind.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Memory hack: self-testing beats re-reading by 50%, research shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/16/memory-hack-self-testing-beats-re-reading-by-50-research-shows.html" target="_blank">Memory hack: self-testing beats re-reading by 50%, research shows</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-16 18:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JKXFMADDQZ89T2XRSZRSPH18/hero-image.png" alt="You Can Finally Get an Apple Watch Ultra 2 for Under $500" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/pokemon-pokopia-disappearing-despawn-respawn-honey-2000679147" target="_blank">Yes, Your Pokémon Are Disappearing In Pokopia And It’s Really Annoying To Get Them Back</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-16 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/crackedxbox-1280x720.jpg" alt="The ‘Unhackable’ Xbox One Has Finally Been Hacked, 12 Years After Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-one-hack-jailbreak-2000679120" target="_blank">The ‘Unhackable’ Xbox One Has Finally Been Hacked, 12 Years After Release</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-16 16:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/22All-I-have-are-negative-thoughts_22-about-the-man.jpg?fit=1080%2C1007&amp;quality=60&amp;ssl=1" alt="Behold the very finest &quot;mall ninja shit&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/16/behold-the-very-finest-mall-ninja-shit.html" target="_blank">Behold the very finest &quot;mall ninja shit&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-16 15:50</span>
             </div>
         </div>
 </div>
@@ -330,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 18:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 19:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
