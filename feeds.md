@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-16 02:59:11 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-16 04:05:38 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, March 16, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, March 16, 2026 - 04:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2026/3/16/nobody-wants-to-get-involved-in-strait-of-hormuz-military-operations?traffic_source=rss" target="_blank">Nobody wants to get involved’ in Strait of Hormuz military operations</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-16 03:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/oscars-103-gty-gmh-260315_1773628451753_hpMain_4x3t_384.jpg" alt="Oscars 2026 recap: The biggest winners and best moments" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;A new norm&#x27;: BBC visits Doha market starting to fill up again two weeks into Iran war</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-15 23:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/oscars-8-rt-gmh-260315_1773607649272_hpMain_4x3t_384.jpg" alt="Oscars 2026 live updates: Rose Byrne, Jessie Buckley and more walk the red carpet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/live-updates/oscars-2026/?id=130977802" target="_blank">Oscars 2026 live updates: Rose Byrne, Jessie Buckley and more walk the red carpet</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-15 22:58</span>
             </div>
         </div>
 </div>
@@ -166,6 +165,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnwmt6h59ydofxtvw1vwh.png" alt="CodeRabbit vs Bito: AI Code Review Comparison for 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rahulxsingh/coderabbit-vs-bito-ai-code-review-comparison-for-2026-3p05" target="_blank">CodeRabbit vs Bito: AI Code Review Comparison for 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-16 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/orion-beta.jpg?resize=406%2C232&amp;ssl=1" alt="Orion web browser enters ‘early beta’ on Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/orion-for-linux-beta-release" target="_blank">Orion web browser enters ‘early beta’ on Linux</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-16 03:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/java-news-roundup-mar09-2026/en/headerimage/java-istock-image-01-1773563751851.jpg" alt="Java News Roundup: JHipster 9.0, Project Valhalla, Spring, Helidon, OpenXava, Java Operator SDK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/java-news-roundup-mar09-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JHipster 9.0, Project Valhalla, Spring, Helidon, OpenXava, Java Operator SDK</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-16 02:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -190,33 +216,6 @@
                 <span class="title"><a href="https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/" target="_blank">Canada&#x27;s bill C-22 mandates mass metadata surveillance of Canadians</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-15 21:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc4-Released" target="_blank">Linux 7.0-rc4 Released With Hang Fixes, Resolves At Least One Performance Regression</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-15 21:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/krisying/harness-engineering-why-the-model-is-a-commodity-and-the-infrastructure-is-your-moat-398a" target="_blank">Harness Engineering: Why the Model Is a Commodity and the Infrastructure Is Your Moat</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-15 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/firefox-kit-mascot.webp?resize=406%2C232&amp;ssl=1" alt="Is Firefox getting a new logo? Mozilla’s socials suggest so…" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/is-firefox-about-to-get-a-new-logo" target="_blank">Is Firefox getting a new logo? Mozilla’s socials suggest so…</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-15 19:51</span>
             </div>
         </div>
 </div>
@@ -284,6 +283,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5786.png" alt="Incremental Progress" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5786" target="_blank">Incremental Progress</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-03-16 00:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1773555018-20260315.png" alt="Saturday Morning Breakfast Cereal - Machine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -297,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 04:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
