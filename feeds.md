@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-16 00:09:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-16 01:31:17 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, March 16, 2026 - 00:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, March 16, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260315-oscars-best-live-action-lr-2c2e0e.jpg" alt="It&#x27;s an Oscars tie! Two films win best live-action short film." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/oscars-tie-best-short-film-live-action-academy-award-winners-rcna263522" target="_blank">It&#x27;s an Oscars tie! Two films win best live-action short film.</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-16 00:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/oscars-42-gty-gmh-260315_1773616565629_hpMain_4x3t_384.jpg" alt="Oscars 2026 live updates: 1st awards handed out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/GMA/Culture/live-updates/oscars-2026/?id=130977802" target="_blank">Oscars 2026 live updates: 1st awards handed out</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-16 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3ba/live/cc0fefa0-20b2-11f1-801d-ed3cff6bf876.jpg" alt="&#x27;A new norm&#x27;: BBC visits Doha market starting to fill up again two weeks into Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;A new norm&#x27;: BBC visits Doha market starting to fill up again two weeks into Iran war</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-15 23:14</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +100,20 @@
                 <span class="time">2026-03-15 21:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/15/g-s1-113846/selection-sunday-march-madness-duke-uconn-ucla" target="_blank">Selection Sunday is here. Here&#x27;s what to know ahead of March Madness</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-15 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c301/live/8017f630-20a6-11f1-b760-7d6278c3d0c0.jpg" alt="Two die in university meningitis outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdxg35dv7npo?at_medium=RSS&at_campaign=rss" target="_blank">Two die in university meningitis outbreak</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-15 20:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/" target="_blank">Google, Accel India accelerator choses 5 startups and none are ‘AI wrappers’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-16 00:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +157,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/" target="_blank">Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-15 17:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review" target="_blank">Sotomayor’s Wabi Sabi is the funnest record of 2026</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-15 16:45</span>
             </div>
         </div>
 </div>
@@ -297,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 00:09 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
