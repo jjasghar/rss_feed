@@ -1,40 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-17 19:21:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-17 20:08:07 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 13 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, March 17, 2026 - 19:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, March 17, 2026 - 20:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f74c/live/6486a190-2232-11f1-b26d-cd49b90fee82.jpg" alt="Students to be offered vaccine in meningitis outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cev7rl437epo?at_medium=RSS&at_campaign=rss" target="_blank">Students to be offered vaccine in meningitis outbreak</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-17 19:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-9-epa-gmh-260317._1773765326550_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says US doesn&#x27;t &#x27;need&#x27; NATO allies for Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +104,20 @@
                 <span class="time">2026-03-17 17:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b41/live/90b14820-220e-11f1-934f-036468834728.jpg" alt="Top US counterterrorism official resigns over Iran war, urging Trump to &#x27;reverse course&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss" target="_blank">Top US counterterrorism official resigns over Iran war, urging Trump to &#x27;reverse course&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-17 16:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/17/kagi-small-web-human-authored-indie-internet-mobile-ios-android-devices/" target="_blank">Kagi brings its ‘small web’ of a human-only internet to mobile devices</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-17 20:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +161,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/03/university-group-sues-trump-administration-over-shutdown-of-climate-center/" target="_blank">Trump&#x27;s plan to shut down weather and climate center triggers lawsuit</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-03-17 17:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/896111/dune-part-three-trailer-release-date" target="_blank">The messiah rises in Dune: Part Three’s new trailer</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-17 17:01</span>
             </div>
         </div>
 </div>
@@ -242,6 +242,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Alienware-Area-51-16-inch-18-inch-Gaming-Laptop-review-02-1280x853.jpg" alt="Next-Gen Gaming Laptops Will Have Better Screens and Chips—and Cost Way More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/next-gen-gaming-laptops-will-have-better-screens-and-chips-and-cost-way-more-2000734620" target="_blank">Next-Gen Gaming Laptops Will Have Better Screens and Chips—and Cost Way More</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-17 19:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/littlechina.jpg?fit=910%2C710&amp;quality=60&amp;ssl=1" alt="Honest Trailer tackles &quot;Big Trouble in Little China&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/17/honest-trailer-tackles-big-trouble-in-little-china.html" target="_blank">Honest Trailer tackles &quot;Big Trouble in Little China&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-17 19:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKYJP52GTBC1TGZHTHG73PYS/hero-image.webp" alt="Best Buy&#x27;s Spring Sale Is Live, Ahead of Amazon&#x27;s &#x27;Big Spring Sale&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-buys-spring-sale-2026-has-begun?utm_medium=RSS" target="_blank">Best Buy&#x27;s Spring Sale Is Live, Ahead of Amazon&#x27;s &#x27;Big Spring Sale&#x27;</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-17 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/openclaw_line-1280x853.jpg" alt="Amid AI Agent Boom, the Tech Industry Makes It Clear: With Great Laziness Comes Great Responsibility" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -266,33 +293,6 @@
                 <span class="title"><a href="https://kotaku.com/pokemon-pokopia-factory-sweatshop-prison-jail-labor-2000679679" target="_blank">Pokémon Pokopia Players Are Turning Their Towns Into Sweatshops</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-17 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKYBPXJ7R68691SK60SK932Y/hero-image.jpg" alt="Amazon Is Now Offering One-Hour and Three-Hour Delivery Options in Select Areas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/amazon-is-now-offering-one-hour-and-three-hour-delivery-options?utm_medium=RSS" target="_blank">Amazon Is Now Offering One-Hour and Three-Hour Delivery Options in Select Areas</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-17 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Dune-Part-Three-Emperor-1280x853.jpg" alt="How ‘Dune: Part Three’ Is Changing the Entire ‘Dune’ Franchise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-dune-part-three-is-changing-the-entire-dune-franchise-2000734592" target="_blank">How ‘Dune: Part Three’ Is Changing the Entire ‘Dune’ Franchise</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-17 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/PRAGMATA_SS_15-1280x720.jpg" alt="Hands-On Preview: Capcom’s Pragmata Isn’t Just Old-School Cool, It’s Also Got Heart" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pragmata-preview-impressions-capcom-diana-hacking-2000679655" target="_blank">Hands-On Preview: Capcom’s Pragmata Isn’t Just Old-School Cool, It’s Also Got Heart</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-17 17:03</span>
             </div>
         </div>
 </div>
@@ -332,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 19:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 20:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
