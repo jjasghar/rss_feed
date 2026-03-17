@@ -1,22 +1,19 @@
-<!-- Processing 54 RSS feeds at 2026-03-17 22:06:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-17 23:06:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
@@ -24,14 +21,16 @@
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, March 17, 2026 - 22:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, March 17, 2026 - 23:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +106,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69b9b30e4535338fba83cb77/master/pass/buisness_metashutdown_GettyImages-1237182493.jpg" alt="Meta Is Shutting Down Horizon Worlds on Meta Quest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/meta-is-shutting-down-horizon-worlds-on-meta-quest/" target="_blank">Meta Is Shutting Down Horizon Worlds on Meta Quest</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-17 22:24</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -134,6 +142,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth" target="_blank">I went to the Pentagon to watch Pete Hegseth scold war reporters</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-17 20:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69b85a211d0dc350fb54192b/master/pass/doordash-elena-lacey%20(1).jpg" alt="DoorDash Reservations Scored America’s Most Exclusive Restaurants" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -142,29 +159,20 @@
                 <span class="time">2026-03-17 20:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/17/kagi-small-web-human-authored-indie-internet-mobile-ios-android-devices/" target="_blank">Kagi brings its ‘small web’ of a human-only internet to mobile devices</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-17 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/kalshi-500x500.jpg" alt="Arizona indicts prediction market Kalshi for running illegal gambling operation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/arizona-indicts-prediction-market-kalshi-for-running-illegal-gambling-operation/" target="_blank">Arizona indicts prediction market Kalshi for running illegal gambling operation</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-17 19:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/Firefox-Ai.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox 149 adds built-in free VPN with 50GB monthly data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/firefox-adding-a-free-vpn" target="_blank">Firefox 149 adds built-in free VPN with 50GB monthly data</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-17 22:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +218,6 @@
                 <span class="time">2026-03-17 17:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://fidget-spinner.github.io/posts/jit-on-track.html" target="_blank">Python 3.15’s JIT is now back on track</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-17 17:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Iran-War-Bitcoin-Crypto-Markets-1280x853.jpg" alt="UK Man Accuses Spouse of Stealing $172 Million Bitcoin Password via CCTV Camera" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/uk-man-accuses-spouse-of-stealing-172-million-bitcoin-password-via-cctv-camera-2000734846" target="_blank">UK Man Accuses Spouse of Stealing $172 Million Bitcoin Password via CCTV Camera</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-17 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/arcs-1280x800.jpg" alt="Arc Raiders Studio Parts Ways With Cofounder Over Sexual Misconduct Allegations It Was Unable To Substantiate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/rob-runesson-embark-finals-esports-misconduct-allegations-2000679734" target="_blank">Arc Raiders Studio Parts Ways With Cofounder Over Sexual Misconduct Allegations It Was Unable To Substantiate</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-17 22:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/TalesFrom85-1280x853.jpg" alt="Oh, So Now Netflix Is Interested in More Theatrical Releases" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +291,6 @@
                 <span class="time">2026-03-17 20:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HFA1NX2ZENNBGHJ79AMPW/hero-image.png" alt="The Best Sales on Headphones and Earbuds Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/best-deals-on-earbuds-and-headphones-right-now?utm_medium=RSS" target="_blank">The Best Sales on Headphones and Earbuds Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-17 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Alienware-Area-51-16-inch-18-inch-Gaming-Laptop-review-02-1280x853.jpg" alt="Next-Gen Gaming Laptops Will Have Better Screens and Chips—and Cost Way More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/next-gen-gaming-laptops-will-have-better-screens-and-chips-and-cost-way-more-2000734620" target="_blank">Next-Gen Gaming Laptops Will Have Better Screens and Chips—and Cost Way More</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-17 19:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 22:06 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 23:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
