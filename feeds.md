@@ -1,12 +1,11 @@
-<!-- Processing 54 RSS feeds at 2026-03-16 23:04:50 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-17 00:08:12 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
@@ -15,30 +14,25 @@
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 36 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, March 16, 2026 - 23:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, March 17, 2026 - 00:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/16/nx-s1-5749530/judge-blocks-rfk-jr-vaccine-changes" target="_blank">Federal judge halts RFK Jr.&#x27;s changes to children&#x27;s vaccine policies</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-16 23:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/106c/live/55756740-216f-11f1-a79a-77e93010d956.jpg" alt="Family &#x27;beyond devastated&#x27; by meningitis death as hundreds get antibiotics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -99,15 +102,6 @@
                 <span class="time">2026-03-16 19:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-14-ht-gmh-260310_1773158691134_hpMain_4x3t_384.jpg" alt="Iran live updates: 200 US troops have been wounded, including 10 &#x27;seriously&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492" target="_blank">Iran live updates: 200 US troops have been wounded, including 10 &#x27;seriously&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-16 19:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -129,6 +123,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/" target="_blank">Warren presses Pentagon over decision to grant xAI access to classified networks</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-16 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b85400d71f696ffbdeda26/master/pass/If-You're-Filing-Your-Taxes-With-TurboTax,-Prices-Go-Up-in-Two-Days.jpg" alt="File Your Taxes With TurboTax Full Service Now Before Prices Go Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/turbotax-deal-326/" target="_blank">File Your Taxes With TurboTax Full Service Now Before Prices Go Up</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-16 20:50</span>
             </div>
         </div>
 <div class="story">
@@ -158,20 +161,20 @@
                 <span class="time">2026-03-16 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b8522c2b6c9f02aa54969a/master/pass/Save-Almost-20-Percent-On-Our-Favorite-Portable-Bluetooth-Speaker.jpg" alt="Save Almost 20 Percent On Our Favorite Portable Bluetooth Speaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/tribit-stormbox-miniplus-deal-326/" target="_blank">Save Almost 20 Percent On Our Favorite Portable Bluetooth Speaker</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-16 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/canonical-announces-it-will-distribute-nvidia-doca-ofed-in-ubuntu" target="_blank">Canonical announces it will distribute NVIDIA DOCA-OFED in Ubuntu</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-03-16 22:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -215,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/paul310/ai-makes-your-firm-faster-maister-explains-why-it-doesnt-make-you-richer-1kd" target="_blank">AI Makes Your Firm Faster. Maister Explains Why It Doesn&#x27;t Make You Richer.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-16 20:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914612&w=600" alt="Production LLM Data Extraction Pipeline With LaunchDarkly and Vercel AI Gateway" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/build-llm-data-extraction-pipeline-launchdarkly-vercel" target="_blank">Production LLM Data Extraction Pipeline With LaunchDarkly and Vercel AI Gateway</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-16 20:00</span>
             </div>
         </div>
 </div>
@@ -345,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 23:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 00:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
