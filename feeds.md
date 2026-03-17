@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-17 00:08:12 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-03-17 01:30:58 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, March 17, 2026 - 00:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, March 17, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +50,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/16/nx-s1-5749530/judge-blocks-rfk-jr-vaccine-changes" target="_blank">Federal judge halts RFK Jr.&#x27;s changes to children&#x27;s vaccine policies</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-16 23:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/rubio-1-ap-er-260306_1772839817883_hpMain_4x3t_384.jpg" alt="Rubio orders US diplomats to push countries to act against Iran amid &#x27;risk of attack&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/rubio-orders-us-diplomats-push-countries-swift-action/story?id=131127950" target="_blank">Rubio orders US diplomats to push countries to act against Iran amid &#x27;risk of attack&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-16 22:31</span>
             </div>
         </div>
 <div class="story">
@@ -93,20 +97,38 @@
                 <span class="time">2026-03-16 20:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/16/g-s1-113246/sleeping-sickness-drug-treatment-tsetse-fly" target="_blank">A new drug could be the beginning of the end for sleeping sickness</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-16 19:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/16/sec-eyes-shift-to-twice-yearly-earnings-reports/" target="_blank">SEC eyes shift to twice-yearly earnings reports</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-17 00:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/895778/live-nation-ticketmaster-states-trial-continues" target="_blank">The Live Nation trial restarts with a &amp;#8216;velvet hammer&amp;#8217;</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-17 00:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2201503706-500x500.jpg" alt="RFK Jr.’s anti-vaccine changes to CDC vaccine guidance blocked by judge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/03/judge-temporarily-blocks-rfk-jr-s-changes-to-cdc-vaccine-recommendations/" target="_blank">RFK Jr.’s anti-vaccine changes to CDC vaccine guidance blocked by judge</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-16 22:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,38 +156,20 @@
                 <span class="time">2026-03-16 20:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2201503706-500x500.jpg" alt="RFK Jr&#x27;s changes to CDC vaccine guidance, advisory board blocked by judge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/03/judge-temporarily-blocks-rfk-jr-s-changes-to-cdc-vaccine-recommendations/" target="_blank">RFK Jr&#x27;s changes to CDC vaccine guidance, advisory board blocked by judge</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-16 20:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy" target="_blank">Benjamin Netanyahu is struggling to prove he&amp;#8217;s not an AI clone</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-16 20:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/16/samsung-bets-this-island-startup-can-tame-the-grid-with-software-and-batteries/" target="_blank">Samsung bets this island startup can tame the grid with software and batteries</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-16 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/" target="_blank">US SEC preparing to scrap quarterly reporting requirement</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-17 00:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +215,6 @@
                 <span class="time">2026-03-16 20:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/paul310/ai-makes-your-firm-faster-maister-explains-why-it-doesnt-make-you-richer-1kd" target="_blank">AI Makes Your Firm Faster. Maister Explains Why It Doesn&#x27;t Make You Richer.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-16 20:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/GettyImages-2254215955-1280x853.jpg" alt="Nvidia Expects Agentic AI To Drive $1 Trillion In Revenue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nvidia-expects-agentic-ai-to-drive-1-trillion-in-revenue-2000734120" target="_blank">Nvidia Expects Agentic AI To Drive $1 Trillion In Revenue</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-16 23:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/12/50166716386_570f86b865_b-e1761320178927.jpg?fit=768%2C432&amp;quality=60&amp;ssl=1" alt="Trying to beat Fallout 4&#x27;s terrible Switch port before the battery dies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/16/trying-to-beat-fallout-4s-terrible-switch-port-before-the-battery-dies.html" target="_blank">Trying to beat Fallout 4&#x27;s terrible Switch port before the battery dies</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-16 22:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/david-sacks-donald-trump-2025-1280x853.jpg" alt="Trump Advisors Warn of Nuclear Spiral in Iran, Push to Nuke a New Canal for Shipping" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +288,6 @@
                 <span class="time">2026-03-16 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKW7538V6SA42ACGG18EKVGE/hero-image.jpg" alt="Prime Video Is About to Take 4K Streaming Away From &#x27;Basic&#x27; Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/prime-video-is-about-to-gatekeep-4k-streaming-from-basic-users?utm_medium=RSS" target="_blank">Prime Video Is About to Take 4K Streaming Away From &#x27;Basic&#x27; Users</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-16 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/nvidia-dlss-5-geforce-rtx-resident-evil-requiem-comparison-003-on-1280x853.jpeg" alt="Nvidia Wants to Slop-ify Your PC Games With Its New AI Upscaler" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nvidia-wants-to-sloppify-your-pc-games-with-its-new-ai-upscaler-2000734176" target="_blank">Nvidia Wants to Slop-ify Your PC Games With Its New AI Upscaler</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-16 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,22 +320,13 @@
                 <span class="time">2026-03-16 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5786.png" alt="Incremental Progress" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5786" target="_blank">Incremental Progress</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-03-16 00:34</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 00:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
