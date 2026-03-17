@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-17 10:13:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-17 11:14:23 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, March 17, 2026 - 10:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, March 17, 2026 - 11:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/17/connections-overlooked-how-british-companies-profited-slavery-brazil-after-abolition" target="_blank">‘These connections are overlooked’: how British companies profited from slavery in Brazil long after abolition</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-17 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/17/nx-s1-5750253/israel-kills-two-top-iranian-commanders" target="_blank">Israel says it killed two top Iranian commanders in targeted strike</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-17 10:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/17/building-burns-in-israel-after-rocket-attack-from-lebanon?traffic_source=rss" target="_blank">Building burns in Israel after rocket attack from Lebanon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-17 10:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/larijani-dead_1773742129936_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel says Iran&#x27;s security chief Ali Larijani dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,38 +99,29 @@
                 <span class="time">2026-03-17 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/17/nx-s1-5732951/letter-x-etymology-religion-punk-descartes-romans-algebra" target="_blank">From Descartes to punk rock, X has an extraordinary history</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-17 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec4c/live/718c1200-2163-11f1-b297-95b0a0a8331e.jpg" alt="Trump &#x27;not happy&#x27; with UK response to Iran conflict" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp816jwg411o?at_medium=RSS&at_campaign=rss" target="_blank">Trump &#x27;not happy&#x27; with UK response to Iran conflict</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-17 08:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/841d/live/09d31a30-21ab-11f1-9bdf-83bdc0466ec5.jpg" alt="Trump seeks to delay meeting with Xi in China" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss" target="_blank">Trump seeks to delay meeting with Xi in China</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-17 07:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69b885ff54fbf59a64877f6c/master/pass/What-Are-Gravel-Running-Shoes-.jpg" alt="What Are Gravel Running Shoes? (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/what-are-gravel-running-shoes/" target="_blank">What Are Gravel Running Shoes? (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-17 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/895836/klumpen-off-grid-utilities-for-cabins" target="_blank">Leaving civilization is now easier with this ‘off-grid utility core’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-17 10:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6995ca5e918558ad5998edb2/master/pass/32%20crypto%20real%20estate%20hires%20SR.JPG" alt="Two Literal Crypto Bros Built a Real Estate Empire. Then the Homes Started to Fall Apart" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +158,20 @@
                 <span class="time">2026-03-17 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/" target="_blank">Picsart now allows creators to ‘hire’ AI assistants through agent marketplace</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-17 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/16/sec-eyes-shift-to-twice-yearly-earnings-reports/" target="_blank">SEC eyes shift to twice-yearly earnings reports</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-17 00:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftgqbt6fjhvzn9hg4tuh9.png" alt="How is Leyden improving Java Performance? Part 2 of 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/delawen/how-is-leyden-improving-java-performance-part-2-of-3-n5n" target="_blank">How is Leyden improving Java Performance? Part 2 of 3</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-17 11:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,13 +217,18 @@
                 <span class="time">2026-03-17 07:09</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tyson_cung/disney-built-a-walking-talking-olaf-robot-and-nvidia-powered-the-whole-thing-7em" target="_blank">Disney Built a Walking, Talking Olaf Robot — And Nvidia Powered the Whole Thing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-17 06:13</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/south-korean-police-accidentally-post-cryptocurrency-wallet-password.html" target="_blank">South Korean Police Accidentally Post Cryptocurrency Wallet Password</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-03-17 10:01</span>
             </div>
         </div>
 </div>
@@ -226,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/warhammer-40k-commisar-yarrick-1280x853.jpg" alt="‘Warhammer 40,000’ Has Found Another Old Hero to Bring Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/warhammer-40k-commissar-yarrick-new-model-2000734160" target="_blank">‘Warhammer 40,000’ Has Found Another Old Hero to Bring Back</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-17 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/sam-altman-nervous-1280x1073.jpg" alt="OpenAI Reportedly Pivoting to a Focus on Business and Productivity Only" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +290,6 @@
                 <span class="time">2026-03-16 23:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/12/50166716386_570f86b865_b-e1761320178927.jpg?fit=768%2C432&amp;quality=60&amp;ssl=1" alt="Trying to beat Fallout 4&#x27;s terrible Switch port before the battery dies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/16/trying-to-beat-fallout-4s-terrible-switch-port-before-the-battery-dies.html" target="_blank">Trying to beat Fallout 4&#x27;s terrible Switch port before the battery dies</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-16 22:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 10:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 11:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
