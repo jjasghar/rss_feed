@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-17 06:18:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-17 07:20:41 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, March 17, 2026 - 06:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, March 17, 2026 - 07:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/17/israeli-strikes-target-beirut-southern-lebanon-one-million-displaced?traffic_source=rss" target="_blank">Israeli strikes target Beirut, southern Lebanon, one million displaced</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-17 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +100,6 @@
                 <span class="time">2026-03-17 00:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/16/nx-s1-5749530/judge-blocks-rfk-jr-vaccine-changes" target="_blank">Federal judge halts RFK Jr.&#x27;s changes to children&#x27;s vaccine policies</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-16 23:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,6 +112,15 @@
                 <span class="title"><a href="https://www.wired.com/story/sams-club-coupon/" target="_blank">Sam&#x27;s Club Coupons and Deals: Save up to 60% in March 2026</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-03-17 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/" target="_blank">Picsart now allows creators to ‘hire’ AI assistants through agent marketplace</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-17 04:01</span>
             </div>
         </div>
 <div class="story">
@@ -152,15 +159,6 @@
                 <span class="time">2026-03-16 21:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/" target="_blank">Warren presses Pentagon over decision to grant xAI access to classified networks</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-16 20:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,9 +168,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/reema_riyazkhan_aa44ab89/what-is-markdown-based-test-management-11k2" target="_blank">What is Markdown-Based Test Management?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-17 07:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/tyson_cung/disney-built-a-walking-talking-olaf-robot-and-nvidia-powered-the-whole-thing-7em" target="_blank">Disney Built a Walking, Talking Olaf Robot — And Nvidia Powered the Whole Thing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-17 06:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/booking-evolution-ai-manuel/en/headerimage/java-istock-image-01-1773724729495.jpg" alt="QCon London 2026: Behind Booking.com&#x27;s AI Evolution: The Unpolished Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/booking-evolution-ai-manuel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: Behind Booking.com&#x27;s AI Evolution: The Unpolished Story</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-17 05:20</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Meta-Renewing-jemalloc" target="_blank">Meta Renewing Investment Into The jemalloc Memory Allocator</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-17 00:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://oxyde.fatalyst.dev/0.5/" target="_blank">Oxyde ORM - Django-like Pydantic-driven Async ORM</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-17 00:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/" target="_blank">US SEC preparing to scrap quarterly reporting requirement</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-17 00:02</span>
             </div>
         </div>
 </div>
@@ -325,22 +323,13 @@
                 <span class="time">2026-03-16 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/03/16/lost-and-found" target="_blank">Lost And Found</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-03-16 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 06:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 07:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
