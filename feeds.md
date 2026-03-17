@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-17 18:14:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-17 19:21:20 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 13 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, March 17, 2026 - 18:14 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, March 17, 2026 - 19:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-9-epa-gmh-260317._1773765326550_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says US doesn&#x27;t &#x27;need&#x27; NATO allies for Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492" target="_blank">Iran live updates: Trump says US doesn&#x27;t &#x27;need&#x27; NATO allies for Iran war</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-17 19:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/17/congos-president-nguesso-to-secure-fifth-term-provisional-results-predict?traffic_source=rss" target="_blank">Congolese President Sassou Nguesso wins fifth term: Provisional results</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-17 19:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4d6/live/3b180a60-222d-11f1-b26d-cd49b90fee82.png" alt="Iran and Russia are &#x27;brothers in hatred&#x27;, Zelensky tells MPs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c15xeyny73wo?at_medium=RSS&at_campaign=rss" target="_blank">Iran and Russia are &#x27;brothers in hatred&#x27;, Zelensky tells MPs</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-17 18:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/17/nx-s1-5749163/oksana-masters-2026-winter-paralympics-medals" target="_blank">She&#x27;s won 24 Paralympic medals. But Oksana Masters wants to talk about times she lost</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-17 18:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -61,47 +104,29 @@
                 <span class="time">2026-03-17 16:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773763346853_now_brk_trump_hormuz_taoi_260317_1920x1080-pimd4t.jpg" alt="Trump: &#x27;We don&#x27;t need any help&#x27; with Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-says-u-s-does-not-need-help-with-strait-of-hormuz-259467333811" target="_blank">Trump: &#x27;We don&#x27;t need any help&#x27; with Strait of Hormuz</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-17 16:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump meets with Irish prime minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  President Trump meets with Irish prime minister</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-17 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba" target="_blank">Belgian court sends ex-diplomat, 93, to trial over 1961 murder of Congo leader</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-17 14:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/17/nx-s1-5750419/usps-running-out-of-money-postal-service-david-steiner" target="_blank">The Postal Service may be out of cash in 2027 without Congress&#x27; help, postmaster says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-17 14:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/896006/ikea-matter-thread-smart-home-problems" target="_blank">Ikea tried to build a smart home for everyone — here&amp;#8217;s why it&amp;#8217;s not working yet</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-17 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/" target="_blank">The Pentagon is developing alternatives to Anthropic, report says</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-17 18:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +163,20 @@
                 <span class="time">2026-03-17 17:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/17/vurt-mobile-first-vertical-video-streaming-platform-indie-filmmakers/" target="_blank">Meet Vurt, the mobile-first streaming platform for indie filmmakers embracing vertical video</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-17 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/895921/intel-core-ultra-290hx-270hx-flagship-gaming-laptop-cpu" target="_blank">Intel announces Core Ultra 200HX Plus CPUs for high-end gaming laptops</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-17 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914603&w=600" alt="Automating IBM MQ Console (MQ Web Server) Startup Post-Server Reboot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/automating-ibm-mq-console-startup-post-reboot" target="_blank">Automating IBM MQ Console (MQ Web Server) Startup Post-Server Reboot</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-17 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914588&w=600" alt="How Deterministic Rules Engines Improve Compliance and Auditability" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -168,6 +184,15 @@
                 <span class="title"><a href="https://dzone.com/articles/how-deterministic-rules-engines-improve-compliance" target="_blank">How Deterministic Rules Engines Improve Compliance and Auditability</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-17 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems" target="_blank">If you thought the code writing speed was your problem; you have bigger problems</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-17 17:48</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +222,6 @@
                 <span class="time">2026-03-17 16:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/12.5M-Better-OSS-Security" target="_blank">Microsoft, OpenAI &amp; Others Pony Up $12.5M To Strengthen Open-Source Security</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-17 16:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/itlackey/your-agents-memory-shouldnt-disappear-when-the-session-ends-18mo" target="_blank">Your Agent&#x27;s Memory Shouldn&#x27;t Disappear When the Session Ends</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-17 16:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +241,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/openclaw_line-1280x853.jpg" alt="Amid AI Agent Boom, the Tech Industry Makes It Clear: With Great Laziness Comes Great Responsibility" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/amid-ai-agent-boom-the-tech-industry-makes-it-clear-with-great-laziness-comes-great-responsibility-2000734649" target="_blank">Amid AI Agent Boom, the Tech Industry Makes It Clear: With Great Laziness Comes Great Responsibility</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-17 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/05/drinking-fountain.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Sparkling water reduced cognitive fatigue in esports players, study finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/17/sparkling-water-reduced-cognitive-fatigue-in-esports-players-study-finds.html" target="_blank">Sparkling water reduced cognitive fatigue in esports players, study finds</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-17 19:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/IMG_2498-1280x720.jpg" alt="Pokémon Pokopia Players Are Turning Their Towns Into Sweatshops" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-pokopia-factory-sweatshop-prison-jail-labor-2000679679" target="_blank">Pokémon Pokopia Players Are Turning Their Towns Into Sweatshops</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-17 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KKYBPXJ7R68691SK60SK932Y/hero-image.jpg" alt="Amazon Is Now Offering One-Hour and Three-Hour Delivery Options in Select Areas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,33 +293,6 @@
                 <span class="title"><a href="https://kotaku.com/pragmata-preview-impressions-capcom-diana-hacking-2000679655" target="_blank">Hands-On Preview: Capcom’s Pragmata Isn’t Just Old-School Cool, It’s Also Got Heart</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-17 17:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/Tesla.jpeg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Tesla&#x27;s SF Supercharger turns quiet alley into all-night pee-and-bass festival" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/17/teslas-sf-supercharger-turns-quiet-alley-into-all-night-pee-and-bass-festival.html" target="_blank">Tesla&#x27;s SF Supercharger turns quiet alley into all-night pee-and-bass festival</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-17 15:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/Xbox-gta-1280x720.jpg" alt="Take-Two Boss Calls The Idea That AI Could Create Something Like GTA 6 ‘Laughable’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gta-6-ai-grand-theft-auto-take-two-ceo-strauss-zelnick-rockstar-2000679580" target="_blank">Take-Two Boss Calls The Idea That AI Could Create Something Like GTA 6 ‘Laughable’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-17 15:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Donkey-Kong-Switch-2-3-1280x853.jpg" alt="11" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/11-2000734529" target="_blank">11</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-17 15:10</span>
             </div>
         </div>
 </div>
@@ -325,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 18:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 19:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
