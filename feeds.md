@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-17 14:22:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-17 15:19:57 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, March 17, 2026 - 14:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, March 17, 2026 - 15:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/17/nx-s1-5750419/usps-running-out-of-money-postal-service-david-steiner" target="_blank">The Postal Service may be out of cash in 2027 without Congress&#x27; help, postmaster says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-17 14:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +96,20 @@
                 <span class="time">2026-03-17 11:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773746745827_tdy_news_7a_engel_us_embassy_targeted_260317_1920x1080-qqgdp9.jpg" alt="New Video Shows US Embassy in Baghdad Targeted by Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/israel-says-it-killed-2-top-iranian-leaders-in-latest-attack-259452997552" target="_blank">New Video Shows US Embassy in Baghdad Targeted by Iran</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-17 11:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/switch-2-dock-500x500.jpeg" alt="Nintendo Switch 2 update adds one possible fix for blurry OG Switch games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/nintendo-switch-2-update-adds-one-possible-fix-for-blurry-og-switch-games/" target="_blank">Nintendo Switch 2 update adds one possible fix for blurry OG Switch games</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-17 15:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +155,29 @@
                 <span class="time">2026-03-17 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b885ff54fbf59a64877f6c/master/pass/What-Are-Gravel-Running-Shoes-.jpg" alt="What Are Gravel Running Shoes? (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/what-are-gravel-running-shoes/" target="_blank">What Are Gravel Running Shoes? (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-17 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/03/17/keeping-the-lights-on-for-open-source/" target="_blank">Keeping the lights on for open source</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-03-17 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxv999dw5nfcf3aokxeiq.png" alt="Your Team Doesn&#x27;t Have a Jira Problem. It Has a Context Problem." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/imdone/your-team-doesnt-have-a-jira-problem-it-has-a-context-problem-4akd" target="_blank">Your Team Doesn&#x27;t Have a Jira Problem. It Has a Context Problem.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-17 15:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914633&w=600" alt="Memory Is a Distributed Systems Problem: Designing Conversational AI That Stays Coherent at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,24 +214,6 @@
                 <span class="time">2026-03-17 12:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftgqbt6fjhvzn9hg4tuh9.png" alt="How is Leyden improving Java Performance? Part 2 of 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/delawen/how-is-leyden-improving-java-performance-part-2-of-3-n5n" target="_blank">How is Leyden improving Java Performance? Part 2 of 3</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-17 11:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Binary-Optimization-Tool" target="_blank">Intel Announces Core Ultra 200HX Plus Along With &quot;Intel Binary Optimization Tool&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-17 10:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/Xbox-gta-1280x720.jpg" alt="Take-Two Boss Calls The Idea That AI Could Create Something Like GTA 6 ‘Laughable’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gta-6-ai-grand-theft-auto-take-two-ceo-strauss-zelnick-rockstar-2000679580" target="_blank">Take-Two Boss Calls The Idea That AI Could Create Something Like GTA 6 ‘Laughable’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-17 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Donkey-Kong-Switch-2-3-1280x853.jpg" alt="11" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/11-2000734529" target="_blank">11</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-17 15:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KKXM7Q79BQZQP3WB09X54X3H/hero-image.jpg" alt="You Can Turn an Old Android Phone Into a Wifi Extender for Your Home Network" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +287,6 @@
                 <span class="time">2026-03-17 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/sam-altman-nervous-1280x1073.jpg" alt="OpenAI Reportedly Pivoting to a Focus on Business and Productivity Only" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/openai-reportedly-pivoting-to-a-focus-on-business-and-productivity-only-2000734341" target="_blank">OpenAI Reportedly Pivoting to a Focus on Business and Productivity Only</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-17 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/aqara-camera-hub-g350-1-1280x853.jpg" alt="Aqara’s New Matter Smart Home Camera Hub Will Have No Compatibility Caveats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/aqara-camera-hub-g350-doorbell-camera-g400-matter-support-2000734190" target="_blank">Aqara’s New Matter Smart Home Camera Hub Will Have No Compatibility Caveats</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-17 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,22 +310,13 @@
                 <span class="time">2026-03-16 21:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1773626130-20260316.png" alt="Saturday Morning Breakfast Cereal - Under" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/under" target="_blank">Saturday Morning Breakfast Cereal - Under</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-03-16 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 14:22 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 15:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
