@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-17 11:14:23 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-17 12:09:43 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, March 17, 2026 - 11:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, March 17, 2026 - 12:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/17/g-s1-114032/up-first-newsletter-iran-israel-lebanon-us-war-cuba-power-outage-rfk-vaccine-protected-status-migrants" target="_blank">U.S. seeks NATO help with Strait of Hormuz. And, SCOTUS blocks vaccine changes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-17 11:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773746745827_tdy_news_7a_engel_us_embassy_targeted_260317_1920x1080-qqgdp9.jpg" alt="New Video Shows US Embassy in Baghdad Targeted by Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/israel-says-it-killed-2-top-iranian-leaders-in-latest-attack-259452997552" target="_blank">New Video Shows US Embassy in Baghdad Targeted by Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-17 11:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/3/17/how-do-i-survive-drought-plagues-kenyas-turkana-amid-surplus-elsewhere?traffic_source=rss" target="_blank">‘How do I survive?’ Drought plagues Kenya’s Turkana amid surplus elsewhere</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-17 11:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +103,29 @@
                 <span class="time">2026-03-17 10:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/larijani-dead_1773742129936_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel says Iran&#x27;s security chief Ali Larijani dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492" target="_blank">Iran live updates: Israel says Iran&#x27;s security chief Ali Larijani dead</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-17 10:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/17/israel-says-irans-security-chief-larijani-has-been-killed?traffic_source=rss" target="_blank">Israel says Iran’s security chief Larijani has been killed</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-17 10:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/17/israel-claims-to-have-assassinated-commander-of-irans-basij-militia-unit?traffic_source=rss" target="_blank">Israel claims to have assassinated commander of Iran’s Basij militia unit</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-17 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69b88ee328d1fcc3131bdd48/master/pass/Review--Skylight-Calendar-2.jpg" alt="Skylight’s Calendar 2 Review: Its Best Digital Calendar Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/skylight-calendar-2/" target="_blank">Skylight’s Calendar 2 Review: Its Best Digital Calendar Yet</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-17 12:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/895859/oppo-find-n6-launch-release-markets-specs-battery" target="_blank">Oppo’s nearly creaseless foldable isn’t launching in Europe after all</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-17 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69b885ff54fbf59a64877f6c/master/pass/What-Are-Gravel-Running-Shoes-.jpg" alt="What Are Gravel Running Shoes? (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +162,20 @@
                 <span class="time">2026-03-17 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/895326/aqara-g350-matter-camera-samsung-smartthings-hands-on-review" target="_blank">Hands on with Aqara’s new Matter-compatible camera</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-17 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" alt="Sam&#x27;s Club Coupons and Deals: Save up to 60% in March 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sams-club-coupon/" target="_blank">Sam&#x27;s Club Coupons and Deals: Save up to 60% in March 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-17 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fccc89cx73itso4ddn7vt.jpg" alt="Connecting Power BI to SQL Databases: A Practical Guide for Data Analysts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lawrence_murithi/connecting-power-bi-to-sql-databases-a-practical-guide-for-data-analysts-5745" target="_blank">Connecting Power BI to SQL Databases: A Practical Guide for Data Analysts</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-17 12:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftgqbt6fjhvzn9hg4tuh9.png" alt="How is Leyden improving Java Performance? Part 2 of 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -175,10 +188,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Binary-Optimization-Tool" target="_blank">Intel Announces Core Ultra 200HX Plus Along With &quot;Intel Binary Optimization Tool&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-17 10:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/santifer/i-built-a-multi-agent-job-search-system-with-claude-code-631-evaluations-12-modes-2cd0" target="_blank">I Built a Multi-Agent Job Search System with Claude Code — 631 Evaluations, 12 Modes</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-17 10:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://kagi.com/smallweb/" target="_blank">Kagi Small Web</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-17 09:53</span>
             </div>
         </div>
 <div class="story">
@@ -188,33 +219,6 @@
                 <span class="title"><a href="https://dev.to/mattercoder/i-gave-ai-agents-a-telecom-job-interview-most-failed-without-a-cheat-sheet-ddj" target="_blank">I Gave AI Agents a Telecom Job Interview. Most Failed Without a Cheat Sheet</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-17 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thenexusguard/okta-just-launched-agent-identity-heres-what-they-got-right-and-what-they-missed-poo" target="_blank">Okta Just Launched Agent Identity. Heres What They Got Right (and What They Missed)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-17 08:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17300603/ageless-linux" target="_blank">Ageless Linux Emerges to Protest OS-Level Age Verification Laws</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-17 07:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/reema_riyazkhan_aa44ab89/what-is-markdown-based-test-management-11k2" target="_blank">What is Markdown-Based Test Management?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-17 07:09</span>
             </div>
         </div>
 </div>
@@ -236,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/David_Tennant_DoctorWho_TheStarBeast-1280x853.jpg" alt="‘Doctor Who’ Has Never Met an Uncertain Time It Can’t Throw David Tennant At" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/doctor-who-has-never-met-an-uncertain-time-it-cant-throw-david-tennant-at-2000734149" target="_blank">‘Doctor Who’ Has Never Met an Uncertain Time It Can’t Throw David Tennant At</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-17 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/warhammer-40k-commisar-yarrick-1280x853.jpg" alt="‘Warhammer 40,000’ Has Found Another Old Hero to Bring Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +294,6 @@
                 <span class="time">2026-03-16 23:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/GettyImages-2254215955-1280x853.jpg" alt="Nvidia Expects Agentic AI To Drive $1 Trillion In Revenue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nvidia-expects-agentic-ai-to-drive-1-trillion-in-revenue-2000734120" target="_blank">Nvidia Expects Agentic AI To Drive $1 Trillion In Revenue</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-16 23:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 11:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 12:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
