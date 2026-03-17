@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-17 03:46:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-17 04:32:50 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, March 17, 2026 - 03:46 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, March 17, 2026 - 04:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/17/south-african-fruit-exports-face-delays-as-iran-war-disrupts-shipping?traffic_source=rss" target="_blank">South African fruit exports face delays as Iran war disrupts shipping</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-17 04:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cp9mdxz4dd2o?at_medium=RSS&at_campaign=rss" target="_blank">Family &#x27;beyond devastated&#x27; by meningitis death as hundreds get antibiotics</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-16 22:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/16/nx-s1-5745069/supreme-court-tps-syria-haiti" target="_blank">Supreme Court to hear expedited arguments on protected status for migrants</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-16 21:25</span>
             </div>
         </div>
 </div>
@@ -236,6 +240,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/jensen-claws-1280x720.jpg" alt="The Most Valuable Company in the World Welcomes You to Its Conference with ‘Veggie-Tales’-Adjacent Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-most-valuable-company-in-the-world-welcomes-you-to-its-conference-with-veggie-tales-adjacent-slop-2000732710" target="_blank">The Most Valuable Company in the World Welcomes You to Its Conference with ‘Veggie-Tales’-Adjacent Slop</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-17 02:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/polymarket.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Polymarket gamblers sent death threats over an Iran missile report" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -280,15 +293,6 @@
                 <span class="time">2026-03-16 22:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKW7G9598QRRFT03GZYE18RJ/hero-image.webp" alt="All the Details on Target&#x27;s Answer to Amazon&#x27;s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/target-circle-deal-days-amazon-big-spring-sale?utm_medium=RSS" target="_blank">All the Details on Target&#x27;s Answer to Amazon&#x27;s Big Spring Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-16 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,22 +334,13 @@
                 <span class="time">2026-03-16 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/rotational_gravity.png" alt="Rotational Gravity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3220/" target="_blank">Rotational Gravity</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-03-16 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 03:46 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 04:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
