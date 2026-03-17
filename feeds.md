@@ -1,33 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-03-17 01:30:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-17 02:54:36 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, March 17, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, March 17, 2026 - 02:54 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/17/iran-says-wars-are-not-won-on-social-media?traffic_source=rss" target="_blank">Iran says wars are not won on social media</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-17 02:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/16/nx-s1-5749490/xai-elon-musk-sexualized-images" target="_blank">Tennessee teens sue Elon Musk&#x27;s xAI over AI-generated child sexual abuse material</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-17 01:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +106,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/16/nx-s1-5745069/supreme-court-tps-syria-haiti" target="_blank">Supreme Court to hear expedited arguments on protected status for migrants</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-16 21:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/16/fourth-world-nation-trump-slams-somalia-ilhan-omar?traffic_source=rss" target="_blank">‘Fourth world nation’: Trump slams Somalia, Ilhan Omar</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-16 21:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251013-cdc-mb-0631-0a730e.jpg" alt="Federal judge blocks RFK Jr.&#x27;s changes to childhood vaccine schedule" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/health/health-news/federal-judge-blocks-rfk-jr-cdc-childhood-vaccine-schedule-rcna263697" target="_blank">Federal judge blocks RFK Jr.&#x27;s changes to childhood vaccine schedule</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-16 20:25</span>
             </div>
         </div>
 </div>
@@ -164,6 +175,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Meta-Renewing-jemalloc" target="_blank">Meta Renewing Investment Into The jemalloc Memory Allocator</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-17 00:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://oxyde.fatalyst.dev/0.5/" target="_blank">Oxyde ORM - Django-like Pydantic-driven Async ORM</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-17 00:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/" target="_blank">US SEC preparing to scrap quarterly reporting requirement</a></span>
                 <span class="feed">Hacker News</span>
@@ -195,24 +224,6 @@
                 <span class="title"><a href="https://mistral.ai/news/leanstral" target="_blank">Leanstral: Open-Source foundation for trustworthy vibe-coding</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-16 20:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/nvidia-gtc-2026" target="_blank">Meet Canonical at NVIDIA GTC 2026: NVIDIA CUDA and NVIDIA Vera Rubin NVL72 support in Ubuntu 26.04 LTS</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-03-16 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Glibc-Faster-cosh-x86-64-FMA" target="_blank">GNU C Library Lands x86_64 FMA&#x27;ed cosh For A ~35% Improvement</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-16 20:21</span>
             </div>
         </div>
 </div>
@@ -320,13 +331,22 @@
                 <span class="time">2026-03-16 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/rotational_gravity.png" alt="Rotational Gravity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3220/" target="_blank">Rotational Gravity</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-03-16 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 02:54 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
