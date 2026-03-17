@@ -1,40 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-03-17 20:08:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-17 21:09:37 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, March 17, 2026 - 20:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, March 17, 2026 - 21:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,12 +42,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/17/rubio-says-cuba-needs-to-get-new-people-in-charge-as-us-ratchets-pressure?traffic_source=rss" target="_blank">Rubio says Cuba needs to ‘get new people in charge’ as US ratchets pressure</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-17 20:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f74c/live/6486a190-2232-11f1-b26d-cd49b90fee82.jpg" alt="Students to be offered vaccine in meningitis outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cev7rl437epo?at_medium=RSS&at_campaign=rss" target="_blank">Students to be offered vaccine in meningitis outbreak</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-17 19:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/17/g-s1-114070/assassination-iran-supreme-leader-questions-democracies" target="_blank">Khamenei&#x27;s killing renews questions about U.S. assassinating foreign leaders</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-17 19:22</span>
             </div>
         </div>
 <div class="story">
@@ -86,24 +95,6 @@
                 <span class="time">2026-03-17 18:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/17/nx-s1-5749163/oksana-masters-2026-winter-paralympics-medals" target="_blank">She&#x27;s won 24 Paralympic medals. But Oksana Masters wants to talk about times she lost</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-17 18:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/17/starmer-tells-zelenskyy-focus-on-ukraine-as-iran-war-diverts-attention?traffic_source=rss" target="_blank">Starmer, Zelenskyy urge ‘focus’ on Ukraine as Iran war diverts attention</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-17 17:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -113,9 +104,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/" target="_blank">Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-17 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/03/17/kagi-small-web-human-authored-indie-internet-mobile-ios-android-devices/" target="_blank">Kagi brings its ‘small web’ of a human-only internet to mobile devices</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-17 20:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/kalshi-500x500.jpg" alt="Arizona indicts prediction market Kalshi for running illegal gambling operation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/arizona-indicts-prediction-market-kalshi-for-running-illegal-gambling-operation/" target="_blank">Arizona indicts prediction market Kalshi for running illegal gambling operation</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-17 19:28</span>
             </div>
         </div>
 <div class="story">
@@ -145,24 +154,6 @@
                 <span class="time">2026-03-17 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b9871abb6d25bf7dcc8470/master/pass/These-Sonos-Over-Ear-Headphones-Are-$100-Off.jpg" alt="These Sonos Over-Ear Headphones Are $100 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sonos-ace-deal-326/" target="_blank">These Sonos Over-Ear Headphones Are $100 Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-17 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2252442956-500x500.jpg" alt="Trump&#x27;s plan to shut down weather and climate center triggers lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/03/university-group-sues-trump-administration-over-shutdown-of-climate-center/" target="_blank">Trump&#x27;s plan to shut down weather and climate center triggers lawsuit</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-17 17:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +166,15 @@
                 <span class="title"><a href="https://dzone.com/articles/automating-ibm-mq-console-startup-post-reboot" target="_blank">Automating IBM MQ Console (MQ Web Server) Startup Post-Server Reboot</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-17 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://terathon.com/blog/decade-slug.html" target="_blank">A Decade of Slug</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-17 18:59</span>
             </div>
         </div>
 <div class="story">
@@ -213,15 +213,6 @@
                 <span class="time">2026-03-17 16:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/netflix-dvds-to-global-streaming/en/headerimage/generatedHeaderImage-1773745066624.jpg" alt="QCon London 2026: From DVDs to Global Streaming How Netflix’s Commerce Architecture Actually Evolve" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/netflix-dvds-to-global-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: From DVDs to Global Streaming How Netflix’s Commerce Architecture Actually Evolve</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-17 16:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +232,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/AIProtest-1280x853.jpg" alt="Americans Recognize AI as a Wealth Inequality Machine, Pollster Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713" target="_blank">Americans Recognize AI as a Wealth Inequality Machine, Pollster Finds</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-17 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/alex_ss04-1280x720.jpg" alt="Street Fighter 6’s Latest DLC Ending Is Upsetting Fans Because Alex Marries His Sister-Cousin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/street-fighter-6-alex-dlc-ending-patricia-tom-sister-cousin-married-2000679707" target="_blank">Street Fighter 6’s Latest DLC Ending Is Upsetting Fans Because Alex Marries His Sister-Cousin</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-17 20:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2HFA1NX2ZENNBGHJ79AMPW/hero-image.png" alt="The Best Sales on Headphones and Earbuds Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/best-deals-on-earbuds-and-headphones-right-now?utm_medium=RSS" target="_blank">The Best Sales on Headphones and Earbuds Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-17 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Alienware-Area-51-16-inch-18-inch-Gaming-Laptop-review-02-1280x853.jpg" alt="Next-Gen Gaming Laptops Will Have Better Screens and Chips—and Cost Way More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,33 +284,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/best-buys-spring-sale-2026-has-begun?utm_medium=RSS" target="_blank">Best Buy&#x27;s Spring Sale Is Live, Ahead of Amazon&#x27;s &#x27;Big Spring Sale&#x27;</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-17 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/openclaw_line-1280x853.jpg" alt="Amid AI Agent Boom, the Tech Industry Makes It Clear: With Great Laziness Comes Great Responsibility" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/amid-ai-agent-boom-the-tech-industry-makes-it-clear-with-great-laziness-comes-great-responsibility-2000734649" target="_blank">Amid AI Agent Boom, the Tech Industry Makes It Clear: With Great Laziness Comes Great Responsibility</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-17 19:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/05/drinking-fountain.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Sparkling water reduced cognitive fatigue in esports players, study finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/17/sparkling-water-reduced-cognitive-fatigue-in-esports-players-study-finds.html" target="_blank">Sparkling water reduced cognitive fatigue in esports players, study finds</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-17 19:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/IMG_2498-1280x720.jpg" alt="Pokémon Pokopia Players Are Turning Their Towns Into Sweatshops" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-pokopia-factory-sweatshop-prison-jail-labor-2000679679" target="_blank">Pokémon Pokopia Players Are Turning Their Towns Into Sweatshops</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-17 18:30</span>
             </div>
         </div>
 </div>
@@ -332,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 20:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 21:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
