@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-17 07:20:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-17 08:11:08 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, March 17, 2026 - 07:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, March 17, 2026 - 08:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,9 +50,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/3/17/palestinian-refugees-face-new-displacement-as-israels-bombs-hit-lebanon?traffic_source=rss" target="_blank">Palestinian refugees face new displacement as Israel’s bombs hit Lebanon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-17 07:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/lebanon-israel-main_1773729729882_hpMain_4x3t_384.jpg" alt="Iran live updates: Ship struck off UAE coast; Israeli incursion in Lebanon escalates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492" target="_blank">Iran live updates: Ship struck off UAE coast; Israeli incursion in Lebanon escalates</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-17 07:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/17/israeli-strikes-target-beirut-southern-lebanon-one-million-displaced?traffic_source=rss" target="_blank">Israeli strikes target Beirut, southern Lebanon, one million displaced</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-17 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/17/g-s1-114023/last-protester-campus-crackdown-released" target="_blank">Last protester in detention after Trump&#x27;s campus crackdown has been released</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-17 06:56</span>
             </div>
         </div>
 <div class="story">
@@ -73,38 +100,20 @@
                 <span class="time">2026-03-17 04:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/17/iran-says-wars-are-not-won-on-social-media?traffic_source=rss" target="_blank">Iran says wars are not won on social media</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-17 02:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/16/nx-s1-5749490/xai-elon-musk-sexualized-images" target="_blank">Tennessee teens sue Elon Musk&#x27;s xAI over AI-generated child sexual abuse material</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-17 01:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f02/live/958f4b90-2181-11f1-b297-95b0a0a8331e.jpg" alt="Trump&#x27;s confidence is undimmed - but every Iran option comes with risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s confidence is undimmed - but every Iran option comes with risk</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-17 00:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/895326/aqara-g350-matter-camera-samsung-smartthings-hands-on-review" target="_blank">Hands on with Aqara’s new Matter-compatible camera</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-17 08:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" alt="Sam&#x27;s Club Coupons and Deals: Save up to 60% in March 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +159,29 @@
                 <span class="time">2026-03-16 22:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics" target="_blank">DLSS 5 looks like a real-time generative AI filter for video games</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-16 21:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thenexusguard/okta-just-launched-agent-identity-heres-what-they-got-right-and-what-they-missed-poo" target="_blank">Okta Just Launched Agent Identity. Heres What They Got Right (and What They Missed)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-17 08:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17300603/ageless-linux" target="_blank">Ageless Linux Emerges to Protest OS-Level Age Verification Laws</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-17 07:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +218,6 @@
                 <span class="time">2026-03-17 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://translate.kagi.com/?from=en&to=LinkedIn+speak" target="_blank">Kagi Translate now supports LinkedIn Speak as an output language</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-17 04:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Meta-Renewing-jemalloc" target="_blank">Meta Renewing Investment Into The jemalloc Memory Allocator</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-17 00:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/aqara-camera-hub-g350-1-1280x853.jpg" alt="Aqara’s New Matter Smart Home Camera Hub Will Have No Compatibility Caveats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/aqara-camera-hub-g350-doorbell-camera-g400-matter-support-2000734190" target="_blank">Aqara’s New Matter Smart Home Camera Hub Will Have No Compatibility Caveats</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-17 08:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/jensen-claws-1280x720.jpg" alt="The Most Valuable Company in the World Welcomes You to Its Conference with ‘Veggie-Tales’-Adjacent Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +291,6 @@
                 <span class="time">2026-03-16 22:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/badnewsgpu-1280x720.jpg" alt="PC Gaming Hardware Maker Calls 2026 ‘Most Challenging Year Ever’ As It Hikes Prices Up To 30 Percent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/msi-2026-most-challenging-year-hikes-prices-up-to-30-percent-low-end-gpu-2000679237" target="_blank">PC Gaming Hardware Maker Calls 2026 ‘Most Challenging Year Ever’ As It Hikes Prices Up To 30 Percent</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-16 22:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 07:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 08:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
