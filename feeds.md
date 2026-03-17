@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-17 21:09:37 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-17 22:06:25 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, March 17, 2026 - 21:09 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, March 17, 2026 - 22:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +47,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/reaper-drone-1-ht-gmh-260317_1773780689720_hpMain_4x3t_384.jpg" alt="More than a dozen Reaper drones have been lost in Iran operations, US officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/dozen-16m-reaper-drones-destroyed-iran-operations-us/story?id=131163787" target="_blank">More than a dozen Reaper drones have been lost in Iran operations, US officials say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-17 22:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f74c/live/6486a190-2232-11f1-b26d-cd49b90fee82.jpg" alt="&#x27;Explosive&#x27; meningitis outbreak unprecedented – officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cev7rl437epo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Explosive&#x27; meningitis outbreak unprecedented – officials</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-17 21:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/17/nx-s1-5746006/uss-ford-iran" target="_blank">USS Ford has seen war, fire and plumbing woes as it nears a record long deployment</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-17 21:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-iran-war-dominic-waghorn_7195722.jpg?20260317200609" alt="Inside Iran&#x27;s children&#x27;s wards: The painful human cost of US-Israel airstrikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/inside-irans-childrens-wards-the-devastating-human-cost-of-us-israeli-airstrikes-13520923" target="_blank">Inside Iran&#x27;s children&#x27;s wards: The painful human cost of US-Israel airstrikes</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-17 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -59,42 +101,6 @@
                 <span class="time">2026-03-17 19:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/17/g-s1-114070/assassination-iran-supreme-leader-questions-democracies" target="_blank">Khamenei&#x27;s killing renews questions about U.S. assassinating foreign leaders</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-17 19:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-9-epa-gmh-260317._1773765326550_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says US doesn&#x27;t &#x27;need&#x27; NATO allies for Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492" target="_blank">Iran live updates: Trump says US doesn&#x27;t &#x27;need&#x27; NATO allies for Iran war</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-17 19:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/17/congos-president-nguesso-to-secure-fifth-term-provisional-results-predict?traffic_source=rss" target="_blank">Congolese President Sassou Nguesso wins fifth term: Provisional results</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-17 19:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4d6/live/3b180a60-222d-11f1-b26d-cd49b90fee82.png" alt="Iran and Russia are &#x27;brothers in hatred&#x27;, Zelensky tells MPs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c15xeyny73wo?at_medium=RSS&at_campaign=rss" target="_blank">Iran and Russia are &#x27;brothers in hatred&#x27;, Zelensky tells MPs</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-17 18:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -104,9 +110,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/" target="_blank">Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-17 21:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/musi-500x500.png" alt="Apple can delist apps &quot;with or without cause,&quot; judge says in loss for Musi app" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/judge-upholds-apple-delisting-of-free-musi-app-that-streams-songs-from-youtube/" target="_blank">Apple can delist apps &quot;with or without cause,&quot; judge says in loss for Musi app</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-17 21:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/" target="_blank">Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-17 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b85a211d0dc350fb54192b/master/pass/doordash-elena-lacey%20(1).jpg" alt="DoorDash Reservations Scored America’s Most Exclusive Restaurants" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/doordash-reservations-exclusive-restaurants/" target="_blank">DoorDash Reservations Scored America’s Most Exclusive Restaurants</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-17 20:32</span>
             </div>
         </div>
 <div class="story">
@@ -127,38 +160,20 @@
                 <span class="time">2026-03-17 19:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/896006/ikea-matter-thread-smart-home-problems" target="_blank">Ikea tried to build a smart home for everyone — here&amp;#8217;s why it&amp;#8217;s not working yet</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-17 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/" target="_blank">The Pentagon is developing alternatives to Anthropic, report says</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-17 18:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing" target="_blank">Nvidia&amp;#8217;s DLSS 5 is like motion smoothing for video games, but worse</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-17 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/systemd-260-Released" target="_blank">systemd 260 Released: mstack, SysV Service Scripts Removed &amp; AI Agents Documentation</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-17 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914603&w=600" alt="Automating IBM MQ Console (MQ Web Server) Startup Post-Server Reboot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,15 +219,6 @@
                 <span class="time">2026-03-17 17:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/35d38ae8-5fc7-4307-84d4-de2706908538_1674x1258.png" alt="Are AI agents actually slowing us down?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/are-ai-agents-actually-slowing-us" target="_blank">Are AI agents actually slowing us down?</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-03-17 16:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/TalesFrom85-1280x853.jpg" alt="Oh, So Now Netflix Is Interested in More Theatrical Releases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/netflix-theaterical-release-stranger-things-tales-from-85-2000734715" target="_blank">Oh, So Now Netflix Is Interested in More Theatrical Releases</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-17 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/The-Ultimate-Microsoft-Office-Professional.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Makeover your PC for under $45 with this Microsoft bundle deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/17/makeover-your-pc-for-under-45-with-this-microsoft-bundle-deal.html" target="_blank">Makeover your PC for under $45 with this Microsoft bundle deal</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-17 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/AIProtest-1280x853.jpg" alt="Americans Recognize AI as a Wealth Inequality Machine, Pollster Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +292,6 @@
                 <span class="time">2026-03-17 19:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/littlechina.jpg?fit=910%2C710&amp;quality=60&amp;ssl=1" alt="Honest Trailer tackles &quot;Big Trouble in Little China&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/17/honest-trailer-tackles-big-trouble-in-little-china.html" target="_blank">Honest Trailer tackles &quot;Big Trouble in Little China&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-17 19:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKYJP52GTBC1TGZHTHG73PYS/hero-image.webp" alt="Best Buy&#x27;s Spring Sale Is Live, Ahead of Amazon&#x27;s &#x27;Big Spring Sale&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-buys-spring-sale-2026-has-begun?utm_medium=RSS" target="_blank">Best Buy&#x27;s Spring Sale Is Live, Ahead of Amazon&#x27;s &#x27;Big Spring Sale&#x27;</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-17 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,22 +315,13 @@
                 <span class="time">2026-03-17 00:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/16/lost-and-found" target="_blank">Lost And Found</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-03-16 21:13</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 21:09 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 22:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
