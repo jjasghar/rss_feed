@@ -1,39 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-03-17 16:20:33 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-17 17:20:25 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 11 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, March 17, 2026 - 16:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, March 17, 2026 - 17:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b41/live/90b14820-220e-11f1-934f-036468834728.jpg" alt="Top US counterterrorism official resigns over Iran war, urging Trump to &#x27;reverse course&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss" target="_blank">Top US counterterrorism official resigns over Iran war, urging Trump to &#x27;reverse course&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-17 16:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773763346853_now_brk_trump_hormuz_taoi_260317_1920x1080-pimd4t.jpg" alt="Trump: &#x27;We don&#x27;t need any help&#x27; with Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,20 +93,20 @@
                 <span class="time">2026-03-17 14:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/17/un-warns-of-record-hunger-45-million-more-at-risk-if-iran-war-continues?traffic_source=rss" target="_blank">UN warns of record hunger, 45 million more at risk, if Iran war continues</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-17 12:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/896111/dune-part-three-trailer-release-date" target="_blank">The messiah rises in Dune: Part Three’s new trailer</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-17 17:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +152,47 @@
                 <span class="time">2026-03-17 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b8a58d7bf98004a3706878/master/pass/You-Should-Be-Clamping-Everything-You-Can-to-Your-Desk.jpg" alt="I Clamp Every Accessory I Can to My Desk To Avoid Clutter, and You Should, Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/you-should-be-mounting-everything-on-your-desk/" target="_blank">I Clamp Every Accessory I Can to My Desk To Avoid Clutter, and You Should, Too</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-17 12:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://fidget-spinner.github.io/posts/jit-on-track.html" target="_blank">Python 3.15’s JIT is now back on track</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-17 17:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/35d38ae8-5fc7-4307-84d4-de2706908538_1674x1258.png" alt="Are AI agents actually slowing us down?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/are-ai-agents-actually-slowing-us" target="_blank">Are AI agents actually slowing us down?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-03-17 16:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/netflix-dvds-to-global-streaming/en/headerimage/generatedHeaderImage-1773745066624.jpg" alt="QCon London 2026: From DVDs to Global Streaming How Netflix’s Commerce Architecture Actually Evolve" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/netflix-dvds-to-global-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: From DVDs to Global Streaming How Netflix’s Commerce Architecture Actually Evolve</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-17 16:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/12.5M-Better-OSS-Security" target="_blank">Microsoft, OpenAI &amp; Others Pony Up $12.5M To Strengthen Open-Source Security</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-17 16:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -183,42 +209,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/03/17/keeping-the-lights-on-for-open-source/" target="_blank">Keeping the lights on for open source</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-03-17 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxv999dw5nfcf3aokxeiq.png" alt="Your Team Doesn&#x27;t Have a Jira Problem. It Has a Context Problem." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/imdone/your-team-doesnt-have-a-jira-problem-it-has-a-context-problem-4akd" target="_blank">Your Team Doesn&#x27;t Have a Jira Problem. It Has a Context Problem.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-17 15:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914583&w=600" alt="Swift Concurrency, Part 1: Tasks, Executors, and Priority Escalation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/swift-concurrency-tasks-executors-priority" target="_blank">Swift Concurrency, Part 1: Tasks, Executors, and Priority Escalation</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-17 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914633&w=600" alt="Memory Is a Distributed Systems Problem: Designing Conversational AI That Stays Coherent at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/memory-distributed-systems-conversational-ai-coherence" target="_blank">Memory Is a Distributed Systems Problem: Designing Conversational AI That Stays Coherent at Scale</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-17 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/jpmc-multicloud-product-strategy/en/headerimage/generatedHeaderImage-1773667022672.jpg" alt="QCon London 2026: Your Multi-Cloud Strategy Is a Product Problem — Treat It Like One" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/jpmc-multicloud-product-strategy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: Your Multi-Cloud Strategy Is a Product Problem — Treat It Like One</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-17 13:07</span>
             </div>
         </div>
 </div>
@@ -240,6 +230,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/PRAGMATA_SS_15-1280x720.jpg" alt="Hands-On Preview: Capcom’s Pragmata Isn’t Just Old-School Cool, It’s Also Got Heart" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pragmata-preview-impressions-capcom-diana-hacking-2000679655" target="_blank">Hands-On Preview: Capcom’s Pragmata Isn’t Just Old-School Cool, It’s Also Got Heart</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-17 17:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/Tesla.jpeg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Tesla&#x27;s SF Supercharger turns quiet alley into all-night pee-and-bass festival" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +284,6 @@
                 <span class="time">2026-03-17 13:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/David_Tennant_DoctorWho_TheStarBeast-1280x853.jpg" alt="‘Doctor Who’ Has Never Met an Uncertain Time It Can’t Throw David Tennant At" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/doctor-who-has-never-met-an-uncertain-time-it-cant-throw-david-tennant-at-2000734149" target="_blank">‘Doctor Who’ Has Never Met an Uncertain Time It Can’t Throw David Tennant At</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-17 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 16:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 17:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
