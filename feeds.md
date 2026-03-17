@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-17 12:09:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-17 13:28:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
 <!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, March 17, 2026 - 12:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, March 17, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,10 +51,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/17/un-warns-of-record-hunger-45-million-more-at-risk-if-iran-war-continues?traffic_source=rss" target="_blank">UN warns of record hunger, 45 million more at risk, if Iran war continues</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-17 12:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/17/g-s1-114032/up-first-newsletter-iran-israel-lebanon-us-war-cuba-power-outage-rfk-vaccine-protected-status-migrants" target="_blank">U.S. seeks NATO help with Strait of Hormuz. And, federal judge blocks vaccine changes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-17 11:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/03/17/g-s1-114032/up-first-newsletter-iran-israel-lebanon-us-war-cuba-power-outage-rfk-vaccine-protected-status-migrants" target="_blank">U.S. seeks NATO help with Strait of Hormuz. And, SCOTUS blocks vaccine changes</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-17 11:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri" target="_blank">At least 23 people killed in suspected suicide attacks in north-eastern Nigeria</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-17 11:28</span>
             </div>
         </div>
 <div class="story">
@@ -68,39 +94,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc6f/live/80869600-21e4-11f1-a42b-a3f1101f2a6d.jpg" alt="Typical new mortgage costs soar £788 a year in two weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/3/17/how-do-i-survive-drought-plagues-kenyas-turkana-amid-surplus-elsewhere?traffic_source=rss" target="_blank">‘How do I survive?’ Drought plagues Kenya’s Turkana amid surplus elsewhere</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-17 11:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/17/connections-overlooked-how-british-companies-profited-slavery-brazil-after-abolition" target="_blank">‘These connections are overlooked’: how British companies profited from slavery in Brazil long after abolition</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-17 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/17/nx-s1-5750253/israel-kills-two-top-iranian-commanders" target="_blank">Israel says it killed two top Iranian commanders in targeted strike</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-17 10:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/17/building-burns-in-israel-after-rocket-attack-from-lebanon?traffic_source=rss" target="_blank">Building burns in Israel after rocket attack from Lebanon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-17 10:36</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0mgd3z1e9ko?at_medium=RSS&at_campaign=rss" target="_blank">Typical new mortgage costs soar £788 a year in two weeks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-17 11:25</span>
             </div>
         </div>
 </div>
@@ -108,6 +107,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/895884/poco-x8-pro-max-8500mah-battery-dynamic-rgb-lights-iron-man" target="_blank">Poco’s first Pro Max phone earns the name with an 8,500mAh battery</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-17 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b8a58d7bf98004a3706878/master/pass/You-Should-Be-Clamping-Everything-You-Can-to-Your-Desk.jpg" alt="I Clamp Every Accessory I Can to My Desk To Avoid Clutter, and You Should, Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/you-should-be-mounting-everything-on-your-desk/" target="_blank">I Clamp Every Accessory I Can to My Desk To Avoid Clutter, and You Should, Too</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-17 12:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69b88ee328d1fcc3131bdd48/master/pass/Review--Skylight-Calendar-2.jpg" alt="Skylight’s Calendar 2 Review: Its Best Digital Calendar Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +161,29 @@
                 <span class="time">2026-03-17 10:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6995ca5e918558ad5998edb2/master/pass/32%20crypto%20real%20estate%20hires%20SR.JPG" alt="Two Literal Crypto Bros Built a Real Estate Empire. Then the Homes Started to Fall Apart" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/crypto-bros-built-a-real-estate-empire-then-the-homes-started-to-fall-apart/" target="_blank">Two Literal Crypto Bros Built a Real Estate Empire. Then the Homes Started to Fall Apart</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-17 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/" target="_blank">Gecko Robotics lands the largest U.S. Navy robotics deal yet</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-17 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/jpmc-multicloud-product-strategy/en/headerimage/generatedHeaderImage-1773667022672.jpg" alt="QCon London 2026: Your Multi-Cloud Strategy Is a Product Problem — Treat It Like One" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/jpmc-multicloud-product-strategy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: Your Multi-Cloud Strategy Is a Product Problem — Treat It Like One</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-17 13:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914562&w=600" alt="Observability in AI Pipelines: Why “The System Is Up” Means Nothing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/observability-in-ai-pipelines-why-the-system-is-up" target="_blank">Observability in AI Pipelines: Why “The System Is Up” Means Nothing</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-17 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fccc89cx73itso4ddn7vt.jpg" alt="Connecting Power BI to SQL Databases: A Practical Guide for Data Analysts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,24 +220,6 @@
                 <span class="time">2026-03-17 10:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://kagi.com/smallweb/" target="_blank">Kagi Small Web</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-17 09:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fexbl1rwooqw5l8ac9q6w.png" alt="I Gave AI Agents a Telecom Job Interview. Most Failed Without a Cheat Sheet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mattercoder/i-gave-ai-agents-a-telecom-job-interview-most-failed-without-a-cheat-sheet-ddj" target="_blank">I Gave AI Agents a Telecom Job Interview. Most Failed Without a Cheat Sheet</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-17 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Omoway-Electric-Motorbike-1280x853.png" alt="Self-Balancing Bikes From the ‘Tesla of Motorcycles’ Are Ready for Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/self-balancing-bikes-from-the-tesla-of-motorcycles-are-ready-for-production-2000734455" target="_blank">Self-Balancing Bikes From the ‘Tesla of Motorcycles’ Are Ready for Production</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-17 13:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/David_Tennant_DoctorWho_TheStarBeast-1280x853.jpg" alt="‘Doctor Who’ Has Never Met an Uncertain Time It Can’t Throw David Tennant At" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +293,6 @@
                 <span class="time">2026-03-17 02:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/polymarket.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Polymarket gamblers sent death threats over an Iran missile report" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/16/polymarket-gamblers-sent-death-threats-over-an-iran-missile-report.html" target="_blank">Polymarket gamblers sent death threats over an Iran missile report</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-16 23:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 12:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
