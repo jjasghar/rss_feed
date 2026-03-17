@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-17 15:19:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-17 16:20:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, March 17, 2026 - 15:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, March 17, 2026 - 16:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773763346853_now_brk_trump_hormuz_taoi_260317_1920x1080-pimd4t.jpg" alt="Trump: &#x27;We don&#x27;t need any help&#x27; with Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-says-u-s-does-not-need-help-with-strait-of-hormuz-259467333811" target="_blank">Trump: &#x27;We don&#x27;t need any help&#x27; with Strait of Hormuz</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-17 16:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump meets with Irish prime minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  President Trump meets with Irish prime minister</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-17 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba" target="_blank">Belgian court sends ex-diplomat, 93, to trial over 1961 murder of Congo leader</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-17 14:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,38 +103,29 @@
                 <span class="time">2026-03-17 12:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/17/g-s1-114032/up-first-newsletter-iran-israel-lebanon-us-war-cuba-power-outage-rfk-vaccine-protected-status-migrants" target="_blank">U.S. seeks NATO help with Strait of Hormuz. And, federal judge blocks vaccine changes</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-17 11:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/17/g-s1-114032/up-first-newsletter-iran-israel-lebanon-us-war-cuba-power-outage-rfk-vaccine-protected-status-migrants" target="_blank">U.S. seeks NATO help with Strait of Hormuz. And, SCOTUS blocks vaccine changes</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-17 11:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri" target="_blank">At least 23 people killed in suspected suicide attacks in north-eastern Nigeria</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-17 11:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/17/vurt-mobile-first-vertical-video-streaming-platform-indie-filmmakers/" target="_blank">Meet Vurt, the mobile-first streaming platform for indie filmmakers embracing vertical video</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-17 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/895921/intel-core-ultra-290hx-270hx-flagship-gaming-laptop-cpu" target="_blank">Intel announces Core Ultra 200HX Plus CPUs for high-end gaming laptops</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-17 15:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/switch-2-dock-500x500.jpeg" alt="Nintendo Switch 2 update adds one possible fix for blurry OG Switch games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,29 +162,20 @@
                 <span class="time">2026-03-17 12:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b88ee328d1fcc3131bdd48/master/pass/Review--Skylight-Calendar-2.jpg" alt="Skylight’s Calendar 2 Review: Its Best Digital Calendar Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/skylight-calendar-2/" target="_blank">Skylight’s Calendar 2 Review: Its Best Digital Calendar Yet</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-17 12:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/895859/oppo-find-n6-launch-release-markets-specs-battery" target="_blank">Oppo’s nearly creaseless foldable isn’t launching in Europe after all</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-17 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/itlackey/your-agents-memory-shouldnt-disappear-when-the-session-ends-18mo" target="_blank">Your Agent&#x27;s Memory Shouldn&#x27;t Disappear When the Session Ends</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-17 16:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -179,6 +195,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914583&w=600" alt="Swift Concurrency, Part 1: Tasks, Executors, and Priority Escalation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/swift-concurrency-tasks-executors-priority" target="_blank">Swift Concurrency, Part 1: Tasks, Executors, and Priority Escalation</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-17 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914633&w=600" alt="Memory Is a Distributed Systems Problem: Designing Conversational AI That Stays Coherent at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -194,24 +219,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/03/jpmc-multicloud-product-strategy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: Your Multi-Cloud Strategy Is a Product Problem — Treat It Like One</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-03-17 13:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914562&w=600" alt="Observability in AI Pipelines: Why “The System Is Up” Means Nothing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/observability-in-ai-pipelines-why-the-system-is-up" target="_blank">Observability in AI Pipelines: Why “The System Is Up” Means Nothing</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-17 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fccc89cx73itso4ddn7vt.jpg" alt="Connecting Power BI to SQL Databases: A Practical Guide for Data Analysts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lawrence_murithi/connecting-power-bi-to-sql-databases-a-practical-guide-for-data-analysts-5745" target="_blank">Connecting Power BI to SQL Databases: A Practical Guide for Data Analysts</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-17 12:03</span>
             </div>
         </div>
 </div>
@@ -233,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/Tesla.jpeg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Tesla&#x27;s SF Supercharger turns quiet alley into all-night pee-and-bass festival" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/17/teslas-sf-supercharger-turns-quiet-alley-into-all-night-pee-and-bass-festival.html" target="_blank">Tesla&#x27;s SF Supercharger turns quiet alley into all-night pee-and-bass festival</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-17 15:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/Xbox-gta-1280x720.jpg" alt="Take-Two Boss Calls The Idea That AI Could Create Something Like GTA 6 ‘Laughable’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,20 +294,20 @@
                 <span class="time">2026-03-17 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/warhammer-40k-commisar-yarrick-1280x853.jpg" alt="‘Warhammer 40,000’ Has Found Another Old Hero to Bring Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/warhammer-40k-commissar-yarrick-new-model-2000734160" target="_blank">‘Warhammer 40,000’ Has Found Another Old Hero to Bring Back</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-17 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1773639229-20260317.png" alt="Saturday Morning Breakfast Cereal - Philosophy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/philosophy-5" target="_blank">Saturday Morning Breakfast Cereal - Philosophy</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-17 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5787.png" alt="Couldn&#x27;t Be THAT Bad" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -315,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 15:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 16:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
