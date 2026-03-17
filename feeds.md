@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-17 05:26:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-17 06:18:09 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, March 17, 2026 - 05:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, March 17, 2026 - 06:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/17/iran-negotiating-with-fifa-to-move-world-cup-2026-matches-from-us-to-mexico?traffic_source=rss" target="_blank">Iran negotiating with FIFA to move World Cup 2026 matches from US to Mexico</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-17 05:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +102,20 @@
                 <span class="time">2026-03-16 23:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/rubio-1-ap-er-260306_1772839817883_hpMain_4x3t_384.jpg" alt="Rubio orders US diplomats to push countries to act against Iran amid &#x27;risk of attack&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/rubio-orders-us-diplomats-push-countries-swift-action/story?id=131127950" target="_blank">Rubio orders US diplomats to push countries to act against Iran amid &#x27;risk of attack&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-16 22:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" alt="Sam&#x27;s Club Coupons and Deals: Save up to 60% in March 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sams-club-coupon/" target="_blank">Sam&#x27;s Club Coupons and Deals: Save up to 60% in March 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-17 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,15 +161,6 @@
                 <span class="time">2026-03-16 20:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b85400d71f696ffbdeda26/master/pass/If-You're-Filing-Your-Taxes-With-TurboTax,-Prices-Go-Up-in-Two-Days.jpg" alt="File Your Taxes With TurboTax Full Service Now Before Prices Go Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/turbotax-deal-326/" target="_blank">File Your Taxes With TurboTax Full Service Now Before Prices Go Up</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-16 20:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,9 +170,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tyson_cung/disney-built-a-walking-talking-olaf-robot-and-nvidia-powered-the-whole-thing-7em" target="_blank">Disney Built a Walking, Talking Olaf Robot — And Nvidia Powered the Whole Thing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-17 06:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aws-builders/three-responsibilities-of-a-global-application-part-2-48g" target="_blank">Three Responsibilities of a Global Application (Part 2)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-17 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://translate.kagi.com/?from=en&to=LinkedIn+speak" target="_blank">Kagi Translate now supports LinkedIn Speak as an output language</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-17 04:39</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +218,6 @@
                 <span class="title"><a href="https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/" target="_blank">US SEC preparing to scrap quarterly reporting requirement</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-17 00:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/canonical-announces-it-will-distribute-nvidia-doca-ofed-in-ubuntu" target="_blank">Canonical announces it will distribute NVIDIA DOCA-OFED in Ubuntu</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-03-16 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nebulagg/how-to-stream-ai-agent-responses-in-5-min-1i0l" target="_blank">How to Stream AI Agent Responses in 5 Min</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-16 21:01</span>
             </div>
         </div>
 </div>
@@ -340,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 05:26 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 06:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
