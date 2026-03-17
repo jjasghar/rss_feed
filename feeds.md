@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-17 13:28:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-17 14:22:25 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, March 17, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, March 17, 2026 - 14:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/3/17/us-envoys-meet-hamas-in-cairo-to-salvage-fragile-gaza-truce?traffic_source=rss" target="_blank">US envoys meet Hamas in Cairo to salvage fragile Gaza truce</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-17 14:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +96,20 @@
                 <span class="time">2026-03-17 11:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc6f/live/80869600-21e4-11f1-a42b-a3f1101f2a6d.jpg" alt="Typical new mortgage costs soar £788 a year in two weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0mgd3z1e9ko?at_medium=RSS&at_campaign=rss" target="_blank">Typical new mortgage costs soar £788 a year in two weeks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-17 11:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/17/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/" target="_blank">MacBook Neo, AirPods Max 2, iPhone 17e, and everything else Apple announced this month</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-17 13:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +155,20 @@
                 <span class="time">2026-03-17 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/895836/klumpen-off-grid-utilities-for-cabins" target="_blank">Leaving civilization is now easier with this ‘off-grid utility core’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-17 10:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914633&w=600" alt="Memory Is a Distributed Systems Problem: Designing Conversational AI That Stays Coherent at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/memory-distributed-systems-conversational-ai-coherence" target="_blank">Memory Is a Distributed Systems Problem: Designing Conversational AI That Stays Coherent at Scale</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-17 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/03/jpmc-multicloud-product-strategy/en/headerimage/generatedHeaderImage-1773667022672.jpg" alt="QCon London 2026: Your Multi-Cloud Strategy Is a Product Problem — Treat It Like One" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +214,6 @@
                 <span class="time">2026-03-17 10:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/santifer/i-built-a-multi-agent-job-search-system-with-claude-code-631-evaluations-12-modes-2cd0" target="_blank">I Built a Multi-Agent Job Search System with Claude Code — 631 Evaluations, 12 Modes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-17 10:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKXM7Q79BQZQP3WB09X54X3H/hero-image.jpg" alt="You Can Turn an Old Android Phone Into a Wifi Extender for Your Home Network" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/you-can-turn-an-old-android-phone-into-a-wifi-extender?utm_medium=RSS" target="_blank">You Can Turn an Old Android Phone Into a Wifi Extender for Your Home Network</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-17 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Omoway-Electric-Motorbike-1280x853.png" alt="Self-Balancing Bikes From the ‘Tesla of Motorcycles’ Are Ready for Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +287,6 @@
                 <span class="time">2026-03-17 08:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/jensen-claws-1280x720.jpg" alt="The Most Valuable Company in the World Welcomes You to Its Conference with ‘Veggie-Tales’-Adjacent Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-most-valuable-company-in-the-world-welcomes-you-to-its-conference-with-veggie-tales-adjacent-slop-2000732710" target="_blank">The Most Valuable Company in the World Welcomes You to Its Conference with ‘Veggie-Tales’-Adjacent Slop</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-17 02:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 14:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
