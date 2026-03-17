@@ -1,29 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-17 17:20:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-17 18:14:28 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 20 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, March 17, 2026 - 17:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, March 17, 2026 - 18:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/17/starmer-tells-zelenskyy-focus-on-ukraine-as-iran-war-diverts-attention?traffic_source=rss" target="_blank">Starmer, Zelenskyy urge ‘focus’ on Ukraine as Iran war diverts attention</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-17 17:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b41/live/90b14820-220e-11f1-934f-036468834728.jpg" alt="Top US counterterrorism official resigns over Iran war, urging Trump to &#x27;reverse course&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,20 +97,38 @@
                 <span class="time">2026-03-17 14:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/3/17/us-envoys-meet-hamas-in-cairo-to-salvage-fragile-gaza-truce?traffic_source=rss" target="_blank">US envoys meet Hamas in Cairo to salvage fragile Gaza truce</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-17 14:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing" target="_blank">Nvidia&amp;#8217;s DLSS 5 is like motion smoothing for video games, but worse</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-17 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b9871abb6d25bf7dcc8470/master/pass/These-Sonos-Over-Ear-Headphones-Are-$100-Off.jpg" alt="These Sonos Over-Ear Headphones Are $100 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sonos-ace-deal-326/" target="_blank">These Sonos Over-Ear Headphones Are $100 Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-17 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2252442956-500x500.jpg" alt="Trump&#x27;s plan to shut down weather and climate center triggers lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/03/university-group-sues-trump-administration-over-shutdown-of-climate-center/" target="_blank">Trump&#x27;s plan to shut down weather and climate center triggers lawsuit</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-17 17:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -125,38 +156,20 @@
                 <span class="time">2026-03-17 15:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/switch-2-dock-500x500.jpeg" alt="Nintendo Switch 2 update adds one possible fix for blurry OG Switch games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/nintendo-switch-2-update-adds-one-possible-fix-for-blurry-og-switch-games/" target="_blank">Nintendo Switch 2 update adds one possible fix for blurry OG Switch games</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-17 15:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/17/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/" target="_blank">MacBook Neo, AirPods Max 2, iPhone 17e, and everything else Apple announced this month</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-17 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/895884/poco-x8-pro-max-8500mah-battery-dynamic-rgb-lights-iron-man" target="_blank">Poco’s first Pro Max phone earns the name with an 8,500mAh battery</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-17 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914588&w=600" alt="How Deterministic Rules Engines Improve Compliance and Auditability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-deterministic-rules-engines-improve-compliance" target="_blank">How Deterministic Rules Engines Improve Compliance and Auditability</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-17 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +215,6 @@
                 <span class="time">2026-03-17 16:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/03/17/keeping-the-lights-on-for-open-source/" target="_blank">Keeping the lights on for open source</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-03-17 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKYBPXJ7R68691SK60SK932Y/hero-image.jpg" alt="Amazon Is Now Offering One-Hour and Three-Hour Delivery Options in Select Areas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/amazon-is-now-offering-one-hour-and-three-hour-delivery-options?utm_medium=RSS" target="_blank">Amazon Is Now Offering One-Hour and Three-Hour Delivery Options in Select Areas</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-17 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Dune-Part-Three-Emperor-1280x853.jpg" alt="How ‘Dune: Part Three’ Is Changing the Entire ‘Dune’ Franchise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-dune-part-three-is-changing-the-entire-dune-franchise-2000734592" target="_blank">How ‘Dune: Part Three’ Is Changing the Entire ‘Dune’ Franchise</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-17 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/PRAGMATA_SS_15-1280x720.jpg" alt="Hands-On Preview: Capcom’s Pragmata Isn’t Just Old-School Cool, It’s Also Got Heart" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,24 +286,6 @@
                 <span class="title"><a href="https://gizmodo.com/11-2000734529" target="_blank">11</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-17 15:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKXM7Q79BQZQP3WB09X54X3H/hero-image.jpg" alt="You Can Turn an Old Android Phone Into a Wifi Extender for Your Home Network" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/you-can-turn-an-old-android-phone-into-a-wifi-extender?utm_medium=RSS" target="_blank">You Can Turn an Old Android Phone Into a Wifi Extender for Your Home Network</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-17 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Omoway-Electric-Motorbike-1280x853.png" alt="Self-Balancing Bikes From the ‘Tesla of Motorcycles’ Are Ready for Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/self-balancing-bikes-from-the-tesla-of-motorcycles-are-ready-for-production-2000734455" target="_blank">Self-Balancing Bikes From the ‘Tesla of Motorcycles’ Are Ready for Production</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-17 13:25</span>
             </div>
         </div>
 </div>
@@ -321,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 17:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 18:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
