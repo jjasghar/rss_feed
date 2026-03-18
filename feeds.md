@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-18 16:20:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-18 17:20:14 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, March 18, 2026 - 16:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, March 18, 2026 - 17:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/595c/live/d5b5f0e0-22e2-11f1-9c64-25f36d76b36f.jpg" alt="Iran&#x27;s intelligence minister Esmail Khatib killed in air strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss" target="_blank">Iran&#x27;s intelligence minister Esmail Khatib killed in air strike</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-18 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/vv-1-ht-er-260317_1773786225888_hpMain_4x3t_384.jpg" alt="US, allied radar sites in Middle East struck at least 10 times: Visual analysis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/us-allied-radar-sites-middle-east-struck-10/story?id=131164670" target="_blank">US, allied radar sites in Middle East struck at least 10 times: Visual analysis</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-18 17:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/18/nx-s1-5751787/mamdani-put-ramadan-at-the-center-of-nycs-cultural-life-bringing-joy-and-a-backlash" target="_blank">Mamdani put Ramadan at the center of NYC&#x27;s cultural life, bringing joy -- and a backlash</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-18 16:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67a1/live/72d0d6a0-22da-11f1-90cb-27c5deaacbc1.png" alt="PM swerves questions on whether he spoke to Mandelson over Epstein friendship" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,38 +97,38 @@
                 <span class="time">2026-03-18 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/18/senegal-govt-alleges-corruption-in-decision-to-hand-afcon-title-to-morocco?traffic_source=rss" target="_blank">Senegal govt alleges corruption in decision to hand AFCON title to Morocco</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-18 13:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/18/nx-s1-5749488/cockroach-pair-bonding-relationships-wing-eating" target="_blank">These roaches form exclusive long-term relationships after eating each other&#x27;s wings</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-18 13:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/18/israel-says-it-killed-iranian-intelligence-chief-khatib?traffic_source=rss" target="_blank">Israel says it killed Iranian intelligence chief Khatib</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-18 13:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/" target="_blank">Rebel Audio is a new AI podcasting tool aimed at first-time creators</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-18 17:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/P90632514_highRes_munich-ger-16-march--500x500.jpg" alt="A station wagon is entering one of the hardest 24-hour races in the world" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/03/bmw-says-station-wagons-are-no-joke-so-this-ones-going-to-the-nurburgring/" target="_blank">A station wagon is entering one of the hardest 24-hour races in the world</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-18 16:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b995d44c62634832fcba44/master/pass/politics_confessions_ice_agents.jpg" alt="Confessions of the ICE Agent Whisperer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/confessions-of-the-ice-agent-whisperer/" target="_blank">Confessions of the ICE Agent Whisperer</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-18 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -128,38 +156,20 @@
                 <span class="time">2026-03-18 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/896564/spider-man-brand-new-day-trailer" target="_blank">The hits keep coming in Spider-Man: Brand New Day’s first trailer</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-18 13:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/18/mave-health-aims-to-improve-attention-and-mood-with-its-brain-stimulating-headset/" target="_blank">Mave Health aims to improve attention and mood with its brain-stimulating headset</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-18 12:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a80a94a07d5fa56904024f/master/pass/Humanscale%20Diffrient%20Lounge%20SOURCE%20Julian%20Chokkattu(3).jpg" alt="Humanscale’s New $15K Lounge Chair Is the Ultimate Home Office Workstation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/humanscale-diffrient-lounge/" target="_blank">Humanscale’s New $15K Lounge Chair Is the Ultimate Home Office Workstation</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-18 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/defenderandpro" target="_blank">Canonical collaborates with Microsoft to strengthen enterprise-grade Linux protection</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-03-18 16:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,28 +200,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jakubb_ing/surrealdb-is-not-a-silver-bullet-3-scenarios-where-you-still-need-a-backend-36h5" target="_blank">SurrealDB is Not a Silver Bullet: 3 Scenarios Where You Still Need a Backend</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-18 15:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914579&w=600" alt="Fast Data Access Part 2: From Manual Hacks to Modern Stacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/real-time-risk-pipeline-gemfire-spark-springboot" target="_blank">Fast Data Access Part 2: From Manual Hacks to Modern Stacks</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-18 15:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://dbushell.com/2026/01/09/death-to-scroll-fade/" target="_blank">Death to Scroll Fade</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-18 15:23</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-612-linux-70-btrfs" target="_blank">Btrfs Performance From Linux 6.12 To Linux 7.0 Shows Regressions</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-18 15:00</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jakubb_ing/surrealdb-is-not-a-silver-bullet-3-scenarios-where-you-still-need-a-backend-36h5" target="_blank">SurrealDB is Not a Silver Bullet: 3 Scenarios Where You Still Need a Backend</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-18 15:13</span>
             </div>
         </div>
 </div>
@@ -233,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/cats.jpeg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Whimsical photo book imagines kittens as world travelers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/18/whimsical-photo-book-imagines-kittens-as-world-travelers.html" target="_blank">Whimsical photo book imagines kittens as world travelers</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-18 16:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Google-Nest-Product-Launch-22-1280x853.jpg" alt="Using Gemini to Turn on Your Lights Is Now 40% Faster—but It’s Still Too Slow" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +286,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/samsung-smart-monitor-m9-sale-march-2026?utm_medium=RSS" target="_blank">This Samsung Smart Monitor Is $300 Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-18 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Axiom-Station-1280x853.jpg" alt="5 Companies Competing to Replace the International Space Station" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/5-companies-competing-to-replace-the-international-space-station-2000734746" target="_blank">5 Companies Competing to Replace the International Space Station</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-18 10:00</span>
             </div>
         </div>
 </div>
@@ -333,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 16:20 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 17:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
