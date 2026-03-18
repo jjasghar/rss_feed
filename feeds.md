@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-03-18 08:10:09 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-18 09:14:47 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, March 18, 2026 - 08:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, March 18, 2026 - 09:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +99,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69b9cb6d7333ebe67e391319/master/pass/science_Turinawards_Getty.jpg" alt="A Quantum Leap for the Turing Award" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-quantum-leap-for-the-turing-award/" target="_blank">A Quantum Leap for the Turing Award</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-18 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg" alt="50% Off DoorDash Promo Code | March 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -152,20 +152,20 @@
                 <span class="time">2026-03-17 21:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/" target="_blank">Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-17 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ohmygod/solanas-token-2022-transfer-hooks-how-a-safe-feature-imported-ethereums-deadliest-bug-class-16p6" target="_blank">Solana&#x27;s Token-2022 Transfer Hooks: How a &quot;Safe&quot; Feature Imported Ethereum&#x27;s Deadliest Bug Class</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-18 09:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +209,6 @@
                 <span class="title"><a href="https://blog.exe.dev/ssh-host-header" target="_blank">SSH has no Host header</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-18 05:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aloycwl/mastering-smart-contract-development-a-deep-dive-into-the-openclaw-solidity-lsp-skill-4ho2" target="_blank">Mastering Smart Contract Development: A Deep Dive into the OpenClaw Solidity LSP Skill</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-18 04:30</span>
             </div>
         </div>
 </div>
@@ -302,6 +293,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/03/18/it-no-so-good" target="_blank">It No So Good</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-18 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://ext.penny-arcade.com/comic/2026/03/18/it-no-so-good" target="_blank">It No So Good</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-03-18 07:01</span>
@@ -330,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 08:10 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 09:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
