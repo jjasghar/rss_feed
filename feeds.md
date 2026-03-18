@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-18 00:09:24 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-03-18 01:30:58 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, March 18, 2026 - 00:09 UTC</div>
+    <div class="newspaper-date">Wednesday, March 18, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/18/who-is-joe-kent-and-why-did-he-resign-as-trumps-counterterrorism-chief?traffic_source=rss" target="_blank">Who is Joe Kent, and why did he resign as Trump’s counterterrorism chief?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-18 01:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/17/nx-s1-5751165/kalshi-criminal-charges-arizona" target="_blank">Arizona AG files criminal charges against Kalshi over &#x27;illegal gambling&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-18 00:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e22/live/20bf1990-2257-11f1-b297-95b0a0a8331e.jpg" alt="Zelensky calls for Trump and Starmer to meet and find common ground" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,24 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/17/nx-s1-5746006/uss-ford-iran" target="_blank">USS Ford has seen war, fire and plumbing woes as it nears a record long deployment</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-17 21:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-iran-war-dominic-waghorn_7195722.jpg?20260317200609" alt="Inside Iran&#x27;s children&#x27;s wards: The painful human cost of US-Israel airstrikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/inside-irans-childrens-wards-the-devastating-human-cost-of-us-israeli-airstrikes-13520923" target="_blank">Inside Iran&#x27;s children&#x27;s wards: The painful human cost of US-Israel airstrikes</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-17 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/17/rubio-says-cuba-needs-to-get-new-people-in-charge-as-us-ratchets-pressure?traffic_source=rss" target="_blank">Rubio says Cuba needs to ‘get new people in charge’ as US ratchets pressure</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-17 20:48</span>
             </div>
         </div>
 </div>
@@ -166,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ghostlyinc/are-you-more-productive-coding-outside-your-desk-9e4" target="_blank">Are you more productive coding outside your desk?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-18 01:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pixotter/webp-vs-avif-which-next-gen-image-format-wins-in-2026-3m1d" target="_blank">WebP vs AVIF: Which Next-Gen Image Format Wins in 2026?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-18 00:07</span>
@@ -190,30 +201,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18896863&w=600" alt="Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-swarms-langgraph-strands-openai" target="_blank">Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-17 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914603&w=600" alt="Automating IBM MQ Console (MQ Web Server) Startup Post-Server Reboot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/automating-ibm-mq-console-startup-post-reboot" target="_blank">Automating IBM MQ Console (MQ Web Server) Startup Post-Server Reboot</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-17 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://terathon.com/blog/decade-slug.html" target="_blank">A Decade of Slug</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-17 18:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914588&w=600" alt="How Deterministic Rules Engines Improve Compliance and Auditability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-deterministic-rules-engines-improve-compliance" target="_blank">How Deterministic Rules Engines Improve Compliance and Auditability</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-17 18:00</span>
             </div>
         </div>
 </div>
@@ -295,6 +297,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5788.png" alt="Stands To Reason" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5788" target="_blank">Stands To Reason</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-03-18 00:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1773639229-20260317.png" alt="Saturday Morning Breakfast Cereal - Philosophy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -303,22 +314,13 @@
                 <span class="time">2026-03-17 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5787.png" alt="Couldn&#x27;t Be THAT Bad" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5787" target="_blank">Couldn&#x27;t Be THAT Bad</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-03-17 00:55</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 00:09 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
