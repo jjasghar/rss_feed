@@ -1,32 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-03-18 18:16:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-18 19:19:40 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 24 feeds processed -->
+<!-- Generated 9 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, March 18, 2026 - 18:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, March 18, 2026 - 19:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/18/qatar-says-iran-missile-attack-sparks-fire-causes-damage-at-gas-facility?traffic_source=rss" target="_blank">Qatar says Iran missile attack sparks fire, causes damage at gas facility</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-18 18:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-waghorn-funeral-iran_7196739.jpg?20260318182011" alt="Iranians defiant as thousands attend funeral for security chief and crew of sunken navy ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/iranians-defiant-as-thousands-attend-funeral-for-security-chief-larijani-and-crew-of-sunken-navy-ship-13521468" target="_blank">Iranians defiant as thousands attend funeral for security chief and crew of sunken navy ship</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-18 17:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/595c/live/d5b5f0e0-22e2-11f1-9c64-25f36d76b36f.jpg" alt="Iran&#x27;s intelligence minister Esmail Khatib killed in air strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,29 +106,20 @@
                 <span class="time">2026-03-18 16:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67a1/live/72d0d6a0-22da-11f1-90cb-27c5deaacbc1.png" alt="PM swerves questions on whether he spoke to Mandelson over Epstein friendship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c7vjv17q0rmo?at_medium=RSS&at_campaign=rss" target="_blank">PM swerves questions on whether he spoke to Mandelson over Epstein friendship</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-18 15:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/2026/3/18/trump-wants-to-overthrow-the-cuban-president?traffic_source=rss" target="_blank">Trump wants to overthrow the Cuban president</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-18 14:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/New-Moon-Rotated-060425-500x500.jpg" alt="A private space company has a radical new plan to bag an asteroid" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/03/a-private-space-company-has-a-radical-new-plan-to-bag-an-asteroid/" target="_blank">A private space company has a radical new plan to bag an asteroid</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-18 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +165,6 @@
                 <span class="time">2026-03-18 16:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b995d44c62634832fcba44/master/pass/politics_confessions_ice_agents.jpg" alt="Confessions of the ICE Agent Whisperer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/confessions-of-the-ice-agent-whisperer/" target="_blank">Confessions of the ICE Agent Whisperer</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-18 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +180,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/building-whatsapp-with-jean-lee" target="_blank">Building WhatsApp with Jean Lee</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-03-18 17:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914983&w=600" alt="How LLMs Reach 1 Million Token Context Windows — Context Parallelism and Ring Attention" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -179,39 +198,30 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/gnome-50-desktop.webp?resize=406%2C232&amp;ssl=1" alt="GNOME 50 released, this is what’s new" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/defenderandpro" target="_blank">Canonical collaborates with Microsoft to strengthen enterprise-grade Linux protection</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-03-18 16:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/__be2942592/why-75-of-resumes-get-rejected-before-a-human-sees-them-and-how-to-fix-yours-18de" target="_blank">Why 75% of Resumes Get Rejected Before a Human Sees Them (And How to Fix Yours)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-18 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18877389&w=600" alt="Is Your “Human-in-the-Loop” Actually Slowing You Down? Here’s What We Learned" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/human-in-the-loop-bottlenecks-lessons-learned" target="_blank">Is Your “Human-in-the-Loop” Actually Slowing You Down? Here’s What We Learned</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-18 16:00</span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/gnome-50-released" target="_blank">GNOME 50 released, this is what’s new</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-18 16:40</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-Asahi-Remix-43" target="_blank">Fedora Asahi Remix 43 Released For Apple Silicon Macs</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-50-Released" target="_blank">GNOME 50 Released With Many Fantastic Improvements</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-03-18 15:48</span>
+                <span class="time">2026-03-18 16:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/defenderandpro" target="_blank">Canonical collaborates with Microsoft to strengthen enterprise-grade Linux protection</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-03-18 16:15</span>
             </div>
         </div>
 </div>
@@ -233,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/marathons2.jpg" alt="Marathon Has Fans Racing To Kill 500 Million Robots Like It’s Helldivers 2 And It’s Taking Longer Than Expected" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marathon-has-fans-racing-to-kill-500-million-robots-like-its-helldivers-2-and-its-taking-longer-than-expected-2000680043" target="_blank">Marathon Has Fans Racing To Kill 500 Million Robots Like It’s Helldivers 2 And It’s Taking Longer Than Expected</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-18 19:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Dune-Part-Three-Jason-Momoa-1280x853.jpg" alt="The Cast of ‘Dune: Part Three’ Tiptoed Around Its Biggest Mysteries" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +295,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/18/set-yourself-up-for-success-with-89-off-this-windows-pro-11-bundle.html" target="_blank">Set yourself up for success with 89% off this Windows Pro 11 bundle</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-18 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/BMW-i30-Front-1280x853.jpg" alt="BMW’s New i3 Sedan Targets Tesla Model 3 in a World of Electric SUVs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/bmws-new-i3-sedan-targets-tesla-model-3-in-a-world-of-electric-suvs-2000734998" target="_blank">BMW’s New i3 Sedan Targets Tesla Model 3 in a World of Electric SUVs</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-18 14:20</span>
             </div>
         </div>
 </div>
@@ -342,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 18:16 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 19:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
