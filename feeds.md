@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-18 15:23:55 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-03-18 16:20:14 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, March 18, 2026 - 15:24 UTC</div>
+    <div class="newspaper-date">Wednesday, March 18, 2026 - 16:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -172,6 +164,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/__be2942592/why-75-of-resumes-get-rejected-before-a-human-sees-them-and-how-to-fix-yours-18de" target="_blank">Why 75% of Resumes Get Rejected Before a Human Sees Them (And How to Fix Yours)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-18 16:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18877389&w=600" alt="Is Your “Human-in-the-Loop” Actually Slowing You Down? Here’s What We Learned" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/human-in-the-loop-bottlenecks-lessons-learned" target="_blank">Is Your “Human-in-the-Loop” Actually Slowing You Down? Here’s What We Learned</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-18 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-Asahi-Remix-43" target="_blank">Fedora Asahi Remix 43 Released For Apple Silicon Macs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-18 15:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jakubb_ing/surrealdb-is-not-a-silver-bullet-3-scenarios-where-you-still-need-a-backend-36h5" target="_blank">SurrealDB is Not a Silver Bullet: 3 Scenarios Where You Still Need a Backend</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-18 15:13</span>
@@ -193,33 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/linux-612-linux-70-btrfs" target="_blank">Btrfs Performance From Linux 6.12 To Linux 7.0 Shows Regressions</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-18 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914658&w=600" alt="Orchestrating the Agentic Explosion: A Unified Governance Framework for the AI-First Enterprise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/agentic-governance-ai-first-enterprise" target="_blank">Orchestrating the Agentic Explosion: A Unified Governance Framework for the AI-First Enterprise</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-18 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frvutkq5layeg3y2crmtd.JPG" alt="I tested the same AI model against itself. Memory won 4/5." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/teolex2020/i-tested-the-same-ai-model-against-itself-memory-won-45-336k" target="_blank">I tested the same AI model against itself. Memory won 4/5.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-18 13:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/sbom-viktor-petersson/en/headerimage/generatedHeaderImage-1773839022229.jpg" alt="QCon London 2026: SBOMs Move From Best Practice to Legal Obligation as CRA Enforcement Looms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/sbom-viktor-petersson/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: SBOMs Move From Best Practice to Legal Obligation as CRA Enforcement Looms</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-18 13:04</span>
             </div>
         </div>
 </div>
@@ -301,6 +293,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1773690047-20260318.png" alt="Saturday Morning Breakfast Cereal - Where" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/where-4" target="_blank">Saturday Morning Breakfast Cereal - Where</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-18 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -332,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 15:24 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 16:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
