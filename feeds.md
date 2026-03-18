@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-18 17:20:14 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-18 18:16:14 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Generated 11 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, March 18, 2026 - 17:20 UTC</div>
+    <div class="newspaper-date">Wednesday, March 18, 2026 - 18:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -71,6 +70,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773851627754_now_brk_gabbard_ossoff_iran_nuclear_260318_1920x1080-04p1qu.jpg" alt="Ossoff questions Gabbard about Iran posing an &#x27;imminent nuclear threat&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/ossoff-questions-gabbard-about-iran-posing-an-imminent-nuclear-threat-259530309799" target="_blank">Ossoff questions Gabbard about Iran posing an &#x27;imminent nuclear threat&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-18 16:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67a1/live/72d0d6a0-22da-11f1-90cb-27c5deaacbc1.png" alt="PM swerves questions on whether he spoke to Mandelson over Epstein friendship" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -88,20 +96,38 @@
                 <span class="time">2026-03-18 14:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/18/nx-s1-5745092/mr-flower-fantastic-new-york-garden" target="_blank">A mysterious floral artist has taken over the New York Botanical Garden</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-18 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer" target="_blank">ChatGPT did not cure a dog’s cancer</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-18 18:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b9c55f4318d2003e7286fe/master/pass/business_walmart_openai_shopping_chatbot.jpg" alt="Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/" target="_blank">Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-18 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-500x500.jpg" alt="Federal cyber experts called Microsoft&#x27;s cloud a &quot;pile of shit,&quot; approved it anyway" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/" target="_blank">Federal cyber experts called Microsoft&#x27;s cloud a &quot;pile of shit,&quot; approved it anyway</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-18 17:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,38 +155,29 @@
                 <span class="time">2026-03-18 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/18/marquis-says-over-672000-people-had-personal-and-financial-data-stolen-in-ransomware-attack/" target="_blank">Marquis says over 672,000 people had personal and financial data stolen in ransomware attack</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-18 14:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b86b74be9e27104c501c7c/master/pass/security_iphone_Getty.jpg" alt="Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/" target="_blank">Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-18 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/18/russians-caught-stealing-personal-data-from-ukrainians-with-new-advanced-iphone-hacking-tools/" target="_blank">Russians caught stealing personal data from Ukrainians with new advanced iPhone hacking tools</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-18 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nathanielc85523/why-ai-agents-pay-for-skills-but-not-data-feeds-368-probe-analysis-m2d" target="_blank">Why AI Agents Pay for Skills but Not Data Feeds: 368-Probe Analysis</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-18 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914983&w=600" alt="How LLMs Reach 1 Million Token Context Windows — Context Parallelism and Ring Attention" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-llms-reach-1-million-token-context-windows" target="_blank">How LLMs Reach 1 Million Token Context Windows — Context Parallelism and Ring Attention</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-18 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +214,6 @@
                 <span class="time">2026-03-18 15:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dbushell.com/2026/01/09/death-to-scroll-fade/" target="_blank">Death to Scroll Fade</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-18 15:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jakubb_ing/surrealdb-is-not-a-silver-bullet-3-scenarios-where-you-still-need-a-backend-36h5" target="_blank">SurrealDB is Not a Silver Bullet: 3 Scenarios Where You Still Need a Backend</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-18 15:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Dune-Part-Three-Jason-Momoa-1280x853.jpg" alt="The Cast of ‘Dune: Part Three’ Tiptoed Around Its Biggest Mysteries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-cast-of-dune-part-three-tiptoed-around-its-biggest-mysteries-2000735069" target="_blank">The Cast of ‘Dune: Part Three’ Tiptoed Around Its Biggest Mysteries</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-18 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/lace-ribbons.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This edible lace bends like real fabric — but it&#x27;s made from sugar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/18/edible-lace-ribbons-look-so-real-you-wont-want-to-eat-them.html" target="_blank">This edible lace bends like real fabric — but it&#x27;s made from sugar</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-18 17:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/cats.jpeg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Whimsical photo book imagines kittens as world travelers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +287,6 @@
                 <span class="time">2026-03-18 14:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2506299041.jpg?fit=2000%2C928&amp;quality=60&amp;ssl=1" alt="How do you score on the Corporate Bullshit Receptivity Scale?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/18/how-do-you-score-on-the-corporate-bullshit-receptivity-scale.html" target="_blank">How do you score on the Corporate Bullshit Receptivity Scale?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-18 13:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKZHWYMB0HW1T9PRXAZE4VKM/hero-image.png" alt="This Samsung Smart Monitor Is $300 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-smart-monitor-m9-sale-march-2026?utm_medium=RSS" target="_blank">This Samsung Smart Monitor Is $300 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-18 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,6 +320,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/landscape_features.png" alt="Landscape Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3221/" target="_blank">Landscape Features</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-03-18 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5788.png" alt="Stands To Reason" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -334,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 17:20 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 18:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
