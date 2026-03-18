@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-18 05:28:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-18 06:18:47 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, March 18, 2026 - 05:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, March 18, 2026 - 06:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/18/g-s1-114255/ruling-africa-cup-morocco-champion" target="_blank">Ruling overturns Senegal&#x27;s Africa Cup title and declares Morocco the champion</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-18 05:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/18/who-is-joe-kent-and-why-did-he-resign-as-trumps-counterterrorism-chief?traffic_source=rss" target="_blank">Who is Joe Kent, and why did he resign as Trump’s counterterrorism chief?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-18 01:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/17/nx-s1-5751165/kalshi-criminal-charges-arizona" target="_blank">Arizona AG files criminal charges against Kalshi over &#x27;illegal gambling&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-18 00:08</span>
             </div>
         </div>
 </div>
@@ -171,9 +165,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gauravtayade11/i-got-paranoid-about-online-tools-logging-my-secrets-so-i-built-my-own-1j6o" target="_blank">I got paranoid about online tools logging my secrets — so I built my own</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-18 06:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/planifycapital/what-should-first-time-investors-know-about-sterlite-electric-unlisted-deals-oe2" target="_blank">What Should First-Time Investors Know About Sterlite Electric Unlisted Deals?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-18 05:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.exe.dev/ssh-host-header" target="_blank">SSH has no Host header</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-18 05:18</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +215,6 @@
                 <span class="time">2026-03-18 01:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/CMake-4.3-Released" target="_blank">CMake 4.3 Released With Package Import/Export Using The Common Package Specification</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-18 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pixotter/webp-vs-avif-which-next-gen-image-format-wins-in-2026-3m1d" target="_blank">WebP vs AVIF: Which Next-Gen Image Format Wins in 2026?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-18 00:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/highguardsa-1280x722.jpg" alt="Highguard Players Get Surprise Refunds On PS5 As Studio Shuts Its Doors For Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/highguard-refunds-ps5-steam-xbox-shutdown-2000679761" target="_blank">Highguard Players Get Surprise Refunds On PS5 As Studio Shuts Its Doors For Good</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-18 06:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/GettyImages-2243306175-1280x854.jpg" alt="Arizona AG Hits Kalshi with Criminal Charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +288,6 @@
                 <span class="time">2026-03-17 21:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/TalesFrom85-1280x853.jpg" alt="Oh, So Now Netflix Is Interested in More Theatrical Releases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/netflix-theaterical-release-stranger-things-tales-from-85-2000734715" target="_blank">Oh, So Now Netflix Is Interested in More Theatrical Releases</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-17 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 05:28 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 06:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
