@@ -1,29 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-18 21:08:44 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-18 22:05:09 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 20 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, March 18, 2026 - 21:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, March 18, 2026 - 22:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/18/nigerias-president-tinubu-meets-royals-in-historic-uk-state-visit?traffic_source=rss" target="_blank">Nigeria’s President Tinubu meets royals in UK state visit</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-18 21:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,20 +100,29 @@
                 <span class="time">2026-03-18 17:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/595c/live/d5b5f0e0-22e2-11f1-9c64-25f36d76b36f.jpg" alt="Iran&#x27;s intelligence minister Esmail Khatib killed in air strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss" target="_blank">Iran&#x27;s intelligence minister Esmail Khatib killed in air strike</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-18 17:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/897145/kash-patel-ron-wyden-fbi-location-data-no-warrant" target="_blank">The FBI is buying Americans’ location data</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-18 21:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2256968212-500x500-1773867440.jpg" alt="Musk’s tactic of blaming users for Grok sex images may be foiled by EU law" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/" target="_blank">Musk’s tactic of blaming users for Grok sex images may be foiled by EU law</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-18 21:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,24 +159,6 @@
                 <span class="time">2026-03-18 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer" target="_blank">ChatGPT did not cure a dog’s cancer</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-18 18:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b9c55f4318d2003e7286fe/master/pass/business_walmart_openai_shopping_chatbot.jpg" alt="Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/" target="_blank">Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-18 18:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -161,9 +168,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/agenthustler/bright-data-review-2026-is-it-worth-the-price-honest-assessment-3gbe" target="_blank">Bright Data Review 2026: Is It Worth the Price? (Honest Assessment)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-18 22:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/myougatheaxo/claude-codedezhi-obuziekutowoshe-ji-surubu-bian-xing-deng-zhi-xing-domeinbiao-xian-noxing-an-quan-hua-53cp" target="_blank">Claude Codeで値オブジェクトを設計する：不変性・等値性・ドメイン表現の型安全化</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-18 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-Experiment-DRM-GPUSVM" target="_blank">AMD Prototyping AMDGPU SVM Atop DRM_GPUSVM Framework</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-18 20:24</span>
             </div>
         </div>
 <div class="story">
@@ -193,24 +218,6 @@
                 <span class="time">2026-03-18 17:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914983&w=600" alt="How LLMs Reach 1 Million Token Context Windows — Context Parallelism and Ring Attention" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-llms-reach-1-million-token-context-windows" target="_blank">How LLMs Reach 1 Million Token Context Windows — Context Parallelism and Ring Attention</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-18 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/gnome-50-desktop.webp?resize=406%2C232&amp;ssl=1" alt="GNOME 50 released, this is what’s new" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/gnome-50-released" target="_blank">GNOME 50 released, this is what’s new</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-18 16:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/headphone-a-vs-headphone-1-compa-1280x853.jpg" alt="Nothing Headphone A vs. Headphone 1: Which Pair of ANC Wireless Headphones Wins?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nothing-headphone-a-vs-headphone-1-which-pair-of-anc-wireless-headphones-wins-2000735152" target="_blank">Nothing Headphone A vs. Headphone 1: Which Pair of ANC Wireless Headphones Wins?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-18 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/tomb-raider.jpg" alt="Tomb Raider Studio Faces Fourth Round Of Layoffs In Just 12 Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tomb-raider-remake-crystal-dynamics-layoffs-2000680096" target="_blank">Tomb Raider Studio Faces Fourth Round Of Layoffs In Just 12 Months</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-18 21:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/KPop_Demon_Hunters_u_01_04_59_06-1-1280x720.jpg" alt="KPop Demon Hunters Concert Tour Could Be Coming To An Arena Near You" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,24 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-cast-of-dune-part-three-tiptoed-around-its-biggest-mysteries-2000735069" target="_blank">The Cast of ‘Dune: Part Three’ Tiptoed Around Its Biggest Mysteries</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-18 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/lace-ribbons.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This edible lace bends like real fabric — but it&#x27;s made from sugar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/18/edible-lace-ribbons-look-so-real-you-wont-want-to-eat-them.html" target="_blank">This edible lace bends like real fabric — but it&#x27;s made from sugar</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-18 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/cats.jpeg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Whimsical photo book imagines kittens as world travelers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/18/whimsical-photo-book-imagines-kittens-as-world-travelers.html" target="_blank">Whimsical photo book imagines kittens as world travelers</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-18 16:44</span>
             </div>
         </div>
 </div>
@@ -348,8 +355,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 21:08 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 271 |
+        🔄 Last Updated: 22:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
