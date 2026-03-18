@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-18 22:05:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-18 23:05:30 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, March 18, 2026 - 22:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, March 18, 2026 - 23:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Ras-Laffan-1-rt-gmh-260318_1773861678029_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran hits world&#x27;s largest liquefied natural gas terminal in Qatar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492" target="_blank">Iran live updates: Iran hits world&#x27;s largest liquefied natural gas terminal in Qatar</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-18 22:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +104,20 @@
                 <span class="time">2026-03-18 18:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-waghorn-funeral-iran_7196739.jpg?20260318182011" alt="Iranians defiant as thousands attend funeral for security chief and crew of sunken navy ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/iranians-defiant-as-thousands-attend-funeral-for-security-chief-larijani-and-crew-of-sunken-navy-ship-13521468" target="_blank">Iranians defiant as thousands attend funeral for security chief and crew of sunken navy ship</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-18 17:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2166043553-500x500.jpg" alt="Kagi Translate&#x27;s AI answers the question &quot;What would horny Margaret Thatcher say?&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/" target="_blank">Kagi Translate&#x27;s AI answers the question &quot;What would horny Margaret Thatcher say?&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-18 22:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +163,6 @@
                 <span class="time">2026-03-18 19:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/New-Moon-Rotated-060425-500x500.jpg" alt="A private space company has a radical new plan to bag an asteroid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/03/a-private-space-company-has-a-radical-new-plan-to-bag-an-asteroid/" target="_blank">A private space company has a radical new plan to bag an asteroid</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-18 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -180,6 +184,15 @@
                 <span class="title"><a href="https://dev.to/myougatheaxo/claude-codedezhi-obuziekutowoshe-ji-surubu-bian-xing-deng-zhi-xing-domeinbiao-xian-noxing-an-quan-hua-53cp" target="_blank">Claude Codeで値オブジェクトを設計する：不変性・等値性・ドメイン表現の型安全化</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-18 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://nearzero.software/p/warranty-void-if-regenerated" target="_blank">Warranty Void If Regenerated</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-18 20:45</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +222,6 @@
                 <span class="time">2026-03-18 18:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/building-whatsapp-with-jean-lee" target="_blank">Building WhatsApp with Jean Lee</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-03-18 17:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2019/09/axc1jyyt8pab2odqwsns-1024x790.jpg" alt="Government Registers Aliens.Gov Domain as Next Distraction From Everything Else" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/government-registers-aliens-gov-domain-as-next-distraction-from-everything-else-2000735217" target="_blank">Government Registers Aliens.Gov Domain as Next Distraction From Everything Else</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-18 22:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/earbuds.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Earleaf: an offline audiobook app built out of frustration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/18/earleaf-an-offline-audiobook-app-built-out-of-frustration.html" target="_blank">Earleaf: an offline audiobook app built out of frustration</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-18 22:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/headphone-a-vs-headphone-1-compa-1280x853.jpg" alt="Nothing Headphone A vs. Headphone 1: Which Pair of ANC Wireless Headphones Wins?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +293,6 @@
                 <span class="title"><a href="https://kotaku.com/marathon-has-fans-racing-to-kill-500-million-robots-like-its-helldivers-2-and-its-taking-longer-than-expected-2000680043" target="_blank">Marathon Has Fans Racing To Kill 500 Million Robots Like It’s Helldivers 2 And It’s Taking Longer Than Expected</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-18 19:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KM11BRKC4DH1HDRJSCYBQASE/hero-image.png" alt="This Ecovacs Robot Vacuum/Mop Combo Is 40% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/ecovacs-x11-robot-vacuum-mop-deal-march-2026?utm_medium=RSS" target="_blank">This Ecovacs Robot Vacuum/Mop Combo Is 40% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-18 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Dune-Part-Three-Jason-Momoa-1280x853.jpg" alt="The Cast of ‘Dune: Part Three’ Tiptoed Around Its Biggest Mysteries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-cast-of-dune-part-three-tiptoed-around-its-biggest-mysteries-2000735069" target="_blank">The Cast of ‘Dune: Part Three’ Tiptoed Around Its Biggest Mysteries</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-18 18:00</span>
             </div>
         </div>
 </div>
@@ -355,8 +359,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 22:05 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 23:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
