@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-18 13:28:40 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-03-18 14:26:19 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 25 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, March 18, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, March 18, 2026 - 14:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/18/nx-s1-5745092/mr-flower-fantastic-new-york-garden" target="_blank">A mysterious floral artist has taken over the New York Botanical Garden</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-18 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/18/senegal-govt-alleges-corruption-in-decision-to-hand-afcon-title-to-morocco?traffic_source=rss" target="_blank">Senegal govt alleges corruption in decision to hand AFCON title to Morocco</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-18 13:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +102,38 @@
                 <span class="time">2026-03-18 11:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/18/g-s1-114267/up-first-newsletter-iran-israel-war-fed-rate-cuts-markwayne-mullin-kalshi-arizona" target="_blank">The Fed to meet about interest rates. And, Sen. Mullin faces DHS confirmation hearing</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-18 11:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773832491946_tdy_news_7a_engel_israel_iran_cluster_bombs_260318_1920x1080-obt9mz.jpg" alt="Iran Hits Israel in Retaliation for the Killing of Top Security Chief" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/iran-drops-cluster-bombs-on-israel-after-killing-of-ali-larijani-259516485807" target="_blank">Iran Hits Israel in Retaliation for the Killing of Top Security Chief</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-18 11:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69b86b74be9e27104c501c7c/master/pass/security_iphone_Getty.jpg" alt="Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/" target="_blank">Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-18 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/18/russians-caught-stealing-personal-data-from-ukrainians-with-new-advanced-iphone-hacking-tools/" target="_blank">Russians caught stealing personal data from Ukrainians with new advanced iPhone hacking tools</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-18 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/896564/spider-man-brand-new-day-trailer" target="_blank">The hits keep coming in Spider-Man: Brand New Day’s first trailer</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-18 13:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,38 +161,20 @@
                 <span class="time">2026-03-18 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69ba179b22c66bd5da6fe9df/master/pass/A-New-Generation-of-Steel-Water-Filters-Cuts-Out-the-Plastic%E2%80%94and-Microplastics.jpg" alt="Boroux Versus Rorra Countertop Water Filters, Tested Head to Head" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/steel-water-filters-head-to-head/" target="_blank">Boroux Versus Rorra Countertop Water Filters, Tested Head to Head</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-18 11:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/895265/bmw-i3-neue-klasse-ev-price-specs" target="_blank">BMW brings back the i3 as a funky four-door EV</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-18 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b963d0378019dacbffb39a/master/pass/BMW_i3-038.jpg" alt="BMW i3 2026: Specs, Price, Availability, Range" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/bmw-i3-2026/" target="_blank">BMW i3 2026: Specs, Price, Availability, Range</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-18 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914658&w=600" alt="Orchestrating the Agentic Explosion: A Unified Governance Framework for the AI-First Enterprise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/agentic-governance-ai-first-enterprise" target="_blank">Orchestrating the Agentic Explosion: A Unified Governance Framework for the AI-First Enterprise</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-18 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frvutkq5layeg3y2crmtd.JPG" alt="I tested the same AI model against itself. Memory won 4/5." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +220,6 @@
                 <span class="time">2026-03-18 11:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review" target="_blank">Google Engineers Launch &quot;Sashiko&quot; For Agentic AI Code Review Of The Linux Kernel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-18 10:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/BMW-i30-Front-1280x853.jpg" alt="BMW’s New i3 Sedan Targets Tesla Model 3 in a World of Electric SUVs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/bmws-new-i3-sedan-targets-tesla-model-3-in-a-world-of-electric-suvs-2000734998" target="_blank">BMW’s New i3 Sedan Targets Tesla Model 3 in a World of Electric SUVs</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-18 14:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2506299041.jpg?fit=2000%2C928&amp;quality=60&amp;ssl=1" alt="How do you score on the Corporate Bullshit Receptivity Scale?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/18/how-do-you-score-on-the-corporate-bullshit-receptivity-scale.html" target="_blank">How do you score on the Corporate Bullshit Receptivity Scale?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-18 13:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KKZHWYMB0HW1T9PRXAZE4VKM/hero-image.png" alt="This Samsung Smart Monitor Is $300 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/highguard-refunds-ps5-steam-xbox-shutdown-2000679761" target="_blank">Highguard Players Get Surprise Refunds On PS5 As Studio Shuts Its Doors For Good</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-18 06:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/GettyImages-2243306175-1280x854.jpg" alt="Arizona AG Hits Kalshi with Criminal Charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/arizona-ag-hits-kalshi-with-criminal-charges-2000734311" target="_blank">Arizona AG Hits Kalshi with Criminal Charges</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-18 02:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/shahed-drone-2025-1280x853.jpg" alt="U.S. Wants to Mass Produce the Drone Design It Stole From Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/u-s-wants-to-mass-produce-the-drone-design-it-stole-from-iran-2000734799" target="_blank">U.S. Wants to Mass Produce the Drone Design It Stole From Iran</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-17 23:13</span>
             </div>
         </div>
 </div>
@@ -335,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 14:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
