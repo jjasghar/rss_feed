@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-18 03:54:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-18 04:37:16 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, March 18, 2026 - 03:55 UTC</div>
+    <div class="newspaper-date">Wednesday, March 18, 2026 - 04:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +52,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/17/nx-s1-5751169/illinois-primary-ninth-district-daniel-biss-kat-abughazaleh" target="_blank">Daniel Biss wins Democratic primary for closely-watched Illinois House seat</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-18 02:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773800693813_now_staytuned_stratton_win_illinois_260317_1920x1080-8nwso2.jpg" alt="Juliana Stratton wins Democratic Senate primary in Illinois, NBC News projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/juliana-stratton-wins-democratic-senate-primary-in-illinois-nbc-news-projects-259504709659" target="_blank">Juliana Stratton wins Democratic Senate primary in Illinois, NBC News projects</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-18 02:24</span>
             </div>
         </div>
 <div class="story">
@@ -85,15 +97,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/dozen-16m-reaper-drones-destroyed-iran-operations-us/story?id=131163787" target="_blank">More than a dozen Reaper drones have been lost in Iran operations, US officials say</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-17 22:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f74c/live/6486a190-2232-11f1-b26d-cd49b90fee82.jpg" alt="&#x27;Explosive&#x27; meningitis outbreak unprecedented – officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cev7rl437epo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Explosive&#x27; meningitis outbreak unprecedented – officials</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-17 21:54</span>
             </div>
         </div>
 </div>
@@ -164,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aloycwl/mastering-smart-contract-development-a-deep-dive-into-the-openclaw-solidity-lsp-skill-4ho2" target="_blank">Mastering Smart Contract Development: A Deep Dive into the OpenClaw Solidity LSP Skill</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-18 04:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ghostlyinc/are-you-more-productive-coding-outside-your-desk-9e4" target="_blank">Are you more productive coding outside your desk?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-18 01:29</span>
@@ -203,15 +215,6 @@
                 <span class="title"><a href="https://dzone.com/articles/ai-swarms-langgraph-strands-openai" target="_blank">Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-17 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914603&w=600" alt="Automating IBM MQ Console (MQ Web Server) Startup Post-Server Reboot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/automating-ibm-mq-console-startup-post-reboot" target="_blank">Automating IBM MQ Console (MQ Web Server) Startup Post-Server Reboot</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-17 19:00</span>
             </div>
         </div>
 </div>
@@ -316,7 +319,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 03:55 UTC
+        🔄 Last Updated: 04:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
