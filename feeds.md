@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-18 06:18:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-18 07:20:27 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, March 18, 2026 - 06:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, March 18, 2026 - 07:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/18/israeli-air-strike-flattens-residential-building-in-beirut?traffic_source=rss" target="_blank">Israeli air strike flattens residential building in Beirut</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-18 06:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/juliana-stratton-wins-democratic-senate-primary-in-illinois-nbc-news-projects-259504709659" target="_blank">Juliana Stratton wins Democratic Senate primary in Illinois, NBC News projects</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-03-18 02:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/18/who-is-joe-kent-and-why-did-he-resign-as-trumps-counterterrorism-chief?traffic_source=rss" target="_blank">Who is Joe Kent, and why did he resign as Trump’s counterterrorism chief?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-18 01:04</span>
             </div>
         </div>
 </div>
@@ -165,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/weizhang_dev/descripts-lyrebird-api-vs-building-a-video-editing-skill-for-openclaw-a-developers-comparison-50ek" target="_blank">Descript&#x27;s Lyrebird API vs Building a Video Editing Skill for OpenClaw — A Developer&#x27;s Comparison</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-18 07:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gauravtayade11/i-got-paranoid-about-online-tools-logging-my-secrets-so-i-built-my-own-1j6o" target="_blank">I got paranoid about online tools logging my secrets — so I built my own</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-18 06:17</span>
@@ -198,21 +211,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2026/03/ontology-at-netflix/en/headerimage/java-istock-image-01-1773771443400.jpg" alt="QCon London 2026: Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/ontology-at-netflix/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-18 02:30</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ghostlyinc/are-you-more-productive-coding-outside-your-desk-9e4" target="_blank">Are you more productive coding outside your desk?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-18 01:29</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/" target="_blank">Have a Fucking Website</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-18 03:53</span>
             </div>
         </div>
 </div>
@@ -234,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/ff7.jpg" alt="Nvidia Says DLSS 5 Haters Are ‘Wrong’ As It Defends Fusing ‘Everything About The Game With Generative AI’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dlss5-nvidia-gen-ai-graphics-jensen-huang-2000679764" target="_blank">Nvidia Says DLSS 5 Haters Are ‘Wrong’ As It Defends Fusing ‘Everything About The Game With Generative AI’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-18 06:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/highguardsa-1280x722.jpg" alt="Highguard Players Get Surprise Refunds On PS5 As Studio Shuts Its Doors For Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +292,6 @@
                 <span class="time">2026-03-17 22:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-17 21:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,7 +321,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 06:18 UTC
+        🔄 Last Updated: 07:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
