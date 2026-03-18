@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-17 23:06:39 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-18 00:09:24 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, March 17, 2026 - 23:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, March 18, 2026 - 00:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e22/live/20bf1990-2257-11f1-b297-95b0a0a8331e.jpg" alt="Zelensky calls for Trump and Starmer to meet and find common ground" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp8r813x66jo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky calls for Trump and Starmer to meet and find common ground</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-17 23:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/reaper-drone-1-ht-gmh-260317_1773780689720_hpMain_4x3t_384.jpg" alt="More than a dozen Reaper drones have been lost in Iran operations, US officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/17/rubio-says-cuba-needs-to-get-new-people-in-charge-as-us-ratchets-pressure?traffic_source=rss" target="_blank">Rubio says Cuba needs to ‘get new people in charge’ as US ratchets pressure</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-17 20:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f74c/live/6486a190-2232-11f1-b26d-cd49b90fee82.jpg" alt="Students to be offered vaccine in meningitis outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cev7rl437epo?at_medium=RSS&at_campaign=rss" target="_blank">Students to be offered vaccine in meningitis outbreak</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-17 19:59</span>
             </div>
         </div>
 </div>
@@ -165,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pixotter/webp-vs-avif-which-next-gen-image-format-wins-in-2026-3m1d" target="_blank">WebP vs AVIF: Which Next-Gen Image Format Wins in 2026?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-18 00:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/Firefox-Ai.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox 149 adds built-in free VPN with 50GB monthly data" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -209,15 +216,6 @@
                 <span class="time">2026-03-17 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems" target="_blank">If you thought the code writing speed was your problem; you have bigger problems</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-17 17:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +236,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/shahed-drone-2025-1280x853.jpg" alt="U.S. Wants to Mass Produce the Drone Design It Stole From Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/u-s-wants-to-mass-produce-the-drone-design-it-stole-from-iran-2000734799" target="_blank">U.S. Wants to Mass Produce the Drone Design It Stole From Iran</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-17 23:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Iran-War-Bitcoin-Crypto-Markets-1280x853.jpg" alt="UK Man Accuses Spouse of Stealing $172 Million Bitcoin Password via CCTV Camera" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -256,6 +263,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-17 21:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/TalesFrom85-1280x853.jpg" alt="Oh, So Now Netflix Is Interested in More Theatrical Releases" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -271,24 +287,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/17/makeover-your-pc-for-under-45-with-this-microsoft-bundle-deal.html" target="_blank">Makeover your PC for under $45 with this Microsoft bundle deal</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-17 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/AIProtest-1280x853.jpg" alt="Americans Recognize AI as a Wealth Inequality Machine, Pollster Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713" target="_blank">Americans Recognize AI as a Wealth Inequality Machine, Pollster Finds</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-17 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/alex_ss04-1280x720.jpg" alt="Street Fighter 6’s Latest DLC Ending Is Upsetting Fans Because Alex Marries His Sister-Cousin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/street-fighter-6-alex-dlc-ending-patricia-tom-sister-cousin-married-2000679707" target="_blank">Street Fighter 6’s Latest DLC Ending Is Upsetting Fans Because Alex Marries His Sister-Cousin</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-17 20:43</span>
             </div>
         </div>
 </div>
@@ -319,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 23:06 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 00:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
