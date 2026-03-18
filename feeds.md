@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-18 04:37:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-18 05:28:29 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, March 18, 2026 - 04:37 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, March 18, 2026 - 05:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/18/g-s1-114247/venezuela-beats-u-s-3-2-wins-first-world-baseball-classic-title" target="_blank">Venezuela beats U.S. 3-2, wins first World Baseball Classic title</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-18 05:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/3/18/cuba-restores-power-after-29-hour-blackout-amid-us-oil-blockade?traffic_source=rss" target="_blank">Cuba restores power after 29-hour blackout amid US oil blockade</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-18 04:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +103,20 @@
                 <span class="time">2026-03-18 00:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e22/live/20bf1990-2257-11f1-b297-95b0a0a8331e.jpg" alt="Zelensky calls for Trump and Starmer to meet and find common ground" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp8r813x66jo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky calls for Trump and Starmer to meet and find common ground</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-17 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/reaper-drone-1-ht-gmh-260317_1773780689720_hpMain_4x3t_384.jpg" alt="More than a dozen Reaper drones have been lost in Iran operations, US officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/dozen-16m-reaper-drones-destroyed-iran-operations-us/story?id=131163787" target="_blank">More than a dozen Reaper drones have been lost in Iran operations, US officials say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-17 22:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg" alt="50% Off DoorDash Promo Code | March 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/doordash-promo-code/" target="_blank">50% Off DoorDash Promo Code | March 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-18 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69b9b3b8a5694fbea42e1cf8/master/pass/buisness_DOD_Anthropic_GettyImages-2265262796.jpg" alt="Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +162,6 @@
                 <span class="time">2026-03-17 21:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth" target="_blank">I went to the Pentagon to watch Pete Hegseth scold war reporters</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-17 20:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,9 +171,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/planifycapital/what-should-first-time-investors-know-about-sterlite-electric-unlisted-deals-oe2" target="_blank">What Should First-Time Investors Know About Sterlite Electric Unlisted Deals?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-18 05:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aloycwl/mastering-smart-contract-development-a-deep-dive-into-the-openclaw-solidity-lsp-skill-4ho2" target="_blank">Mastering Smart Contract Development: A Deep Dive into the OpenClaw Solidity LSP Skill</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-18 04:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/ontology-at-netflix/en/headerimage/java-istock-image-01-1773771443400.jpg" alt="QCon London 2026: Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/ontology-at-netflix/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-18 02:30</span>
             </div>
         </div>
 <div class="story">
@@ -184,37 +206,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pixotter/webp-vs-avif-which-next-gen-image-format-wins-in-2026-3m1d" target="_blank">WebP vs AVIF: Which Next-Gen Image Format Wins in 2026?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-18 00:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/Firefox-Ai.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox 149 adds built-in free VPN with 50GB monthly data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/firefox-adding-a-free-vpn" target="_blank">Firefox 149 adds built-in free VPN with 50GB monthly data</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-17 22:09</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/CMake-4.3-Released" target="_blank">CMake 4.3 Released With Package Import/Export Using The Common Package Specification</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-18 00:30</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/systemd-260-Released" target="_blank">systemd 260 Released: mstack, SysV Service Scripts Removed &amp; AI Agents Documentation</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-17 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18896863&w=600" alt="Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-swarms-langgraph-strands-openai" target="_blank">Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-17 20:00</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pixotter/webp-vs-avif-which-next-gen-image-format-wins-in-2026-3m1d" target="_blank">WebP vs AVIF: Which Next-Gen Image Format Wins in 2026?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-18 00:07</span>
             </div>
         </div>
 </div>
@@ -236,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/GettyImages-2243306175-1280x854.jpg" alt="Arizona AG Hits Kalshi with Criminal Charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/arizona-ag-hits-kalshi-with-criminal-charges-2000734311" target="_blank">Arizona AG Hits Kalshi with Criminal Charges</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-18 02:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/shahed-drone-2025-1280x853.jpg" alt="U.S. Wants to Mass Produce the Drone Design It Stole From Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +294,6 @@
                 <span class="time">2026-03-17 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/The-Ultimate-Microsoft-Office-Professional.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Makeover your PC for under $45 with this Microsoft bundle deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/17/makeover-your-pc-for-under-45-with-this-microsoft-bundle-deal.html" target="_blank">Makeover your PC for under $45 with this Microsoft bundle deal</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-17 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 04:37 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 05:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
