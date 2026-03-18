@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-18 14:26:19 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-18 15:23:55 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 11 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, March 18, 2026 - 14:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, March 18, 2026 - 15:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67a1/live/72d0d6a0-22da-11f1-90cb-27c5deaacbc1.png" alt="PM swerves questions on whether he spoke to Mandelson over Epstein friendship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7vjv17q0rmo?at_medium=RSS&at_campaign=rss" target="_blank">PM swerves questions on whether he spoke to Mandelson over Epstein friendship</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-18 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/2026/3/18/trump-wants-to-overthrow-the-cuban-president?traffic_source=rss" target="_blank">Trump wants to overthrow the Cuban president</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-18 14:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +104,20 @@
                 <span class="time">2026-03-18 13:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b4e/live/eac8d770-22b2-11f1-8a6e-abb477324122.jpg" alt="MSP rules out reintroducing assisted dying bill after election" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2r2qqw4npo?at_medium=RSS&at_campaign=rss" target="_blank">MSP rules out reintroducing assisted dying bill after election</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-18 12:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/beirut-building_1773826177992_hpMain_2_4x3t_384.jpg" alt="Iran live updates: Iran targets Gulf states; 6 killed in Israeli strike on Beirut" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492" target="_blank">Iran live updates: Iran targets Gulf states; 6 killed in Israeli strike on Beirut</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-18 11:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/18/marquis-says-over-672000-people-had-personal-and-financial-data-stolen-in-ransomware-attack/" target="_blank">Marquis says over 672,000 people had personal and financial data stolen in ransomware attack</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-18 14:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69b86b74be9e27104c501c7c/master/pass/security_iphone_Getty.jpg" alt="Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +163,38 @@
                 <span class="time">2026-03-18 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6881b17988be12a37b5022c7/master/pass/The%20Best%20Folding%20Phones.png" alt="5 Best Folding Phones (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-folding-phones/" target="_blank">5 Best Folding Phones (2026), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-18 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jakubb_ing/surrealdb-is-not-a-silver-bullet-3-scenarios-where-you-still-need-a-backend-36h5" target="_blank">SurrealDB is Not a Silver Bullet: 3 Scenarios Where You Still Need a Backend</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-18 15:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914579&w=600" alt="Fast Data Access Part 2: From Manual Hacks to Modern Stacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/real-time-risk-pipeline-gemfire-spark-springboot" target="_blank">Fast Data Access Part 2: From Manual Hacks to Modern Stacks</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-18 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/linux-612-linux-70-btrfs" target="_blank">Btrfs Performance From Linux 6.12 To Linux 7.0 Shows Regressions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-18 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18914658&w=600" alt="Orchestrating the Agentic Explosion: A Unified Governance Framework for the AI-First Enterprise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,33 +222,6 @@
                 <span class="time">2026-03-18 13:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-MGLRU-30p-MongoDB" target="_blank">Linux MGLRU Improvements Net A 30% Increase For MongoDB, More Than 100% On HDDs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-18 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/mobile-server-driven-ui-scale/en/mediumimage/rafael-ring-medium-1772013795892.jpg" alt="Presentation: Mobile Server-Driven UI at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/mobile-server-driven-ui-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Mobile Server-Driven UI at Scale</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-18 12:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ohmygod/anatomy-of-a-solana-wallet-drainer-owner-reassignment-durable-nonces-and-blinks-phishing-50a8" target="_blank">Anatomy of a Solana Wallet Drainer: Owner Reassignment, Durable Nonces, and Blinks Phishing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-18 11:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Google-Nest-Product-Launch-22-1280x853.jpg" alt="Using Gemini to Turn on Your Lights Is Now 40% Faster—but It’s Still Too Slow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/using-gemini-to-turn-on-your-lights-is-now-40-faster-but-its-still-too-slow-2000734994" target="_blank">Using Gemini to Turn on Your Lights Is Now 40% Faster—but It’s Still Too Slow</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-18 15:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Microsoft-Windows-11-Pro-2.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Set yourself up for success with 89% off this Windows Pro 11 bundle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/18/set-yourself-up-for-success-with-89-off-this-windows-pro-11-bundle.html" target="_blank">Set yourself up for success with 89% off this Windows Pro 11 bundle</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-18 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/BMW-i30-Front-1280x853.jpg" alt="BMW’s New i3 Sedan Targets Tesla Model 3 in a World of Electric SUVs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +295,6 @@
                 <span class="time">2026-03-18 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/ff7.jpg" alt="Nvidia Says DLSS 5 Haters Are ‘Wrong’ As It Defends Fusing ‘Everything About The Game With Generative AI’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dlss5-nvidia-gen-ai-graphics-jensen-huang-2000679764" target="_blank">Nvidia Says DLSS 5 Haters Are ‘Wrong’ As It Defends Fusing ‘Everything About The Game With Generative AI’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-18 06:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/highguardsa-1280x722.jpg" alt="Highguard Players Get Surprise Refunds On PS5 As Studio Shuts Its Doors For Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/highguard-refunds-ps5-steam-xbox-shutdown-2000679761" target="_blank">Highguard Players Get Surprise Refunds On PS5 As Studio Shuts Its Doors For Good</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-18 06:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,22 +327,13 @@
                 <span class="time">2026-03-18 00:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1773639229-20260317.png" alt="Saturday Morning Breakfast Cereal - Philosophy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/philosophy-5" target="_blank">Saturday Morning Breakfast Cereal - Philosophy</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-03-17 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 14:26 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 15:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
