@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-18 10:15:53 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-18 11:14:42 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, March 18, 2026 - 10:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, March 18, 2026 - 11:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/18/nx-s1-5751694/iran-retaliates-israel-kills-two-top-iranian-officials" target="_blank">Iran retaliates after Israel kills 2 top Iranian officials</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-18 10:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2026/3/18/the-kent-warning-when-truth-escapes-the-war-machine?traffic_source=rss" target="_blank">The Kent warning: When truth escapes the war machine</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -59,6 +70,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/18/nx-s1-5750548/crisis-pregnancy-centers-abortion-rights-wyoming-oklahoma-kansas" target="_blank">Red states move to protect crisis pregnancy centers using model legislation</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-18 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/beirut_building_site-vlrzro.jpg" alt="Building in central Beirut leveled after Israeli strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/building-in-central-beirut-leveled-after-israeli-strike-259514437578" target="_blank">Building in central Beirut leveled after Israeli strike</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-18 09:31</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +99,20 @@
                 <span class="time">2026-03-18 05:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/18/g-s1-114247/venezuela-beats-u-s-3-2-wins-first-world-baseball-classic-title" target="_blank">Venezuela beats U.S. 3-2, wins first World Baseball Classic title</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-18 05:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/3/18/cuba-restores-power-after-29-hour-blackout-amid-us-oil-blockade?traffic_source=rss" target="_blank">Cuba restores power after 29-hour blackout amid US oil blockade</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-18 04:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69ba179b22c66bd5da6fe9df/master/pass/A-New-Generation-of-Steel-Water-Filters-Cuts-Out-the-Plastic%E2%80%94and-Microplastics.jpg" alt="Boroux Versus Rorra Countertop Water Filters, Tested Head to Head" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/steel-water-filters-head-to-head/" target="_blank">Boroux Versus Rorra Countertop Water Filters, Tested Head to Head</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-18 11:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69b963d0378019dacbffb39a/master/pass/BMW_i3-038.jpg" alt="BMW i3 2026: Specs, Price, Availability, Range" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +158,38 @@
                 <span class="time">2026-03-17 22:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/" target="_blank">Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-17 21:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ohmygod/anatomy-of-a-solana-wallet-drainer-owner-reassignment-durable-nonces-and-blinks-phishing-50a8" target="_blank">Anatomy of a Solana Wallet Drainer: Owner Reassignment, Durable Nonces, and Blinks Phishing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-18 11:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review" target="_blank">Google Engineers Launch &quot;Sashiko&quot; For Agentic AI Code Review Of The Linux Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-18 10:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17301403/manjaro-team-strike" target="_blank">Manjaro Linux Team Goes on Strike, Threatens to Fork the Project</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-18 10:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -173,46 +202,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html" target="_blank">Rob Pike&#x27;s 5 Rules of Programming</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-18 09:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ohmygod/solanas-token-2022-transfer-hooks-how-a-safe-feature-imported-ethereums-deadliest-bug-class-16p6" target="_blank">Solana&#x27;s Token-2022 Transfer Hooks: How a &quot;Safe&quot; Feature Imported Ethereum&#x27;s Deadliest Bug Class</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-18 09:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/weizhang_dev/descripts-lyrebird-api-vs-building-a-video-editing-skill-for-openclaw-a-developers-comparison-50ek" target="_blank">Descript&#x27;s Lyrebird API vs Building a Video Editing Skill for OpenClaw — A Developer&#x27;s Comparison</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-18 07:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/queue-otel-observability/en/headerimage/header-1773741090866.jpeg" alt="QCon London 2026: Uncorking Queueing Bottlenecks with OpenTelemetry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/queue-otel-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: Uncorking Queueing Bottlenecks with OpenTelemetry</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-18 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gauravtayade11/i-got-paranoid-about-online-tools-logging-my-secrets-so-i-built-my-own-1j6o" target="_blank">I got paranoid about online tools logging my secrets — so I built my own</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-18 06:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/planifycapital/what-should-first-time-investors-know-about-sterlite-electric-unlisted-deals-oe2" target="_blank">What Should First-Time Investors Know About Sterlite Electric Unlisted Deals?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-18 05:19</span>
             </div>
         </div>
 </div>
@@ -320,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 10:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 11:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
