@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-18 11:14:42 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2026-03-18 12:10:34 UTC -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, March 18, 2026 - 11:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, March 18, 2026 - 12:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/beirut-building_1773826177992_hpMain_2_4x3t_384.jpg" alt="Iran live updates: Iran targets Gulf states; 6 killed in Israeli strike on Beirut" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492" target="_blank">Iran live updates: Iran targets Gulf states; 6 killed in Israeli strike on Beirut</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-18 11:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/18/g-s1-114267/up-first-newsletter-iran-israel-war-fed-rate-cuts-markwayne-mullin-kalshi-arizona" target="_blank">The Fed to meet about interest rates. And, Sen. Mullin faces DHS confirmation hearing</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-18 11:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +101,20 @@
                 <span class="time">2026-03-18 09:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/18/israeli-air-strike-flattens-residential-building-in-beirut?traffic_source=rss" target="_blank">Israeli air strike flattens residential building in Beirut</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-18 06:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/18/g-s1-114255/ruling-africa-cup-morocco-champion" target="_blank">Ruling overturns Senegal&#x27;s Africa Cup title and declares Morocco the champion</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-18 05:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6881b17988be12a37b5022c7/master/pass/The%20Best%20Folding%20Phones.png" alt="5 Best Folding Phones (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-folding-phones/" target="_blank">5 Best Folding Phones (2026), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-18 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69ba179b22c66bd5da6fe9df/master/pass/A-New-Generation-of-Steel-Water-Filters-Cuts-Out-the-Plastic%E2%80%94and-Microplastics.jpg" alt="Boroux Versus Rorra Countertop Water Filters, Tested Head to Head" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -111,6 +122,15 @@
                 <span class="title"><a href="https://www.wired.com/story/steel-water-filters-head-to-head/" target="_blank">Boroux Versus Rorra Countertop Water Filters, Tested Head to Head</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-03-18 11:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/895265/bmw-i3-neue-klasse-ev-price-specs" target="_blank">BMW brings back the i3 as a funky four-door EV</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-18 10:00</span>
             </div>
         </div>
 <div class="story">
@@ -140,29 +160,20 @@
                 <span class="time">2026-03-18 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b9b3b8a5694fbea42e1cf8/master/pass/buisness_DOD_Anthropic_GettyImages-2265262796.jpg" alt="Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/" target="_blank">Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-18 00:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b9b30e4535338fba83cb77/master/pass/buisness_metashutdown_GettyImages-1237182493.jpg" alt="Meta Is Shutting Down Horizon Worlds on Meta Quest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/meta-is-shutting-down-horizon-worlds-on-meta-quest/" target="_blank">Meta Is Shutting Down Horizon Worlds on Meta Quest</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-17 22:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/mobile-server-driven-ui-scale/en/mediumimage/rafael-ring-medium-1772013795892.jpg" alt="Presentation: Mobile Server-Driven UI at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/mobile-server-driven-ui-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Mobile Server-Driven UI at Scale</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-18 12:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,13 +219,18 @@
                 <span class="time">2026-03-18 09:59</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ohmygod/solanas-token-2022-transfer-hooks-how-a-safe-feature-imported-ethereums-deadliest-bug-class-16p6" target="_blank">Solana&#x27;s Token-2022 Transfer Hooks: How a &quot;Safe&quot; Feature Imported Ethereum&#x27;s Deadliest Bug Class</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-18 09:06</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/metas-ai-glasses-and-privacy.html" target="_blank">Meta’s AI Glasses and Privacy</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-03-18 11:07</span>
             </div>
         </div>
 </div>
@@ -322,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 11:14 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 12:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
