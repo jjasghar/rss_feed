@@ -1,29 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-03-18 20:07:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-18 21:08:44 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 21 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, March 18, 2026 - 20:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, March 18, 2026 - 21:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/18/iranians-burn-trump-netanyahu-effigies-at-warship-victim-rally?traffic_source=rss" target="_blank">Iranians burn Trump, Netanyahu effigies at warship victim rally</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-18 20:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,20 +93,20 @@
                 <span class="time">2026-03-18 17:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/vv-1-ht-er-260317_1773786225888_hpMain_4x3t_384.jpg" alt="US, allied radar sites in Middle East struck at least 10 times: Visual analysis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/us-allied-radar-sites-middle-east-struck-10/story?id=131164670" target="_blank">US, allied radar sites in Middle East struck at least 10 times: Visual analysis</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-18 17:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/897114/amazon-usps-contract-money-running-out" target="_blank">Amazon doesn’t want the blame for the Post Office going under</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-18 20:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,20 +152,20 @@
                 <span class="time">2026-03-18 18:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-500x500.jpg" alt="Federal cyber experts called Microsoft&#x27;s cloud a &quot;pile of shit,&quot; approved it anyway" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/" target="_blank">Federal cyber experts called Microsoft&#x27;s cloud a &quot;pile of shit,&quot; approved it anyway</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-18 17:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/myougatheaxo/claude-codedezhi-obuziekutowoshe-ji-surubu-bian-xing-deng-zhi-xing-domeinbiao-xian-noxing-an-quan-hua-53cp" target="_blank">Claude Codeで値オブジェクトを設計する：不変性・等値性・ドメイン表現の型安全化</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-18 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +211,6 @@
                 <span class="time">2026-03-18 16:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-50-Released" target="_blank">GNOME 50 Released With Many Fantastic Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-18 16:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +230,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/KPop_Demon_Hunters_u_01_04_59_06-1-1280x720.jpg" alt="KPop Demon Hunters Concert Tour Could Be Coming To An Arena Near You" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kpop-demon-hunters-concert-ejae-audrey-nuna-rei-ami-2000680075" target="_blank">KPop Demon Hunters Concert Tour Could Be Coming To An Arena Near You</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-18 20:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/marathons2.jpg" alt="Marathon Has Fans Racing To Kill 500 Million Robots Like It’s Helldivers 2 And It’s Taking Longer Than Expected" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,15 +282,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/18/whimsical-photo-book-imagines-kittens-as-world-travelers.html" target="_blank">Whimsical photo book imagines kittens as world travelers</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-18 16:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Google-Nest-Product-Launch-22-1280x853.jpg" alt="Using Gemini to Turn on Your Lights Is Now 40% Faster—but It’s Still Too Slow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/using-gemini-to-turn-on-your-lights-is-now-40-faster-but-its-still-too-slow-2000734994" target="_blank">Using Gemini to Turn on Your Lights Is Now 40% Faster—but It’s Still Too Slow</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-18 15:15</span>
             </div>
         </div>
 </div>
@@ -348,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 20:07 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 21:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
