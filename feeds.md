@@ -1,42 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-03-18 19:19:40 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-18 20:07:33 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 33 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, March 18, 2026 - 19:19 UTC</div>
+    <div class="newspaper-date">Wednesday, March 18, 2026 - 20:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -59,6 +46,24 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/18/qatar-says-iran-missile-attack-sparks-fire-causes-damage-at-gas-facility?traffic_source=rss" target="_blank">Qatar says Iran missile attack sparks fire, causes damage at gas facility</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-18 18:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2804/live/dc039100-22f1-11f1-a60b-b951e22b29eb.jpg" alt="All doctors in England warned to watch for meningitis symptoms after Kent outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c20z08rdd9ro?at_medium=RSS&at_campaign=rss" target="_blank">All doctors in England warned to watch for meningitis symptoms after Kent outbreak</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-18 18:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/18/nx-s1-5752253/cesar-chavez-sexual-assault-dolores-huerta-united-farm-workers" target="_blank">Cesar Chavez abused and raped women and girls, NYT investigation says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-18 18:26</span>
             </div>
         </div>
 <div class="story">
@@ -88,29 +93,29 @@
                 <span class="time">2026-03-18 17:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/18/nx-s1-5751787/mamdani-put-ramadan-at-the-center-of-nycs-cultural-life-bringing-joy-and-a-backlash" target="_blank">Mamdani put Ramadan at the center of NYC&#x27;s cultural life, bringing joy -- and a backlash</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-18 16:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773851627754_now_brk_gabbard_ossoff_iran_nuclear_260318_1920x1080-04p1qu.jpg" alt="Ossoff questions Gabbard about Iran posing an &#x27;imminent nuclear threat&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/ossoff-questions-gabbard-about-iran-posing-an-imminent-nuclear-threat-259530309799" target="_blank">Ossoff questions Gabbard about Iran posing an &#x27;imminent nuclear threat&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-18 16:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/" target="_blank">Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-18 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals" target="_blank">The best deals on MacBooks right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-18 19:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/New-Moon-Rotated-060425-500x500.jpg" alt="A private space company has a radical new plan to bag an asteroid" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,29 +152,20 @@
                 <span class="time">2026-03-18 17:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/" target="_blank">Rebel Audio is a new AI podcasting tool aimed at first-time creators</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-18 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/P90632514_highRes_munich-ger-16-march--500x500.jpg" alt="A station wagon is entering one of the hardest 24-hour races in the world" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/03/bmw-says-station-wagons-are-no-joke-so-this-ones-going-to-the-nurburgring/" target="_blank">A station wagon is entering one of the hardest 24-hour races in the world</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-18 16:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thenexusguard/three-companies-just-converged-on-intent-based-ai-agent-security-none-of-them-can-verify-identity-23hj" target="_blank">Three Companies Just Converged on Intent-Based AI Agent Security. None of Them Can Verify Identity.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-18 20:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -215,15 +211,6 @@
                 <span class="time">2026-03-18 16:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/defenderandpro" target="_blank">Canonical collaborates with Microsoft to strengthen enterprise-grade Linux protection</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-03-18 16:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -250,6 +237,15 @@
                 <span class="title"><a href="https://kotaku.com/marathon-has-fans-racing-to-kill-500-million-robots-like-its-helldivers-2-and-its-taking-longer-than-expected-2000680043" target="_blank">Marathon Has Fans Racing To Kill 500 Million Robots Like It’s Helldivers 2 And It’s Taking Longer Than Expected</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-18 19:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KM11BRKC4DH1HDRJSCYBQASE/hero-image.png" alt="This Ecovacs Robot Vacuum/Mop Combo Is 40% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/ecovacs-x11-robot-vacuum-mop-deal-march-2026?utm_medium=RSS" target="_blank">This Ecovacs Robot Vacuum/Mop Combo Is 40% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-18 18:30</span>
             </div>
         </div>
 <div class="story">
@@ -288,20 +284,20 @@
                 <span class="time">2026-03-18 15:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Microsoft-Windows-11-Pro-2.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Set yourself up for success with 89% off this Windows Pro 11 bundle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/18/set-yourself-up-for-success-with-89-off-this-windows-pro-11-bundle.html" target="_blank">Set yourself up for success with 89% off this Windows Pro 11 bundle</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-18 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/18/it-no-so-good" target="_blank">It No So Good</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-18 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1773690047-20260318.png" alt="Saturday Morning Breakfast Cereal - Where" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -352,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 19:19 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 20:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
