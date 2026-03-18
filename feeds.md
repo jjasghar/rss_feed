@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-18 12:10:34 UTC -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-03-18 13:28:40 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 11 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, March 18, 2026 - 12:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, March 18, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/18/nx-s1-5749488/cockroach-pair-bonding-relationships-wing-eating" target="_blank">These roaches form exclusive long-term relationships after eating each other&#x27;s wings</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-18 13:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/18/israel-says-it-killed-iranian-intelligence-chief-khatib?traffic_source=rss" target="_blank">Israel says it killed Iranian intelligence chief Khatib</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-18 13:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b4e/live/eac8d770-22b2-11f1-8a6e-abb477324122.jpg" alt="MSP rules out reintroducing assisted dying bill after election" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2r2qqw4npo?at_medium=RSS&at_campaign=rss" target="_blank">MSP rules out reintroducing assisted dying bill after election</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-18 12:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/beirut-building_1773826177992_hpMain_2_4x3t_384.jpg" alt="Iran live updates: Iran targets Gulf states; 6 killed in Israeli strike on Beirut" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,39 +90,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/18/nx-s1-5751694/iran-retaliates-israel-kills-two-top-iranian-officials" target="_blank">Iran retaliates after Israel kills 2 top Iranian officials</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-18 10:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/3/18/the-kent-warning-when-truth-escapes-the-war-machine?traffic_source=rss" target="_blank">The Kent warning: When truth escapes the war machine</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-18 10:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/18/nx-s1-5750548/crisis-pregnancy-centers-abortion-rights-wyoming-oklahoma-kansas" target="_blank">Red states move to protect crisis pregnancy centers using model legislation</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-18 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/beirut_building_site-vlrzro.jpg" alt="Building in central Beirut leveled after Israeli strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773832491946_tdy_news_7a_engel_israel_iran_cluster_bombs_260318_1920x1080-obt9mz.jpg" alt="Iran Hits Israel in Retaliation for the Killing of Top Security Chief" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/building-in-central-beirut-leveled-after-israeli-strike-259514437578" target="_blank">Building in central Beirut leveled after Israeli strike</a></span>
+                <span class="title"><a href="https://www.today.com/video/iran-drops-cluster-bombs-on-israel-after-killing-of-ali-larijani-259516485807" target="_blank">Iran Hits Israel in Retaliation for the Killing of Top Security Chief</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-18 09:31</span>
+                <span class="time">2026-03-18 11:14</span>
             </div>
         </div>
 </div>
@@ -106,6 +103,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/18/mave-health-aims-to-improve-attention-and-mood-with-its-brain-stimulating-headset/" target="_blank">Mave Health aims to improve attention and mood with its brain-stimulating headset</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-18 12:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69a80a94a07d5fa56904024f/master/pass/Humanscale%20Diffrient%20Lounge%20SOURCE%20Julian%20Chokkattu(3).jpg" alt="Humanscale’s New $15K Lounge Chair Is the Ultimate Home Office Workstation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/humanscale-diffrient-lounge/" target="_blank">Humanscale’s New $15K Lounge Chair Is the Ultimate Home Office Workstation</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-18 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6881b17988be12a37b5022c7/master/pass/The%20Best%20Folding%20Phones.png" alt="5 Best Folding Phones (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +157,38 @@
                 <span class="time">2026-03-18 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b9cb6d7333ebe67e391319/master/pass/science_Turinawards_Getty.jpg" alt="A Quantum Leap for the Turing Award" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-quantum-leap-for-the-turing-award/" target="_blank">A Quantum Leap for the Turing Award</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-18 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg" alt="50% Off DoorDash Promo Code | March 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/doordash-promo-code/" target="_blank">50% Off DoorDash Promo Code | March 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-18 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frvutkq5layeg3y2crmtd.JPG" alt="I tested the same AI model against itself. Memory won 4/5." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/teolex2020/i-tested-the-same-ai-model-against-itself-memory-won-45-336k" target="_blank">I tested the same AI model against itself. Memory won 4/5.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-18 13:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/sbom-viktor-petersson/en/headerimage/generatedHeaderImage-1773839022229.jpg" alt="QCon London 2026: SBOMs Move From Best Practice to Legal Obligation as CRA Enforcement Looms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/sbom-viktor-petersson/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: SBOMs Move From Best Practice to Legal Obligation as CRA Enforcement Looms</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-18 13:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-MGLRU-30p-MongoDB" target="_blank">Linux MGLRU Improvements Net A 30% Increase For MongoDB, More Than 100% On HDDs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-18 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/mobile-server-driven-ui-scale/en/mediumimage/rafael-ring-medium-1772013795892.jpg" alt="Presentation: Mobile Server-Driven UI at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,33 +216,6 @@
                 <span class="time">2026-03-18 10:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17301403/manjaro-team-strike" target="_blank">Manjaro Linux Team Goes on Strike, Threatens to Fork the Project</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-18 10:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Arm-Live-Firmware-Activation" target="_blank">Arm Preparing Live Firmware Activation Support For Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-18 10:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html" target="_blank">Rob Pike&#x27;s 5 Rules of Programming</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-18 09:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKZHWYMB0HW1T9PRXAZE4VKM/hero-image.png" alt="This Samsung Smart Monitor Is $300 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-smart-monitor-m9-sale-march-2026?utm_medium=RSS" target="_blank">This Samsung Smart Monitor Is $300 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-18 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Axiom-Station-1280x853.jpg" alt="5 Companies Competing to Replace the International Space Station" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/u-s-wants-to-mass-produce-the-drone-design-it-stole-from-iran-2000734799" target="_blank">U.S. Wants to Mass Produce the Drone Design It Stole From Iran</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-17 23:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Iran-War-Bitcoin-Crypto-Markets-1280x853.jpg" alt="UK Man Accuses Spouse of Stealing $172 Million Bitcoin Password via CCTV Camera" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/uk-man-accuses-spouse-of-stealing-172-million-bitcoin-password-via-cctv-camera-2000734846" target="_blank">UK Man Accuses Spouse of Stealing $172 Million Bitcoin Password via CCTV Camera</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-17 22:47</span>
             </div>
         </div>
 </div>
@@ -338,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 12:10 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
