@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-19 10:11:12 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-03-19 11:11:10 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, March 19, 2026 - 10:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, March 19, 2026 - 11:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,9 +48,27 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/19/g-s1-114405/japan-takaichi-visit-white-house" target="_blank">Japan&#x27;s prime minister visits the White House under shadow of Iran war</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-19 10:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/19/iran-hits-qatar-gas-operations-in-response-to-israeli-attack?traffic_source=rss" target="_blank">Iran hits Qatar gas operations in response to Israeli attack</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-19 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/mar/19/tanzania-lemi-limbu-freed-woman-learning-disabilities-death-row" target="_blank">Woman has sentence quashed by Tanzania court after over a decade on death row</a></span>
+                <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-03-19 10:00</span>
             </div>
         </div>
@@ -84,29 +99,38 @@
                 <span class="time">2026-03-19 08:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/19/unpleasant-surprises-will-key-french-cities-elect-far-right-mayors?traffic_source=rss" target="_blank">‘Unpleasant surprises’: Will key French cities elect far-right mayors?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-19 07:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2972/live/788f41d0-22b7-11f1-a79a-77e93010d956.jpg" alt="How the Iran war has left Europe facing yet another energy crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss" target="_blank">How the Iran war has left Europe facing yet another energy crisis</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-19 05:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-909570482-500x500-1773867861.jpg" alt="TCL’s German QLED ban puts pressure on TV brands to be more honest about QDs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/tcls-german-qled-ban-puts-pressure-on-tv-brands-to-be-more-honest-about-qds/" target="_blank">TCL’s German QLED ban puts pressure on TV brands to be more honest about QDs</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-19 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69a6346e91682f89277e814d/master/pass/Cult-of-High-Testosterone-Culture-1392919439.jpg" alt="The Men Obsessed With ‘High T’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-men-obsessed-with-high-t/" target="_blank">The Men Obsessed With ‘High T’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-19 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/19/inside-a-1-1b-deal-to-reshore-critical-minerals-refining/" target="_blank">Inside a $1.1B deal to reshore critical minerals refining</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-19 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69bb7525df4e8fbd78dd2946/master/pass/Specialized%20S-Works%20Levo%204,%203-SOURCE-Stephanie%20Pearson.jpg" alt="Best Electric Mountain Bikes (2026): Specialized, Cannondale, Salsa" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,38 +158,29 @@
                 <span class="time">2026-03-19 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" alt="Best Buy Discount Codes and Deals: Up to 60% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-buy-discount-code/" target="_blank">Best Buy Discount Codes and Deals: Up to 60% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-19 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/" target="_blank">Meta is having trouble with rogue AI agents</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-18 23:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2166043553-500x500.jpg" alt="Kagi Translate&#x27;s AI answers the question &quot;What would horny Margaret Thatcher say?&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/" target="_blank">Kagi Translate&#x27;s AI answers the question &quot;What would horny Margaret Thatcher say?&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-18 22:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ivannovazzi/moveet-building-a-city-agnostic-fleet-simulator-with-real-road-networks-and-live-traffic-2nkh" target="_blank">Moveet: Building a City-Agnostic Fleet Simulator with Real Road Networks and Live Traffic</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-19 11:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/" target="_blank">2% of ICML papers desk rejected because the authors used LLM in their reviews</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-19 10:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +217,6 @@
                 <span class="time">2026-03-19 07:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ohmygod/glassworms-solana-c2-how-a-supply-chain-monster-turned-the-blockchain-into-a-dead-drop-56dd" target="_blank">GlassWorm&#x27;s Solana C2: How a Supply-Chain Monster Turned the Blockchain Into a Dead Drop</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-19 06:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/advantech-mic-770-v3w-now-certified-on-ubuntu-24-04-lts" target="_blank">Advantech MIC-770 V3W now certified on Ubuntu 24.04 LTS</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-03-19 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,20 +231,20 @@
                 <span class="time">2026-03-19 09:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/metas-ai-glasses-and-privacy.html" target="_blank">Meta’s AI Glasses and Privacy</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-03-18 11:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/If-Looks-Could-Kill-Retro-Review-1280x853.jpg" alt="The Spy Film ‘If Looks Could Kill’ Was an Oddly Formative Moment in My Film Fandom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-spy-film-if-looks-could-kill-was-an-oddly-formative-moment-in-my-film-fandom-2000733484" target="_blank">The Spy Film ‘If Looks Could Kill’ Was an Oddly Formative Moment in My Film Fandom</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-19 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/GettyImages-2221682966-1280x853.jpg" alt="Polymarket to Open Bar Full of Screens" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +290,6 @@
                 <span class="time">2026-03-18 22:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/headphone-a-vs-headphone-1-compa-1280x853.jpg" alt="Nothing Headphone A vs. Headphone 1: Which Pair of ANC Wireless Headphones Wins?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nothing-headphone-a-vs-headphone-1-which-pair-of-anc-wireless-headphones-wins-2000735152" target="_blank">Nothing Headphone A vs. Headphone 1: Which Pair of ANC Wireless Headphones Wins?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-18 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -339,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 10:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 11:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
