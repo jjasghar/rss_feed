@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-19 08:09:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-19 09:12:19 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, March 19, 2026 - 08:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, March 19, 2026 - 09:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/19/nx-s1-5669426/cursive-handwriting-school-controversy" target="_blank">Cursive is back. But should students be learning the skill?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-19 09:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/pentagon-main_1773910023215_hpMain_4x3t_384.jpg" alt="Iran live updates: Hegseth to address war with Iran Thursday morning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492" target="_blank">Iran live updates: Hegseth to address war with Iran Thursday morning</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-19 08:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/19/trump-denies-knowledge-of-israeli-gas-field-attack?traffic_source=rss" target="_blank">Trump denies knowledge of Israeli gas field attack</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-19 08:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,38 +101,20 @@
                 <span class="time">2026-03-19 05:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/19/jihadist-violence-nigeria-drc-terrorism-index" target="_blank">Jihadist violence in Nigeria and DRC rose sharply last year even as global deaths from terror fell</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-19 05:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260318-joe-kent-vsb-2252-4ca836.jpg" alt="FBI conducting leak investigation into former Trump official who resigned over Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/national-security/fbi-investigating-former-trump-official-joe-kent-resigned-iran-war-rcna264232" target="_blank">FBI conducting leak investigation into former Trump official who resigned over Iran war</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-19 02:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Ras-Laffan-1-rt-gmh-260318_1773861678029_hpMain_4x3t_384.jpg" alt="Iran targets Gulf countries&#x27; energy infrastructure after Israeli strike on gas field" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/iran-targets-gulf-countries-energy-infrastructure-after-israeli/story?id=131197541" target="_blank">Iran targets Gulf countries&#x27; energy infrastructure after Israeli strike on gas field</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-19 02:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69b967163d7bc629bb6ef27c/master/pass/GettyImages-1211527991.jpg" alt="Get Ready for a Year of Chaotic Weather in the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/get-ready-for-a-year-of-chaotic-weather-in-the-us/" target="_blank">Get Ready for a Year of Chaotic Weather in the US</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-19 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" alt="Best Buy Discount Codes and Deals: Up to 60% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,15 +158,6 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/" target="_blank">Musk’s tactic of blaming users for Grok sex images may be foiled by EU law</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-03-18 21:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/897114/amazon-usps-contract-money-running-out" target="_blank">Amazon doesn’t want the blame for the Post Office going under</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-18 20:55</span>
             </div>
         </div>
 </div>
@@ -323,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 08:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 09:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
