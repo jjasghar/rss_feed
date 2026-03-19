@@ -1,41 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-19 01:31:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-19 02:58:23 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 33 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, March 19, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, March 19, 2026 - 02:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -70,6 +61,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/138f/live/926aeab0-22ed-11f1-abe1-05da6de99c2b.jpg" alt="US intelligence chief says Iran&#x27;s regime &#x27;intact&#x27; but &#x27;degraded&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1d6dk569w6o?at_medium=RSS&at_campaign=rss" target="_blank">US intelligence chief says Iran&#x27;s regime &#x27;intact&#x27; but &#x27;degraded&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-18 22:18</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -94,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/18/qatar-says-iran-missile-attack-sparks-fire-causes-damage-at-gas-facility?traffic_source=rss" target="_blank">Qatar says Iran missile attack sparks fire, causes damage at gas facility</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-18 18:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2804/live/dc039100-22f1-11f1-a60b-b951e22b29eb.jpg" alt="All doctors in England warned to watch for meningitis symptoms after Kent outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c20z08rdd9ro?at_medium=RSS&at_campaign=rss" target="_blank">All doctors in England warned to watch for meningitis symptoms after Kent outbreak</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-18 18:41</span>
             </div>
         </div>
 </div>
@@ -172,6 +163,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/slythefox/your-ai-agents-need-an-accountability-layer-267p" target="_blank">Your AI Agents Need an Accountability Layer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-19 02:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17301848/gnome-50-release" target="_blank">GNOME 50 is Here, and X11 is Finally Gone</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-19 02:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents" target="_blank">Austin’s surge of new housing construction drove down rents</a></span>
                 <span class="feed">Hacker News</span>
@@ -205,24 +214,6 @@
                 <span class="time">2026-03-18 21:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://nearzero.software/p/warranty-void-if-regenerated" target="_blank">Warranty Void If Regenerated</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-18 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-Experiment-DRM-GPUSVM" target="_blank">AMD Prototyping AMDGPU SVM Atop DRM_GPUSVM Framework</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-18 20:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +240,15 @@
                 <span class="title"><a href="https://gizmodo.com/val-kilmer-to-be-ai-ed-into-movie-with-blessing-of-his-family-2000735368" target="_blank">Val Kilmer to Be AI-ed Into Movie with Blessing of His Family</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-19 01:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/ss_322285fcb1937f1acbe1fb349c019d7e68d91017.1920x1080-1-1280x720.jpg" alt="Crimson Desert Reviews Hail It As A Gorgeous And Impressive But Bland And Often Flawed Open-World Blockbuster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/crimson-desert-metacritic-scores-review-roundup-2000680110" target="_blank">Crimson Desert Reviews Hail It As A Gorgeous And Impressive But Bland And Often Flawed Open-World Blockbuster</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-18 23:09</span>
             </div>
         </div>
 <div class="story">
@@ -285,15 +285,6 @@
                 <span class="title"><a href="https://kotaku.com/tomb-raider-remake-crystal-dynamics-layoffs-2000680096" target="_blank">Tomb Raider Studio Faces Fourth Round Of Layoffs In Just 12 Months</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-18 21:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/KPop_Demon_Hunters_u_01_04_59_06-1-1280x720.jpg" alt="KPop Demon Hunters Concert Tour Could Be Coming To An Arena Near You" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kpop-demon-hunters-concert-ejae-audrey-nuna-rei-ami-2000680075" target="_blank">KPop Demon Hunters Concert Tour Could Be Coming To An Arena Near You</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-18 20:31</span>
             </div>
         </div>
 </div>
@@ -360,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 02:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
