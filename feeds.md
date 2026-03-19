@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-19 06:16:45 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-19 07:18:46 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, March 19, 2026 - 06:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, March 19, 2026 - 07:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -67,6 +68,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/19/jihadist-violence-nigeria-drc-terrorism-index" target="_blank">Jihadist violence in Nigeria and DRC rose sharply last year even as global deaths from terror fell</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-19 05:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260318-joe-kent-vsb-2252-4ca836.jpg" alt="FBI conducting leak investigation into former Trump official who resigned over Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -93,20 +103,20 @@
                 <span class="time">2026-03-18 23:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Ras-Laffan-1-rt-gmh-260318_1773861678029_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran hits world&#x27;s largest liquefied natural gas terminal in Qatar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492" target="_blank">Iran live updates: Iran hits world&#x27;s largest liquefied natural gas terminal in Qatar</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-18 22:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" alt="Best Buy Discount Codes and Deals: Up to 60% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-buy-discount-code/" target="_blank">Best Buy Discount Codes and Deals: Up to 60% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-19 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +162,6 @@
                 <span class="time">2026-03-18 20:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/" target="_blank">Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-18 20:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +174,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/03/19/building-a-global-engineering-team-netlify/" target="_blank">Building a global engineering team (plus AI agents) with Netlify</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-03-19 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/garry_vee/i-built-a-free-tool-to-remove-duplicate-lines-instantly-no-signup-needed-i2d" target="_blank">I Built a Free Tool to Remove Duplicate Lines Instantly (No Signup Needed)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-19 07:12</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/jaideepparashar/the-difference-between-ai-features-and-ai-native-products-238n" target="_blank">The Difference Between AI Features and AI-Native Products</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-19 04:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/slythefox/your-ai-agents-need-an-accountability-layer-267p" target="_blank">Your AI Agents Need an Accountability Layer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-19 02:44</span>
             </div>
         </div>
 </div>
@@ -325,31 +326,13 @@
                 <span class="time">2026-03-18 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/03/18/it-no-so-good" target="_blank">It No So Good</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-03-18 07:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://ext.penny-arcade.com/comic/2026/03/18/it-no-so-good" target="_blank">It No So Good</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-03-18 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 06:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 07:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
