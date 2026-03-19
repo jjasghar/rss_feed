@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-19 03:54:45 UTC -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-03-19 04:36:49 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 1 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, March 19, 2026 - 03:54 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, March 19, 2026 - 04:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -164,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jaideepparashar/the-difference-between-ai-features-and-ai-native-products-238n" target="_blank">The Difference Between AI Features and AI-Native Products</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-19 04:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/slythefox/your-ai-agents-need-an-accountability-layer-267p" target="_blank">Your AI Agents Need an Accountability Layer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-19 02:44</span>
@@ -203,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/agenthustler/bright-data-review-2026-is-it-worth-the-price-honest-assessment-3gbe" target="_blank">Bright Data Review 2026: Is It Worth the Price? (Honest Assessment)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-18 22:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/myougatheaxo/claude-codedezhi-obuziekutowoshe-ji-surubu-bian-xing-deng-zhi-xing-domeinbiao-xian-noxing-an-quan-hua-53cp" target="_blank">Claude Codeで値オブジェクトを設計する：不変性・等値性・ドメイン表現の型安全化</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-18 21:00</span>
             </div>
         </div>
 </div>
@@ -337,22 +338,13 @@
                 <span class="time">2026-03-18 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/landscape_features.png" alt="Landscape Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3221/" target="_blank">Landscape Features</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-03-18 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 03:54 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 04:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
