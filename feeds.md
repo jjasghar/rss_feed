@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-19 04:36:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-19 05:26:59 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, March 19, 2026 - 04:37 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, March 19, 2026 - 05:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260318-joe-kent-vsb-2252-4ca836.jpg" alt="FBI conducting leak investigation into former Trump official who resigned over Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/national-security/fbi-investigating-former-trump-official-joe-kent-resigned-iran-war-rcna264232" target="_blank">FBI conducting leak investigation into former Trump official who resigned over Iran war</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-19 02:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Ras-Laffan-1-rt-gmh-260318_1773861678029_hpMain_4x3t_384.jpg" alt="Iran targets Gulf countries&#x27; energy infrastructure after Israeli strike on gas field" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/18/nigerias-president-tinubu-meets-royals-in-historic-uk-state-visit?traffic_source=rss" target="_blank">Nigeria’s President Tinubu meets royals in UK state visit</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-18 21:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/18/iranians-burn-trump-netanyahu-effigies-at-warship-victim-rally?traffic_source=rss" target="_blank">Iranians burn Trump, Netanyahu effigies at warship victim rally</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-18 20:42</span>
             </div>
         </div>
 </div>
@@ -164,6 +163,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/03/19/building-a-global-engineering-team-netlify/" target="_blank">Building a global engineering team (plus AI agents) with Netlify</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-03-19 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17301879/ai-companies-fund-open-source-security" target="_blank">AI Companies Put $12.5M Into Open Source Security to Fix a Problem Their Tools Helped Create</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-19 04:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jaideepparashar/the-difference-between-ai-features-and-ai-native-products-238n" target="_blank">The Difference Between AI Features and AI-Native Products</a></span>
                 <span class="feed">DEV Community</span>
@@ -192,27 +209,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents" target="_blank">Austin’s surge of new housing construction drove down rents</a></span>
+                <span class="title"><a href="https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code" target="_blank">A sufficiently detailed spec is code</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-03-19 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vincent4486/setup-osdev-environment-on-macos-132j" target="_blank">Setup OSDev Environment on macOS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-19 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/agenthustler/bright-data-review-2026-is-it-worth-the-price-honest-assessment-3gbe" target="_blank">Bright Data Review 2026: Is It Worth the Price? (Honest Assessment)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-18 22:02</span>
+                <span class="time">2026-03-19 02:23</span>
             </div>
         </div>
 </div>
@@ -343,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 04:37 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 05:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
