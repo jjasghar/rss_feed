@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-19 20:07:38 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-03-19 21:08:12 UTC -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, March 19, 2026 - 20:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, March 19, 2026 - 21:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251020-james-comey-zz-6396bf.jpg" alt="James Comey subpoenaed in Trump-appointed prosecutor&#x27;s &#x27;grand conspiracy&#x27; probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/fbi-james-comey-subpoena-trump-prosecutor-grand-conspiracy-probe-rcna264356" target="_blank">James Comey subpoenaed in Trump-appointed prosecutor&#x27;s &#x27;grand conspiracy&#x27; probe</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-19 20:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/19/nx-s1-5753911/eeoc-planned-parenthood-dei-settlement" target="_blank">Planned Parenthood chapter settles with EEOC over treatment of white employees</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-19 20:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +97,20 @@
                 <span class="time">2026-03-19 18:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ec6/live/a454f210-23b1-11f1-9a4e-e13728524fa3.jpg" alt="Huge queues for jabs as meningitis vaccination scheme expanded" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyk44px2j5o?at_medium=RSS&at_campaign=rss" target="_blank">Huge queues for jabs as meningitis vaccination scheme expanded</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-19 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/19/missile-strikes-close-to-reporter-during-israeli-attacks-in-lebanon?traffic_source=rss" target="_blank">Missile strikes close to reporter during Israeli attacks in Lebanon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-19 17:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2266672989-500x500.jpg" alt="Hundreds of millions of iPhones can be hacked with a new tool found in the wild" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/" target="_blank">Hundreds of millions of iPhones can be hacked with a new tool found in the wild</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-19 20:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/kash-patel-500x500.jpg" alt="FBI started buying Americans&#x27; location data again, Kash Patel confirms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -108,6 +118,15 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/fbi-started-buying-americans-location-data-again-kash-patel-confirms/" target="_blank">FBI started buying Americans&#x27; location data again, Kash Patel confirms</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-03-19 19:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/19/polymarket-continues-its-partnership-spree-with-a-major-league-baseball-deal/" target="_blank">Polymarket continues its partnership spree with a Major League Baseball deal</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-19 19:46</span>
             </div>
         </div>
 <div class="story">
@@ -137,24 +156,6 @@
                 <span class="time">2026-03-19 18:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/897388/kalshi-polymarket-journalists-partnership-deals" target="_blank">Prediction markets are trying to lure journalists with partnership deals</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-19 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/" target="_blank">Google introduces a new way for users to sideload Android apps that still protects against scams</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-19 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,9 +165,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nebulagg/how-to-add-llm-model-fallbacks-in-python-in-5-min-5200" target="_blank">How to Add LLM Model Fallbacks in Python in 5 Min</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-19 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nebulagg/how-to-test-ai-agents-before-they-burn-your-budget-53kl" target="_blank">How to Test AI Agents (Before They Burn Your Budget)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-19 20:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18915240&w=600" alt="Why Security Scanning Isn&#x27;t Enough for MCP Servers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/why-security-scanning-isnt-enough-for-mcp-servers" target="_blank">Why Security Scanning Isn&#x27;t Enough for MCP Servers</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-19 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Thunderbird-Roadmap-2026" target="_blank">Thunderbird Looks To Finalize Its Exchange Support, Refresh The Calendar UI</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-19 19:42</span>
             </div>
         </div>
 <div class="story">
@@ -185,33 +213,6 @@
                 <span class="title"><a href="https://dzone.com/articles/nvidia-gtc-2026-open-agents-shift" target="_blank">Nvidia’s Open Model Super Panel Made a Strong Case for Open Agents</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-19 19:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/ubuntu-new-boot-spinner.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 has a new boot animation (blink and you’ll miss it)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ubuntu-26-04-boot-spinner" target="_blank">Ubuntu 26.04 has a new boot animation (blink and you’ll miss it)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-19 17:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/Zipstack/visitran" target="_blank">Visitran: Agentic Pythonic data transformation platform(AGPL)</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-19 17:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18915261&w=600" alt="AI-Assisted Code Review With Claude Code (Terminal)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-assisted-code-review-with-claude-code-terminal" target="_blank">AI-Assisted Code Review With Claude Code (Terminal)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-19 17:00</span>
             </div>
         </div>
 </div>
@@ -233,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/A-sticker-of-the-Southpark-Trump-22Relax-Guy22-mem-2.jpg?fit=1080%2C1289&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s Truth Social burns $712 million to make $3.7 million" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/19/trumps-truth-social-burns-712-million-to-make-3-7-million.html" target="_blank">Trump&#x27;s Truth Social burns $712 million to make $3.7 million</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-19 20:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/switch-2s-1280x720.jpg" alt="The Switch 2’s Best New Feature Is A Battery Power Hog But Still Totally Worth It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/switch-2-handheld-boost-mode-battery-life-xenoblade-2000680392" target="_blank">The Switch 2’s Best New Feature Is A Battery Power Hog But Still Totally Worth It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-19 20:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KM3KJMASCDY3XHTZQK643E80/hero-image.png" alt="&#x27;Zone Zero&#x27; Cardio Isn&#x27;t What It Sounds Like" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +288,6 @@
                 <span class="time">2026-03-19 16:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/trappist-1-1280x853.jpeg" alt="Astronomers Pinpoint the Best 45 Places in the Galaxy to Look For Alien Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/astronomers-pinpoint-the-best-45-places-in-the-galaxy-to-look-for-alien-life-2000735521" target="_blank">Astronomers Pinpoint the Best 45 Places in the Galaxy to Look For Alien Life</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-19 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KM3BKN6J6V835RF90XY55XTT/hero-image.jpg" alt="Firefox Is Getting a Free Built-In VPN" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/firefox-is-getting-a-free-built-in-vpn?utm_medium=RSS" target="_blank">Firefox Is Getting a Free Built-In VPN</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-19 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 20:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 21:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
