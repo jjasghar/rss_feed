@@ -1,26 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-03-19 00:08:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-19 01:31:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 17 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, March 19, 2026 - 00:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, March 19, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -96,6 +111,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/" target="_blank">Meta is having trouble with rogue AI agents</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-18 23:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2166043553-500x500.jpg" alt="Kagi Translate&#x27;s AI answers the question &quot;What would horny Margaret Thatcher say?&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -140,20 +164,20 @@
                 <span class="time">2026-03-18 20:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals" target="_blank">The best deals on MacBooks right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-18 19:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents" target="_blank">Austin’s surge of new housing construction drove down rents</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-19 00:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,15 +223,6 @@
                 <span class="time">2026-03-18 20:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thenexusguard/three-companies-just-converged-on-intent-based-ai-agent-security-none-of-them-can-verify-identity-23hj" target="_blank">Three Companies Just Converged on Intent-Based AI Agent Security. None of Them Can Verify Identity.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-18 20:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/val-kilmer-wave-1280x854.jpg" alt="Val Kilmer to Be AI-ed Into Movie with Blessing of His Family" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/val-kilmer-to-be-ai-ed-into-movie-with-blessing-of-his-family-2000735368" target="_blank">Val Kilmer to Be AI-ed Into Movie with Blessing of His Family</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-19 01:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2019/09/axc1jyyt8pab2odqwsns-1024x790.jpg" alt="Government Registers Aliens.Gov Domain as Next Distraction From Everything Else" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,20 +296,20 @@
                 <span class="time">2026-03-18 20:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/marathons2.jpg" alt="Marathon Has Fans Racing To Kill 500 Million Robots Like It’s Helldivers 2 And It’s Taking Longer Than Expected" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marathon-has-fans-racing-to-kill-500-million-robots-like-its-helldivers-2-and-its-taking-longer-than-expected-2000680043" target="_blank">Marathon Has Fans Racing To Kill 500 Million Robots Like It’s Helldivers 2 And It’s Taking Longer Than Expected</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-18 19:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5789.png" alt="Time To Have The Talk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5789" target="_blank">Time To Have The Talk</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-03-19 00:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -331,22 +355,13 @@
                 <span class="time">2026-03-18 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5788.png" alt="Stands To Reason" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5788" target="_blank">Stands To Reason</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-03-18 00:36</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 00:08 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
