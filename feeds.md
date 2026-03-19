@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-03-19 11:11:10 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-19 12:06:06 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, March 19, 2026 - 11:11 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, March 19, 2026 - 12:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +101,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal" target="_blank">Uber to invest $1.25 billion in Rivian as part of new robotaxi deal</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-19 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-909570482-500x500-1773867861.jpg" alt="TCL’s German QLED ban puts pressure on TV brands to be more honest about QDs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -149,20 +154,20 @@
                 <span class="time">2026-03-19 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b967163d7bc629bb6ef27c/master/pass/GettyImages-1211527991.jpg" alt="Get Ready for a Year of Chaotic Weather in the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/get-ready-for-a-year-of-chaotic-weather-in-the-us/" target="_blank">Get Ready for a Year of Chaotic Weather in the US</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-19 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/engineering-culture-software/en/headerimage/generatedHeaderImage-1772618096626.jpg" alt="How to Shape the Engineering Culture in Software Companies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/engineering-culture-software/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How to Shape the Engineering Culture in Software Companies</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-19 11:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +213,6 @@
                 <span class="time">2026-03-19 07:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/garry_vee/i-built-a-free-tool-to-remove-duplicate-lines-instantly-no-signup-needed-i2d" target="_blank">I Built a Free Tool to Remove Duplicate Lines Instantly (No Signup Needed)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-19 07:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Pluribus_Rhea-Seehorn-1280x853.jpg" alt="‘Pluribus’ Might Ignore That Giant Bomb of a Season One Cliffhanger" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/pluribus-might-ignore-that-giant-bomb-of-a-season-one-cliffhanger-2000735343" target="_blank">‘Pluribus’ Might Ignore That Giant Bomb of a Season One Cliffhanger</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-19 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/If-Looks-Could-Kill-Retro-Review-1280x853.jpg" alt="The Spy Film ‘If Looks Could Kill’ Was an Oddly Formative Moment in My Film Fandom" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +286,6 @@
                 <span class="time">2026-03-18 22:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/earbuds.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Earleaf: an offline audiobook app built out of frustration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/18/earleaf-an-offline-audiobook-app-built-out-of-frustration.html" target="_blank">Earleaf: an offline audiobook app built out of frustration</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-18 22:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 11:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 12:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
