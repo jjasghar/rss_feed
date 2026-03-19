@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-19 13:27:26 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-19 14:15:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, March 19, 2026 - 13:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, March 19, 2026 - 14:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/hegseth-7-gty-gmh-260319_1773924307139_hpMain_4x3t_384.jpg" alt="Iran live updates: Hegseth acknowledges $200B funding ask, saying it could &#x27;move&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492" target="_blank">Iran live updates: Hegseth acknowledges $200B funding ask, saying it could &#x27;move&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-19 14:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/19/nx-s1-5750510/state-save-acts-florida" target="_blank">The SAVE Act faces long odds in the Senate. GOP-led states are picking up the cause</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-19 14:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +100,20 @@
                 <span class="time">2026-03-19 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/mar/19/tanzania-lemi-limbu-freed-woman-learning-disabilities-death-row" target="_blank">Woman has sentence quashed by Tanzania court after over a decade on death row</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-19 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/19/nx-s1-5669426/cursive-handwriting-school-controversy" target="_blank">Cursive is back. But should students be learning the skill?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-19 09:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/19/k2-to-launch-its-first-high-powered-satellite-for-space-compute/" target="_blank">K2 to launch its first high-powered satellite for space compute</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-19 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +159,20 @@
                 <span class="time">2026-03-19 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69a6346e91682f89277e814d/master/pass/Cult-of-High-Testosterone-Culture-1392919439.jpg" alt="The Men Obsessed With ‘High T’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-men-obsessed-with-high-t/" target="_blank">The Men Obsessed With ‘High T’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-19 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18915135&w=600" alt="Building MCP Hub for DevOps and CI/CD Pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-an-mcp-hub-for-devops-and-cicd-pipelines" target="_blank">Building MCP Hub for DevOps and CI/CD Pipelines</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-19 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +218,6 @@
                 <span class="time">2026-03-19 09:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Virtual-Swap-Space-Linux-v4" target="_blank">Virtual Swap Space Patches Updated For Improving Linux&#x27;s Swap Design</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-19 09:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/01/eab841fe56595f06aab34fdf17356577-1280x720.jpg" alt="First Sonic The Hedgehog 4 Teaser Confirms Jim Carrey Is Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sonic-hedgehog-4-teaser-amy-robotnik-jim-carrey-kristen-bell-2000680296" target="_blank">First Sonic The Hedgehog 4 Teaser Confirms Jim Carrey Is Back</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-19 13:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/MS0319-marina-sirtis-picard-season-3-1280x853.jpg" alt="Marina Sirtis Has a Very Real Reason Why She Thinks ‘Star Trek: Legacy’ Will Never Happen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +291,6 @@
                 <span class="time">2026-03-19 02:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/val-kilmer-wave-1280x854.jpg" alt="Val Kilmer to Be AI-ed Into Movie with Blessing of His Family" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/val-kilmer-to-be-ai-ed-into-movie-with-blessing-of-his-family-2000735368" target="_blank">Val Kilmer to Be AI-ed Into Movie with Blessing of His Family</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-19 01:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 13:27 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 14:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
