@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-19 22:03:08 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-03-19 23:05:19 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, March 19, 2026 - 22:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, March 19, 2026 - 23:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a69/live/76b6af90-23db-11f1-b297-95b0a0a8331e.jpg" alt="Netanyahu says Israel &#x27;acted alone&#x27; in attack on Iranian gas field" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss" target="_blank">Netanyahu says Israel &#x27;acted alone&#x27; in attack on Iranian gas field</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-19 22:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251020-james-comey-zz-6396bf.jpg" alt="James Comey subpoenaed in Trump-appointed prosecutor&#x27;s &#x27;grand conspiracy&#x27; probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,21 +89,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-riyadh-iran-missiles_7197172.jpg?20260319103821" alt="Last 24 hours show a prolonged Iran war could do calamitous damage to global economy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/19/nx-s1-5753798/hamas-weapons-trump-gaza-board-of-peace" target="_blank">Trump&#x27;s mediators offer Hamas formal proposal to give up its weapons in Gaza</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-19 19:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/19/nx-s1-5753563/afroman-lemon-pound-cake-trial" target="_blank">Afroman prevails in cops&#x27; music video defamation suit after a brief but viral trial</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-19 18:30</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/iran-war-last-24-hours-show-a-prolonged-conflict-could-do-calamitous-damage-to-global-economy-13521949" target="_blank">Last 24 hours show a prolonged Iran war could do calamitous damage to global economy</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-19 19:24</span>
             </div>
         </div>
 </div>
@@ -100,6 +102,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69bb27db20b5c90983327a6a/master/pass/Uncanny-Valley-Nvida-GTC-Business-2266590803.jpg" alt="‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/" target="_blank">‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-19 21:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +156,20 @@
                 <span class="time">2026-03-19 19:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/openai-logo-500x500-1741196880.jpg" alt="OpenAI is acquiring open source Python tool-maker Astral" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral/" target="_blank">OpenAI is acquiring open source Python tool-maker Astral</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-19 18:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/eqhoids/finding-profitable-niches-with-github-trending-data-my-automated-pipeline-for-product-opportunities-4900" target="_blank">Finding Profitable Niches with GitHub Trending Data: My Automated Pipeline for Product Opportunities</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-19 23:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +215,6 @@
                 <span class="time">2026-03-19 19:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc2id8jg9rl6cfkb26e11.jpeg" alt="How to Get Routing, Geocoding and Real-Time Maps With Zero API Keys" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/capeku/how-to-get-routing-geocoding-and-real-time-maps-with-zero-api-keys-5gbc" target="_blank">How to Get Routing, Geocoding and Real-Time Maps With Zero API Keys</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-19 19:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,12 +235,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/07/d1feb5f208eb839944b1d0df770c5894.jpg" alt="Publisher Accused Of Leaking Subnautica 2 Release Date To Spite Co-Founders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/publisher-accused-of-leaking-subnautica-2-release-date-to-spite-co-founders-2000680432" target="_blank">Publisher Accused Of Leaking Subnautica 2 Release Date To Spite Co-Founders</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-19 22:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Redwoods-River-Shoot-Extra-15-1280x800.jpeg" alt="Look at This Treasure Trove of Unseen Photos From the Filming of ‘Return of the Jedi’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-wars-behind-the-scenes-photos-return-of-the-jedi-auction-2000735610" target="_blank">Look at This Treasure Trove of Unseen Photos From the Filming of ‘Return of the Jedi’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-19 22:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/horizon-worlds-1280x853.jpg" alt="Meta After Killing the Metaverse: ‘Just Kidding’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/meta-after-killing-the-metaverse-just-kidding-2000735795" target="_blank">Meta After Killing the Metaverse: ‘Just Kidding’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-19 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KM3TYF0J2EG4H6C8S8B5WQDX/hero-image.jpg" alt="Apple Is Finally Letting You Use Your Own Payment Method in Family Sharing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-is-finally-letting-you-use-your-own-payment-method-in-family-sharing?utm_medium=RSS" target="_blank">Apple Is Finally Letting You Use Your Own Payment Method in Family Sharing</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-19 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -257,33 +286,6 @@
                 <span class="title"><a href="https://kotaku.com/switch-2-handheld-boost-mode-battery-life-xenoblade-2000680392" target="_blank">The Switch 2’s Best New Feature Is A Battery Power Hog But Still Totally Worth It</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-19 20:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KM3KJMASCDY3XHTZQK643E80/hero-image.png" alt="&#x27;Zone Zero&#x27; Cardio Isn&#x27;t What It Sounds Like" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/zone-zero-cardio-isnt-what-it-sounds-like?utm_medium=RSS" target="_blank">&#x27;Zone Zero&#x27; Cardio Isn&#x27;t What It Sounds Like</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-19 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/marathonart2-1280x720.jpg" alt="16 Super Short Stories That Prove Marathon Is One Of 2026’s Best Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/16-super-short-stories-that-prove-marathon-is-one-of-2026s-best-games-2000680105" target="_blank">16 Super Short Stories That Prove Marathon Is One Of 2026’s Best Games</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-19 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/trump-1.jpg?fit=1200%2C741&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains invokes Pearl Harbor like it&#x27;s a punchline" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/19/grandpa-pudding-brains-invokes-pearl-harbor-like-its-a-punchline.html" target="_blank">Grandpa Pudding Brains invokes Pearl Harbor like it&#x27;s a punchline</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-19 17:38</span>
             </div>
         </div>
 </div>
@@ -314,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 22:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 23:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
