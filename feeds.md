@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-03-19 21:08:12 UTC -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-03-19 22:03:08 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, March 19, 2026 - 21:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, March 19, 2026 - 22:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -62,6 +60,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/f35-2-ht-gmh-260319_1773947204696_hpMain_4x3t_384.jpg" alt="Iran live updates: F-35 believed to have been struck by Iranian fire, source says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492" target="_blank">Iran live updates: F-35 believed to have been struck by Iranian fire, source says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-19 19:41</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -88,20 +95,20 @@
                 <span class="time">2026-03-19 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260319-trump-takaichi-japan-mn-1300-0893c6.jpg" alt="Trump makes Pearl Harbor joke during meeting with Japanese prime minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/pearl-harbor-joke-iran-operation-meeting-japan-prime-minister-war-rcna264325" target="_blank">Trump makes Pearl Harbor joke during meeting with Japanese prime minister</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-19 18:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale" target="_blank">Sony’s WF-1000XM6 wireless earbuds are on sale for the first time</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-19 21:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2266672989-500x500.jpg" alt="Hundreds of millions of iPhones can be hacked with a new tool found in the wild" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +154,20 @@
                 <span class="time">2026-03-19 18:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69babd3d5d3eee4abc151306/master/pass/GettyImages-2258493236.jpg" alt="FCC Enforcement Chief Offered to Help Brendan Carr Target Disney, Records Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/fcc-enforcement-chief-offered-to-help-brendan-carr-target-disney-records-show/" target="_blank">FCC Enforcement Chief Offered to Help Brendan Carr Target Disney, Records Show</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-19 18:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Microsoft-DXGKRNL-Linux-v4" target="_blank">Microsoft&#x27;s DXGKRNL Driver Updated For Linux - Many Changes After Four Years</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-19 21:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +213,6 @@
                 <span class="time">2026-03-19 19:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18944853&w=600" alt="Nvidia’s Open Model Super Panel Made a Strong Case for Open Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/nvidia-gtc-2026-open-agents-shift" target="_blank">Nvidia’s Open Model Super Panel Made a Strong Case for Open Agents</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-19 19:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/horizon-worlds-1280x853.jpg" alt="Meta After Killing the Metaverse: ‘Just Kidding’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/meta-after-killing-the-metaverse-just-kidding-2000735795" target="_blank">Meta After Killing the Metaverse: ‘Just Kidding’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-19 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/A-sticker-of-the-Southpark-Trump-22Relax-Guy22-mem-2.jpg?fit=1080%2C1289&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s Truth Social burns $712 million to make $3.7 million" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +286,6 @@
                 <span class="time">2026-03-19 17:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/Mario9s.jpg" alt="McDonald’s Gives The Best Super Mario Galaxy Character More Kids Meal Toys Than The Rest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mcdonalds-super-mario-galaxy-toys-kids-meal-bowser-2000680367" target="_blank">McDonald’s Gives The Best Super Mario Galaxy Character More Kids Meal Toys Than The Rest</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-19 16:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 21:08 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 22:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
