@@ -1,31 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-19 12:06:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-19 13:27:26 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, March 19, 2026 - 12:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, March 19, 2026 - 13:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/3/19/chinas-silence-on-iran-reveals-its-true-priorities?traffic_source=rss" target="_blank">China’s silence on Iran reveals its true priorities</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-19 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773919690362_tdy_news_7a_engel_iran_attacking_energy_260319_1920x1080-ye7r3p.jpg" alt="Iran Targets Energy Sites After Israel Hit World&#x27;s Largest Gas Field" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-threatens-to-blow-up-south-pars-as-iran-war-intensifies-259580485522" target="_blank">Iran Targets Energy Sites After Israel Hit World&#x27;s Largest Gas Field</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-19 11:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +104,38 @@
                 <span class="time">2026-03-19 09:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/pentagon-main_1773910023215_hpMain_4x3t_384.jpg" alt="Iran live updates: Hegseth to address war with Iran Thursday morning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492" target="_blank">Iran live updates: Hegseth to address war with Iran Thursday morning</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-19 08:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/19/trump-denies-knowledge-of-israeli-gas-field-attack?traffic_source=rss" target="_blank">Trump denies knowledge of Israeli gas field attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-19 08:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/19/consumer-focused-privacy-company-cloaked-raises-375m-as-it-expands-to-enterprise/" target="_blank">Consumer-focused privacy company Cloaked raises $375M as it expands to enterprise</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-19 13:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/896648/tubi-tiktok-creatorverse-incubator" target="_blank">Tubi and TikTok are partnering to produce long form series</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-19 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69bafaa060afc4a42d37171f/master/pass/Should-You-Hike-in-Boots-or-Trail-Runners-.jpg" alt="Should You Hike in Boots or Trail Runners? (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/should-you-hike-in-boots-or-trail-runners/" target="_blank">Should You Hike in Boots or Trail Runners? (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-19 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,38 +163,20 @@
                 <span class="time">2026-03-19 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/19/inside-a-1-1b-deal-to-reshore-critical-minerals-refining/" target="_blank">Inside a $1.1B deal to reshore critical minerals refining</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-19 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69bb7525df4e8fbd78dd2946/master/pass/Specialized%20S-Works%20Levo%204,%203-SOURCE-Stephanie%20Pearson.jpg" alt="Best Electric Mountain Bikes (2026): Specialized, Cannondale, Salsa" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-electric-mountain-bikes/" target="_blank">Best Electric Mountain Bikes (2026): Specialized, Cannondale, Salsa</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-19 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/897097/opt-bill-international-student-visas" target="_blank">Trump is threatening international students, and a new bill could help stop him</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-19 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sampseiol1/you-dont-need-investors-accelerators-or-fellowships-you-just-need-to-build-and-how-to-do-it-136p" target="_blank">You Don&#x27;t Need Investors, Accelerators, or Fellowships — You Just Need to Build (And How to Do It Right)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-19 13:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/03/engineering-culture-software/en/headerimage/generatedHeaderImage-1772618096626.jpg" alt="How to Shape the Engineering Culture in Software Companies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,28 +207,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/" target="_blank">Afroman found not liable in defamation case brought by Ohio cops who raided home</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-19 09:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Virtual-Swap-Space-Linux-v4" target="_blank">Virtual Swap Space Patches Updated For Improving Linux&#x27;s Swap Design</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-19 09:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/humanpagesai/ai-is-creating-a-new-kind-of-tech-debt-and-nobody-is-talking-about-it-99l" target="_blank">AI Is Creating a New Kind of Tech Debt — And Nobody Is Talking About It</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-19 07:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/03/19/building-a-global-engineering-team-netlify/" target="_blank">Building a global engineering team (plus AI agents) with Netlify</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-03-19 07:40</span>
             </div>
         </div>
 </div>
@@ -232,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/MS0319-marina-sirtis-picard-season-3-1280x853.jpg" alt="Marina Sirtis Has a Very Real Reason Why She Thinks ‘Star Trek: Legacy’ Will Never Happen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/marina-sirtis-star-trek-legacy-picard-paramount-2000735315" target="_blank">Marina Sirtis Has a Very Real Reason Why She Thinks ‘Star Trek: Legacy’ Will Never Happen</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-19 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KM2Q1G8SQWME3B3SQ6D527Y7/hero-image.png" alt="This Razer Gaming Controller Is Nearly 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/razer-wolverine-v3-gaming-controller-sale-march-2026?utm_medium=RSS" target="_blank">This Razer Gaming Controller Is Nearly 50% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-19 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Pluribus_Rhea-Seehorn-1280x853.jpg" alt="‘Pluribus’ Might Ignore That Giant Bomb of a Season One Cliffhanger" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/val-kilmer-to-be-ai-ed-into-movie-with-blessing-of-his-family-2000735368" target="_blank">Val Kilmer to Be AI-ed Into Movie with Blessing of His Family</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-19 01:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/ss_322285fcb1937f1acbe1fb349c019d7e68d91017.1920x1080-1-1280x720.jpg" alt="Crimson Desert Reviews Hail It As A Gorgeous And Impressive But Bland And Often Flawed Open-World Blockbuster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/crimson-desert-metacritic-scores-review-roundup-2000680110" target="_blank">Crimson Desert Reviews Hail It As A Gorgeous And Impressive But Bland And Often Flawed Open-World Blockbuster</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-18 23:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2019/09/axc1jyyt8pab2odqwsns-1024x790.jpg" alt="Government Registers Aliens.Gov Domain as Next Distraction From Everything Else" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/government-registers-aliens-gov-domain-as-next-distraction-from-everything-else-2000735217" target="_blank">Government Registers Aliens.Gov Domain as Next Distraction From Everything Else</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-18 22:35</span>
             </div>
         </div>
 </div>
@@ -323,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 12:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 13:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
