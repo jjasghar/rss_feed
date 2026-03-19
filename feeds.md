@@ -1,36 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-03-19 14:15:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-19 15:13:37 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, March 19, 2026 - 14:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, March 19, 2026 - 15:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut" target="_blank">Some of the world’s poorest countries to lose UK aid due to 56% budget cut</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-19 14:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/hegseth-7-gty-gmh-260319_1773924307139_hpMain_4x3t_384.jpg" alt="Iran live updates: Hegseth acknowledges $200B funding ask, saying it could &#x27;move&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +106,20 @@
                 <span class="time">2026-03-19 10:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/19/iran-hits-qatar-gas-operations-in-response-to-israeli-attack?traffic_source=rss" target="_blank">Iran hits Qatar gas operations in response to Israeli attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-19 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69baacb648cfa1aefb918759/master/pass/GettyImages-2263125077.jpg" alt="Signal’s Creator Is Helping Encrypt Meta AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/" target="_blank">Signal’s Creator Is Helping Encrypt Meta AI</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-19 14:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +165,38 @@
                 <span class="time">2026-03-19 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-909570482-500x500-1773867861.jpg" alt="TCL’s German QLED ban puts pressure on TV brands to be more honest about QDs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/tcls-german-qled-ban-puts-pressure-on-tv-brands-to-be-more-honest-about-qds/" target="_blank">TCL’s German QLED ban puts pressure on TV brands to be more honest about QDs</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-19 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/morgan-stanley-apis-mcp-calm/en/headerimage/generatedHeaderImage-1773770107168.jpg" alt="QCon London 2026: Morgan Stanley Rethinks Its API Program for the MCP Era" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/morgan-stanley-apis-mcp-calm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: Morgan Stanley Rethinks Its API Program for the MCP Era</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-19 15:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18915144&w=600" alt="Latency Is Cheap, Bandwidth Is Not" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/latency-is-cheap-bandwidth-is-not" target="_blank">Latency Is Cheap, Bandwidth Is Not</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-19 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/03/19/ai-is-becoming-a-second-brain-at-the-expense-of-your-first-one/" target="_blank">AI is becoming a second brain at the expense of your first one</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-03-19 14:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18915135&w=600" alt="Building MCP Hub for DevOps and CI/CD Pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -183,39 +216,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2026/03/engineering-culture-software/en/headerimage/generatedHeaderImage-1772618096626.jpg" alt="How to Shape the Engineering Culture in Software Companies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/engineering-culture-software/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How to Shape the Engineering Culture in Software Companies</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-19 11:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ivannovazzi/moveet-building-a-city-agnostic-fleet-simulator-with-real-road-networks-and-live-traffic-2nkh" target="_blank">Moveet: Building a City-Agnostic Fleet Simulator with Real Road Networks and Live Traffic</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-19 11:06</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/" target="_blank">2% of ICML papers desk rejected because the authors used LLM in their reviews</a></span>
+                <span class="title"><a href="https://astral.sh/blog/openai" target="_blank">Astral to Join OpenAI</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-03-19 10:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/" target="_blank">Afroman found not liable in defamation case brought by Ohio cops who raided home</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-19 09:51</span>
+                <span class="time">2026-03-19 13:05</span>
             </div>
         </div>
 </div>
@@ -237,6 +243,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Project-Hail-Mary-Lord-Miller-interview-1280x853.jpg" alt="How ‘Project Hail Mary’ Made Andy Weir’s Story Even More Cinematic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-project-hail-mary-made-andy-weirs-story-even-more-cinematic-2000735223" target="_blank">How ‘Project Hail Mary’ Made Andy Weir’s Story Even More Cinematic</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-19 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/image-40-1280x778.jpg" alt="Mario Galaxy Movie Star Goes Viral For Being Asked The Dumbest Question Imaginable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mario-galaxy-movie-star-goes-viral-for-being-asked-the-dumbest-question-imaginable-2000680289" target="_blank">Mario Galaxy Movie Star Goes Viral For Being Asked The Dumbest Question Imaginable</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-19 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KHPM03ZJFRAKBM337N5306KQ/hero-image.jpg" alt="Here Are the New Features Coming in iOS 26.4" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/here-are-the-new-features-coming-in-ios-264?utm_medium=RSS" target="_blank">Here Are the New Features Coming in iOS 26.4</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-19 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/01/eab841fe56595f06aab34fdf17356577-1280x720.jpg" alt="First Sonic The Hedgehog 4 Teaser Confirms Jim Carrey Is Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,33 +295,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/razer-wolverine-v3-gaming-controller-sale-march-2026?utm_medium=RSS" target="_blank">This Razer Gaming Controller Is Nearly 50% Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-19 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Pluribus_Rhea-Seehorn-1280x853.jpg" alt="‘Pluribus’ Might Ignore That Giant Bomb of a Season One Cliffhanger" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/pluribus-might-ignore-that-giant-bomb-of-a-season-one-cliffhanger-2000735343" target="_blank">‘Pluribus’ Might Ignore That Giant Bomb of a Season One Cliffhanger</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-19 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/If-Looks-Could-Kill-Retro-Review-1280x853.jpg" alt="The Spy Film ‘If Looks Could Kill’ Was an Oddly Formative Moment in My Film Fandom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-spy-film-if-looks-could-kill-was-an-oddly-formative-moment-in-my-film-fandom-2000733484" target="_blank">The Spy Film ‘If Looks Could Kill’ Was an Oddly Formative Moment in My Film Fandom</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-19 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/GettyImages-2221682966-1280x853.jpg" alt="Polymarket to Open Bar Full of Screens" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/polymarket-to-open-bar-full-of-screens-2000735372" target="_blank">Polymarket to Open Bar Full of Screens</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-19 02:51</span>
             </div>
         </div>
 </div>
@@ -328,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 14:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 15:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
