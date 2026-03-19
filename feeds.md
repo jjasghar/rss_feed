@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-19 05:26:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-19 06:16:45 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, March 19, 2026 - 05:27 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, March 19, 2026 - 06:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2972/live/788f41d0-22b7-11f1-a79a-77e93010d956.jpg" alt="How the Iran war has left Europe facing yet another energy crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss" target="_blank">How the Iran war has left Europe facing yet another energy crisis</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-19 05:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/19/us-intelligence-agencies-not-expecting-china-to-invade-taiwan-in-2027?traffic_source=rss" target="_blank">US intelligence agencies not expecting China to invade Taiwan in 2027</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-19 05:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260318-joe-kent-vsb-2252-4ca836.jpg" alt="FBI conducting leak investigation into former Trump official who resigned over Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,24 +100,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492" target="_blank">Iran live updates: Iran hits world&#x27;s largest liquefied natural gas terminal in Qatar</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-18 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/138f/live/926aeab0-22ed-11f1-abe1-05da6de99c2b.jpg" alt="US intelligence chief says Iran&#x27;s regime &#x27;intact&#x27; but &#x27;degraded&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1d6dk569w6o?at_medium=RSS&at_campaign=rss" target="_blank">US intelligence chief says Iran&#x27;s regime &#x27;intact&#x27; but &#x27;degraded&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-18 22:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/18/nigerias-president-tinubu-meets-royals-in-historic-uk-state-visit?traffic_source=rss" target="_blank">Nigeria’s President Tinubu meets royals in UK state visit</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-18 21:46</span>
             </div>
         </div>
 </div>
@@ -172,6 +178,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ohmygod/glassworms-solana-c2-how-a-supply-chain-monster-turned-the-blockchain-into-a-dead-drop-56dd" target="_blank">GlassWorm&#x27;s Solana C2: How a Supply-Chain Monster Turned the Blockchain Into a Dead Drop</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-19 06:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/advantech-mic-770-v3w-now-certified-on-ubuntu-24-04-lts" target="_blank">Advantech MIC-770 V3W now certified on Ubuntu 24.04 LTS</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-03-19 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17301879/ai-companies-fund-open-source-security" target="_blank">AI Companies Put $12.5M Into Open Source Security to Fix a Problem Their Tools Helped Create</a></span>
                 <span class="feed">It's FOSS</span>
@@ -196,24 +220,6 @@
                 <span class="time">2026-03-19 02:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17301848/gnome-50-release" target="_blank">GNOME 50 is Here, and X11 is Finally Gone</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-19 02:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code" target="_blank">A sufficiently detailed spec is code</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-19 02:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/GettyImages-2221682966-1280x853.jpg" alt="Polymarket to Open Bar Full of Screens" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/polymarket-to-open-bar-full-of-screens-2000735372" target="_blank">Polymarket to Open Bar Full of Screens</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-19 02:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/val-kilmer-wave-1280x854.jpg" alt="Val Kilmer to Be AI-ed Into Movie with Blessing of His Family" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +291,6 @@
                 <span class="title"><a href="https://gizmodo.com/nothing-headphone-a-vs-headphone-1-which-pair-of-anc-wireless-headphones-wins-2000735152" target="_blank">Nothing Headphone A vs. Headphone 1: Which Pair of ANC Wireless Headphones Wins?</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-18 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/tomb-raider.jpg" alt="Tomb Raider Studio Faces Fourth Round Of Layoffs In Just 12 Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tomb-raider-remake-crystal-dynamics-layoffs-2000680096" target="_blank">Tomb Raider Studio Faces Fourth Round Of Layoffs In Just 12 Months</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-18 21:52</span>
             </div>
         </div>
 </div>
@@ -342,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 05:27 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 06:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
