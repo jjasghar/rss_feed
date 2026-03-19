@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-19 09:12:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-19 10:11:12 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, March 19, 2026 - 09:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, March 19, 2026 - 10:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/19/iran-hits-qatar-gas-operations-in-response-to-israeli-attack?traffic_source=rss" target="_blank">Iran hits Qatar gas operations in response to Israeli attack</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-19 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +102,29 @@
                 <span class="time">2026-03-19 05:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/19/us-intelligence-agencies-not-expecting-china-to-invade-taiwan-in-2027?traffic_source=rss" target="_blank">US intelligence agencies not expecting China to invade Taiwan in 2027</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-19 05:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69bb7525df4e8fbd78dd2946/master/pass/Specialized%20S-Works%20Levo%204,%203-SOURCE-Stephanie%20Pearson.jpg" alt="Best Electric Mountain Bikes (2026): Specialized, Cannondale, Salsa" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-electric-mountain-bikes/" target="_blank">Best Electric Mountain Bikes (2026): Specialized, Cannondale, Salsa</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-19 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/897097/opt-bill-international-student-visas" target="_blank">Trump is threatening international students, and a new bill could help stop him</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-19 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69b967163d7bc629bb6ef27c/master/pass/GettyImages-1211527991.jpg" alt="Get Ready for a Year of Chaotic Weather in the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +161,20 @@
                 <span class="time">2026-03-18 22:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/897145/kash-patel-ron-wyden-fbi-location-data-no-warrant" target="_blank">The FBI is buying Americans’ location data</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-18 21:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2256968212-500x500-1773867440.jpg" alt="Musk’s tactic of blaming users for Grok sex images may be foiled by EU law" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/" target="_blank">Musk’s tactic of blaming users for Grok sex images may be foiled by EU law</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-18 21:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Virtual-Swap-Space-Linux-v4" target="_blank">Virtual Swap Space Patches Updated For Improving Linux&#x27;s Swap Design</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-19 09:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,20 +220,20 @@
                 <span class="time">2026-03-19 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17301879/ai-companies-fund-open-source-security" target="_blank">AI Companies Put $12.5M Into Open Source Security to Fix a Problem Their Tools Helped Create</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-19 04:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/hacking-a-robot-vacuum.html" target="_blank">Hacking a Robot Vacuum</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-03-19 09:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -329,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 09:12 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 10:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
