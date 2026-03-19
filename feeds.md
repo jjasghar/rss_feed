@@ -1,42 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-19 15:13:37 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-19 16:15:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 33 feeds processed -->
+<!-- Generated 11 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, March 19, 2026 - 15:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, March 19, 2026 - 16:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/19/death-toll-surpasses-1000-in-lebanon-as-israeli-bombardment-continues?traffic_source=rss" target="_blank">Death toll surpasses 1,000 in Lebanon as Israeli bombardment continues</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-19 15:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/19/nx-s1-5683079/martha-graham-dance-company-100-years-centennial" target="_blank">&#x27;Movement never lies&#x27;: 100 years of the Martha Graham Dance Company</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-19 15:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,29 +98,29 @@
                 <span class="time">2026-03-19 13:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1773919690362_tdy_news_7a_engel_iran_attacking_energy_260319_1920x1080-ye7r3p.jpg" alt="Iran Targets Energy Sites After Israel Hit World&#x27;s Largest Gas Field" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-threatens-to-blow-up-south-pars-as-iran-war-intensifies-259580485522" target="_blank">Iran Targets Energy Sites After Israel Hit World&#x27;s Largest Gas Field</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-19 11:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/19/g-s1-114405/japan-takaichi-visit-white-house" target="_blank">Japan&#x27;s prime minister visits the White House under shadow of Iran war</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-19 10:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/" target="_blank">DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-19 16:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/897163/fortnite-star-wars-creators-uefn-epic-games-disney" target="_blank">Epic and Disney now let Fortnite creators make Star Wars games</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-19 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69baacb648cfa1aefb918759/master/pass/GettyImages-2263125077.jpg" alt="Signal’s Creator Is Helping Encrypt Meta AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,29 +157,29 @@
                 <span class="time">2026-03-19 13:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69bafaa060afc4a42d37171f/master/pass/Should-You-Hike-in-Boots-or-Trail-Runners-.jpg" alt="Should You Hike in Boots or Trail Runners? (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/should-you-hike-in-boots-or-trail-runners/" target="_blank">Should You Hike in Boots or Trail Runners? (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-19 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal" target="_blank">Uber to invest $1.25 billion in Rivian as part of new robotaxi deal</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-19 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/" target="_blank">How Squad runs coordinated AI agents inside your repository</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-03-19 16:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/music_youtube/cercle-denis-horvat-sahar-mayflies-dhb" target="_blank">Cercle: Denis Horvat, Sahar - Mayflies</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-19 16:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/03/morgan-stanley-apis-mcp-calm/en/headerimage/generatedHeaderImage-1773770107168.jpg" alt="QCon London 2026: Morgan Stanley Rethinks Its API Program for the MCP Era" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -191,37 +201,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17302092/foss-weekly-26-12" target="_blank">FOSS Weekly #26.12: GNOME 50 Release, Fedora for Apple, New Ageless Linux, Manjaro Drama and More</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-19 14:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2026/03/19/ai-is-becoming-a-second-brain-at-the-expense-of-your-first-one/" target="_blank">AI is becoming a second brain at the expense of your first one</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-03-19 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18915135&w=600" alt="Building MCP Hub for DevOps and CI/CD Pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-an-mcp-hub-for-devops-and-cicd-pipelines" target="_blank">Building MCP Hub for DevOps and CI/CD Pipelines</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-19 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sampseiol1/you-dont-need-investors-accelerators-or-fellowships-you-just-need-to-build-and-how-to-do-it-136p" target="_blank">You Don&#x27;t Need Investors, Accelerators, or Fellowships — You Just Need to Build (And How to Do It Right)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-19 13:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://astral.sh/blog/openai" target="_blank">Astral to Join OpenAI</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-19 13:05</span>
             </div>
         </div>
 </div>
@@ -243,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/trappist-1-1280x853.jpeg" alt="Astronomers Pinpoint the Best 45 Places in the Galaxy to Look For Alien Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/astronomers-pinpoint-the-best-45-places-in-the-galaxy-to-look-for-alien-life-2000735521" target="_blank">Astronomers Pinpoint the Best 45 Places in the Galaxy to Look For Alien Life</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-19 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/ambernic.png?fit=1600%2C860&amp;quality=55&amp;ssl=1" alt="Gameboy-like gadget with a rotating display" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/19/gameboy-like-gadget-with-a-rotating-display.html" target="_blank">Gameboy-like gadget with a rotating display</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-19 15:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Project-Hail-Mary-Lord-Miller-interview-1280x853.jpg" alt="How ‘Project Hail Mary’ Made Andy Weir’s Story Even More Cinematic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,29 +289,20 @@
                 <span class="time">2026-03-19 13:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/MS0319-marina-sirtis-picard-season-3-1280x853.jpg" alt="Marina Sirtis Has a Very Real Reason Why She Thinks ‘Star Trek: Legacy’ Will Never Happen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/marina-sirtis-star-trek-legacy-picard-paramount-2000735315" target="_blank">Marina Sirtis Has a Very Real Reason Why She Thinks ‘Star Trek: Legacy’ Will Never Happen</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-19 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KM2Q1G8SQWME3B3SQ6D527Y7/hero-image.png" alt="This Razer Gaming Controller Is Nearly 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/razer-wolverine-v3-gaming-controller-sale-march-2026?utm_medium=RSS" target="_blank">This Razer Gaming Controller Is Nearly 50% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-19 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1773693346-20260319.png" alt="Saturday Morning Breakfast Cereal - Love" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/love-9" target="_blank">Saturday Morning Breakfast Cereal - Love</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-19 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5789.png" alt="Time To Have The Talk" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -320,22 +321,13 @@
                 <span class="time">2026-03-18 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1773690047-20260318.png" alt="Saturday Morning Breakfast Cereal - Where" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/where-4" target="_blank">Saturday Morning Breakfast Cereal - Where</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-03-18 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 15:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 16:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
