@@ -1,40 +1,26 @@
-<!-- Processing 54 RSS feeds at 2026-03-18 23:05:30 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-19 00:08:19 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: NPR News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 2 new posts out of 17 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, March 18, 2026 - 23:05 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, March 19, 2026 - 00:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +36,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/18/dolores-huerta-sexual-violence-survivors-speak-out-against-cesar-chavez?traffic_source=rss" target="_blank">Dolores Huerta, sexual violence survivors speak out against Cesar Chavez</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-18 23:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Ras-Laffan-1-rt-gmh-260318_1773861678029_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran hits world&#x27;s largest liquefied natural gas terminal in Qatar" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,15 +88,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c20z08rdd9ro?at_medium=RSS&at_campaign=rss" target="_blank">All doctors in England warned to watch for meningitis symptoms after Kent outbreak</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-18 18:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/18/nx-s1-5752253/cesar-chavez-sexual-assault-dolores-huerta-united-farm-workers" target="_blank">Cesar Chavez abused and raped women and girls, NYT investigation says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-18 18:26</span>
             </div>
         </div>
 </div>
@@ -172,6 +158,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vincent4486/setup-osdev-environment-on-macos-132j" target="_blank">Setup OSDev Environment on macOS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-19 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/agenthustler/bright-data-review-2026-is-it-worth-the-price-honest-assessment-3gbe" target="_blank">Bright Data Review 2026: Is It Worth the Price? (Honest Assessment)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-18 22:02</span>
@@ -211,15 +206,6 @@
                 <span class="title"><a href="https://dev.to/thenexusguard/three-companies-just-converged-on-intent-based-ai-agent-security-none-of-them-can-verify-identity-23hj" target="_blank">Three Companies Just Converged on Intent-Based AI Agent Security. None of Them Can Verify Identity.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-18 20:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nathanielc85523/why-ai-agents-pay-for-skills-but-not-data-feeds-368-probe-analysis-m2d" target="_blank">Why AI Agents Pay for Skills but Not Data Feeds: 368-Probe Analysis</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-18 18:15</span>
             </div>
         </div>
 </div>
@@ -359,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 23:05 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 00:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
