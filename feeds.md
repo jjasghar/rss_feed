@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-19 19:17:25 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-19 20:07:38 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, March 19, 2026 - 19:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, March 19, 2026 - 20:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/19/iranians-shop-for-persian-new-year-essentials-despite-war?traffic_source=rss" target="_blank">Iranians shop for Persian New Year essentials despite war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-19 19:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/19/nx-s1-5753798/hamas-weapons-trump-gaza-board-of-peace" target="_blank">Trump&#x27;s mediators offer Hamas formal proposal to give up its weapons in Gaza</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-19 19:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,6 +79,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ec6/live/a454f210-23b1-11f1-9a4e-e13728524fa3.jpg" alt="Huge queues for jabs as meningitis vaccination scheme expanded" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyk44px2j5o?at_medium=RSS&at_campaign=rss" target="_blank">Huge queues for jabs as meningitis vaccination scheme expanded</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-19 18:09</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -77,38 +96,20 @@
                 <span class="time">2026-03-19 17:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/hegseth-5-rt-gmh-260319_1773923708698_hpMain_4x3t_384.jpg" alt="Pentagon seeking $200B more for Iran war, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/pentagon-seeking-200b-iran-war-official/story?id=131215890" target="_blank">Pentagon seeking $200B more for Iran war, official says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-19 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/19/iran-attacks-cut-17-of-qatars-lng-capacity-for-up-to-5-years-qatarenergy?traffic_source=rss" target="_blank">Iran attacks cut 17% of Qatar’s LNG capacity for up to 5 years: QatarEnergy</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-19 16:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/19/death-toll-surpasses-1000-in-lebanon-as-israeli-bombardment-continues?traffic_source=rss" target="_blank">Death toll surpasses 1,000 in Lebanon as Israeli bombardment continues</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-19 15:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/kash-patel-500x500.jpg" alt="FBI started buying Americans&#x27; location data again, Kash Patel confirms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/fbi-started-buying-americans-location-data-again-kash-patel-confirms/" target="_blank">FBI started buying Americans&#x27; location data again, Kash Patel confirms</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-19 19:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +155,20 @@
                 <span class="time">2026-03-19 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69bb41cd9e46bdf235622b21/master/pass/Made-In-China-New-Game-Turns-H-1B-Visa-System-Into-Surreal-Simulation-Business.jpg" alt="A New Game Turns the H-1B Visa System Into a Surreal Simulation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/made-in-china-a-new-game-turns-the-h-1b-visa-system-into-a-surreal-simulation/" target="_blank">A New Game Turns the H-1B Visa System Into a Surreal Simulation</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-19 16:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nebulagg/how-to-test-ai-agents-before-they-burn-your-budget-53kl" target="_blank">How to Test AI Agents (Before They Burn Your Budget)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-19 20:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc2id8jg9rl6cfkb26e11.jpeg" alt="How to Get Routing, Geocoding and Real-Time Maps With Zero API Keys" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -175,6 +176,24 @@
                 <span class="title"><a href="https://dev.to/capeku/how-to-get-routing-geocoding-and-real-time-maps-with-zero-api-keys-5gbc" target="_blank">How to Get Routing, Geocoding and Real-Time Maps With Zero API Keys</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-19 19:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18944853&w=600" alt="Nvidia’s Open Model Super Panel Made a Strong Case for Open Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/nvidia-gtc-2026-open-agents-shift" target="_blank">Nvidia’s Open Model Super Panel Made a Strong Case for Open Agents</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-19 19:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/ubuntu-new-boot-spinner.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 has a new boot animation (blink and you’ll miss it)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ubuntu-26-04-boot-spinner" target="_blank">Ubuntu 26.04 has a new boot animation (blink and you’ll miss it)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-19 17:25</span>
             </div>
         </div>
 <div class="story">
@@ -193,33 +212,6 @@
                 <span class="title"><a href="https://dzone.com/articles/ai-assisted-code-review-with-claude-code-terminal" target="_blank">AI-Assisted Code Review With Claude Code (Terminal)</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-19 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wayland-1.25-Released" target="_blank">Wayland 1.25 Released With Color Management Now Fully Documented</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-19 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/" target="_blank">How Squad runs coordinated AI agents inside your repository</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-03-19 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/music_youtube/cercle-denis-horvat-sahar-mayflies-dhb" target="_blank">Cercle: Denis Horvat, Sahar - Mayflies</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-19 16:09</span>
             </div>
         </div>
 </div>
@@ -318,22 +310,13 @@
                 <span class="time">2026-03-19 00:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/18/it-no-so-good" target="_blank">It No So Good</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-03-18 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 19:17 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 20:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
