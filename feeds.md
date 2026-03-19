@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-19 16:15:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-19 17:18:10 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 25 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 12 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, March 19, 2026 - 16:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, March 19, 2026 - 17:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/hegseth-5-rt-gmh-260319_1773923708698_hpMain_4x3t_384.jpg" alt="Pentagon seeking $200B more for Iran war, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/pentagon-seeking-200b-iran-war-official/story?id=131215890" target="_blank">Pentagon seeking $200B more for Iran war, official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-19 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/19/iran-attacks-cut-17-of-qatars-lng-capacity-for-up-to-5-years-qatarenergy?traffic_source=rss" target="_blank">Iran attacks cut 17% of Qatar’s LNG capacity for up to 5 years: QatarEnergy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-19 16:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +100,38 @@
                 <span class="time">2026-03-19 14:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/19/nx-s1-5750510/state-save-acts-florida" target="_blank">The SAVE Act faces long odds in the Senate. GOP-led states are picking up the cause</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-19 14:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/3/19/chinas-silence-on-iran-reveals-its-true-priorities?traffic_source=rss" target="_blank">China’s silence on Iran reveals its true priorities</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-19 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/897388/kalshi-polymarket-journalists-partnership-deals" target="_blank">Prediction markets are trying to lure journalists with partnership deals</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-19 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/" target="_blank">Google introduces a new way for users to sideload Android apps that still protects against scams</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-19 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69bb41cd9e46bdf235622b21/master/pass/Made-In-China-New-Game-Turns-H-1B-Visa-System-Into-Surreal-Simulation-Business.jpg" alt="A New Game Turns the H-1B Visa System Into a Surreal Simulation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/made-in-china-a-new-game-turns-the-h-1b-visa-system-into-a-surreal-simulation/" target="_blank">A New Game Turns the H-1B Visa System Into a Surreal Simulation</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-19 16:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,38 +159,38 @@
                 <span class="time">2026-03-19 14:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/19/k2-to-launch-its-first-high-powered-satellite-for-space-compute/" target="_blank">K2 to launch its first high-powered satellite for space compute</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-19 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/19/consumer-focused-privacy-company-cloaked-raises-375m-as-it-expands-to-enterprise/" target="_blank">Consumer-focused privacy company Cloaked raises $375M as it expands to enterprise</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-19 13:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/896648/tubi-tiktok-creatorverse-incubator" target="_blank">Tubi and TikTok are partnering to produce long form series</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-19 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/Zipstack/visitran" target="_blank">Visitran: Agentic Pythonic data transformation platform(AGPL)</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-19 17:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18915261&w=600" alt="AI-Assisted Code Review With Claude Code (Terminal)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-assisted-code-review-with-claude-code-terminal" target="_blank">AI-Assisted Code Review With Claude Code (Terminal)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-19 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wayland-1.25-Released" target="_blank">Wayland 1.25 Released With Color Management Now Fully Documented</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-19 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,33 +218,6 @@
                 <span class="time">2026-03-19 15:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18915144&w=600" alt="Latency Is Cheap, Bandwidth Is Not" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/latency-is-cheap-bandwidth-is-not" target="_blank">Latency Is Cheap, Bandwidth Is Not</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-19 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17302092/foss-weekly-26-12" target="_blank">FOSS Weekly #26.12: GNOME 50 Release, Fedora for Apple, New Ageless Linux, Manjaro Drama and More</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-19 14:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/03/19/ai-is-becoming-a-second-brain-at-the-expense-of-your-first-one/" target="_blank">AI is becoming a second brain at the expense of your first one</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-03-19 14:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,12 +238,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/Mario9s.jpg" alt="McDonald’s Gives The Best Super Mario Galaxy Character More Kids Meal Toys Than The Rest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mcdonalds-super-mario-galaxy-toys-kids-meal-bowser-2000680367" target="_blank">McDonald’s Gives The Best Super Mario Galaxy Character More Kids Meal Toys Than The Rest</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-19 16:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/trappist-1-1280x853.jpeg" alt="Astronomers Pinpoint the Best 45 Places in the Galaxy to Look For Alien Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/astronomers-pinpoint-the-best-45-places-in-the-galaxy-to-look-for-alien-life-2000735521" target="_blank">Astronomers Pinpoint the Best 45 Places in the Galaxy to Look For Alien Life</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-19 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KM3BKN6J6V835RF90XY55XTT/hero-image.jpg" alt="Firefox Is Getting a Free Built-In VPN" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/firefox-is-getting-a-free-built-in-vpn?utm_medium=RSS" target="_blank">Firefox Is Getting a Free Built-In VPN</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-19 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -269,24 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/mario-galaxy-movie-star-goes-viral-for-being-asked-the-dumbest-question-imaginable-2000680289" target="_blank">Mario Galaxy Movie Star Goes Viral For Being Asked The Dumbest Question Imaginable</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-19 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHPM03ZJFRAKBM337N5306KQ/hero-image.jpg" alt="Here Are the New Features Coming in iOS 26.4" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/here-are-the-new-features-coming-in-ios-264?utm_medium=RSS" target="_blank">Here Are the New Features Coming in iOS 26.4</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-19 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/01/eab841fe56595f06aab34fdf17356577-1280x720.jpg" alt="First Sonic The Hedgehog 4 Teaser Confirms Jim Carrey Is Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sonic-hedgehog-4-teaser-amy-robotnik-jim-carrey-kristen-bell-2000680296" target="_blank">First Sonic The Hedgehog 4 Teaser Confirms Jim Carrey Is Back</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-19 13:40</span>
             </div>
         </div>
 </div>
@@ -326,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 16:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 17:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
