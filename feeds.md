@@ -1,29 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-20 20:04:19 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-03-20 21:05:18 UTC -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, March 20, 2026 - 20:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, March 20, 2026 - 21:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/20/nx-s1-5755069/breonna-taylor-raid-officers-federal-charges" target="_blank">Federal prosecutors ask to dismiss charges against officers in Breonna Taylor raid</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-20 20:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,20 +97,29 @@
                 <span class="time">2026-03-20 13:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/20/who-are-the-gulfs-military-allies-and-how-are-they-helping-in-iran-war?traffic_source=rss" target="_blank">Who are the Gulf’s military allies, and how are they helping in Iran war?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-20 13:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2248542236-500x500.jpg" alt="Hachette pulls Shy Girl horror novel after concerns about AI use" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/" target="_blank">Hachette pulls Shy Girl horror novel after concerns about AI use</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-20 21:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/" target="_blank">Microsoft rolls back some of its Copilot AI bloat on Windows</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-20 20:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,29 +156,20 @@
                 <span class="time">2026-03-20 17:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/" target="_blank">AI startups are eating the venture industry and the returns, so far, are good</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-20 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/897085/google-nest-video-doorbell-amazon-big-spring-sale-2026-deal" target="_blank">Google’s battery-powered Nest Doorbell is $40 off right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-20 15:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917266&w=600" alt="Vibe Coding Is Great for Demo; It’s Not a Strategy for GenAI Value in the SDLC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/vibe-coding-not-a-genai-sdlc-strategy" target="_blank">Vibe Coding Is Great for Demo; It’s Not a Strategy for GenAI Value in the SDLC</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-20 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +215,6 @@
                 <span class="time">2026-03-20 17:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18905425&w=600" alt="Kubernetes Scheduler Plugins: Optimizing AI/ML Workloads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/kubernetes-scheduler-plugins-ai-ml" target="_blank">Kubernetes Scheduler Plugins: Optimizing AI/ML Workloads</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-20 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/BernieSandersClaude-1280x853.jpg" alt="Hey Bernie, That’s a Not an AI Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/hey-bernie-thats-a-not-an-ai-agent-2000736228" target="_blank">Hey Bernie, That’s a Not an AI Agent</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-20 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/01/e0d8be74c80bc7786116ea5f70712af2-1280x720.jpg" alt="HBO’s The Last Of Us Casts A Cis Actor To Play Its Trans Lead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/last-of-us-hbo-max-lev-actor-kyriana-kratter-yara-2000680678" target="_blank">HBO’s The Last Of Us Casts A Cis Actor To Play Its Trans Lead</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-20 20:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KM64HBW0YVDHZM061PXG9T8E/hero-image.png" alt="This Massive Data Breach Leaked 2.7 Million Social Security Numbers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +295,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/20/counting-sheep-to-fall-asleep-traces-back-to-at-least-the-12th-century.html" target="_blank">Counting sheep to fall asleep traces back to at least the 12th century</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-20 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/philips-roller-1280x853.jpg" alt="I’m Helpless Against the ’80s Nostalgia in Philips’ New Wireless Speakers and Headphones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/im-helpless-against-the-80s-nostalgia-in-philips-new-wireless-speakers-and-headphones-2000736022" target="_blank">I’m Helpless Against the ’80s Nostalgia in Philips’ New Wireless Speakers and Headphones</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-20 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KM5WCXS44WSVH5ERF45HJR5D/hero-image.jpg" alt="Here’s How Google’s ‘Safer’ Sideloading Works on Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-googles-safer-sideloading-works-on-android?utm_medium=RSS" target="_blank">Here’s How Google’s ‘Safer’ Sideloading Works on Android</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-20 17:00</span>
             </div>
         </div>
 </div>
@@ -339,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 20:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 21:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
