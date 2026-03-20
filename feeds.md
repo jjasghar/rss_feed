@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-20 08:08:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-20 09:10:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, March 20, 2026 - 08:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, March 20, 2026 - 09:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/20/long-before-trump-how-us-policy-has-harmed-the-environment-for-decades?traffic_source=rss" target="_blank">Long before Trump: How US policy has harmed the environment for decades</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-20 08:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cef/live/f2e0cc70-2423-11f1-934f-036468834728.jpg" alt="Family of teen who died in meningitis outbreak call for wider MenB vaccine programme" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2d8gjejrgpo?at_medium=RSS&at_campaign=rss" target="_blank">Family of teen who died in meningitis outbreak call for wider MenB vaccine programme</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-20 08:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +102,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/20/nx-s1-5754021/trump-democracy-autocracy-dictatorship-reports" target="_blank">Trump is dismantling democracy at &#x27;unprecedented&#x27; speed, global report finds</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-20 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/20/palestinians-bury-four-women-killed-in-iranian-missile-attack?traffic_source=rss" target="_blank">Palestinians bury four women killed in Iranian missile attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-20 01:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8699/live/2eb11fa0-23c7-11f1-b297-95b0a0a8331e.jpg" alt="The global winners and losers of the war in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&at_campaign=rss" target="_blank">The global winners and losers of the war in Iran</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-20 00:08</span>
             </div>
         </div>
 </div>
@@ -164,12 +169,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/articles/configuration-control-plane/en/headerimage/configuration-as-a-control-plane-designing-for-safety-and-reliability-at-scale-header-1773657574566.jpg" alt="Article: Configuration as a Control Plane: Designing for Safety and Reliability at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/configuration-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Configuration as a Control Plane: Designing for Safety and Reliability at Scale</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-20 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnwmt6h59ydofxtvw1vwh.png" alt="How to Automate Code Reviews in 2026 - Complete Setup Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rahulxsingh/how-to-automate-code-reviews-in-2026-complete-setup-guide-16b5" target="_blank">How to Automate Code Reviews in 2026 - Complete Setup Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-20 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/03/20/was-2025-really-the-year-of-ai-agents/" target="_blank">After all the hype, was 2025 really the year of AI agents?</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-03-20 07:40</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/babiyashini_varadaraj_b17/understanding-app-architecture-why-it-matters-3kam" target="_blank">Understanding App Architecture - Why It Matters</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-20 05:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell" target="_blank">ArXiv Declares Independence from Cornell</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-20 04:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17302389/vykar-open-source-backup-tool" target="_blank">Vykar is a New Open Source Backup Tool That&amp;#x27;s Faster Than Borg, Restic, and Kopia</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-20 03:48</span>
             </div>
         </div>
 </div>
@@ -336,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 08:08 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 09:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
