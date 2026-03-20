@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-20 11:08:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-20 12:05:19 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NPR News -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, March 20, 2026 - 11:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, March 20, 2026 - 12:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/20/g-s1-114547/up-first-newsletter-israel-iran-kharg-island-hamas-student-loans-education-department-treasury" target="_blank">Trump is dismantling democracy, reports find. And, Treasury to take over student loans</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-20 11:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/20/refugee-council-questions-australias-iran-strategy-at-womens-asian-cup?traffic_source=rss" target="_blank">Refugee Council questions Australia’s Iran strategy at Women’s Asian Cup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-20 11:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa44/live/08d82160-23b9-11f1-92e7-e70d0571c9f1.jpg" alt="Typical energy bill forecast to rise by £332 a year in July" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +97,20 @@
                 <span class="time">2026-03-20 09:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/20/eid-celebrations-dimmed-by-war-and-displacement-across-middle-east?traffic_source=rss" target="_blank">Eid celebrations dimmed by war and displacement across Middle East</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-20 09:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/20/long-before-trump-how-us-policy-has-harmed-the-environment-for-decades?traffic_source=rss" target="_blank">Long before Trump: How US policy has harmed the environment for decades</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-20 08:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69bccf0cfd6ca17daa5b0fe6/master/pass/The-Best-Kids'-Bikes-for-Every-Age-and-Size.jpg" alt="Best Kids&#x27; Bikes (2026): Woom, Prevelo, Guardian, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-kids-bikes/" target="_blank">Best Kids&#x27; Bikes (2026): Woom, Prevelo, Guardian, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-20 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/phm-text-bubbles-500x500-1773851996.jpg" alt="Project Hail Mary is in theaters—but do the linguistics work?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +156,6 @@
                 <span class="time">2026-03-19 23:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-500x500.jpg" alt="RFK Jr. has destroyed over a quarter of health dept&#x27;s expert panels" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/03/rfk-jr-s-war-on-scientific-expertise-destroyed-27-of-agencys-advisor-panels/" target="_blank">RFK Jr. has destroyed over a quarter of health dept&#x27;s expert panels</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-19 22:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,10 +164,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/taskconcierge/ai-agents-are-already-breaking-things-and-weve-barely-started-1con" target="_blank">AI Agents Are Already Breaking Things — And We&#x27;ve Barely Started</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-20 12:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/harness-artifact-registry/en/headerimage/generatedHeaderImage-1773642345346.jpg" alt="Harness Reimagines Artifact Management for DevSecOps with New Artifact Registry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/harness-artifact-registry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Harness Reimagines Artifact Management for DevSecOps with New Artifact Registry</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-20 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Canonical-MicroCloud" target="_blank">Ubuntu Maker Canonical Announces MicroCloud Cluster Manager</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-20 10:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/canonical-partners-with-snyk-for-scanning-chiseled-ubuntu-containers" target="_blank">Canonical partners with Snyk for scanning chiseled Ubuntu containers</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-03-20 10:17</span>
             </div>
         </div>
 <div class="story">
@@ -191,38 +215,20 @@
                 <span class="time">2026-03-20 09:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/configuration-control-plane/en/headerimage/configuration-as-a-control-plane-designing-for-safety-and-reliability-at-scale-header-1773657574566.jpg" alt="Article: Configuration as a Control Plane: Designing for Safety and Reliability at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/configuration-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Configuration as a Control Plane: Designing for Safety and Reliability at Scale</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-20 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnwmt6h59ydofxtvw1vwh.png" alt="How to Automate Code Reviews in 2026 - Complete Setup Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rahulxsingh/how-to-automate-code-reviews-in-2026-complete-setup-guide-16b5" target="_blank">How to Automate Code Reviews in 2026 - Complete Setup Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-20 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/03/20/was-2025-really-the-year-of-ai-agents/" target="_blank">After all the hype, was 2025 really the year of AI agents?</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-03-20 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/proton-mail-shared-user-information-with-the-police.html" target="_blank">Proton Mail Shared User Information with the Police</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-03-20 11:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -237,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Daredevil-Born-Again-2-Charlie-Cox-1280x853.jpg" alt="Is Daredevil in ‘Spider-Man: Brand New Day’? Charlie Cox Isn’t Saying Either Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/is-daredevil-in-spider-man-brand-new-day-charlie-cox-isnt-saying-either-way-2000735848" target="_blank">Is Daredevil in ‘Spider-Man: Brand New Day’? Charlie Cox Isn’t Saying Either Way</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-20 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/slot-machine.png?fit=1200%2C853&amp;quality=55&amp;ssl=1" alt="Why coding with AI feels like pulling a slot machine lever for dopamine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +297,6 @@
                 <span class="time">2026-03-19 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/A-sticker-of-the-Southpark-Trump-22Relax-Guy22-mem-2.jpg?fit=1080%2C1289&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s Truth Social burns $712 million to make $3.7 million" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/19/trumps-truth-social-burns-712-million-to-make-3-7-million.html" target="_blank">Trump&#x27;s Truth Social burns $712 million to make $3.7 million</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-19 20:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 11:08 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 12:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
