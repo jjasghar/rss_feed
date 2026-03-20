@@ -1,40 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-03-20 09:10:32 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-03-20 10:09:25 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, March 20, 2026 - 09:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, March 20, 2026 - 10:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/20/nx-s1-5745107/el-helicoides-venezuela-prison-torture" target="_blank">From mall to torture site: The debate over El Helicoide&#x27;s future in Venezuela</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-20 09:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/20/eid-celebrations-dimmed-by-war-and-displacement-across-middle-east?traffic_source=rss" target="_blank">Eid celebrations dimmed by war and displacement across Middle East</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-20 09:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2026/3/20/eid-under-siege-little-to-celebrate-in-gaza-as-israel-tightens-chokehold?traffic_source=rss" target="_blank">Eid under siege: Little to celebrate in Gaza as Israel tightens chokehold</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-20 06:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8cb/live/9b6bd100-241a-11f1-a79a-77e93010d956.jpg" alt="Family of teen who died in meningitis outbreak says loss is &#x27;immeasurable&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2d8gjejrgpo?at_medium=RSS&at_campaign=rss" target="_blank">Family of teen who died in meningitis outbreak says loss is &#x27;immeasurable&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-20 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/20/nx-s1-5754021/trump-democracy-autocracy-dictatorship-reports" target="_blank">Trump is dismantling democracy at &#x27;unprecedented&#x27; speed, global report finds</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-20 04:01</span>
             </div>
         </div>
 </div>
@@ -169,6 +160,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fntcnvewaccze64el3kox.png" alt="Deploying a Containerized WordPress App on AWS with Docker, EBS &amp; S3 Backups" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/christiana_otoboh/deploying-a-containerized-wordpress-app-on-aws-with-docker-ebs-s3-backups-38if" target="_blank">Deploying a Containerized WordPress App on AWS with Docker, EBS &amp; S3 Backups</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-20 10:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-Linux-Beta-In-Container" target="_blank">Steam Linux Beta Prepares For 64-bit, Can Be Run Inside Steam Runtime Container</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-20 09:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/articles/configuration-control-plane/en/headerimage/configuration-as-a-control-plane-designing-for-safety-and-reliability-at-scale-header-1773657574566.jpg" alt="Article: Configuration as a Control Plane: Designing for Safety and Reliability at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -204,24 +213,6 @@
                 <span class="time">2026-03-20 07:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rsdouglas/why-airloom-has-no-sign-up-page-and-why-thats-the-point-8m4" target="_blank">Why Airloom Has No Sign-Up Page (And Why That&#x27;s the Point)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-20 06:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffp7fi231efq3wvlj88y8.png" alt="Understanding App Architecture - Why It Matters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/babiyashini_varadaraj_b17/understanding-app-architecture-why-it-matters-3kam" target="_blank">Understanding App Architecture - Why It Matters</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-20 05:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,15 +225,6 @@
                 <span class="title"><a href="https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/" target="_blank">Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</a></span>
                 <span class="feed">Krebs on Security</span>
                 <span class="time">2026-03-20 00:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/hacking-a-robot-vacuum.html" target="_blank">Hacking a Robot Vacuum</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-03-19 09:47</span>
             </div>
         </div>
 </div>
@@ -341,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 09:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 10:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
