@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-20 03:45:11 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-20 04:31:07 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 1 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, March 20, 2026 - 03:45 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, March 20, 2026 - 04:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -163,6 +166,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17302389/vykar-open-source-backup-tool" target="_blank">Vykar is a New Open Source Backup Tool That&amp;#x27;s Faster Than Borg, Restic, and Kopia</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-20 03:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/suzukazehaduki/librefang-066-released-43jd" target="_blank">LibreFang 0.6.6 Released</a></span>
                 <span class="feed">DEV Community</span>
@@ -201,15 +213,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/opera-gx-linux-released" target="_blank">Opera GX is now available for Linux</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-19 23:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/opera-gx.jpg?resize=406%2C232&amp;ssl=1" alt="Opera GX for Linux is now available to download" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/opera-gx-linux-released" target="_blank">Opera GX for Linux is now available to download</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-03-19 23:28</span>
             </div>
@@ -325,7 +328,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 03:45 UTC
+        🔄 Last Updated: 04:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
