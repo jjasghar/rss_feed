@@ -1,42 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-20 02:54:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-20 03:45:11 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 34 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, March 20, 2026 - 02:54 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, March 20, 2026 - 03:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -121,6 +111,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/69bc909af05d6225e8611af5/master/pass/1137865525" alt="US Takes Down Botnets Used in Record-Breaking Cyberattacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/us-takes-down-botnets-used-in-record-breaking-cyberattacks/" target="_blank">US Takes Down Botnets Used in Record-Breaking Cyberattacks</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-20 00:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-500x500.jpg" alt="RFK Jr. has destroyed over a quarter of health dept&#x27;s expert panels" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -156,20 +155,20 @@
                 <span class="time">2026-03-19 21:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2266672989-500x500.jpg" alt="Hundreds of millions of iPhones can be hacked with a new tool found in the wild" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/" target="_blank">Hundreds of millions of iPhones can be hacked with a new tool found in the wild</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-19 20:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/suzukazehaduki/librefang-066-released-43jd" target="_blank">LibreFang 0.6.6 Released</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-20 03:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +212,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/opera-gx-linux-released" target="_blank">Opera GX for Linux is now available to download</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-03-19 23:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/eqhoids/finding-profitable-niches-with-github-trending-data-my-automated-pipeline-for-product-opportunities-4900" target="_blank">Finding Profitable Niches with GitHub Trending Data: My Automated Pipeline for Product Opportunities</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-19 23:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 02:54 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 03:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
