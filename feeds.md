@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-20 13:23:47 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-20 14:13:42 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, March 20, 2026 - 13:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, March 20, 2026 - 14:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/20/who-are-the-gulfs-military-allies-and-how-are-they-helping-in-iran-war?traffic_source=rss" target="_blank">Who are the Gulf’s military allies, and how are they helping in Iran war?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-20 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c74/live/859001e0-245a-11f1-b297-95b0a0a8331e.jpg" alt="Iranian man arrested trying to enter Faslane nuclear base" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c80mej47xz0o?at_medium=RSS&at_campaign=rss" target="_blank">Iranian man arrested trying to enter Faslane nuclear base</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-20 13:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +94,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2026/mar/20/madagascar-military-ruler-new-ministers-lie-detector-tests" target="_blank">Madagascar’s military ruler decrees that ministers must pass lie detector tests</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-03-20 10:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/20/iran-developing-a-vetting-system-for-strait-of-hormuz-transit-report?traffic_source=rss" target="_blank">Iran developing a ‘vetting system’ for Strait of Hormuz transit: Report</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-20 10:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/20/nx-s1-5745107/el-helicoides-venezuela-prison-torture" target="_blank">From mall to torture site: The debate over El Helicoide&#x27;s future in Venezuela</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-20 09:30</span>
             </div>
         </div>
 </div>
@@ -163,6 +161,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18909875&w=600" alt="Scalable Cloud-Native Java Architecture With Microservices and Serverless" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/cloud-native-java-microservices-serverless" target="_blank">Scalable Cloud-Native Java Architecture With Microservices and Serverless</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-20 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2604-radeon-gaming" target="_blank">Ubuntu 26.04 Delivers Enhanced Performance For AMD Radeon Linux Gaming</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-20 13:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,24 +214,6 @@
                 <span class="time">2026-03-20 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Canonical-MicroCloud" target="_blank">Ubuntu Maker Canonical Announces MicroCloud Cluster Manager</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-20 10:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/canonical-partners-with-snyk-for-scanning-chiseled-ubuntu-containers" target="_blank">Canonical partners with Snyk for scanning chiseled Ubuntu containers</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-03-20 10:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KM4SH4SZ44HF5R1H97FK3DKX/hero-image.png" alt="These Highly Rated Powerbeats Pro 2 Earbuds Are on Sale for 60% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/beats-powerbeats-pro-2-workout-earbuds-sale-march-2026?utm_medium=RSS" target="_blank">These Highly Rated Powerbeats Pro 2 Earbuds Are on Sale for 60% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-20 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Daredevil-Born-Again-2-Charlie-Cox-1280x853.jpg" alt="Is Daredevil in ‘Spider-Man: Brand New Day’? Charlie Cox Isn’t Saying Either Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +296,6 @@
                 <span class="time">2026-03-19 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KM3TYF0J2EG4H6C8S8B5WQDX/hero-image.jpg" alt="Apple Is Finally Letting You Use Your Own Payment Method in Family Sharing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-is-finally-letting-you-use-your-own-payment-method-in-family-sharing?utm_medium=RSS" target="_blank">Apple Is Finally Letting You Use Your Own Payment Method in Family Sharing</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-19 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -335,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 13:23 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 14:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
