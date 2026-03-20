@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-20 21:05:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-20 22:03:12 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, March 20, 2026 - 21:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, March 20, 2026 - 22:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/20/india-cooking-gas-crisis-forces-exodus-of-textile-workers?traffic_source=rss" target="_blank">India cooking gas crisis forces exodus of textile workers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-20 21:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/bahrain-rt-jef-260320_1774027468708_hpMain_4x3t_384.jpg" alt="Attacks on Middle East energy sites deepen threat to US economy, analysts say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Business/attacks-middle-east-energy-sites-deepen-threat-us/story?id=131213656" target="_blank">Attacks on Middle East energy sites deepen threat to US economy, analysts say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-20 21:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +99,20 @@
                 <span class="time">2026-03-20 15:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/20/nx-s1-5753907/chuck-norris-dead" target="_blank">Martial arts star Chuck Norris dies at 86</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-20 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260320-ramadan-lebanon-ch-0941-e95b99.jpg" alt="A holy time for Muslims marred by the fear and uncertainty of war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/middle-east/ramadan-eid-al-fitr-amid-war-rcna263788" target="_blank">A holy time for Muslims marred by the fear and uncertainty of war</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-20 13:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GoeN_-iX0AA5uaR-500x500.jpg" alt="Once again, ULA can&#x27;t deliver when the US military needs a satellite in orbit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/03/spacex-swipes-yet-another-military-contract-from-united-launch-alliance/" target="_blank">Once again, ULA can&#x27;t deliver when the US military needs a satellite in orbit</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-20 21:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2248542236-500x500.jpg" alt="Hachette pulls Shy Girl horror novel after concerns about AI use" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +158,38 @@
                 <span class="time">2026-03-20 17:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2249461871-500x500.jpg" alt="RFK may replace entire panel of CDC vaccine advisors again, ally lets slip" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/03/rfk-may-replace-entire-panel-of-cdc-vaccine-advisors-again-ally-lets-slip/" target="_blank">RFK may replace entire panel of CDC vaccine advisors again, ally lets slip</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-20 17:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/sonatype-guide-safety-mcp-server/en/headerimage/sonatype-guide-mcp-server-1774041240972.jpeg" alt="Sonatype Launches Guide to Enhance Safety in AI-Assisted Code Generation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/sonatype-guide-safety-mcp-server/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Sonatype Launches Guide to Enhance Safety in AI-Assisted Code Generation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-20 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fng9am8bibks9ljzpjk3n.png" alt="Why the Next Billion-Dollar SaaS Won&#x27;t Be Built in Silicon Valley: The Rise of Guerrilla Tech Hubs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/deepak_mishra_35863517037/why-the-next-billion-dollar-saas-wont-be-built-in-silicon-valley-the-rise-of-guerrilla-tech-hubs-2mhn" target="_blank">Why the Next Billion-Dollar SaaS Won&#x27;t Be Built in Silicon Valley: The Rise of Guerrilla Tech Hubs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-20 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.5-Released" target="_blank">Wine 11.5 Release Is Big: Syscall User Dispatch Feature Supported On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-20 21:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917266&w=600" alt="Vibe Coding Is Great for Demo; It’s Not a Strategy for GenAI Value in the SDLC" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -188,38 +217,20 @@
                 <span class="time">2026-03-20 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18915273&w=600" alt="Modern Best Practices for Web Security Using AI and Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/web-security-best-practices-ai-automation" target="_blank">Modern Best Practices for Web Security Using AI and Automation</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-20 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thelittleprince1218/princejs-vs-hono-vs-express-vs-elysia-benchmarking-the-fastest-bun-frameworks-in-2025-c73" target="_blank">PrinceJS vs Hono vs Express vs Elysia: Benchmarking the Fastest Bun Frameworks in 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-20 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/erik_anderson_c41dbafd423/i-built-an-mcp-server-that-gives-ai-agents-human-judgment-4k4n" target="_blank">I Built an MCP Server That Gives AI Agents Human Judgment</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-20 17:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-jumbo-flying-squid-in-the-south-pacific.html" target="_blank">Friday Squid Blogging: Jumbo Flying Squid in the South Pacific</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-03-20 21:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -343,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 21:05 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 22:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
