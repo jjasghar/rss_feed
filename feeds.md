@@ -1,29 +1,46 @@
-<!-- Processing 54 RSS feeds at 2026-03-20 06:14:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-20 07:16:52 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 21 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 37 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, March 20, 2026 - 06:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, March 20, 2026 - 07:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +56,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/20/nx-s1-5754519/mexican-teen-migrant-dies-florida-jail-ice" target="_blank">A Mexican teen migrant dies in a Florida jail holding ICE detainees</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-20 06:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/3/20/eid-under-siege-little-to-celebrate-in-gaza-as-israel-tightens-chokehold?traffic_source=rss" target="_blank">Eid under siege: Little to celebrate in Gaza as Israel tightens chokehold</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-20 06:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8cb/live/9b6bd100-241a-11f1-a79a-77e93010d956.jpg" alt="Family of teen who died in meningitis outbreak says loss is &#x27;immeasurable&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,30 +102,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-9-ht-gmh-260311_1773234021666_hpMain_4x3t_384.jpg" alt="US targets mine-laying vessels in the Strait of Hormuz amid disruption of oil traffic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8699/live/2eb11fa0-23c7-11f1-b297-95b0a0a8331e.jpg" alt="The global winners and losers of the war in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/us-targets-mine-laying-vessels-strait-hormuz-amid/story?id=131228813" target="_blank">US targets mine-laying vessels in the Strait of Hormuz amid disruption of oil traffic</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-20 00:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/19/us-arts-commission-approves-gold-coin-stamped-with-donald-trumps-face?traffic_source=rss" target="_blank">US arts commission approves gold coin stamped with Donald Trump’s face</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-19 23:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260319-dignified-transfer-vl-1209p-965285.jpg" alt="Father of service member killed in Iran war said he never told Pete Hegseth to &#x27;finish&#x27; the job" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/father-servicemember-killed-iran-war-never-told-hegseth-finish-the-job-rcna264297" target="_blank">Father of service member killed in Iran war said he never told Pete Hegseth to &#x27;finish&#x27; the job</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-19 23:27</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&at_campaign=rss" target="_blank">The global winners and losers of the war in Iran</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-20 00:08</span>
             </div>
         </div>
 </div>
@@ -158,6 +175,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffw4dr2nfnfn3atd1e23b.png" alt="8 NDepend Rules to Enforce Domain-Driven Design in .NET" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ivankahl/8-ndepend-rules-to-enforce-domain-driven-design-in-net-45lh" target="_blank">8 NDepend Rules to Enforce Domain-Driven Design in .NET</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-20 07:14</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -178,6 +204,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell" target="_blank">ArXiv Declares Independence from Cornell</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-20 04:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17302389/vykar-open-source-backup-tool" target="_blank">Vykar is a New Open Source Backup Tool That&amp;#x27;s Faster Than Borg, Restic, and Kopia</a></span>
                 <span class="feed">It's FOSS</span>
@@ -191,24 +226,6 @@
                 <span class="title"><a href="https://dev.to/suzukazehaduki/librefang-066-released-43jd" target="_blank">LibreFang 0.6.6 Released</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-20 03:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ryanmcmillan/the-coordination-problem-nobody-talks-about-when-you-give-ai-agents-real-work-2p8l" target="_blank">The Coordination Problem Nobody Talks About When You Give AI Agents Real Work</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-20 02:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://code.claude.com/docs/en/channels" target="_blank">Push events into a running session with channels</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-20 00:22</span>
             </div>
         </div>
 </div>
@@ -321,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 06:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 07:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
