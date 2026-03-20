@@ -1,34 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-03-20 01:30:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-20 02:54:01 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, March 20, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, March 20, 2026 - 02:54 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -72,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260319-dignified-transfer-vl-1209p-965285.jpg" alt="Father of service member killed in Iran war said he never told Pete Hegseth to &#x27;finish&#x27; the job" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/father-servicemember-killed-iran-war-never-told-hegseth-finish-the-job-rcna264297" target="_blank">Father of service member killed in Iran war said he never told Pete Hegseth to &#x27;finish&#x27; the job</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-19 23:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251016-tenga-gk-45b807.jpg" alt="FCC green-lights Nexstar&#x27;s $6.2B merger with rival TV station owner Tegna" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -87,15 +104,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss" target="_blank">Netanyahu says Israel &#x27;acted alone&#x27; in attack on Iranian gas field</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-19 22:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251020-james-comey-zz-6396bf.jpg" alt="James Comey subpoenaed in Trump-appointed prosecutor&#x27;s &#x27;grand conspiracy&#x27; probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/fbi-james-comey-subpoena-trump-prosecutor-grand-conspiracy-probe-rcna264356" target="_blank">James Comey subpoenaed in Trump-appointed prosecutor&#x27;s &#x27;grand conspiracy&#x27; probe</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-19 20:51</span>
             </div>
         </div>
 </div>
@@ -165,6 +173,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ryanmcmillan/the-coordination-problem-nobody-talks-about-when-you-give-ai-agents-real-work-2p8l" target="_blank">The Coordination Problem Nobody Talks About When You Give AI Agents Real Work</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-20 02:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://code.claude.com/docs/en/channels" target="_blank">Push events into a running session with channels</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-20 00:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-hat-cowboy"></span>
                 <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-march-20-2026-red-hat" target="_blank">Friday Five — March 20, 2026</a></span>
                 <span class="feed">Red Hat Blog</span>
@@ -198,29 +224,20 @@
                 <span class="time">2026-03-19 23:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Microsoft-DXGKRNL-Linux-v4" target="_blank">Microsoft&#x27;s DXGKRNL Driver Updated For Linux - Many Changes After Four Years</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-19 21:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nebulagg/how-to-add-llm-model-fallbacks-in-python-in-5-min-5200" target="_blank">How to Add LLM Model Fallbacks in Python in 5 Min</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-19 21:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/" target="_blank">Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-03-20 00:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -317,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 02:54 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
