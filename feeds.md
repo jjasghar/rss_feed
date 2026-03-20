@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-20 17:12:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-20 18:07:50 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, March 20, 2026 - 17:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, March 20, 2026 - 18:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -64,6 +63,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260320-ramadan-lebanon-ch-0941-e95b99.jpg" alt="A holy time for Muslims marred by the fear and uncertainty of war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/middle-east/ramadan-eid-al-fitr-amid-war-rcna263788" target="_blank">A holy time for Muslims marred by the fear and uncertainty of war</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-20 13:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -90,20 +98,29 @@
                 <span class="time">2026-03-20 11:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/20/refugee-council-questions-australias-iran-strategy-at-womens-asian-cup?traffic_source=rss" target="_blank">Refugee Council questions Australia’s Iran strategy at Women’s Asian Cup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-20 11:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/898162/vidabay-classic-plus-nfc-e-ink-fridge-magnet" target="_blank">These electronic Polaroids are powered by your phone’s NFC chip</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-20 18:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69bd8453251397bf52dd446e/master/pass/This-Bose-Soundbar-Is-$80-Off.jpg" alt="This Compact Bose Soundbar Is $80 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/bose-smart-soundbar-deal-326/" target="_blank">This Compact Bose Soundbar Is $80 Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-20 17:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +157,29 @@
                 <span class="time">2026-03-20 15:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69bc605080392585c27a64b6/master/pass/Backchannel-Inside-Mind-of-Palantir-Business-2249768392.jpg" alt="At Palantir’s Developer Conference, AI Is Built to Win Wars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/" target="_blank">At Palantir’s Developer Conference, AI Is Built to Win Wars</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-20 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/" target="_blank">The best AI investment might be in energy tech</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-20 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18915273&w=600" alt="Modern Best Practices for Web Security Using AI and Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/web-security-best-practices-ai-automation" target="_blank">Modern Best Practices for Web Security Using AI and Automation</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-20 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thelittleprince1218/princejs-vs-hono-vs-express-vs-elysia-benchmarking-the-fastest-bun-frameworks-in-2025-c73" target="_blank">PrinceJS vs Hono vs Express vs Elysia: Benchmarking the Fastest Bun Frameworks in 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-20 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +216,6 @@
                 <span class="time">2026-03-20 15:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18915268&w=600" alt="Secrets Management With Infisical and External Secrets Operator" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/secrets-management-infisical-external-secrets" target="_blank">Secrets Management With Infisical and External Secrets Operator</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-20 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/platform-engineering-sociotechnical/en/mediumimage/lesley-cordero-medium-1772015380160.jpeg" alt="Presentation: Platform Engineering as a Practice of Sociotechnical Excellence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/platform-engineering-sociotechnical/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Platform Engineering as a Practice of Sociotechnical Excellence</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-20 14:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,11 +245,38 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/SLS-1280x853.jpg" alt="NASA Is Exploring a Reduced Role for SLS as It Gets Cozier With SpaceX" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nasa-is-exploring-a-reduced-role-for-sls-as-it-gets-cozier-with-spacex-2000736049" target="_blank">NASA Is Exploring a Reduced Role for SLS as It Gets Cozier With SpaceX</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-20 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/07/sheep.jpeg?fit=1500%2C995&amp;quality=60&amp;ssl=1" alt="Counting sheep to fall asleep traces back to at least the 12th century" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/20/counting-sheep-to-fall-asleep-traces-back-to-at-least-the-12th-century.html" target="_blank">Counting sheep to fall asleep traces back to at least the 12th century</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-20 17:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/philips-roller-1280x853.jpg" alt="I’m Helpless Against the ’80s Nostalgia in Philips’ New Wireless Speakers and Headphones" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/im-helpless-against-the-80s-nostalgia-in-philips-new-wireless-speakers-and-headphones-2000736022" target="_blank">I’m Helpless Against the ’80s Nostalgia in Philips’ New Wireless Speakers and Headphones</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-20 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KM5WCXS44WSVH5ERF45HJR5D/hero-image.jpg" alt="Here’s How Google’s ‘Safer’ Sideloading Works on Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-googles-safer-sideloading-works-on-android?utm_medium=RSS" target="_blank">Here’s How Google’s ‘Safer’ Sideloading Works on Android</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-20 17:00</span>
             </div>
         </div>
@@ -272,38 +298,20 @@
                 <span class="time">2026-03-20 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKZRQA4HVXRY066PQ5Y1YXPM/hero-image.jpg" alt="10 Chrome Hacks for iOS and Android Everyone Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-chrome-hacks-for-ios-and-android?utm_medium=RSS" target="_blank">10 Chrome Hacks for iOS and Android Everyone Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-20 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/image-41-1280x720.jpg" alt="Crimson Desert Has Already Sold A Shocking Number Of Copies In Just 24 Hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/crimson-desert-copies-sold-first-day-2000680582" target="_blank">Crimson Desert Has Already Sold A Shocking Number Of Copies In Just 24 Hours</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-20 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KM4SH4SZ44HF5R1H97FK3DKX/hero-image.png" alt="These Highly Rated Powerbeats Pro 2 Earbuds Are on Sale for 60% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/beats-powerbeats-pro-2-workout-earbuds-sale-march-2026?utm_medium=RSS" target="_blank">These Highly Rated Powerbeats Pro 2 Earbuds Are on Sale for 60% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-20 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/20/it-takes-a-village" target="_blank">It Takes A Village</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-20 17:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1773693395-20260320.png" alt="Saturday Morning Breakfast Cereal - Waiting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -336,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 17:12 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 18:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
