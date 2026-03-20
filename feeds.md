@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-20 12:05:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-20 13:23:47 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, March 20, 2026 - 12:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, March 20, 2026 - 13:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,12 +104,30 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/" target="_blank">The best AI investment might be in energy tech</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-20 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69bccf0cfd6ca17daa5b0fe6/master/pass/The-Best-Kids'-Bikes-for-Every-Age-and-Size.jpg" alt="Best Kids&#x27; Bikes (2026): Woom, Prevelo, Guardian, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
                 <span class="title"><a href="https://www.wired.com/gallery/best-kids-bikes/" target="_blank">Best Kids&#x27; Bikes (2026): Woom, Prevelo, Guardian, and More</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-03-20 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/spectrum-rocket-500x500.jpg" alt="Rocket Report: Canada makes a major move, US Space Force says actually, let&#x27;s be hasty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/03/rocket-report-canada-makes-a-major-move-us-space-force-says-actually-lets-be-hasty/" target="_blank">Rocket Report: Canada makes a major move, US Space Force says actually, let&#x27;s be hasty</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-20 11:45</span>
             </div>
         </div>
 <div class="story">
@@ -138,24 +157,6 @@
                 <span class="time">2026-03-20 00:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69bc909af05d6225e8611af5/master/pass/1137865525" alt="US Takes Down Botnets Used in Record-Breaking Cyberattacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/us-takes-down-botnets-used-in-record-breaking-cyberattacks/" target="_blank">US Takes Down Botnets Used in Record-Breaking Cyberattacks</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-20 00:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/" target="_blank">Amazon acquires Rivr, maker of a stair-climbing delivery robot</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-19 23:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,9 +166,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/michael_lip_52d5151c3e364/the-anatomy-of-a-good-box-shadow-and-why-most-look-fake-7h" target="_blank">The Anatomy of a Good Box Shadow (and Why Most Look Fake)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-20 13:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/taskconcierge/ai-agents-are-already-breaking-things-and-weve-barely-started-1con" target="_blank">AI Agents Are Already Breaking Things — And We&#x27;ve Barely Started</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-20 12:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17302597/systemd-age-verification" target="_blank">Systemd’s New Feature Brings Age Verification Option to Linux</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-20 12:02</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +214,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/canonical-partners-with-snyk-for-scanning-chiseled-ubuntu-containers" target="_blank">Canonical partners with Snyk for scanning chiseled Ubuntu containers</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-03-20 10:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fntcnvewaccze64el3kox.png" alt="Deploying a Containerized WordPress App on AWS with Docker, EBS &amp; S3 Backups" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/christiana_otoboh/deploying-a-containerized-wordpress-app-on-aws-with-docker-ebs-s3-backups-38if" target="_blank">Deploying a Containerized WordPress App on AWS with Docker, EBS &amp; S3 Backups</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-20 10:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Steam-Linux-Beta-In-Container" target="_blank">Steam Linux Beta Prepares For 64-bit, Can Be Run Inside Steam Runtime Container</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-20 09:56</span>
             </div>
         </div>
 </div>
@@ -334,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 12:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 13:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
