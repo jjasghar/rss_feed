@@ -1,41 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-20 16:10:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-20 17:12:10 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, March 20, 2026 - 16:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, March 20, 2026 - 17:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -173,6 +167,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/erik_anderson_c41dbafd423/i-built-an-mcp-server-that-gives-ai-agents-human-judgment-4k4n" target="_blank">I Built an MCP Server That Gives AI Agents Human Judgment</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-20 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18905425&w=600" alt="Kubernetes Scheduler Plugins: Optimizing AI/ML Workloads" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/kubernetes-scheduler-plugins-ai-ml" target="_blank">Kubernetes Scheduler Plugins: Optimizing AI/ML Workloads</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-20 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kavitha_krish/method-overloading-tricky-questions--159h" target="_blank">Method Overloading Tricky Questions :</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-20 16:10</span>
@@ -205,24 +217,6 @@
                 <span class="time">2026-03-20 14:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18909875&w=600" alt="Scalable Cloud-Native Java Architecture With Microservices and Serverless" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/cloud-native-java-microservices-serverless" target="_blank">Scalable Cloud-Native Java Architecture With Microservices and Serverless</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-20 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2604-radeon-gaming" target="_blank">Ubuntu 26.04 Delivers Enhanced Performance For AMD Radeon Linux Gaming</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-20 13:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -252,11 +246,38 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/philips-roller-1280x853.jpg" alt="I’m Helpless Against the ’80s Nostalgia in Philips’ New Wireless Speakers and Headphones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/im-helpless-against-the-80s-nostalgia-in-philips-new-wireless-speakers-and-headphones-2000736022" target="_blank">I’m Helpless Against the ’80s Nostalgia in Philips’ New Wireless Speakers and Headphones</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-20 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/11/770ee9c5ed3714d95a12002c74353478-1280x720.jpg" alt="Dragon Age: The Veilguard Almost Had One More Choice At The End That Got Cut" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dragon-age-veilguard-solas-decision-ending-inquisitor-2000680649" target="_blank">Dragon Age: The Veilguard Almost Had One More Choice At The End That Got Cut</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-20 16:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/image-14-1280x720.jpg" alt="The Best New Games Of 2026 (So Far)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/best-new-video-games-2026-2000680583" target="_blank">The Best New Games Of 2026 (So Far)</a></span>
                 <span class="feed">Kotaku</span>
+                <span class="time">2026-03-20 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKZRQA4HVXRY066PQ5Y1YXPM/hero-image.jpg" alt="10 Chrome Hacks for iOS and Android Everyone Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-chrome-hacks-for-ios-and-android?utm_medium=RSS" target="_blank">10 Chrome Hacks for iOS and Android Everyone Should Know</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-20 16:00</span>
             </div>
         </div>
@@ -278,38 +299,20 @@
                 <span class="time">2026-03-20 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Daredevil-Born-Again-2-Charlie-Cox-1280x853.jpg" alt="Is Daredevil in ‘Spider-Man: Brand New Day’? Charlie Cox Isn’t Saying Either Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/is-daredevil-in-spider-man-brand-new-day-charlie-cox-isnt-saying-either-way-2000735848" target="_blank">Is Daredevil in ‘Spider-Man: Brand New Day’? Charlie Cox Isn’t Saying Either Way</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-20 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/slot-machine.png?fit=1200%2C853&amp;quality=55&amp;ssl=1" alt="Why coding with AI feels like pulling a slot machine lever for dopamine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/19/why-coding-with-ai-feels-like-pulling-a-slot-machine-lever-for-dopamine.html" target="_blank">Why coding with AI feels like pulling a slot machine lever for dopamine</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-19 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/d1feb5f208eb839944b1d0df770c5894.jpg" alt="Publisher Accused Of Leaking Subnautica 2 Release Date To Spite Co-Founders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/publisher-accused-of-leaking-subnautica-2-release-date-to-spite-co-founders-2000680432" target="_blank">Publisher Accused Of Leaking Subnautica 2 Release Date To Spite Co-Founders</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-19 22:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1773693395-20260320.png" alt="Saturday Morning Breakfast Cereal - Waiting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/waiting" target="_blank">Saturday Morning Breakfast Cereal - Waiting</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-20 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -333,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 16:10 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 17:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
