@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-03-20 22:03:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-20 23:04:47 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, March 20, 2026 - 22:03 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, March 20, 2026 - 23:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/20/pezeshkian-says-iran-not-seeking-war-with-muslim-neighbours?traffic_source=rss" target="_blank">Pezeshkian says Iran not seeking war with Muslim neighbours</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-20 22:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774043598832_now_hallie_trump_troops_iran_260320_S3_1920x1080-omikj3.jpg" alt="Trump weighing several options for U.S. troops in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-weighing-several-options-for-u-s-troops-in-iran-259701317901" target="_blank">Trump weighing several options for U.S. troops in Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-20 21:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +95,20 @@
                 <span class="time">2026-03-20 19:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/20/nx-s1-5750812/how-the-iran-war-threatens-global-food-supply" target="_blank">How the Iran war threatens global food supply</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-20 19:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/uss-comstock-ht-jt-260320_1774020645713_hpMain_4x3t_384.jpg" alt="2,200 more Marines, 3 Navy ships likely headed to Middle East: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/2200-marines-3-navy-ships-headed-middle-east/story?id=131252486" target="_blank">2,200 more Marines, 3 Navy ships likely headed to Middle East: Officials</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-20 15:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2217854935-500x500.jpg" alt="Jury finds Musk owes damages to Twitter investors for his tweets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/jury-agrees-that-musks-tweets-during-twitter-takeover-constituted-fraud/" target="_blank">Jury finds Musk owes damages to Twitter investors for his tweets</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-20 22:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GoeN_-iX0AA5uaR-500x500.jpg" alt="Once again, ULA can&#x27;t deliver when the US military needs a satellite in orbit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +154,6 @@
                 <span class="time">2026-03-20 18:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69bd8453251397bf52dd446e/master/pass/This-Bose-Soundbar-Is-$80-Off.jpg" alt="This Compact Bose Soundbar Is $80 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/bose-smart-soundbar-deal-326/" target="_blank">This Compact Bose Soundbar Is $80 Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-20 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -191,6 +187,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://opencode.ai/" target="_blank">OpenCode – The open source AI coding agent</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-20 21:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917266&w=600" alt="Vibe Coding Is Great for Demo; It’s Not a Strategy for GenAI Value in the SDLC" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -206,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/lucasnevespereira/i-built-a-cli-tool-that-writes-my-commit-messages-3bpf" target="_blank">I Built a CLI Tool That Writes My Commit Messages</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-20 19:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18915280&w=600" alt="10 Strategies for Scaling Synthetic Data in LLM Training" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/scaling-synthetic-data-llm-training" target="_blank">10 Strategies for Scaling Synthetic Data in LLM Training</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-20 19:00</span>
             </div>
         </div>
 </div>
@@ -341,6 +337,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/star_formation.png" alt="Star Formation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3222/" target="_blank">Star Formation</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-03-20 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5790.png" alt="Trap Sprung" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -354,8 +359,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 22:03 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 270 |
+        🔄 Last Updated: 23:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
