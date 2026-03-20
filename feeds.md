@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-19 23:05:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-20 00:08:28 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Error processing https://newsletter.pragmaticengineer.com/feed: The read operation timed out -->
 <!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, March 19, 2026 - 23:05 UTC</div>
+    <div class="newspaper-date">Friday, March 20, 2026 - 00:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/19/us-arts-commission-approves-gold-coin-stamped-with-donald-trumps-face?traffic_source=rss" target="_blank">US arts commission approves gold coin stamped with Donald Trump’s face</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-19 23:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251016-tenga-gk-45b807.jpg" alt="FCC green-lights Nexstar&#x27;s $6.2B merger with rival TV station owner Tegna" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/media/fcc-greenlights-nexstars-62b-merger-rival-tv-station-owner-tegna-rcna237953" target="_blank">FCC green-lights Nexstar&#x27;s $6.2B merger with rival TV station owner Tegna</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-19 23:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a69/live/76b6af90-23db-11f1-b297-95b0a0a8331e.jpg" alt="Netanyahu says Israel &#x27;acted alone&#x27; in attack on Iranian gas field" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +99,20 @@
                 <span class="time">2026-03-19 19:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/19/iranians-shop-for-persian-new-year-essentials-despite-war?traffic_source=rss" target="_blank">Iranians shop for Persian New Year essentials despite war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-19 19:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-riyadh-iran-missiles_7197172.jpg?20260319103821" alt="Last 24 hours show a prolonged Iran war could do calamitous damage to global economy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/iran-war-last-24-hours-show-a-prolonged-conflict-could-do-calamitous-damage-to-global-economy-13521949" target="_blank">Last 24 hours show a prolonged Iran war could do calamitous damage to global economy</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-19 19:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-500x500.jpg" alt="RFK Jr. has destroyed over a quarter of health dept&#x27;s expert panels" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/03/rfk-jr-s-war-on-scientific-expertise-destroyed-27-of-agencys-advisor-panels/" target="_blank">RFK Jr. has destroyed over a quarter of health dept&#x27;s expert panels</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-19 22:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69bb27db20b5c90983327a6a/master/pass/Uncanny-Valley-Nvida-GTC-Business-2266590803.jpg" alt="‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -109,6 +120,15 @@
                 <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/" target="_blank">‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-03-19 21:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale" target="_blank">Sony’s new WF-1000XM6 earbuds are already on sale for $30 off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-19 21:25</span>
             </div>
         </div>
 <div class="story">
@@ -138,29 +158,20 @@
                 <span class="time">2026-03-19 19:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/19/polymarket-continues-its-partnership-spree-with-a-major-league-baseball-deal/" target="_blank">Polymarket continues its partnership spree with a Major League Baseball deal</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-19 19:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/897474/hermes-paddock-wireless-charger-apple-watch-airpods-iphone-leather-luxury" target="_blank">Hermès doesn’t include a power adapter with its $5,150 charging case</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-19 19:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/opera-gx.jpg?resize=406%2C232&amp;ssl=1" alt="Opera GX for Linux is now available to download" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/opera-gx-linux-released" target="_blank">Opera GX for Linux is now available to download</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-19 23:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,28 +202,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nebulagg/how-to-test-ai-agents-before-they-burn-your-budget-53kl" target="_blank">How to Test AI Agents (Before They Burn Your Budget)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-19 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18915240&w=600" alt="Why Security Scanning Isn&#x27;t Enough for MCP Servers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-security-scanning-isnt-enough-for-mcp-servers" target="_blank">Why Security Scanning Isn&#x27;t Enough for MCP Servers</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-19 20:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/cockpit-project/cockpit" target="_blank">Cockpit is a web-based graphical interface for servers</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-19 20:33</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Thunderbird-Roadmap-2026" target="_blank">Thunderbird Looks To Finalize Its Exchange Support, Refresh The Calendar UI</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-19 19:42</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nebulagg/how-to-test-ai-agents-before-they-burn-your-budget-53kl" target="_blank">How to Test AI Agents (Before They Burn Your Budget)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-19 20:03</span>
             </div>
         </div>
 </div>
@@ -234,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/slot-machine.png?fit=1200%2C853&amp;quality=55&amp;ssl=1" alt="Why coding with AI feels like pulling a slot machine lever for dopamine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/19/why-coding-with-ai-feels-like-pulling-a-slot-machine-lever-for-dopamine.html" target="_blank">Why coding with AI feels like pulling a slot machine lever for dopamine</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-19 22:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/07/d1feb5f208eb839944b1d0df770c5894.jpg" alt="Publisher Accused Of Leaking Subnautica 2 Release Date To Spite Co-Founders" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +290,6 @@
                 <span class="time">2026-03-19 20:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/switch-2s-1280x720.jpg" alt="The Switch 2’s Best New Feature Is A Battery Power Hog But Still Totally Worth It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/switch-2-handheld-boost-mode-battery-life-xenoblade-2000680392" target="_blank">The Switch 2’s Best New Feature Is A Battery Power Hog But Still Totally Worth It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-19 20:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 23:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 00:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
