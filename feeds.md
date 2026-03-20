@@ -1,20 +1,24 @@
-<!-- Processing 54 RSS feeds at 2026-03-20 18:07:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-20 19:13:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
@@ -22,13 +26,11 @@
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, March 20, 2026 - 18:08 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, March 20, 2026 - 19:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -122,6 +124,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2249461871-500x500.jpg" alt="RFK may replace entire panel of CDC vaccine advisors again, ally lets slip" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/03/rfk-may-replace-entire-panel-of-cdc-vaccine-advisors-again-ally-lets-slip/" target="_blank">RFK may replace entire panel of CDC vaccine advisors again, ally lets slip</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-20 17:36</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -148,20 +159,29 @@
                 <span class="time">2026-03-20 15:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/mv-2012-500x500.jpg" alt="Monte Verde site gets a new date, but the big picture doesn&#x27;t change" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/03/an-early-indigenous-site-may-not-be-early-but-it-doesnt-really-matter/" target="_blank">Monte Verde site gets a new date, but the big picture doesn&#x27;t change</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-20 15:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lucasnevespereira/i-built-a-cli-tool-that-writes-my-commit-messages-3bpf" target="_blank">I Built a CLI Tool That Writes My Commit Messages</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-20 19:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18915280&w=600" alt="10 Strategies for Scaling Synthetic Data in LLM Training" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/scaling-synthetic-data-llm-training" target="_blank">10 Strategies for Scaling Synthetic Data in LLM Training</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-20 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18915273&w=600" alt="Modern Best Practices for Web Security Using AI and Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +218,6 @@
                 <span class="time">2026-03-20 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kavitha_krish/method-overloading-tricky-questions--159h" target="_blank">Method Overloading Tricky Questions :</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-20 16:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/" target="_blank">Oregon School Cell Phone Ban: &#x27;Engaged Students, Joyful Teachers&#x27;</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-20 15:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +246,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KM64HBW0YVDHZM061PXG9T8E/hero-image.png" alt="This Massive Data Breach Leaked 2.7 Million Social Security Numbers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/navia-data-breach-social-security-numbers?utm_medium=RSS" target="_blank">This Massive Data Breach Leaked 2.7 Million Social Security Numbers</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-20 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/space-marine-1280x720.jpg" alt="Space Marine 2 Messed Up Its Voice Pack DLC So Bad It’s Been Refunded And Made Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/space-marine-2-warhammer-voice-pack-dlc-refund-free-2000680648" target="_blank">Space Marine 2 Messed Up Its Voice Pack DLC So Bad It’s Been Refunded And Made Free</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-20 18:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/SLS-1280x853.jpg" alt="NASA Is Exploring a Reduced Role for SLS as It Gets Cozier With SpaceX" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +298,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/how-googles-safer-sideloading-works-on-android?utm_medium=RSS" target="_blank">Here’s How Google’s ‘Safer’ Sideloading Works on Android</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-20 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/11/770ee9c5ed3714d95a12002c74353478-1280x720.jpg" alt="Dragon Age: The Veilguard Almost Had One More Choice At The End That Got Cut" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dragon-age-veilguard-solas-decision-ending-inquisitor-2000680649" target="_blank">Dragon Age: The Veilguard Almost Had One More Choice At The End That Got Cut</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-20 16:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/image-14-1280x720.jpg" alt="The Best New Games Of 2026 (So Far)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/best-new-video-games-2026-2000680583" target="_blank">The Best New Games Of 2026 (So Far)</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-20 16:00</span>
             </div>
         </div>
 </div>
@@ -344,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 18:08 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 19:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
