@@ -1,41 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-03-20 15:12:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-20 16:10:30 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, March 20, 2026 - 15:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, March 20, 2026 - 16:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/uss-comstock-ht-jt-260320_1774020645713_hpMain_4x3t_384.jpg" alt="2,200 more Marines, 3 Navy ships likely headed to Middle East: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/2200-marines-3-navy-ships-headed-middle-east/story?id=131252486" target="_blank">2,200 more Marines, 3 Navy ships likely headed to Middle East: Officials</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-20 15:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +105,29 @@
                 <span class="time">2026-03-20 11:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa44/live/08d82160-23b9-11f1-92e7-e70d0571c9f1.jpg" alt="Typical energy bill forecast to rise by £332 a year in July" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cede1nn8wp5o?at_medium=RSS&at_campaign=rss" target="_blank">Typical energy bill forecast to rise by £332 a year in July</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-20 10:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/" target="_blank">AI startups are eating the venture industry and the returns, so far, are good</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-20 15:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/897085/google-nest-video-doorbell-amazon-big-spring-sale-2026-deal" target="_blank">Google’s battery-powered Nest Doorbell is $40 off right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-20 15:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,6 +147,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/69bc605080392585c27a64b6/master/pass/Backchannel-Inside-Mind-of-Palantir-Business-2249768392.jpg" alt="At Palantir’s Developer Conference, AI Is Built to Win Wars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/" target="_blank">At Palantir’s Developer Conference, AI Is Built to Win Wars</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-20 15:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -137,38 +164,29 @@
                 <span class="time">2026-03-20 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69bccf0cfd6ca17daa5b0fe6/master/pass/The-Best-Kids'-Bikes-for-Every-Age-and-Size.jpg" alt="Best Kids&#x27; Bikes (2026): Woom, Prevelo, Guardian, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-kids-bikes/" target="_blank">Best Kids&#x27; Bikes (2026): Woom, Prevelo, Guardian, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-20 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/spectrum-rocket-500x500.jpg" alt="Rocket Report: Canada makes a major move, US Space Force says actually, let&#x27;s be hasty" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/03/rocket-report-canada-makes-a-major-move-us-space-force-says-actually-lets-be-hasty/" target="_blank">Rocket Report: Canada makes a major move, US Space Force says actually, let&#x27;s be hasty</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-20 11:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/phm-text-bubbles-500x500-1773851996.jpg" alt="Project Hail Mary is in theaters—but do the linguistics work?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/03/project-hail-mary-is-in-theaters-but-do-the-linguistics-work/" target="_blank">Project Hail Mary is in theaters—but do the linguistics work?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-20 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kavitha_krish/method-overloading-tricky-questions--159h" target="_blank">Method Overloading Tricky Questions :</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-20 16:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/" target="_blank">Oregon School Cell Phone Ban: &#x27;Engaged Students, Joyful Teachers&#x27;</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-20 15:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18915268&w=600" alt="Secrets Management With Infisical and External Secrets Operator" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,24 +223,6 @@
                 <span class="time">2026-03-20 13:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/" target="_blank">I&#x27;m OK being left behind, thanks</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-20 13:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/michael_lip_52d5151c3e364/the-anatomy-of-a-good-box-shadow-and-why-most-look-fake-7h" target="_blank">The Anatomy of a Good Box Shadow (and Why Most Look Fake)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-20 13:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -251,6 +251,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/image-14-1280x720.jpg" alt="The Best New Games Of 2026 (So Far)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/best-new-video-games-2026-2000680583" target="_blank">The Best New Games Of 2026 (So Far)</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-20 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/image-41-1280x720.jpg" alt="Crimson Desert Has Already Sold A Shocking Number Of Copies In Just 24 Hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -296,15 +305,6 @@
                 <span class="time">2026-03-19 22:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Redwoods-River-Shoot-Extra-15-1280x800.jpeg" alt="Look at This Treasure Trove of Unseen Photos From the Filming of ‘Return of the Jedi’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-wars-behind-the-scenes-photos-return-of-the-jedi-auction-2000735610" target="_blank">Look at This Treasure Trove of Unseen Photos From the Filming of ‘Return of the Jedi’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-19 22:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,22 +328,13 @@
                 <span class="time">2026-03-20 01:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1773693346-20260319.png" alt="Saturday Morning Breakfast Cereal - Love" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/love-9" target="_blank">Saturday Morning Breakfast Cereal - Love</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-03-19 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 15:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 16:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
