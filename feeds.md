@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-20 00:08:28 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-20 01:30:51 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Error processing https://newsletter.pragmaticengineer.com/feed: The read operation timed out -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, March 20, 2026 - 00:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, March 20, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/20/palestinians-bury-four-women-killed-in-iranian-missile-attack?traffic_source=rss" target="_blank">Palestinians bury four women killed in Iranian missile attack</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-20 01:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-9-ht-gmh-260311_1773234021666_hpMain_4x3t_384.jpg" alt="US targets mine-laying vessels in the Strait of Hormuz amid disruption of oil traffic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/us-targets-mine-laying-vessels-strait-hormuz-amid/story?id=131228813" target="_blank">US targets mine-laying vessels in the Strait of Hormuz amid disruption of oil traffic</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-20 00:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +98,20 @@
                 <span class="time">2026-03-19 20:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/19/nx-s1-5753911/eeoc-planned-parenthood-dei-settlement" target="_blank">Planned Parenthood chapter settles with EEOC over treatment of white employees</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-19 20:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/f35-2-ht-gmh-260319_1773947204696_hpMain_4x3t_384.jpg" alt="Iran live updates: F-35 believed to have been struck by Iranian fire, source says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492" target="_blank">Iran live updates: F-35 believed to have been struck by Iranian fire, source says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-19 19:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally" target="_blank">Valve’s huge SteamOS 3.8 update adds long-awaited features — and supports Steam Machine</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-20 00:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-500x500.jpg" alt="RFK Jr. has destroyed over a quarter of health dept&#x27;s expert panels" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +157,29 @@
                 <span class="time">2026-03-19 20:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/kash-patel-500x500.jpg" alt="FBI started buying Americans&#x27; location data again, Kash Patel confirms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/fbi-started-buying-americans-location-data-again-kash-patel-confirms/" target="_blank">FBI started buying Americans&#x27; location data again, Kash Patel confirms</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-19 19:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-march-20-2026-red-hat" target="_blank">Friday Five — March 20, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-03-20 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/opera-gx.jpg?resize=406%2C232&amp;ssl=1" alt="Opera GX is now available for Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/opera-gx-linux-released" target="_blank">Opera GX is now available for Linux</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-19 23:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/opera-gx.jpg?resize=406%2C232&amp;ssl=1" alt="Opera GX for Linux is now available to download" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/nebulagg/how-to-add-llm-model-fallbacks-in-python-in-5-min-5200" target="_blank">How to Add LLM Model Fallbacks in Python in 5 Min</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-19 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/cockpit-project/cockpit" target="_blank">Cockpit is a web-based graphical interface for servers</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-19 20:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nebulagg/how-to-test-ai-agents-before-they-burn-your-budget-53kl" target="_blank">How to Test AI Agents (Before They Burn Your Budget)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-19 20:03</span>
             </div>
         </div>
 </div>
@@ -296,6 +295,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5790.png" alt="Trap Sprung" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5790" target="_blank">Trap Sprung</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-03-20 01:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1773693346-20260319.png" alt="Saturday Morning Breakfast Cereal - Love" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -304,22 +312,13 @@
                 <span class="time">2026-03-19 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5789.png" alt="Time To Have The Talk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5789" target="_blank">Time To Have The Talk</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-03-19 00:51</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 00:08 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
