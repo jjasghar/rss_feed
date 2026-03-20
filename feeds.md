@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-03-20 14:13:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-20 15:12:54 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, March 20, 2026 - 14:13 UTC</div>
+    <div class="newspaper-date">Friday, March 20, 2026 - 15:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/20/nx-s1-5753907/chuck-norris-dead" target="_blank">Martial arts star Chuck Norris dies at 86</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-20 14:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +105,29 @@
                 <span class="time">2026-03-20 10:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/20/madagascar-military-ruler-new-ministers-lie-detector-tests" target="_blank">Madagascar’s military ruler decrees that ministers must pass lie detector tests</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-20 10:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/" target="_blank">Cyberattack on vehicle breathalyzer company leaves drivers stranded across the US</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-20 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/mv-2012-500x500.jpg" alt="Monte Verde site gets a new date, but the big picture doesn&#x27;t change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/03/an-early-indigenous-site-may-not-be-early-but-it-doesnt-really-matter/" target="_blank">Monte Verde site gets a new date, but the big picture doesn&#x27;t change</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-20 15:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +164,29 @@
                 <span class="time">2026-03-20 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" alt="Paramount Plus Coupon Codes and Deals: 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/paramount-plus-coupon-code/" target="_blank">Paramount Plus Coupon Codes and Deals: 50% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-20 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally" target="_blank">Valve’s huge SteamOS 3.8 update adds long-awaited features — and supports Steam Machine</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-20 00:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18915268&w=600" alt="Secrets Management With Infisical and External Secrets Operator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/secrets-management-infisical-external-secrets" target="_blank">Secrets Management With Infisical and External Secrets Operator</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-20 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/platform-engineering-sociotechnical/en/mediumimage/lesley-cordero-medium-1772015380160.jpeg" alt="Presentation: Platform Engineering as a Practice of Sociotechnical Excellence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/platform-engineering-sociotechnical/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Platform Engineering as a Practice of Sociotechnical Excellence</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-20 14:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18909875&w=600" alt="Scalable Cloud-Native Java Architecture With Microservices and Serverless" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -181,37 +208,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/" target="_blank">I&#x27;m OK being left behind, thanks</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-20 13:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/michael_lip_52d5151c3e364/the-anatomy-of-a-good-box-shadow-and-why-most-look-fake-7h" target="_blank">The Anatomy of a Good Box Shadow (and Why Most Look Fake)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-20 13:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/taskconcierge/ai-agents-are-already-breaking-things-and-weve-barely-started-1con" target="_blank">AI Agents Are Already Breaking Things — And We&#x27;ve Barely Started</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-20 12:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17302597/systemd-age-verification" target="_blank">Systemd’s New Feature Brings Age Verification Option to Linux</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-20 12:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/harness-artifact-registry/en/headerimage/generatedHeaderImage-1773642345346.jpg" alt="Harness Reimagines Artifact Management for DevSecOps with New Artifact Registry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/harness-artifact-registry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Harness Reimagines Artifact Management for DevSecOps with New Artifact Registry</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-20 12:00</span>
             </div>
         </div>
 </div>
@@ -242,6 +251,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/image-41-1280x720.jpg" alt="Crimson Desert Has Already Sold A Shocking Number Of Copies In Just 24 Hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/crimson-desert-copies-sold-first-day-2000680582" target="_blank">Crimson Desert Has Already Sold A Shocking Number Of Copies In Just 24 Hours</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-20 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KM4SH4SZ44HF5R1H97FK3DKX/hero-image.png" alt="These Highly Rated Powerbeats Pro 2 Earbuds Are on Sale for 60% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +305,6 @@
                 <span class="time">2026-03-19 22:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/horizon-worlds-1280x853.jpg" alt="Meta After Killing the Metaverse: ‘Just Kidding’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/meta-after-killing-the-metaverse-just-kidding-2000735795" target="_blank">Meta After Killing the Metaverse: ‘Just Kidding’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-19 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 14:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 15:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
