@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-21 07:11:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-21 08:02:59 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, March 21, 2026 - 07:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, March 21, 2026 - 08:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +106,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/reviews/898580/peakdo-linkpower-2-review-starlink-mini-battery" target="_blank">The improved battery-powered Starlink Mini is here</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-21 07:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/" target="_blank">New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput</a></span>
                 <span class="feed">TechCrunch</span>
@@ -148,20 +157,20 @@
                 <span class="time">2026-03-20 21:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2248542236-500x500.jpg" alt="Hachette pulls Shy Girl horror novel after concerns about AI use" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/" target="_blank">Hachette pulls Shy Girl horror novel after concerns about AI use</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-20 21:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/humanpagesai/crypto-spent-10m-trying-to-win-an-illinois-primary-90-of-it-failed-heres-what-actually-works-2n5b" target="_blank">Crypto Spent $10M Trying to Win an Illinois Primary. 90% of It Failed. Here&#x27;s What Actually Works.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-21 07:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/patterueldev/lima-vm-life-changing-or-a-passing-fad-7a6" target="_blank">Lima VM — Life Changing? Or a Passing Fad?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-21 02:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17303041/germany-digital-stack-mandate" target="_blank">Big Win for Open Source as Germany Backs Open Document Format</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-21 02:06</span>
             </div>
         </div>
 </div>
@@ -290,12 +290,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KM64HBW0YVDHZM061PXG9T8E/hero-image.png" alt="This Massive Data Breach Leaked 2.7 Million Social Security Numbers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/navia-data-breach-social-security-numbers?utm_medium=RSS" target="_blank">This Massive Data Breach Leaked 2.7 Million Social Security Numbers</a></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
                 <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-20 18:30</span>
+                <span class="time">2026-03-20 20:00</span>
             </div>
         </div>
 </div>
@@ -327,7 +327,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 07:11 UTC
+        🔄 Last Updated: 08:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
