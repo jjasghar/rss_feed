@@ -1,33 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-03-21 09:05:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-21 10:02:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, March 21, 2026 - 09:05 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, March 21, 2026 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/21/nx-s1-5755539/iran-war-fourth-week" target="_blank">Iran war enters its fourth week with no clear end in sight</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-21 09:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/21/real-madrid-vs-atletico-madrid-la-liga-team-news-start-lineups?traffic_source=rss" target="_blank">Real Madrid vs Atletico Madrid: La Liga – team news, start, lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-21 09:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +91,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/21/al-jazeera-reporters-journey-from-jordan-to-iraq?traffic_source=rss" target="_blank">Al Jazeera reporter’s journey from Jordan to Iraq</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-21 01:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-donald-trump-iran_7198830.jpg?20260321000142" alt="Has Trump given his biggest indication he&#x27;s done with the Iran war? Don&#x27;t take anything for certain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/has-trump-given-his-biggest-indication-hes-done-with-the-iran-war-dont-take-anything-for-certain-13522451" target="_blank">Has Trump given his biggest indication he&#x27;s done with the Iran war? Don&#x27;t take anything for certain</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-20 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774048113723_nn_kcu_trumpweighsgroundtroops_260320_S3_1920x1080-6xdk23.jpg" alt="Trump weighs deploying ground troops" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-weighs-deploying-ground-troops-259710021867" target="_blank">Trump weighs deploying ground troops</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-20 23:08</span>
             </div>
         </div>
 </div>
@@ -165,6 +161,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/young_gao/graceful-shutdown-in-nodejs-stop-dropping-requests-228p" target="_blank">Graceful Shutdown in Node.js: Stop Dropping Requests</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-21 09:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/humanpagesai/crypto-spent-10m-trying-to-win-an-illinois-primary-90-of-it-failed-heres-what-actually-works-2n5b" target="_blank">Crypto Spent $10M Trying to Win an Illinois Primary. 90% of It Failed. Here&#x27;s What Actually Works.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-21 07:51</span>
@@ -204,15 +209,6 @@
                 <span class="title"><a href="https://dev.to/roisoftstudio/introducing-roisoftstudio-building-web-apps-games-dev-tools-3a03" target="_blank">Introducing RoiSoftStudio — Building Web Apps, Games &amp; Dev Tools</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-21 03:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz3ls6wrqbn27czvu1o6m.jpg" alt="Lima VM — Life Changing? Or a Passing Fad?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/patterueldev/lima-vm-life-changing-or-a-passing-fad-7a6" target="_blank">Lima VM — Life Changing? Or a Passing Fad?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-21 02:36</span>
             </div>
         </div>
 </div>
@@ -325,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 09:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
