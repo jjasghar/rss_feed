@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-21 02:50:04 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-21 03:40:57 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, March 21, 2026 - 02:50 UTC</div>
+    <div class="newspaper-date">Saturday, March 21, 2026 - 03:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +52,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/20/nx-s1-5755120/pentagon-press-policy-new-york-times-lawsuit" target="_blank">U.S. judge rules against Pentagon restrictions on press coverage</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-21 01:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/21/al-jazeera-reporters-journey-from-jordan-to-iraq?traffic_source=rss" target="_blank">Al Jazeera reporter’s journey from Jordan to Iraq</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-21 01:02</span>
             </div>
         </div>
 <div class="story">
@@ -88,20 +99,20 @@
                 <span class="time">2026-03-20 21:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/bahrain-rt-jef-260320_1774027468708_hpMain_4x3t_384.jpg" alt="Attacks on Middle East energy sites deepen threat to US economy, analysts say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/attacks-middle-east-energy-sites-deepen-threat-us/story?id=131213656" target="_blank">Attacks on Middle East energy sites deepen threat to US economy, analysts say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-20 21:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/" target="_blank">New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-21 01:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69bdd83054a6d8f67d317f75/master/pass/Anthropic-Denies-It-Could-Sabotage-AI-Tools-In-Middle-of-War-Business.jpg" alt="Anthropic Denies It Could Sabotage AI Tools During War" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +158,20 @@
                 <span class="time">2026-03-20 21:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/" target="_blank">Microsoft rolls back some of its Copilot AI bloat on Windows</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-20 20:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/roisoftstudio/introducing-roisoftstudio-building-web-apps-games-dev-tools-3a03" target="_blank">Introducing RoiSoftStudio — Building Web Apps, Games &amp; Dev Tools</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-21 03:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz3ls6wrqbn27czvu1o6m.jpg" alt="Lima VM — Life Changing? Or a Passing Fad?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,19 +211,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bentofound/how-i-built-a-financial-dashboard-for-startups-53ig" target="_blank">How I Built a Financial Dashboard for Startups</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-20 23:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/sonatype-guide-safety-mcp-server/en/headerimage/sonatype-guide-mcp-server-1774041240972.jpeg" alt="Sonatype Launches Guide to Enhance Safety in AI-Assisted Code Generation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/sonatype-guide-safety-mcp-server/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Sonatype Launches Guide to Enhance Safety in AI-Assisted Code Generation</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-20 22:00</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Cambalache-1.0-GTK-UIs" target="_blank">Cambalache 1.0 Released After Five Years For Designing Modern GTK UIs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-21 00:48</span>
             </div>
         </div>
 </div>
@@ -343,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 02:50 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 03:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
