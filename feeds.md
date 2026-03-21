@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-21 00:07:05 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-03-21 01:30:35 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, March 21, 2026 - 00:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, March 21, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -99,6 +105,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/898511/elon-musk-twitter-lawsuit" target="_blank">Jury finds Elon Musk&amp;#8217;s &amp;#8216;stupid tweets&amp;#8217; caused Twitter investors&amp;#8217; losses</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-20 23:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2217854935-500x500.jpg" alt="Jury finds Musk owes damages to Twitter investors for his tweets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -143,20 +158,20 @@
                 <span class="time">2026-03-20 19:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/898162/vidabay-classic-plus-nfc-e-ink-fridge-magnet" target="_blank">These electronic Polaroids are powered by your phone’s NFC chip</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-20 18:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/krlz/how-a-corruption-sanctioned-company-got-a-480m-contract-to-build-chiles-national-id-system-and-2pk4" target="_blank">How a Corruption-Sanctioned Company Got a $480M Contract to Build Chile&#x27;s National ID System — And Broke It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-21 01:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +217,6 @@
                 <span class="time">2026-03-20 21:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917266&w=600" alt="Vibe Coding Is Great for Demo; It’s Not a Strategy for GenAI Value in the SDLC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/vibe-coding-not-a-genai-sdlc-strategy" target="_blank">Vibe Coding Is Great for Demo; It’s Not a Strategy for GenAI Value in the SDLC</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-20 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,15 +238,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/proton-mail-shared-user-information-with-the-police.html" target="_blank">Proton Mail Shared User Information with the Police</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-03-20 11:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/" target="_blank">Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-03-20 00:49</span>
             </div>
         </div>
 </div>
@@ -343,22 +340,13 @@
                 <span class="time">2026-03-20 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5790.png" alt="Trap Sprung" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5790" target="_blank">Trap Sprung</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-03-20 01:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 00:07 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 107 | 📡 Total Sources: 41 | 📸 With Images: 270 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
