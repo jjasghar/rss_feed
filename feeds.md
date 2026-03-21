@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-21 01:30:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-21 02:50:04 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, March 21, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, March 21, 2026 - 02:50 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/20/nx-s1-5755120/pentagon-press-policy-new-york-times-lawsuit" target="_blank">U.S. judge rules against Pentagon restrictions on press coverage</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-21 01:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774048113723_nn_kcu_trumpweighsgroundtroops_260320_S3_1920x1080-6xdk23.jpg" alt="Trump weighs deploying ground troops" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-weighs-deploying-ground-troops-259710021867" target="_blank">Trump weighs deploying ground troops</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-20 23:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +97,20 @@
                 <span class="time">2026-03-20 21:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/20/nx-s1-5755069/breonna-taylor-raid-officers-federal-charges" target="_blank">Federal prosecutors ask to dismiss charges against officers in Breonna Taylor raid</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-20 20:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/3/20/what-are-the-risks-of-turning-energy-sites-into-battlefields?traffic_source=rss" target="_blank">What are the risks of turning energy sites into battlefields?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-20 19:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69bdd83054a6d8f67d317f75/master/pass/Anthropic-Denies-It-Could-Sabotage-AI-Tools-In-Middle-of-War-Business.jpg" alt="Anthropic Denies It Could Sabotage AI Tools During War" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/" target="_blank">Anthropic Denies It Could Sabotage AI Tools During War</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-21 00:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +156,38 @@
                 <span class="time">2026-03-20 20:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/898313/nintendo-switch-2-eu-replaceable-battery" target="_blank">A new Nintendo Switch 2 could be the poster child for replaceable batteries</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-20 19:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz3ls6wrqbn27czvu1o6m.jpg" alt="Lima VM — Life Changing? Or a Passing Fad?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/patterueldev/lima-vm-life-changing-or-a-passing-fad-7a6" target="_blank">Lima VM — Life Changing? Or a Passing Fad?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-21 02:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17303041/germany-digital-stack-mandate" target="_blank">Big Win for Open Source as Germany Backs Open Document Format</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-21 02:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/openshot-3.3-1.jpg?resize=406%2C232&amp;ssl=1" alt="OpenShot 3.5 is (yet again) the ‘biggest’ and ‘fastest’ release ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/openshot-3-5-released" target="_blank">OpenShot 3.5 is (yet again) the ‘biggest’ and ‘fastest’ release ever</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-21 01:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,33 +213,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/03/sonatype-guide-safety-mcp-server/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Sonatype Launches Guide to Enhance Safety in AI-Assisted Code Generation</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-03-20 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fng9am8bibks9ljzpjk3n.png" alt="Why the Next Billion-Dollar SaaS Won&#x27;t Be Built in Silicon Valley: The Rise of Guerrilla Tech Hubs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/deepak_mishra_35863517037/why-the-next-billion-dollar-saas-wont-be-built-in-silicon-valley-the-rise-of-guerrilla-tech-hubs-2mhn" target="_blank">Why the Next Billion-Dollar SaaS Won&#x27;t Be Built in Silicon Valley: The Rise of Guerrilla Tech Hubs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-20 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.5-Released" target="_blank">Wine 11.5 Release Is Big: Syscall User Dispatch Feature Supported On Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-20 21:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://opencode.ai/" target="_blank">OpenCode – The open source AI coding agent</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-20 21:03</span>
             </div>
         </div>
 </div>
@@ -245,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2020/07/1280px-Jared_Kushner_48512761852-e1774052616385.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Congress probes whether Kushner fundraising billions while negotiating &quot;peace deals&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/20/congress-probes-whether-kushner-fundraising-billions-while-negotiating-peace-deals.html" target="_blank">Congress probes whether Kushner fundraising billions while negotiating &quot;peace deals&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-21 00:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/framework-laptop-16-review-03-1280x853.jpg" alt="Microsoft Is Finally Ready to Make Windows 11 Less Terrible After Bloating It With AI Crap" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +295,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/navia-data-breach-social-security-numbers?utm_medium=RSS" target="_blank">This Massive Data Breach Leaked 2.7 Million Social Security Numbers</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-20 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/space-marine-1280x720.jpg" alt="Space Marine 2 Messed Up Its Voice Pack DLC So Bad It’s Been Refunded And Made Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/space-marine-2-warhammer-voice-pack-dlc-refund-free-2000680648" target="_blank">Space Marine 2 Messed Up Its Voice Pack DLC So Bad It’s Been Refunded And Made Free</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-20 18:08</span>
             </div>
         </div>
 </div>
@@ -345,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 107 | 📡 Total Sources: 41 | 📸 With Images: 270 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 02:50 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
