@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-21 21:03:23 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-21 22:01:47 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, March 21, 2026 - 21:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, March 21, 2026 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/21/nx-s1-5755796/airport-security-tsa-lines-travel-tips" target="_blank">Airport security lines are long. Here&#x27;s what to know if you&#x27;re flying</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-21 21:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-14-rgtygmh-260320_1774038626998_hpMain_4x3t_384.jpg" alt="Trump threatens to put ICE agents in airports starting Monday amid DHS shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/21/former-fbi-chief-robert-mueller-dead-at-81?traffic_source=rss" target="_blank">Former FBI chief, Robert Mueller, dead at 81</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-21 17:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-2-rt-gmh-260303_1772544258816_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran says its Natanz nuclear facility was targeted again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492" target="_blank">Iran live updates: Iran says its Natanz nuclear facility was targeted again</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-21 16:59</span>
             </div>
         </div>
 </div>
@@ -174,6 +181,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://news.dyne.org/child-protection-is-not-access-control/" target="_blank">Do Not Turn Child Protection into Internet Access Control</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-21 20:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://tinygrad.org/#tinybox" target="_blank">Tinybox- offline AI device 120B parameters</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-21 20:08</span>
@@ -206,34 +222,29 @@
                 <span class="time">2026-03-21 15:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/saras_growth_space/build-sse-in-python-fastapi-4g6c" target="_blank">Build SSE in Python (FastAPI)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-21 15:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-jumbo-flying-squid-in-the-south-pacific.html" target="_blank">Friday Squid Blogging: Jumbo Flying Squid in the South Pacific</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-03-20 21:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/Official-Minecraft-World-mockup-image.jpeg" alt="Minecraft World Is A New Theme Park With Its Own Roller Coaster Coming In 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/minecraft-theme-park-world-mojang-roller-coaster-2000680826" target="_blank">Minecraft World Is A New Theme Park With Its Own Roller Coaster Coming In 2027</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-21 21:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/expedition-33-maelle-1280x854.jpg" alt="The Stunning ‘Expedition 33’ Art Book Is Finally Coming West" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-stunning-expedition-33-art-book-is-finally-coming-west-2000736499" target="_blank">The Stunning ‘Expedition 33’ Art Book Is Finally Coming West</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-21 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/absolute-batman-villainshed-1280x853.jpg" alt="Oh, the New ‘Absolute Batman’ Villains Are…Kinda Normal?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +281,6 @@
                 <span class="time">2026-03-21 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/MST3K-1280x858.jpg" alt="You Can Finally Watch The Mystery Science Theater 3000 Episode That’s Been Lost For 37 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lost-episode-of-cult-tv-show-uploaded-to-youtube-mst3k-lost-media-2000680792" target="_blank">You Can Finally Watch The Mystery Science Theater 3000 Episode That’s Been Lost For 37 Years</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-21 15:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2020/07/1280px-Jared_Kushner_48512761852-e1774052616385.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Congress probes whether Kushner fundraising billions while negotiating &quot;peace deals&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/20/congress-probes-whether-kushner-fundraising-billions-while-negotiating-peace-deals.html" target="_blank">Congress probes whether Kushner fundraising billions while negotiating &quot;peace deals&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-21 00:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -307,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 21:03 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
