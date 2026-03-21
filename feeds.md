@@ -1,31 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-03-20 23:04:47 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-21 00:07:05 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, March 20, 2026 - 23:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, March 21, 2026 - 00:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -160,6 +158,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bentofound/how-i-built-a-financial-dashboard-for-startups-53ig" target="_blank">How I Built a Financial Dashboard for Startups</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-20 23:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/03/sonatype-guide-safety-mcp-server/en/headerimage/sonatype-guide-mcp-server-1774041240972.jpeg" alt="Sonatype Launches Guide to Enhance Safety in AI-Assisted Code Generation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -204,15 +211,6 @@
                 <span class="time">2026-03-20 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lucasnevespereira/i-built-a-cli-tool-that-writes-my-commit-messages-3bpf" target="_blank">I Built a CLI Tool That Writes My Commit Messages</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-20 19:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -251,6 +249,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/framework-laptop-16-review-03-1280x853.jpg" alt="Microsoft Is Finally Ready to Make Windows 11 Less Terrible After Bloating It With AI Crap" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/microsoft-is-finally-ready-to-make-windows-11-less-terrible-after-bloating-it-with-ai-crap-2000736302" target="_blank">Microsoft Is Finally Ready to Make Windows 11 Less Terrible After Bloating It With AI Crap</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-20 22:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/warframe-metacard.jpg" alt="Warframe Players Fear The Game Has Been Hacked After Receiving ‘Nefarious Invites’ [Update]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/warframe-hack-invite-digital-extremes-support-report-2000680686" target="_blank">Warframe Players Fear The Game Has Been Hacked After Receiving ‘Nefarious Invites’ [Update]</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-20 21:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/BernieSandersClaude-1280x853.jpg" alt="Hey Bernie, That’s a Not an AI Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -284,24 +300,6 @@
                 <span class="title"><a href="https://kotaku.com/space-marine-2-warhammer-voice-pack-dlc-refund-free-2000680648" target="_blank">Space Marine 2 Messed Up Its Voice Pack DLC So Bad It’s Been Refunded And Made Free</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-20 18:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/SLS-1280x853.jpg" alt="NASA Is Exploring a Reduced Role for SLS as It Gets Cozier With SpaceX" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nasa-is-exploring-a-reduced-role-for-sls-as-it-gets-cozier-with-spacex-2000736049" target="_blank">NASA Is Exploring a Reduced Role for SLS as It Gets Cozier With SpaceX</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-20 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/07/sheep.jpeg?fit=1500%2C995&amp;quality=60&amp;ssl=1" alt="Counting sheep to fall asleep traces back to at least the 12th century" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/20/counting-sheep-to-fall-asleep-traces-back-to-at-least-the-12th-century.html" target="_blank">Counting sheep to fall asleep traces back to at least the 12th century</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-20 17:52</span>
             </div>
         </div>
 </div>
@@ -359,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 270 |
-        🔄 Last Updated: 23:04 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 00:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
