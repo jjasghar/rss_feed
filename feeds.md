@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-21 14:04:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-21 15:03:23 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, March 21, 2026 - 14:04 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, March 21, 2026 - 15:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +107,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/897628/best-outdoor-deals-rei-member-days-sale-2026" target="_blank">Here are 20 of our favorite outdoor deals from REI’s Member Days Sale</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-21 14:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69be1926acc960710aeb396b/master/pass/The-Best-Podcasts-for-Everyone.jpg" alt="71 Best Podcasts (2026): True Crime, Culture, Science, Fiction" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -121,6 +131,15 @@
                 <span class="title"><a href="https://www.theverge.com/tech/898062/apple-macbook-pro-16-m5-max-m1-comparison-review" target="_blank">The new MacBook Pro is still fast as hell</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-21 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/image-1-500x500-1774038632.png" alt="We keep finding the raw material of DNA in asteroids—what&#x27;s it telling us?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/03/we-keep-finding-the-raw-material-of-dna-in-asteroids-whats-it-telling-us/" target="_blank">We keep finding the raw material of DNA in asteroids—what&#x27;s it telling us?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-21 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -141,29 +160,29 @@
                 <span class="time">2026-03-21 01:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69bdd83054a6d8f67d317f75/master/pass/Anthropic-Denies-It-Could-Sabotage-AI-Tools-In-Middle-of-War-Business.jpg" alt="Anthropic Denies It Could Sabotage AI Tools During War" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/" target="_blank">Anthropic Denies It Could Sabotage AI Tools During War</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-21 00:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/898511/elon-musk-twitter-lawsuit" target="_blank">Jury finds Elon Musk&amp;#8217;s &amp;#8216;stupid tweets&amp;#8217; caused Twitter investors&amp;#8217; losses</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-20 23:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/saras_growth_space/build-sse-in-python-fastapi-4g6c" target="_blank">Build SSE in Python (FastAPI)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-21 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Driver-Pulsar-Gaming-Mice" target="_blank">Linux Driver Being Worked On For Pulsar Gaming Mice</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-21 14:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +219,6 @@
                 <span class="time">2026-03-21 10:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/young_gao/graceful-shutdown-in-nodejs-stop-dropping-requests-228p" target="_blank">Graceful Shutdown in Node.js: Stop Dropping Requests</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-21 09:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/" target="_blank">Thoughts on OpenAI acquiring Astral and uv/ruff/ty</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-21 09:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/MST3K-1280x858.jpg" alt="You Can Finally Watch The Mystery Science Theater 3000 Episode That’s Been Lost For 37 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lost-episode-of-cult-tv-show-uploaded-to-youtube-mst3k-lost-media-2000680792" target="_blank">You Can Finally Watch The Mystery Science Theater 3000 Episode That’s Been Lost For 37 Years</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-21 15:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2020/07/1280px-Jared_Kushner_48512761852-e1774052616385.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Congress probes whether Kushner fundraising billions while negotiating &quot;peace deals&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +292,6 @@
                 <span class="time">2026-03-20 20:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-20 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 14:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 41 | 📸 With Images: 258 |
+        🔄 Last Updated: 15:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
