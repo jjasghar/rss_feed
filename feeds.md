@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-21 13:15:45 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-03-21 14:04:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, March 21, 2026 - 13:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, March 21, 2026 - 14:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/21/nx-s1-5137843/uk-parliament-abolishes-hereditary-lords" target="_blank">End of an heir-a: The U.K. abolishes aristocrats&#x27; right to inherit Parliament seats</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-21 13:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +100,20 @@
                 <span class="time">2026-03-21 10:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/21/g-s1-114578/homeland-security-shutdown-oversight-detention" target="_blank">DHS shutdown hurts families&#x27; access to detention facilities, Democrat says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-21 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69be1926acc960710aeb396b/master/pass/The-Best-Podcasts-for-Everyone.jpg" alt="71 Best Podcasts (2026): True Crime, Culture, Science, Fiction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-podcasts/" target="_blank">71 Best Podcasts (2026): True Crime, Culture, Science, Fiction</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-21 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +159,20 @@
                 <span class="time">2026-03-20 23:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2217854935-500x500.jpg" alt="Jury finds Musk owes damages to Twitter investors for his tweets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/jury-agrees-that-musks-tweets-during-twitter-takeover-constituted-fraud/" target="_blank">Jury finds Musk owes damages to Twitter investors for his tweets</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-20 22:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ishant_sharma_marketer/how-i-got-a-google-merchant-center-misrepresentation-suspension-lifted-without-contacting-support-4607" target="_blank">How I Got a Google Merchant Center Misrepresentation Suspension Lifted Without Contacting Support</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-21 13:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +216,6 @@
                 <span class="title"><a href="https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/" target="_blank">Thoughts on OpenAI acquiring Astral and uv/ruff/ty</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-03-21 09:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/humanpagesai/crypto-spent-10m-trying-to-win-an-illinois-primary-90-of-it-failed-heres-what-actually-works-2n5b" target="_blank">Crypto Spent $10M Trying to Win an Illinois Primary. 90% of It Failed. Here&#x27;s What Actually Works.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-21 07:51</span>
             </div>
         </div>
 </div>
@@ -315,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 13:15 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 14:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
