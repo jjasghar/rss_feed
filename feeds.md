@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-21 20:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-21 21:03:23 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Slashdot -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, March 21, 2026 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, March 21, 2026 - 21:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +44,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-14-rgtygmh-260320_1774038626998_hpMain_4x3t_384.jpg" alt="Trump threatens to put ICE agents in airports starting Monday amid DHS shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-threatens-put-ice-agents-airports-starting-monday/story?id=131285519" target="_blank">Trump threatens to put ICE agents in airports starting Monday amid DHS shutdown</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-21 20:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774118125114_now_brk_mueller_death_260321_S3_1920x1080-srpa2z.jpg" alt="Former special counsel and FBI director Robert Mueller dies at age 81" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/now/video/former-special-counsel-and-fbi-director-robert-mueller-dies-at-age-81-259777605793" target="_blank">Former special counsel and FBI director Robert Mueller dies at age 81</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-03-21 18:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/21/nx-s1-5755800/robert-s-mueller-iii-ex-fbi-director-who-led-2016-russia-inquiry-dead-at-81" target="_blank">Robert Mueller, ex-FBI director who led 2016 Russia inquiry, dies at 81</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-21 17:57</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +97,20 @@
                 <span class="time">2026-03-21 16:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c15a/live/42189cd0-251b-11f1-a79a-77e93010d956.jpg" alt="Iran launched unsuccessful attack on UK military base Diego Garcia, it is understood" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yljdgwppzo?at_medium=RSS&at_campaign=rss" target="_blank">Iran launched unsuccessful attack on UK military base Diego Garcia, it is understood</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-21 13:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/21/nx-s1-5137843/uk-parliament-abolishes-hereditary-lords" target="_blank">End of an heir-a: The U.K. abolishes aristocrats&#x27; right to inherit Parliament seats</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-21 13:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple" target="_blank">Halide co-founder is suing former partner for bringing source code to Apple</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-21 21:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +156,29 @@
                 <span class="time">2026-03-21 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/image-1-500x500-1774038632.png" alt="We keep finding the raw material of DNA in asteroids—what&#x27;s it telling us?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/03/we-keep-finding-the-raw-material-of-dna-in-asteroids-whats-it-telling-us/" target="_blank">We keep finding the raw material of DNA in asteroids—what&#x27;s it telling us?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-21 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ottoaria/how-to-find-your-first-ai-automation-client-in-2026-without-a-portfolio-54ld" target="_blank">How to Find Your First AI Automation Client in 2026 (Without a Portfolio)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-21 20:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tinygrad.org/#tinybox" target="_blank">Tinybox- offline AI device 120B parameters</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-21 20:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/saras_growth_space/build-sse-in-python-fastapi-4g6c" target="_blank">Build SSE in Python (FastAPI)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-21 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/" target="_blank">Some Things Just Take Time</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-21 14:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Driver-Pulsar-Gaming-Mice" target="_blank">Linux Driver Being Worked On For Pulsar Gaming Mice</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-21 14:29</span>
             </div>
         </div>
 </div>
@@ -310,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 255 |
+        🔄 Last Updated: 21:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
