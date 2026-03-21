@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-21 16:02:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-21 17:04:25 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, March 21, 2026 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, March 21, 2026 - 17:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-2-rt-gmh-260303_1772544258816_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran says its Natanz nuclear facility was targeted again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492" target="_blank">Iran live updates: Iran says its Natanz nuclear facility was targeted again</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-21 16:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c15a/live/42189cd0-251b-11f1-a79a-77e93010d956.jpg" alt="Iran launched unsuccessful attack on UK military base Diego Garcia, it is understood" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yljdgwppzo?at_medium=RSS&at_campaign=rss" target="_blank">Iran launched unsuccessful attack on UK military base Diego Garcia, it is understood</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-21 13:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +102,29 @@
                 <span class="time">2026-03-21 11:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-8-ap-gmh-260319_1773938725150_hpMain_4x3t_384.jpg" alt="Iran live updates: Israeli-US strikes against Iran will &#x27;increase significantly&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492" target="_blank">Iran live updates: Israeli-US strikes against Iran will &#x27;increase significantly&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-21 11:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab46/live/bf0a9fa0-2489-11f1-a79a-77e93010d956.jpg" alt="UK allows US to use bases to strike Strait of Hormuz targets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c36rny6xgppo?at_medium=RSS&at_campaign=rss" target="_blank">UK allows US to use bases to strike Strait of Hormuz targets</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-21 10:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/" target="_blank">Delve accused of misleading customers with ‘fake compliance’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-21 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal" target="_blank">The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-21 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,24 +159,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/03/we-keep-finding-the-raw-material-of-dna-in-asteroids-whats-it-telling-us/" target="_blank">We keep finding the raw material of DNA in asteroids—what&#x27;s it telling us?</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-03-21 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/reviews/898580/peakdo-linkpower-2-review-starlink-mini-battery" target="_blank">The improved battery-powered Starlink Mini is here</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-21 07:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/" target="_blank">New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-21 01:40</span>
             </div>
         </div>
 </div>
@@ -237,6 +240,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/firefly-1280x670.jpg" alt="Nathan Fillion Explains Why He’s Not Continuing Firefly’s Story Beyond Serenity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nathan-fillion-uninterested-in-continuing-fireflys-story-past-serenity-alan-tudyk-2000680804" target="_blank">Nathan Fillion Explains Why He’s Not Continuing Firefly’s Story Beyond Serenity</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-21 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/MST3K-1280x858.jpg" alt="You Can Finally Watch The Mystery Science Theater 3000 Episode That’s Been Lost For 37 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -281,15 +293,6 @@
                 <span class="time">2026-03-20 20:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/01/e0d8be74c80bc7786116ea5f70712af2-1280x720.jpg" alt="HBO’s The Last Of Us Casts A Cis Actor To Play Its Trans Lead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/last-of-us-hbo-max-lev-actor-kyriana-kratter-yara-2000680678" target="_blank">HBO’s The Last Of Us Casts A Cis Actor To Play Its Trans Lead</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-20 20:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 17:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
