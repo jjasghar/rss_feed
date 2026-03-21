@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-21 06:08:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-21 07:11:37 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 24 feeds processed -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, March 21, 2026 - 06:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, March 21, 2026 - 07:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -165,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kensave/your-ai-agent-says-all-tests-pass-your-app-is-still-broken-4jbe" target="_blank">Your AI Agent Says All Tests Pass. Your App Is Still Broken</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-21 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/getinfotoyou/optimizing-for-zero-building-a-high-performance-browser-runner-with-no-budget-1mf4" target="_blank">Optimizing for Zero: Building a High-Performance Browser Runner with No Budget</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-21 06:02</span>
@@ -204,15 +214,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17303041/germany-digital-stack-mandate" target="_blank">Big Win for Open Source as Germany Backs Open Document Format</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-03-21 02:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/openshot-3.3-1.jpg?resize=406%2C232&amp;ssl=1" alt="OpenShot 3.5 is (yet again) the ‘biggest’ and ‘fastest’ release ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/openshot-3-5-released" target="_blank">OpenShot 3.5 is (yet again) the ‘biggest’ and ‘fastest’ release ever</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-21 01:32</span>
             </div>
         </div>
 </div>
@@ -320,22 +321,13 @@
                 <span class="time">2026-03-20 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/03/20/it-takes-a-village" target="_blank">It Takes A Village</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-03-20 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 06:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 07:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
