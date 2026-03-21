@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-21 10:02:41 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-21 11:03:19 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, March 21, 2026 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, March 21, 2026 - 11:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab46/live/bf0a9fa0-2489-11f1-a79a-77e93010d956.jpg" alt="UK allows US to use bases to strike Strait of Hormuz targets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c36rny6xgppo?at_medium=RSS&at_campaign=rss" target="_blank">UK allows US to use bases to strike Strait of Hormuz targets</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-21 10:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/21/g-s1-114578/homeland-security-shutdown-oversight-detention" target="_blank">DHS shutdown hurts families&#x27; access to detention facilities, Democrat says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-21 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,24 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/21/300-million-people-celebrate-nowruz-under-a-cloud-of-war?traffic_source=rss" target="_blank">300 million people celebrate Nowruz under a cloud of war</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-21 03:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/20/nx-s1-5755120/pentagon-press-policy-new-york-times-lawsuit" target="_blank">U.S. judge rules against Pentagon restrictions on press coverage</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-21 01:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/21/al-jazeera-reporters-journey-from-jordan-to-iraq?traffic_source=rss" target="_blank">Al Jazeera reporter’s journey from Jordan to Iraq</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-21 01:02</span>
             </div>
         </div>
 </div>
@@ -160,6 +166,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17303137/turris-omnia-ng-wired" target="_blank">Turris Omnia NG Wired is a Fanless, Rack-Ready OpenWrt Router with Dual 10G Ports</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-21 10:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/tansu-stateless-kafka-compatible/en/headerimage/generatedHeaderImage-1773768325370.jpg" alt="QCon London 2026: Introducing Tansu.io — Rethinking Kafka for Lean Operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/tansu-stateless-kafka-compatible/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: Introducing Tansu.io — Rethinking Kafka for Lean Operations</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-21 10:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/young_gao/graceful-shutdown-in-nodejs-stop-dropping-requests-228p" target="_blank">Graceful Shutdown in Node.js: Stop Dropping Requests</a></span>
                 <span class="feed">DEV Community</span>
@@ -193,24 +217,6 @@
                 <span class="time">2026-03-21 06:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pilgrim2go/automating-container-image-updates-with-fluxcd-hands-on-tutorial-88k" target="_blank">Automating Container Image Updates with FluxCD (Hands-On Tutorial)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-21 05:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/roisoftstudio/introducing-roisoftstudio-building-web-apps-games-dev-tools-3a03" target="_blank">Introducing RoiSoftStudio — Building Web Apps, Games &amp; Dev Tools</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-21 03:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -223,15 +229,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-jumbo-flying-squid-in-the-south-pacific.html" target="_blank">Friday Squid Blogging: Jumbo Flying Squid in the South Pacific</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-03-20 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/proton-mail-shared-user-information-with-the-police.html" target="_blank">Proton Mail Shared User Information with the Police</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-03-20 11:02</span>
             </div>
         </div>
 </div>
@@ -321,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 11:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
