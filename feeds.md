@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-22 06:13:18 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-22 07:14:08 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 27 feeds processed -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, March 22, 2026 - 06:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, March 22, 2026 - 07:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/22/evloev-upsets-murphy-sets-up-featherweight-title-shot-against-volkanovski?traffic_source=rss" target="_blank">Evloev upsets Murphy, sets up featherweight title shot against Volkanovski</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-22 05:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/nuclear-sites-targeted-across-middle-east-amid-war-with-iran-259790917664" target="_blank">Nuclear sites targeted across Middle East amid war with Iran</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-03-21 23:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a746/live/54a9dcf0-256c-11f1-a10c-f7c2a7618727.jpg" alt="Iranian strike hits near Israeli nuclear facility after Tehran says its site targeted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss" target="_blank">Iranian strike hits near Israeli nuclear facility after Tehran says its site targeted</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-21 23:01</span>
             </div>
         </div>
 </div>
@@ -164,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsml56d8mpzoxjxz7fw7k.png" alt="I Benchmarked Graphiti vs Mem0: The Hidden Cost of Context Blindness in AI Memory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/juandastic/i-benchmarked-graphiti-vs-mem0-the-hidden-cost-of-context-blindness-in-ai-memory-4le3" target="_blank">I Benchmarked Graphiti vs Mem0: The Hidden Cost of Context Blindness in AI Memory</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-22 07:08</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +218,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/benq-display-pilot-2-linux" target="_blank">BenQ Display Pilot 2 software now has a Linux version</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-03-22 02:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://43081j.com/2026/03/three-pillars-of-javascript-bloat" target="_blank">The Three Pillars of JavaScript Bloat</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-22 02:04</span>
             </div>
         </div>
 </div>
@@ -295,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 06:13 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 07:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
