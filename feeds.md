@@ -1,43 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-03-22 21:04:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-22 22:02:16 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 34 feeds processed -->
+<!-- Generated 7 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, March 22, 2026 - 21:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, March 22, 2026 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,9 +57,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/22/slovenias-freedom-movement-party-takes-narrow-election-lead-exit-poll?traffic_source=rss" target="_blank">Slovenia’s Freedom Movement Party takes narrow election lead: Exit poll</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-22 21:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/22/displaced-families-shelter-in-tents-in-beirut-amid-israeli-strikes?traffic_source=rss" target="_blank">Displaced families shelter in tents in Beirut amid Israeli strikes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-22 20:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/airport-line-01-ap-jt-260321_1774111553915_hpMain_4x3t_384.jpg" alt="Record numbers of TSA officers called out Saturday as DHS shutdown continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/record-numbers-tsa-officers-called-saturday-dhs-shutdown/story?id=131307007" target="_blank">Record numbers of TSA officers called out Saturday as DHS shutdown continues</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-22 19:22</span>
             </div>
         </div>
 <div class="story">
@@ -89,29 +107,20 @@
                 <span class="time">2026-03-22 17:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/22/did-israel-miscalculate-iranian-military-capabilities?traffic_source=rss" target="_blank">Did Israel miscalculate Iranian military capabilities?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-22 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/22/iran-claims-missile-attacks-on-key-israeli-military-bases?traffic_source=rss" target="_blank">Iran claims missile attacks on key Israeli military bases</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-22 15:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/898796/charlotte-adigery-bolis-pupul-topical-dancer-review" target="_blank">Topical Dancer is propulsive, playful, and political</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-22 21:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -157,20 +166,29 @@
                 <span class="time">2026-03-22 14:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/898697/vocoder-music-instrument-version-history" target="_blank">The secret story of the vocoder, the military tech that changed music forever</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-22 13:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fntn4y49ai8uja906d49b.png" alt="Building Production-Ready Multi-Tenant SaaS in Rust with Actix-web" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/chinedu/building-production-ready-multi-tenant-saas-in-rust-with-actix-web-i1h" target="_blank">Building Production-Ready Multi-Tenant SaaS in Rust with Actix-web</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-22 21:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/D7VK-1.6-Released" target="_blank">D7VK 1.6 Overhauls Interaction With DXVK&#x27;s D3D9 Backend</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-22 21:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,37 +210,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/" target="_blank">PC Gamer recommends RSS readers in a 37mb article that just keeps downloading</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-22 18:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/code_aprogram_a378e1dbf1/i-built-a-firefox-extension-that-fills-any-form-instantly-no-more-typing-test-data-47o9" target="_blank">I Built a Firefox Extension That Fills Any Form Instantly — No More Typing Test Data 🚀</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-22 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/avail404admin/i-built-a-chrome-devtools-extension-that-exports-api-traffic-to-openapi-automatically-3d3a" target="_blank">I built a Chrome DevTools extension that exports API traffic to OpenAPI automatically</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-22 16:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://fpgmaas.com/blog/collapse-of-mkdocs/" target="_blank">The Slow Collapse of MkDocs</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-22 16:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17303513/btrfs-subvolumes" target="_blank">What Are Btrfs Subvolumes? And Why They’re Better Than Traditional Linux Partitions</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-22 15:12</span>
             </div>
         </div>
 </div>
@@ -230,6 +230,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/GettyImages-2256968069-1280x853.jpg" alt="Elon Musk’s Latest Outlandish Plan Is a Giant Chip Factory In Texas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musks-latest-outlandish-plan-is-a-giant-chip-factory-in-texas-2000736620" target="_blank">Elon Musk’s Latest Outlandish Plan Is a Giant Chip Factory In Texas</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-22 21:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/Project-Hail-Mary-4dx-poster-crop-1280x853.jpg" alt="Open Channel: Tell Us What You Thought of ‘Project Hail Mary’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +284,6 @@
                 <span class="time">2026-03-22 13:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/ikea-varmblixt-LED-smart-lamp-review-7-1280x853.jpg" alt="The Ikea Varmblixt Smart Lamp Fills a Donut Hole in My Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ikea-varmblixt-smart-lamp-fills-a-donut-hole-in-my-life-2000735546" target="_blank">The Ikea Varmblixt Smart Lamp Fills a Donut Hole in My Life</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-22 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 250 |
-        🔄 Last Updated: 21:04 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 248 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
