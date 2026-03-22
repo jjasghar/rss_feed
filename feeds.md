@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-03-22 11:03:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-22 12:02:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, March 22, 2026 - 11:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, March 22, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/22/colonialism-did-its-job-of-isolating-us-colombia-vp?traffic_source=rss" target="_blank">‘Colonialism did its job of isolating us’ – Colombia VP</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-22 11:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/22/nx-s1-5756308/trump-threatens-obliterate-irans-power-plants-iran-strikes-2-israeli-cities" target="_blank">Trump threatens to &#x27;obliterate&#x27; Iran&#x27;s power plants as Iran strikes 2 Israeli cities</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-22 11:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/irgc-main_1774171827285_hpMain_4x3t_384.jpg" alt="Iran live updates: Tehran vows to respond if Trump strikes Iran&#x27;s power plants" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +105,38 @@
                 <span class="time">2026-03-22 08:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c825/live/d7fc6990-25c3-11f1-b1ce-2dccb029f244.jpg" alt="Iranian missiles injure 160 in towns near Israeli nuclear site" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss" target="_blank">Iranian missiles injure 160 in towns near Israeli nuclear site</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-22 07:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/22/evloev-upsets-murphy-sets-up-featherweight-title-shot-against-volkanovski?traffic_source=rss" target="_blank">Evloev upsets Murphy, sets up featherweight title shot against Volkanovski</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-22 05:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/" target="_blank">An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-22 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/680c4e0a87b0011c149a2668/master/pass/Instax-Camera-Should-You-Buy_042024_Lede.jpg" alt="Which Instax Camera Should You Buy? (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/which-instax-camera-should-you-buy/" target="_blank">Which Instax Camera Should You Buy? (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-22 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2174489591-500x500.jpg" alt="Mining the deep ocean" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/03/mining-the-deep-ocean/" target="_blank">Mining the deep ocean</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-22 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69bd7a4b893c030531860f2f/master/pass/Xoli%20chatbot%20Mundial%20CDMX.jpg" alt="Mexico City&#x27;s &#x27;Xoli&#x27; Chatbot Will Help World Cup Tourists Navigate the City" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,38 +164,20 @@
                 <span class="time">2026-03-21 21:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/21/its-been-20-years-since-the-first-tweet/" target="_blank">It’s been 20 years since the first tweet</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-21 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/" target="_blank">Delve accused of misleading customers with ‘fake compliance’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-21 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal" target="_blank">The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-21 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzvpkxm9mga1pweneahx.png" alt="Inside SQLite’s Frontend: How the Query Optimizer Makes Your SQL Fast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lovestaco/inside-sqlites-frontend-how-the-query-optimizer-makes-your-sql-fast-3ij" target="_blank">Inside SQLite’s Frontend: How the Query Optimizer Makes Your SQL Fast</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-22 11:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,30 +206,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://hormuz.pythonic.ninja/" target="_blank">Hormuz Minesweeper – Are you tired of winning?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-22 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/03/aurora-dsql-playground-updates/en/headerimage/generatedHeaderImage-1773342381577.jpg" alt="AWS Expands Aurora DSQL with Playground, New Tool Integrations, and Driver Connectors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/news/2026/03/aurora-dsql-playground-updates/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Expands Aurora DSQL with Playground, New Tool Integrations, and Driver Connectors</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-03-22 08:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/padma_priya_815d0cd613d0c/guess-number-higher-or-lower-lkf" target="_blank">Guess Number Higher or Lower</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-22 07:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsml56d8mpzoxjxz7fw7k.png" alt="I Benchmarked Graphiti vs Mem0: The Hidden Cost of Context Blindness in AI Memory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/juandastic/i-benchmarked-graphiti-vs-mem0-the-hidden-cost-of-context-blindness-in-ai-memory-4le3" target="_blank">I Benchmarked Graphiti vs Mem0: The Hidden Cost of Context Blindness in AI Memory</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-22 07:08</span>
             </div>
         </div>
 </div>
@@ -295,7 +302,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 11:03 UTC
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
