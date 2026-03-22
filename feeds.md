@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-22 05:24:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-22 06:13:18 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Generated 1 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, March 22, 2026 - 05:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, March 22, 2026 - 06:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -163,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mohsemohit/i-16yo-solo-no-funding-built-moltstore-43n" target="_blank">I (16yo solo, no funding) built Moltstore.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-22 05:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dharani_boominathan_b1e6b/sort-a-linked-list-using-merge-sort-30h0" target="_blank">Sort a Linked List Using Merge Sort</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-22 05:10</span>
@@ -202,15 +215,6 @@
                 <span class="title"><a href="https://43081j.com/2026/03/three-pillars-of-javascript-bloat" target="_blank">The Three Pillars of JavaScript Bloat</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-22 02:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Sashiko-AI-Reviewing-Rust-Linux" target="_blank">Sashiko Now Providing AI Reviews On Rust Code For The Linux Kernel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-22 00:22</span>
             </div>
         </div>
 </div>
@@ -292,7 +296,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 05:24 UTC
+        🔄 Last Updated: 06:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
