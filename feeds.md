@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-22 16:03:16 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-22 17:03:47 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, March 22, 2026 - 16:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, March 22, 2026 - 17:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/22/did-israel-miscalculate-iranian-military-capabilities?traffic_source=rss" target="_blank">Did Israel miscalculate Iranian military capabilities?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-22 16:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/22/g-s1-114038/new-drugs-health-medicine-africa-tuberculosis-measles" target="_blank">Inside a rare lab that&#x27;s blazing a bold trail as it hunts for new drugs</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-22 13:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7621/live/79b063d0-25d9-11f1-965f-2f5aaeeadad7.jpg" alt="No assessment Iran could strike London, UK minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crm120x4lzxo?at_medium=RSS&at_campaign=rss" target="_blank">No assessment Iran could strike London, UK minister says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-22 12:18</span>
             </div>
         </div>
 </div>
@@ -165,6 +165,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/avail404admin/i-built-a-chrome-devtools-extension-that-exports-api-traffic-to-openapi-automatically-3d3a" target="_blank">I built a Chrome DevTools extension that exports API traffic to OpenAPI automatically</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-22 16:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://fpgmaas.com/blog/collapse-of-mkdocs/" target="_blank">The Slow Collapse of MkDocs</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-22 16:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iagtaysj7pacecfr3iz.jpg" alt="What Happens When 4 AI Agents Share a Memory Pool" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,29 +218,20 @@
                 <span class="time">2026-03-22 13:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzvpkxm9mga1pweneahx.png" alt="Inside SQLite’s Frontend: How the Query Optimizer Makes Your SQL Fast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lovestaco/inside-sqlites-frontend-how-the-query-optimizer-makes-your-sql-fast-3ij" target="_blank">Inside SQLite’s Frontend: How the Query Optimizer Makes Your SQL Fast</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-22 11:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nikola/speed-reading-2m5p" target="_blank">Speed Reading</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-22 10:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Project-Hail-Mary-4dx-poster-crop-1280x853.jpg" alt="Open Channel: Tell Us What You Thought of ‘Project Hail Mary’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/project-hail-mary-io9-open-channel-2000736526" target="_blank">Open Channel: Tell Us What You Thought of ‘Project Hail Mary’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-22 16:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/HD5s3JIaoAE2g6p-1280x720.jpg" alt="Crimson Desert Dev Apologizes For Not Disclosing AI Generated Art As It Works To Remove It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,13 +277,18 @@
                 <span class="time">2026-03-22 09:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/BooksDenmark.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="A $5 AI book draft that fools writing detectors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1773962220-20260322.png" alt="Saturday Morning Breakfast Cereal - Wait" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/21/a-5-ai-book-draft-that-fools-writing-detectors.html" target="_blank">A $5 AI book draft that fools writing detectors</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-22 00:47</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/wait-2" target="_blank">Saturday Morning Breakfast Cereal - Wait</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-22 15:20</span>
             </div>
         </div>
 </div>
@@ -282,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 16:03 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 255 |
+        🔄 Last Updated: 17:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
