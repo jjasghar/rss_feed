@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-22 14:05:36 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-03-22 15:03:43 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, March 22, 2026 - 14:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, March 22, 2026 - 15:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +54,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/22/iran-says-will-hit-regions-energy-sites-if-us-israel-target-power-plants?traffic_source=rss" target="_blank">Iran says will hit region’s energy sites if US, Israel target power plants</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-22 13:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/22/g-s1-114038/new-drugs-health-medicine-africa-tuberculosis-measles" target="_blank">This lab that&#x27;s determined to discover new drugs isn&#x27;t where you might expect</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-22 13:25</span>
             </div>
         </div>
 <div class="story">
@@ -91,15 +101,6 @@
                 <span class="time">2026-03-22 11:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-havana-cuba-electric-grid_7199921.jpg?20260322110337" alt="Cuba left in darkness after third power cuts in a month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/cuba-left-in-darkness-after-third-power-cuts-in-a-month-13522998" target="_blank">Cuba left in darkness after third power cuts in a month</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-22 10:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,10 +109,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/" target="_blank">Delve accused of misleading customers with ‘fake compliance’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-22 14:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/highlander22-500x500-1774094576.jpg" alt="There can (still) be only one: Highlander is 40" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/03/there-can-still-be-only-one-highlander-is-40/" target="_blank">There can (still) be only one: Highlander is 40</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-22 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/podcast/898697/vocoder-music-instrument-version-history" target="_blank">The secret story of the vocoder, the military tech that changed music forever</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-22 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69101cf42807788d808a6daf/master/pass/The%20Best%20Merino%20Wool%20Clothing%20Keeps%20You%20Comfy%20in%20Any%20Weather.png" alt="Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets &amp; More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-merino-wool-clothes/" target="_blank">Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets &amp; More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-22 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -132,38 +160,20 @@
                 <span class="time">2026-03-22 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2174489591-500x500.jpg" alt="Mining the deep ocean" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/03/mining-the-deep-ocean/" target="_blank">Mining the deep ocean</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-22 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69bd7a4b893c030531860f2f/master/pass/Xoli%20chatbot%20Mundial%20CDMX.jpg" alt="Mexico City&#x27;s &#x27;Xoli&#x27; Chatbot Will Help World Cup Tourists Navigate the City" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mexico-city-xoli-chatbot-world-cup-tourists/" target="_blank">Mexico City&#x27;s &#x27;Xoli&#x27; Chatbot Will Help World Cup Tourists Navigate the City</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-22 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/" target="_blank">Are AI tokens the new signing bonus or just a cost of doing business?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-22 06:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iagtaysj7pacecfr3iz.jpg" alt="What Happens When 4 AI Agents Share a Memory Pool" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/laynepenney/what-happens-when-4-ai-agents-share-a-memory-pool-k58" target="_blank">What Happens When 4 AI Agents Share a Memory Pool</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-22 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,20 +219,20 @@
                 <span class="time">2026-03-22 10:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Electron-Good-Wayland-Support" target="_blank">Electron&#x27;s Investment Into Good Wayland Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-22 10:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/mst3k-k03-1280x853.jpg" alt="A Long Lost ‘Mystery Science Theater 3000’ Episode Has Finally Been Found" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/mst3k-lost-episode-k03-2000736488" target="_blank">A Long Lost ‘Mystery Science Theater 3000’ Episode Has Finally Been Found</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-22 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/MKTour-1280x727.jpg" alt="Mario Kart Tour Now Rated 18+ In Some Places As Regulators Crack Down On In-Game Gambling" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +278,6 @@
                 <span class="time">2026-03-21 21:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/Official-Minecraft-World-mockup-image.jpeg" alt="Minecraft World Is A New Theme Park With Its Own Roller Coaster Coming In 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/minecraft-theme-park-world-mojang-roller-coaster-2000680826" target="_blank">Minecraft World Is A New Theme Park With Its Own Roller Coaster Coming In 2027</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-21 21:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 14:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 255 |
+        🔄 Last Updated: 15:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
