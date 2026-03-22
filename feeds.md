@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-22 00:07:22 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-22 01:30:46 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, March 22, 2026 - 00:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, March 22, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-7-rt-gmh-260319_1773938723519_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump threatens Iran&#x27;s power plants if strait not opened in 2 days" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492" target="_blank">Iran live updates: Trump threatens Iran&#x27;s power plants if strait not opened in 2 days</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-22 01:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,39 +76,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774134358777_wnn_rsa_strike_on_iran_nuke_facility_260321_S3_1920x1080-nol76a.jpg" alt="Nuclear sites targeted across Middle East amid war with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/nuclear-sites-targeted-across-middle-east-amid-war-with-iran-259790917664" target="_blank">Nuclear sites targeted across Middle East amid war with Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-21 23:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a746/live/54a9dcf0-256c-11f1-a10c-f7c2a7618727.jpg" alt="Iranian strike hits near Israeli nuclear facility after Tehran says its site targeted" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss" target="_blank">Iranian strike hits near Israeli nuclear facility after Tehran says its site targeted</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-21 23:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774133103970_wnn_vca_tsa_lines_260321_S3_1920x1080-6kibv4.jpg" alt="Trump threatens to send ICE agents to airports amid TSA travel chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/video/trump-threatens-to-send-ice-agents-to-airports-amid-tsa-travel-chaos-259785797725" target="_blank">Trump threatens to send ICE agents to airports amid TSA travel chaos</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-03-21 22:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fa8/live/c5a4f260-2557-11f1-932e-8b5a2fd820dc.jpg" alt="Trump at a crossroads as US weighs tough options in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss" target="_blank">Trump at a crossroads as US weighs tough options in Iran</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-21 22:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/21/nx-s1-5755796/airport-security-tsa-lines-travel-tips" target="_blank">Airport security lines are long. Here&#x27;s what to know if you&#x27;re flying</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-21 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-14-rgtygmh-260320_1774038626998_hpMain_4x3t_384.jpg" alt="Trump threatens to put ICE agents in airports starting Monday amid DHS shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-threatens-put-ice-agents-airports-starting-monday/story?id=131285519" target="_blank">Trump threatens to put ICE agents in airports starting Monday amid DHS shutdown</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-21 20:16</span>
             </div>
         </div>
 </div>
@@ -188,6 +188,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tinygrad.org/#tinybox" target="_blank">Tinybox – Offline AI device 120B parameters</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-21 20:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://tinygrad.org/#tinybox" target="_blank">Tinybox- offline AI device 120B parameters</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-21 20:08</span>
@@ -211,20 +220,20 @@
                 <span class="time">2026-03-21 18:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dbushell.com/2026/03/20/denos-decline-and-layoffs/" target="_blank">404 Deno CEO not found</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-21 15:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/BooksDenmark.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="A $5 AI book draft that fools writing detectors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/21/a-5-ai-book-draft-that-fools-writing-detectors.html" target="_blank">A $5 AI book draft that fools writing detectors</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-22 00:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/gathering.jpeg?fit=1408%2C768&amp;quality=60&amp;ssl=1" alt="700 AI agents built a civilization with a new religion" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +279,6 @@
                 <span class="time">2026-03-21 18:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Gemini-Layoffs-Crypto-1280x853.jpg" alt="Gemini, Crypto.com Latest Crypto Firms to Blame Downsizing on AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/gemini-crypto-com-latest-crypto-firms-to-blame-downsizing-on-ai-2000736199" target="_blank">Gemini, Crypto.com Latest Crypto Firms to Blame Downsizing on AI</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-21 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 00:07 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
