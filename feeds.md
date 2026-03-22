@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-22 09:06:06 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-22 10:03:14 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 1 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, March 22, 2026 - 09:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, March 22, 2026 - 10:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -163,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/OneXPlayer-Config-HID-Driver" target="_blank">OneXPlayer Configuration HID Driver Posted For Linux By Valve Developer</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-22 09:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/03/aurora-dsql-playground-updates/en/headerimage/generatedHeaderImage-1773342381577.jpg" alt="AWS Expands Aurora DSQL with Playground, New Tool Integrations, and Driver Connectors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -205,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/dharani_boominathan_b1e6b/sort-a-linked-list-using-merge-sort-30h0" target="_blank">Sort a Linked List Using Merge Sort</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-22 05:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/th19930828/claude-code-nozhi-rarezaruji-neng-10xuan-road-to-web-40-40ma" target="_blank">Claude Code の知られざる機能10選 — Road to Web 4.0</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-22 04:27</span>
             </div>
         </div>
 </div>
@@ -294,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 09:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 10:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
