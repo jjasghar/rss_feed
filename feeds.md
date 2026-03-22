@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-22 07:14:08 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-22 08:04:01 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, March 22, 2026 - 07:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, March 22, 2026 - 08:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +111,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/" target="_blank">Are AI tokens the new signing bonus or just a cost of doing business?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-22 06:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple" target="_blank">Halide co-founder is suing former partner for bringing source code to Apple</a></span>
                 <span class="feed">The Verge</span>
@@ -152,20 +162,20 @@
                 <span class="time">2026-03-21 14:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69be1926acc960710aeb396b/master/pass/The-Best-Podcasts-for-Everyone.jpg" alt="71 Best Podcasts (2026): True Crime, Culture, Science, Fiction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-podcasts/" target="_blank">71 Best Podcasts (2026): True Crime, Culture, Science, Fiction</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-21 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/padma_priya_815d0cd613d0c/guess-number-higher-or-lower-lkf" target="_blank">Guess Number Higher or Lower</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-22 07:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsml56d8mpzoxjxz7fw7k.png" alt="I Benchmarked Graphiti vs Mem0: The Hidden Cost of Context Blindness in AI Memory" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/zhou_jiang_841481454f6b8c/imx6ull-porting-log-02-project-layout-a-serial-port-trap-and-the-current-board-baseline-31b8" target="_blank">i.MX6ULL Porting Log 02: Project Layout, a Serial Port Trap, and the Current Board Baseline</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-22 02:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/benq-display-pilot-2-linux.webp?resize=406%2C232&amp;ssl=1" alt="BenQ Display Pilot 2 software now has a Linux version" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/benq-display-pilot-2-linux" target="_blank">BenQ Display Pilot 2 software now has a Linux version</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-22 02:27</span>
             </div>
         </div>
 </div>
@@ -298,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 07:14 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 08:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
