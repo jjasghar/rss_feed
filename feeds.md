@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-03-22 04:35:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-22 05:24:00 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, March 22, 2026 - 04:35 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, March 22, 2026 - 05:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -168,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dharani_boominathan_b1e6b/sort-a-linked-list-using-merge-sort-30h0" target="_blank">Sort a Linked List Using Merge Sort</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-22 05:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/th19930828/claude-code-nozhi-rarezaruji-neng-10xuan-road-to-web-40-40ma" target="_blank">Claude Code の知られざる機能10選 — Road to Web 4.0</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-22 04:27</span>
@@ -180,6 +184,15 @@
                 <span class="title"><a href="https://dev.to/zhou_jiang_841481454f6b8c/imx6ull-porting-log-02-project-layout-a-serial-port-trap-and-the-current-board-baseline-31b8" target="_blank">i.MX6ULL Porting Log 02: Project Layout, a Serial Port Trap, and the Current Board Baseline</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-22 02:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/benq-display-pilot-2-linux.webp?resize=406%2C232&amp;ssl=1" alt="BenQ Display Pilot 2 software now has a Linux version" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/benq-display-pilot-2-linux" target="_blank">BenQ Display Pilot 2 software now has a Linux version</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-22 02:27</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Sashiko-AI-Reviewing-Rust-Linux" target="_blank">Sashiko Now Providing AI Reviews On Rust Code For The Linux Kernel</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-22 00:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ottoaria/how-to-find-your-first-ai-automation-client-in-2026-without-a-portfolio-54ld" target="_blank">How to Find Your First AI Automation Client in 2026 (Without a Portfolio)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-21 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://news.dyne.org/child-protection-is-not-access-control/" target="_blank">Do Not Turn Child Protection into Internet Access Control</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-21 20:32</span>
             </div>
         </div>
 </div>
@@ -296,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 04:35 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 05:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
