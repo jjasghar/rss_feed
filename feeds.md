@@ -1,33 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-03-22 19:06:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-22 20:01:59 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, March 22, 2026 - 19:06 UTC</div>
+    <div class="newspaper-date">Sunday, March 22, 2026 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c916/live/320a6920-25fe-11f1-908a-2f9759ed819b.jpg" alt="Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss" target="_blank">Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-22 18:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +92,20 @@
                 <span class="time">2026-03-22 15:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/22/iran-says-will-hit-regions-energy-sites-if-us-israel-target-power-plants?traffic_source=rss" target="_blank">Iran says will hit region’s energy sites if US, Israel target power plants</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-22 13:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/22/the-sec-drops-its-four-year-old-investigation-into-ev-startup-faraday-future/" target="_blank">The SEC drops its four-year-old investigation into EV startup Faraday Future</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-22 19:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +151,6 @@
                 <span class="time">2026-03-22 13:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69101cf42807788d808a6daf/master/pass/The%20Best%20Merino%20Wool%20Clothing%20Keeps%20You%20Comfy%20in%20Any%20Weather.png" alt="Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets &amp; More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-merino-wool-clothes/" target="_blank">Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets &amp; More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-22 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -198,21 +193,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17303513/btrfs-subvolumes" target="_blank">What Are Btrfs Subvolumes? And Why They’re Better Than Traditional Linux Partitions</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-22 15:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iagtaysj7pacecfr3iz.jpg" alt="What Happens When 4 AI Agents Share a Memory Pool" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/laynepenney/what-happens-when-4-ai-agents-share-a-memory-pool-k58" target="_blank">What Happens When 4 AI Agents Share a Memory Pool</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-22 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/mdadm-4.6" target="_blank">mdadm 4.6 Released With Boot Failure Fixes, New Lockless Bitmap</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-22 13:25</span>
             </div>
         </div>
 </div>
@@ -293,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 251 |
-        🔄 Last Updated: 19:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 251 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
