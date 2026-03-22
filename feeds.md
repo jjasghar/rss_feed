@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-22 13:16:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-22 14:05:36 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, March 22, 2026 - 13:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, March 22, 2026 - 14:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/22/iran-says-will-hit-regions-energy-sites-if-us-israel-target-power-plants?traffic_source=rss" target="_blank">Iran says will hit region’s energy sites if US, Israel target power plants</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-22 13:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/22/g-s1-114038/new-drugs-health-medicine-africa-tuberculosis-measles" target="_blank">Inside a rare lab that&#x27;s blazing a bold trail as it hunts for new drugs</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-22 13:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7621/live/79b063d0-25d9-11f1-965f-2f5aaeeadad7.jpg" alt="No assessment Iran could strike London, UK minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +100,20 @@
                 <span class="time">2026-03-22 10:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/irgc-main_1774171827285_hpMain_4x3t_384.jpg" alt="Iran live updates: Tehran vows to respond if Trump strikes Iran&#x27;s power plants" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492" target="_blank">Iran live updates: Tehran vows to respond if Trump strikes Iran&#x27;s power plants</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-22 10:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/22/nx-s1-5726237/cortina-olympic-legacy-alpine-glamour" target="_blank">Cortina d&#x27;Ampezzo mixes Olympic legacy with Alpine glamour</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-22 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/898697/vocoder-music-instrument-version-history" target="_blank">The secret story of the vocoder, the military tech that changed music forever</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-22 13:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +159,6 @@
                 <span class="time">2026-03-22 06:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple" target="_blank">Halide co-founder is suing former partner for bringing source code to Apple</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-21 21:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,9 +167,27 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/mdadm-4.6" target="_blank">mdadm 4.6 Released With Boot Failure Fixes, New Lockless Bitmap</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-22 13:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/moonlitpath1/observing-malloc-phase-0-mini-malloc-2bc4" target="_blank">Observing Malloc - Phase 0 Mini Malloc</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2026-03-22 13:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/" target="_blank">Bored of eating your own dogfood? Try smelling your own farts</a></span>
+                <span class="feed">Hacker News</span>
                 <span class="time">2026-03-22 13:12</span>
             </div>
         </div>
@@ -202,29 +218,20 @@
                 <span class="time">2026-03-22 10:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/OneXPlayer-Config-HID-Driver" target="_blank">OneXPlayer Configuration HID Driver Posted For Linux By Valve Developer</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-22 09:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://hormuz.pythonic.ninja/" target="_blank">Hormuz Minesweeper – Are you tired of winning?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-22 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/MKTour-1280x727.jpg" alt="Mario Kart Tour Now Rated 18+ In Some Places As Regulators Crack Down On In-Game Gambling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mario-kart-tour-gambling-esrb-pegi-age-rating-2000680828" target="_blank">Mario Kart Tour Now Rated 18+ In Some Places As Regulators Crack Down On In-Game Gambling</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-22 13:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/ikea-varmblixt-LED-smart-lamp-review-7-1280x853.jpg" alt="The Ikea Varmblixt Smart Lamp Fills a Donut Hole in My Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +277,6 @@
                 <span class="time">2026-03-21 21:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/expedition-33-maelle-1280x854.jpg" alt="The Stunning ‘Expedition 33’ Art Book Is Finally Coming West" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-stunning-expedition-33-art-book-is-finally-coming-west-2000736499" target="_blank">The Stunning ‘Expedition 33’ Art Book Is Finally Coming West</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-21 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 13:16 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 14:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
