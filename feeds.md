@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-22 02:58:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-22 03:53:31 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 31 feeds processed -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, March 22, 2026 - 02:58 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, March 22, 2026 - 03:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/22/what-we-know-about-irans-latest-attacks-on-israel?traffic_source=rss" target="_blank">What we know about Iran’s latest attacks on Israel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-22 02:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-7-rt-gmh-260319_1773938723519_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump threatens Iran&#x27;s power plants if strait not opened in 2 days" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,15 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss" target="_blank">Iranian strike hits near Israeli nuclear facility after Tehran says its site targeted</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-21 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774133103970_wnn_vca_tsa_lines_260321_S3_1920x1080-6kibv4.jpg" alt="Trump threatens to send ICE agents to airports amid TSA travel chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-threatens-to-send-ice-agents-to-airports-amid-tsa-travel-chaos-259785797725" target="_blank">Trump threatens to send ICE agents to airports amid TSA travel chaos</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-21 22:45</span>
             </div>
         </div>
 </div>
@@ -180,6 +177,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Sashiko-AI-Reviewing-Rust-Linux" target="_blank">Sashiko Now Providing AI Reviews On Rust Code For The Linux Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-22 00:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ottoaria/how-to-find-your-first-ai-automation-client-in-2026-without-a-portfolio-54ld" target="_blank">How to Find Your First AI Automation Client in 2026 (Without a Portfolio)</a></span>
                 <span class="feed">DEV Community</span>
@@ -211,15 +217,6 @@
                 <span class="title"><a href="https://tinygrad.org/#tinybox" target="_blank">Tinybox- offline AI device 120B parameters</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-21 20:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anjana_rk_fbdea7abbdf13/sort-0s-1s-and-2s-4lh7" target="_blank">Sort 0s, 1s and 2s</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-21 19:46</span>
             </div>
         </div>
 </div>
@@ -300,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 02:58 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 03:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
