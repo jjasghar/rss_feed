@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-22 15:03:43 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-03-22 16:03:16 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, March 22, 2026 - 15:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, March 22, 2026 - 16:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/22/iran-claims-missile-attacks-on-key-israeli-military-bases?traffic_source=rss" target="_blank">Iran claims missile attacks on key Israeli military bases</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-22 15:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/TW-THOM-TILLIS-20260322-ABC-JH_1774183508533_hpMain_4x3t_384.jpeg" alt="GOP Sen. Tillis says objectives of Iran war unclear: &#x27;It&#x27;s a real problem&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/gop-sen-tillis-objectives-iran-war-unclear-real/story?id=131300870" target="_blank">GOP Sen. Tillis says objectives of Iran war unclear: &#x27;It&#x27;s a real problem&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-22 15:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/crm120x4lzxo?at_medium=RSS&at_campaign=rss" target="_blank">No assessment Iran could strike London, UK minister says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-22 12:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/22/colonialism-did-its-job-of-isolating-us-colombia-vp?traffic_source=rss" target="_blank">‘Colonialism did its job of isolating us’ – Colombia VP</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-22 11:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/22/nx-s1-5756308/trump-threatens-obliterate-irans-power-plants-iran-strikes-2-israeli-cities" target="_blank">Trump threatens to &#x27;obliterate&#x27; Iran&#x27;s power plants as Iran strikes 2 Israeli cities</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-22 11:22</span>
             </div>
         </div>
 </div>
@@ -225,6 +224,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/HD5s3JIaoAE2g6p-1280x720.jpg" alt="Crimson Desert Dev Apologizes For Not Disclosing AI Generated Art As It Works To Remove It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/crimson-desert-ai-art-peal-abyss-2000680884" target="_blank">Crimson Desert Dev Apologizes For Not Disclosing AI Generated Art As It Works To Remove It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-22 15:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/mst3k-k03-1280x853.jpg" alt="A Long Lost ‘Mystery Science Theater 3000’ Episode Has Finally Been Found" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -269,36 +277,13 @@
                 <span class="time">2026-03-22 00:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/gathering.jpeg?fit=1408%2C768&amp;quality=60&amp;ssl=1" alt="700 AI agents built a civilization with a new religion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/21/700-ai-agents-built-a-civilization-with-a-new-religion.html" target="_blank">700 AI agents built a civilization with a new religion</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-21 21:38</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1773961670-20260321.png" alt="Saturday Morning Breakfast Cereal - Congrats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/congrats-2" target="_blank">Saturday Morning Breakfast Cereal - Congrats</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-03-21 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 15:03 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 255 |
+        🔄 Last Updated: 16:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
