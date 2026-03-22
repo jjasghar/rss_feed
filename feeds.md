@@ -1,28 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-03-22 20:01:59 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-22 21:04:18 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, March 22, 2026 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, March 22, 2026 - 21:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/22/displaced-families-shelter-in-tents-in-beirut-amid-israeli-strikes?traffic_source=rss" target="_blank">Displaced families shelter in tents in Beirut amid Israeli strikes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-22 20:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c916/live/320a6920-25fe-11f1-908a-2f9759ed819b.jpg" alt="Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,15 +105,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/22/iran-claims-missile-attacks-on-key-israeli-military-bases?traffic_source=rss" target="_blank">Iran claims missile attacks on key Israeli military bases</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-22 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/TW-THOM-TILLIS-20260322-ABC-JH_1774183508533_hpMain_4x3t_384.jpeg" alt="GOP Sen. Tillis says objectives of Iran war unclear: &#x27;It&#x27;s a real problem&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/gop-sen-tillis-objectives-iran-war-unclear-real/story?id=131300870" target="_blank">GOP Sen. Tillis says objectives of Iran war unclear: &#x27;It&#x27;s a real problem&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-22 15:36</span>
             </div>
         </div>
 </div>
@@ -159,6 +174,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://trustcompliance.xyz" target="_blank">We indexed the Delve audit leak: 533 reports, 455 companies, 99.8% identical</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-22 20:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/chiefwebofficer/ai-agent-monitoring-saas-how-to-scale-reliable-openclaw-agents-with-confidence-4nne" target="_blank">AI Agent Monitoring SaaS: How to Scale Reliable OpenClaw Agents with Confidence</a></span>
                 <span class="feed">DEV Community</span>
@@ -199,15 +223,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17303513/btrfs-subvolumes" target="_blank">What Are Btrfs Subvolumes? And Why They’re Better Than Traditional Linux Partitions</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-03-22 15:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iagtaysj7pacecfr3iz.jpg" alt="What Happens When 4 AI Agents Share a Memory Pool" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/laynepenney/what-happens-when-4-ai-agents-share-a-memory-pool-k58" target="_blank">What Happens When 4 AI Agents Share a Memory Pool</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-22 15:00</span>
             </div>
         </div>
 </div>
@@ -288,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 251 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 250 |
+        🔄 Last Updated: 21:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
