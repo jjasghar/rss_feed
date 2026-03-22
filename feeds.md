@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-22 12:02:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-22 13:16:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, March 22, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, March 22, 2026 - 13:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7621/live/79b063d0-25d9-11f1-965f-2f5aaeeadad7.jpg" alt="No assessment Iran could strike London, UK minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crm120x4lzxo?at_medium=RSS&at_campaign=rss" target="_blank">No assessment Iran could strike London, UK minister says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-22 12:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,6 +76,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-havana-cuba-electric-grid_7199921.jpg?20260322110337" alt="Cuba left in darkness after third power cuts in a month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/cuba-left-in-darkness-after-third-power-cuts-in-a-month-13522998" target="_blank">Cuba left in darkness after third power cuts in a month</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-22 10:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/irgc-main_1774171827285_hpMain_4x3t_384.jpg" alt="Iran live updates: Tehran vows to respond if Trump strikes Iran&#x27;s power plants" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -85,24 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/22/nx-s1-5726237/cortina-olympic-legacy-alpine-glamour" target="_blank">Cortina d&#x27;Ampezzo mixes Olympic legacy with Alpine glamour</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-22 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/22/iran-war-whats-happening-on-day-23-of-us-israel-attacks?traffic_source=rss" target="_blank">Iran war: What’s happening on day 23 of US-Israel attacks?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-22 08:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/22/nx-s1-5756288/cubas-power-grid-collapses" target="_blank">Cuba&#x27;s power grid collapses leaving it without electricity for the 3rd time this month</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-22 08:12</span>
             </div>
         </div>
 </div>
@@ -170,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/moonlitpath1/observing-malloc-phase-0-mini-malloc-2bc4" target="_blank">Observing Malloc - Phase 0 Mini Malloc</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-22 13:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzvpkxm9mga1pweneahx.png" alt="Inside SQLite’s Frontend: How the Query Optimizer Makes Your SQL Fast" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -214,20 +220,20 @@
                 <span class="time">2026-03-22 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/aurora-dsql-playground-updates/en/headerimage/generatedHeaderImage-1773342381577.jpg" alt="AWS Expands Aurora DSQL with Playground, New Tool Integrations, and Driver Connectors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/aurora-dsql-playground-updates/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Expands Aurora DSQL with Playground, New Tool Integrations, and Driver Connectors</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-22 08:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/ikea-varmblixt-LED-smart-lamp-review-7-1280x853.jpg" alt="The Ikea Varmblixt Smart Lamp Fills a Donut Hole in My Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ikea-varmblixt-smart-lamp-fills-a-donut-hole-in-my-life-2000735546" target="_blank">The Ikea Varmblixt Smart Lamp Fills a Donut Hole in My Life</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-22 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/TSA-agents-march-10-2026-1280x853.jpg" alt="Elon Musk Claims He ‘Would Like to Offer’ to Pay TSA Workers’ Salaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,15 +279,6 @@
                 <span class="time">2026-03-21 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/absolute-batman-villainshed-1280x853.jpg" alt="Oh, the New ‘Absolute Batman’ Villains Are…Kinda Normal?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/oh-the-new-absolute-batman-villains-are-kinda-normal-2000736389" target="_blank">Oh, the New ‘Absolute Batman’ Villains Are…Kinda Normal?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-21 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 13:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
