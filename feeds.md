@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-22 08:04:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-22 09:06:06 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, March 22, 2026 - 08:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, March 22, 2026 - 09:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/22/iran-war-whats-happening-on-day-23-of-us-israel-attacks?traffic_source=rss" target="_blank">Iran war: What’s happening on day 23 of US-Israel attacks?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-22 08:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/22/nx-s1-5756288/cubas-power-grid-collapses" target="_blank">Cuba&#x27;s power grid collapses leaving it without electricity for the 3rd time this month</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-22 08:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c825/live/d7fc6990-25c3-11f1-b1ce-2dccb029f244.jpg" alt="Iranian missiles injure 160 in towns near Israeli nuclear site" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss" target="_blank">Iranian missiles injure 160 in towns near Israeli nuclear site</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-22 07:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,38 +98,20 @@
                 <span class="time">2026-03-22 01:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/21/they-want-to-colonise-us-brazils-lula-warns-of-foreign-interference?traffic_source=rss" target="_blank">‘They want to colonise us’: Brazil’s Lula warns of foreign interference</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-21 23:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports" target="_blank">Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-21 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774134358777_wnn_rsa_strike_on_iran_nuke_facility_260321_S3_1920x1080-nol76a.jpg" alt="Nuclear sites targeted across Middle East amid war with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/nuclear-sites-targeted-across-middle-east-amid-war-with-iran-259790917664" target="_blank">Nuclear sites targeted across Middle East amid war with Iran</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-21 23:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69bd7a4b893c030531860f2f/master/pass/Xoli%20chatbot%20Mundial%20CDMX.jpg" alt="Mexico City&#x27;s &#x27;Xoli&#x27; Chatbot Will Help World Cup Tourists Navigate the City" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mexico-city-xoli-chatbot-world-cup-tourists/" target="_blank">Mexico City&#x27;s &#x27;Xoli&#x27; Chatbot Will Help World Cup Tourists Navigate the City</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-22 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +157,20 @@
                 <span class="time">2026-03-21 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/897628/best-outdoor-deals-rei-member-days-sale-2026" target="_blank">Here are 20 of our favorite outdoor deals from REI’s Member Days Sale</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-21 14:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/aurora-dsql-playground-updates/en/headerimage/generatedHeaderImage-1773342381577.jpg" alt="AWS Expands Aurora DSQL with Playground, New Tool Integrations, and Driver Connectors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/aurora-dsql-playground-updates/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Expands Aurora DSQL with Playground, New Tool Integrations, and Driver Connectors</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-22 08:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,20 +216,20 @@
                 <span class="time">2026-03-22 04:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zhou_jiang_841481454f6b8c/imx6ull-porting-log-02-project-layout-a-serial-port-trap-and-the-current-board-baseline-31b8" target="_blank">i.MX6ULL Porting Log 02: Project Layout, a Serial Port Trap, and the Current Board Baseline</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-22 02:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/TSA-agents-march-10-2026-1280x853.jpg" alt="Elon Musk Claims He ‘Would Like to Offer’ to Pay TSA Workers’ Salaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musk-claims-he-would-like-to-offer-to-pay-tsa-workers-salaries-2000736517" target="_blank">Elon Musk Claims He ‘Would Like to Offer’ to Pay TSA Workers’ Salaries</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-22 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/BooksDenmark.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="A $5 AI book draft that fools writing detectors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +275,6 @@
                 <span class="time">2026-03-21 18:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/bread.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Each slice of this bread loaf reveals a hidden creature inside" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/21/each-slice-of-this-bread-loaf-reveals-a-hidden-creature-inside.html" target="_blank">Each slice of this bread loaf reveals a hidden creature inside</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-21 18:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 08:04 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 09:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
