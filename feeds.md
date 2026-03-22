@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-22 03:53:31 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-22 04:35:18 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, March 22, 2026 - 03:53 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, March 22, 2026 - 04:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -169,9 +168,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/th19930828/claude-code-nozhi-rarezaruji-neng-10xuan-road-to-web-40-40ma" target="_blank">Claude Code の知られざる機能10選 — Road to Web 4.0</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-22 04:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/zhou_jiang_841481454f6b8c/imx6ull-porting-log-02-project-layout-a-serial-port-trap-and-the-current-board-baseline-31b8" target="_blank">i.MX6ULL Porting Log 02: Project Layout, a Serial Port Trap, and the Current Board Baseline</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-22 02:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://43081j.com/2026/03/three-pillars-of-javascript-bloat" target="_blank">The Three Pillars of JavaScript Bloat</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-22 02:04</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +216,6 @@
                 <span class="title"><a href="https://news.dyne.org/child-protection-is-not-access-control/" target="_blank">Do Not Turn Child Protection into Internet Access Control</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-21 20:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tinygrad.org/#tinybox" target="_blank">Tinybox – Offline AI device 120B parameters</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-21 20:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tinygrad.org/#tinybox" target="_blank">Tinybox- offline AI device 120B parameters</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-21 20:08</span>
             </div>
         </div>
 </div>
@@ -297,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 03:53 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 04:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
