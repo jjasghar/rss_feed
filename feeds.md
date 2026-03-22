@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-03-22 17:03:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-22 18:03:43 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, March 22, 2026 - 17:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, March 22, 2026 - 18:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/22/ukraines-zelenskyy-urges-allies-to-pressure-russia-ahead-of-us-talks?traffic_source=rss" target="_blank">Ukraine’s Zelenskyy urges allies to pressure Russia ahead of US talks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-22 17:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/22/g-s1-114745/ice-tsa-airports-deployment-homan" target="_blank">ICE officers set to deploy to airports as delays mount, border czar Homan confirms</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-22 17:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +95,20 @@
                 <span class="time">2026-03-22 13:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/22/g-s1-114038/new-drugs-health-medicine-africa-tuberculosis-measles" target="_blank">This lab that&#x27;s determined to discover new drugs isn&#x27;t where you might expect</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-22 13:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/22/g-s1-114038/new-drugs-health-medicine-africa-tuberculosis-measles" target="_blank">Inside a rare lab that&#x27;s blazing a bold trail as it hunts for new drugs</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-22 13:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/" target="_blank">Elon Musk unveils chip manufacturing plans for SpaceX and Tesla</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-22 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +154,20 @@
                 <span class="time">2026-03-22 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/680c4e0a87b0011c149a2668/master/pass/Instax-Camera-Should-You-Buy_042024_Lede.jpg" alt="Which Instax Camera Should You Buy? (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/which-instax-camera-should-you-buy/" target="_blank">Which Instax Camera Should You Buy? (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-22 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/code_aprogram_a378e1dbf1/i-built-a-firefox-extension-that-fills-any-form-instantly-no-more-typing-test-data-47o9" target="_blank">I Built a Firefox Extension That Fills Any Form Instantly — No More Typing Test Data 🚀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-22 17:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +213,6 @@
                 <span class="time">2026-03-22 13:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/" target="_blank">Bored of eating your own dogfood? Try smelling your own farts</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-22 13:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -239,6 +234,15 @@
                 <span class="title"><a href="https://kotaku.com/crimson-desert-ai-art-peal-abyss-2000680884" target="_blank">Crimson Desert Dev Apologizes For Not Disclosing AI Generated Art As It Works To Remove It</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-22 15:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/flowkey-Piano-Learning-App.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Always wanted to play piano? This app helps you stick with it — now an extra 15% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/22/always-wanted-to-play-piano-this-app-helps-you-stick-with-it-now-an-extra-15-off.html" target="_blank">Always wanted to play piano? This app helps you stick with it — now an extra 15% off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-22 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -268,15 +272,6 @@
                 <span class="time">2026-03-22 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/TSA-agents-march-10-2026-1280x853.jpg" alt="Elon Musk Claims He ‘Would Like to Offer’ to Pay TSA Workers’ Salaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musk-claims-he-would-like-to-offer-to-pay-tsa-workers-salaries-2000736517" target="_blank">Elon Musk Claims He ‘Would Like to Offer’ to Pay TSA Workers’ Salaries</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-22 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 17:03 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 253 |
+        🔄 Last Updated: 18:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
