@@ -1,28 +1,25 @@
-<!-- Processing 54 RSS feeds at 2026-03-22 22:02:16 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-22 23:04:17 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
@@ -30,14 +27,15 @@
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 34 feeds processed -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, March 22, 2026 - 22:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, March 22, 2026 - 23:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceac/live/271df770-263a-11f1-9b0c-0d65eca391ab.jpg" alt="Starmer and Trump discuss need to reopen Hormuz Strait" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c98kdyye33no?at_medium=RSS&at_campaign=rss" target="_blank">Starmer and Trump discuss need to reopen Hormuz Strait</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-22 22:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/22/vinicius-strikes-twice-as-real-madrid-edge-atletico-3-2-in-pulsating-derby?traffic_source=rss" target="_blank">Vinicius strikes twice as Real Madrid edge Atletico 3-2 in pulsating derby</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-22 22:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,24 +105,6 @@
                 <span class="time">2026-03-22 18:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/22/ukraines-zelenskyy-urges-allies-to-pressure-russia-ahead-of-us-talks?traffic_source=rss" target="_blank">Ukraine’s Zelenskyy urges allies to pressure Russia ahead of US talks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-22 17:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/22/g-s1-114745/ice-tsa-airports-deployment-homan" target="_blank">ICE officers set to deploy to airports as delays mount, border czar Homan confirms</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-22 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -119,6 +117,15 @@
                 <span class="title"><a href="https://www.theverge.com/entertainment/898796/charlotte-adigery-bolis-pupul-topical-dancer-review" target="_blank">Topical Dancer is propulsive, playful, and political</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-22 21:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69c05adeb4c76c9edb202a3f/master/pass/2257279027" alt="Airlines Are Already Preparing for an Oil Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/united-airlines-jet-fuel-alarm-economy/" target="_blank">Airlines Are Already Preparing for an Oil Crisis</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-22 21:37</span>
             </div>
         </div>
 <div class="story">
@@ -157,20 +164,29 @@
                 <span class="time">2026-03-22 14:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/highlander22-500x500-1774094576.jpg" alt="There can (still) be only one: Highlander is 40" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/03/there-can-still-be-only-one-highlander-is-40/" target="_blank">There can (still) be only one: Highlander is 40</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-22 14:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html" target="_blank">Rust Project Perspectives on AI</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-22 22:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc5-Released" target="_blank">Linux 7.0-rc5 Released: Linux 7.0 &quot;Starting To Calm Down&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-22 22:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fntn4y49ai8uja906d49b.png" alt="Building Production-Ready Multi-Tenant SaaS in Rust with Actix-web" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,29 +223,20 @@
                 <span class="time">2026-03-22 18:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/" target="_blank">PC Gamer recommends RSS readers in a 37mb article that just keeps downloading</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-22 18:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/code_aprogram_a378e1dbf1/i-built-a-firefox-extension-that-fills-any-form-instantly-no-more-typing-test-data-47o9" target="_blank">I Built a Firefox Extension That Fills Any Form Instantly — No More Typing Test Data 🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-22 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/GettyImages-2267427760-1280x853.jpg" alt="ICE Is Deploying To Airports. TSA Agents Say Its a Bad Idea" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ice-is-deploying-to-airports-tsa-agents-say-its-a-bad-idea-2000736645" target="_blank">ICE Is Deploying To Airports. TSA Agents Say Its a Bad Idea</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-22 22:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/GettyImages-2256968069-1280x853.jpg" alt="Elon Musk’s Latest Outlandish Plan Is a Giant Chip Factory In Texas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -237,6 +244,15 @@
                 <span class="title"><a href="https://gizmodo.com/elon-musks-latest-outlandish-plan-is-a-giant-chip-factory-in-texas-2000736620" target="_blank">Elon Musk’s Latest Outlandish Plan Is a Giant Chip Factory In Texas</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-22 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Microsoft-Visual-Studio-Professional-2026.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Write code like you actually slept last night—Visual Studio 2026 is just $42.50" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/22/write-code-like-you-actually-slept-last-night-visual-studio-2026-is-just-42-50.html" target="_blank">Write code like you actually slept last night—Visual Studio 2026 is just $42.50</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-22 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -266,24 +282,6 @@
                 <span class="time">2026-03-22 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/mst3k-k03-1280x853.jpg" alt="A Long Lost ‘Mystery Science Theater 3000’ Episode Has Finally Been Found" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/mst3k-lost-episode-k03-2000736488" target="_blank">A Long Lost ‘Mystery Science Theater 3000’ Episode Has Finally Been Found</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-22 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/MKTour-1280x727.jpg" alt="Mario Kart Tour Now Rated 18+ In Some Places As Regulators Crack Down On In-Game Gambling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mario-kart-tour-gambling-esrb-pegi-age-rating-2000680828" target="_blank">Mario Kart Tour Now Rated 18+ In Some Places As Regulators Crack Down On In-Game Gambling</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-22 13:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 248 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 250 |
+        🔄 Last Updated: 23:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
