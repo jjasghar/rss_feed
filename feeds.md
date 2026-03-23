@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-23 14:21:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-23 15:18:59 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, March 23, 2026 - 14:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, March 23, 2026 - 15:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,9 +54,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/23/nx-s1-5757440/supreme-court-press-freedom" target="_blank">Supreme Court declines to review press freedom case</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-23 14:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/03/23/nx-s1-5756465/voice-of-america-staffers-sue-alleging-kari-lake-put-on-propaganda" target="_blank">Voice of America staffers sue, alleging Kari Lake put on propaganda</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-23 13:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/23/madrid-protest-against-us-blockade-of-cuba?traffic_source=rss" target="_blank">Madrid protest against US blockade of Cuba</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-23 13:07</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +104,20 @@
                 <span class="time">2026-03-23 10:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b500/live/620c2290-268e-11f1-b297-95b0a0a8331e.jpg" alt="Two dead after plane and ground vehicle collide at New York&#x27;s LaGuardia Airport" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss" target="_blank">Two dead after plane and ground vehicle collide at New York&#x27;s LaGuardia Airport</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-23 09:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/23/g-s1-114107/ices-growing-detention-footprint-and-the-communities-fighting-back" target="_blank">ICE&#x27;s growing detention footprint, and the communities fighting back</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-23 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/01/ai_lawsuit_hero-500x500.jpg" alt="AI is beginning to change the business of law" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/03/ai-is-beginning-to-change-the-business-of-law/" target="_blank">AI is beginning to change the business of law</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-23 13:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +163,29 @@
                 <span class="time">2026-03-23 09:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest" target="_blank">AI influencer awards season is upon us</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-23 00:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17304579/systemd-fork-strips-out-age-verification" target="_blank">Someone Forked Systemd to Strip Out Its Age Verification Support</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-23 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917344&w=600" alt="Securing the Software Supply Chain in the Age of AI Agent Swarms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/securing-software-supply-chain-ai-agents" target="_blank">Securing the Software Supply Chain in the Age of AI Agent Swarms</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-23 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,39 +205,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/03/netflix-graph-abstraction/en/headerimage/netflixgrapharchitecure-1773194590219.jpeg" alt="Inside Netflix’s Graph Abstraction: Handling 650TB of Graph Data in Milliseconds Globally" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/netflix-graph-abstraction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Inside Netflix’s Graph Abstraction: Handling 650TB of Graph Data in Milliseconds Globally</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-23 13:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep6-46po" target="_blank">Santa Augmentcode Intent Ep.6</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-23 13:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917278&w=600" alt="Rate Limiting Strategies With Redis: Fixed Window, Sliding Window, and Token Bucket" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/rate-limiting-strategies-redis" target="_blank">Rate Limiting Strategies With Redis: Fixed Window, Sliding Window, and Token Bucket</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-23 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18910375&w=600" alt="AI Can Help With Migration; It Cannot Own It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-can-help-with-migration-it-cannot-own-it" target="_blank">AI Can Help With Migration; It Cannot Own It</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-23 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/data-mesh-horse-powertrain/en/mediumimage/anurag-kale-medium-1773151647473.jpg" alt="Presentation: Data Mesh in Action: A Journey From Ideation to Implementation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/data-mesh-horse-powertrain/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Data Mesh in Action: A Journey From Ideation to Implementation</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-23 11:43</span>
             </div>
         </div>
 </div>
@@ -235,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Dell-XPS-14-2026-16-1280x853.jpg" alt="LG Claims Its Latest Laptop Displays Save Nearly 50% Battery Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lg-claims-its-latest-laptop-displays-save-nearly-50-battery-life-2000736813" target="_blank">LG Claims Its Latest Laptop Displays Save Nearly 50% Battery Life</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-23 15:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/2570_FP_1144432U_00088596-H-2025-1280x721.jpg" alt="Did A Ratings Board Just Spoil A Big Super Mario Galaxy Movie Reveal?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +295,6 @@
                 <span class="time">2026-03-23 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/urushi-casio-calculator.jpg?fit=1253%2C754&amp;quality=60&amp;ssl=1" alt="Each of these urushi-lacquered Casio calculators took a month to make" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/23/each-of-these-urushi-lacquered-casio-calculators-took-a-month-to-make.html" target="_blank">Each of these urushi-lacquered Casio calculators took a month to make</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-23 11:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 14:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 15:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
