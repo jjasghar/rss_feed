@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-23 04:50:54 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-23 05:29:54 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, March 23, 2026 - 04:51 UTC</div>
+    <div class="newspaper-date">Monday, March 23, 2026 - 05:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260323-lga-cc-1227a-e4e658.jpg" alt="Air Canada plane collides with vehicle at New York&#x27;s La Guardia Airport" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/incident-reported-plane-vehicle-new-yorks-la-guardia-airport-rcna264677" target="_blank">Air Canada plane collides with vehicle at New York&#x27;s La Guardia Airport</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-23 05:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/23/brothers-search-rubble-for-missing-sibling-under-tehran-rubble-after-strike?traffic_source=rss" target="_blank">Brothers search rubble for missing sibling under Tehran rubble after strike</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-23 04:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/3/23/iran-war-live-tehran-vows-to-completely-close-hormuz-if-power-plants-hit?traffic_source=rss" target="_blank">Iran war live: Tehran vows to ‘completely close’ Hormuz if power plants hit</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-23 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774220871813_wnn_mbr_iran_war_latest_260322_S3_1920x1080-za0ib7.jpg" alt="Iran unswayed by Trump&#x27;s 48-hour deadline and threats to &#x27;obliterate&#x27; energy infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/iran-unswayed-by-trump-s-48-hour-deadline-and-threats-to-obliterate-energy-infrastructure-259832901951" target="_blank">Iran unswayed by Trump&#x27;s 48-hour deadline and threats to &#x27;obliterate&#x27; energy infrastructure</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-22 23:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceac/live/271df770-263a-11f1-9b0c-0d65eca391ab.jpg" alt="Starmer and Trump discuss need to reopen Hormuz Strait" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c98kdyye33no?at_medium=RSS&at_campaign=rss" target="_blank">Starmer and Trump discuss need to reopen Hormuz Strait</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-22 22:39</span>
             </div>
         </div>
 </div>
@@ -165,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/basil_kubarev_0fc48181446/cognitive-prosthesis-how-to-turn-ai-from-a-tool-into-a-co-author-of-complex-systems-458b" target="_blank">Cognitive Prosthesis: How to Turn AI from a Tool into a Co-Author of Complex Systems</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-23 05:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmrjukzjna0v1jz9dyb0l.png" alt="The New AI Agent Primitive: Why Policy Needs Its Own Language (And Why YAML and Rego Fall Short)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +215,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/03/spring-news-roundup-mar16-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Spring News Roundup: Third Milestone Releases of Boot, Security, Integration, AI and AMQP</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-03-23 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html" target="_blank">Diverse perspectives on AI from Rust contributors and maintainers</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-22 22:19</span>
             </div>
         </div>
 </div>
@@ -305,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 252 |
-        🔄 Last Updated: 04:51 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 251 |
+        🔄 Last Updated: 05:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
