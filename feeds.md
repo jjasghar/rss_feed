@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-23 13:28:09 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-23 14:21:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, March 23, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, March 23, 2026 - 14:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +107,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation" target="_blank">Confronting the CEO of the AI company that impersonated me</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-23 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/897950/govee-outdoor-chromatic-string-lights-weatherproof-color-changing-price-availability" target="_blank">Every bulb on Govee’s new outdoor string lights can display multicolor effects</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-23 12:00</span>
@@ -153,20 +157,29 @@
                 <span class="time">2026-03-23 00:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/898796/charlotte-adigery-bolis-pupul-topical-dancer-review" target="_blank">Topical Dancer is propulsive, playful, and political</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-22 21:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pielounw/run-llms-locally-in-flutter-apps-211p" target="_blank">Run LLMs locally in Flutter apps</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-23 14:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mozilla-Firefox-149" target="_blank">Firefox 149 Now Available With XDG Portal File Picker, Rust-Based JPEG-XL Decoder</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-23 14:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,24 +216,6 @@
                 <span class="time">2026-03-23 11:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/it_is_margarita/it-wasnt-brave-it-was-just-tuesday-3673" target="_blank">It Wasn&#x27;t Brave. It Was Just Tuesday.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-23 11:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/apple-foundation-models-context/en/headerimage/ios-foundation-models-token-usage-1774262414205.jpeg" alt="Apple Improves Context Window Management for its Foundation Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/apple-foundation-models-context/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Apple Improves Context Window Management for its Foundation Models</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-23 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/2570_FP_1144432U_00088596-H-2025-1280x721.jpg" alt="Did A Ratings Board Just Spoil A Big Super Mario Galaxy Movie Reveal?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/super-mario-galaxy-movie-rosalina-peach-sisters-spoiler-2000681054" target="_blank">Did A Ratings Board Just Spoil A Big Super Mario Galaxy Movie Reveal?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-23 14:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KM6VB1H5HNFAJA824TYRE7GJ/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: The Socrates and Skeleton Meme" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-socrates-skeleton-meme?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: The Socrates and Skeleton Meme</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-23 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/expanse.jpg" alt="Xbox Announces First Gaming Showcase Under Its New Boss" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +287,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/23/each-of-these-urushi-lacquered-casio-calculators-took-a-month-to-make.html" target="_blank">Each of these urushi-lacquered Casio calculators took a month to make</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-23 11:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/samsung-gizmodo-1280x853.jpg" alt="Samsung Bespoke AI Refrigerator Wants to Take the Stress Out of the Kitchen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/samsung-bespoke-ai-refrigerator-wants-to-take-the-stress-out-of-the-kitchen-2000735929" target="_blank">Samsung Bespoke AI Refrigerator Wants to Take the Stress Out of the Kitchen</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-23 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/xenon.jpg" alt="New Zealand Man Has Pinball Machines Confiscated After Drug Raid On Home Arcade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/new-zealand-man-has-pinball-machines-confiscated-after-drug-raid-on-home-arcade-2000680902" target="_blank">New Zealand Man Has Pinball Machines Confiscated After Drug Raid On Home Arcade</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-22 23:25</span>
             </div>
         </div>
 </div>
@@ -331,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 14:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
