@@ -1,37 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-03-23 20:09:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-23 21:08:18 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, March 23, 2026 - 20:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, March 23, 2026 - 21:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/23/moment-missile-strikes-shortly-after-israeli-presidents-visit?traffic_source=rss" target="_blank">Moment missile strikes shortly after Israeli president’s visit</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-23 20:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +93,20 @@
                 <span class="time">2026-03-23 17:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-260323_1774274047824_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran denies any talks with US following Trump&#x27;s remarks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431" target="_blank">Iran live updates: Iran denies any talks with US following Trump&#x27;s remarks</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-23 17:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/23/someone-has-publicly-leaked-an-exploit-kit-that-can-hack-millions-of-iphones/" target="_blank">Someone has publicly leaked an exploit kit that can hack millions of iPhones</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-23 20:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +150,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/" target="_blank">Apple sets June date for WWDC 2026, teasing “AI advancements”</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-23 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/898918/project-hail-mary-andy-weir-writing-advice-interview" target="_blank">Some writing advice from Project Hail Mary’s Andy Weir</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-23 16:00</span>
             </div>
         </div>
 </div>
@@ -248,6 +240,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/library.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Your public library can get you almost any book on earth for $5 or less" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/23/your-public-library-can-get-you-almost-any-book-on-earth-for-5-or-less.html" target="_blank">Your public library can get you almost any book on earth for $5 or less</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-23 20:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/ReadyorNot2-Cronenbergportrait-1280x853.jpg" alt="Why ‘Ready or Not 2’ Had to Include That Shocking Slay" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -290,15 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/dlss-5-nvidia-jensen-huang-ai-slop-re9-leon-capcom-2000681131" target="_blank">Nvidia CEO Says He Gets Where The DLSS 5 Outrage Is Coming From: ‘I Don’t Love AI Slop Myself’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-23 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/ios26-liquid-glass-11-1280x853.jpg" alt="Why WWDC 2026 Will Be Apple’s Most Important Developer Conference in Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/why-wwdc-2026-will-be-apples-most-important-developer-conference-in-years-2000736972" target="_blank">Why WWDC 2026 Will Be Apple’s Most Important Developer Conference in Years</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-23 18:00</span>
             </div>
         </div>
 </div>
@@ -347,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 20:09 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 21:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
