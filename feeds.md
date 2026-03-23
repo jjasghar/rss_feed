@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-23 11:14:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-23 12:10:04 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, March 23, 2026 - 11:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, March 23, 2026 - 12:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b500/live/620c2290-268e-11f1-b297-95b0a0a8331e.jpg" alt="Two pilots dead after plane and ground vehicle collide at New York&#x27;s LaGuardia Airport" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss" target="_blank">Two pilots dead after plane and ground vehicle collide at New York&#x27;s LaGuardia Airport</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-23 11:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/laguardia-main_1774245675769_hpMain_4x3t_384.jpg" alt="LaGuardia Airport shut down after plane collides with vehicle, killing 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +103,29 @@
                 <span class="time">2026-03-23 08:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/laguardia-main_1774245675769_hpMain_4x3t_384.jpg" alt="LaGuardia Airport closed following collision between Air Canada plane and vehicle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/laguardia-airport-closed-collision-air-canada-plane-airport/story?id=131315551" target="_blank">LaGuardia Airport closed following collision between Air Canada plane and vehicle</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-23 07:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/897950/govee-outdoor-chromatic-string-lights-weatherproof-color-changing-price-availability" target="_blank">Every bulb on Govee’s new outdoor string lights can display multicolor effects</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-23 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/KSC-04pd2074orig-500x500.jpg" alt="A unique NASA satellite is falling out of orbit—this team is trying to rescue it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/03/a-unique-nasa-satellite-is-falling-out-of-orbit-this-team-is-trying-to-rescue-it/" target="_blank">A unique NASA satellite is falling out of orbit—this team is trying to rescue it</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-23 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +162,29 @@
                 <span class="time">2026-03-22 21:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/22/the-sec-drops-its-four-year-old-investigation-into-ev-startup-faraday-future/" target="_blank">The SEC drops its four-year-old investigation into EV startup Faraday Future</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-22 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art" target="_blank">Crimson Desert dev apologizes for use of AI art</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-22 17:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18910375&w=600" alt="AI Can Help With Migration; It Cannot Own It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-can-help-with-migration-it-cannot-own-it" target="_blank">AI Can Help With Migration; It Cannot Own It</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-23 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/data-mesh-horse-powertrain/en/mediumimage/anurag-kale-medium-1773151647473.jpg" alt="Presentation: Data Mesh in Action: A Journey From Ideation to Implementation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/data-mesh-horse-powertrain/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Data Mesh in Action: A Journey From Ideation to Implementation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-23 11:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,28 +215,24 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://rz01.org/eu-migration/" target="_blank">Migrating to the EU</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-23 10:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Arm-Ethos-U85-Mesa-26.1" target="_blank">Arm Ethos U85 NPU Now Supported By EthosU Gallium3D Driver</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Qt-6.11-Toolkit" target="_blank">Qt 6.11 Toolkit Released With &quot;The Same 3D Capabilities As A Game Engine&quot;</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-03-23 09:55</span>
+                <span class="time">2026-03-23 10:38</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/canonical-joins-the-rust-foundation-as-a-gold-member" target="_blank">Canonical joins the Rust Foundation as a Gold Member</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-03-23 09:15</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/microsoft-xbox-hacked.html" target="_blank">Microsoft Xbox One Hacked</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-03-23 11:01</span>
             </div>
         </div>
 </div>
@@ -220,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/urushi-casio-calculator.jpg?fit=1253%2C754&amp;quality=60&amp;ssl=1" alt="Each of these urushi-lacquered Casio calculators took a month to make" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/23/each-of-these-urushi-lacquered-casio-calculators-took-a-month-to-make.html" target="_blank">Each of these urushi-lacquered Casio calculators took a month to make</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-23 11:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/samsung-gizmodo-1280x853.jpg" alt="Samsung Bespoke AI Refrigerator Wants to Take the Stress Out of the Kitchen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +294,6 @@
                 <span class="time">2026-03-22 21:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Microsoft-Visual-Studio-Professional-2026.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Write code like you actually slept last night—Visual Studio 2026 is just $42.50" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/22/write-code-like-you-actually-slept-last-night-visual-studio-2026-is-just-42-50.html" target="_blank">Write code like you actually slept last night—Visual Studio 2026 is just $42.50</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-22 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 11:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 12:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
