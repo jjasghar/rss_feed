@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-23 19:17:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-23 20:09:13 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, March 23, 2026 - 19:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, March 23, 2026 - 20:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +107,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom" target="_blank">Google’s new Pixel 10 ads made me go ‘wait, WHAT are they trying to sell?’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-23 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69bd923f33c22df804229607/master/pass/startup-Making-Organ-Sacks-Science.jpg" alt="A Billionaire-Backed Startup Wants to Grow &#x27;Organ Sacks&#x27; to Replace Animal Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/" target="_blank">A Billionaire-Backed Startup Wants to Grow &#x27;Organ Sacks&#x27; to Replace Animal Testing</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-23 19:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/23/russian-authorities-block-paywall-removal-site-archive-today/" target="_blank">Russian authorities block paywall removal site Archive.today</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-23 19:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/turbotax-display-500x500-1774290451.jpg" alt="Intuit beats FTC in court, ending restrictions on &quot;free&quot; TurboTax ads" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -135,38 +160,38 @@
                 <span class="time">2026-03-23 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/01/ai_lawsuit_hero-500x500.jpg" alt="AI is beginning to change the business of law" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/03/ai-is-beginning-to-change-the-business-of-law/" target="_blank">AI is beginning to change the business of law</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-23 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation" target="_blank">Confronting the CEO of the AI company that impersonated me</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-23 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/897950/govee-outdoor-chromatic-string-lights-weatherproof-color-changing-price-availability" target="_blank">Every bulb on Govee’s new outdoor string lights can display multicolor effects</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-23 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917708&w=600" alt="Beyond Reactive HPA: Designing a Predictive Autoscaler with KEDA and Time-Series Forecasting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/beyond-reactive-hpa-designing-a-predictive-autoscaler" target="_blank">Beyond Reactive HPA: Designing a Predictive Autoscaler with KEDA and Time-Series Forecasting</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-23 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/portable-systems-sovereignty/en/headerimage/Architecting-Portable-Systems-on-Open-Standards-for-Digital-Sovereignty-header-1773829386100.jpg" alt="Article: Architecting Portable Systems on Open Standards for Digital Sovereignty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/portable-systems-sovereignty/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Architecting Portable Systems on Open Standards for Digital Sovereignty</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-23 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Cloudflare-Gen13-Server-Turin" target="_blank">Cloudflare Details Their Upgrade To EPYC Turin For 2x Throughput, 50% Better Perf/Watt</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-23 19:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,33 +217,6 @@
                 <span class="title"><a href="https://www.b-list.org/weblog/2026/mar/23/20-year-library/" target="_blank">Rewriting a 20-year-old Python library</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-03-23 18:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/XMMS-AI-Port-To-PipeWire-GTK4" target="_blank">XMMS Codebase Brought Back To Life By AI With GTK4 + GStreamer/PipeWire Port</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-23 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18912332&w=600" alt="Why AI Agents Are the New Backbone of Software Quality" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-ai-agents-are-the-new-backbone-of-software-qua" target="_blank">Why AI Agents Are the New Backbone of Software Quality</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-23 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17304637/libreoffice-donation-banner" target="_blank">LibreOffice is Adding a Donation Banner That Might Annoy Some Users</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-23 16:41</span>
             </div>
         </div>
 </div>
@@ -249,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/ReadyorNot2-Cronenbergportrait-1280x853.jpg" alt="Why ‘Ready or Not 2’ Had to Include That Shocking Slay" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ready-or-not-2-sarah-michelle-gellar-death-scene-explained-2000737049" target="_blank">Why ‘Ready or Not 2’ Had to Include That Shocking Slay</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-23 20:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/subway-1.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Guy built an e-ink subway display so he didn&#x27;t have to keep unlocking his phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/23/guy-built-an-e-ink-subway-display-so-he-didnt-have-to-keep-unlocking-his-phone.html" target="_blank">Guy built an e-ink subway display so he didn&#x27;t have to keep unlocking his phone</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-23 19:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/High-res-sonar-image-of-Komsomolets-Soviet-Sub-on-the-seafloor-of-the-Norwegian-Sea-1280x853.jpg" alt="Sunken Soviet Submarine Is Quietly Leaking Radiation Decades Later, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,24 +301,6 @@
                 <span class="time">2026-03-23 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMDSNQ4PQFM7JR3QG6EGX9J4/hero-image.png" alt="These Apps Can Help You Find the Cheapest Gas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/use-these-apps-to-find-the-cheapest-gas-near-you?utm_medium=RSS" target="_blank">These Apps Can Help You Find the Cheapest Gas</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-23 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/starfleet-academy-chancellor-ake-1280x853.jpg" alt="‘Starfleet Academy’ Will End After Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-trek-starfleet-academy-canceled-paramount-2000736976" target="_blank">‘Starfleet Academy’ Will End After Season 2</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-23 17:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,6 +325,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/inflation_timeline.png" alt="Inflation Timeline" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3223/" target="_blank">Inflation Timeline</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-03-23 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5791.png" alt="Gone But Not Forgotten" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -340,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 19:17 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 20:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
