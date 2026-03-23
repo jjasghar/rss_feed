@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-23 01:31:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-23 02:58:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, March 23, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, March 23, 2026 - 02:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/3/23/asian-stock-markets-plunge-amid-trumps-ultimatum-on-iran?traffic_source=rss" target="_blank">Asian stock markets plunge amid Trump’s ultimatum on Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-23 01:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/22/displaced-families-shelter-in-tents-in-beirut-amid-israeli-strikes?traffic_source=rss" target="_blank">Displaced families shelter in tents in Beirut amid Israeli strikes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-22 20:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/airport-line-01-ap-jt-260321_1774111553915_hpMain_4x3t_384.jpg" alt="Record numbers of TSA officers called out Saturday as DHS shutdown continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/record-numbers-tsa-officers-called-saturday-dhs-shutdown/story?id=131307007" target="_blank">Record numbers of TSA officers called out Saturday as DHS shutdown continues</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-22 19:22</span>
             </div>
         </div>
 </div>
@@ -169,6 +161,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjr49zgqmmfadttfwnhvw.png" alt="Building a CI/CD Pipeline with Docker, Jenkins, and AWS EC2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/swapnil_uppin_3c823bdc459/building-a-cicd-pipeline-with-docker-jenkins-and-aws-ec2-2flp" target="_blank">Building a CI/CD Pipeline with Docker, Jenkins, and AWS EC2</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-23 02:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/spring-news-roundup-mar16-2026/en/headerimage/java-istock-image-01-1774163179981.jpg" alt="Spring News Roundup: Third Milestone Releases of Boot, Security, Integration, AI and AMQP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/spring-news-roundup-mar16-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Spring News Roundup: Third Milestone Releases of Boot, Security, Integration, AI and AMQP</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-23 02:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -204,29 +214,20 @@
                 <span class="time">2026-03-22 21:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/D7VK-1.6-Released" target="_blank">D7VK 1.6 Overhauls Interaction With DXVK&#x27;s D3D9 Backend</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-22 21:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://trustcompliance.xyz" target="_blank">We indexed the Delve audit leak: 533 reports, 455 companies, 99.8% identical</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-22 20:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/xenon.jpg" alt="New Zealand Man Has Pinball Machines Confiscated After Drug Raid On Home Arcade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/new-zealand-man-has-pinball-machines-confiscated-after-drug-raid-on-home-arcade-2000680902" target="_blank">New Zealand Man Has Pinball Machines Confiscated After Drug Raid On Home Arcade</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-22 23:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KM6DY5E2ENKBV3JQ8P57JCXQ/hero-image.jpg" alt="Samsung Now Officially Supports AirDrop, but Only for These Devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +273,6 @@
                 <span class="time">2026-03-22 16:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/HD5s3JIaoAE2g6p-1280x720.jpg" alt="Crimson Desert Dev Apologizes For Not Disclosing AI Generated Art As It Works To Remove It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/crimson-desert-ai-art-peal-abyss-2000680884" target="_blank">Crimson Desert Dev Apologizes For Not Disclosing AI Generated Art As It Works To Remove It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-22 15:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 250 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 251 |
+        🔄 Last Updated: 02:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
