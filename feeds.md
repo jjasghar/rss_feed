@@ -1,45 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-03-23 07:26:17 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-03-23 08:14:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 37 feeds processed -->
+<!-- Generated 4 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, March 23, 2026 - 07:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, March 23, 2026 - 08:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -174,6 +172,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6bbt36mmg572pljvr35j.png" alt="EKS Auto Mode: Kubernetes sin drama😝" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-espanol/eks-auto-mode-kubernetes-sin-drama-1afk" target="_blank">EKS Auto Mode: Kubernetes sin drama😝</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-23 08:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmacn0qv9s4du96grsqzw.png" alt="Tired of hand-editing Traefik YAML? This little tool makes route management way easier" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -216,15 +223,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ubuntu-new-yaru-folders-contrast-bump" target="_blank">Ubuntu 26.04’s new folder icons undergo another revamp</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-03-23 03:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjr49zgqmmfadttfwnhvw.png" alt="Building a CI/CD Pipeline with Docker, Jenkins, and AWS EC2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/swapnil_uppin_3c823bdc459/building-a-cicd-pipeline-with-docker-jenkins-and-aws-ec2-2flp" target="_blank">Building a CI/CD Pipeline with Docker, Jenkins, and AWS EC2</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-23 02:57</span>
             </div>
         </div>
 </div>
@@ -292,6 +290,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/03/23/the-circle-of-something-or-other" target="_blank">The Circle Of Something Or Other</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-23 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5791.png" alt="Gone But Not Forgotten" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -314,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 254 |
-        🔄 Last Updated: 07:26 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 08:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
