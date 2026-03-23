@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-23 18:12:48 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-23 19:17:13 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 13 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, March 23, 2026 - 18:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, March 23, 2026 - 19:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/23/colombian-military-plane-with-125-on-board-crashes-after-takeoff?traffic_source=rss" target="_blank">Colombian military plane with 125 on board crashes after takeoff</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-23 19:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c47/live/32276590-2683-11f1-a32b-91a6d5286fbb.png" alt="Arson attack on Jewish charity ambulances investigated by counter-terror police" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss" target="_blank">Arson attack on Jewish charity ambulances investigated by counter-terror police</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-23 18:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3e0/live/5181ce60-26df-11f1-934f-036468834728.jpg" alt="A pharmacist and a homesick lifestyle blogger: The &#x27;alarming&#x27; civilian cost of war in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&at_campaign=rss" target="_blank">A pharmacist and a homesick lifestyle blogger: The &#x27;alarming&#x27; civilian cost of war in Iran</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-23 18:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/23/nx-s1-5757505/kennedy-center-trump-lawsuit" target="_blank">8 architecture and culture groups sue Trump and the Kennedy Center board</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-23 18:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-2-gty-gmh-260323_1774274047334_hpMain_4x3t_384.jpg" alt="Trump says US and Iran have &#x27;major points of agreement,&#x27; including no nuclear weapons" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -59,47 +103,20 @@
                 <span class="time">2026-03-23 17:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3270/live/4bbe7e40-265f-11f1-a935-2f8ae5ecc5e6.jpg" alt="Oil falls and shares rebound after Trump says talks have been held to end war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss" target="_blank">Oil falls and shares rebound after Trump says talks have been held to end war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-23 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-lockheed-martin_7201230.jpg?20260323164647" alt="Military plane &#x27;carrying 110 soldiers&#x27; involved in accident in Colombia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/military-plane-carrying-110-soldiers-involved-in-accident-in-colombia-13523548" target="_blank">Military plane &#x27;carrying 110 soldiers&#x27; involved in accident in Colombia</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-23 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/23/israeli-strike-on-lebanon-bridge-raises-fears-of-ground-invasion?traffic_source=rss" target="_blank">Israeli strike on Lebanon bridge raises fears of ground invasion</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-23 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/23/which-countries-have-strategic-oil-reserves-and-how-much?traffic_source=rss" target="_blank">Which countries have strategic oil reserves – and how much?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-23 15:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/turbotax-display-500x500-1774290451.jpg" alt="Intuit beats FTC in court, ending restrictions on &quot;free&quot; TurboTax ads" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/intuit-beats-ftc-in-court-ending-restrictions-on-free-turbotax-ads/" target="_blank">Intuit beats FTC in court, ending restrictions on &quot;free&quot; TurboTax ads</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-23 19:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +162,38 @@
                 <span class="time">2026-03-23 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69be039cf062c9cdcba42e33/master/pass/macbook-air-m5-03.JPG" alt="Best Laptops (2026): My Honest Advice Having Tested Hundreds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-laptops/" target="_blank">Best Laptops (2026): My Honest Advice Having Tested Hundreds</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-23 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/caper_dev/how-i-automate-my-freelance-workflow-with-python-4ee2" target="_blank">How I Automate My Freelance Workflow with Python</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-23 19:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18874247&w=600" alt="Why Supply Chain Planning Still Breaks Even with Advanced Forecasting Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/supply-chain-planning-breaks-even-with-advanced-forecasting" target="_blank">Why Supply Chain Planning Still Breaks Even with Advanced Forecasting Tools</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-23 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.b-list.org/weblog/2026/mar/23/20-year-library/" target="_blank">Rewriting a 20-year-old Python library</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-23 18:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,33 +219,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17304637/libreoffice-donation-banner" target="_blank">LibreOffice is Adding a Donation Banner That Might Annoy Some Users</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-03-23 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/qcon-ai-at-the-edge/en/headerimage/generatedHeaderImage-1774254854744.jpg" alt="QCon London 2026: Running AI at the Edge - Running Real Workloads Directly in the Browser" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/qcon-ai-at-the-edge/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: Running AI at the Edge - Running Real Workloads Directly in the Browser</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-23 16:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/" target="_blank">GitHub expands application security coverage with AI‑powered detections</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-03-23 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917353&w=600" alt="Shrink a Bloated Git Repository and Optimize Pack Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/shrink-git-repo-optimize-pack-files" target="_blank">Shrink a Bloated Git Repository and Optimize Pack Files</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-23 16:00</span>
             </div>
         </div>
 </div>
@@ -242,6 +250,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/High-res-sonar-image-of-Komsomolets-Soviet-Sub-on-the-seafloor-of-the-Norwegian-Sea-1280x853.jpg" alt="Sunken Soviet Submarine Is Quietly Leaking Radiation Decades Later, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sunken-soviet-submarine-is-quietly-leaking-radiation-decades-later-study-finds-2000737006" target="_blank">Sunken Soviet Submarine Is Quietly Leaking Radiation Decades Later, Study Finds</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-23 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JSHGRYKSYYSJ4010QWY5S396/hero-image.png" alt="You Can Get a Kindle Colorsoft for Only $10 More Than a Paperwhite During Amazon&#x27;s Early Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/kindle-colorsoft-amazon-early-big-spring-sale-2026?utm_medium=RSS" target="_blank">You Can Get a Kindle Colorsoft for Only $10 More Than a Paperwhite During Amazon&#x27;s Early Big Spring Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-23 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/leons.jpg" alt="Nvidia CEO Says He Gets Where The DLSS 5 Outrage Is Coming From: ‘I Don’t Love AI Slop Myself’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dlss-5-nvidia-jensen-huang-ai-slop-re9-leon-capcom-2000681131" target="_blank">Nvidia CEO Says He Gets Where The DLSS 5 Outrage Is Coming From: ‘I Don’t Love AI Slop Myself’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-23 18:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/ios26-liquid-glass-11-1280x853.jpg" alt="Why WWDC 2026 Will Be Apple’s Most Important Developer Conference in Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -266,33 +301,6 @@
                 <span class="title"><a href="https://gizmodo.com/star-trek-starfleet-academy-canceled-paramount-2000736976" target="_blank">‘Starfleet Academy’ Will End After Season 2</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-23 17:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/lego-yoda-1280x720.jpg" alt="Yoda Is Now The Ugliest Lego Star Wars Character" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/yoda-lego-face-statue-ugly-bad-darth-vader-character-bust-price-2000681088" target="_blank">Yoda Is Now The Ugliest Lego Star Wars Character</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-23 17:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/bafkreibo2jp6fou5uk5hnpfyscgpgrv3kjq46jccn22cnmvmcolyxx6oey.webp?fit=1452%2C814&amp;quality=55&amp;ssl=1" alt="Top devs share their placeholder art to prove you don&#x27;t need AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/23/top-devs-share-their-placeholder-art-to-prove-you-dont-need-ai.html" target="_blank">Top devs share their placeholder art to prove you don&#x27;t need AI</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-23 16:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/charizardfight.jpg" alt="Grown Men Almost Choke Each Other Out Over Pokémon Cards" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-cards-scalpers-resellers-fight-choke-acme-video-2000681085" target="_blank">Grown Men Almost Choke Each Other Out Over Pokémon Cards</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-23 16:06</span>
             </div>
         </div>
 </div>
@@ -332,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 18:12 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 19:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
