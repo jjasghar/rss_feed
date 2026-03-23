@@ -1,29 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-23 21:08:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-23 22:04:34 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, March 23, 2026 - 21:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, March 23, 2026 - 22:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/3/23/have-israel-the-us-and-iran-violated-international-law?traffic_source=rss" target="_blank">Have Israel, the US and Iran violated international law?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-23 21:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,20 +103,20 @@
                 <span class="time">2026-03-23 18:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-2-gty-gmh-260323_1774274047334_hpMain_4x3t_384.jpg" alt="Trump says US and Iran have &#x27;major points of agreement,&#x27; including no nuclear weapons" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-us-iran-major-points-agreement-including-nuclear/story?id=131323034" target="_blank">Trump says US and Iran have &#x27;major points of agreement,&#x27; including no nuclear weapons</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-23 17:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262971243-500x500.jpg" alt="Trump&#x27;s MAHA pick for surgeon general flounders amid GOP doubts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/03/trumps-maha-pick-for-surgeon-general-flounders-amid-gop-doubts/" target="_blank">Trump&#x27;s MAHA pick for surgeon general flounders amid GOP doubts</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-23 21:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,20 +162,20 @@
                 <span class="time">2026-03-23 19:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/" target="_blank">Apple sets June date for WWDC 2026, teasing “AI advancements”</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-23 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-FRED-By-Default-Patch" target="_blank">Patch Posted To Enable Intel FRED By Default On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-23 21:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917708&w=600" alt="Beyond Reactive HPA: Designing a Predictive Autoscaler with KEDA and Time-Series Forecasting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,15 +221,6 @@
                 <span class="time">2026-03-23 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.b-list.org/weblog/2026/mar/23/20-year-library/" target="_blank">Rewriting a 20-year-old Python library</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-23 18:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/fortnite-chappell-roan-1280x720.jpg" alt="The Latest Chappell Roan Controversy Is Nonsense, But At Least The Memes Are Funny" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/chappell-roan-controversy-security-kid-jorginho-frello-2000681176" target="_blank">The Latest Chappell Roan Controversy Is Nonsense, But At Least The Memes Are Funny</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-23 20:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/library.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Your public library can get you almost any book on earth for $5 or less" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +301,6 @@
                 <span class="title"><a href="https://lifehacker.com/kindle-colorsoft-amazon-early-big-spring-sale-2026?utm_medium=RSS" target="_blank">You Can Get a Kindle Colorsoft for Only $10 More Than a Paperwhite During Amazon&#x27;s Early Big Spring Sale</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-23 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/leons.jpg" alt="Nvidia CEO Says He Gets Where The DLSS 5 Outrage Is Coming From: ‘I Don’t Love AI Slop Myself’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dlss-5-nvidia-jensen-huang-ai-slop-re9-leon-capcom-2000681131" target="_blank">Nvidia CEO Says He Gets Where The DLSS 5 Outrage Is Coming From: ‘I Don’t Love AI Slop Myself’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-23 18:10</span>
             </div>
         </div>
 </div>
@@ -339,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 21:08 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 22:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
