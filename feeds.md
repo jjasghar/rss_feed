@@ -1,43 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-23 08:14:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-23 09:17:47 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 34 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, March 23, 2026 - 08:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, March 23, 2026 - 09:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +49,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b500/live/620c2290-268e-11f1-b297-95b0a0a8331e.jpg" alt="Two dead after plane and ground vehicle collide at New York&#x27;s LaGuardia Airport" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss" target="_blank">Two dead after plane and ground vehicle collide at New York&#x27;s LaGuardia Airport</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-23 09:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/23/g-s1-114107/ices-growing-detention-footprint-and-the-communities-fighting-back" target="_blank">ICE&#x27;s growing detention footprint, and the communities fighting back</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-23 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/23/unprecedented-israel-us-carry-out-extensive-strikes-across-iran?traffic_source=rss" target="_blank">‘Unprecedented’: Israel, US carry out extensive strikes across Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-23 08:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/laguardia-main_1774245675769_hpMain_4x3t_384.jpg" alt="2 dead, LaGuardia closed following collision between Air Canada plane and vehicle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/laguardia-airport-closed-collision-air-canada-plane-airport/story?id=131315551" target="_blank">2 dead, LaGuardia closed following collision between Air Canada plane and vehicle</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-23 08:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/laguardia-main_1774245675769_hpMain_4x3t_384.jpg" alt="LaGuardia Airport closed following collision between Air Canada plane and vehicle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -69,42 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/23/kim-jong-un-reappointed-as-president-of-north-korea?traffic_source=rss" target="_blank">Kim Jong Un reappointed as president of North Korea</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-23 07:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de59/live/0088fb90-2681-11f1-a32b-91a6d5286fbb.jpg" alt="Plane and ground vehicle collide at New York&#x27;s LaGuardia airport halting flights" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss" target="_blank">Plane and ground vehicle collide at New York&#x27;s LaGuardia airport halting flights</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-23 07:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260323-lga-plane-2-cc-0214a-963293.jpg" alt="Pilot, co-pilot killed after Air Canada plane and vehicle collide at La Guardia Airport, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/incident-reported-plane-vehicle-new-yorks-la-guardia-airport-rcna264677" target="_blank">Pilot, co-pilot killed after Air Canada plane and vehicle collide at La Guardia Airport, sources say</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-23 05:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260323-lga-cc-1227a-e4e658.jpg" alt="Air Canada plane collides with vehicle at New York&#x27;s La Guardia Airport" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/incident-reported-plane-vehicle-new-yorks-la-guardia-airport-rcna264677" target="_blank">Air Canada plane collides with vehicle at New York&#x27;s La Guardia Airport</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-23 05:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3270/live/4bbe7e40-265f-11f1-a935-2f8ae5ecc5e6.jpg" alt="Asia stocks slide as US and Iran threaten to escalate war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss" target="_blank">Asia stocks slide as US and Iran threaten to escalate war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-23 05:12</span>
             </div>
         </div>
 </div>
@@ -321,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 08:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 254 |
+        🔄 Last Updated: 09:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
