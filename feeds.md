@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-23 16:15:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-23 17:15:03 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Generated 11 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, March 23, 2026 - 16:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, March 23, 2026 - 17:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-260323_1774274047824_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran denies any talks with US following Trump&#x27;s remarks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431" target="_blank">Iran live updates: Iran denies any talks with US following Trump&#x27;s remarks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-23 17:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3270/live/4bbe7e40-265f-11f1-a935-2f8ae5ecc5e6.jpg" alt="Oil falls and shares rebound after Trump says talks have been held to end war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss" target="_blank">Oil falls and shares rebound after Trump says talks have been held to end war</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-23 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/23/israeli-strike-on-lebanon-bridge-raises-fears-of-ground-invasion?traffic_source=rss" target="_blank">Israeli strike on Lebanon bridge raises fears of ground invasion</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-23 16:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,33 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/23/nx-s1-5756465/voice-of-america-staffers-sue-alleging-kari-lake-put-on-propaganda" target="_blank">Voice of America staffers sue, alleging Kari Lake put on propaganda</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-23 13:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/23/madrid-protest-against-us-blockade-of-cuba?traffic_source=rss" target="_blank">Madrid protest against US blockade of Cuba</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-23 13:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b500/live/620c2290-268e-11f1-b297-95b0a0a8331e.jpg" alt="Two pilots dead after plane and ground vehicle collide at New York&#x27;s LaGuardia Airport" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss" target="_blank">Two pilots dead after plane and ground vehicle collide at New York&#x27;s LaGuardia Airport</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-23 11:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774264347464_tdy_news_7a_brock_costello_plane_truck_collision_260323_S3_1920x1080-wgkgn1.jpg" alt="Canada Air Jet and Firetruck Collide at LaGuardia, Killing 2 Pilots" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/canada-air-jet-and-firetruck-collide-at-laguardia-killing-2-pilots-259848261859" target="_blank">Canada Air Jet and Firetruck Collide at LaGuardia, Killing 2 Pilots</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-23 11:12</span>
             </div>
         </div>
 </div>
@@ -162,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18912332&w=600" alt="Why AI Agents Are the New Backbone of Software Quality" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/why-ai-agents-are-the-new-backbone-of-software-qua" target="_blank">Why AI Agents Are the New Backbone of Software Quality</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-23 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17304637/libreoffice-donation-banner" target="_blank">LibreOffice is Adding a Donation Banner That Might Annoy Some Users</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-23 16:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917353&w=600" alt="Shrink a Bloated Git Repository and Optimize Pack Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -197,24 +216,6 @@
                 <span class="time">2026-03-23 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://skylarbpayne.com/posts/dspy-engineering-patterns/" target="_blank">If Dspy is so great, why isn&#x27;t anyone using it?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-23 14:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pielounw/run-llms-locally-in-flutter-apps-211p" target="_blank">Run LLMs locally in Flutter apps</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-23 14:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +245,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/starfleet-academy-chancellor-ake-1280x853.jpg" alt="‘Starfleet Academy’ Will End After Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-trek-starfleet-academy-canceled-paramount-2000736976" target="_blank">‘Starfleet Academy’ Will End After Season 2</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-23 17:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/lego-yoda-1280x720.jpg" alt="Yoda Is Now The Ugliest Lego Star Wars Character" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/yoda-lego-face-statue-ugly-bad-darth-vader-character-bust-price-2000681088" target="_blank">Yoda Is Now The Ugliest Lego Star Wars Character</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-23 17:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/bafkreibo2jp6fou5uk5hnpfyscgpgrv3kjq46jccn22cnmvmcolyxx6oey.webp?fit=1452%2C814&amp;quality=55&amp;ssl=1" alt="Top devs share their placeholder art to prove you don&#x27;t need AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/23/top-devs-share-their-placeholder-art-to-prove-you-dont-need-ai.html" target="_blank">Top devs share their placeholder art to prove you don&#x27;t need AI</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-23 16:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/charizardfight.jpg" alt="Grown Men Almost Choke Each Other Out Over Pokémon Cards" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -270,38 +298,20 @@
                 <span class="time">2026-03-23 15:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/2570_FP_1144432U_00088596-H-2025-1280x721.jpg" alt="Did A Ratings Board Just Spoil A Big Super Mario Galaxy Movie Reveal?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/super-mario-galaxy-movie-rosalina-peach-sisters-spoiler-2000681054" target="_blank">Did A Ratings Board Just Spoil A Big Super Mario Galaxy Movie Reveal?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-23 14:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KM6VB1H5HNFAJA824TYRE7GJ/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: The Socrates and Skeleton Meme" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-socrates-skeleton-meme?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: The Socrates and Skeleton Meme</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-23 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/expanse.jpg" alt="Xbox Announces First Gaming Showcase Under Its New Boss" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-partner-showcase-trailer-when-2000681025" target="_blank">Xbox Announces First Gaming Showcase Under Its New Boss</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-23 13:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1773962272-20260323 - Edit.png" alt="Saturday Morning Breakfast Cereal - Nature" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/nature-4" target="_blank">Saturday Morning Breakfast Cereal - Nature</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-23 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -325,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 16:16 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 17:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
