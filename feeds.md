@@ -1,38 +1,45 @@
-<!-- Processing 54 RSS feeds at 2026-03-23 06:20:06 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-23 07:26:17 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 37 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, March 23, 2026 - 06:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, March 23, 2026 - 07:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +56,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/laguardia-main_1774245675769_hpMain_4x3t_384.jpg" alt="LaGuardia Airport closed following collision between Air Canada plane and vehicle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/laguardia-airport-closed-collision-air-canada-plane-airport/story?id=131315551" target="_blank">LaGuardia Airport closed following collision between Air Canada plane and vehicle</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-23 07:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/23/kim-jong-un-reappointed-as-president-of-north-korea?traffic_source=rss" target="_blank">Kim Jong Un reappointed as president of North Korea</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-23 07:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de59/live/0088fb90-2681-11f1-a32b-91a6d5286fbb.jpg" alt="Plane and ground vehicle collide at New York&#x27;s LaGuardia airport halting flights" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss" target="_blank">Plane and ground vehicle collide at New York&#x27;s LaGuardia airport halting flights</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-23 07:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260323-lga-plane-2-cc-0214a-963293.jpg" alt="Pilot, co-pilot killed after Air Canada plane and vehicle collide at La Guardia Airport, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/incident-reported-plane-vehicle-new-yorks-la-guardia-airport-rcna264677" target="_blank">Pilot, co-pilot killed after Air Canada plane and vehicle collide at La Guardia Airport, sources say</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-23 05:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260323-lga-cc-1227a-e4e658.jpg" alt="Air Canada plane collides with vehicle at New York&#x27;s La Guardia Airport" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -64,42 +107,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss" target="_blank">Asia stocks slide as US and Iran threaten to escalate war</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-23 05:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/23/brothers-search-rubble-for-missing-sibling-under-tehran-rubble-after-strike?traffic_source=rss" target="_blank">Brothers search rubble for missing sibling under Tehran rubble after strike</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-23 04:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/23/immense-damage-seen-in-irans-streets-after-air-strikes?traffic_source=rss" target="_blank">Immense damage seen in Iran’s streets after air strikes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-23 03:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3270/live/4bbe7e40-265f-11f1-a935-2f8ae5ecc5e6.jpg" alt="Asia stocks slide as US and Iran threaten to intensify war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss" target="_blank">Asia stocks slide as US and Iran threaten to intensify war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-23 03:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/3/23/asian-stock-markets-plunge-amid-trumps-ultimatum-on-iran?traffic_source=rss" target="_blank">Asian stock markets plunge amid Trump’s ultimatum on Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-23 01:56</span>
             </div>
         </div>
 </div>
@@ -167,6 +174,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmacn0qv9s4du96grsqzw.png" alt="Tired of hand-editing Traefik YAML? This little tool makes route management way easier" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/baboon/tired-of-hand-editing-traefik-yaml-this-little-tool-makes-route-management-way-easier-1do6" target="_blank">Tired of hand-editing Traefik YAML? This little tool makes route management way easier</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-23 07:23</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +225,6 @@
                 <span class="title"><a href="https://dev.to/swapnil_uppin_3c823bdc459/building-a-cicd-pipeline-with-docker-jenkins-and-aws-ec2-2flp" target="_blank">Building a CI/CD Pipeline with Docker, Jenkins, and AWS EC2</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-23 02:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/spring-news-roundup-mar16-2026/en/headerimage/java-istock-image-01-1774163179981.jpg" alt="Spring News Roundup: Third Milestone Releases of Boot, Security, Integration, AI and AMQP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/spring-news-roundup-mar16-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Spring News Roundup: Third Milestone Releases of Boot, Security, Integration, AI and AMQP</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-23 02:30</span>
             </div>
         </div>
 </div>
@@ -307,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 252 |
-        🔄 Last Updated: 06:20 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 254 |
+        🔄 Last Updated: 07:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
