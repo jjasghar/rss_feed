@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-23 10:18:23 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-03-23 11:14:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, March 23, 2026 - 10:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, March 23, 2026 - 11:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +106,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/898815/samsung-quick-share-airdrop-support-galaxy-s26" target="_blank">Samsung adds native AirDrop support to Galaxy S26 devices</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-23 09:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest" target="_blank">AI influencer awards season is upon us</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-23 00:01</span>
@@ -149,20 +156,47 @@
                 <span class="time">2026-03-22 17:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/" target="_blank">Elon Musk unveils chip manufacturing plans for SpaceX and Tesla</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-22 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/it_is_margarita/it-wasnt-brave-it-was-just-tuesday-3673" target="_blank">It Wasn&#x27;t Brave. It Was Just Tuesday.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-23 11:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/apple-foundation-models-context/en/headerimage/ios-foundation-models-token-usage-1774262414205.jpeg" alt="Apple Improves Context Window Management for its Foundation Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/apple-foundation-models-context/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Apple Improves Context Window Management for its Foundation Models</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-23 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17304059/systemd-crossword" target="_blank">Systemd Crossword: Test Your Knowledge of Linux &amp;quot;ctl Commands&amp;quot;</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-23 10:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://rz01.org/eu-migration/" target="_blank">Migrating to the EU</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-23 10:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -179,42 +213,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/canonical-joins-the-rust-foundation-as-a-gold-member" target="_blank">Canonical joins the Rust Foundation as a Gold Member</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-03-23 09:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://indieweb.org/POSSE" target="_blank">POSSE – Publish on your Own Site, Syndicate Elsewhere</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-23 08:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6bbt36mmg572pljvr35j.png" alt="EKS Auto Mode: Kubernetes sin drama😝" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-espanol/eks-auto-mode-kubernetes-sin-drama-1afk" target="_blank">EKS Auto Mode: Kubernetes sin drama😝</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-23 08:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmacn0qv9s4du96grsqzw.png" alt="Tired of hand-editing Traefik YAML? This little tool makes route management way easier" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/baboon/tired-of-hand-editing-traefik-yaml-this-little-tool-makes-route-management-way-easier-1do6" target="_blank">Tired of hand-editing Traefik YAML? This little tool makes route management way easier</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-23 07:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/basil_kubarev_0fc48181446/cognitive-prosthesis-how-to-turn-ai-from-a-tool-into-a-co-author-of-complex-systems-458b" target="_blank">Cognitive Prosthesis: How to Turn AI from a Tool into a Co-Author of Complex Systems</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-23 05:20</span>
             </div>
         </div>
 </div>
@@ -313,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 10:18 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 255 |
+        🔄 Last Updated: 11:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
