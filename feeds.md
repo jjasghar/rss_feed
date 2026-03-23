@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-23 22:04:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-23 23:06:21 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, March 23, 2026 - 22:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, March 23, 2026 - 23:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -68,6 +65,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774296410569_now_brk_duffy_reducedcap_260323_S3_1920x1080-1n14bp.jpg" alt="LaGuardia remains at reduced capacity after collision, Transportation Secretary Duffy says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/laguardia-remains-at-reduced-capacity-after-collision-transportation-secretary-duffy-says-259887685751" target="_blank">LaGuardia remains at reduced capacity after collision, Transportation Secretary Duffy says</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-23 20:06</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -94,20 +100,29 @@
                 <span class="time">2026-03-23 18:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/23/nx-s1-5757505/kennedy-center-trump-lawsuit" target="_blank">8 architecture and culture groups sue Trump and the Kennedy Center board</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-23 18:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/23/despite-bitter-rivalry-kalshi-polymarket-ceos-back-35m-predictions-markets-vc-fund/" target="_blank">Despite bitter rivalry, Kalshi, Polymarket CEOs back $35M predictions markets VC fund</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-23 22:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/899172/fcc-foreign-router-ban" target="_blank">The US government just banned consumer routers made outside the US</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-23 22:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262971243-500x500.jpg" alt="Trump&#x27;s MAHA pick for surgeon general flounders amid GOP doubts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,24 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/" target="_blank">A Billionaire-Backed Startup Wants to Grow &#x27;Organ Sacks&#x27; to Replace Animal Testing</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-03-23 19:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/23/russian-authorities-block-paywall-removal-site-archive-today/" target="_blank">Russian authorities block paywall removal site Archive.today</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-23 19:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/turbotax-display-500x500-1774290451.jpg" alt="Intuit beats FTC in court, ending restrictions on &quot;free&quot; TurboTax ads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/intuit-beats-ftc-in-court-ending-restrictions-on-free-turbotax-ads/" target="_blank">Intuit beats FTC in court, ending restrictions on &quot;free&quot; TurboTax ads</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-23 19:05</span>
             </div>
         </div>
 </div>
@@ -250,6 +247,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/05/f5cc9782a918a1290f428db2be49b9dd-1024x575.jpg" alt="Gas Prices Are So High That DoorDash Is Providing ‘Emergency Relief’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/gas-prices-are-so-high-that-doordash-is-providing-emergency-relief-2000737114" target="_blank">Gas Prices Are So High That DoorDash Is Providing ‘Emergency Relief’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-23 22:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/peaksteam-1280x720.jpg" alt="Fortnite Adds Peak Skins That Cost Twice As Much As The Indie Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fortnite-added-peak-skins-that-cost-twice-as-much-as-the-actual-indie-game-2000681185" target="_blank">Fortnite Adds Peak Skins That Cost Twice As Much As The Indie Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-23 22:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/fortnite-chappell-roan-1280x720.jpg" alt="The Latest Chappell Roan Controversy Is Nonsense, But At Least The Memes Are Funny" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -283,24 +298,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/23/guy-built-an-e-ink-subway-display-so-he-didnt-have-to-keep-unlocking-his-phone.html" target="_blank">Guy built an e-ink subway display so he didn&#x27;t have to keep unlocking his phone</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-23 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/High-res-sonar-image-of-Komsomolets-Soviet-Sub-on-the-seafloor-of-the-Norwegian-Sea-1280x853.jpg" alt="Sunken Soviet Submarine Is Quietly Leaking Radiation Decades Later, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sunken-soviet-submarine-is-quietly-leaking-radiation-decades-later-study-finds-2000737006" target="_blank">Sunken Soviet Submarine Is Quietly Leaking Radiation Decades Later, Study Finds</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-23 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JSHGRYKSYYSJ4010QWY5S396/hero-image.png" alt="You Can Get a Kindle Colorsoft for Only $10 More Than a Paperwhite During Amazon&#x27;s Early Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/kindle-colorsoft-amazon-early-big-spring-sale-2026?utm_medium=RSS" target="_blank">You Can Get a Kindle Colorsoft for Only $10 More Than a Paperwhite During Amazon&#x27;s Early Big Spring Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-23 19:00</span>
             </div>
         </div>
 </div>
@@ -349,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 22:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 23:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
