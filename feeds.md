@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-23 09:17:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-23 10:18:23 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, March 23, 2026 - 09:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, March 23, 2026 - 10:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/laguardia-main_1774245675769_hpMain_4x3t_384.jpg" alt="LaGuardia Airport shut down after plane collides with vehicle, killing 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/laguardia-airport-closed-collision-air-canada-plane-airport/story?id=131315551" target="_blank">LaGuardia Airport shut down after plane collides with vehicle, killing 2</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-23 10:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b500/live/620c2290-268e-11f1-b297-95b0a0a8331e.jpg" alt="Two dead after plane and ground vehicle collide at New York&#x27;s LaGuardia Airport" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +97,6 @@
                 <span class="title"><a href="https://abcnews.com/US/laguardia-airport-closed-collision-air-canada-plane-airport/story?id=131315551" target="_blank">LaGuardia Airport closed following collision between Air Canada plane and vehicle</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-23 07:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/23/kim-jong-un-reappointed-as-president-of-north-korea?traffic_source=rss" target="_blank">Kim Jong Un reappointed as president of North Korea</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-23 07:08</span>
             </div>
         </div>
 </div>
@@ -167,6 +164,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Arm-Ethos-U85-Mesa-26.1" target="_blank">Arm Ethos U85 NPU Now Supported By EthosU Gallium3D Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-23 09:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/canonical-joins-the-rust-foundation-as-a-gold-member" target="_blank">Canonical joins the Rust Foundation as a Gold Member</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-03-23 09:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://indieweb.org/POSSE" target="_blank">POSSE – Publish on your Own Site, Syndicate Elsewhere</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-23 08:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6bbt36mmg572pljvr35j.png" alt="EKS Auto Mode: Kubernetes sin drama😝" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -193,38 +217,20 @@
                 <span class="time">2026-03-23 05:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmrjukzjna0v1jz9dyb0l.png" alt="The New AI Agent Primitive: Why Policy Needs Its Own Language (And Why YAML and Rego Fall Short)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/amjad-fatmi/the-new-ai-agent-primitive-why-policy-needs-its-own-language-and-why-yaml-and-rego-fall-short-1gdd" target="_blank">The New AI Agent Primitive: Why Policy Needs Its Own Language (And Why YAML and Rego Fall Short)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-23 04:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F68rz007nq0fnjk15kw4k.png" alt="OSS License Deep Dive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kanywst/oss-license-deep-dive-245o" target="_blank">OSS License Deep Dive</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-23 03:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/yaru-folder-icons-constrast-change.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04’s new folder icons undergo another revamp" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ubuntu-new-yaru-folders-contrast-bump" target="_blank">Ubuntu 26.04’s new folder icons undergo another revamp</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-23 03:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/samsung-gizmodo-1280x853.jpg" alt="Samsung Bespoke AI Refrigerator Wants to Take the Stress Out of the Kitchen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/samsung-bespoke-ai-refrigerator-wants-to-take-the-stress-out-of-the-kitchen-2000735929" target="_blank">Samsung Bespoke AI Refrigerator Wants to Take the Stress Out of the Kitchen</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-23 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/xenon.jpg" alt="New Zealand Man Has Pinball Machines Confiscated After Drug Raid On Home Arcade" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +276,6 @@
                 <span class="time">2026-03-22 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Project-Hail-Mary-4dx-poster-crop-1280x853.jpg" alt="Open Channel: Tell Us What You Thought of ‘Project Hail Mary’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/project-hail-mary-io9-open-channel-2000736526" target="_blank">Open Channel: Tell Us What You Thought of ‘Project Hail Mary’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-22 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 254 |
-        🔄 Last Updated: 09:18 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 255 |
+        🔄 Last Updated: 10:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
