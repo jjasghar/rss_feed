@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-03-23 17:15:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-23 18:12:48 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, March 23, 2026 - 17:15 UTC</div>
+    <div class="newspaper-date">Monday, March 23, 2026 - 18:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-2-gty-gmh-260323_1774274047334_hpMain_4x3t_384.jpg" alt="Trump says US and Iran have &#x27;major points of agreement,&#x27; including no nuclear weapons" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-us-iran-major-points-agreement-including-nuclear/story?id=131323034" target="_blank">Trump says US and Iran have &#x27;major points of agreement,&#x27; including no nuclear weapons</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-23 17:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-260323_1774274047824_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran denies any talks with US following Trump&#x27;s remarks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -60,6 +66,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss" target="_blank">Oil falls and shares rebound after Trump says talks have been held to end war</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-23 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-lockheed-martin_7201230.jpg?20260323164647" alt="Military plane &#x27;carrying 110 soldiers&#x27; involved in accident in Colombia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/military-plane-carrying-110-soldiers-involved-in-accident-in-colombia-13523548" target="_blank">Military plane &#x27;carrying 110 soldiers&#x27; involved in accident in Colombia</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-23 16:20</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +95,20 @@
                 <span class="time">2026-03-23 15:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/23/nx-s1-5757440/supreme-court-press-freedom" target="_blank">Supreme Court declines to review press freedom case</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-23 14:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/23/nx-s1-5756465/voice-of-america-staffers-sue-alleging-kari-lake-put-on-propaganda" target="_blank">Voice of America staffers sue, alleging Kari Lake put on propaganda</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-23 13:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/" target="_blank">Apple sets June date for WWDC 2026, teasing “AI advancements”</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-23 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +154,20 @@
                 <span class="time">2026-03-23 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/KSC-04pd2074orig-500x500.jpg" alt="A unique NASA satellite is falling out of orbit—this team is trying to rescue it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/03/a-unique-nasa-satellite-is-falling-out-of-orbit-this-team-is-trying-to-rescue-it/" target="_blank">A unique NASA satellite is falling out of orbit—this team is trying to rescue it</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-23 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/XMMS-AI-Port-To-PipeWire-GTK4" target="_blank">XMMS Codebase Brought Back To Life By AI With GTK4 + GStreamer/PipeWire Port</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-23 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18912332&w=600" alt="Why AI Agents Are the New Backbone of Software Quality" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -181,39 +187,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/03/qcon-ai-at-the-edge/en/headerimage/generatedHeaderImage-1774254854744.jpg" alt="QCon London 2026: Running AI at the Edge - Running Real Workloads Directly in the Browser" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/qcon-ai-at-the-edge/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: Running AI at the Edge - Running Real Workloads Directly in the Browser</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-23 16:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/" target="_blank">GitHub expands application security coverage with AI‑powered detections</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-03-23 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917353&w=600" alt="Shrink a Bloated Git Repository and Optimize Pack Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/shrink-git-repo-optimize-pack-files" target="_blank">Shrink a Bloated Git Repository and Optimize Pack Files</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-23 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-fred-panther-lake" target="_blank">Intel FRED Can Yield Greater Performance - FRED Benchmarks On Panther Lake</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-23 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17304579/systemd-fork-strips-out-age-verification" target="_blank">Someone Forked Systemd to Strip Out Its Age Verification Support</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-23 15:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917344&w=600" alt="Securing the Software Supply Chain in the Age of AI Agent Swarms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/securing-software-supply-chain-ai-agents" target="_blank">Securing the Software Supply Chain in the Age of AI Agent Swarms</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-23 15:00</span>
             </div>
         </div>
 </div>
@@ -244,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/ios26-liquid-glass-11-1280x853.jpg" alt="Why WWDC 2026 Will Be Apple’s Most Important Developer Conference in Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/why-wwdc-2026-will-be-apples-most-important-developer-conference-in-years-2000736972" target="_blank">Why WWDC 2026 Will Be Apple’s Most Important Developer Conference in Years</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-23 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KMDSNQ4PQFM7JR3QG6EGX9J4/hero-image.png" alt="These Apps Can Help You Find the Cheapest Gas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/use-these-apps-to-find-the-cheapest-gas-near-you?utm_medium=RSS" target="_blank">These Apps Can Help You Find the Cheapest Gas</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-23 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/starfleet-academy-chancellor-ake-1280x853.jpg" alt="‘Starfleet Academy’ Will End After Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +293,6 @@
                 <span class="title"><a href="https://kotaku.com/pokemon-cards-scalpers-resellers-fight-choke-acme-video-2000681085" target="_blank">Grown Men Almost Choke Each Other Out Over Pokémon Cards</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-23 16:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/springhorror-1280x853.jpg" alt="8 Horror Movies to Welcome Spring’s Arrival" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spring-horror-movies-streaming-2000736347" target="_blank">8 Horror Movies to Welcome Spring’s Arrival</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-23 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Dell-XPS-14-2026-16-1280x853.jpg" alt="LG Claims Its Latest Laptop Displays Save Nearly 50% Battery Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/lg-claims-its-latest-laptop-displays-save-nearly-50-battery-life-2000736813" target="_blank">LG Claims Its Latest Laptop Displays Save Nearly 50% Battery Life</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-23 15:10</span>
             </div>
         </div>
 </div>
@@ -335,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 17:15 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 18:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
