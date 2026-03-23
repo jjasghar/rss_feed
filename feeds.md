@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-23 15:18:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-23 16:15:53 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, March 23, 2026 - 15:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, March 23, 2026 - 16:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/23/which-countries-have-strategic-oil-reserves-and-how-much?traffic_source=rss" target="_blank">Which countries have strategic oil reserves – and how much?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-23 15:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +97,20 @@
                 <span class="time">2026-03-23 11:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/laguardia-main_1774245675769_hpMain_4x3t_384.jpg" alt="LaGuardia Airport shut down after plane collides with vehicle, killing 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/laguardia-airport-closed-collision-air-canada-plane-airport/story?id=131315551" target="_blank">LaGuardia Airport shut down after plane collides with vehicle, killing 2</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-23 10:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/898918/project-hail-mary-andy-weir-writing-advice-interview" target="_blank">Some writing advice from Project Hail Mary’s Andy Weir</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-23 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/01/ai_lawsuit_hero-500x500.jpg" alt="AI is beginning to change the business of law" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +156,29 @@
                 <span class="time">2026-03-23 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/898815/samsung-quick-share-airdrop-support-galaxy-s26" target="_blank">Samsung adds native AirDrop support to Galaxy S26 devices</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-23 09:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917353&w=600" alt="Shrink a Bloated Git Repository and Optimize Pack Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/shrink-git-repo-optimize-pack-files" target="_blank">Shrink a Bloated Git Repository and Optimize Pack Files</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-23 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-fred-panther-lake" target="_blank">Intel FRED Can Yield Greater Performance - FRED Benchmarks On Panther Lake</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-23 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,37 +200,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://skylarbpayne.com/posts/dspy-engineering-patterns/" target="_blank">If Dspy is so great, why isn&#x27;t anyone using it?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-23 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pielounw/run-llms-locally-in-flutter-apps-211p" target="_blank">Run LLMs locally in Flutter apps</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-23 14:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mozilla-Firefox-149" target="_blank">Firefox 149 Now Available With XDG Portal File Picker, Rust-Based JPEG-XL Decoder</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-23 14:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/netflix-graph-abstraction/en/headerimage/netflixgrapharchitecure-1773194590219.jpeg" alt="Inside Netflix’s Graph Abstraction: Handling 650TB of Graph Data in Milliseconds Globally" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/netflix-graph-abstraction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Inside Netflix’s Graph Abstraction: Handling 650TB of Graph Data in Milliseconds Globally</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-23 13:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep6-46po" target="_blank">Santa Augmentcode Intent Ep.6</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-23 13:23</span>
             </div>
         </div>
 </div>
@@ -227,6 +220,15 @@
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/" target="_blank">‘CanisterWorm’ Springs Wiper Attack Targeting Iran</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-03-23 15:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -241,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/charizardfight.jpg" alt="Grown Men Almost Choke Each Other Out Over Pokémon Cards" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-cards-scalpers-resellers-fight-choke-acme-video-2000681085" target="_blank">Grown Men Almost Choke Each Other Out Over Pokémon Cards</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-23 16:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/springhorror-1280x853.jpg" alt="8 Horror Movies to Welcome Spring’s Arrival" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/spring-horror-movies-streaming-2000736347" target="_blank">8 Horror Movies to Welcome Spring’s Arrival</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-23 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/Dell-XPS-14-2026-16-1280x853.jpg" alt="LG Claims Its Latest Laptop Displays Save Nearly 50% Battery Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,24 +297,6 @@
                 <span class="time">2026-03-23 13:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/For-All-Mankind-S5-Review-1280x853.jpg" alt="‘For All Mankind’ Season 5 Beautifully Sets the Series Up for the Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/for-all-mankind-season-5-beautifully-sets-the-series-up-for-the-future-2000735860" target="_blank">‘For All Mankind’ Season 5 Beautifully Sets the Series Up for the Future</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-23 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMD5SQPPX3FGJAQ9QPT8KM33/hero-image.png" alt="This 360° Action Camera Bundle Is $100 Off, Days Before Amazon&#x27;s Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/insta360-x5-essentials-action-camera-bundle-early-amazon-spring-sale-2026?utm_medium=RSS" target="_blank">This 360° Action Camera Bundle Is $100 Off, Days Before Amazon&#x27;s Spring Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-23 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,22 +320,13 @@
                 <span class="time">2026-03-23 00:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1773962220-20260322.png" alt="Saturday Morning Breakfast Cereal - Wait" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/wait-2" target="_blank">Saturday Morning Breakfast Cereal - Wait</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-03-22 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 15:19 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 16:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
