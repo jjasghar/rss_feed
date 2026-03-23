@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-23 02:58:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-23 03:58:34 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, March 23, 2026 - 02:58 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, March 23, 2026 - 03:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/23/immense-damage-seen-in-irans-streets-after-air-strikes?traffic_source=rss" target="_blank">Immense damage seen in Iran’s streets after air strikes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-23 03:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3270/live/4bbe7e40-265f-11f1-a935-2f8ae5ecc5e6.jpg" alt="Asia stocks slide as US and Iran threaten to intensify war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss" target="_blank">Asia stocks slide as US and Iran threaten to intensify war</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-23 03:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/3/23/asian-stock-markets-plunge-amid-trumps-ultimatum-on-iran?traffic_source=rss" target="_blank">Asian stock markets plunge amid Trump’s ultimatum on Iran</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-23 01:56</span>
@@ -61,39 +83,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774220871813_wnn_mbr_iran_war_latest_260322_S3_1920x1080-za0ib7.jpg" alt="Iran unswayed by Trump&#x27;s 48-hour deadline and threats to &#x27;obliterate&#x27; energy infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/iran-unswayed-by-trump-s-48-hour-deadline-and-threats-to-obliterate-energy-infrastructure-259832901951" target="_blank">Iran unswayed by Trump&#x27;s 48-hour deadline and threats to &#x27;obliterate&#x27; energy infrastructure</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-22 23:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceac/live/271df770-263a-11f1-9b0c-0d65eca391ab.jpg" alt="Starmer and Trump discuss need to reopen Hormuz Strait" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c98kdyye33no?at_medium=RSS&at_campaign=rss" target="_blank">Starmer and Trump discuss need to reopen Hormuz Strait</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-22 22:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/22/vinicius-strikes-twice-as-real-madrid-edge-atletico-3-2-in-pulsating-derby?traffic_source=rss" target="_blank">Vinicius strikes twice as Real Madrid edge Atletico 3-2 in pulsating derby</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-22 22:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/22/slovenias-freedom-movement-party-takes-narrow-election-lead-exit-poll?traffic_source=rss" target="_blank">Slovenia’s Freedom Movement Party takes narrow election lead: Exit poll</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-22 21:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/22/displaced-families-shelter-in-tents-in-beirut-amid-israeli-strikes?traffic_source=rss" target="_blank">Displaced families shelter in tents in Beirut amid Israeli strikes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-22 20:33</span>
             </div>
         </div>
 </div>
@@ -161,6 +165,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F68rz007nq0fnjk15kw4k.png" alt="OSS License Deep Dive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kanywst/oss-license-deep-dive-245o" target="_blank">OSS License Deep Dive</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-23 03:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/yaru-folder-icons-constrast-change.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04’s new folder icons undergo another revamp" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ubuntu-new-yaru-folders-contrast-bump" target="_blank">Ubuntu 26.04’s new folder icons undergo another revamp</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-23 03:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjr49zgqmmfadttfwnhvw.png" alt="Building a CI/CD Pipeline with Docker, Jenkins, and AWS EC2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -194,24 +216,6 @@
                 <span class="title"><a href="https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html" target="_blank">Rust Project Perspectives on AI</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-22 22:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc5-Released" target="_blank">Linux 7.0-rc5 Released: Linux 7.0 &quot;Starting To Calm Down&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-22 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fntn4y49ai8uja906d49b.png" alt="Building Production-Ready Multi-Tenant SaaS in Rust with Actix-web" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/chinedu/building-production-ready-multi-tenant-saas-in-rust-with-actix-web-i1h" target="_blank">Building Production-Ready Multi-Tenant SaaS in Rust with Actix-web</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-22 21:54</span>
             </div>
         </div>
 </div>
@@ -301,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 251 |
-        🔄 Last Updated: 02:58 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 252 |
+        🔄 Last Updated: 03:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
