@@ -1,29 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-03-24 18:14:47 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-24 19:21:49 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 8 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, March 24, 2026 - 18:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, March 24, 2026 - 19:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,10 +41,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/24/g-s1-114956/trump-fraud-enforcement-justice-role" target="_blank">Senate confirms Trump&#x27;s pick for new role of fraud enforcement at Justice Department</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-24 19:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-soldiers-accused-of-torturing-toddler-in-gaza?traffic_source=rss" target="_blank">Israeli soldiers accused of ‘torturing’ toddler in Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-24 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50fe/live/5001efa0-27a4-11f1-a79a-77e93010d956.jpg" alt="Iran war shows norms of international conflicts have been overturned" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gjv02g54ko?at_medium=RSS&at_campaign=rss" target="_blank">Iran war shows norms of international conflicts have been overturned</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-24 15:55</span>
             </div>
         </div>
 <div class="story">
@@ -75,29 +92,38 @@
                 <span class="time">2026-03-24 14:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/doha-debates/2026/3/24/what-if-humanity-meets-the-unknown?traffic_source=rss" target="_blank">What if humanity meets the unknown?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-24 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/24/nx-s1-5758044/bobby-pulido-congress-music-career" target="_blank">Before running for Congress, Bobby Pulido was a Tejano music icon</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-24 13:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/" target="_blank">Google TV’s new Gemini features keep fans updated on sports teams and more</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-24 19:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69c2c874bebdcbc5795fe12e/master/pass/US-Foreign-Made-Router-Ban-Gear-2222209888.jpg" alt="What You Need to Know About the Foreign-Made Router Ban in the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/us-government-foreign-made-router-ban-explained/" target="_blank">What You Need to Know About the Foreign-Made Router Ban in the US</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-24 18:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/899688/lego-game-boy-set-nintendo-handheld-kohls-deal-sale" target="_blank">The Lego Game Boy makes for a great gift, and it’s $10 off today</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-24 18:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69c2c9c37309c22a7c4f8a08/master/pass/Our-Favorite-Turntable-Is-Over-$50-Off.jpg" alt="Our Favorite Turntable Is $51 Off Before Record Store Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -125,38 +151,29 @@
                 <span class="time">2026-03-24 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/" target="_blank">Meet the former Apple designer building a new AI interface at Hark</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-24 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/899535/pokemon-champions-is-coming-to-the-nintendo-switch-on-april-8th" target="_blank">Pokémon Champions is coming to the Nintendo Switch on April 8th</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-24 15:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/24/tiktok-ads-are-about-to-get-a-tad-more-disruptive/" target="_blank">TikTok ads are about to get a tad more disruptive</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-24 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kuldeep_paul/litellm-vs-bifrost-which-ai-gateway-is-right-for-enterprise-teams-4h2f" target="_blank">LiteLLM vs Bifrost: Which AI Gateway Is Right for Enterprise Teams?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-24 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917484&w=600" alt="Building Scalable Agentic Assistants: A Graph-Based Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/scalable-agentic-ai-assistants-graph" target="_blank">Building Scalable Agentic Assistants: A Graph-Based Approach</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-24 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,24 +210,6 @@
                 <span class="time">2026-03-24 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/" target="_blank">Building AI-powered GitHub issue triage with the Copilot SDK</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-03-24 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/canonical-nvidia-kubecon-2026" target="_blank">Canonical at KubeCon Europe 2026: NVIDIA donates the GPU DRA driver to the CNCF</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-03-24 15:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +229,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KMGAM3NVYPCWGCNSWDYDNG7A/hero-image.png" alt="This New Claude Feature Can Automate Basically Everything on Your Mac, but It’s a Huge Security Risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/claude-computer-use-impressions?utm_medium=RSS" target="_blank">This New Claude Feature Can Automate Basically Everything on Your Mac, but It’s a Huge Security Risk</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-24 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K9AC15Q26CMX8JFT2EJ1KBA6/hero-image.png" alt="The Budget Apple Watch SE 3 Just Got Cheaper Ahead of Amazon&#x27;s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +283,6 @@
                 <span class="time">2026-03-24 14:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KF6VPWA9B2KS6V8NQT0Z8RVF/hero-image.png" alt="I Switched to Self-Cleaning Litter Boxes in My Home, and I Wish I&#x27;d Done It Sooner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/self-cleaning-litter-boxes-upgrade-of-the-week?utm_medium=RSS" target="_blank">I Switched to Self-Cleaning Litter Boxes in My Home, and I Wish I&#x27;d Done It Sooner</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-24 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 18:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 19:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
