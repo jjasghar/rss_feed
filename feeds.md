@@ -1,38 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-03-24 14:23:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-24 15:22:13 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, March 24, 2026 - 14:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, March 24, 2026 - 15:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +54,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9de/live/04ac3fc0-278f-11f1-8c03-f7b8fcd8cabf.jpg" alt="Reeves plans energy bill help for those &#x27;who need it most&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr516nmer5eo?at_medium=RSS&at_campaign=rss" target="_blank">Reeves plans energy bill help for those &#x27;who need it most&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-24 14:58</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/doha-debates/2026/3/24/what-if-humanity-meets-the-unknown?traffic_source=rss" target="_blank">What if humanity meets the unknown?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-24 14:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/24/nx-s1-5758044/bobby-pulido-congress-music-career" target="_blank">Before running for Congress, Bobby Pulido was a Tejano music icon</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-24 13:38</span>
             </div>
         </div>
 <div class="story">
@@ -84,29 +107,20 @@
                 <span class="time">2026-03-24 11:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/24/g-s1-114942/up-first-newsletter-iran-war-trump-ice-tsa-airports-markwayne-mullin-dhs" target="_blank">Senate confirms Sen. Mullin as DHS secretary. And, Iran denies U.S. talks to end war</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-24 11:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/24/nx-s1-5759000/iran-war-talks" target="_blank">Iran fires more missiles at Israel,  dismisses Trump&#x27;s talk as &quot;fake news&quot;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-24 11:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/899535/pokemon-champions-is-coming-to-the-nintendo-switch-on-april-8th" target="_blank">Pokémon Champions is coming to the Nintendo Switch on April 8th</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-24 15:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +166,47 @@
                 <span class="time">2026-03-24 05:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/23/emil-michael-now-a-senior-pentagon-official-says-hell-never-forgive-uber-investors-who-ousted-him-and-kalanick/" target="_blank">Emil Michael, now a senior Pentagon official, says he’ll never forgive Uber investors who ousted him and Kalanick</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-23 23:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/canonical-nvidia-kubecon-2026" target="_blank">Canonical at KubeCon Europe 2026: NVIDIA donates the GPU DRA driver to the CNCF</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-03-24 15:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/_95a3e57463e6442feacd0/your-ai-agent-has-amnesia-heres-how-to-fix-it-mcp-mem0-qdrant-4905" target="_blank">Your AI Agent Has Amnesia — Here&#x27;s How to Fix It (MCP + Mem0 + Qdrant)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-24 15:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917401&w=600" alt="The Phantom Write Problem: Why Your Idempotency Implementation Is Silently Losing Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/phantom-write-idempotency-data-loss" target="_blank">The Phantom Write Problem: Why Your Idempotency Implementation Is Silently Losing Data</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-24 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/popos-2404-ubuntu-2604" target="_blank">Pop!_OS 24.04 vs. Ubuntu 24.04 LTS vs. Ubuntu 26.04 Development Benchmarks</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-24 14:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -178,46 +219,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Krita-6.0-Released" target="_blank">Krita 6.0 Released With Qt6 Port &amp; Better Wayland Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-24 13:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18896281&w=600" alt="Imprisoning the Panic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/imprisoning-the-panic" target="_blank">Imprisoning the Panic</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-24 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/BerriAI/litellm/issues/24512" target="_blank">LiteLLM Python package compromised by supply-chain attack</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-24 12:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/revenium-ai-tooling-costs/en/headerimage/generatedHeaderImage-1774084802770.jpg" alt="Revenium Unveils Tool Registry to Expose the True Cost of AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/revenium-ai-tooling-costs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Revenium Unveils Tool Registry to Expose the True Cost of AI Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-24 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/reneza/ai-skills-are-the-new-boilerplate-they-solve-almost-nothing-4obo" target="_blank">AI Skills Are the New Boilerplate. They Solve Almost Nothing.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-24 11:13</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://charlesleifer.com/blog/slopification-and-its-discontents/" target="_blank">Slopification and its Discontents</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-24 13:32</span>
             </div>
         </div>
 </div>
@@ -308,6 +313,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1773971979-20260324.png" alt="Saturday Morning Breakfast Cereal - Phi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/phi" target="_blank">Saturday Morning Breakfast Cereal - Phi</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-24 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -325,22 +339,13 @@
                 <span class="time">2026-03-24 01:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1773962272-20260323 - Edit.png" alt="Saturday Morning Breakfast Cereal - Nature" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/nature-4" target="_blank">Saturday Morning Breakfast Cereal - Nature</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-03-23 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 14:23 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 15:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
