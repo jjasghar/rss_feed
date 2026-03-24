@@ -1,28 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-24 19:21:49 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-24 21:09:59 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 8 new posts out of 20 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, March 24, 2026 - 19:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, March 24, 2026 - 21:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/24/nx-s1-5746626/cuba-doctors-mission-blockade" target="_blank">Cuba sends doctors on medical missions. The U.S. isn&#x27;t a fan</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-24 19:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,20 +101,20 @@
                 <span class="time">2026-03-24 15:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9de/live/04ac3fc0-278f-11f1-8c03-f7b8fcd8cabf.jpg" alt="Reeves plans energy bill help for those &#x27;who need it most&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr516nmer5eo?at_medium=RSS&at_campaign=rss" target="_blank">Reeves plans energy bill help for those &#x27;who need it most&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-24 14:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt" target="_blank">OpenAI just gave up on its Sora AI video generator</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-24 21:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,20 +160,29 @@
                 <span class="time">2026-03-24 17:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c1dcea9b0c01414434424c/master/pass/Chip-Design-Firm-Arm-Making-Own-AI-CPU-Business-2250850574.jpg" alt="Arm Is Now Making Its Own Chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/" target="_blank">Arm Is Now Making Its Own Chips</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-24 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.githubstatus.com/incidents/kp06czybl7dw" target="_blank">GitHub is once again down</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-24 20:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917491&w=600" alt="Agent-of-Agents Pattern: Enhancing Software Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/agent-of-agents-enhancing-software-testing" target="_blank">Agent-of-Agents Pattern: Enhancing Software Testing</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-24 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,24 +219,6 @@
                 <span class="time">2026-03-24 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sharmi_sabari_09/-sorted-squares-of-a-sorted-array-java-efficient-two-pointer-approach-2bp5" target="_blank"># Sorted Squares of a Sorted Array (Java) – Efficient Two-Pointer Approach</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-24 17:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18918839&w=600" alt="Data-Driven API Testing in Java With REST Assured and TestNG: Part 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/java-api-testing-rest-assured-testng-part-2" target="_blank">Data-Driven API Testing in Java With REST Assured and TestNG: Part 2</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-24 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/sperm-whale-headbutting-video-top-image-1280x853.jpg" alt="Watch First Video Evidence of Sperm Whales Headbutting Each Other" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/watch-first-video-evidence-of-sperm-whales-headbutting-each-other-2000737607" target="_blank">Watch First Video Evidence of Sperm Whales Headbutting Each Other</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-24 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KMGH5V7BCAVATMR0BGBCEGVR/hero-image.png" alt="The Newest 11-Inch Apple iPad Is $150 Off Ahead of Amazon&#x27;s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-11-inch-ipad-deal-amazon-early-big-spring-sale-2026?utm_medium=RSS" target="_blank">The Newest 11-Inch Apple iPad Is $150 Off Ahead of Amazon&#x27;s Big Spring Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-24 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KMGAM3NVYPCWGCNSWDYDNG7A/hero-image.png" alt="This New Claude Feature Can Automate Basically Everything on Your Mac, but It’s a Huge Security Risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,24 +290,6 @@
                 <span class="title"><a href="https://gizmodo.com/elon-musk-will-have-to-face-the-music-in-lawsuit-over-doges-government-overreach-2000737413" target="_blank">Elon Musk Will Have to Face the Music in Lawsuit Over DOGE’s Government Overreach</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-24 16:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMG6DK8G2GXZX4TB9CG5P62H/hero-image.jpg" alt="This Govee Smart Floor Lamp Is 25% Off Ahead of Amazon’s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/govee-smart-floor-lamp-early-amazon-spring-sale-2026?utm_medium=RSS" target="_blank">This Govee Smart Floor Lamp Is 25% Off Ahead of Amazon’s Big Spring Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-24 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Asus-ROG-Swift-OLED-PG32UCDM-Gen-3-review-01-1280x853.jpg" alt="Asus ROG’s Massive Swift OLED Gaming Monitor Epitomizes Excess in the Best Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/asus-rogs-massive-swift-oled-gaming-monitor-epitomizes-excess-in-the-best-way-2000736291" target="_blank">Asus ROG’s Massive Swift OLED Gaming Monitor Epitomizes Excess in the Best Way</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-24 14:15</span>
             </div>
         </div>
 </div>
@@ -320,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 19:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 21:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
