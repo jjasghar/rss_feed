@@ -1,30 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-03-24 10:14:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-03-24 11:14:36 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Generated 11 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, March 24, 2026 - 10:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, March 24, 2026 - 11:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +54,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/24/nx-s1-5759000/iran-war-talks" target="_blank">Iran fires more missiles at Israel,  dismisses Trump&#x27;s talk as &quot;fake news&quot;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-24 11:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Tel-Aviv-damage-DB-260324_1774337006662_hpMain_4x3t_384.jpg" alt="Iran live updates: Iranian missiles damage Tel Aviv amid reported peace talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431" target="_blank">Iran live updates: Iranian missiles damage Tel Aviv amid reported peace talks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-24 11:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2026/3/24/accountability-for-international-humanitarian-law-is-a-thing-of-the?traffic_source=rss" target="_blank">Accountability for international humanitarian law is a ‘thing of the past’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-24 10:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Tel-Aviv-damage-DB-260324_1774337006662_hpMain_4x3t_384.jpg" alt="Iran live updates: Damage in Tel Aviv region after Iranian attack, authorities say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,38 +108,29 @@
                 <span class="time">2026-03-24 07:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/24/g-s1-114924/at-least-66-killed-in-military-plane-crash-in-colombia-head-of-armed-forces-says" target="_blank">At least 66 killed in military plane crash in Colombia, head of armed forces says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-24 05:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/24/us-markets-surge-after-trump-announces-hes-postponing-strikes-on-iran?traffic_source=rss" target="_blank">US markets surge after Trump announces he’s postponing strikes on Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-24 04:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/24/nx-s1-5757550/abortion-telemedicine-travel-mifepristone-misoprostol" target="_blank">Despite state bans and restrictions, the number of abortions in the U.S. holds steady</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-24 04:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/space-datacenter-analysis-two-500x500.jpg" alt="Orbital data centers, part 1: There’s no way this is economically viable, right?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/03/orbital-data-centers-part-1-theres-no-way-this-is-economically-viable-right/" target="_blank">Orbital data centers, part 1: There’s no way this is economically viable, right?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-24 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69c1af3c502f2103cb899d51/master/pass/Translate-Apple-AirPods-Pro-3-hero-250909-Gear.jpg" alt="How to Use Apple’s Live Translation on Your AirPods" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/apple-live-translation-airpods/" target="_blank">How to Use Apple’s Live Translation on Your AirPods</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-24 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,29 +167,38 @@
                 <span class="time">2026-03-23 22:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/899172/fcc-foreign-router-ban" target="_blank">The US government just banned consumer routers made outside the US</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-23 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262971243-500x500.jpg" alt="Trump&#x27;s MAHA pick for surgeon general flounders amid GOP doubts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/03/trumps-maha-pick-for-surgeon-general-flounders-amid-gop-doubts/" target="_blank">Trump&#x27;s MAHA pick for surgeon general flounders amid GOP doubts</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-23 21:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/reneza/ai-skills-are-the-new-boilerplate-they-solve-almost-nothing-4obo" target="_blank">AI Skills Are the New Boilerplate. They Solve Almost Nothing.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-24 11:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Multi-Battery-HID" target="_blank">Linux 7.1 To Overcome Reporting Limitation For Multiple Batteries Per HID Device</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-24 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/ethical-ai-problem/en/headerimage/generatedHeaderImage-1774295585539.jpg" alt="QCon London 2026: Ethical AI Is an Engineering Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/ethical-ai-problem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: Ethical AI Is an Engineering Problem</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-24 10:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -177,39 +218,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/articles/adopting-swiftui-at-scale/en/headerimage/swiftui-at-consumer-scale-lessons-from-adopting-it-with-50-million-users-header-1773911055159.jpg" alt="Article: Lessons from Adopting SwiftUI in an App with 50 Million Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/adopting-swiftui-at-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Lessons from Adopting SwiftUI in an App with 50 Million Users</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-24 09:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/03/24/multi-stage-attacks-are-the-final-fantasy-bosses-of-security/" target="_blank">Multi-stage attacks are the Final Fantasy bosses of security</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-03-24 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/0012303/i-replaced-a-200month-ai-training-data-pipeline-with-50-lines-of-python-27f2" target="_blank">I Replaced a $200/Month AI Training Data Pipeline with 50 Lines of Python</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-24 07:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/jpakkane/pystd" target="_blank">pystd: A self-written C++ standard library</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-24 06:28</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/" target="_blank">Microsoft&#x27;s &quot;Fix&quot; for Windows 11: Flowers After the Beating</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-24 09:36</span>
             </div>
         </div>
 </div>
@@ -220,19 +234,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/" target="_blank">‘CanisterWorm’ Springs Wiper Attack Targeting Iran</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-03-23 15:43</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/team-mirai-and-democracy.html" target="_blank">Team Mirai and Democracy</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-03-24 11:03</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/microsoft-xbox-hacked.html" target="_blank">Microsoft Xbox One Hacked</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-03-23 11:01</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/" target="_blank">‘CanisterWorm’ Springs Wiper Attack Targeting Iran</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-03-23 15:43</span>
             </div>
         </div>
 </div>
@@ -331,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 10:14 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 11:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
