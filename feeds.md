@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-24 05:27:18 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-24 06:18:31 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, March 24, 2026 - 05:27 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, March 24, 2026 - 06:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/24/g-s1-114924/at-least-66-killed-in-military-plane-crash-in-colombia-head-of-armed-forces-says" target="_blank">At least 66 killed in military plane crash in Colombia, head of armed forces says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-24 05:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +101,20 @@
                 <span class="time">2026-03-24 00:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260319-markwayne-mullin-vl-416p-b6fbf1.jpg" alt="Senate confirms Markwayne Mullin to be DHS secretary, replacing Kristi Noem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/senate-confirms-markwayne-mullin-dhs-secretary-replacing-kristi-noem-rcna264329" target="_blank">Senate confirms Markwayne Mullin to be DHS secretary, replacing Kristi Noem</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-24 00:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/23/delve-halts-demos-insight-partners-scrubs-investment-post-amid-fake-compliance-allegations/" target="_blank">Delve halts demos, Insight Partners scrubs investment post amid ‘fake compliance’ allegations</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-24 05:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +160,29 @@
                 <span class="time">2026-03-23 21:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/23/someone-has-publicly-leaked-an-exploit-kit-that-can-hack-millions-of-iphones/" target="_blank">Someone has publicly leaked an exploit kit that can hack millions of iPhones</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-23 20:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/03/24/multi-stage-attacks-are-the-final-fantasy-bosses-of-security/" target="_blank">Multi-stage attacks are the Final Fantasy bosses of security</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-03-24 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/firefox-149-release.webp?resize=406%2C232&amp;ssl=1" alt="Firefox 149 brings free VPN, tab splits and better Linux integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/firefox-149-released-tab-split-free-vpn" target="_blank">Firefox 149 brings free VPN, tab splits and better Linux integration</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-24 05:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1y2ukhudkcctlu09n0er.png" alt="Bypassing Attestation Logic in Cairo: A Starknet Security Case Study" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GTK3-Annual-Release-Cadence" target="_blank">GTK3 Toolkit Winding Down To One Release Per Year</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-24 00:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8rkky6k9d3exnckajm36.png" alt="I built a load tester with an AI diagnosis layer—because no existing tool does both" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kkartha31/i-built-a-load-tester-with-an-ai-diagnosis-layer-because-no-existing-tool-does-both-2opf" target="_blank">I built a load tester with an AI diagnosis layer—because no existing tool does both</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-24 00:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/andreasjansson/win-3.1-backgrounds" target="_blank">Windows 3.1 tiled background .bmp archive</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-23 22:52</span>
             </div>
         </div>
 </div>
@@ -346,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 05:27 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 258 |
+        🔄 Last Updated: 06:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
