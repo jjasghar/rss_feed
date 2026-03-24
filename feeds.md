@@ -1,34 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-03-24 17:18:31 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-24 18:14:47 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, March 24, 2026 - 17:18 UTC</div>
+    <div class="newspaper-date">Tuesday, March 24, 2026 - 18:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-soldiers-accused-of-torturing-toddler-in-gaza?traffic_source=rss" target="_blank">Israeli soldiers accused of ‘torturing’ toddler in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-24 17:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8736/live/ddf8c990-278c-11f1-8c03-f7b8fcd8cabf.jpg" alt="Iran war shows norms of international conflicts have been upended" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +93,20 @@
                 <span class="time">2026-03-24 13:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcfe/live/f3b46c10-22a2-11f1-a79a-77e93010d956.jpg" alt="Israel says it will take control of large buffer zone in southern Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy91j9qwp4do?at_medium=RSS&at_campaign=rss" target="_blank">Israel says it will take control of large buffer zone in southern Lebanon</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-24 12:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69c2c9c37309c22a7c4f8a08/master/pass/Our-Favorite-Turntable-Is-Over-$50-Off.jpg" alt="Our Favorite Turntable Is $51 Off Before Record Store Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/atlp120x-deal-326/" target="_blank">Our Favorite Turntable Is $51 Off Before Record Store Day</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-24 17:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +152,29 @@
                 <span class="time">2026-03-24 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c191b2a6ab4acf4d3674ef/master/pass/Review--Clear-Drop-Soft-Plastic-Compactor-(SPC).jpg" alt="Clear Drop Soft Plastic Compactor Review: Eco Experiment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/clear-drop-soft-plastic-compactor/" target="_blank">Clear Drop Soft Plastic Compactor Review: Eco Experiment</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-24 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Fellowship-Program" target="_blank">GNOME Foundation Announces Fellowship Program</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-24 18:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917456&w=600" alt="Robust Network Layer in Swift via Clean Architecture Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/robust-swift-network-layer-clean-architecture" target="_blank">Robust Network Layer in Swift via Clean Architecture Approach</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-24 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +209,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/canonical-nvidia-kubecon-2026" target="_blank">Canonical at KubeCon Europe 2026: NVIDIA donates the GPU DRA driver to the CNCF</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-03-24 15:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/_95a3e57463e6442feacd0/your-ai-agent-has-amnesia-heres-how-to-fix-it-mcp-mem0-qdrant-4905" target="_blank">Your AI Agent Has Amnesia — Here&#x27;s How to Fix It (MCP + Mem0 + Qdrant)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-24 15:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917401&w=600" alt="The Phantom Write Problem: Why Your Idempotency Implementation Is Silently Losing Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/phantom-write-idempotency-data-loss" target="_blank">The Phantom Write Problem: Why Your Idempotency Implementation Is Silently Losing Data</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-24 15:00</span>
             </div>
         </div>
 </div>
@@ -326,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 17:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 18:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
