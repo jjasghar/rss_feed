@@ -1,30 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-03-24 09:15:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-24 10:14:31 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, March 24, 2026 - 09:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, March 24, 2026 - 10:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -159,6 +159,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Open-Source-KubeCon-2026" target="_blank">NVIDIA Talks Up &quot;Expanding The Open-Source Horizon&quot; Around AI &amp; Kubernetes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-24 09:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/devex-highlights/en/mediumimage/nicole-forsgren-medium-1773152492761.jpg" alt="Presentation: From Friction to Flow: How Great DevEx Makes Everything Awesome" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/devex-highlights/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: From Friction to Flow: How Great DevEx Makes Everything Awesome</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-24 09:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/articles/adopting-swiftui-at-scale/en/headerimage/swiftui-at-consumer-scale-lessons-from-adopting-it-with-50-million-users-header-1773911055159.jpg" alt="Article: Lessons from Adopting SwiftUI in an App with 50 Million Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -192,24 +210,6 @@
                 <span class="title"><a href="https://github.com/jpakkane/pystd" target="_blank">pystd: A self-written C++ standard library</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-03-24 06:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/firefox-149-release.webp?resize=406%2C232&amp;ssl=1" alt="Firefox 149 brings free VPN, tab splits and better Linux integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/firefox-149-released-tab-split-free-vpn" target="_blank">Firefox 149 brings free VPN, tab splits and better Linux integration</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-24 05:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1y2ukhudkcctlu09n0er.png" alt="Bypassing Attestation Logic in Cairo: A Starknet Security Case Study" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rdin777/bypassing-attestation-logic-in-cairo-a-starknet-security-case-study-2neo" target="_blank">Bypassing Attestation Logic in Cairo: A Starknet Security Case Study</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-24 05:17</span>
             </div>
         </div>
 </div>
@@ -331,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 09:15 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 10:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
