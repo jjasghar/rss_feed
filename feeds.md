@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-03-24 08:11:17 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-24 09:15:21 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 1 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, March 24, 2026 - 08:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, March 24, 2026 - 09:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -165,6 +159,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/articles/adopting-swiftui-at-scale/en/headerimage/swiftui-at-consumer-scale-lessons-from-adopting-it-with-50-million-users-header-1773911055159.jpg" alt="Article: Lessons from Adopting SwiftUI in an App with 50 Million Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/adopting-swiftui-at-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Lessons from Adopting SwiftUI in an App with 50 Million Users</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-24 09:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
@@ -207,15 +210,6 @@
                 <span class="title"><a href="https://dev.to/rdin777/bypassing-attestation-logic-in-cairo-a-starknet-security-case-study-2neo" target="_blank">Bypassing Attestation Logic in Cairo: A Starknet Security Case Study</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-24 05:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9lgbd3l2lqtow7279rvs.png" alt="33 LangChain Alternatives That Won&#x27;t Leak Your Data (2026 Guide)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jaipalsingh/33-langchain-alternatives-that-wont-leak-your-data-2026-guide-3mjf" target="_blank">33 LangChain Alternatives That Won&#x27;t Leak Your Data (2026 Guide)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-24 04:30</span>
             </div>
         </div>
 </div>
@@ -337,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 08:11 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 09:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
