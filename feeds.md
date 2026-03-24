@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-24 07:20:55 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-03-24 08:11:17 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 33 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, March 24, 2026 - 07:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, March 24, 2026 - 08:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Tel-Aviv-damage-DB-260324_1774337006662_hpMain_4x3t_384.jpg" alt="Iran live updates: Damage in Tel Aviv region after Iranian attack, authorities say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431" target="_blank">Iran live updates: Damage in Tel Aviv region after Iranian attack, authorities say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-24 08:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb68/live/745ecd30-1e46-11f1-b6ba-eb40411f1248.jpg" alt="Vet prescription fees to be capped at £21" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj32d05x702o?at_medium=RSS&at_campaign=rss" target="_blank">Vet prescription fees to be capped at £21</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-24 08:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/24/top-eu-official-calls-for-negotiations-with-iran-and-an-end-to-war?traffic_source=rss" target="_blank">Top EU official calls for negotiations with Iran and an end to war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-24 07:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,33 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/24/nx-s1-5757550/abortion-telemedicine-travel-mifepristone-misoprostol" target="_blank">Despite state bans and restrictions, the number of abortions in the U.S. holds steady</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-24 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef4/live/933036c0-2730-11f1-934f-036468834728.jpg" alt="Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c895v5pq5p1o?at_medium=RSS&at_campaign=rss" target="_blank">Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-24 02:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/24/israel-has-been-given-a-licence-to-torture?traffic_source=rss" target="_blank">‘Israel has been given a licence to torture Palestinians’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-24 02:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/23/g-s1-114813/markwayne-mullin-confirmed-homeland-security" target="_blank">Markwayne Mullin confirmed as the next secretary of Homeland Security</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-24 00:26</span>
             </div>
         </div>
 </div>
@@ -188,6 +183,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/jpakkane/pystd" target="_blank">pystd: A self-written C++ standard library</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-24 06:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/firefox-149-release.webp?resize=406%2C232&amp;ssl=1" alt="Firefox 149 brings free VPN, tab splits and better Linux integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -212,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/jaipalsingh/33-langchain-alternatives-that-wont-leak-your-data-2026-guide-3mjf" target="_blank">33 LangChain Alternatives That Won&#x27;t Leak Your Data (2026 Guide)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-24 04:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs" target="_blank">Epoch confirms GPT5.4 Pro solved a frontier math open problem</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-24 01:53</span>
             </div>
         </div>
 </div>
@@ -342,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 257 |
-        🔄 Last Updated: 07:21 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 08:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
