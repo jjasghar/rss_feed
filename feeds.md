@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-24 13:28:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-24 14:23:23 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, March 24, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, March 24, 2026 - 14:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/doha-debates/2026/3/24/what-if-humanity-meets-the-unknown?traffic_source=rss" target="_blank">What if humanity meets the unknown?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-24 14:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcfe/live/f3b46c10-22a2-11f1-a79a-77e93010d956.jpg" alt="Israel says it will take control of large buffer zone in southern Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/24/nx-s1-5759000/iran-war-talks" target="_blank">Iran fires more missiles at Israel,  dismisses Trump&#x27;s talk as &quot;fake news&quot;</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-24 11:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Tel-Aviv-damage-DB-260324_1774337006662_hpMain_4x3t_384.jpg" alt="Iran live updates: Iranian missiles damage Tel Aviv amid reported peace talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431" target="_blank">Iran live updates: Iranian missiles damage Tel Aviv amid reported peace talks</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-24 11:02</span>
             </div>
         </div>
 </div>
@@ -166,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-595.58.03-Linux" target="_blank">NVIDIA 595.58.03 Linux Driver Debuts As Stable R595 Build</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-24 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Krita-6.0-Released" target="_blank">Krita 6.0 Released With Qt6 Port &amp; Better Wayland Support</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-24 13:11</span>
@@ -207,15 +220,6 @@
                 <span class="time">2026-03-24 11:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Multi-Battery-HID" target="_blank">Linux 7.1 To Overcome Reporting Limitation For Multiple Batteries Per HID Device</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-24 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +249,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Asus-ROG-Swift-OLED-PG32UCDM-Gen-3-review-01-1280x853.jpg" alt="Asus ROG’s Massive Swift OLED Gaming Monitor Epitomizes Excess in the Best Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/asus-rogs-massive-swift-oled-gaming-monitor-epitomizes-excess-in-the-best-way-2000736291" target="_blank">Asus ROG’s Massive Swift OLED Gaming Monitor Epitomizes Excess in the Best Way</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-24 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KF6VPWA9B2KS6V8NQT0Z8RVF/hero-image.png" alt="I Switched to Self-Cleaning Litter Boxes in My Home, and I Wish I&#x27;d Done It Sooner" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/self-cleaning-litter-boxes-upgrade-of-the-week?utm_medium=RSS" target="_blank">I Switched to Self-Cleaning Litter Boxes in My Home, and I Wish I&#x27;d Done It Sooner</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-24 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/02/87f0514f92e3917dc75391db535c9b9d-1280x720.jpg" alt="Tekken 8 Bombarded With Negative Reviews After ‘Gaslighting, Money Hungry, Cheapskate, And Tone Deaf’ New Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tekken-8-season-3-launch-reviews-balance-patch-steam-2000681438" target="_blank">Tekken 8 Bombarded With Negative Reviews After ‘Gaslighting, Money Hungry, Cheapskate, And Tone Deaf’ New Season</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-24 13:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KMFE3ERZ3DHMPECFPGGEFCW2/hero-image.png" alt="This Apple Watch Series 11 Is $100 Off Ahead of Amazon&#x27;s Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -269,33 +300,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-live-action-moana-really-thought-about-the-maui-wig-despite-it-looking-like-that-2000737175" target="_blank">The Live-Action ‘Moana’ Really Thought About the Maui Wig, Despite It Looking Like That</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-24 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/polymarket_threat-1280x852.jpg" alt="Polymarket Trader Who Won Big on Start of Iran War Betting Even Bigger on Impending Ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/polymarket-trader-who-won-big-on-start-of-iran-war-betting-even-bigger-on-impending-ceasefire-2000737208" target="_blank">Polymarket Trader Who Won Big on Start of Iran War Betting Even Bigger on Impending Ceasefire</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-24 03:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/05/f5cc9782a918a1290f428db2be49b9dd-1024x575.jpg" alt="Gas Prices Are So High That DoorDash Is Providing ‘Emergency Relief’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/gas-prices-are-so-high-that-doordash-is-providing-emergency-relief-2000737114" target="_blank">Gas Prices Are So High That DoorDash Is Providing ‘Emergency Relief’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-23 22:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/trumpvelvis-e1774304932427.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains sizes up Elvis for a fistfight at Graceland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/23/grandpa-pudding-brains-sizes-up-elvis-for-a-fistfight-at-graceland.html" target="_blank">Grandpa Pudding Brains sizes up Elvis for a fistfight at Graceland</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-23 22:30</span>
             </div>
         </div>
 </div>
@@ -335,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 14:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
