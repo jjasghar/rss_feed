@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-24 22:06:16 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-24 23:05:53 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, March 24, 2026 - 22:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, March 24, 2026 - 23:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +108,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/899717/meta-instagram-facebook-affiliate-shopping-links-reels" target="_blank">Instagram and Facebook are about to be filled with affiliate content</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-24 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict" target="_blank">Meta misled users about its products’ safety, jury decides</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-24 21:54</span>
@@ -149,15 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/us-government-foreign-made-router-ban-explained/" target="_blank">What You Need to Know About the Foreign-Made Router Ban in the US</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-03-24 18:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/899688/lego-game-boy-set-nintendo-handheld-kohls-deal-sale" target="_blank">The Lego Game Boy makes for a great gift, and it’s $10 off today</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-24 18:38</span>
             </div>
         </div>
 </div>
@@ -202,21 +200,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!wORh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb83f9d2f-711f-4edd-bc8a-303b8de422e5_1600x1300.png" alt="“How to be a 10x engineer” – interview with a standout dev" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/how-to-be-a-10x-engineer-interview" target="_blank">“How to be a 10x engineer” – interview with a standout dev</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-03-24 18:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/GNOME-Fellowship-Program" target="_blank">GNOME Foundation Announces Fellowship Program</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-24 18:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917456&w=600" alt="Robust Network Layer in Swift via Clean Architecture Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/robust-swift-network-layer-clean-architecture" target="_blank">Robust Network Layer in Swift via Clean Architecture Approach</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-24 18:00</span>
             </div>
         </div>
 </div>
@@ -239,12 +237,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KMGHPXR015JX2P3TF78SSWRC/hero-image.png" alt="What People Are Getting Wrong This Week: Teleportation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-gregg-phillips?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: Teleportation</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-24 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/07/shutterstock_1831180783-scaled.jpg?fit=2560%2C1706&amp;quality=60&amp;ssl=1" alt="Macro photos of tiny mushrooms make them look like alien architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2026/03/24/macro-photos-of-tiny-mushrooms-make-them-look-like-alien-architecture.html" target="_blank">Macro photos of tiny mushrooms make them look like alien architecture</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-24 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/bungiess.jpg" alt="Sony Is At A Crossroads With Bungie’s Marathon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sony-is-at-a-crossroads-with-bungies-marathon-2000681566" target="_blank">Sony Is At A Crossroads With Bungie’s Marathon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-24 21:44</span>
             </div>
         </div>
 <div class="story">
@@ -274,29 +290,20 @@
                 <span class="time">2026-03-24 20:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMGH5V7BCAVATMR0BGBCEGVR/hero-image.png" alt="The Newest 11-Inch Apple iPad Is $150 Off Ahead of Amazon&#x27;s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-11-inch-ipad-deal-amazon-early-big-spring-sale-2026?utm_medium=RSS" target="_blank">The Newest 11-Inch Apple iPad Is $150 Off Ahead of Amazon&#x27;s Big Spring Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-24 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMGAM3NVYPCWGCNSWDYDNG7A/hero-image.png" alt="This New Claude Feature Can Automate Basically Everything on Your Mac, but It’s a Huge Security Risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/claude-computer-use-impressions?utm_medium=RSS" target="_blank">This New Claude Feature Can Automate Basically Everything on Your Mac, but It’s a Huge Security Risk</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-24 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/24/here-we-go-again-2" target="_blank">Here We Go Again</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-24 20:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1773971979-20260324.png" alt="Saturday Morning Breakfast Cereal - Phi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -329,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 22:06 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 23:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
