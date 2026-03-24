@@ -1,43 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-24 15:22:13 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-24 16:19:45 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 33 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, March 24, 2026 - 15:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, March 24, 2026 - 16:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8736/live/ddf8c990-278c-11f1-8c03-f7b8fcd8cabf.jpg" alt="Iran war shows norms of international conflicts have been upended" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gjv02g54ko?at_medium=RSS&at_campaign=rss" target="_blank">Iran war shows norms of international conflicts have been upended</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-24 15:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/3/24/iranian-irgc-ties-hezbollah-deepen-tensions-lebanese-politics?traffic_source=rss" target="_blank">Iranian IRGC’s ties to Hezbollah deepen tensions in Lebanese politics</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-24 15:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9de/live/04ac3fc0-278f-11f1-8c03-f7b8fcd8cabf.jpg" alt="Reeves plans energy bill help for those &#x27;who need it most&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,29 +102,20 @@
                 <span class="time">2026-03-24 12:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/environment/2026/mar/24/mountain-gorillas-twins-born-drc-aoe" target="_blank">‘Extraordinary event’ for mountain gorillas as new twins born in DRC</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-24 12:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774353133915_tdy_news_7a_engel_iran_new_wave_missles_260324_S3_1920x1080-jgt9oi.jpg" alt="Iran Fires New Wave of Missiles Amid Trump’s Peace Talks Claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/iran-fires-new-wave-of-missiles-amid-trump-s-peace-talks-claims-259926085756" target="_blank">Iran Fires New Wave of Missiles Amid Trump’s Peace Talks Claims</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-24 11:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/" target="_blank">Meet the former Apple designer building a new AI interface at Hark</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-24 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -157,20 +161,20 @@
                 <span class="time">2026-03-24 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/23/delve-halts-demos-insight-partners-scrubs-investment-post-amid-fake-compliance-allegations/" target="_blank">Delve halts demos, Insight Partners scrubs investment post amid ‘fake compliance’ allegations</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-24 05:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/" target="_blank">Building AI-powered GitHub issue triage with the Copilot SDK</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-03-24 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -216,15 +220,6 @@
                 <span class="time">2026-03-24 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://charlesleifer.com/blog/slopification-and-its-discontents/" target="_blank">Slopification and its Discontents</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-24 13:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,20 +234,38 @@
                 <span class="time">2026-03-24 11:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/" target="_blank">‘CanisterWorm’ Springs Wiper Attack Targeting Iran</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-03-23 15:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/image_1774367511739-1280x720.jpg" alt="Fortnite Removing Game Modes As Epic Desperately Seeks To Cut Costs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fortnite-removing-game-modes-as-epic-desperately-seeks-to-cut-costs-2000681484" target="_blank">Fortnite Removing Game Modes As Epic Desperately Seeks To Cut Costs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-24 16:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/03/DOGE-1280x853.jpg" alt="Elon Musk Will Have to Face the Music in Lawsuit Over DOGE’s Government Overreach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musk-will-have-to-face-the-music-in-lawsuit-over-doges-government-overreach-2000737413" target="_blank">Elon Musk Will Have to Face the Music in Lawsuit Over DOGE’s Government Overreach</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-24 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KMG6DK8G2GXZX4TB9CG5P62H/hero-image.jpg" alt="This Govee Smart Floor Lamp Is 25% Off Ahead of Amazon’s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/govee-smart-floor-lamp-early-amazon-spring-sale-2026?utm_medium=RSS" target="_blank">This Govee Smart Floor Lamp Is 25% Off Ahead of Amazon’s Big Spring Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-24 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Asus-ROG-Swift-OLED-PG32UCDM-Gen-3-review-01-1280x853.jpg" alt="Asus ROG’s Massive Swift OLED Gaming Monitor Epitomizes Excess in the Best Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,33 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/tekken-8-season-3-launch-reviews-balance-patch-steam-2000681438" target="_blank">Tekken 8 Bombarded With Negative Reviews After ‘Gaslighting, Money Hungry, Cheapskate, And Tone Deaf’ New Season</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-24 13:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMFE3ERZ3DHMPECFPGGEFCW2/hero-image.png" alt="This Apple Watch Series 11 Is $100 Off Ahead of Amazon&#x27;s Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-watch-series-11-amazon-spring-sale-2026?utm_medium=RSS" target="_blank">This Apple Watch Series 11 Is $100 Off Ahead of Amazon&#x27;s Spring Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-24 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/switch-2-sales.jpg" alt="Report: Nintendo Is Slashing Switch 2 Production By A Third After Poor U.S. Sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-sales-holiday-mario-zelda-pokemon-2000681428" target="_blank">Report: Nintendo Is Slashing Switch 2 Production By A Third After Poor U.S. Sales</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-24 12:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Moana_TheRock-1280x853.jpg" alt="The Live-Action ‘Moana’ Really Thought About the Maui Wig, Despite It Looking Like That" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-live-action-moana-really-thought-about-the-maui-wig-despite-it-looking-like-that-2000737175" target="_blank">The Live-Action ‘Moana’ Really Thought About the Maui Wig, Despite It Looking Like That</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-24 12:00</span>
             </div>
         </div>
 </div>
@@ -344,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 15:22 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 16:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
