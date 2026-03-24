@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-24 21:09:59 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-03-24 22:06:16 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, March 24, 2026 - 21:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, March 24, 2026 - 22:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,10 +50,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/24/arms-manufacturer-thrives-amid-us-israel-war-on-iran?traffic_source=rss" target="_blank">Arms manufacturer thrives amid US-Israel war on Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-24 21:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/03/24/nx-s1-5746626/cuba-doctors-mission-blockade" target="_blank">Cuba sends doctors on medical missions. The U.S. isn&#x27;t a fan</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-24 19:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-andrea-delmastro-italy_7202179.jpg?20260324194343" alt="Italian politician resigns over stake in mafia-linked restaurant" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/italian-politician-resigns-over-stake-in-mafia-linked-restaurant-as-giorgia-meloni-suffers-first-defeat-13524012" target="_blank">Italian politician resigns over stake in mafia-linked restaurant</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-24 19:38</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +101,29 @@
                 <span class="time">2026-03-24 15:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8736/live/ddf8c990-278c-11f1-8c03-f7b8fcd8cabf.jpg" alt="Iran war shows norms of international conflicts have been upended" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gjv02g54ko?at_medium=RSS&at_campaign=rss" target="_blank">Iran war shows norms of international conflicts have been upended</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-24 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/3/24/iranian-irgc-ties-hezbollah-deepen-tensions-lebanese-politics?traffic_source=rss" target="_blank">Iranian IRGC’s ties to Hezbollah deepen tensions in Lebanese politics</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-24 15:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict" target="_blank">Meta misled users about its products’ safety, jury decides</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-24 21:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/AI_codehead_header-500x500.jpg" alt="Mozilla dev&#x27;s &quot;Stack Overflow for agents&quot; targets a key weakness in coding AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/" target="_blank">Mozilla dev&#x27;s &quot;Stack Overflow for agents&quot; targets a key weakness in coding AI</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-24 21:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,24 +158,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/899688/lego-game-boy-set-nintendo-handheld-kohls-deal-sale" target="_blank">The Lego Game Boy makes for a great gift, and it’s $10 off today</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-24 18:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c2c9c37309c22a7c4f8a08/master/pass/Our-Favorite-Turntable-Is-Over-$50-Off.jpg" alt="Our Favorite Turntable Is $51 Off Before Record Store Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/atlp120x-deal-326/" target="_blank">Our Favorite Turntable Is $51 Off Before Record Store Day</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-24 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/899671/apple-watch-se-third-generation-deal-sale" target="_blank">The Apple Watch SE 3 is even easier to recommend at $50 off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-24 17:18</span>
             </div>
         </div>
 </div>
@@ -239,6 +239,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/07/shutterstock_1831180783-scaled.jpg?fit=2560%2C1706&amp;quality=60&amp;ssl=1" alt="Macro photos of tiny mushrooms make them look like alien architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/24/macro-photos-of-tiny-mushrooms-make-them-look-like-alien-architecture.html" target="_blank">Macro photos of tiny mushrooms make them look like alien architecture</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-24 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/tron-ares-jared-leto-1280x853.jpg" alt="Disney Says It Will Find Ways to Peddle Slop Elsewhere After Pulling Out of OpenAI Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/disney-openai-sora-deal-dead-2000737676" target="_blank">Disney Says It Will Find Ways to Peddle Slop Elsewhere After Pulling Out of OpenAI Deal</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-24 21:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KMGS441390YNBJWXYME0BPAK/hero-image.jpg" alt="OpenAI Just Killed Sora" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/openai-just-killed-sora?utm_medium=RSS" target="_blank">OpenAI Just Killed Sora</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-24 21:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/sperm-whale-headbutting-video-top-image-1280x853.jpg" alt="Watch First Video Evidence of Sperm Whales Headbutting Each Other" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -263,33 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/claude-computer-use-impressions?utm_medium=RSS" target="_blank">This New Claude Feature Can Automate Basically Everything on Your Mac, but It’s a Huge Security Risk</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-24 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K9AC15Q26CMX8JFT2EJ1KBA6/hero-image.png" alt="The Budget Apple Watch SE 3 Just Got Cheaper Ahead of Amazon&#x27;s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-watch-se-3-deal-amazon-early-big-spring-sale-2026?utm_medium=RSS" target="_blank">The Budget Apple Watch SE 3 Just Got Cheaper Ahead of Amazon&#x27;s Big Spring Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-24 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/image_1774367511739-1280x720.jpg" alt="Fortnite Removing Game Modes As Epic Desperately Seeks To Cut Costs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fortnite-removing-game-modes-as-epic-desperately-seeks-to-cut-costs-2000681484" target="_blank">Fortnite Removing Game Modes As Epic Desperately Seeks To Cut Costs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-24 16:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/03/DOGE-1280x853.jpg" alt="Elon Musk Will Have to Face the Music in Lawsuit Over DOGE’s Government Overreach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musk-will-have-to-face-the-music-in-lawsuit-over-doges-government-overreach-2000737413" target="_blank">Elon Musk Will Have to Face the Music in Lawsuit Over DOGE’s Government Overreach</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-24 16:15</span>
             </div>
         </div>
 </div>
@@ -329,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 21:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 22:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
