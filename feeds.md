@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-24 12:10:25 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-03-24 13:28:21 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, March 24, 2026 - 12:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, March 24, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcfe/live/f3b46c10-22a2-11f1-a79a-77e93010d956.jpg" alt="Israel says it will take control of large buffer zone in southern Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy91j9qwp4do?at_medium=RSS&at_campaign=rss" target="_blank">Israel says it will take control of large buffer zone in southern Lebanon</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-24 12:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/environment/2026/mar/24/mountain-gorillas-twins-born-drc-aoe" target="_blank">‘Extraordinary event’ for mountain gorillas as new twins born in DRC</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-24 12:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774353133915_tdy_news_7a_engel_iran_new_wave_missles_260324_S3_1920x1080-jgt9oi.jpg" alt="Iran Fires New Wave of Missiles Amid Trump’s Peace Talks Claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/iran-fires-new-wave-of-missiles-amid-trump-s-peace-talks-claims-259926085756" target="_blank">Iran Fires New Wave of Missiles Amid Trump’s Peace Talks Claims</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-24 11:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,38 +98,20 @@
                 <span class="time">2026-03-24 11:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2026/3/24/accountability-for-international-humanitarian-law-is-a-thing-of-the?traffic_source=rss" target="_blank">Accountability for international humanitarian law is a ‘thing of the past’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-24 10:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Tel-Aviv-damage-DB-260324_1774337006662_hpMain_4x3t_384.jpg" alt="Iran live updates: Damage in Tel Aviv region after Iranian attack, authorities say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431" target="_blank">Iran live updates: Damage in Tel Aviv region after Iranian attack, authorities say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-24 08:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb68/live/745ecd30-1e46-11f1-b6ba-eb40411f1248.jpg" alt="Vet prescription fees to be capped at £21" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj32d05x702o?at_medium=RSS&at_campaign=rss" target="_blank">Vet prescription fees to be capped at £21</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-24 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/24/tiktok-ads-are-about-to-get-a-tad-more-disruptive/" target="_blank">TikTok ads are about to get a tad more disruptive</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-24 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69c191b2a6ab4acf4d3674ef/master/pass/Review--Clear-Drop-Soft-Plastic-Compactor-(SPC).jpg" alt="Clear Drop Soft Plastic Compactor Review: Eco Experiment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +157,38 @@
                 <span class="time">2026-03-23 23:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/23/despite-bitter-rivalry-kalshi-polymarket-ceos-back-35m-predictions-markets-vc-fund/" target="_blank">Despite bitter rivalry, Kalshi, Polymarket CEOs back $35M predictions markets VC fund</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-23 22:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Krita-6.0-Released" target="_blank">Krita 6.0 Released With Qt6 Port &amp; Better Wayland Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-24 13:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18896281&w=600" alt="Imprisoning the Panic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/imprisoning-the-panic" target="_blank">Imprisoning the Panic</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-24 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/BerriAI/litellm/issues/24512" target="_blank">LiteLLM Python package compromised by supply-chain attack</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-24 12:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/03/revenium-ai-tooling-costs/en/headerimage/generatedHeaderImage-1774084802770.jpg" alt="Revenium Unveils Tool Registry to Expose the True Cost of AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -186,33 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Multi-Battery-HID" target="_blank">Linux 7.1 To Overcome Reporting Limitation For Multiple Batteries Per HID Device</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-24 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/ethical-ai-problem/en/headerimage/generatedHeaderImage-1774295585539.jpg" alt="QCon London 2026: Ethical AI Is an Engineering Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/ethical-ai-problem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: Ethical AI Is an Engineering Problem</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-24 10:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Open-Source-KubeCon-2026" target="_blank">NVIDIA Talks Up &quot;Expanding The Open-Source Horizon&quot; Around AI &amp; Kubernetes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-24 09:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/devex-highlights/en/mediumimage/nicole-forsgren-medium-1773152492761.jpg" alt="Presentation: From Friction to Flow: How Great DevEx Makes Everything Awesome" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/devex-highlights/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: From Friction to Flow: How Great DevEx Makes Everything Awesome</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-24 09:43</span>
             </div>
         </div>
 </div>
@@ -243,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KMFE3ERZ3DHMPECFPGGEFCW2/hero-image.png" alt="This Apple Watch Series 11 Is $100 Off Ahead of Amazon&#x27;s Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-watch-series-11-amazon-spring-sale-2026?utm_medium=RSS" target="_blank">This Apple Watch Series 11 Is $100 Off Ahead of Amazon&#x27;s Spring Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-24 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/switch-2-sales.jpg" alt="Report: Nintendo Is Slashing Switch 2 Production By A Third After Poor U.S. Sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-sales-holiday-mario-zelda-pokemon-2000681428" target="_blank">Report: Nintendo Is Slashing Switch 2 Production By A Third After Poor U.S. Sales</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-24 12:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Moana_TheRock-1280x853.jpg" alt="The Live-Action ‘Moana’ Really Thought About the Maui Wig, Despite It Looking Like That" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,24 +296,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/23/grandpa-pudding-brains-sizes-up-elvis-for-a-fistfight-at-graceland.html" target="_blank">Grandpa Pudding Brains sizes up Elvis for a fistfight at Graceland</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-23 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/peaksteam-1280x720.jpg" alt="Fortnite Adds Peak Skins That Cost Twice As Much As The Indie Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fortnite-added-peak-skins-that-cost-twice-as-much-as-the-actual-indie-game-2000681185" target="_blank">Fortnite Adds Peak Skins That Cost Twice As Much As The Indie Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-23 22:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KME936P2J3GKT4X4MR5Y166T/hero-image.png" alt="Amazon Big Spring Sale 2026 Live Blog: The Early Deals Are Rolling In" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/amazon-big-spring-sale-2026-live-blog?utm_medium=RSS" target="_blank">Amazon Big Spring Sale 2026 Live Blog: The Early Deals Are Rolling In</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-23 22:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 12:10 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
