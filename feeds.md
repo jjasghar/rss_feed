@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-24 16:19:45 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-03-24 17:18:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, March 24, 2026 - 16:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, March 24, 2026 - 17:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +106,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/899671/apple-watch-se-third-generation-deal-sale" target="_blank">The Apple Watch SE 3 is even easier to recommend at $50 off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-24 17:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69c1dcea9b0c01414434424c/master/pass/Chip-Design-Firm-Arm-Making-Own-AI-CPU-Business-2250850574.jpg" alt="Arm Is Now Making Its Own Chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/" target="_blank">Arm Is Now Making Its Own Chips</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-24 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/" target="_blank">Meet the former Apple designer building a new AI interface at Hark</a></span>
                 <span class="feed">TechCrunch</span>
@@ -143,29 +157,29 @@
                 <span class="time">2026-03-24 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/space-datacenter-analysis-two-500x500.jpg" alt="Orbital data centers, part 1: There’s no way this is economically viable, right?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/03/orbital-data-centers-part-1-theres-no-way-this-is-economically-viable-right/" target="_blank">Orbital data centers, part 1: There’s no way this is economically viable, right?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-24 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c1af3c502f2103cb899d51/master/pass/Translate-Apple-AirPods-Pro-3-hero-250909-Gear.jpg" alt="How to Use Apple’s Live Translation on Your AirPods" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/apple-live-translation-airpods/" target="_blank">How to Use Apple’s Live Translation on Your AirPods</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-24 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sharmi_sabari_09/-sorted-squares-of-a-sorted-array-java-efficient-two-pointer-approach-2bp5" target="_blank"># Sorted Squares of a Sorted Array (Java) – Efficient Two-Pointer Approach</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-24 17:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18918839&w=600" alt="Data-Driven API Testing in Java With REST Assured and TestNG: Part 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/java-api-testing-rest-assured-testng-part-2" target="_blank">Data-Driven API Testing in Java With REST Assured and TestNG: Part 2</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-24 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +216,6 @@
                 <span class="time">2026-03-24 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/popos-2404-ubuntu-2604" target="_blank">Pop!_OS 24.04 vs. Ubuntu 24.04 LTS vs. Ubuntu 26.04 Development Benchmarks</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-24 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-595.58.03-Linux" target="_blank">NVIDIA 595.58.03 Linux Driver Debuts As Stable R595 Build</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-24 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K9AC15Q26CMX8JFT2EJ1KBA6/hero-image.png" alt="The Budget Apple Watch SE 3 Just Got Cheaper Ahead of Amazon&#x27;s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-watch-se-3-deal-amazon-early-big-spring-sale-2026?utm_medium=RSS" target="_blank">The Budget Apple Watch SE 3 Just Got Cheaper Ahead of Amazon&#x27;s Big Spring Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-24 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/image_1774367511739-1280x720.jpg" alt="Fortnite Removing Game Modes As Epic Desperately Seeks To Cut Costs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +289,6 @@
                 <span class="time">2026-03-24 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/02/87f0514f92e3917dc75391db535c9b9d-1280x720.jpg" alt="Tekken 8 Bombarded With Negative Reviews After ‘Gaslighting, Money Hungry, Cheapskate, And Tone Deaf’ New Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tekken-8-season-3-launch-reviews-balance-patch-steam-2000681438" target="_blank">Tekken 8 Bombarded With Negative Reviews After ‘Gaslighting, Money Hungry, Cheapskate, And Tone Deaf’ New Season</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-24 13:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 16:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 17:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
