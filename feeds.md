@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-23 23:06:21 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-24 00:07:22 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, March 23, 2026 - 23:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, March 24, 2026 - 00:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/23/macron-says-lebanons-fight-is-just-amid-escalating-attacks-by-israel?traffic_source=rss" target="_blank">Macron says Lebanon’s fight is ‘just’ amid escalating attacks by Israel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-23 22:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +98,6 @@
                 <span class="time">2026-03-23 18:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3e0/live/5181ce60-26df-11f1-934f-036468834728.jpg" alt="A pharmacist and a homesick lifestyle blogger: The &#x27;alarming&#x27; civilian cost of war in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&at_campaign=rss" target="_blank">A pharmacist and a homesick lifestyle blogger: The &#x27;alarming&#x27; civilian cost of war in Iran</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-23 18:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -112,6 +110,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/03/23/despite-bitter-rivalry-kalshi-polymarket-ceos-back-35m-predictions-markets-vc-fund/" target="_blank">Despite bitter rivalry, Kalshi, Polymarket CEOs back $35M predictions markets VC fund</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-23 22:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/jupiter_juno_pj39-enhanced-crop-500x437.jpg" alt="A mission NASA might kill is still returning fascinating science from Jupiter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/03/a-mission-nasa-might-kill-is-still-returning-fascinating-science-from-jupiter/" target="_blank">A mission NASA might kill is still returning fascinating science from Jupiter</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-23 22:49</span>
             </div>
         </div>
 <div class="story">
@@ -150,20 +157,20 @@
                 <span class="time">2026-03-23 19:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69bd923f33c22df804229607/master/pass/startup-Making-Organ-Sacks-Science.jpg" alt="A Billionaire-Backed Startup Wants to Grow &#x27;Organ Sacks&#x27; to Replace Animal Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/" target="_blank">A Billionaire-Backed Startup Wants to Grow &#x27;Organ Sacks&#x27; to Replace Animal Testing</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-23 19:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8rkky6k9d3exnckajm36.png" alt="I built a load tester with an AI diagnosis layer—because no existing tool does both" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kkartha31/i-built-a-load-tester-with-an-ai-diagnosis-layer-because-no-existing-tool-does-both-2opf" target="_blank">I built a load tester with an AI diagnosis layer—because no existing tool does both</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-24 00:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +216,6 @@
                 <span class="time">2026-03-23 19:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18874247&w=600" alt="Why Supply Chain Planning Still Breaks Even with Advanced Forecasting Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/supply-chain-planning-breaks-even-with-advanced-forecasting" target="_blank">Why Supply Chain Planning Still Breaks Even with Advanced Forecasting Tools</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-23 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -256,12 +254,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/trumpvelvis-e1774304932427.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains sizes up Elvis for a fistfight at Graceland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/23/grandpa-pudding-brains-sizes-up-elvis-for-a-fistfight-at-graceland.html" target="_blank">Grandpa Pudding Brains sizes up Elvis for a fistfight at Graceland</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-23 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/peaksteam-1280x720.jpg" alt="Fortnite Adds Peak Skins That Cost Twice As Much As The Indie Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/fortnite-added-peak-skins-that-cost-twice-as-much-as-the-actual-indie-game-2000681185" target="_blank">Fortnite Adds Peak Skins That Cost Twice As Much As The Indie Game</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-23 22:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KME936P2J3GKT4X4MR5Y166T/hero-image.png" alt="Amazon Big Spring Sale 2026 Live Blog: The Early Deals Are Rolling In" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/amazon-big-spring-sale-2026-live-blog?utm_medium=RSS" target="_blank">Amazon Big Spring Sale 2026 Live Blog: The Early Deals Are Rolling In</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-23 22:00</span>
             </div>
         </div>
 <div class="story">
@@ -280,24 +296,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/23/your-public-library-can-get-you-almost-any-book-on-earth-for-5-or-less.html" target="_blank">Your public library can get you almost any book on earth for $5 or less</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-23 20:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/ReadyorNot2-Cronenbergportrait-1280x853.jpg" alt="Why ‘Ready or Not 2’ Had to Include That Shocking Slay" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ready-or-not-2-sarah-michelle-gellar-death-scene-explained-2000737049" target="_blank">Why ‘Ready or Not 2’ Had to Include That Shocking Slay</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-23 20:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/subway-1.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Guy built an e-ink subway display so he didn&#x27;t have to keep unlocking his phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/23/guy-built-an-e-ink-subway-display-so-he-didnt-have-to-keep-unlocking-his-phone.html" target="_blank">Guy built an e-ink subway display so he didn&#x27;t have to keep unlocking his phone</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-23 19:52</span>
             </div>
         </div>
 </div>
@@ -346,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 23:06 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 00:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
