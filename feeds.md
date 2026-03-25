@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-25 00:08:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-25 01:31:02 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, March 25, 2026 - 00:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, March 25, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/560e/live/f35c1210-27b4-11f1-934f-036468834728.jpg" alt="NHS waited two days before raising alarm about meningitis outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp8dnxln3y5o?at_medium=RSS&at_campaign=rss" target="_blank">NHS waited two days before raising alarm about meningitis outbreak</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-25 00:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30fd/live/65c23d50-27ad-11f1-a79a-77e93010d956.jpg" alt="Oil at $150 will trigger global recession, says boss of financial giant BlackRock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss" target="_blank">Oil at $150 will trigger global recession, says boss of financial giant BlackRock</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/3/25/iran-war-live-trump-again-says-talks-underway-12-killed-in-south-tehran?traffic_source=rss" target="_blank">Iran war live: Trump again says talks under way; 12 killed in south Tehran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-25 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +102,20 @@
                 <span class="time">2026-03-24 19:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-andrea-delmastro-italy_7202179.jpg?20260324194343" alt="Italian politician resigns over stake in mafia-linked restaurant" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/italian-politician-resigns-over-stake-in-mafia-linked-restaurant-as-giorgia-meloni-suffers-first-defeat-13524012" target="_blank">Italian politician resigns over stake in mafia-linked restaurant</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-24 19:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/24/g-s1-114956/trump-fraud-enforcement-justice-role" target="_blank">Senate confirms Trump&#x27;s pick for new role of fraud enforcement at Justice Department</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-24 19:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-soldiers-accused-of-torturing-toddler-in-gaza?traffic_source=rss" target="_blank">Israeli soldiers accused of ‘torturing’ toddler in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-24 17:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/" target="_blank">Amazon just bought a startup making kid-size humanoid robots</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-25 00:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +161,47 @@
                 <span class="time">2026-03-24 21:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt" target="_blank">OpenAI just gave up on its Sora AI video generator</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-24 21:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/0012303/pubmed-has-a-free-api-search-35m-medical-papers-without-scraping-no-key-2me" target="_blank">PubMed Has a Free API — Search 35M+ Medical Papers Without Scraping (No Key)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-25 01:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/pinetime-pro.webp?resize=406%2C232&amp;ssl=1" alt="Pine64 teases PineTime Pro with AMOLED, GPS and ‘custom’ chip" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/pine64-tease-pinetime-pro-smartwatch" target="_blank">Pine64 teases PineTime Pro with AMOLED, GPS and ‘custom’ chip</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-25 01:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://spectrum.ieee.org/data-center-dc" target="_blank">In Edison’s Revenge, Data Centers Are Transitioning From AC to DC</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-25 00:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-ANV-BTP-BTI-RCC-Keying" target="_blank">Intel&#x27;s Vulkan Linux Driver Lands New Feature To Boost DX12 Game Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-25 00:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -178,42 +218,6 @@
                 <span class="title"><a href="https://www.githubstatus.com/incidents/kp06czybl7dw" target="_blank">GitHub is once again down</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-24 20:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917491&w=600" alt="Agent-of-Agents Pattern: Enhancing Software Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/agent-of-agents-enhancing-software-testing" target="_blank">Agent-of-Agents Pattern: Enhancing Software Testing</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-24 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kuldeep_paul/litellm-vs-bifrost-which-ai-gateway-is-right-for-enterprise-teams-4h2f" target="_blank">LiteLLM vs Bifrost: Which AI Gateway Is Right for Enterprise Teams?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-24 19:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917484&w=600" alt="Building Scalable Agentic Assistants: A Graph-Based Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/scalable-agentic-ai-assistants-graph" target="_blank">Building Scalable Agentic Assistants: A Graph-Based Approach</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-24 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!wORh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb83f9d2f-711f-4edd-bc8a-303b8de422e5_1600x1300.png" alt="“How to be a 10x engineer” – interview with a standout dev" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/how-to-be-a-10x-engineer-interview" target="_blank">“How to be a 10x engineer” – interview with a standout dev</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-03-24 18:26</span>
             </div>
         </div>
 </div>
@@ -235,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Daredevil-Born-Again-2-Review-1280x853.jpg" alt="‘Daredevil: Born Again’ Season 2 Is a Slow Burn That’s Worth the Wait" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/daredevil-born-again-season-2-is-a-slow-burn-thats-worth-the-wait-2000736382" target="_blank">‘Daredevil: Born Again’ Season 2 Is a Slow Burn That’s Worth the Wait</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-25 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/machine_girl3.jpeg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="Machine Girl&#x27;s show promised chaos and delivered a demolition" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/24/machine-girls-show-promised-chaos-and-delivered-a-demolition.html" target="_blank">Machine Girl&#x27;s show promised chaos and delivered a demolition</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-25 00:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/sam_altman_sora-1280x843.jpg" alt="R.I.P. Sora (2024-2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +293,6 @@
                 <span class="time">2026-03-24 21:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/tron-ares-jared-leto-1280x853.jpg" alt="Disney Says It Will Find Ways to Peddle Slop Elsewhere After Pulling Out of OpenAI Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/disney-openai-sora-deal-dead-2000737676" target="_blank">Disney Says It Will Find Ways to Peddle Slop Elsewhere After Pulling Out of OpenAI Deal</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-24 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMGS441390YNBJWXYME0BPAK/hero-image.jpg" alt="OpenAI Just Killed Sora" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/openai-just-killed-sora?utm_medium=RSS" target="_blank">OpenAI Just Killed Sora</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-24 21:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,22 +325,13 @@
                 <span class="time">2026-03-24 03:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5792.png" alt="In The &quot;Flesh&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5792" target="_blank">In The &quot;Flesh&quot;</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-03-24 01:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 00:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
