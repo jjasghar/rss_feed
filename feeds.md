@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-25 20:07:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-25 21:08:17 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, March 25, 2026 - 20:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, March 25, 2026 - 21:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/25/nx-s1-5729092/fda-rsv-antibodies-shots-babies" target="_blank">Doctors worry about FDA scrutiny of RSV shots to protect babies</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-25 20:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/zuckerberg-trial-ap-jt-260325_1774462163996_hpMain_4x3t_384.jpg" alt="Jury finds YouTube, Meta negligent in landmark social media trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,21 +88,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50d4/live/1daecba0-2852-11f1-937e-1d8f354c3b9a.jpg" alt="Dead students were tested for drugs and alcohol - but their killer was not, Nottingham inquiry hears" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5ywd4gdzk1o?at_medium=RSS&at_campaign=rss" target="_blank">Dead students were tested for drugs and alcohol - but their killer was not, Nottingham inquiry hears</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-25 18:44</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/25/palestine-action-hunger-strikers-to-sue-prisons-over-alleged-mistreatment?traffic_source=rss" target="_blank">Palestine Action hunger strikers to sue prisons over alleged mistreatment</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-25 17:49</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/news/2026/mar/25/un-votes-slave-trade-gravest-crime-against-humanity-reparatory-justice" target="_blank">UN votes to describe slave trade as ‘gravest crime against humanity’</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-25 19:16</span>
             </div>
         </div>
 </div>
@@ -107,6 +101,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/25/waymo-robotaxi-roadside-assistance-emergency-first-responders/" target="_blank">Who’s driving Waymo’s self-driving cars? Sometimes, the police.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-25 20:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1499457607-500x500.jpg" alt="Reddit will require &quot;fishy&quot; accounts to verify they are run by a human" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +155,20 @@
                 <span class="time">2026-03-25 18:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/TurboQuant-500x500.png" alt="Google&#x27;s TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/" target="_blank">Google&#x27;s TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-25 17:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://fightchatcontrol.eu/?foo=bar" target="_blank">The EU still wants to scan  your private messages and photos</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-25 20:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18918038&w=600" alt="Stop Writing Slow Pandas Code: Vectorization and Modern Alternatives Explained" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +214,6 @@
                 <span class="time">2026-03-25 16:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18919777&w=600" alt="AI Agents vs LLMs: Choosing the Right Tool for AI Tasks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-agents-vs-llms-choosing-the-right-tool-for-ai-t" target="_blank">AI Agents vs LLMs: Choosing the Right Tool for AI Tasks</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-25 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/1.jpg?fit=1600%2C1600&amp;quality=60&amp;ssl=1" alt="Meadow is a small square smartphone with a few useful apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/25/meadow-is-a-small-square-smartphone-with-a-few-useful-apps.html" target="_blank">Meadow is a small square smartphone with a few useful apps</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-25 20:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/chats.jpg" alt="Dark Outlaw Games Founder Talks About PlayStation Studio Closure: ‘It F****** Sucked’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +285,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/25/openai-shutters-sora-continues-to-burn-money.html" target="_blank">OpenAI shutters Sora, continues to burn money</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-25 18:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Star-City-Interview-1-1280x853.jpg" alt="How ‘Star City’ Will Be Completely Different From ‘For All Mankind’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-star-city-will-be-completely-different-from-for-all-mankind-2000738042" target="_blank">How ‘Star City’ Will Be Completely Different From ‘For All Mankind’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-25 18:00</span>
             </div>
         </div>
 </div>
@@ -343,22 +337,13 @@
                 <span class="time">2026-03-25 01:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/24/here-we-go-again-2" target="_blank">Here We Go Again</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-03-24 20:27</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 20:08 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 21:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
