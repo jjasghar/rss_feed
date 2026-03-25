@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-03-25 13:28:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-25 14:23:01 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, March 25, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, March 25, 2026 - 14:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -67,6 +60,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774438054299_tdy_news_7a_engel_us_troops_deployed_260325_S3_1920x1080-n6h8yn.jpg" alt="Additional Troops Deployed to Middle East as Trump Claims Victory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-declares-iran-war-won-as-tehran-unleashes-new-strikes-260011589553" target="_blank">Additional Troops Deployed to Middle East as Trump Claims Victory</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-25 11:27</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -93,20 +95,20 @@
                 <span class="time">2026-03-25 09:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/25/nx-s1-5760675/iran-war-military-deployment" target="_blank">Pentagon orders troops from 82nd Airborne Division to deploy to Middle East</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-25 09:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69c2e3e5a650a44d3b555dcb/master/pass/AOC-Bernie-Sanders-Introduce-Data-Center-Moratorium-Politics-2253720668.jpg" alt="New Bernie Sanders AI Safety Bill Would Halt Data Center Construction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/" target="_blank">New Bernie Sanders AI Safety Bill Would Halt Data Center Construction</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-25 13:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/web_eyecatch_OHIO_003-500x500.webp" alt="Honda cancels the two electric vehicles it was developing with Sony" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +154,20 @@
                 <span class="time">2026-03-25 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/899839/super-mario-bros-wonder-nintendo-switch-2-review" target="_blank">It&amp;#8217;s always a good time to revisit Super Mario Bros. Wonder</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-25 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/uber-streaming-date-lake/en/headerimage/generatedHeaderImage-1773547974213.jpg" alt="Uber Launches IngestionNext: Streaming-First Data Lake Cuts Latency and Compute by 25%" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/uber-streaming-date-lake/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber Launches IngestionNext: Streaming-First Data Lake Cuts Latency and Compute by 25%</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-25 14:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +213,6 @@
                 <span class="time">2026-03-25 08:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tildeweb.nl/~michiel/httpxyz.html" target="_blank">I Forked Httpx</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-25 08:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KMHD31X4FS9PP53W25MX5FSJ/hero-image.jpg" alt="10 Hacks Every Amazon Shopper Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-amazon-shopper-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Amazon Shopper Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-25 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/10/colbert.jpg?fit=731%2C410&amp;quality=60&amp;ssl=1" alt="Stephen Colbert and son to write Lord of the Rings movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/25/stephen-colbert-and-son-to-write-lord-of-the-rings-movie.html" target="_blank">Stephen Colbert and son to write Lord of the Rings movie</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-25 13:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/star-trek-online-enterprise-documentary-1280x853.jpg" alt="This ‘Star Trek Online’ Trailer Is Actually a Killer ‘Enterprise’ Documentary" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +284,6 @@
                 <span class="title"><a href="https://gizmodo.com/lord-of-the-rings-shadow-of-the-past-new-movie-stephen-colbert-2000737771" target="_blank">Another New ‘Lord of the Rings’ Movie Is in the Works</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-25 04:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Daredevil-Born-Again-2-Review-1280x853.jpg" alt="‘Daredevil: Born Again’ Season 2 Is a Slow Burn That’s Worth the Wait" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/daredevil-born-again-season-2-is-a-slow-burn-thats-worth-the-wait-2000736382" target="_blank">‘Daredevil: Born Again’ Season 2 Is a Slow Burn That’s Worth the Wait</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-25 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/machine_girl3.jpeg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="Machine Girl&#x27;s show promised chaos and delivered a demolition" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/24/machine-girls-show-promised-chaos-and-delivered-a-demolition.html" target="_blank">Machine Girl&#x27;s show promised chaos and delivered a demolition</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-25 00:35</span>
             </div>
         </div>
 </div>
@@ -339,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 14:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
