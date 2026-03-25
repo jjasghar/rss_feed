@@ -1,43 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-25 11:13:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-25 12:09:37 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 34 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, March 25, 2026 - 11:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, March 25, 2026 - 12:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/25/estonia-latvia-report-drone-incursions-from-russian-airspace?traffic_source=rss" target="_blank">Estonia, Latvia report drone incursions from Russian airspace</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-25 11:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/25/g-s1-115071/up-first-newsletter-trump-iran-israel-lebanon-dhs-funding-data-brokers" target="_blank">Thousands of U.S. troops deploy to Middle East. And, the latest on DHS funding talks</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-25 11:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,29 +101,20 @@
                 <span class="time">2026-03-25 09:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/25/nx-s1-5745122/small-business-cash-advance-loans-connecticut" target="_blank">They gave her business a lifeline, then froze all her money</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-25 09:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260228-donald-trump-iran-ww-2129-9afd59.jpg" alt="Trump&#x27;s daily Iran video briefing fuels concerns he&#x27;s not getting a full picture on the war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/trump-gets-daily-video-montage-briefing-iran-war-rcna263912" target="_blank">Trump&#x27;s daily Iran video briefing fuels concerns he&#x27;s not getting a full picture on the war</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-25 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69c31ac1630debf0a6f73bec/master/pass/samsung-galaxy-a37-5g-source-julian-chokkattu.jpg" alt="Samsung’s Galaxy A37 and Galaxy A57 Phones Get Price Hikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/samsung-galaxy-a37-galaxy-a57/" target="_blank">Samsung’s Galaxy A37 and Galaxy A57 Phones Get Price Hikes</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-25 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69c129667ab605173b914198/master/pass/GettyImages-2262844673.jpg" alt="Aeronaut Is an Actual Mac App for Bluesky" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -157,20 +160,20 @@
                 <span class="time">2026-03-25 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" alt="Rover Promo Codes and Deals: Get Up to $50 This Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/rover-promo-code/" target="_blank">Rover Promo Codes and Deals: Get Up to $50 This Month</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-25 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sandhya_steffym_4872a8be/atomicity-design-a-reliable-wallet-transfer-system-with-acid-guarantees-1dhf" target="_blank">Atomicity - Design a Reliable Wallet Transfer System with ACID Guarantees</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-25 12:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/podcasts/agentic-systems-without-chaos/en/smallimage/the-infoq-podcast-logo-thumbnail-500-1773741968930.jpg" alt="Podcast: [Video Podcast] Agentic Systems Without Chaos: Early Operating Models for Autonomous Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -216,15 +219,6 @@
                 <span class="time">2026-03-25 06:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/_d7eb1c1703182e3ce1782/api-rate-limiting-strategies-algorithms-and-free-tools-gnc" target="_blank">API Rate Limiting: Strategies, Algorithms, and Free Tools</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-25 05:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/star-trek-online-enterprise-documentary-1280x853.jpg" alt="This ‘Star Trek Online’ Trailer Is Actually a Killer ‘Enterprise’ Documentary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-trek-online-enterprise-bundle-documentary-trailer-2000737690" target="_blank">This ‘Star Trek Online’ Trailer Is Actually a Killer ‘Enterprise’ Documentary</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-25 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Polar-Street-X-fitness-smartwatch2-1280x853.jpg" alt="Polar’s Cheaper Street X Smartwatch Is Here to Steal Away Garmin Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +290,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/24/machine-girls-show-promised-chaos-and-delivered-a-demolition.html" target="_blank">Machine Girl&#x27;s show promised chaos and delivered a demolition</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-25 00:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/sam_altman_sora-1280x843.jpg" alt="R.I.P. Sora (2024-2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/r-i-p-sora-2024-2026-2000737664" target="_blank">R.I.P. Sora (2024-2026)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-24 22:27</span>
             </div>
         </div>
 </div>
@@ -344,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 11:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 12:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
