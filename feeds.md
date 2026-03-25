@@ -1,41 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-03-25 10:14:28 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-25 11:13:38 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, March 25, 2026 - 10:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, March 25, 2026 - 11:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/25/spains-pm-says-israel-to-inflict-on-lebanon-same-destruction-as-in-gaza?traffic_source=rss" target="_blank">Spain’s PM says Israel to inflict on Lebanon same destruction as in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-25 11:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48fc/live/ce96b010-278d-11f1-8c03-f7b8fcd8cabf.png" alt="Two men arrested over Jewish charity ambulance arson attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,21 +99,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260228-donald-trump-iran-ww-2129-9afd59.jpg" alt="Trump&#x27;s daily Iran video briefing fuels concerns he&#x27;s not getting a full picture on the war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/25/is-irans-negotiating-position-stronger-than-when-us-israeli-war-started?traffic_source=rss" target="_blank">Is Iran’s negotiating position stronger than when US-Israeli war started?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-25 08:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/25/irans-new-security-boss-mohammad-zolghadr-why-his-appointment-matters?traffic_source=rss" target="_blank">Iran’s new security boss Mohammad Zolghadr: Why his appointment matters</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-25 07:15</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/trump-gets-daily-video-montage-briefing-iran-war-rcna263912" target="_blank">Trump&#x27;s daily Iran video briefing fuels concerns he&#x27;s not getting a full picture on the war</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-25 09:00</span>
             </div>
         </div>
 </div>
@@ -110,6 +112,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69c129667ab605173b914198/master/pass/GettyImages-2262844673.jpg" alt="Aeronaut Is an Actual Mac App for Bluesky" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/aeronaut-mac-app-for-bluesky/" target="_blank">Aeronaut Is an Actual Mac App for Bluesky</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-25 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/899839/super-mario-bros-wonder-nintendo-switch-2-review" target="_blank">It&amp;#8217;s always a good time to revisit Super Mario Bros. Wonder</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-25 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/" target="_blank">Lucid Bots raises $20M to keep up with demand for its window-washing drones</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-25 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/2026-Audi-RS6-Avant-1-500x500.jpg" alt="So long, farewell: Saying goodbye to Audi&#x27;s best car, the 2026 RS6 Avant" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,38 +166,20 @@
                 <span class="time">2026-03-25 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2249521703-500x500.jpg" alt="&quot;The last straw&quot;—RFK Jr.&#x27;s anti-vaccine ally angrily quits CDC panel after spat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/03/rfk-jr-anti-vaccine-ally-dramatically-quits-cdc-panel-complaining-of-drama/" target="_blank">&quot;The last straw&quot;—RFK Jr.&#x27;s anti-vaccine ally angrily quits CDC panel after spat</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-25 03:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2249521703-500x500.jpg" alt="RFK Jr. anti-vaccine ally dramatically quits CDC panel, complaining of drama" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/03/rfk-jr-anti-vaccine-ally-dramatically-quits-cdc-panel-complaining-of-drama/" target="_blank">RFK Jr. anti-vaccine ally dramatically quits CDC panel, complaining of drama</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-25 03:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/" target="_blank">A former Thiel fellow’s startup just launched a drone it says can replace police helicopters</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-25 02:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/podcasts/agentic-systems-without-chaos/en/smallimage/the-infoq-podcast-logo-thumbnail-500-1773741968930.jpg" alt="Podcast: [Video Podcast] Agentic Systems Without Chaos: Early Operating Models for Autonomous Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/podcasts/agentic-systems-without-chaos/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: [Video Podcast] Agentic Systems Without Chaos: Early Operating Models for Autonomous Agents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-25 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -214,15 +225,6 @@
                 <span class="time">2026-03-25 05:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/" target="_blank">TurboQuant: Redefining AI efficiency with extreme compression</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-25 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,9 +234,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/team-mirai-and-democracy.html" target="_blank">Team Mirai and Democracy</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/sen-wyden-warns-of-another-section-702-abuse.html" target="_blank">Sen. Wyden Warns of Another Section 702 Abuse</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-03-24 11:03</span>
+                <span class="time">2026-03-25 11:02</span>
             </div>
         </div>
 </div>
@@ -242,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Polar-Street-X-fitness-smartwatch2-1280x853.jpg" alt="Polar’s Cheaper Street X Smartwatch Is Here to Steal Away Garmin Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/polar-street-x-smartwatch-cheaper-than-garmin-polar-fenix-8-2000737118" target="_blank">Polar’s Cheaper Street X Smartwatch Is Here to Steal Away Garmin Users</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-25 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/money-envelope-1280x853.jpg" alt="A Program Is Now Sending Basic Income Payments to AI-Impacted Workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +296,6 @@
                 <span class="title"><a href="https://gizmodo.com/r-i-p-sora-2024-2026-2000737664" target="_blank">R.I.P. Sora (2024-2026)</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-24 22:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMGHPXR015JX2P3TF78SSWRC/hero-image.png" alt="What People Are Getting Wrong This Week: Teleportation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-gregg-phillips?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: Teleportation</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-24 22:00</span>
             </div>
         </div>
 </div>
@@ -342,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 10:14 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 11:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
