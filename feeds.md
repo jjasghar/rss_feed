@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-25 12:09:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-25 13:28:18 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, March 25, 2026 - 12:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, March 25, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/25/nx-s1-5759732/covid-vaccination-pregnancy-safety-efficacy" target="_blank">Yep, a mom&#x27;s COVID shot during pregnancy protects her baby, a large study finds</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-25 12:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +102,38 @@
                 <span class="time">2026-03-25 09:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Tabriz-damage-DB-260325_1774429660944_hpMain_4x3t_384.jpg" alt="Iran live updates: US sent Iran 15-point plan to end war, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431" target="_blank">Iran live updates: US sent Iran 15-point plan to end war, sources say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-25 09:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/web_eyecatch_OHIO_003-500x500.webp" alt="Honda cancels the two electric vehicles it was developing with Sony" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/03/honda-cancels-the-two-electric-vehicles-it-was-developing-with-sony/" target="_blank">Honda cancels the two electric vehicles it was developing with Sony</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-25 13:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals" target="_blank">The best deals we’ve found from Amazon’s Big Spring Sale (so far)</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-25 13:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69c3cf94af89d6230b241472/master/pass/Satellite_LEAD-AiDivide.jpg" alt="When Satellite Data Becomes a Weapon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/when-satellite-data-becomes-a-weapon/" target="_blank">When Satellite Data Becomes a Weapon</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-25 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69c31ac1630debf0a6f73bec/master/pass/samsung-galaxy-a37-5g-source-julian-chokkattu.jpg" alt="Samsung’s Galaxy A37 and Galaxy A57 Phones Get Price Hikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,38 +161,20 @@
                 <span class="time">2026-03-25 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/" target="_blank">Lucid Bots raises $20M to keep up with demand for its window-washing drones</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-25 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/2026-Audi-RS6-Avant-1-500x500.jpg" alt="So long, farewell: Saying goodbye to Audi&#x27;s best car, the 2026 RS6 Avant" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/03/so-long-farewell-saying-goodbye-to-audis-best-car-the-2026-rs6-avant/" target="_blank">So long, farewell: Saying goodbye to Audi&#x27;s best car, the 2026 RS6 Avant</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-25 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c2ef3f0355f9e1ff2fd1e1/master/pass/JC_WIRED_ARM_4316_flat.jpg" alt="Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/arms-ceo-insists-the-market-needs-his-new-cpu-it-could-piss-everyone-off/" target="_blank">Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-25 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17305810/garuda-linux-age-verification" target="_blank">Garuda Linux Draws a Line on Age Verification as Arch Stays Keeps Mum</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-25 13:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +218,6 @@
                 <span class="title"><a href="https://tildeweb.nl/~michiel/httpxyz.html" target="_blank">I Forked Httpx</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-25 08:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ravindrasinghshah/most-genai-chatbot-tutorials-stop-at-call-an-llm-get-an-answer-1k8g" target="_blank">Most GenAI chatbot tutorials stop at “call an LLM get an answer.”</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-25 06:14</span>
             </div>
         </div>
 </div>
@@ -338,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 12:09 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
