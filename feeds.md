@@ -1,34 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-03-25 02:57:31 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-03-25 03:51:01 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, March 25, 2026 - 02:57 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, March 25, 2026 - 03:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +99,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2249521703-500x500.jpg" alt="RFK Jr. anti-vaccine ally dramatically quits CDC panel, complaining of drama" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/03/rfk-jr-anti-vaccine-ally-dramatically-quits-cdc-panel-complaining-of-drama/" target="_blank">RFK Jr. anti-vaccine ally dramatically quits CDC panel, complaining of drama</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-25 03:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/897876/the-bb-777-is-the-ultimate-in-boombox-nostalgia" target="_blank">The BB-777 is the ultimate in boombox nostalgia</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-25 02:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -137,24 +150,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/03/final-analysis-of-2025-iberian-blackout-policies-left-spain-at-risk/" target="_blank">Final analysis of 2025 Iberian blackout: Policies left Spain at risk</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-03-24 22:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c30bf9dc53bcd949e45335/master/pass/Pentagon-Attempt-to-Cripple-Anthropic-Troublesome-Business-2268179185.jpg" alt="Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/" target="_blank">Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-24 22:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict" target="_blank">Meta misled users about its products’ safety, jury decides</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-24 21:54</span>
             </div>
         </div>
 </div>
@@ -295,6 +290,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5793.png" alt="Seabreeze No!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5793" target="_blank">Seabreeze No!</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-03-25 01:03</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -312,22 +316,13 @@
                 <span class="time">2026-03-24 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/24/the-circle-of-something-or-other" target="_blank">The Circle Of Something Or Other</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-03-24 03:41</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 02:57 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 03:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
