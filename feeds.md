@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-25 15:22:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-25 16:22:39 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, March 25, 2026 - 15:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, March 25, 2026 - 16:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +111,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/900363/reddit-human-verification-bots-crackdown" target="_blank">Reddit accounts with ‘fishy’ bot-like behavior will soon need to prove they’re human</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-25 16:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69c3156592bb97dd41f9b6e3/master/pass/Ultrahuman's-U.S.-Comeback-Starts-Now-With-the-New-Ring-Pro.jpg" alt="Ultrahuman Is Back: Can the Ring Pro Beat Oura in the US Market?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ultrahumans-us-comeback-starts-now-with-the-new-ring-pro/" target="_blank">Ultrahuman Is Back: Can the Ring Pro Beat Oura in the US Market?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-25 15:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/games/900389/live-service-games-mess-fortnite-layoffs" target="_blank">Live-service games are such a mess even Fortnite is struggling</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-25 15:22</span>
@@ -141,29 +161,29 @@
                 <span class="time">2026-03-25 13:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/web_eyecatch_OHIO_003-500x500.webp" alt="Honda cancels the two electric vehicles it was developing with Sony" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/03/honda-cancels-the-two-electric-vehicles-it-was-developing-with-sony/" target="_blank">Honda cancels the two electric vehicles it was developing with Sony</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-25 13:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals" target="_blank">The best deals we’ve found from Amazon’s Big Spring Sale (so far)</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-25 13:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18919777&w=600" alt="AI Agents vs LLMs: Choosing the Right Tool for AI Tasks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-agents-vs-llms-choosing-the-right-tool-for-ai-t" target="_blank">AI Agents vs LLMs: Choosing the Right Tool for AI Tasks</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-25 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17305936/grapheneos-refuses-age-verification" target="_blank">Android-Based GrapheneOS Refuses Age Verification, May Exit Regions That Enforce It</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-25 15:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn99e29bvk0vos2e5wab2.webp" alt="How to Understand a MongoDB Schema | From Raw JSON to Diagrams" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,24 +220,6 @@
                 <span class="time">2026-03-25 14:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17305810/garuda-linux-age-verification" target="_blank">Garuda Linux Draws a Line on Age Verification as Arch Stays Keeps Mum</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-25 13:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sandhya_steffym_4872a8be/atomicity-design-a-reliable-wallet-transfer-system-with-acid-guarantees-1dhf" target="_blank">Atomicity - Design a Reliable Wallet Transfer System with ACID Guarantees</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-25 12:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +239,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/Official-Fortnite-promo-image-1280x720.jpeg" alt="Epic CEO Tim Sweeney Pisses Everyone Off With ‘Out of Touch’ Response To Putting 1,000 Game Makers Out Of Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tim-sweeney-epic-fortnite-layoffs-ceo-resign-2000681859" target="_blank">Epic CEO Tim Sweeney Pisses Everyone Off With ‘Out of Touch’ Response To Putting 1,000 Game Makers Out Of Work</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-25 16:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KMJRJ4Z32NBEM8MR8ZXGNMST/hero-image.png" alt="The Apple Watch Ultra 2 Is Nearly $200 Off for the Amazon Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-watch-ultra-2-amazon-spring-sale-2026?utm_medium=RSS" target="_blank">The Apple Watch Ultra 2 Is Nearly $200 Off for the Amazon Big Spring Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-25 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/emily-gregory.webp?fit=1536%2C864&amp;quality=55&amp;ssl=1" alt="Dem flips Mar-a-Lago Florida district" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/25/dem-flips-mar-a-lago-florida-district.html" target="_blank">Dem flips Mar-a-Lago Florida district</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-25 15:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/image_1774451500934.jpg" alt="2025 Publisher Ranking Reveals Just How Bad PlayStation Whiffed It Last Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,38 +293,20 @@
                 <span class="time">2026-03-25 14:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMHD31X4FS9PP53W25MX5FSJ/hero-image.jpg" alt="10 Hacks Every Amazon Shopper Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-amazon-shopper-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Amazon Shopper Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-25 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/10/colbert.jpg?fit=731%2C410&amp;quality=60&amp;ssl=1" alt="Stephen Colbert and son to write Lord of the Rings movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/25/stephen-colbert-and-son-to-write-lord-of-the-rings-movie.html" target="_blank">Stephen Colbert and son to write Lord of the Rings movie</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-25 13:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/star-trek-online-enterprise-documentary-1280x853.jpg" alt="This ‘Star Trek Online’ Trailer Is Actually a Killer ‘Enterprise’ Documentary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-trek-online-enterprise-bundle-documentary-trailer-2000737690" target="_blank">This ‘Star Trek Online’ Trailer Is Actually a Killer ‘Enterprise’ Documentary</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-25 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/seriously/" target="_blank">Seriously</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-03-25 15:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -328,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 15:22 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 271 |
+        🔄 Last Updated: 16:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
