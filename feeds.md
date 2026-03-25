@@ -1,31 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-25 17:19:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-25 18:15:09 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 23 feeds processed -->
+<!-- Generated 10 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, March 25, 2026 - 17:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, March 25, 2026 - 18:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/25/palestine-action-hunger-strikers-to-sue-prisons-over-alleged-mistreatment?traffic_source=rss" target="_blank">Palestine Action hunger strikers to sue prisons over alleged mistreatment</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-25 17:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +96,29 @@
                 <span class="time">2026-03-25 11:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774438054299_tdy_news_7a_engel_us_troops_deployed_260325_S3_1920x1080-n6h8yn.jpg" alt="Additional Troops Deployed to Middle East as Trump Claims Victory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-declares-iran-war-won-as-tehran-unleashes-new-strikes-260011589553" target="_blank">Additional Troops Deployed to Middle East as Trump Claims Victory</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-25 11:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/900654/meta-google-instagram-youtube-social-media-addiction-trial-kgm-jury-decision" target="_blank">Meta and YouTube found negligent in landmark social media addiction case</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-25 18:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/TurboQuant-500x500.png" alt="Google&#x27;s TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/" target="_blank">Google&#x27;s TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-25 17:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,29 +155,29 @@
                 <span class="time">2026-03-25 16:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c3156592bb97dd41f9b6e3/master/pass/Ultrahuman's-U.S.-Comeback-Starts-Now-With-the-New-Ring-Pro.jpg" alt="Ultrahuman Is Back: Can the Ring Pro Beat Oura in the US Market?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ultrahumans-us-comeback-starts-now-with-the-new-ring-pro/" target="_blank">Ultrahuman Is Back: Can the Ring Pro Beat Oura in the US Market?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-25 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/900389/live-service-games-mess-fortnite-layoffs" target="_blank">Live-service games are such a mess even Fortnite is struggling</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-25 15:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18919794&w=600" alt="Production Database Migration or Modernization: A Comprehensive Planning Guide [Part 1]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/production-database-migration-or-modernization-part-1" target="_blank">Production Database Migration or Modernization: A Comprehensive Planning Guide [Part 1]</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-25 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://theconsensus.dev/p/2026/03/12/mojos-not-yet-python.html" target="_blank">Mojo&#x27;s not (yet) Python</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-25 16:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18919777&w=600" alt="AI Agents vs LLMs: Choosing the Right Tool for AI Tasks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -178,39 +197,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/03/qcon-next-developers/en/headerimage/generatedHeaderImage-1774355375248.jpg" alt="QCon London 2026: Tools That Enable the Next 1B Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/qcon-next-developers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: Tools That Enable the Next 1B Developers</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-25 15:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn99e29bvk0vos2e5wab2.webp" alt="How to Understand a MongoDB Schema | From Raw JSON to Diagrams" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/visualeaf/how-to-understand-a-mongodb-schema-from-raw-json-to-diagrams-hm8" target="_blank">How to Understand a MongoDB Schema | From Raw JSON to Diagrams</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-25 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2604-gnome-kde" target="_blank">KDE Plasma 6.6 Delivers An Impressive Edge For Radeon Graphics Over GNOME 50 On Ubuntu 26.04</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-25 15:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18919768&w=600" alt="Privacy-Conscious AI Development: How to Ship Faster Without Leaking Your Crown Jewels" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/privacy-conscious-ai-development-how-to-ship-fast" target="_blank">Privacy-Conscious AI Development: How to Ship Faster Without Leaking Your Crown Jewels</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-25 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/uber-streaming-date-lake/en/headerimage/generatedHeaderImage-1773547974213.jpg" alt="Uber Launches IngestionNext: Streaming-First Data Lake Cuts Latency and Compute by 25%" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/uber-streaming-date-lake/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber Launches IngestionNext: Streaming-First Data Lake Cuts Latency and Compute by 25%</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-25 14:05</span>
             </div>
         </div>
 </div>
@@ -232,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Star-City-Interview-1-1280x853.jpg" alt="How ‘Star City’ Will Be Completely Different From ‘For All Mankind’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-star-city-will-be-completely-different-from-for-all-mankind-2000738042" target="_blank">How ‘Star City’ Will Be Completely Different From ‘For All Mankind’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-25 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/cathedral.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Clermont-Ferrand&#x27;s cathedral is built entirely from black lava stone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/25/clermont-ferrands-cathedral-is-built-entirely-from-black-lava-stone.html" target="_blank">Clermont-Ferrand&#x27;s cathedral is built entirely from black lava stone</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-25 17:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/VS-YouTube-YoshiandtheMysteriousBook-TrailerNintendoDirect-007-1280x720.jpg" alt="Nintendo Will Charge More For Physical Games Starting With New Yoshi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +287,6 @@
                 <span class="time">2026-03-25 15:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/image_1774451500934.jpg" alt="2025 Publisher Ranking Reveals Just How Bad PlayStation Whiffed It Last Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/2025-publisher-rankings-reveal-just-how-bad-playstation-whiffed-it-last-year-2000681832" target="_blank">2025 Publisher Ranking Reveals Just How Bad PlayStation Whiffed It Last Year</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-25 15:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Methylphenidate-1280x853.jpg" alt="A Common ADHD Med Might Not Raise Psychosis Risk After All" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-common-adhd-med-might-not-raise-psychosis-risk-after-all-2000737925" target="_blank">A Common ADHD Med Might Not Raise Psychosis Risk After All</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-25 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,6 +299,15 @@
                 <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/25/here-we-go-again-2" target="_blank">Here We Go Again</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-03-25 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1774386995-20260325.png" alt="Saturday Morning Breakfast Cereal - Noble" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/noble-2" target="_blank">Saturday Morning Breakfast Cereal - Noble</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-25 15:20</span>
             </div>
         </div>
 <div class="story">
@@ -341,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 17:19 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 18:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
