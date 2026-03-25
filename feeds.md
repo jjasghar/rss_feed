@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-25 21:08:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-25 22:07:51 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, March 25, 2026 - 21:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, March 25, 2026 - 22:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +113,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/" target="_blank">The AI skills gap is here, says AI company, and power users are pulling ahead</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-25 21:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/900863/fanttik-x9-pro-portable-tire-inflator-amazon-big-spring-sale-deal-sale" target="_blank">The portable Fanttik X9 Pro tire inflator is down to its best price in months</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-25 21:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/guardian-500x500.jpg" alt="BRINC&#x27;s new police drone uses Starlink, carries Narcan, chases vehicles at 60mph" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/" target="_blank">BRINC&#x27;s new police drone uses Starlink, carries Narcan, chases vehicles at 60mph</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-25 21:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/03/25/waymo-robotaxi-roadside-assistance-emergency-first-responders/" target="_blank">Who’s driving Waymo’s self-driving cars? Sometimes, the police.</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-25 20:57</span>
@@ -128,38 +163,20 @@
                 <span class="time">2026-03-25 19:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/" target="_blank">Melania Trump wants a robot to homeschool your child</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-25 18:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c40a914ff31d9d83686e60/master/pass/ai-fruit-microdrama.jpg" alt="There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/" target="_blank">There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-25 18:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/900654/meta-google-instagram-youtube-social-media-addiction-trial-kgm-jury-decision" target="_blank">Meta and YouTube found negligent in landmark social media addiction case</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-25 18:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gamlin/your-vicidial-database-will-melt-down-in-6-months-heres-how-to-prevent-it-359" target="_blank">Your VICIdial Database Will Melt Down in 6 Months. Here&#x27;s How to Prevent It.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-25 22:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,6 +198,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-45-To-Get-DRM-Panic-Web" target="_blank">Fedora 45 Plan Approved For Web Frontend To Linux&#x27;s &quot;Blue Screen of Death&quot; DRM Panic</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-25 19:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/" target="_blank">Updates to GitHub Copilot interaction data usage policy</a></span>
                 <span class="feed">The GitHub Blog</span>
@@ -194,24 +220,6 @@
                 <span class="title"><a href="https://dzone.com/articles/production-database-migration-or-modernization-part-1" target="_blank">Production Database Migration or Modernization: A Comprehensive Planning Guide [Part 1]</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-25 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17306020/fedora-leader-suggests-age-verification-api" target="_blank">Fedora Project Leader Suggests Linux Distros Could Adopt Apple&amp;#x27;s Age Verification API</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-25 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://theconsensus.dev/p/2026/03/12/mojos-not-yet-python.html" target="_blank">Mojo&#x27;s not (yet) Python</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-25 16:50</span>
             </div>
         </div>
 </div>
@@ -234,12 +242,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KMKDN8TNCSKDH81JPN6FZTM4/hero-image.png" alt="Roblox Gift Cards Are Majorly Discounted During Amazon&#x27;s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/roblox-gift-cards-amazon-big-spring-sale?utm_medium=RSS" target="_blank">Roblox Gift Cards Are Majorly Discounted During Amazon&#x27;s Big Spring Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-25 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/1.jpg?fit=1600%2C1600&amp;quality=60&amp;ssl=1" alt="Meadow is a small square smartphone with a few useful apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2026/03/25/meadow-is-a-small-square-smartphone-with-a-few-useful-apps.html" target="_blank">Meadow is a small square smartphone with a few useful apps</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-25 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/ramcrisisnex-1280x720.jpg" alt="RAM Crisis Is Forcing Super-Popular Kids Console To Raise Prices Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ram-shortage-nex-playground-console-price-increase-300-april-2000681935" target="_blank">RAM Crisis Is Forcing Super-Popular Kids Console To Raise Prices Again</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-25 20:30</span>
             </div>
         </div>
 <div class="story">
@@ -267,24 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/marvel-says-the-real-world-parallels-in-daredevil-born-again-are-coincidental-2000738105" target="_blank">Marvel Says the Real World Parallels in ‘Daredevil: Born Again’ Are Coincidental</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-25 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/02-crimson-desert-1280x723.jpg" alt="12 Tips I Wish I Knew Before Playing Crimson Desert" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/12-tips-i-wish-i-knew-before-playing-crimson-desert-2000681896" target="_blank">12 Tips I Wish I Knew Before Playing Crimson Desert</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-25 18:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/shutterstock_2619620367.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="OpenAI shutters Sora, continues to burn money" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/25/openai-shutters-sora-continues-to-burn-money.html" target="_blank">OpenAI shutters Sora, continues to burn money</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-25 18:37</span>
             </div>
         </div>
 </div>
@@ -342,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 21:08 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 22:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
