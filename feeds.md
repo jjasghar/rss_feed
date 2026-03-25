@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-25 18:15:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-25 19:15:40 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, March 25, 2026 - 18:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, March 25, 2026 - 19:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50d4/live/1daecba0-2852-11f1-937e-1d8f354c3b9a.jpg" alt="Dead students were tested for drugs and alcohol - but their killer was not, Nottingham inquiry hears" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5ywd4gdzk1o?at_medium=RSS&at_campaign=rss" target="_blank">Dead students were tested for drugs and alcohol - but their killer was not, Nottingham inquiry hears</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-25 18:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +100,20 @@
                 <span class="time">2026-03-25 12:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/25/estonia-latvia-report-drone-incursions-from-russian-airspace?traffic_source=rss" target="_blank">Estonia, Latvia report drone incursions from Russian airspace</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-25 11:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69c40a914ff31d9d83686e60/master/pass/ai-fruit-microdrama.jpg" alt="There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/" target="_blank">There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-25 18:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +159,20 @@
                 <span class="time">2026-03-25 17:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/900363/reddit-human-verification-bots-crackdown" target="_blank">Reddit accounts with ‘fishy’ bot-like behavior will soon need to prove they’re human</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-25 16:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/" target="_blank">Updates to GitHub Copilot interaction data usage policy</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-03-25 19:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18919794&w=600" alt="Production Database Migration or Modernization: A Comprehensive Planning Guide [Part 1]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,15 +218,6 @@
                 <span class="time">2026-03-25 15:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn99e29bvk0vos2e5wab2.webp" alt="How to Understand a MongoDB Schema | From Raw JSON to Diagrams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/visualeaf/how-to-understand-a-mongodb-schema-from-raw-json-to-diagrams-hm8" target="_blank">How to Understand a MongoDB Schema | From Raw JSON to Diagrams</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-25 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Daredevil-Born-Again-2-Kingpin-Task-Force-1280x853.jpg" alt="Marvel Says the Real World Parallels in ‘Daredevil: Born Again’ Are Coincidental" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/marvel-says-the-real-world-parallels-in-daredevil-born-again-are-coincidental-2000738105" target="_blank">Marvel Says the Real World Parallels in ‘Daredevil: Born Again’ Are Coincidental</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-25 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/02-crimson-desert-1280x723.jpg" alt="12 Tips I Wish I Knew Before Playing Crimson Desert" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/12-tips-i-wish-i-knew-before-playing-crimson-desert-2000681896" target="_blank">12 Tips I Wish I Knew Before Playing Crimson Desert</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-25 18:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/shutterstock_2619620367.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="OpenAI shutters Sora, continues to burn money" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/25/openai-shutters-sora-continues-to-burn-money.html" target="_blank">OpenAI shutters Sora, continues to burn money</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-25 18:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Star-City-Interview-1-1280x853.jpg" alt="How ‘Star City’ Will Be Completely Different From ‘For All Mankind’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -258,33 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/nintendo-switch-2-yoshi-mysterious-book-physical-digital-2000681888" target="_blank">Nintendo Will Charge More For Physical Games Starting With New Yoshi</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-25 17:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/Official-Fortnite-promo-image-1280x720.jpeg" alt="Epic CEO Tim Sweeney Pisses Everyone Off With ‘Out of Touch’ Response To Putting 1,000 Game Makers Out Of Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tim-sweeney-epic-fortnite-layoffs-ceo-resign-2000681859" target="_blank">Epic CEO Tim Sweeney Pisses Everyone Off With ‘Out of Touch’ Response To Putting 1,000 Game Makers Out Of Work</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-25 16:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMJRJ4Z32NBEM8MR8ZXGNMST/hero-image.png" alt="The Apple Watch Ultra 2 Is Nearly $200 Off for the Amazon Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-watch-ultra-2-amazon-spring-sale-2026?utm_medium=RSS" target="_blank">The Apple Watch Ultra 2 Is Nearly $200 Off for the Amazon Big Spring Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-25 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/emily-gregory.webp?fit=1536%2C864&amp;quality=55&amp;ssl=1" alt="Dem flips Mar-a-Lago Florida district" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/25/dem-flips-mar-a-lago-florida-district.html" target="_blank">Dem flips Mar-a-Lago Florida district</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-25 15:15</span>
             </div>
         </div>
 </div>
@@ -351,8 +355,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 18:15 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 19:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
