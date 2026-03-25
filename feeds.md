@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-03-25 16:22:39 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-03-25 17:19:37 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Generated 10 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, March 25, 2026 - 16:22 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, March 25, 2026 - 17:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +42,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/25/nx-s1-5753707/archbishop-canterbury-church-england-sarah-mullally" target="_blank">For the first time in more than 1,400 years, Church of England gets a woman leader</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-25 17:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/Tabriz-damage-DB-260325_1774429660944_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran insists no negotiations as US sends peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431" target="_blank">Iran live updates: Iran insists no negotiations as US sends peace plan</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-25 14:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c1f/live/9a766e30-2830-11f1-a79a-77e93010d956.jpg" alt="&#x27;There&#x27;s no safety anymore&#x27;: Palestinians warn of expanding West Bank settler violence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c747x00m83vo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;There&#x27;s no safety anymore&#x27;: Palestinians warn of expanding West Bank settler violence</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-25 12:27</span>
             </div>
         </div>
 <div class="story">
@@ -84,29 +95,38 @@
                 <span class="time">2026-03-25 11:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/25/g-s1-115071/up-first-newsletter-trump-iran-israel-lebanon-dhs-funding-data-brokers" target="_blank">Thousands of U.S. troops deploy to Middle East. And, the latest on DHS funding talks</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-25 11:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/25/spains-pm-says-israel-to-inflict-on-lebanon-same-destruction-as-in-gaza?traffic_source=rss" target="_blank">Spain’s PM says Israel to inflict on Lebanon same destruction as in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-25 11:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/" target="_blank">Bernie Sanders and AOC propose a ban on data center construction</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-25 17:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/900510/airport-tsa-seurity-wait-privatization-trump-mullin" target="_blank">The TSA is broken — is privatization next?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-25 17:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69c412883fdb97e6106a527a/master/pass/The-Vacuum-Sales-to-Shop-During-Amazon's-Spring-Sale.jpg" alt="Best Vacuum Deals for Amazon&#x27;s Spring Sale: Dyson, Shark, Bissell (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/amazon-spring-sale-vacuum-deals/" target="_blank">Best Vacuum Deals for Amazon&#x27;s Spring Sale: Dyson, Shark, Bissell (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-25 17:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,33 +152,6 @@
                 <span class="title"><a href="https://www.theverge.com/games/900389/live-service-games-mess-fortnite-layoffs" target="_blank">Live-service games are such a mess even Fortnite is struggling</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-25 15:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c2ea7b141776fd70b33ca4/master/pass/politics_cia_agent_kiriakou_pardon.jpg" alt="The Ex-CIA Agent Going Viral Asking for a Trump Pardon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/that-ex-cia-agent-in-all-your-feeds-is-after-a-pardon-from-donald-trump/" target="_blank">The Ex-CIA Agent Going Viral Asking for a Trump Pardon</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-25 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/" target="_blank">Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-25 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c2e3e5a650a44d3b555dcb/master/pass/AOC-Bernie-Sanders-Introduce-Data-Center-Moratorium-Politics-2253720668.jpg" alt="New Bernie Sanders AI Safety Bill Would Halt Data Center Construction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/" target="_blank">New Bernie Sanders AI Safety Bill Would Halt Data Center Construction</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-25 13:28</span>
             </div>
         </div>
 </div>
@@ -240,6 +233,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/VS-YouTube-YoshiandtheMysteriousBook-TrailerNintendoDirect-007-1280x720.jpg" alt="Nintendo Will Charge More For Physical Games Starting With New Yoshi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-yoshi-mysterious-book-physical-digital-2000681888" target="_blank">Nintendo Will Charge More For Physical Games Starting With New Yoshi</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-25 17:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/Official-Fortnite-promo-image-1280x720.jpeg" alt="Epic CEO Tim Sweeney Pisses Everyone Off With ‘Out of Touch’ Response To Putting 1,000 Game Makers Out Of Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -284,20 +286,20 @@
                 <span class="time">2026-03-25 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/11/zuckerberg-facebook-VR.jpg?fit=1920%2C1280&amp;quality=60&amp;ssl=1" alt="Jury: Meta must pay $375m for enabling child exploitation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/25/jury-meta-must-pay-375m-for-enabling-child-exploitation.html" target="_blank">Jury: Meta must pay $375m for enabling child exploitation</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-25 14:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/25/here-we-go-again-2" target="_blank">Here We Go Again</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-25 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -339,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 16:22 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 17:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
