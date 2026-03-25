@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-25 01:31:02 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-03-25 02:57:31 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, March 25, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, March 25, 2026 - 02:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +45,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/25/philippine-president-declares-energy-emergency-as-impact-of-iran-war-felt?traffic_source=rss" target="_blank">Philippine president declares energy emergency as impact of Iran war felt</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-25 01:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-mette-frederiksen-denmark_7202340.jpg?20260325023819" alt="Danish PM faces fight to stay in post after election losses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/denmark-election-pm-frederiksen-faces-fight-to-stay-in-post-after-losses-13524098" target="_blank">Danish PM faces fight to stay in post after election losses</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-25 01:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/560e/live/f35c1210-27b4-11f1-934f-036468834728.jpg" alt="NHS waited two days before raising alarm about meningitis outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cp8dnxln3y5o?at_medium=RSS&at_campaign=rss" target="_blank">NHS waited two days before raising alarm about meningitis outbreak</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-25 00:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/24/nx-s1-5759276/anthropic-pentagon-claude-preliminary-injunction-hearing" target="_blank">Judge says government&#x27;s Anthropic ban looks like punishment</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-25 00:12</span>
             </div>
         </div>
 <div class="story">
@@ -73,33 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/3/25/iran-war-live-trump-again-says-talks-underway-12-killed-in-south-tehran?traffic_source=rss" target="_blank">Iran war live: Trump again says talks under way; 12 killed in south Tehran</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-25 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/24/russian-weapons-tactics-seen-in-ukraine-are-shaping-myanmars-civil-war?traffic_source=rss" target="_blank">Russian weapons, tactics seen in Ukraine are shaping Myanmar’s civil war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-24 23:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/24/arms-manufacturer-thrives-amid-us-israel-war-on-iran?traffic_source=rss" target="_blank">Arms manufacturer thrives amid US-Israel war on Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-24 21:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/24/nx-s1-5746626/cuba-doctors-mission-blockade" target="_blank">Cuba sends doctors on medical missions. The U.S. isn&#x27;t a fan</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-24 19:59</span>
             </div>
         </div>
 </div>
@@ -135,6 +131,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2263005227-500x500.jpg" alt="Final analysis of 2025 Iberian blackout: Policies left Spain at risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/03/final-analysis-of-2025-iberian-blackout-policies-left-spain-at-risk/" target="_blank">Final analysis of 2025 Iberian blackout: Policies left Spain at risk</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-24 22:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69c30bf9dc53bcd949e45335/master/pass/Pentagon-Attempt-to-Cripple-Anthropic-Troublesome-Business-2268179185.jpg" alt="Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -152,20 +157,29 @@
                 <span class="time">2026-03-24 21:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/AI_codehead_header-500x500.jpg" alt="Mozilla dev&#x27;s &quot;Stack Overflow for agents&quot; targets a key weakness in coding AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/" target="_blank">Mozilla dev&#x27;s &quot;Stack Overflow for agents&quot; targets a key weakness in coding AI</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-24 21:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/0012303/i-built-a-supply-chain-scanner-for-python-pip-has-the-same-problem-as-npm-8ll" target="_blank">I Built a Supply Chain Scanner for Python — pip Has the Same Problem as npm</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-25 02:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/shielding-the-core-parra/en/headerimage/java-istock-image-01-1774371376293.jpg" alt="QCon London 2026: Shielding the Core: Architecting Resilience with Multi-Layer Defenses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/shielding-the-core-parra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: Shielding the Core: Architecting Resilience with Multi-Layer Defenses</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-25 02:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-ANV-BTP-BTI-RCC-Keying" target="_blank">Intel&#x27;s Vulkan Linux Driver Lands New Feature To Boost DX12 Game Performance</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-25 00:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Unbreakable-Enterprise-UEK-8.2" target="_blank">Oracle Releases Unbreakable Enterprise Kernel 8.2 - Still On Linux 6.12 LTS Base</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-24 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.githubstatus.com/incidents/kp06czybl7dw" target="_blank">GitHub is once again down</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-24 20:23</span>
             </div>
         </div>
 </div>
@@ -330,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 02:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
