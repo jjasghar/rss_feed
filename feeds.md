@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-25 03:51:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-25 04:35:51 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, March 25, 2026 - 03:51 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, March 25, 2026 - 04:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/culture/2026/mar/25/ebo-m-lion-king-circle-of-life-chant-learnmore-jonasi-lawsuit" target="_blank">Lebo M sues comedian Learnmore Jonasi claiming Circle of Life misrepresentation</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-25 03:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,20 +102,20 @@
                 <span class="time">2026-03-25 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/3/25/iran-war-live-trump-again-says-talks-underway-12-killed-in-south-tehran?traffic_source=rss" target="_blank">Iran war live: Trump again says talks under way; 12 killed in south Tehran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-25 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2249521703-500x500.jpg" alt="&quot;The last straw&quot;—RFK Jr.&#x27;s anti-vaccine ally angrily quits CDC panel after spat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/03/rfk-jr-anti-vaccine-ally-dramatically-quits-cdc-panel-complaining-of-drama/" target="_blank">&quot;The last straw&quot;—RFK Jr.&#x27;s anti-vaccine ally angrily quits CDC panel after spat</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-25 03:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2249521703-500x500.jpg" alt="RFK Jr. anti-vaccine ally dramatically quits CDC panel, complaining of drama" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -105,6 +123,15 @@
                 <span class="title"><a href="https://arstechnica.com/health/2026/03/rfk-jr-anti-vaccine-ally-dramatically-quits-cdc-panel-complaining-of-drama/" target="_blank">RFK Jr. anti-vaccine ally dramatically quits CDC panel, complaining of drama</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-03-25 03:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/" target="_blank">A former Thiel fellow’s startup just launched a drone it says can replace police helicopters</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-25 02:30</span>
             </div>
         </div>
 <div class="story">
@@ -134,29 +161,29 @@
                 <span class="time">2026-03-25 00:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/899717/meta-instagram-facebook-affiliate-shopping-links-reels" target="_blank">Instagram and Facebook are about to be filled with affiliate content</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-24 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2263005227-500x500.jpg" alt="Final analysis of 2025 Iberian blackout: Policies left Spain at risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/03/final-analysis-of-2025-iberian-blackout-policies-left-spain-at-risk/" target="_blank">Final analysis of 2025 Iberian blackout: Policies left Spain at risk</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-24 22:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvo6h1d4hsvrieo48k8x9.png" alt="HL7 FHIR API Nutzung: Umfassende Anleitung zur Gesundheitswesen Integration (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/emree_demir/hl7-fhir-api-nutzung-umfassende-anleitung-zur-gesundheitswesen-integration-2026-4gd2" target="_blank">HL7 FHIR API Nutzung: Umfassende Anleitung zur Gesundheitswesen Integration (2026)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-25 04:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf" target="_blank">US Army raises enlistment age to 42 and removes marijuana waiver requirement</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-25 03:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,24 +218,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/pine64-tease-pinetime-pro-smartwatch" target="_blank">Pine64 teases PineTime Pro with AMOLED, GPS and ‘custom’ chip</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-03-25 01:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://spectrum.ieee.org/data-center-dc" target="_blank">In Edison’s Revenge, Data Centers Are Transitioning From AC to DC</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-25 00:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-ANV-BTP-BTI-RCC-Keying" target="_blank">Intel&#x27;s Vulkan Linux Driver Lands New Feature To Boost DX12 Game Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-25 00:14</span>
             </div>
         </div>
 </div>
@@ -321,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 03:51 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 04:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
