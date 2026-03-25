@@ -1,31 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-25 08:10:51 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-25 09:15:25 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, March 25, 2026 - 08:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, March 25, 2026 - 09:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Tabriz-damage-DB-260325_1774429660944_hpMain_4x3t_384.jpg" alt="Iran live updates: US sent Iran 15-point plan to end war, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431" target="_blank">Iran live updates: US sent Iran 15-point plan to end war, sources say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-25 09:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/25/nx-s1-5745122/small-business-cash-advance-loans-connecticut" target="_blank">They gave her business a lifeline, then froze all her money</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-25 09:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/25/is-irans-negotiating-position-stronger-than-when-us-israeli-war-started?traffic_source=rss" target="_blank">Is Iran’s negotiating position stronger than when US-Israeli war started?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-25 08:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -60,39 +96,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aff/live/3bb706a0-2819-11f1-8b58-355b987e1613.jpg" alt="&#x27;He liked the fear in our eyes&#x27;, Epstein survivors tell BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb62/live/f5d585d0-281d-11f1-934f-036468834728.jpg" alt="&#x27;He liked the fear in our eyes,&#x27; Epstein survivors tell BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy81n9wexx6o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;He liked the fear in our eyes&#x27;, Epstein survivors tell BBC</a></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy81n9wexx6o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;He liked the fear in our eyes,&#x27; Epstein survivors tell BBC</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-25 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/3/25/amid-us-israeli-attacks-people-in-iran-struggle-to-survive-ailing-economy?traffic_source=rss" target="_blank">Amid US-Israeli attacks, people in Iran struggle to survive ailing economy</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-25 05:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/25/g-s1-115055/openai-pulls-the-plug-on-sora-the-viral-ai-video-app-that-sparked-deepfake-concerns" target="_blank">OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-25 05:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/culture/2026/mar/25/ebo-m-lion-king-circle-of-life-chant-learnmore-jonasi-lawsuit" target="_blank">Lebo M sues comedian Learnmore Jonasi claiming Circle of Life misrepresentation</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-25 03:06</span>
             </div>
         </div>
 </div>
@@ -162,10 +171,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://tildeweb.nl/~michiel/httpxyz.html" target="_blank">Forking httpx as httpxyz</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-25 08:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/universe7creator/the-complete-guide-to-model-context-protocol-mcp-building-ai-native-applications-in-2026-234n" target="_blank">The Complete Guide to Model Context Protocol (MCP): Building AI-Native Applications in 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-25 08:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tildeweb.nl/~michiel/httpxyz.html" target="_blank">I Forked Httpx</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-25 08:05</span>
             </div>
         </div>
 <div class="story">
@@ -193,24 +220,6 @@
                 <span class="title"><a href="https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/" target="_blank">TurboQuant: Redefining AI efficiency with extreme compression</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-25 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvo6h1d4hsvrieo48k8x9.png" alt="HL7 FHIR API Nutzung: Umfassende Anleitung zur Gesundheitswesen Integration (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/emree_demir/hl7-fhir-api-nutzung-umfassende-anleitung-zur-gesundheitswesen-integration-2026-4gd2" target="_blank">HL7 FHIR API Nutzung: Umfassende Anleitung zur Gesundheitswesen Integration (2026)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-25 04:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf" target="_blank">US Army raises enlistment age to 42 and removes marijuana waiver requirement</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-25 03:44</span>
             </div>
         </div>
 </div>
@@ -292,6 +301,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/03/25/here-we-go-again" target="_blank">Here We Go Again</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-25 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5793.png" alt="Seabreeze No!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -323,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 08:10 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 09:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
