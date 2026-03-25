@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-25 05:27:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-25 06:18:20 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, March 25, 2026 - 05:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, March 25, 2026 - 06:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/3/25/amid-us-israeli-attacks-people-in-iran-struggle-to-survive-ailing-economy?traffic_source=rss" target="_blank">Amid US-Israeli attacks, people in Iran struggle to survive ailing economy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-25 05:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/25/g-s1-115055/openai-pulls-the-plug-on-sora-the-viral-ai-video-app-that-sparked-deepfake-concerns" target="_blank">OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-25 05:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cp8dnxln3y5o?at_medium=RSS&at_campaign=rss" target="_blank">NHS waited two days before raising alarm about meningitis outbreak</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-25 00:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/24/nx-s1-5759276/anthropic-pentagon-claude-preliminary-injunction-hearing" target="_blank">Judge says government&#x27;s Anthropic ban looks like punishment</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-25 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30fd/live/65c23d50-27ad-11f1-a79a-77e93010d956.jpg" alt="Oil at $150 will trigger global recession, says boss of financial giant BlackRock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss" target="_blank">Oil at $150 will trigger global recession, says boss of financial giant BlackRock</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-25 00:00</span>
             </div>
         </div>
 </div>
@@ -170,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ravindrasinghshah/most-genai-chatbot-tutorials-stop-at-call-an-llm-get-an-answer-1k8g" target="_blank">Most GenAI chatbot tutorials stop at “call an LLM get an answer.”</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-25 06:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/_d7eb1c1703182e3ce1782/api-rate-limiting-strategies-algorithms-and-free-tools-gnc" target="_blank">API Rate Limiting: Strategies, Algorithms, and Free Tools</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-25 05:23</span>
@@ -196,28 +201,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/0012303/i-built-a-supply-chain-scanner-for-python-pip-has-the-same-problem-as-npm-8ll" target="_blank">I Built a Supply Chain Scanner for Python — pip Has the Same Problem as npm</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-25 02:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/shielding-the-core-parra/en/headerimage/java-istock-image-01-1774371376293.jpg" alt="QCon London 2026: Shielding the Core: Architecting Resilience with Multi-Layer Defenses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/shielding-the-core-parra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: Shielding the Core: Architecting Resilience with Multi-Layer Defenses</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-25 02:30</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://v-os.dev" target="_blank">VitruvianOS – Desktop Linux Inspired by the BeOS</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-25 03:17</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/0012303/pubmed-has-a-free-api-search-35m-medical-papers-without-scraping-no-key-2me" target="_blank">PubMed Has a Free API — Search 35M+ Medical Papers Without Scraping (No Key)</a></span>
+                <span class="title"><a href="https://dev.to/0012303/i-built-a-supply-chain-scanner-for-python-pip-has-the-same-problem-as-npm-8ll" target="_blank">I Built a Supply Chain Scanner for Python — pip Has the Same Problem as npm</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-03-25 01:16</span>
+                <span class="time">2026-03-25 02:48</span>
             </div>
         </div>
 </div>
@@ -239,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/moresadhobbits-1280x853.jpg" alt="Another New ‘Lord of the Rings’ Movie Is in the Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lord-of-the-rings-shadow-of-the-past-new-movie-stephen-colbert-2000737771" target="_blank">Another New ‘Lord of the Rings’ Movie Is in the Works</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-25 04:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Daredevil-Born-Again-2-Review-1280x853.jpg" alt="‘Daredevil: Born Again’ Season 2 Is a Slow Burn That’s Worth the Wait" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +289,6 @@
                 <span class="time">2026-03-24 21:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/bungiess.jpg" alt="Sony Is At A Crossroads With Bungie’s Marathon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sony-is-at-a-crossroads-with-bungies-marathon-2000681566" target="_blank">Sony Is At A Crossroads With Bungie’s Marathon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-24 21:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 05:27 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 06:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
