@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-24 23:05:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-25 00:08:40 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, March 24, 2026 - 23:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, March 25, 2026 - 00:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/24/russian-weapons-tactics-seen-in-ukraine-are-shaping-myanmars-civil-war?traffic_source=rss" target="_blank">Russian weapons, tactics seen in Ukraine are shaping Myanmar’s civil war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-24 23:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +98,6 @@
                 <span class="time">2026-03-24 17:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50fe/live/5001efa0-27a4-11f1-a79a-77e93010d956.jpg" alt="Iran war shows norms of international conflicts have been overturned" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gjv02g54ko?at_medium=RSS&at_campaign=rss" target="_blank">Iran war shows norms of international conflicts have been overturned</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-24 15:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -107,10 +106,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/24/lululemon-bets-epoch-biodesign-can-eat-its-shorts-literally/" target="_blank">Lululemon bets Epoch Biodesign can eat its shorts, literally</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-25 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/899717/meta-instagram-facebook-affiliate-shopping-links-reels" target="_blank">Instagram and Facebook are about to be filled with affiliate content</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-24 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69c30bf9dc53bcd949e45335/master/pass/Pentagon-Attempt-to-Cripple-Anthropic-Troublesome-Business-2268179185.jpg" alt="Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/" target="_blank">Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-24 22:13</span>
             </div>
         </div>
 <div class="story">
@@ -140,29 +157,20 @@
                 <span class="time">2026-03-24 21:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/" target="_blank">Google TV’s new Gemini features keep fans updated on sports teams and more</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-24 19:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c2c874bebdcbc5795fe12e/master/pass/US-Foreign-Made-Router-Ban-Gear-2222209888.jpg" alt="What You Need to Know About the Foreign-Made Router Ban in the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/us-government-foreign-made-router-ban-explained/" target="_blank">What You Need to Know About the Foreign-Made Router Ban in the US</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-24 18:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Unbreakable-Enterprise-UEK-8.2" target="_blank">Oracle Releases Unbreakable Enterprise Kernel 8.2 - Still On Linux 6.12 LTS Base</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-24 20:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +216,6 @@
                 <span class="time">2026-03-24 18:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Fellowship-Program" target="_blank">GNOME Foundation Announces Fellowship Program</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-24 18:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/sam_altman_sora-1280x843.jpg" alt="R.I.P. Sora (2024-2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/r-i-p-sora-2024-2026-2000737664" target="_blank">R.I.P. Sora (2024-2026)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-24 22:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KMGHPXR015JX2P3TF78SSWRC/hero-image.png" alt="What People Are Getting Wrong This Week: Teleportation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +287,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/openai-just-killed-sora?utm_medium=RSS" target="_blank">OpenAI Just Killed Sora</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-24 21:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/sperm-whale-headbutting-video-top-image-1280x853.jpg" alt="Watch First Video Evidence of Sperm Whales Headbutting Each Other" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/watch-first-video-evidence-of-sperm-whales-headbutting-each-other-2000737607" target="_blank">Watch First Video Evidence of Sperm Whales Headbutting Each Other</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-24 20:50</span>
             </div>
         </div>
 </div>
@@ -336,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 23:06 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 00:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
