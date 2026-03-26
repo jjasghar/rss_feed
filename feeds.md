@@ -1,29 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-26 18:16:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-26 19:22:57 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 21 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, March 26, 2026 - 18:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, March 26, 2026 - 19:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/26/as-trump-claims-us-winning-tehran-asserts-legal-right-over-hormuz-strait?traffic_source=rss" target="_blank">Trump says Iran ‘begging’ for deal to end war as Tehran issues new demands</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-26 19:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cabinet-15-gty-gmh-260326_1774538444624_hpMain_4x3t_384.jpg" alt="Trump envoy Witkoff reveals more details of US negotiations with Iran prior to war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-envoy-witkoff-reveals-details-us-negotiations-iran/story?id=131436482" target="_blank">Trump envoy Witkoff reveals more details of US negotiations with Iran prior to war</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-26 18:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36e6/live/a68f56a0-2920-11f1-babf-516204a6f1ce.jpg" alt="Rationing power and diluting petrol - how African countries are coping with effects of Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,30 +95,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774540756876_now_brk_trump_iran_oil_presents_260326_S3_1920x1080-5f9olf.jpg" alt="Trump says the &#x27;present&#x27; from Iran was &#x27;eight big boats of oil&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/26/tehranstollbooth-how-iran-picks-who-to-let-through-strait-of-hormuz?traffic_source=rss" target="_blank">Tehran’s’tollbooth’: How Iran picks who to let through Strait of Hormuz</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-26 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/26/nx-s1-5762241/kennedy-center-name-lawsuit-trump" target="_blank">Suit asks court to force Trump administration to use &#x27;The Kennedy Center&#x27; name</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-26 14:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/news/2026/mar/26/nigeria-regional-superpower-uk-reparative-justice-trade-economic-ties" target="_blank">Nigeria takes its place on world stage in quest to become regional superpower</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-26 14:45</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-says-the-present-from-iran-was-eight-big-boats-of-oil-260115013831" target="_blank">Trump says the &#x27;present&#x27; from Iran was &#x27;eight big boats of oil&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-26 15:59</span>
             </div>
         </div>
 </div>
@@ -98,6 +108,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/26/google-translates-real-time-headphone-translations-feature-expands-to-ios-and-more-countries/" target="_blank">Google Translate’s real-time headphone translations feature expands to iOS and more countries</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-26 19:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/electric-piggy-bank-20k-500x500.jpg" alt="You&#x27;ve got $20,000 to spend on an EV: Here are some options" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/03/youve-got-20000-to-spend-on-an-ev-here-are-some-options/" target="_blank">You&#x27;ve got $20,000 to spend on an EV: Here are some options</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-26 19:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69c56acfbf542f5813ce4da0/master/pass/This-Is-the-Cheapest-Cadence-Capsules-Have-Been-This-Year.jpg" alt="You Can Skip a Lot of Amazon’s Spring Sale, but Don’t Skip This Travel Upgrade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cadence-capsules-amazon-spring-sale-2026/" target="_blank">You Can Skip a Lot of Amazon’s Spring Sale, but Don’t Skip This Travel Upgrade</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-26 18:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69c31871ea56e672b4eef17c/master/pass/The-Best-Deals-From-the-Amazon-Spring-Sale.jpg" alt="These 35 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -125,38 +162,20 @@
                 <span class="time">2026-03-26 16:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/901580/govee-rgb-table-lamp-2-pro-speaker-amazon-big-spring-sale-2026-deal" target="_blank">Govee’s color-changing smart lamps are on sale for up to 30 percent off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-26 16:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/26/google-is-launching-search-live-globally/" target="_blank">Google is launching Search Live globally</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-26 16:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/dartagnan-500x500.png" alt="Archaeologists may have found the grave of the legendary &quot;fourth musketeer&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/03/archaeologists-may-have-found-the-grave-of-the-legendary-fourth-musketeer/" target="_blank">Archaeologists may have found the grave of the legendary &quot;fourth musketeer&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-26 15:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/siddharth_singh_409bd5267/root-cause-analysis-the-complete-guide-for-sres-1chm" target="_blank">Root Cause Analysis: The Complete Guide for SREs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-26 19:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,15 +219,6 @@
                 <span class="title"><a href="https://futuresearch.ai/blog/litellm-attack-transcript/" target="_blank">My minute-by-minute response to the LiteLLM malware attack</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-26 15:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/ubuntu-2604-hero-2.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s App Center now lets you manage Deb packages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ubuntu-app-center-deb-management" target="_blank">Ubuntu’s App Center now lets you manage Deb packages</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-26 15:17</span>
             </div>
         </div>
 </div>
@@ -321,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 18:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 19:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
