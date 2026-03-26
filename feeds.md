@@ -1,35 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-03-26 10:16:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-26 11:16:44 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, March 26, 2026 - 10:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, March 26, 2026 - 11:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +52,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/26/video-storms-wash-away-vehicles-and-flood-homes-across-middle-east?traffic_source=rss" target="_blank">Video: Storms wash away vehicles and flood homes across Middle East</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-26 10:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/Iran-protest-DB-260326_1774515716908_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran negotiating, claims leaders &#x27;afraid&#x27; to be killed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431" target="_blank">Iran live updates: Trump says Iran negotiating, claims leaders &#x27;afraid&#x27; to be killed</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-26 09:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/26/nx-s1-5761882/iran-war-peace-conditions" target="_blank">Israel and Iran ramp up attacks as Trump insists Tehran wants a deal</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-26 09:44</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +105,20 @@
                 <span class="time">2026-03-26 08:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/26/netanyahu-boasts-about-breaking-boundaries-in-every-sense-of-the-word?traffic_source=rss" target="_blank">Netanyahu boasts about ‘breaking boundaries in every sense of the word’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-26 05:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/26/nx-s1-5761898/melania-trump-robot-education-technology-ai" target="_blank">Melania Trump shares the spotlight with a robot at an education and technology event</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-26 05:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69c41b2aa8ef1ae045a7c228/master/pass/gear_omega_Top-Art-Suggestion-2.jpg" alt="This Groundbreaking Omega Watch’s Accuracy Is Calibrated Using Sound" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/omega-constellation-observatory-watch-accuracy-is-calibrated-using-sound/" target="_blank">This Groundbreaking Omega Watch’s Accuracy Is Calibrated Using Sound</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-26 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69c491674ff31d9d83687435/master/pass/Review--Saatva-HD-Mattress.jpg" alt="Saatva HD Mattress Review: A Solution for Heavy-Bodied Sleepers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +164,20 @@
                 <span class="time">2026-03-26 00:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/" target="_blank">Mercor competitor Deccan AI raises $25M, sources experts from India</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-26 00:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe-THP-For-Device-SVM" target="_blank">Intel Xe Driver In Linux 7.1 Enabling THP For Device Pages As A Big SVM Win</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-26 11:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +223,6 @@
                 <span class="time">2026-03-26 05:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17306359/appimage-fuse-issue" target="_blank">Troubleshooting &amp;quot;AppImages require FUSE to run&amp;quot; on Linux</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-26 05:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -226,9 +232,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/sen-wyden-warns-of-another-section-702-abuse.html" target="_blank">Sen. Wyden Warns of Another Section 702 Abuse</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/as-the-us-midterms-approach-ai-is-going-to-emerge-as-a-key-issue-concerning-voters.html" target="_blank">As the US Midterms Approach, AI Is Going to Emerge as a Key Issue Concerning Voters</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-03-25 11:02</span>
+                <span class="time">2026-03-26 11:06</span>
             </div>
         </div>
 </div>
@@ -336,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 10:17 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 11:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
