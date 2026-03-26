@@ -1,34 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-03-26 16:22:35 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing 54 RSS feeds at 2026-03-26 17:20:27 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, March 26, 2026 - 16:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, March 26, 2026 - 17:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/603e/live/1ea2ded0-2932-11f1-b930-6bf1eac08e0d.jpg" alt="NS&amp;I boss replaced as savers left waiting for millions of pounds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss" target="_blank">NS&amp;I boss replaced as savers left waiting for millions of pounds</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-26 16:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +93,38 @@
                 <span class="time">2026-03-26 13:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/982f/live/91905290-2916-11f1-934f-036468834728.jpg" alt="UK forecast to see biggest hit to growth from Iran war out of major economies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgk0j71g417o?at_medium=RSS&at_campaign=rss" target="_blank">UK forecast to see biggest hit to growth from Iran war out of major economies</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-26 12:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/IMG_7493-500x500-1774105331.jpeg" alt="Intel Core Ultra 270K and 250K Plus review: Conditionally great CPUs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/intel-core-ultra-270k-and-250k-plus-review-conditionally-great-cpus/" target="_blank">Intel Core Ultra 270K and 250K Plus review: Conditionally great CPUs</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-26 16:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/901580/govee-rgb-table-lamp-2-pro-speaker-amazon-big-spring-sale-2026-deal" target="_blank">Govee’s color-changing smart lamps are on sale for up to 30 percent off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-26 16:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/26/google-is-launching-search-live-globally/" target="_blank">Google is launching Search Live globally</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-26 16:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/dartagnan-500x500.png" alt="Archaeologists may have found the grave of the legendary &quot;fourth musketeer&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -128,33 +150,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/03/26/a-major-hacking-tool-has-leaked-online-putting-millions-of-iphones-at-risk-heres-what-you-need-to-know/" target="_blank">A major hacking tool has leaked online, putting millions of iPhones at risk. Here’s what you need to know</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-26 14:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/900953/best-apple-deals-amazon-big-spring-sale-2026" target="_blank">Some of our favorite Apple tech is cheaper than ever during Amazon’s Big Spring Sale</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-26 13:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c474ecce6b688f493a5dcf/master/pass/Review--Soundboks-Mix-Bluetooth-Speaker.jpg" alt="Soundboks Mix Review: A Great Party Speaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/soundboks-mix/" target="_blank">Soundboks Mix Review: A Great Party Speaker</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-26 12:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/899735/dji-avata-360-release-date-price-specs-impressions-antigravity-a1-comparison" target="_blank">DJI’s Avata 360 is a more functional, flexible 360 drone</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-26 12:00</span>
             </div>
         </div>
 </div>
@@ -236,6 +231,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2114314190.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="30-40% of Gulf energy infrastructure &quot;destroyed&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/26/30-40-of-gulf-energy-infrastructure-destroyed.html" target="_blank">30-40% of Gulf energy infrastructure &quot;destroyed&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-26 16:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/Official-Marathon-promo-image-1280x720.jpg" alt="Some People Are So Desperate To Hate Marathon They’ve Embraced A Fake Conspiracy About Paid Reddit Posts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -280,20 +284,20 @@
                 <span class="time">2026-03-26 14:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/DJI-Avata-360-Flight-attitude1-1280x853.jpg" alt="DJI Now Has a Cheaper 360 Drone Than Insta360, but the U.S. Won’t Get It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dji-now-has-a-cheaper-360-drone-than-insta360-but-the-u-s-wont-get-it-2000738454" target="_blank">DJI Now Has a Cheaper 360 Drone Than Insta360, but the U.S. Won’t Get It</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-26 14:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1774387043-20260326.png" alt="Saturday Morning Breakfast Cereal - Humor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/humor-2" target="_blank">Saturday Morning Breakfast Cereal - Humor</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-26 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -317,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 16:22 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 17:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
