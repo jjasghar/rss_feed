@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-26 20:06:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-26 21:06:40 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, March 26, 2026 - 20:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, March 26, 2026 - 21:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/26/nx-s1-5762579/ioc-bans-trans-women-events-genetic-testing" target="_blank">The Olympic committee bans trans athletes from women&#x27;s events, raising many questions</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-26 20:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cabinet-2-gty-gmh-260326_1774536415151_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump extends deadline to make deal with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431" target="_blank">Iran live updates: Trump extends deadline to make deal with Iran</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-26 20:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +101,20 @@
                 <span class="time">2026-03-26 18:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fae/live/f2b9d3f0-293b-11f1-934f-036468834728.jpg" alt="Zelensky visits Saudi Arabia after offering Ukraine&#x27;s drone expertise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky visits Saudi Arabia after offering Ukraine&#x27;s drone expertise</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-26 18:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36e6/live/a68f56a0-2920-11f1-babf-516204a6f1ce.jpg" alt="Rationing power and diluting petrol - how African countries are coping with effects of Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss" target="_blank">Rationing power and diluting petrol - how African countries are coping with effects of Iran war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-26 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/901836/anker-qi2-wireless-charging-iphone-magsafe-amazon-big-spring-sale-2026-deal" target="_blank">Anker’s wireless charging pad offers Qi2 speeds for $15</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-26 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +158,6 @@
                 <span class="title"><a href="https://www.wired.com/story/the-amazon-spring-sale-2026-1/" target="_blank">These 35 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-03-26 18:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/901384/xbox-partner-preview-games-news-trailers" target="_blank">Xbox’s latest games showcase had Hades 2, The Expanse, and Bluey</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-26 17:42</span>
             </div>
         </div>
 </div>
@@ -235,6 +239,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/For-All-Mankind-5-interview-1280x853.jpg" alt="Why ‘For All Mankind’ Season 5 Is the Key to the Rest of the Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/why-for-all-mankind-season-5-is-the-key-to-the-rest-of-the-series-2000738151" target="_blank">Why ‘For All Mankind’ Season 5 Is the Key to the Rest of the Series</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-26 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/lipps.jpg?fit=1200%2C811&amp;quality=60&amp;ssl=1" alt="Cops used AI to match a photo to an innocent grandmother in Tennessee, then jailed her for nearly 6 months" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/26/cops-used-ai-to-match-a-photo-to-an-innocent-grandmother-in-tennessee-then-jailed-her-for-nearly-6-months.html" target="_blank">Cops used AI to match a photo to an innocent grandmother in Tennessee, then jailed her for nearly 6 months</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-26 20:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/donald-trump-e1764689813387.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains recommends invoking the 25th to stop him" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -268,24 +290,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/26/30-40-of-gulf-energy-infrastructure-destroyed.html" target="_blank">30-40% of Gulf energy infrastructure &quot;destroyed&quot;</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-26 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/Official-Marathon-promo-image-1280x720.jpg" alt="Some People Are So Desperate To Hate Marathon They’ve Embraced A Fake Conspiracy About Paid Reddit Posts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marathon-content-farm-discord-reddit-posts-bungie-fake-2000682208" target="_blank">Some People Are So Desperate To Hate Marathon They’ve Embraced A Fake Conspiracy About Paid Reddit Posts</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-26 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMJN8ZY6V1KX8R4EK3K216GX/hero-image.jpg" alt="10 Shows Like &#x27;The Comeback&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-shows-like-the-comeback?utm_medium=RSS" target="_blank">10 Shows Like &#x27;The Comeback&#x27; You Should Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-26 16:00</span>
             </div>
         </div>
 </div>
@@ -325,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 20:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 21:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
