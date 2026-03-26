@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-26 13:28:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-26 14:28:12 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, March 26, 2026 - 13:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, March 26, 2026 - 14:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/26/russian-officials-meet-us-counterparts-as-moscow-denies-aiding-iran?traffic_source=rss" target="_blank">Russian officials meet US counterparts as Moscow denies aiding Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-26 13:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/982f/live/91905290-2916-11f1-934f-036468834728.jpg" alt="UK forecast to see biggest hit to growth from Iran war out of major economies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,6 +87,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/26/g-s1-115291/southeast-asia-turns-to-nuclear-as-iran-war-disrupts-energy-supplies" target="_blank">Southeast Asia turns to nuclear as Iran war disrupts energy supplies</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-26 11:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774524315927_tdy_news_7a_engel_war_escalates_260326_S3_1920x1080-7m792t.jpg" alt="Attacks Escalate in Middle East as Trump Insists Iran Wants a Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -82,29 +104,20 @@
                 <span class="time">2026-03-26 11:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/26/video-storms-wash-away-vehicles-and-flood-homes-across-middle-east?traffic_source=rss" target="_blank">Video: Storms wash away vehicles and flood homes across Middle East</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-26 10:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8be3/live/e994c790-2881-11f1-a79a-77e93010d956.jpg" alt="Are the US and Iran holding peace talks, and what do both sides want?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm29l9r68j8o?at_medium=RSS&at_campaign=rss" target="_blank">Are the US and Iran holding peace talks, and what do both sides want?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-26 10:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/26/a-major-hacking-tool-has-leaked-online-putting-millions-of-iphones-at-risk-heres-what-you-need-to-know/" target="_blank">A major hacking tool has leaked online, putting millions of iPhones at risk. Here’s what you need to know</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-26 14:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +163,38 @@
                 <span class="time">2026-03-26 09:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/900656/uber-pony-ai-verne-robotaxi-europe" target="_blank">Uber aims to launch Europe’s first robotaxi service with Pony AI and Verne</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-26 08:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aliaksandr_tsviatkou/sap-commerce-catalog-system-deep-dive-staged-content-synchronization-and-multi-catalog-hh2" target="_blank">SAP Commerce Catalog System Deep Dive: Staged Content, Synchronization, and Multi-Catalog Architecture</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-26 14:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18918855&w=600" alt="Why RAG Alone Isn’t Enough: How MCP Completes the Agentforce Intelligence Stack?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/rag-mcp-agentforce-intelligence-stack" target="_blank">Why RAG Alone Isn’t Enough: How MCP Completes the Agentforce Intelligence Stack?</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-26 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://nrposner.com/blog/when-vectorized-arrays-arent-enough/" target="_blank">When Vectorized Arrays Aren&#x27;t Enough</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-26 13:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -176,46 +207,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://bsky.app/profile/tuta.com/post/3mhxkfowv322c" target="_blank">European Parliament decided that Chat Control 1.0 must stop</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-26 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe-THP-For-Device-SVM" target="_blank">Intel Xe Driver In Linux 7.1 Enabling THP For Device Pages As A Big SVM Win</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-26 11:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/michaelfv/make-your-queries-10x-faster-with-gbase-8a-rough-index-9fk" target="_blank">Make Your Queries 10x Faster with GBase 8a Rough Index</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-26 10:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/s3-account-regional-namespaces/en/headerimage/generatedHeaderImage-1773935729085.jpg" alt="AWS S3 Introduces Account-Regional Namespaces, Ending 18 Years of Global Bucket Name Collisions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/s3-account-regional-namespaces/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS S3 Introduces Account-Regional Namespaces, Ending 18 Years of Global Bucket Name Collisions</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-26 10:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/architectural-governance-ai-speed/en/headerimage/architectural-governance-ai-speed-header-1773997111820.jpg" alt="Article: Architectural Governance at AI Speed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/architectural-governance-ai-speed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Architectural Governance at AI Speed</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-26 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17306445/dylan-taylor-systemd-controversy" target="_blank">Inside the Systemd Age Verification Debate: Developer Responds to Criticism</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-26 08:57</span>
             </div>
         </div>
 </div>
@@ -297,6 +301,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/26/the-pax-east-show-store-is-open" target="_blank">The PAX East Show Store Is Open!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-26 11:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5794.png" alt="Job Talk" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -337,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 13:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 14:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
