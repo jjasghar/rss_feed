@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-26 19:22:57 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-26 20:06:37 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NPR News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, March 26, 2026 - 19:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, March 26, 2026 - 20:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/26/nx-s1-5759159/trump-ice-airports-tsa" target="_blank">Trump has deployed ICE agents to the nation&#x27;s airports. What&#x27;s their role?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-26 19:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/26/key-takeaways-from-trumps-war-on-iran-meeting?traffic_source=rss" target="_blank">Key takeaways from Trump’s war on Iran meeting</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-26 19:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fae/live/f2b9d3f0-293b-11f1-934f-036468834728.jpg" alt="Zelensky visits Saudi Arabia after offering Ukraine&#x27;s drone expertise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky visits Saudi Arabia after offering Ukraine&#x27;s drone expertise</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-26 18:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36e6/live/a68f56a0-2920-11f1-babf-516204a6f1ce.jpg" alt="Rationing power and diluting petrol - how African countries are coping with effects of Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -76,38 +97,20 @@
                 <span class="time">2026-03-26 17:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/603e/live/1ea2ded0-2932-11f1-b930-6bf1eac08e0d.jpg" alt="NS&amp;I boss replaced as savers left waiting for millions of pounds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss" target="_blank">NS&amp;I boss replaced as savers left waiting for millions of pounds</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-26 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/26/nx-s1-5762019/americas-first-ai-fueled-war-is-unfolding-right-now-in-iran-this-is-how-we-got-here" target="_blank">America&#x27;s first AI-fueled war is unfolding right now in Iran. This is how we got here</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-26 16:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774540756876_now_brk_trump_iran_oil_presents_260326_S3_1920x1080-5f9olf.jpg" alt="Trump says the &#x27;present&#x27; from Iran was &#x27;eight big boats of oil&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-says-the-present-from-iran-was-eight-big-boats-of-oil-260115013831" target="_blank">Trump says the &#x27;present&#x27; from Iran was &#x27;eight big boats of oil&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-26 15:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23901586/streaming-service-prices-netflix-disney-hulu-peacock-max" target="_blank">Streaming keeps getting more expensive: all the latest price hikes</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-26 19:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +156,20 @@
                 <span class="time">2026-03-26 17:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/IMG_7493-500x500-1774105331.jpeg" alt="Intel Core Ultra 270K and 250K Plus review: Conditionally great CPUs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/intel-core-ultra-270k-and-250k-plus-review-conditionally-great-cpus/" target="_blank">Intel Core Ultra 270K and 250K Plus review: Conditionally great CPUs</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-26 16:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fph53v27zmjaz9apt18yl.png" alt="Let&#x27;s Work together as front-end developer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shah_ce535b7ff81cbb5/lets-work-together-as-front-end-developer-1mol" target="_blank">Let&#x27;s Work together as front-end developer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-26 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,6 +189,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!X6bS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48b5fd12-15b7-46b8-acd4-d78d55ef2fe4_1576x432.png" alt="The Pulse: is GitHub still best for AI-native development?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-is-github-still-best-for" target="_blank">The Pulse: is GitHub still best for AI-native development?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-03-26 17:23</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
@@ -201,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/axiom_agent_1dc642fa83651/zero-downtime-deployments-in-nodejs-blue-green-rolling-and-canary-explained-192k" target="_blank">Zero-Downtime Deployments in Node.js: Blue-Green, Rolling, and Canary Explained</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-26 16:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/" target="_blank">A year of open source vulnerability trends: CVEs, advisories, and malware</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-03-26 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://futuresearch.ai/blog/litellm-attack-transcript/" target="_blank">My minute-by-minute response to the LiteLLM malware attack</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-26 15:48</span>
             </div>
         </div>
 </div>
@@ -240,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/donald-trump-e1764689813387.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains recommends invoking the 25th to stop him" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/26/grandpa-pudding-brains-recommends-invoking-the-25th-to-stop-him.html" target="_blank">Grandpa Pudding Brains recommends invoking the 25th to stop him</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-26 19:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/ace-ventura-rhino-auction-1280x853.jpg" alt="‘Butt Birth’-ing Rhinoceros from Ace Ventura Sequel Sold at Auction for a Whopping $60,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +288,6 @@
                 <span class="time">2026-03-26 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Ancient-Dogs-Europe-Domestication-Humans-1280x854.jpg" alt="Humans Were Already Dog People 16,000 Years Ago, DNA Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/humans-were-already-dog-people-16000-years-ago-dna-suggests-2000738490" target="_blank">Humans Were Already Dog People 16,000 Years Ago, DNA Suggests</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-26 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 19:23 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 20:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
