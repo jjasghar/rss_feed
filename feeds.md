@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-26 00:10:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-26 01:31:16 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, March 26, 2026 - 00:10 UTC</div>
+    <div class="newspaper-date">Thursday, March 26, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +107,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/901155/dell-xps-16-best-battery-lg-display-1hz-panther-lake-intel" target="_blank">Intel and LG Display may have beaten Apple and Qualcomm with the best laptop battery life ever</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-26 00:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/" target="_blank">Mercor competitor Deccan AI raises $25M, sources experts from India</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-26 00:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/" target="_blank">Delve did the security compliance on LiteLLM, an AI project hit by malware</a></span>
                 <span class="feed">TechCrunch</span>
@@ -139,24 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/900863/fanttik-x9-pro-portable-tire-inflator-amazon-big-spring-sale-deal-sale" target="_blank">The portable Fanttik X9 Pro tire inflator is down to its best price in months</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-25 21:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/guardian-500x500.jpg" alt="BRINC&#x27;s new police drone uses Starlink, carries Narcan, chases vehicles at 60mph" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/" target="_blank">BRINC&#x27;s new police drone uses Starlink, carries Narcan, chases vehicles at 60mph</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-25 21:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/25/waymo-robotaxi-roadside-assistance-emergency-first-responders/" target="_blank">Who’s driving Waymo’s self-driving cars? Sometimes, the police.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-25 20:57</span>
             </div>
         </div>
 </div>
@@ -238,6 +237,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/elon-musk-laughing-1280x897.jpeg" alt="You’ll Never Believe This but Elon Musk Doesn’t Get to Pay TSA Workers’ Salaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/youll-never-believe-this-but-elon-musk-doesnt-get-to-pay-tsa-workers-salaries-2000738309" target="_blank">You’ll Never Believe This but Elon Musk Doesn’t Get to Pay TSA Workers’ Salaries</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-26 00:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/whoami.jpg?fit=1200%2C824&amp;quality=60&amp;ssl=1" alt="This guy used AI to document his grandmother&#x27;s life on a personal Wikipedia and now you can, too" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -265,6 +273,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-25 22:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KMKDN8TNCSKDH81JPN6FZTM4/hero-image.png" alt="Roblox Gift Cards Are Majorly Discounted During Amazon&#x27;s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -273,29 +290,20 @@
                 <span class="time">2026-03-25 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/1.jpg?fit=1600%2C1600&amp;quality=60&amp;ssl=1" alt="Meadow is a small square smartphone with a few useful apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/25/meadow-is-a-small-square-smartphone-with-a-few-useful-apps.html" target="_blank">Meadow is a small square smartphone with a few useful apps</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-25 20:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/ramcrisisnex-1280x720.jpg" alt="RAM Crisis Is Forcing Super-Popular Kids Console To Raise Prices Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ram-shortage-nex-playground-console-price-increase-300-april-2000681935" target="_blank">RAM Crisis Is Forcing Super-Popular Kids Console To Raise Prices Again</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-25 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5794.png" alt="Job Talk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5794" target="_blank">Job Talk</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-03-26 01:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -332,22 +340,13 @@
                 <span class="time">2026-03-25 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5793.png" alt="Seabreeze No!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5793" target="_blank">Seabreeze No!</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-03-25 01:03</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 00:10 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
