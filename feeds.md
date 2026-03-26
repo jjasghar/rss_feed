@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-26 02:58:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-26 04:02:01 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, March 26, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, March 26, 2026 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/3/26/us-lawmakers-push-for-pause-in-data-centres-until-ai-safeguards-in-place?traffic_source=rss" target="_blank">US lawmakers push for pause in data centres until AI safeguards in place</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-26 03:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260304-nancy-mace-vl-1112a-ee6f6e.jpg" alt="Tensions flare during Iran briefing on Capitol Hill over lack of clarity on Trump&#x27;s strategy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/tensions-flare-iran-briefing-lawmakers-trump-officials-ground-troops-rcna265231" target="_blank">Tensions flare during Iran briefing on Capitol Hill over lack of clarity on Trump&#x27;s strategy</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-26 02:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260304-nancy-mace-vl-1112a-ee6f6e.jpg" alt="Tensions flare during Iran briefing on Capitol Hill" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,30 +89,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774479221083_nn_rno_tsa_warns_shutdown_might_lead_to_airport_closures_260325_S3_1920x1080-o0wo5v.jpg" alt="TSA warns shutdown might lead to airport closures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd23/live/f8eccb40-ef22-11f0-b1a3-cfac234d0717.jpg" alt="British forces preparing to board Russian shadow fleet ships in UK waters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/tsa-warns-shutdown-might-lead-to-airport-closures-260066885872" target="_blank">TSA warns shutdown might lead to airport closures</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-25 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/iran-13-ht-gmh-260325_1774463883427_hpMain_4x3t_384.jpg" alt="Iran live updates: &#x27;Not getting enough answers,&#x27; key House committee GOP chair says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431" target="_blank">Iran live updates: &#x27;Not getting enough answers,&#x27; key House committee GOP chair says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-25 22:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/25/mexico-will-continue-accepting-cuban-medical-workers-despite-us-pressure?traffic_source=rss" target="_blank">Mexico will continue accepting Cuban medical workers despite US pressure</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-25 22:28</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss" target="_blank">British forces preparing to board Russian shadow fleet ships in UK waters</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-25 23:03</span>
             </div>
         </div>
 </div>
@@ -173,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc6-More-Platform-Drv" target="_blank">ASUS Armoury &amp; HP WMI Drivers Add More Laptops Ahead Of Linux 7.0-rc6</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-26 00:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vincent4486/building-a-disk-image-without-root-privilege-40kp" target="_blank">Building Bootable Images in Userspace: Avoiding the Loop Device Trap</a></span>
                 <span class="feed">DEV Community</span>
@@ -204,15 +213,6 @@
                 <span class="title"><a href="https://fightchatcontrol.eu/?foo=bar" target="_blank">The EU still wants to scan  your private messages and photos</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-25 20:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18918038&w=600" alt="Stop Writing Slow Pandas Code: Vectorization and Modern Alternatives Explained" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/stop-slow-pandas-code-vectorization-polars-duckdb" target="_blank">Stop Writing Slow Pandas Code: Vectorization and Modern Alternatives Explained</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-25 20:00</span>
             </div>
         </div>
 </div>
@@ -343,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
