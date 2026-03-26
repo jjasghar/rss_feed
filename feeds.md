@@ -1,29 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-03-26 17:20:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-26 18:16:11 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 20 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, March 26, 2026 - 17:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, March 26, 2026 - 18:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36e6/live/a68f56a0-2920-11f1-babf-516204a6f1ce.jpg" alt="Rationing power and diluting petrol - how African countries are coping with effects of Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss" target="_blank">Rationing power and diluting petrol - how African countries are coping with effects of Iran war</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-26 17:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/603e/live/1ea2ded0-2932-11f1-b930-6bf1eac08e0d.jpg" alt="NS&amp;I boss replaced as savers left waiting for millions of pounds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,20 +93,29 @@
                 <span class="time">2026-03-26 14:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/26/russian-officials-meet-us-counterparts-as-moscow-denies-aiding-iran?traffic_source=rss" target="_blank">Russian officials meet US counterparts as Moscow denies aiding Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-26 13:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69c31871ea56e672b4eef17c/master/pass/The-Best-Deals-From-the-Amazon-Spring-Sale.jpg" alt="These 35 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-amazon-spring-sale-2026-1/" target="_blank">These 35 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-26 18:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/901384/xbox-partner-preview-games-news-trailers" target="_blank">Xbox’s latest games showcase had Hades 2, The Expanse, and Bluey</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-26 17:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/IMG_7493-500x500-1774105331.jpeg" alt="Intel Core Ultra 270K and 250K Plus review: Conditionally great CPUs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,29 +152,29 @@
                 <span class="time">2026-03-26 15:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c51c34c5f79ec5083eed48/master/pass/032626_Security-UK%20Just%20Sanctioned%20An%20$8.4%20Billion%20Chinese%20Crypto%20Blackmarket.jpg" alt="A $20 Billion Crypto Scam Market Faces a New Government Crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/20-billion-xinbi-guarantee-uk-sanctions/" target="_blank">A $20 Billion Crypto Scam Market Faces a New Government Crackdown</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-26 15:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/26/a-major-hacking-tool-has-leaked-online-putting-millions-of-iphones-at-risk-heres-what-you-need-to-know/" target="_blank">A major hacking tool has leaked online, putting millions of iPhones at risk. Here’s what you need to know</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-26 14:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/snowflake/the-data-engineers-cortex-code-cheat-sheet-3b60" target="_blank">The data engineer&#x27;s Cortex Code cheat sheet</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-26 18:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/" target="_blank">What’s coming to our GitHub Actions 2026 security roadmap</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-03-26 16:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -176,39 +194,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://futuresearch.ai/blog/litellm-attack-transcript/" target="_blank">My minute-by-minute response to the LiteLLM malware attack</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-26 15:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/ubuntu-2604-hero-2.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s App Center now lets you manage Deb packages" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ubuntu-app-center-deb-management" target="_blank">Ubuntu’s App Center now lets you manage Deb packages</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-03-26 15:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/vercel-json-render/en/headerimage/generatedHeaderImage-1774458868032.jpg" alt="Vercel Releases JSON-Render: A Generative UI Framework for AI-Driven Interface Composition" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/vercel-json-render/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vercel Releases JSON-Render: A Generative UI Framework for AI-Driven Interface Composition</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-26 14:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17306727/foss-weekly-26-13" target="_blank">FOSS Weekly #26.13: Age Verification Added in systemd, Systemd forked, Btrfs Subvolumes, New Backup Tool, Yazi Manager and More</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-26 14:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-Switching-To-ntpd-rs" target="_blank">Ubuntu Will Switch To ntpd-rs As Its Next Rust System Component</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-26 14:30</span>
             </div>
         </div>
 </div>
@@ -230,6 +230,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/ace-ventura-rhino-auction-1280x853.jpg" alt="‘Butt Birth’-ing Rhinoceros from Ace Ventura Sequel Sold at Auction for a Whopping $60,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/butt-birth-ing-rhinoceros-from-ace-ventura-sequel-sold-at-auction-for-a-whopping-60000-2000738604" target="_blank">‘Butt Birth’-ing Rhinoceros from Ace Ventura Sequel Sold at Auction for a Whopping $60,000</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-26 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/06/150073ce29eab9b061e992aa4966a2d5-1280x720.jpg" alt="Hades 2 Coming To PS5 And Xbox Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hades-2-coming-to-ps5-and-xbox-next-month-2000682249" target="_blank">Hades 2 Coming To PS5 And Xbox Next Month</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-26 17:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2114314190.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="30-40% of Gulf energy infrastructure &quot;destroyed&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,24 +282,6 @@
                 <span class="title"><a href="https://gizmodo.com/humans-were-already-dog-people-16000-years-ago-dna-suggests-2000738490" target="_blank">Humans Were Already Dog People 16,000 Years Ago, DNA Suggests</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-26 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMN9Q004EJSKYKBPAS0CG6BY/hero-image.png" alt="My Favorite Workout Headphones Are $40 Off During Amazon&#x27;s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/shokz-open-run-headphones-amazon-big-spring-sale-2026?utm_medium=RSS" target="_blank">My Favorite Workout Headphones Are $40 Off During Amazon&#x27;s Big Spring Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-26 15:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Wait-learns-his-fate.jpg?fit=1080%2C641&amp;quality=60&amp;ssl=1" alt="Conservative election fraud activist convicted of election fraud" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/26/conservative-election-fraud-activist-convicted-of-election-fraud.html" target="_blank">Conservative election fraud activist convicted of election fraud</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-26 14:55</span>
             </div>
         </div>
 </div>
@@ -321,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 17:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 18:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
