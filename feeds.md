@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-26 22:03:11 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-03-26 23:04:39 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, March 26, 2026 - 22:03 UTC</div>
+    <div class="newspaper-date">Thursday, March 26, 2026 - 23:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ee1/live/739e5950-293c-11f1-934f-036468834728.jpg" alt="Under-5s should not be on screens for more than an hour a day, parents told in new government advice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1d936n7445o?at_medium=RSS&at_campaign=rss" target="_blank">Under-5s should not be on screens for more than an hour a day, parents told in new government advice</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-26 22:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/oil-tanker-rt-jt-260314_1773503739436_hpMain_4x3t_384.jpg" alt="Trump extends deadline 2nd time for Iran to open the Strait of Hormuz amid talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +102,20 @@
                 <span class="time">2026-03-26 19:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/26/as-trump-claims-us-winning-tehran-asserts-legal-right-over-hormuz-strait?traffic_source=rss" target="_blank">Trump says Iran ‘begging’ for deal to end war as Tehran issues new demands</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-26 19:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/901792/best-robot-vacuum-mops-amazon-big-spring-sale-2026-deals" target="_blank">Robot vacuums from Eufy and Roborock are over 50 percent for Amazon’s spring sale</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-26 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1244262469-2-500x500-1774560028.jpg" alt="Elon Musk loses big in court; X boycott perfectly legal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,15 +159,6 @@
                 <span class="title"><a href="https://www.theverge.com/23901586/streaming-service-prices-netflix-disney-hulu-peacock-max" target="_blank">Streaming keeps getting more expensive: all the latest price hikes</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-26 19:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/26/google-translates-real-time-headphone-translations-feature-expands-to-ios-and-more-countries/" target="_blank">Google Translate’s real-time headphone translations feature expands to iOS and more countries</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-26 19:11</span>
             </div>
         </div>
 </div>
@@ -237,6 +240,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/shutterstock_2519492239.jpeg?fit=1080%2C608&amp;quality=60&amp;ssl=1" alt="Foreign aid looted to bankroll Trump&#x27;s unaccountable &quot;Board of Peace&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/26/foreign-aid-looted-to-bankroll-trumps-unaccountable-board-of-peace.html" target="_blank">Foreign aid looted to bankroll Trump&#x27;s unaccountable &quot;Board of Peace&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-26 22:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/deadpool-magic-the-gathering-secret-lair-1280x853.jpg" alt="Deadpool Will Deface ‘Magic: The Gathering’ Classics for a New Secret Lair" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/deadpool-magic-the-gathering-secret-lair-price-release-date-2000738645" target="_blank">Deadpool Will Deface ‘Magic: The Gathering’ Classics for a New Secret Lair</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-26 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/redlght.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="A dermatologist snuck red LED panels into his son&#x27;s hospital room after a stroke, and now he&#x27;s a convert" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -270,24 +291,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/26/cops-used-ai-to-match-a-photo-to-an-innocent-grandmother-in-tennessee-then-jailed-her-for-nearly-6-months.html" target="_blank">Cops used AI to match a photo to an innocent grandmother in Tennessee, then jailed her for nearly 6 months</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-26 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/donald-trump-e1764689813387.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains recommends invoking the 25th to stop him" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/26/grandpa-pudding-brains-recommends-invoking-the-25th-to-stop-him.html" target="_blank">Grandpa Pudding Brains recommends invoking the 25th to stop him</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-26 19:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/ace-ventura-rhino-auction-1280x853.jpg" alt="‘Butt Birth’-ing Rhinoceros from Ace Ventura Sequel Sold at Auction for a Whopping $60,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/butt-birth-ing-rhinoceros-from-ace-ventura-sequel-sold-at-auction-for-a-whopping-60000-2000738604" target="_blank">‘Butt Birth’-ing Rhinoceros from Ace Ventura Sequel Sold at Auction for a Whopping $60,000</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-26 18:00</span>
             </div>
         </div>
 </div>
@@ -327,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 22:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 23:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
