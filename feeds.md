@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-25 23:08:03 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-03-26 00:10:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, March 25, 2026 - 23:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, March 26, 2026 - 00:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-xi-3-ap-gmh-260325_1774464694720_hpMain_4x3t_384.jpg" alt="US-Iran conflict hands China&#x27;s Xi upper hand ahead of Trump meeting: Experts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/us-iran-conflict-hands-chinas-xi-upper-hand/story?id=131412478" target="_blank">US-Iran conflict hands China&#x27;s Xi upper hand ahead of Trump meeting: Experts</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-25 23:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/25/egypt-says-it-is-ready-to-host-iran-de-escalation-talks?traffic_source=rss" target="_blank">Egypt says it is ready to host Iran de-escalation talks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-25 23:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774479221083_nn_rno_tsa_warns_shutdown_might_lead_to_airport_closures_260325_S3_1920x1080-o0wo5v.jpg" alt="TSA warns shutdown might lead to airport closures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/tsa-warns-shutdown-might-lead-to-airport-closures-260066885872" target="_blank">TSA warns shutdown might lead to airport closures</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-25 22:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/iran-13-ht-gmh-260325_1774463883427_hpMain_4x3t_384.jpg" alt="Iran live updates: &#x27;Not getting enough answers,&#x27; key House committee GOP chair says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,38 +100,20 @@
                 <span class="time">2026-03-25 21:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/25/nx-s1-5729092/fda-rsv-antibodies-shots-babies" target="_blank">Doctors worry about FDA scrutiny of RSV shots to protect babies</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-25 20:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/zuckerberg-trial-ap-jt-260325_1774462163996_hpMain_4x3t_384.jpg" alt="Jury finds YouTube, Meta negligent in landmark social media trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/News/jury-returns-verdict-meta-youtube-landmark-social-media/story?id=131121474" target="_blank">Jury finds YouTube, Meta negligent in landmark social media trial</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-25 19:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/now_daily_b_social_media_verdict_260325.00_01_34_14.Still001-ziev0n.jpg" alt="Meta and YouTube found liable of negligence in social media addiction trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/meta-and-youtube-found-liable-of-negligence-in-social-media-addiction-trial-260055621546" target="_blank">Meta and YouTube found liable of negligence in social media addiction trial</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-25 19:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/" target="_blank">Delve did the security compliance on LiteLLM, an AI project hit by malware</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-26 00:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +159,20 @@
                 <span class="time">2026-03-25 20:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1499457607-500x500.jpg" alt="Reddit will require &quot;fishy&quot; accounts to verify they are run by a human" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/reddit-will-require-fishy-accounts-to-verify-they-are-run-by-a-human/" target="_blank">Reddit will require &quot;fishy&quot; accounts to verify they are run by a human</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-25 20:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vincent4486/building-a-disk-image-without-root-privilege-40kp" target="_blank">Building Bootable Images in Userspace: Avoiding the Loop Device Trap</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-26 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -214,15 +218,6 @@
                 <span class="time">2026-03-25 19:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/" target="_blank">Updates to GitHub Copilot interaction data usage policy</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-03-25 19:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/whoami.jpg?fit=1200%2C824&amp;quality=60&amp;ssl=1" alt="This guy used AI to document his grandmother&#x27;s life on a personal Wikipedia and now you can, too" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/25/this-guy-used-ai-to-document-his-grandmothers-life-on-a-personal-wikipedia-and-now-you-can-too.html" target="_blank">This guy used AI to document his grandmother&#x27;s life on a personal Wikipedia and now you can, too</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-25 23:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/mark-zuckerberg-getty-2025-1280x853.jpg" alt="Meta Lays Off 700 in Pivot From Metaverse to AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/ram-shortage-nex-playground-console-price-increase-300-april-2000681935" target="_blank">RAM Crisis Is Forcing Super-Popular Kids Console To Raise Prices Again</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-25 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/chats.jpg" alt="Dark Outlaw Games Founder Talks About PlayStation Studio Closure: ‘It F****** Sucked’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dark-outlaw-games-playstation-jason-blundell-jcbackfire-2000681926" target="_blank">Dark Outlaw Games Founder Talks About PlayStation Studio Closure: ‘It F****** Sucked’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-25 19:57</span>
             </div>
         </div>
 </div>
@@ -352,7 +347,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 30 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 23:08 UTC
+        🔄 Last Updated: 00:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
