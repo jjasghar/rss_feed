@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-26 21:06:40 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-26 22:03:11 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, March 26, 2026 - 21:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, March 26, 2026 - 22:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/oil-tanker-rt-jt-260314_1773503739436_hpMain_4x3t_384.jpg" alt="Trump extends deadline 2nd time for Iran to open the Strait of Hormuz amid talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/trump-extends-deadline-2nd-time-iran-open-strait/story?id=131431039" target="_blank">Trump extends deadline 2nd time for Iran to open the Strait of Hormuz amid talks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-26 21:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +99,38 @@
                 <span class="time">2026-03-26 19:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cabinet-15-gty-gmh-260326_1774538444624_hpMain_4x3t_384.jpg" alt="Trump envoy Witkoff reveals more details of US negotiations with Iran prior to war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-envoy-witkoff-reveals-details-us-negotiations-iran/story?id=131436482" target="_blank">Trump envoy Witkoff reveals more details of US negotiations with Iran prior to war</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-26 18:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1244262469-2-500x500-1774560028.jpg" alt="Elon Musk loses big in court; X boycott perfectly legal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/elon-musk-loses-big-in-court-x-boycott-perfectly-legal/" target="_blank">Elon Musk loses big in court; X boycott perfectly legal</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-26 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/" target="_blank">Wikipedia cracks down on the use of AI in article writing</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-26 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69c31174ac9dd3ca1ad22d1e/master/pass/security_uranium_GettyImages-1226809254.jpg" alt="How Trump’s Plot to Grab Iran&#x27;s Nuclear Fuel Would Actually Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/us-iran-war-nuclear-extraction-ground-operation/" target="_blank">How Trump’s Plot to Grab Iran&#x27;s Nuclear Fuel Would Actually Work</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-26 21:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,44 +158,35 @@
                 <span class="time">2026-03-26 19:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/electric-piggy-bank-20k-500x500.jpg" alt="You&#x27;ve got $20,000 to spend on an EV: Here are some options" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/03/youve-got-20000-to-spend-on-an-ev-here-are-some-options/" target="_blank">You&#x27;ve got $20,000 to spend on an EV: Here are some options</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-26 19:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c56acfbf542f5813ce4da0/master/pass/This-Is-the-Cheapest-Cadence-Capsules-Have-Been-This-Year.jpg" alt="You Can Skip a Lot of Amazon’s Spring Sale, but Don’t Skip This Travel Upgrade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cadence-capsules-amazon-spring-sale-2026/" target="_blank">You Can Skip a Lot of Amazon’s Spring Sale, but Don’t Skip This Travel Upgrade</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-26 18:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c31871ea56e672b4eef17c/master/pass/The-Best-Deals-From-the-Amazon-Spring-Sale.jpg" alt="These 35 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-amazon-spring-sale-2026-1/" target="_blank">These 35 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-26 18:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/andreagriffiths11/openclaw-just-passed-react-heres-what-the-github-star-leaderboard-actually-looks-like-4dam" target="_blank">OpenClaw Just Passed React. Here&#x27;s What the GitHub Star Leaderboard Actually Looks Like.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-26 22:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fph53v27zmjaz9apt18yl.png" alt="Let&#x27;s Work together as front-end developer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shah_ce535b7ff81cbb5/lets-work-together-as-front-end-developer-1mol" target="_blank">Let&#x27;s Work together as front-end developer</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2026-03-26 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18921069&w=600" alt="Taming the JVM Latency Monster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/taming-the-jvm-latency-monster" target="_blank">Taming the JVM Latency Monster</a></span>
+                <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-26 20:00</span>
             </div>
         </div>
@@ -201,24 +217,6 @@
                 <span class="time">2026-03-26 17:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/" target="_blank">What’s coming to our GitHub Actions 2026 security roadmap</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-03-26 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/axiom_agent_1dc642fa83651/zero-downtime-deployments-in-nodejs-blue-green-rolling-and-canary-explained-192k" target="_blank">Zero-Downtime Deployments in Node.js: Blue-Green, Rolling, and Canary Explained</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-26 16:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/redlght.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="A dermatologist snuck red LED panels into his son&#x27;s hospital room after a stroke, and now he&#x27;s a convert" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/26/a-dermatologist-snuck-red-led-panels-into-his-sons-hospital-room-after-a-stroke-and-now-hes-a-convert.html" target="_blank">A dermatologist snuck red LED panels into his son&#x27;s hospital room after a stroke, and now he&#x27;s a convert</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-26 21:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/netlfix-1280x720.jpg" alt="Netflix Is Jacking Up Prices Again On The Heels Of One Piece Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/netflix-raising-price-one-piece-season-2-2000682303" target="_blank">Netflix Is Jacking Up Prices Again On The Heels Of One Piece Season 2</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-26 21:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/For-All-Mankind-5-interview-1280x853.jpg" alt="Why ‘For All Mankind’ Season 5 Is the Key to the Rest of the Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +288,6 @@
                 <span class="title"><a href="https://gizmodo.com/butt-birth-ing-rhinoceros-from-ace-ventura-sequel-sold-at-auction-for-a-whopping-60000-2000738604" target="_blank">‘Butt Birth’-ing Rhinoceros from Ace Ventura Sequel Sold at Auction for a Whopping $60,000</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-26 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/06/150073ce29eab9b061e992aa4966a2d5-1280x720.jpg" alt="Hades 2 Coming To PS5 And Xbox Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hades-2-coming-to-ps5-and-xbox-next-month-2000682249" target="_blank">Hades 2 Coming To PS5 And Xbox Next Month</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-26 17:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2114314190.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="30-40% of Gulf energy infrastructure &quot;destroyed&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/26/30-40-of-gulf-energy-infrastructure-destroyed.html" target="_blank">30-40% of Gulf energy infrastructure &quot;destroyed&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-26 16:55</span>
             </div>
         </div>
 </div>
@@ -329,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 21:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 22:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
