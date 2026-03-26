@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-26 14:28:12 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-26 15:25:00 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 13 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, March 26, 2026 - 14:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, March 26, 2026 - 15:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/26/nx-s1-5762241/kennedy-center-name-lawsuit-trump" target="_blank">Suit asks court to force Trump administration to use &#x27;The Kennedy Center&#x27; name</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-26 14:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/news/2026/mar/26/nigeria-regional-superpower-uk-reparative-justice-trade-economic-ties" target="_blank">Nigeria takes its place on world stage in quest to become regional superpower</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-26 14:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +98,20 @@
                 <span class="time">2026-03-26 11:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/26/g-s1-115291/southeast-asia-turns-to-nuclear-as-iran-war-disrupts-energy-supplies" target="_blank">Southeast Asia turns to nuclear as Iran war disrupts energy supplies</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-26 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774524315927_tdy_news_7a_engel_war_escalates_260326_S3_1920x1080-7m792t.jpg" alt="Attacks Escalate in Middle East as Trump Insists Iran Wants a Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-insists-tehran-wants-deal-as-israel-and-iran-trade-strikes-260095557686" target="_blank">Attacks Escalate in Middle East as Trump Insists Iran Wants a Deal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-26 11:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/dartagnan-500x500.png" alt="Archaeologists may have found the grave of the legendary &quot;fourth musketeer&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/03/archaeologists-may-have-found-the-grave-of-the-legendary-fourth-musketeer/" target="_blank">Archaeologists may have found the grave of the legendary &quot;fourth musketeer&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-26 15:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +157,38 @@
                 <span class="time">2026-03-26 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c491674ff31d9d83687435/master/pass/Review--Saatva-HD-Mattress.jpg" alt="Saatva HD Mattress Review: A Solution for Heavy-Bodied Sleepers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/saatva-hd-mattress/" target="_blank">Saatva HD Mattress Review: A Solution for Heavy-Bodied Sleepers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-26 09:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/ubuntu-2604-hero-2.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s App Center now lets you manage Deb packages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ubuntu-app-center-deb-management" target="_blank">Ubuntu’s App Center now lets you manage Deb packages</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-26 15:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17306727/foss-weekly-26-13" target="_blank">FOSS Weekly #26.13: Age Verification Added in systemd, Systemd forked, Btrfs Subvolumes, New Backup Tool, Yazi Manager and More</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-26 14:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-Switching-To-ntpd-rs" target="_blank">Ubuntu Will Switch To ntpd-rs As Its Next Rust System Component</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-26 14:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -178,48 +199,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/03/26/coding-guidelines-for-ai-agents-and-people-too/" target="_blank">Building shared coding guidelines for AI (and people too)</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-03-26 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18918855&w=600" alt="Why RAG Alone Isn’t Enough: How MCP Completes the Agentforce Intelligence Stack?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/rag-mcp-agentforce-intelligence-stack" target="_blank">Why RAG Alone Isn’t Enough: How MCP Completes the Agentforce Intelligence Stack?</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-26 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://nrposner.com/blog/when-vectorized-arrays-arent-enough/" target="_blank">When Vectorized Arrays Aren&#x27;t Enough</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-26 13:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sacha/meaningful-domain-models-in-typescript-5a9" target="_blank">Meaningful Domain Models in TypeScript</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-26 13:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://bsky.app/profile/tuta.com/post/3mhxkfowv322c" target="_blank">European Parliament decided that Chat Control 1.0 must stop</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-26 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe-THP-For-Device-SVM" target="_blank">Intel Xe Driver In Linux 7.1 Enabling THP For Device Pages As A Big SVM Win</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-26 11:05</span>
             </div>
         </div>
 </div>
@@ -241,6 +235,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KMN9Q004EJSKYKBPAS0CG6BY/hero-image.png" alt="My Favorite Workout Headphones Are $40 Off During Amazon&#x27;s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/shokz-open-run-headphones-amazon-big-spring-sale-2026?utm_medium=RSS" target="_blank">My Favorite Workout Headphones Are $40 Off During Amazon&#x27;s Big Spring Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-26 15:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Wait-learns-his-fate.jpg?fit=1080%2C641&amp;quality=60&amp;ssl=1" alt="Conservative election fraud activist convicted of election fraud" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/26/conservative-election-fraud-activist-convicted-of-election-fraud.html" target="_blank">Conservative election fraud activist convicted of election fraud</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-26 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/DJI-Avata-360-Flight-attitude1-1280x853.jpg" alt="DJI Now Has a Cheaper 360 Drone Than Insta360, but the U.S. Won’t Get It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dji-now-has-a-cheaper-360-drone-than-insta360-but-the-u-s-wont-get-it-2000738454" target="_blank">DJI Now Has a Cheaper 360 Drone Than Insta360, but the U.S. Won’t Get It</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-26 14:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KMM8TG4G993N1Z1G23A6N9VZ/hero-image.png" alt="The New Echo Dot Max Is Its Lowest Price Ever for the Amazon Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,33 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/watch-james-cameron-get-really-hands-on-filming-avatar-fire-and-ash-2000738227" target="_blank">Watch James Cameron Get Really Hands-On Filming ‘Avatar: Fire and Ash’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-26 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/quantum-computer-1280x853.jpg" alt="Google Issues New Warning About the Quantum Computing Security Apocalypse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/google-issues-new-warning-about-the-quantum-computing-security-apocalypse-2000738326" target="_blank">Google Issues New Warning About the Quantum Computing Security Apocalypse</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-26 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/elon-musk-laughing-1280x897.jpeg" alt="You’ll Never Believe This but Elon Musk Doesn’t Get to Pay TSA Workers’ Salaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/youll-never-believe-this-but-elon-musk-doesnt-get-to-pay-tsa-workers-salaries-2000738309" target="_blank">You’ll Never Believe This but Elon Musk Doesn’t Get to Pay TSA Workers’ Salaries</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-26 00:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/whoami.jpg?fit=1200%2C824&amp;quality=60&amp;ssl=1" alt="This guy used AI to document his grandmother&#x27;s life on a personal Wikipedia and now you can, too" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/25/this-guy-used-ai-to-document-his-grandmothers-life-on-a-personal-wikipedia-and-now-you-can-too.html" target="_blank">This guy used AI to document his grandmother&#x27;s life on a personal Wikipedia and now you can, too</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-25 23:08</span>
             </div>
         </div>
 </div>
@@ -327,31 +321,13 @@
                 <span class="time">2026-03-25 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1774386995-20260325.png" alt="Saturday Morning Breakfast Cereal - Noble" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/noble-2" target="_blank">Saturday Morning Breakfast Cereal - Noble</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-03-25 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/seriously/" target="_blank">Seriously</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-03-25 15:08</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 14:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 15:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
