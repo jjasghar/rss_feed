@@ -1,37 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-03-26 05:30:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-26 06:20:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, March 26, 2026 - 05:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, March 26, 2026 - 06:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/26/netanyahu-boasts-about-breaking-boundaries-in-every-sense-of-the-word?traffic_source=rss" target="_blank">Netanyahu boasts about ‘breaking boundaries in every sense of the word’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-26 05:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/26/nx-s1-5761898/melania-trump-robot-education-technology-ai" target="_blank">Melania Trump shares the spotlight with a robot at an education and technology event</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-26 05:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +106,6 @@
                 <span class="time">2026-03-26 02:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260304-nancy-mace-vl-1112a-ee6f6e.jpg" alt="Tensions flare during Iran briefing on Capitol Hill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/tensions-flare-iran-briefing-lawmakers-trump-officials-ground-troops-rcna265231" target="_blank">Tensions flare during Iran briefing on Capitol Hill</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-26 02:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-xi-3-ap-gmh-260325_1774464694720_hpMain_4x3t_384.jpg" alt="US-Iran conflict hands China&#x27;s Xi upper hand ahead of Trump meeting: Experts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/us-iran-conflict-hands-chinas-xi-upper-hand/story?id=131412478" target="_blank">US-Iran conflict hands China&#x27;s Xi upper hand ahead of Trump meeting: Experts</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-25 23:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -113,6 +118,15 @@
                 <span class="title"><a href="https://www.wired.com/story/therabody-promo-code/" target="_blank">Therabody Promo Codes: 15% Off March 2026</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-03-26 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/" target="_blank">The least surprising chapter of the Manus story is what’s happening right now</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-26 02:46</span>
             </div>
         </div>
 <div class="story">
@@ -149,15 +163,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">The Sonos Ace are a hefty 25 percent for Amazon’s Big Spring Sale</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-25 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/" target="_blank">The AI skills gap is here, says AI company, and power users are pulling ahead</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-25 21:44</span>
             </div>
         </div>
 </div>
@@ -347,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 05:30 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 06:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
