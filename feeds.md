@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-26 12:12:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-26 13:28:55 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, March 26, 2026 - 12:12 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, March 26, 2026 - 13:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/982f/live/91905290-2916-11f1-934f-036468834728.jpg" alt="UK forecast to see biggest hit to growth from Iran war out of major economies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgk0j71g417o?at_medium=RSS&at_campaign=rss" target="_blank">UK forecast to see biggest hit to growth from Iran war out of major economies</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-26 12:56</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -60,6 +71,15 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431" target="_blank">Iran live updates: Trump renews Iran threats, urges deal &#x27;before it is too late&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-26 11:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774524315927_tdy_news_7a_engel_war_escalates_260326_S3_1920x1080-7m792t.jpg" alt="Attacks Escalate in Middle East as Trump Insists Iran Wants a Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-insists-tehran-wants-deal-as-israel-and-iran-trade-strikes-260095557686" target="_blank">Attacks Escalate in Middle East as Trump Insists Iran Wants a Deal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-26 11:25</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +100,29 @@
                 <span class="time">2026-03-26 10:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck" target="_blank">Two drone strikes on civilian targets kill 28 people in Sudan</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-26 10:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Iran-protest-DB-260326_1774515716908_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran negotiating, claims leaders &#x27;afraid&#x27; to be killed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431" target="_blank">Iran live updates: Trump says Iran negotiating, claims leaders &#x27;afraid&#x27; to be killed</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-26 09:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/900953/best-apple-deals-amazon-big-spring-sale-2026" target="_blank">Some of our favorite Apple tech is cheaper than ever during Amazon’s Big Spring Sale</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-26 13:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69c474ecce6b688f493a5dcf/master/pass/Review--Soundboks-Mix-Bluetooth-Speaker.jpg" alt="Soundboks Mix Review: A Great Party Speaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/soundboks-mix/" target="_blank">Soundboks Mix Review: A Great Party Speaker</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-26 12:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +159,20 @@
                 <span class="time">2026-03-26 08:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Therabody Promo Codes: 15% Off March 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/therabody-promo-code/" target="_blank">Therabody Promo Codes: 15% Off March 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-26 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/" target="_blank">The least surprising chapter of the Manus story is what’s happening right now</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-26 02:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sacha/meaningful-domain-models-in-typescript-5a9" target="_blank">Meaningful Domain Models in TypeScript</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-26 13:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +218,6 @@
                 <span class="time">2026-03-26 08:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/userium/we-logged-341-ev-charging-sessions-4-in-10-had-problems-17cj" target="_blank">We Logged 341 EV Charging Sessions. 4 in 10 Had Problems.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-26 05:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KMM8TG4G993N1Z1G23A6N9VZ/hero-image.png" alt="The New Echo Dot Max Is Its Lowest Price Ever for the Amazon Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/amazon-echo-dot-max-amazon-big-spring-sale-2026?utm_medium=RSS" target="_blank">The New Echo Dot Max Is Its Lowest Price Ever for the Amazon Spring Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-26 13:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/5d87cd3b778255449377c0a68b17cc3e6c1bb89ca163a37d69bf0d61acbba62c.jpg" alt="How To Get Around Tomodachi Life: Living The Dream’s Share Restrictions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tomodachi-life-living-dream-share-screenshots-videos-how-to-2000682176" target="_blank">How To Get Around Tomodachi Life: Living The Dream’s Share Restrictions</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-26 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/James-Cameron-Avatar-exclusive-1280x853.jpg" alt="Watch James Cameron Get Really Hands-On Filming ‘Avatar: Fire and Ash’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +289,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/25/this-guy-used-ai-to-document-his-grandmothers-life-on-a-personal-wikipedia-and-now-you-can-too.html" target="_blank">This guy used AI to document his grandmother&#x27;s life on a personal Wikipedia and now you can, too</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-25 23:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/mark-zuckerberg-getty-2025-1280x853.jpg" alt="Meta Lays Off 700 in Pivot From Metaverse to AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/meta-lays-off-700-in-pivot-from-metaverse-to-ai-2000738234" target="_blank">Meta Lays Off 700 in Pivot From Metaverse to AI</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-25 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/oil-rig.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Unknown traders made a fortune shorting oil 15 minutes before Trump reversed Iran threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/25/unknown-traders-made-a-fortune-shorting-oil-15-minutes-before-trump-reversed-iran-threat.html" target="_blank">Unknown traders made a fortune shorting oil 15 minutes before Trump reversed Iran threat</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-25 22:45</span>
             </div>
         </div>
 </div>
@@ -336,7 +338,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 12:12 UTC
+        🔄 Last Updated: 13:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
