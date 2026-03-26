@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-26 09:17:50 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-03-26 10:16:53 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, March 26, 2026 - 09:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, March 26, 2026 - 10:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Iran-protest-DB-260326_1774515716908_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran negotiating, claims leaders &#x27;afraid&#x27; to be killed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431" target="_blank">Iran live updates: Trump says Iran negotiating, claims leaders &#x27;afraid&#x27; to be killed</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-26 09:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/26/brazil-vs-france-when-and-where-is-the-match-will-mbappe-vinicius-play?traffic_source=rss" target="_blank">Brazil vs France: When and where is the match? Will Mbappe, Vinicius play?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-26 09:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/26/nx-s1-5761898/melania-trump-robot-education-technology-ai" target="_blank">Melania Trump shares the spotlight with a robot at an education and technology event</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-26 05:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/3/26/oil-prices-rise-higher-as-iran-denies-us-talks-dimming-deescalation-hopes?traffic_source=rss" target="_blank">Oil prices rise higher as Iran denies US talks, dimming deescalation hopes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-26 05:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/26/ukraine-war-briefing-zelenskyy-says-us-has-linked-security-guarantees-to-ceding-of-donbas" target="_blank">Ukraine war briefing: Zelenskyy says US has linked security guarantees to ceding of Donbas</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-26 03:59</span>
             </div>
         </div>
 </div>
@@ -162,12 +164,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/michaelfv/make-your-queries-10x-faster-with-gbase-8a-rough-index-9fk" target="_blank">Make Your Queries 10x Faster with GBase 8a Rough Index</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-26 10:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/s3-account-regional-namespaces/en/headerimage/generatedHeaderImage-1773935729085.jpg" alt="AWS S3 Introduces Account-Regional Namespaces, Ending 18 Years of Global Bucket Name Collisions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/s3-account-regional-namespaces/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS S3 Introduces Account-Regional Namespaces, Ending 18 Years of Global Bucket Name Collisions</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-26 10:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/articles/architectural-governance-ai-speed/en/headerimage/architectural-governance-ai-speed-header-1773997111820.jpg" alt="Article: Architectural Governance at AI Speed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/articles/architectural-governance-ai-speed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Architectural Governance at AI Speed</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-03-26 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17306445/dylan-taylor-systemd-controversy" target="_blank">Inside the Systemd Age Verification Debate: Developer Responds to Criticism</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-26 08:57</span>
             </div>
         </div>
 <div class="story">
@@ -186,33 +215,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17306359/appimage-fuse-issue" target="_blank">Troubleshooting &amp;quot;AppImages require FUSE to run&amp;quot; on Linux</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-03-26 05:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://snarky.ca/why-pylock-toml-includes-digital-attestations/" target="_blank">Why pylock.toml includes digital attestations</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-26 04:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw1cs5pqfwu7anh9s3v9d.png" alt="Build with TRAE @ São Paulo: Muito além do demo, veja como os devs dominam o TRAE SOLO" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/captaincc/build-with-trae-sao-paulo-muito-alem-do-demo-veja-como-os-devs-dominam-o-trae-solo-3hmm" target="_blank">Build with TRAE @ São Paulo: Muito além do demo, veja como os devs dominam o TRAE SOLO</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-26 02:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc6-More-Platform-Drv" target="_blank">ASUS Armoury &amp; HP WMI Drivers Add More Laptops Ahead Of Linux 7.0-rc6</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-26 00:29</span>
             </div>
         </div>
 </div>
@@ -334,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 09:17 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 10:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
