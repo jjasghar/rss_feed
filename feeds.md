@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-26 01:31:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-26 02:58:49 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, March 26, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, March 26, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260304-nancy-mace-vl-1112a-ee6f6e.jpg" alt="Tensions flare during Iran briefing on Capitol Hill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/tensions-flare-iran-briefing-lawmakers-trump-officials-ground-troops-rcna265231" target="_blank">Tensions flare during Iran briefing on Capitol Hill</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-26 02:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-xi-3-ap-gmh-260325_1774464694720_hpMain_4x3t_384.jpg" alt="US-Iran conflict hands China&#x27;s Xi upper hand ahead of Trump meeting: Experts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/25/mexico-will-continue-accepting-cuban-medical-workers-despite-us-pressure?traffic_source=rss" target="_blank">Mexico will continue accepting Cuban medical workers despite US pressure</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-25 22:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/25/nx-s1-5759931/openais-sora-app-may-be-going-away-but-its-legacy-will-be-the-spread-ai-video-slop" target="_blank">OpenAI&#x27;s Sora app may be going away, but its legacy will be the spread of AI video slop</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-25 21:05</span>
             </div>
         </div>
 </div>
@@ -164,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw1cs5pqfwu7anh9s3v9d.png" alt="Build with TRAE @ São Paulo: Muito além do demo, veja como os devs dominam o TRAE SOLO" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/captaincc/build-with-trae-sao-paulo-muito-alem-do-demo-veja-como-os-devs-dominam-o-trae-solo-3hmm" target="_blank">Build with TRAE @ São Paulo: Muito além do demo, veja como os devs dominam o TRAE SOLO</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-26 02:40</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +213,6 @@
                 <span class="title"><a href="https://dzone.com/articles/stop-slow-pandas-code-vectorization-polars-duckdb" target="_blank">Stop Writing Slow Pandas Code: Vectorization and Modern Alternatives Explained</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-03-25 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-45-To-Get-DRM-Panic-Web" target="_blank">Fedora 45 Plan Approved For Web Frontend To Linux&#x27;s &quot;Blue Screen of Death&quot; DRM Panic</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-25 19:23</span>
             </div>
         </div>
 </div>
@@ -345,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
