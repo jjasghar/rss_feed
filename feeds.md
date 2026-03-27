@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-27 01:31:04 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-03-27 02:58:59 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, March 27, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, March 27, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/26/nx-s1-5762974/education-department-building" target="_blank">The depleted Education Department will move out of its headquarters</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-27 01:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +97,6 @@
                 <span class="time">2026-03-26 20:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cabinet-2-gty-gmh-260326_1774536415151_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump extends deadline to make deal with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431" target="_blank">Iran live updates: Trump extends deadline to make deal with Iran</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-26 20:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -109,6 +109,24 @@
                 <span class="title"><a href="https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/" target="_blank">David Sacks is done as AI czar — here’s what he’s doing instead</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-27 01:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction" target="_blank">Judge sides with Anthropic to temporarily block the Pentagon&amp;#8217;s ban</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-27 00:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69c5b0bd07d68ae7468ce59a/master/pass/Apple-Supply-Chain-Risk-Business-2261514689.jpg" alt="Anthropic Supply-Chain-Risk Designation Halted by Judge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/" target="_blank">Anthropic Supply-Chain-Risk Designation Halted by Judge</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-26 23:33</span>
             </div>
         </div>
 <div class="story">
@@ -136,24 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/elon-musk-loses-big-in-court-x-boycott-perfectly-legal/" target="_blank">Elon Musk loses big in court; X boycott perfectly legal</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-03-26 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/" target="_blank">Wikipedia cracks down on the use of AI in article writing</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-26 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c31174ac9dd3ca1ad22d1e/master/pass/security_uranium_GettyImages-1226809254.jpg" alt="How Trump’s Plot to Grab Iran&#x27;s Nuclear Fuel Would Actually Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/us-iran-war-nuclear-extraction-ground-operation/" target="_blank">How Trump’s Plot to Grab Iran&#x27;s Nuclear Fuel Would Actually Work</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-26 21:42</span>
             </div>
         </div>
 </div>
@@ -235,6 +235,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/shutterstock_729630679-e1760395336732.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="CBS News ratings reportedly its lowest on record" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/26/cbs-news-ratings-reportedly-its-lowest-on-record.html" target="_blank">CBS News ratings reportedly its lowest on record</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-27 01:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/trump-hands-getty-1280x853.jpg" alt="Trump Says He’ll Sign Order to Pay TSA" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -279,15 +288,6 @@
                 <span class="time">2026-03-26 21:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/For-All-Mankind-5-interview-1280x853.jpg" alt="Why ‘For All Mankind’ Season 5 Is the Key to the Rest of the Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/why-for-all-mankind-season-5-is-the-key-to-the-rest-of-the-series-2000738151" target="_blank">Why ‘For All Mankind’ Season 5 Is the Key to the Rest of the Series</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-26 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
