@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-27 07:23:54 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-27 08:11:41 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, March 27, 2026 - 07:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, March 27, 2026 - 08:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/27/israeli-opposition-leader-rails-against-multi-front-war-without-strategy?traffic_source=rss" target="_blank">Israeli opposition leader rails against ‘multi-front war without strategy’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-27 07:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/artanddesign/2026/mar/27/african-guernica-dumile-feni-on-display-alongside-picasso" target="_blank">‘The violence of racist tyranny’: African Guernica goes on display alongside Picasso masterpiece</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-27 07:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/27/g-s1-115366/senate-dhs-tsa-deal" target="_blank">Senate votes to fund much of DHS, minus immigration enforcement</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-27 07:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,33 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/26/nx-s1-5762974/education-department-building" target="_blank">The depleted Education Department will move out of its headquarters</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-27 01:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/26/nx-s1-5762971/judge-temporarily-blocks-anthropic-ban" target="_blank">Judge temporarily blocks Trump administration&#x27;s Anthropic ban</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-27 00:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774567258954_nn_tco_tsa_agents_being_paid_260326_S3_1920x1080-lsa7t2.jpg" alt="Trump says he will sign order to pay TSA workers following weeks of long lines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-says-he-will-sign-order-to-pay-tsa-workers-following-weeks-of-long-lines-260161093697" target="_blank">Trump says he will sign order to pay TSA workers following weeks of long lines</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-26 23:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/travel-1-ap-gmh-260326_1774547704458_hpMain_4x3t_384.jpg" alt="Trump says he&#x27;ll sign order directing DHS to pay TSA workers as shutdown drags on" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-hell-sign-order-directing-dhs-pay-tsa/story?id=131441186" target="_blank">Trump says he&#x27;ll sign order directing DHS to pay TSA workers as shutdown drags on</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-26 23:05</span>
             </div>
         </div>
 </div>
@@ -160,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5on0h3yjk6hc39da1blf.png" alt="Did You Know That LLMs Can Take Architecture as Code to the Next Level?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alexey_pronsky_e3cd77bd7/did-you-know-that-llms-can-take-architecture-as-code-to-the-next-level-dc9" target="_blank">Did You Know That LLMs Can Take Architecture as Code to the Next Level?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-27 08:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
@@ -202,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/alanwest/how-to-actually-migrate-from-github-to-codeberg-without-losing-your-mind-33bf" target="_blank">How to Actually Migrate from GitHub to Codeberg Without Losing Your Mind</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-27 01:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/wlroots-0.20-Sway-1.12-rc1" target="_blank">wlroots 0.20 Released,Sway 1.12-rc1 Available For Testing With Color Management</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-27 00:55</span>
             </div>
         </div>
 </div>
@@ -323,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 07:24 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 08:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
