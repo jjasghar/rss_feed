@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-27 15:14:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-27 16:14:27 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, March 27, 2026 - 15:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, March 27, 2026 - 16:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2026/3/27/is-europe-heading-to-an-energy-crisis?traffic_source=rss" target="_blank">Is Europe heading to an energy crisis?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-27 15:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/27/g-s1-115336/house-panel-finds-florida-democrat-guilty-of-ethics-violations" target="_blank">House panel finds Florida Democrat guilty of ethics violations</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-27 15:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +102,29 @@
                 <span class="time">2026-03-27 13:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca7/live/fe544c10-fc61-11f0-9972-d3f265c101c6.jpg" alt="Man jailed for four years after Barron Trump reported attack to UK police" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgrlnp1ydv1o?at_medium=RSS&at_campaign=rss" target="_blank">Man jailed for four years after Barron Trump reported attack to UK police</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-27 12:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/27/g-s1-115433/up-first-newsletter-dhs-funding-iran-strait-of-hormuz-cpac" target="_blank">Senate votes to fund most of DHS. And, Trump extends Iran&#x27;s deadline to reopen strait</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-27 11:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/ps-logo-500x500.jpg" alt="Sony is raising PlayStation 5 prices again, this time by between $100 and $150" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/sony-is-raising-playstation-5-prices-again-this-time-by-between-100-and-150/" target="_blank">Sony is raising PlayStation 5 prices again, this time by between $100 and $150</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-27 15:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69c4659cd635c97c9c58dc41/master/pass/politics_Airport_ICE_AP26082656566250.jpg" alt="ICE Agents Frustrate Airport Workers as Shutdown Drags On" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ice-agents-frustrate-airport-employees-as-shutdown-drags-on/" target="_blank">ICE Agents Frustrate Airport Workers as Shutdown Drags On</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-27 15:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +161,20 @@
                 <span class="time">2026-03-27 13:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/902224/sony-ps5-playstation-price-hike" target="_blank">Sony is raising PS5 prices by $100 in April</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-27 12:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6878257d08a39480606bbdb5/master/pass/The%20Best%20MagSafe%20Wallets.png" alt="13 Best MagSafe Wallets (2026), Tested IRL" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-magsafe-wallets/" target="_blank">13 Best MagSafe Wallets (2026), Tested IRL</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-27 12:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fercx9tbcdrgcidzs0u7m.png" alt="Why I Ripped stream.pipe() Out of My Node.js API Gateway" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ashishbarmaiya/why-i-ripped-streampipe-out-of-my-nodejs-api-gateway-2ekl" target="_blank">Why I Ripped stream.pipe() Out of My Node.js API Gateway</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-27 16:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiixo880tbxc2humoyx6u.png" alt="Building Reliable Agents with the Transactional Outbox Pattern and Redis Streams" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -187,37 +196,28 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe-Purgeable-BO" target="_blank">Intel Xe Driver Improves Memory Pressure / Out-Of-Memory Behavior For vRAM With Linux 7.1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-27 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/stability-backports-and-hidden-risks-of-the-bleeding-edge" target="_blank">The &amp;#8220;scanner report has to be green&amp;#8221; trap</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-03-27 13:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tmdlrg/i-let-ai-create-a-product-and-post-it-to-linkedin-it-failed-spectacularly-126j" target="_blank">I Let AI Create a Product and Post It to LinkedIn. It Failed Spectacularly.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-27 13:15</span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17307532/ubuntu-26-04-lts-beta" target="_blank">Ubuntu 26.04 LTS Beta Shows You There&amp;#x27;s Potential in the Stable Release</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-27 14:36</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://sightlessscribbles.com/posts/the-paperwork-flood/" target="_blank">The &#x27;Paperwork Flood&#x27;: How I Drowned a Bureaucrat Before Dinner</a></span>
+                <span class="title"><a href="https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder" target="_blank">Anatomy of the .claude/ Folder</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-03-27 12:46</span>
+                <span class="time">2026-03-27 14:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/qcon-london-foxwell-dev-teams/en/headerimage/generatedHeaderImage-1774620816755.jpg" alt="QCon London 2026: AI Agents Write Your Code. What’s Left For Humans?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/qcon-london-foxwell-dev-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: AI Agents Write Your Code. What’s Left For Humans?</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-27 14:15</span>
             </div>
         </div>
 </div>
@@ -225,6 +225,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/hacks.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Iran hacked FBI Director &quot;Ka$h&quot; Patel&#x27;s personal email" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/27/iran-hacked-fbi-director-kah-patels-personal-email.html" target="_blank">Iran hacked FBI Director &quot;Ka$h&quot; Patel&#x27;s personal email</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-27 15:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-2-06-1280x853.jpg" alt="I Wouldn’t Plan on Wearing Smart Glasses to Court Anytime Soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +279,6 @@
                 <span class="time">2026-03-27 13:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/PlayStation®5-Digital-Edition-slim--1280x852.jpg" alt="PS5 Now Starts At $600 As Sony Calls Unprecedented Price Hikes ‘A Necessary Step’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/playstation-5-pro-ps5-portal-price-increase-april-2026-2000682609" target="_blank">PS5 Now Starts At $600 As Sony Calls Unprecedented Price Hikes ‘A Necessary Step’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-27 13:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,22 +302,13 @@
                 <span class="time">2026-03-27 00:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1774387043-20260326.png" alt="Saturday Morning Breakfast Cereal - Humor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/humor-2" target="_blank">Saturday Morning Breakfast Cereal - Humor</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-03-26 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 15:15 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 16:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
