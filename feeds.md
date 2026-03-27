@@ -1,42 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-27 18:13:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-27 19:15:06 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 34 feeds processed -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, March 27, 2026 - 18:13 UTC</div>
+    <div class="newspaper-date">Friday, March 27, 2026 - 19:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/27/nx-s1-5763863/hegseth-soldiers-promotions" target="_blank">Defense Secretary Hegseth intervened to stop promotions of Black and female officers</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-27 19:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774636194369_now_brk_johnson_dhs_stopgap_260327_S3_1920x1080-znnuma.jpg" alt="&#x27;This is not a game&#x27;: Speaker Johnson to propose alternative to Senate DHS funding deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/speaker-johnson-to-propose-alternative-to-senate-dhs-funding-deal-260216901841" target="_blank">&#x27;This is not a game&#x27;: Speaker Johnson to propose alternative to Senate DHS funding deal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-27 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc24/live/04a04af0-29d6-11f1-9def-51999882d8d7.jpg" alt="Asda boss rejects profiteering claims as petrol price tops 150p" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss" target="_blank">Asda boss rejects profiteering claims as petrol price tops 150p</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-27 18:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,38 +103,20 @@
                 <span class="time">2026-03-27 17:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2026/3/27/is-europe-heading-to-an-energy-crisis?traffic_source=rss" target="_blank">Is Europe heading to an energy crisis?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-27 15:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/27/g-s1-115336/house-panel-finds-florida-democrat-guilty-of-ethics-violations" target="_blank">House panel finds Florida Democrat guilty of ethics violations</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-27 15:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/27/nixon-to-trump-pakistans-long-record-as-backchannel-between-rival-powers?traffic_source=rss" target="_blank">Nixon to Trump: Pakistan’s long record as backchannel between rival powers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-27 14:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/" target="_blank">Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-27 19:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69c6bfb494502e7091a2c38a/master/pass/This-Sennheiser-Soundbar-Is-$1,000-Off.jpg" alt="This Premium Sennheiser Soundbar Is $1,000 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -156,20 +162,29 @@
                 <span class="time">2026-03-27 15:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c4659cd635c97c9c58dc41/master/pass/politics_Airport_ICE_AP26082656566250.jpg" alt="ICE Agents Frustrate Airport Workers as Shutdown Drags On" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ice-agents-frustrate-airport-employees-as-shutdown-drags-on/" target="_blank">ICE Agents Frustrate Airport Workers as Shutdown Drags On</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-27 15:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzvpkxm9mga1pweneahx.png" alt="Which index should SQLite use?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lovestaco/which-index-should-sqlite-use-43jl" target="_blank">Which index should SQLite use?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-27 19:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18948994&w=600" alt="The Hidden Cost of Legacy Infrastructure in Asset-Heavy Game Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/hidden-cost-of-legacy-infrastructure-in-game-dev" target="_blank">The Hidden Cost of Legacy Infrastructure in Asset-Heavy Game Development</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-27 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18920381&w=600" alt="Designing High-Concurrency Databricks Workloads Without Performance Degradation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,29 +221,20 @@
                 <span class="time">2026-03-27 15:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18920370&w=600" alt="Designing Stop Loss in Modern AI-Driven Automated Trading Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/designing-stop-loss-ai-automated-trading" target="_blank">Designing Stop Loss in Modern AI-Driven Automated Trading Systems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-27 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17307532/ubuntu-26-04-lts-beta" target="_blank">Ubuntu 26.04 LTS Beta Shows You There&amp;#x27;s Potential in the Stable Release</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-27 14:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/02/seven-reasons-to-watch-twilight-setoodeh-tease_lcxm39.jpg?fit=1480%2C832&amp;quality=60&amp;ssl=1" alt="This Twilight ripoff is so bad it became a cult sensation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/27/this-twilight-ripoff-is-so-bad-it-became-a-cult-sensation.html" target="_blank">This Twilight ripoff is so bad it became a cult sensation</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-27 18:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/romeros-1280x720.jpg" alt="Video Game Legends Describe The Games Industry As ‘Crashier’ Now Than During The ’80s Crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +280,6 @@
                 <span class="time">2026-03-27 15:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/shutterstock_2683833861.jpg?fit=1000%2C666&amp;quality=60&amp;ssl=1" alt="Senate votes to fund DHS, but not ICE or Border Patrol" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/27/senate-votes-to-fund-dhs-but-not-ice-or-border-patrol.html" target="_blank">Senate votes to fund DHS, but not ICE or Border Patrol</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-27 14:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,6 +292,15 @@
                 <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/27/folk-etymologies" target="_blank">Folk Etymologies</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-03-27 17:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1774387174-20260327.png" alt="Saturday Morning Breakfast Cereal - Shocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/shocks" target="_blank">Saturday Morning Breakfast Cereal - Shocks</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-27 15:20</span>
             </div>
         </div>
 <div class="story">
@@ -320,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 18:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 19:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
