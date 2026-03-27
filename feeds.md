@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-27 22:04:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-27 23:06:46 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, March 27, 2026 - 22:04 UTC</div>
+    <div class="newspaper-date">Friday, March 27, 2026 - 23:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,10 +47,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/27/houthis-warn-fingers-on-the-trigger-as-us-israeli-war-on-iran-continues?traffic_source=rss" target="_blank">Houthis warn ‘fingers on the trigger’ as US-Israeli war on Iran continues</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-27 22:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/27/g-s1-115549/new-york-gaza-firebomb-home-plot-activist" target="_blank">Man arrested in plot to firebomb Palestinian activist&#x27;s home after undercover op</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-27 22:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/03/27/nx-s1-5764266/voter-data-trump-doj-dhs" target="_blank">The Justice Department plans to share sensitive voter data with Homeland Security</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-27 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/airborne-9-ht-gmh-260324_1774375255996_hpMain_4x3t_384.jpg" alt="Using US ground troops against Iran could prove very costly, retired generals say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/us-ground-troops-iran-prove-costly-former-generals/story?id=131472934" target="_blank">Using US ground troops against Iran could prove very costly, retired generals say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-27 21:42</span>
             </div>
         </div>
 <div class="story">
@@ -72,38 +98,29 @@
                 <span class="time">2026-03-27 20:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/27/israel-attacks-major-industrial-and-nuclear-sites-in-iran?traffic_source=rss" target="_blank">Israel attacks major industrial and nuclear sites in Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-27 19:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4099/live/2015bff0-2a07-11f1-af48-7dd725bb0b8b.jpg" alt="Iran-backed hackers breach FBI director Kash Patel&#x27;s personal emails" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss" target="_blank">Iran-backed hackers breach FBI director Kash Patel&#x27;s personal emails</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-27 19:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/mike-johnson-1-rt-gmh-260327_1774637773783_hpMain_4x3t_384.jpg" alt="House Republicans reject Senate-passed bill to fund most of DHS except ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/senate-passes-bill-fund-dhs-except-ice-parts/story?id=131461819" target="_blank">House Republicans reject Senate-passed bill to fund most of DHS except ICE</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-27 19:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/902828/sony-sd-cfexpress-memory-card-shortage" target="_blank">Sony temporarily suspends memory card sales due to shortages</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-27 22:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/wofl3d-1-500x500-1774646731.jpg" alt="Playing Wolfenstein 3D with one hand in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/" target="_blank">Playing Wolfenstein 3D with one hand in 2026</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-27 22:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69c6b7c2b1e88611bd972d9a/master/pass/Made-In-China-AI-Research-Is-Starting-to-Split-Along-Geopolitical-Lines-Business-2246178146.jpg" alt="AI Research Is Getting Harder to Separate From Geopolitics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +157,29 @@
                 <span class="time">2026-03-27 19:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2267370596-500x500-1774638087.jpg" alt="Hegseth, Trump had no authority to order Anthropic to be blacklisted, judge says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/hegseth-trump-had-no-authority-to-order-anthropic-to-be-blacklisted-judge-says/" target="_blank">Hegseth, Trump had no authority to order Anthropic to be blacklisted, judge says</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-27 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c6b14c2e33b7e4cae4cc2b/master/pass/secutiy_Kash_Patel_GettyImages-2266686717.jpg" alt="Iranian Hackers Breached Kash Patel’s Email—but Not the FBI’s" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/" target="_blank">Iranian Hackers Breached Kash Patel’s Email—but Not the FBI’s</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-27 19:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ioneldigital/ai-video-creation-from-script-to-youtube-in-30-minutes-44lj" target="_blank">AI Video Creation: From Script to YouTube in 30 Minutes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-27 23:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/web-install-api-origin-trial/en/headerimage/generatedHeaderImage-1774565656612.jpg" alt="Experimental Web Install API Seeks to Improve Application Discovery and Distribution" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/web-install-api-origin-trial/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Experimental Web Install API Seeks to Improve Application Discovery and Distribution</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-27 22:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +216,6 @@
                 <span class="time">2026-03-27 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lr0.org/blog/p/macos/" target="_blank">Make macOS consistently bad (unironically)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-27 19:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzvpkxm9mga1pweneahx.png" alt="Which index should SQLite use?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lovestaco/which-index-should-sqlite-use-43jl" target="_blank">Which index should SQLite use?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-27 19:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KMRKK3D1NV9Q55R9V191M4J3/hero-image.png" alt="The Best TV Deals I Found in Amazon&#x27;s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tv-deals-in-amazons-big-spring-sale?utm_medium=RSS" target="_blank">The Best TV Deals I Found in Amazon&#x27;s Big Spring Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-27 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/GettyImages-2260538908-1280x915.jpg" alt="Epstein Victims Sue Google, Claim AI Mode Exposed Personal Information" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +289,6 @@
                 <span class="time">2026-03-27 19:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/02/seven-reasons-to-watch-twilight-setoodeh-tease_lcxm39.jpg?fit=1480%2C832&amp;quality=60&amp;ssl=1" alt="This Twilight ripoff is so bad it became a cult sensation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/27/this-twilight-ripoff-is-so-bad-it-became-a-cult-sensation.html" target="_blank">This Twilight ripoff is so bad it became a cult sensation</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-27 18:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,6 +322,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/satellite_pollution.png" alt="Satellite Pollution" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3225/" target="_blank">Satellite Pollution</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-03-27 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5795.png" alt="Carry On Only" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -336,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 22:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 23:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
