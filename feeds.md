@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-03-27 06:21:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-27 07:23:54 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 1 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, March 27, 2026 - 06:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, March 27, 2026 - 07:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -166,6 +162,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/03/27/prevent-agentic-identity-theft/" target="_blank">Prevent agentic identity theft</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-03-27 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/_46ea277e677b888e0cd13/moneyprinterturbo-ai-weonkeulrig-syospom-yeongsang-jadong-saengseong-opeunsoseu-53k-stars-enm" target="_blank">MoneyPrinterTurbo: AI 원클릭 숏폼 영상 자동 생성 오픈소스 (53K+ Stars)</a></span>
                 <span class="feed">DEV Community</span>
@@ -206,15 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/wlroots-0.20-Sway-1.12-rc1" target="_blank">wlroots 0.20 Released,Sway 1.12-rc1 Available For Testing With Color Management</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-27 00:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dohkoai/5-ai-agent-memory-patterns-that-actually-work-with-python-code-4i1o" target="_blank">5 AI Agent Memory Patterns That Actually Work (With Python Code)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-27 00:02</span>
             </div>
         </div>
 </div>
@@ -327,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 06:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 07:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
