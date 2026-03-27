@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-27 21:08:16 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-27 22:04:47 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, March 27, 2026 - 21:08 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, March 27, 2026 - 22:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/27/nx-s1-5764266/voter-data-trump-doj-dhs" target="_blank">The Justice Department plans to share sensitive voter data with Homeland Security</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-27 21:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,6 +82,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4099/live/2015bff0-2a07-11f1-af48-7dd725bb0b8b.jpg" alt="Iran-backed hackers breach FBI director Kash Patel&#x27;s personal emails" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss" target="_blank">Iran-backed hackers breach FBI director Kash Patel&#x27;s personal emails</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-27 19:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/mike-johnson-1-rt-gmh-260327_1774637773783_hpMain_4x3t_384.jpg" alt="House Republicans reject Senate-passed bill to fund most of DHS except ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -81,29 +99,29 @@
                 <span class="time">2026-03-27 19:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/27/nx-s1-5763863/hegseth-soldiers-promotions" target="_blank">Defense Secretary Hegseth intervened to stop promotions of Black and female officers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-27 19:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774636194369_now_brk_johnson_dhs_stopgap_260327_S3_1920x1080-znnuma.jpg" alt="&#x27;This is not a game&#x27;: Speaker Johnson to propose alternative to Senate DHS funding deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/speaker-johnson-to-propose-alternative-to-senate-dhs-funding-deal-260216901841" target="_blank">&#x27;This is not a game&#x27;: Speaker Johnson to propose alternative to Senate DHS funding deal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-27 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69c6b7c2b1e88611bd972d9a/master/pass/Made-In-China-AI-Research-Is-Starting-to-Split-Along-Geopolitical-Lines-Business-2246178146.jpg" alt="AI Research Is Getting Harder to Separate From Geopolitics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/" target="_blank">AI Research Is Getting Harder to Separate From Geopolitics</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-27 21:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/" target="_blank">Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-27 21:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +158,29 @@
                 <span class="time">2026-03-27 19:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/" target="_blank">Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-27 19:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c6bfb494502e7091a2c38a/master/pass/This-Sennheiser-Soundbar-Is-$1,000-Off.jpg" alt="This Premium Sennheiser Soundbar Is $1,000 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sennheiser-ambeo-max-deal-326/" target="_blank">This Premium Sennheiser Soundbar Is $1,000 Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-27 17:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vhub_systems_ed5641f65d59/how-to-cut-web-scraping-costs-by-95-using-pay-per-result-actors-vs-49-500mo-tools-47ao" target="_blank">How to Cut Web Scraping Costs by 95% Using Pay-Per-Result Actors (vs $49–$500/mo Tools)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-27 22:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Framework-KDE-Patron" target="_blank">Framework Computer Steps Up Their Support For KDE</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-27 20:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18920445&w=600" alt="Scaling AI Workloads in Java Without Breaking Your APIs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -182,6 +200,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lr0.org/blog/p/macos/" target="_blank">Make macOS consistently bad (unironically)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-27 19:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzvpkxm9mga1pweneahx.png" alt="Which index should SQLite use?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -190,31 +217,18 @@
                 <span class="time">2026-03-27 19:12</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18948994&w=600" alt="The Hidden Cost of Legacy Infrastructure in Asset-Heavy Game Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/hidden-cost-of-legacy-infrastructure-in-game-dev" target="_blank">The Hidden Cost of Legacy Infrastructure in Asset-Heavy Game Development</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-27 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18920381&w=600" alt="Designing High-Concurrency Databricks Workloads Without Performance Degradation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/high-concurrency-databricks-workloads-performance-optimization" target="_blank">Designing High-Concurrency Databricks Workloads Without Performance Degradation</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-27 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fercx9tbcdrgcidzs0u7m.png" alt="Why I Ripped stream.pipe() Out of My Node.js API Gateway" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ashishbarmaiya/why-i-ripped-streampipe-out-of-my-nodejs-api-gateway-2ekl" target="_blank">Why I Ripped stream.pipe() Out of My Node.js API Gateway</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-27 16:09</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-bioluminescent-bacteria-in-squid.html" target="_blank">Friday Squid Blogging: Bioluminescent Bacteria in Squid</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-03-27 20:18</span>
             </div>
         </div>
 </div>
@@ -222,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/GettyImages-2260538908-1280x915.jpg" alt="Epstein Victims Sue Google, Claim AI Mode Exposed Personal Information" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/epstein-victims-sue-google-claim-ai-mode-exposed-personal-information-2000739177" target="_blank">Epstein Victims Sue Google, Claim AI Mode Exposed Personal Information</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-27 21:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/wicked-spot-kodansha-sal-jiang-1280x853.jpg" alt="‘Wicked Spot’ Is a Fun, Sapphic Rom-Com That Yeets a Witch Into the Magical World of Influencer Culture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +288,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/27/this-twilight-ripoff-is-so-bad-it-became-a-cult-sensation.html" target="_blank">This Twilight ripoff is so bad it became a cult sensation</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-27 18:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/romeros-1280x720.jpg" alt="Video Game Legends Describe The Games Industry As ‘Crashier’ Now Than During The ’80s Crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/games-industry-crash-john-brenda-romero-layoffs-xbox-2000682693" target="_blank">Video Game Legends Describe The Games Industry As ‘Crashier’ Now Than During The ’80s Crash</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-27 18:07</span>
             </div>
         </div>
 </div>
@@ -322,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 21:08 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 22:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
