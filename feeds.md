@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-26 23:04:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-27 00:10:06 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, March 26, 2026 - 23:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, March 27, 2026 - 00:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/travel-1-ap-gmh-260326_1774547704458_hpMain_4x3t_384.jpg" alt="Trump says he&#x27;ll sign order directing DHS to pay TSA workers as shutdown drags on" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-hell-sign-order-directing-dhs-pay-tsa/story?id=131441186" target="_blank">Trump says he&#x27;ll sign order directing DHS to pay TSA workers as shutdown drags on</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-26 23:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ee1/live/739e5950-293c-11f1-934f-036468834728.jpg" alt="Under-5s should not be on screens for more than an hour a day, parents told in new government advice" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +99,20 @@
                 <span class="time">2026-03-26 19:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/26/key-takeaways-from-trumps-war-on-iran-meeting?traffic_source=rss" target="_blank">Key takeaways from Trump’s war on Iran meeting</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-26 19:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69c5b0bd07d68ae7468ce59a/master/pass/Apple-Supply-Chain-Risk-Business-2261514689.jpg" alt="Anthropic Supply-Chain Risk Designation Halted By Judge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/" target="_blank">Anthropic Supply-Chain Risk Designation Halted By Judge</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-26 23:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +158,29 @@
                 <span class="time">2026-03-26 21:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23901586/streaming-service-prices-netflix-disney-hulu-peacock-max" target="_blank">Streaming keeps getting more expensive: all the latest price hikes</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-26 19:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dohkoai/5-ai-agent-memory-patterns-that-actually-work-with-python-code-4i1o" target="_blank">5 AI Agent Memory Patterns That Actually Work (With Python Code)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-27 00:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/ubuntu-2604-hero-2.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 Beta is now available to download" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ubuntu-26-04-beta-is-now-available-to-download" target="_blank">Ubuntu 26.04 Beta is now available to download</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-26 23:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/siddharth_singh_409bd5267/root-cause-analysis-the-complete-guide-for-sres-1chm" target="_blank">Root Cause Analysis: The Complete Guide for SREs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-26 19:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/snowflake/the-data-engineers-cortex-code-cheat-sheet-3b60" target="_blank">The data engineer&#x27;s Cortex Code cheat sheet</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-26 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!X6bS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48b5fd12-15b7-46b8-acd4-d78d55ef2fe4_1576x432.png" alt="The Pulse: is GitHub still best for AI-native development?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-is-github-still-best-for" target="_blank">The Pulse: is GitHub still best for AI-native development?</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-03-26 17:23</span>
             </div>
         </div>
 </div>
@@ -330,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 23:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 00:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
