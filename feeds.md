@@ -1,31 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-03-27 09:14:44 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-27 10:13:23 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, March 27, 2026 - 09:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, March 27, 2026 - 10:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +100,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products" target="_blank">Rank the 50 best Apple products</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-27 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" alt="Surfshark Promo Codes: 87% Off | March 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -145,20 +153,20 @@
                 <span class="time">2026-03-26 23:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/901792/best-robot-vacuum-mops-amazon-big-spring-sale-2026-deals" target="_blank">Robot vacuums from Eufy and Roborock are over 50 percent for Amazon’s spring sale</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-26 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/security-architecture-systemic-vulnerabilities/en/mediumimage/shana-dacres-medium-1772017261672.jpg" alt="Presentation: Security and Architecture: To Betray One Is To Destroy Both" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/security-architecture-systemic-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Security and Architecture: To Betray One Is To Destroy Both</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-27 09:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/architecting-autonomy-scale/en/headerimage/architecting-autonomy-scale-header-1774360140662.jpg" alt="Article: Architecting Autonomy at Scale: Raising Teams Without Creating Dependencies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,19 +206,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/_46ea277e677b888e0cd13/moneyprinterturbo-ai-weonkeulrig-syospom-yeongsang-jadong-saengseong-opeunsoseu-53k-stars-enm" target="_blank">MoneyPrinterTurbo: AI 원클릭 숏폼 영상 자동 생성 오픈소스 (53K+ Stars)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-27 05:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://code.claude.com/docs/en/web-scheduled-tasks" target="_blank">Schedule Claude Code tasks on the web</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-27 04:47</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.semicolonandsons.com/articles/scaling-a-monolith-to-1m-loc-113-pragmatic-lessons-from-tech-lead-to-cto" target="_blank">Scaling a Monolith to 1M LOC: 113 Pragmatic Lessons from Tech Lead to CTO</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-27 06:32</span>
             </div>
         </div>
 </div>
@@ -292,6 +291,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/03/27/dunk-and-egg" target="_blank">Dunk And Egg</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-27 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5795.png" alt="Carry On Only" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -323,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 09:14 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 10:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
