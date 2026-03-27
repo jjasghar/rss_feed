@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-27 19:15:06 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-27 20:06:18 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, March 27, 2026 - 19:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, March 27, 2026 - 20:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/27/israel-attacks-major-industrial-and-nuclear-sites-in-iran?traffic_source=rss" target="_blank">Israel attacks major industrial and nuclear sites in Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-27 19:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/mike-johnson-1-rt-gmh-260327_1774637773783_hpMain_4x3t_384.jpg" alt="House Republicans reject Senate-passed bill to fund most of DHS except ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/senate-passes-bill-fund-dhs-except-ice-parts/story?id=131461819" target="_blank">House Republicans reject Senate-passed bill to fund most of DHS except ICE</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-27 19:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +101,38 @@
                 <span class="time">2026-03-27 17:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260327-mike-johnson-ch-1306-ea33c7.jpg" alt="House Republicans rebel against Senate-passed DHS bill, eye separate funding vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/trump-johnson-dhs-house-rebels-senate-bill-ice-cbp-rcna265507" target="_blank">House Republicans rebel against Senate-passed DHS bill, eye separate funding vote</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-27 17:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/27/irans-football-team-honours-children-killed-in-minab-school-airstrike?traffic_source=rss" target="_blank">Iran’s football team honours children killed in Minab school airstrike</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-27 17:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/902703/white-house-app-iphone-android" target="_blank">The White House has an app now, and Trump wants you to report people to ICE on it</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-27 19:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2267370596-500x500-1774638087.jpg" alt="Hegseth, Trump had no authority to order Anthropic to be blacklisted, judge says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/hegseth-trump-had-no-authority-to-order-anthropic-to-be-blacklisted-judge-says/" target="_blank">Hegseth, Trump had no authority to order Anthropic to be blacklisted, judge says</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-27 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69c6b14c2e33b7e4cae4cc2b/master/pass/secutiy_Kash_Patel_GettyImages-2266686717.jpg" alt="Iranian Hackers Breached Kash Patel’s Email—but Not the FBI’s" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/" target="_blank">Iranian Hackers Breached Kash Patel’s Email—but Not the FBI’s</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-27 19:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,38 +160,29 @@
                 <span class="time">2026-03-27 17:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/902276/nuki-smart-lock-thread-matter-smart-home-amazon-big-spring-sale-2026-deal" target="_blank">Nuki’s one-touch retrofit smart lock got its first-ever discount</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-27 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2266689842-500x500.jpg" alt="DOJ confirms FBI Director Kash Patel’s personal email was hacked" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/" target="_blank">DOJ confirms FBI Director Kash Patel’s personal email was hacked</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-27 16:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/ps-logo-500x500.jpg" alt="Sony is raising PlayStation 5 prices again, this time by between $100 and $150" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/sony-is-raising-playstation-5-prices-again-this-time-by-between-100-and-150/" target="_blank">Sony is raising PlayStation 5 prices again, this time by between $100 and $150</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-27 15:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18920445&w=600" alt="Scaling AI Workloads in Java Without Breaking Your APIs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/scaling-ai-workloads-java-apis" target="_blank">Scaling AI Workloads in Java Without Breaking Your APIs</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-27 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/notjustanna/infisical-is-great-actually-13ho" target="_blank">Infisical is Great, Actually</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-27 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzvpkxm9mga1pweneahx.png" alt="Which index should SQLite use?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,29 +219,29 @@
                 <span class="time">2026-03-27 16:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/nvidia-595-kde-gnome" target="_blank">KDE Plasma 6.6 Showing Frequent Performance Advantage Over GNOME 50 With NVIDIA R595 Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-27 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiixo880tbxc2humoyx6u.png" alt="Building Reliable Agents with the Transactional Outbox Pattern and Redis Streams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/redis/building-reliable-agents-with-the-transactional-outbox-pattern-and-redis-streams-45e6" target="_blank">Building Reliable Agents with the Transactional Outbox Pattern and Redis Streams</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-27 15:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/41196534651_b504403934_o-1280x720.jpg" alt="I Played Dark Souls For The First Time In 2026 And It Really Is The Best Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dark-souls-rpg-nostalgia-taurus-demon-2000682716" target="_blank">I Played Dark Souls For The First Time In 2026 And It Really Is The Best Ever</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-27 20:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/nekodesk.jpg?fit=1200%2C669&amp;quality=60&amp;ssl=1" alt="Japanese desk designed for people who work with cats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/27/japanese-desk-designed-for-people-who-work-with-cats.html" target="_blank">Japanese desk designed for people who work with cats</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-27 19:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/02/seven-reasons-to-watch-twilight-setoodeh-tease_lcxm39.jpg?fit=1480%2C832&amp;quality=60&amp;ssl=1" alt="This Twilight ripoff is so bad it became a cult sensation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,24 +276,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/27/lonelywiki-shares-wikipedias-most-overlooked-articles.html" target="_blank">LonelyWiki shares Wikipedia&#x27;s most overlooked articles</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-27 17:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/hacks.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Iran hacked FBI Director &quot;Ka$h&quot; Patel&#x27;s personal email" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/27/iran-hacked-fbi-director-kah-patels-personal-email.html" target="_blank">Iran hacked FBI Director &quot;Ka$h&quot; Patel&#x27;s personal email</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-27 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-2-06-1280x853.jpg" alt="I Wouldn’t Plan on Wearing Smart Glasses to Court Anytime Soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/i-wouldnt-plan-on-wearing-smart-glasses-to-court-anytime-soon-2000738939" target="_blank">I Wouldn’t Plan on Wearing Smart Glasses to Court Anytime Soon</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-27 15:10</span>
             </div>
         </div>
 </div>
@@ -326,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 19:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 20:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
