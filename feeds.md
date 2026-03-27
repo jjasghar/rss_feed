@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-03-27 08:11:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-27 09:14:44 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, March 27, 2026 - 08:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, March 27, 2026 - 09:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/articles/architecting-autonomy-scale/en/headerimage/architecting-autonomy-scale-header-1774360140662.jpg" alt="Article: Architecting Autonomy at Scale: Raising Teams Without Creating Dependencies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/architecting-autonomy-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Architecting Autonomy at Scale: Raising Teams Without Creating Dependencies</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-27 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5on0h3yjk6hc39da1blf.png" alt="Did You Know That LLMs Can Take Architecture as Code to the Next Level?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -187,6 +189,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/modern-linux-identity-management-ubuntu" target="_blank">Modern Linux identity management: from local auth to the cloud with Ubuntu</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-03-27 07:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/_46ea277e677b888e0cd13/moneyprinterturbo-ai-weonkeulrig-syospom-yeongsang-jadong-saengseong-opeunsoseu-53k-stars-enm" target="_blank">MoneyPrinterTurbo: AI 원클릭 숏폼 영상 자동 생성 오픈소스 (53K+ Stars)</a></span>
                 <span class="feed">DEV Community</span>
@@ -200,24 +211,6 @@
                 <span class="title"><a href="https://code.claude.com/docs/en/web-scheduled-tasks" target="_blank">Schedule Claude Code tasks on the web</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-27 04:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shaswat_choudhary/why-bcrypt-is-not-enough-in-2026-and-what-we-built-instead-149m" target="_blank">Why bcrypt Is Not Enough in 2026 And What We Built Instead</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-27 03:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alanwest/how-to-actually-migrate-from-github-to-codeberg-without-losing-your-mind-33bf" target="_blank">How to Actually Migrate from GitHub to Codeberg Without Losing Your Mind</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-27 01:22</span>
             </div>
         </div>
 </div>
@@ -330,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 08:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 09:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
