@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-27 00:10:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-27 01:31:04 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, March 27, 2026 - 00:10 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, March 27, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/26/nx-s1-5762971/judge-temporarily-blocks-anthropic-ban" target="_blank">Judge temporarily blocks Trump administration&#x27;s Anthropic ban</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-27 00:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/travel-1-ap-gmh-260326_1774547704458_hpMain_4x3t_384.jpg" alt="Trump says he&#x27;ll sign order directing DHS to pay TSA workers as shutdown drags on" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +97,20 @@
                 <span class="time">2026-03-26 20:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/26/nx-s1-5759159/trump-ice-airports-tsa" target="_blank">Trump has deployed ICE agents to the nation&#x27;s airports. What&#x27;s their role?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-26 19:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/" target="_blank">David Sacks is done as AI czar — here’s what he’s doing instead</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-27 01:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69c5b0bd07d68ae7468ce59a/master/pass/Apple-Supply-Chain-Risk-Business-2261514689.jpg" alt="Anthropic Supply-Chain Risk Designation Halted By Judge" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +156,20 @@
                 <span class="time">2026-03-26 21:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/901836/anker-qi2-wireless-charging-iphone-magsafe-amazon-big-spring-sale-2026-deal" target="_blank">Anker’s wireless charging pad offers Qi2 speeds for $15</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-26 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alanwest/how-to-actually-migrate-from-github-to-codeberg-without-losing-your-mind-33bf" target="_blank">How to Actually Migrate from GitHub to Codeberg Without Losing Your Mind</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-27 01:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +215,6 @@
                 <span class="time">2026-03-26 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/siddharth_singh_409bd5267/root-cause-analysis-the-complete-guide-for-sres-1chm" target="_blank">Root Cause Analysis: The Complete Guide for SREs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-26 19:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/trump-hands-getty-1280x853.jpg" alt="Trump Says He’ll Sign Order to Pay TSA" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-says-hell-sign-order-to-pay-tsa-2000738813" target="_blank">Trump Says He’ll Sign Order to Pay TSA</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-26 23:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/shutterstock_2519492239.jpeg?fit=1080%2C608&amp;quality=60&amp;ssl=1" alt="Foreign aid looted to bankroll Trump&#x27;s unaccountable &quot;Board of Peace&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,20 +288,20 @@
                 <span class="time">2026-03-26 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/lipps.jpg?fit=1200%2C811&amp;quality=60&amp;ssl=1" alt="Cops used AI to match a photo to an innocent grandmother in Tennessee, then jailed her for nearly 6 months" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/26/cops-used-ai-to-match-a-photo-to-an-innocent-grandmother-in-tennessee-then-jailed-her-for-nearly-6-months.html" target="_blank">Cops used AI to match a photo to an innocent grandmother in Tennessee, then jailed her for nearly 6 months</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-26 20:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5795.png" alt="Carry On Only" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5795" target="_blank">Carry On Only</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-03-27 00:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1774387043-20260326.png" alt="Saturday Morning Breakfast Cereal - Humor" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -313,22 +320,13 @@
                 <span class="time">2026-03-26 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5794.png" alt="Job Talk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5794" target="_blank">Job Talk</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-03-26 01:08</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 00:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
