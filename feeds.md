@@ -1,36 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-03-27 17:15:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-27 18:13:36 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 13 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, March 27, 2026 - 17:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, March 27, 2026 - 18:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/27/nx-s1-5763017/social-media-teens-addictive-design" target="_blank">Research points to how companies could make social media less addictive for teens</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-27 17:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260327-mike-johnson-ch-1306-ea33c7.jpg" alt="House Republicans rebel against Senate-passed DHS bill, eye separate funding vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/trump-johnson-dhs-house-rebels-senate-bill-ice-cbp-rcna265507" target="_blank">House Republicans rebel against Senate-passed DHS bill, eye separate funding vote</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-27 17:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/27/irans-football-team-honours-children-killed-in-minab-school-airstrike?traffic_source=rss" target="_blank">Iran’s football team honours children killed in Minab school airstrike</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-27 17:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +106,20 @@
                 <span class="time">2026-03-27 14:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/3/27/saudi-uae-iraq-can-three-pipelines-help-oil-escape-strait-of-hormuz?traffic_source=rss" target="_blank">Saudi, UAE, Iraq: Can three pipelines help oil escape Strait of Hormuz?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-27 13:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/27/nx-s1-5732794/dementia-caregiving-alzheimers-kenya-support" target="_blank">Her dad&#x27;s dementia inspired her to create a guide for family caregivers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-27 13:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/228b/live/07f22eb0-29ce-11f1-a2b6-c773a772cff9.jpg" alt="Is Trump&#x27;s pause on attacking Iranian energy for diplomacy or an escalation?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&at_campaign=rss" target="_blank">Is Trump&#x27;s pause on attacking Iranian energy for diplomacy or an escalation?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-27 13:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69c6bfb494502e7091a2c38a/master/pass/This-Sennheiser-Soundbar-Is-$1,000-Off.jpg" alt="This Premium Sennheiser Soundbar Is $1,000 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sennheiser-ambeo-max-deal-326/" target="_blank">This Premium Sennheiser Soundbar Is $1,000 Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-27 17:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -112,6 +127,24 @@
                 <span class="title"><a href="https://techcrunch.com/2026/03/27/aetherflux-reportedly-raising-series-b-at-2-billion-valuation/" target="_blank">Aetherflux reportedly raising Series B at $2 billion valuation</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-27 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/902276/nuki-smart-lock-thread-matter-smart-home-amazon-big-spring-sale-2026-deal" target="_blank">Nuki’s one-touch retrofit smart lock got its first-ever discount</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-27 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2266689842-500x500.jpg" alt="DOJ confirms FBI Director Kash Patel’s personal email was hacked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/" target="_blank">DOJ confirms FBI Director Kash Patel’s personal email was hacked</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-27 16:24</span>
             </div>
         </div>
 <div class="story">
@@ -132,38 +165,20 @@
                 <span class="time">2026-03-27 15:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/" target="_blank">Apple Still Plans to Sell iPhones When It Turns 100</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-27 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/901519/best-cheap-tech-deals-under-50-amazon-big-spring-sale-2026" target="_blank">We picked the 24 best Big Spring Sale deals that are under $50</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-27 14:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/901329/shinobi-video-game-photo-mode-consultant" target="_blank">The photo mode consultant helping you take better video game screenshots</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-27 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18920381&w=600" alt="Designing High-Concurrency Databricks Workloads Without Performance Degradation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/high-concurrency-databricks-workloads-performance-optimization" target="_blank">Designing High-Concurrency Databricks Workloads Without Performance Degradation</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-27 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fercx9tbcdrgcidzs0u7m.png" alt="Why I Ripped stream.pipe() Out of My Node.js API Gateway" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,20 +224,38 @@
                 <span class="time">2026-03-27 14:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder" target="_blank">Anatomy of the .claude/ Folder</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-27 14:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/romeros-1280x720.jpg" alt="Video Game Legends Describe The Games Industry As ‘Crashier’ Now Than During The ’80s Crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/games-industry-crash-john-brenda-romero-layoffs-xbox-2000682693" target="_blank">Video Game Legends Describe The Games Industry As ‘Crashier’ Now Than During The ’80s Crash</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-27 18:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Mike-Nick-Nick-Alice-review-1280x853.jpg" alt="‘Mike &amp; Nick &amp; Nick &amp; Alice’ Is a Genre Blending Delight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/mike-nick-nick-alice-is-a-genre-blending-delight-2000738662" target="_blank">‘Mike &amp; Nick &amp; Nick &amp; Alice’ Is a Genre Blending Delight</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-27 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/astounding.jpg?fit=1200%2C807&amp;quality=60&amp;ssl=1" alt="LonelyWiki shares Wikipedia&#x27;s most overlooked articles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/27/lonelywiki-shares-wikipedias-most-overlooked-articles.html" target="_blank">LonelyWiki shares Wikipedia&#x27;s most overlooked articles</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-27 17:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/hacks.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Iran hacked FBI Director &quot;Ka$h&quot; Patel&#x27;s personal email" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -250,38 +283,20 @@
                 <span class="time">2026-03-27 14:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/glen-powell-fox-mccloud-super-mario-galaxy-1280x853.jpg" alt="What Do You Mean Glen Powell Is Fox McCloud in the ‘Super Mario Galaxy’ Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/glen-powell-fox-mccloud-super-mario-galaxy-movie-2000738942" target="_blank">What Do You Mean Glen Powell Is Fox McCloud in the ‘Super Mario Galaxy’ Movie</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-27 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMNRY4B71133NZMHBE4WDZZM/hero-image.png" alt="This 55-Inch Samsung OLED TV Is $500 Off During the Amazon Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-55-inch-oled-tv-amazon-big-spring-sale-2026?utm_medium=RSS" target="_blank">This 55-Inch Samsung OLED TV Is $500 Off During the Amazon Big Spring Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-27 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/glenfox-1280x720.jpg" alt="Glen Powell Will Play Fox McCloud In The Super Mario Galaxy Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/super-mario-galaxy-movie-glen-powell-star-fox-mccloud-voice-2000682628" target="_blank">Glen Powell Will Play Fox McCloud In The Super Mario Galaxy Movie</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-27 13:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/27/folk-etymologies" target="_blank">Folk Etymologies</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-27 17:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -305,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 17:16 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 18:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
