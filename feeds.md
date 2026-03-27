@@ -1,34 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-03-27 12:10:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-27 13:27:08 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, March 27, 2026 - 12:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, March 27, 2026 - 13:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/news/2026/mar/27/un-slavery-ruling-african-union-reparations-slavery-analysis" target="_blank">UN’s landmark slavery ruling energises African Union’s fight for reparations</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-27 13:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca7/live/fe544c10-fc61-11f0-9972-d3f265c101c6.jpg" alt="Man jailed for four years after Barron Trump reported attack to UK police" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgrlnp1ydv1o?at_medium=RSS&at_campaign=rss" target="_blank">Man jailed for four years after Barron Trump reported attack to UK police</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-27 12:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +106,20 @@
                 <span class="time">2026-03-27 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2a5/live/59372420-29c8-11f1-952c-77491ff53aff.jpg" alt="&#x27;My daughter is under the rubble&#x27;: Inside Tehran as civilian toll of strikes rises" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;My daughter is under the rubble&#x27;: Inside Tehran as civilian toll of strikes rises</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-27 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2173/live/dfb962c0-29a4-11f1-934f-036468834728.jpg" alt="Parents told under-5s should not be on screens more than an hour a day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1d936n7445o?at_medium=RSS&at_campaign=rss" target="_blank">Parents told under-5s should not be on screens more than an hour a day</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-27 09:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/902224/sony-ps5-playstation-price-hike" target="_blank">Sony is raising PS5 prices by $100 in April</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-27 12:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6878257d08a39480606bbdb5/master/pass/The%20Best%20MagSafe%20Wallets.png" alt="13 Best MagSafe Wallets (2026), Tested IRL" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +165,29 @@
                 <span class="time">2026-03-27 00:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c5b0bd07d68ae7468ce59a/master/pass/Apple-Supply-Chain-Risk-Business-2261514689.jpg" alt="Anthropic Supply-Chain-Risk Designation Halted by Judge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/" target="_blank">Anthropic Supply-Chain-Risk Designation Halted by Judge</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-26 23:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tmdlrg/i-let-ai-create-a-product-and-post-it-to-linkedin-it-failed-spectacularly-126j" target="_blank">I Let AI Create a Product and Post It to LinkedIn. It Failed Spectacularly.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-27 13:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/BPF-IO-Scheduler-Linux" target="_blank">BPF-Based I/O Scheduler For Linux Demonstrated</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-27 12:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,28 +218,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/enayet_rashid_bd/from-if-statements-to-classes-how-refactoring-taught-me-testable-code-26a0" target="_blank">From if Statements to Classes: How Refactoring Taught Me Testable Code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-27 11:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-7.12-Tech-Preview" target="_blank">AMD ROCm 7.12 Tech Preview Brings More Consumer APU &amp; GPU Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-27 10:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/security-architecture-systemic-vulnerabilities/en/mediumimage/shana-dacres-medium-1772017261672.jpg" alt="Presentation: Security and Architecture: To Betray One Is To Destroy Both" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/security-architecture-systemic-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Security and Architecture: To Betray One Is To Destroy Both</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-27 09:27</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17307431/ubuntu-26-10-grub-overhaul" target="_blank">Why Ubuntu 26.10 Might Drop ZFS, RAID &amp;amp; Encryption Support</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-27 11:55</span>
             </div>
         </div>
 </div>
@@ -221,6 +229,42 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/PlayStation®5-Digital-Edition-slim--1280x852.jpg" alt="PS5 Now Starts At $600 As Sony Calls Unprecedented Price Hikes ‘A Necessary Step’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/playstation-5-pro-ps5-portal-price-increase-april-2026-2000682609" target="_blank">PS5 Now Starts At $600 As Sony Calls Unprecedented Price Hikes ‘A Necessary Step’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-27 13:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KMQ9CPXDN7CKJ1HKWRJTCA1B/hero-image.png" alt="This 65-Inch Hisense QLED TV Is $800 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/65-inch-hisense-4k-tv-deal-march-2026?utm_medium=RSS" target="_blank">This 65-Inch Hisense QLED TV Is $800 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-27 13:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/MS0324-himesh-patel-station-13-1280x853.jpg" alt="Ryan Coogler’s ‘X-Files’ Reboot Has Found Its Other Big Star" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ryan-coogler-x-files-reboot-himesh-patel-2000738639" target="_blank">Ryan Coogler’s ‘X-Files’ Reboot Has Found Its Other Big Star</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-27 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Wikipedia.jpeg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Wikipedia bans AI-generated content" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/27/wikipedia-bans-ai-generated-content.html" target="_blank">Wikipedia bans AI-generated content</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-27 12:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2225972757.jpg?fit=1000%2C609&amp;quality=60&amp;ssl=1" alt="Mac Pro line ends, with no plans for future models" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -237,42 +281,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/26/cbs-news-ratings-reportedly-its-lowest-on-record.html" target="_blank">CBS News ratings reportedly its lowest on record</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-27 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/trump-hands-getty-1280x853.jpg" alt="Trump Says He’ll Sign Order to Pay TSA" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-says-hell-sign-order-to-pay-tsa-2000738813" target="_blank">Trump Says He’ll Sign Order to Pay TSA</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-26 23:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/shutterstock_2519492239.jpeg?fit=1080%2C608&amp;quality=60&amp;ssl=1" alt="Foreign aid looted to bankroll Trump&#x27;s unaccountable &quot;Board of Peace&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/26/foreign-aid-looted-to-bankroll-trumps-unaccountable-board-of-peace.html" target="_blank">Foreign aid looted to bankroll Trump&#x27;s unaccountable &quot;Board of Peace&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-26 22:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/deadpool-magic-the-gathering-secret-lair-1280x853.jpg" alt="Deadpool Will Deface ‘Magic: The Gathering’ Classics for a New Secret Lair" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/deadpool-magic-the-gathering-secret-lair-price-release-date-2000738645" target="_blank">Deadpool Will Deface ‘Magic: The Gathering’ Classics for a New Secret Lair</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-26 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/redlght.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="A dermatologist snuck red LED panels into his son&#x27;s hospital room after a stroke, and now he&#x27;s a convert" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/26/a-dermatologist-snuck-red-led-panels-into-his-sons-hospital-room-after-a-stroke-and-now-hes-a-convert.html" target="_blank">A dermatologist snuck red LED panels into his son&#x27;s hospital room after a stroke, and now he&#x27;s a convert</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-26 21:10</span>
             </div>
         </div>
 </div>
@@ -312,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 12:10 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 13:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
