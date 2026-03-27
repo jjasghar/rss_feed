@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-27 20:06:18 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-27 21:08:16 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, March 27, 2026 - 20:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, March 27, 2026 - 21:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/27/israel-launches-strikes-on-iran-nuclear-sites-as-war-enters-fifth-week?traffic_source=rss" target="_blank">Israel launches strikes on Iran nuclear sites as war enters fifth week</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-27 20:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/mike-johnson-1-rt-gmh-260327_1774637773783_hpMain_4x3t_384.jpg" alt="House Republicans reject Senate DHS funding bill, Trump signs memo to pay TSA workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/senate-passes-bill-fund-dhs-except-ice-parts/story?id=131461819" target="_blank">House Republicans reject Senate DHS funding bill, Trump signs memo to pay TSA workers</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-27 20:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +99,20 @@
                 <span class="time">2026-03-27 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc24/live/04a04af0-29d6-11f1-9def-51999882d8d7.jpg" alt="Asda boss rejects profiteering claims as petrol price tops 150p" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss" target="_blank">Asda boss rejects profiteering claims as petrol price tops 150p</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-27 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/27/nx-s1-5763017/social-media-teens-addictive-design" target="_blank">Research points to how companies could make social media less addictive for teens</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-27 17:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/902499/insta360-link-2c-webcam-amazon-big-spring-sale-2026-deal" target="_blank">Insta360’s last-gen Link 2C is fantastic 4K webcam now that it’s 20 percent off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-27 20:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/sennheiser-ambeo-max-deal-326/" target="_blank">This Premium Sennheiser Soundbar Is $1,000 Off</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-03-27 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/27/aetherflux-reportedly-raising-series-b-at-2-billion-valuation/" target="_blank">Aetherflux reportedly raising Series B at $2 billion valuation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-27 17:05</span>
             </div>
         </div>
 </div>
@@ -225,6 +223,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/wicked-spot-kodansha-sal-jiang-1280x853.jpg" alt="‘Wicked Spot’ Is a Fun, Sapphic Rom-Com That Yeets a Witch Into the Magical World of Influencer Culture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/wicked-spot-is-a-fun-sapphic-rom-com-that-yeets-a-witch-into-the-magical-world-of-influencer-culture-2000739011" target="_blank">‘Wicked Spot’ Is a Fun, Sapphic Rom-Com That Yeets a Witch Into the Magical World of Influencer Culture</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-27 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/hosukai-lovecraft.jpg?fit=1200%2C834&amp;quality=60&amp;ssl=1" alt="Artist paints Lovecraft&#x27;s Great Old Ones into all 46 of Hokusai&#x27;s woodblock prints" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/27/artist-paints-lovecrafts-great-old-ones-into-all-46-of-hokusais-woodblock-prints.html" target="_blank">Artist paints Lovecraft&#x27;s Great Old Ones into all 46 of Hokusai&#x27;s woodblock prints</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-27 20:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/41196534651_b504403934_o-1280x720.jpg" alt="I Played Dark Souls For The First Time In 2026 And It Really Is The Best Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -258,24 +274,6 @@
                 <span class="title"><a href="https://kotaku.com/games-industry-crash-john-brenda-romero-layoffs-xbox-2000682693" target="_blank">Video Game Legends Describe The Games Industry As ‘Crashier’ Now Than During The ’80s Crash</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-27 18:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Mike-Nick-Nick-Alice-review-1280x853.jpg" alt="‘Mike &amp; Nick &amp; Nick &amp; Alice’ Is a Genre Blending Delight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/mike-nick-nick-alice-is-a-genre-blending-delight-2000738662" target="_blank">‘Mike &amp; Nick &amp; Nick &amp; Alice’ Is a Genre Blending Delight</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-27 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/astounding.jpg?fit=1200%2C807&amp;quality=60&amp;ssl=1" alt="LonelyWiki shares Wikipedia&#x27;s most overlooked articles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/27/lonelywiki-shares-wikipedias-most-overlooked-articles.html" target="_blank">LonelyWiki shares Wikipedia&#x27;s most overlooked articles</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-27 17:31</span>
             </div>
         </div>
 </div>
@@ -324,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 20:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 21:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
