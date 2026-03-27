@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-27 14:18:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-27 15:14:55 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, March 27, 2026 - 14:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, March 27, 2026 - 15:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/27/nixon-to-trump-pakistans-long-record-as-backchannel-between-rival-powers?traffic_source=rss" target="_blank">Nixon to Trump: Pakistan’s long record as backchannel between rival powers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-27 14:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +102,29 @@
                 <span class="time">2026-03-27 11:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774610182930_tdy_news_7a_gilchrist_airport_relief_260328_S3_1920x1080-99i2o3.jpg" alt="Is Relief on the Way at Airports After Senate Agrees to Fund DHS?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/will-there-be-relief-at-airports-after-senate-agrees-to-fund-dhs-260180549934" target="_blank">Is Relief on the Way at Airports After Senate Agrees to Fund DHS?</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-27 11:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/" target="_blank">Apple Still Plans to Sell iPhones When It Turns 100</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-27 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/901519/best-cheap-tech-deals-under-50-amazon-big-spring-sale-2026" target="_blank">We picked the 24 best Big Spring Sale deals that are under $50</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-27 14:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +161,29 @@
                 <span class="time">2026-03-27 12:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products" target="_blank">Rank the 50 best Apple products</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-27 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" alt="Surfshark Promo Codes: 87% Off | March 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/surfshark-coupon/" target="_blank">Surfshark Promo Codes: 87% Off | March 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-27 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiixo880tbxc2humoyx6u.png" alt="Building Reliable Agents with the Transactional Outbox Pattern and Redis Streams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/redis/building-reliable-agents-with-the-transactional-outbox-pattern-and-redis-streams-45e6" target="_blank">Building Reliable Agents with the Transactional Outbox Pattern and Redis Streams</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-27 15:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18920370&w=600" alt="Designing Stop Loss in Modern AI-Driven Automated Trading Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/designing-stop-loss-ai-automated-trading" target="_blank">Designing Stop Loss in Modern AI-Driven Automated Trading Systems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-27 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,29 +220,29 @@
                 <span class="time">2026-03-27 12:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/BPF-IO-Scheduler-Linux" target="_blank">BPF-Based I/O Scheduler For Linux Demonstrated</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-27 12:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/plasmon_imp/can-spiking-neural-networks-kill-the-gpu-3-papers-show-the-reality-im8" target="_blank">Can Spiking Neural Networks Kill the GPU? 3 Papers Show the Reality</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-27 12:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-2-06-1280x853.jpg" alt="I Wouldn’t Plan on Wearing Smart Glasses to Court Anytime Soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/i-wouldnt-plan-on-wearing-smart-glasses-to-court-anytime-soon-2000738939" target="_blank">I Wouldn’t Plan on Wearing Smart Glasses to Court Anytime Soon</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-27 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/shutterstock_2683833861.jpg?fit=1000%2C666&amp;quality=60&amp;ssl=1" alt="Senate votes to fund DHS, but not ICE or Border Patrol" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/27/senate-votes-to-fund-dhs-but-not-ice-or-border-patrol.html" target="_blank">Senate votes to fund DHS, but not ICE or Border Patrol</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-27 14:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/glen-powell-fox-mccloud-super-mario-galaxy-1280x853.jpg" alt="What Do You Mean Glen Powell Is Fox McCloud in the ‘Super Mario Galaxy’ Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -242,39 +262,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/glenfox-1280x720.jpg" alt="Glen Powell Will Play Fox McCloud In The Super Mario Galaxy Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/super-mario-galaxy-movie-glen-powell-star-fox-mccloud-voice-2000682628" target="_blank">Glen Powell Will Play Fox McCloud In The Super Mario Galaxy Movie</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-27 13:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/PlayStation®5-Digital-Edition-slim--1280x852.jpg" alt="PS5 Now Starts At $600 As Sony Calls Unprecedented Price Hikes ‘A Necessary Step’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/playstation-5-pro-ps5-portal-price-increase-april-2026-2000682609" target="_blank">PS5 Now Starts At $600 As Sony Calls Unprecedented Price Hikes ‘A Necessary Step’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-27 13:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMQ9CPXDN7CKJ1HKWRJTCA1B/hero-image.png" alt="This 65-Inch Hisense QLED TV Is $800 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/65-inch-hisense-4k-tv-deal-march-2026?utm_medium=RSS" target="_blank">This 65-Inch Hisense QLED TV Is $800 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-27 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/MS0324-himesh-patel-station-13-1280x853.jpg" alt="Ryan Coogler’s ‘X-Files’ Reboot Has Found Its Other Big Star" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ryan-coogler-x-files-reboot-himesh-patel-2000738639" target="_blank">Ryan Coogler’s ‘X-Files’ Reboot Has Found Its Other Big Star</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-27 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Wikipedia.jpeg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Wikipedia bans AI-generated content" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/27/wikipedia-bans-ai-generated-content.html" target="_blank">Wikipedia bans AI-generated content</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-27 12:06</span>
             </div>
         </div>
 </div>
@@ -314,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 14:18 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 15:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
