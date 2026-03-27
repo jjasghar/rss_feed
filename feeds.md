@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-27 10:13:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-27 11:14:05 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, March 27, 2026 - 10:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, March 27, 2026 - 11:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/dhs-shutdown-vote_1774603980490_hpMain_4x3t_384.jpg" alt="Senate passes bill to fund all parts of DHS except for ICE and parts of CBP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/senate-passes-bill-fund-dhs-except-ice-parts/story?id=131461819" target="_blank">Senate passes bill to fund all parts of DHS except for ICE and parts of CBP</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-27 10:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/27/nx-s1-5762978/sperm-whale-birth-cooperation-coordination-marine-mammals-science" target="_blank">Scientists watch sperm whales work as a team to assist a birth</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-27 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2a5/live/59372420-29c8-11f1-952c-77491ff53aff.jpg" alt="&#x27;My daughter is under the rubble&#x27;: Inside Tehran as civilian toll of strikes rises" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;My daughter is under the rubble&#x27;: Inside Tehran as civilian toll of strikes rises</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-27 09:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2173/live/dfb962c0-29a4-11f1-934f-036468834728.jpg" alt="Parents told under-5s should not be on screens more than an hour a day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1d936n7445o?at_medium=RSS&at_campaign=rss" target="_blank">Parents told under-5s should not be on screens more than an hour a day</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-27 09:24</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -56,42 +99,6 @@
                 <span class="title"><a href="https://www.theguardian.com/artanddesign/2026/mar/27/african-guernica-dumile-feni-on-display-alongside-picasso" target="_blank">‘The violence of racist tyranny’: African Guernica goes on display alongside Picasso masterpiece</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-03-27 07:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/27/g-s1-115366/senate-dhs-tsa-deal" target="_blank">Senate votes to fund much of DHS, minus immigration enforcement</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-27 07:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/3/27/the-strait-of-hormuz-is-not-just-an-oil-chokepoint?traffic_source=rss" target="_blank">The Strait of Hormuz is not just an oil chokepoint</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-27 05:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/3/27/malaysias-ships-allowed-to-pass-strait-of-hormuz-pm-anwar-says?traffic_source=rss" target="_blank">Malaysia’s ships allowed to pass Strait of Hormuz, PM Anwar says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-27 04:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/26/nx-s1-5762974/education-department-building" target="_blank">The depleted Education Department will move out of its headquarters</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-27 01:51</span>
             </div>
         </div>
 </div>
@@ -159,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/enayet_rashid_bd/from-if-statements-to-classes-how-refactoring-taught-me-testable-code-26a0" target="_blank">From if Statements to Classes: How Refactoring Taught Me Testable Code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-27 11:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-7.12-Tech-Preview" target="_blank">AMD ROCm 7.12 Tech Preview Brings More Consumer APU &amp; GPU Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-27 10:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/presentations/security-architecture-systemic-vulnerabilities/en/mediumimage/shana-dacres-medium-1772017261672.jpg" alt="Presentation: Security and Architecture: To Betray One Is To Destroy Both" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -192,38 +217,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/03/27/prevent-agentic-identity-theft/" target="_blank">Prevent agentic identity theft</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-03-27 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/modern-linux-identity-management-ubuntu" target="_blank">Modern Linux identity management: from local auth to the cloud with Ubuntu</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-03-27 07:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.semicolonandsons.com/articles/scaling-a-monolith-to-1m-loc-113-pragmatic-lessons-from-tech-lead-to-cto" target="_blank">Scaling a Monolith to 1M LOC: 113 Pragmatic Lessons from Tech Lead to CTO</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-27 06:32</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/as-the-us-midterms-approach-ai-is-going-to-emerge-as-a-key-issue-concerning-voters.html" target="_blank">As the US Midterms Approach, AI Is Going to Emerge as a Key Issue Concerning Voters</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-03-26 11:06</span>
             </div>
         </div>
 </div>
@@ -331,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 10:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 11:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
