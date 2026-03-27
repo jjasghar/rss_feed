@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-27 16:14:27 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-27 17:15:49 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, March 27, 2026 - 16:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, March 27, 2026 - 17:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -94,12 +92,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/228b/live/07f22eb0-29ce-11f1-a2b6-c773a772cff9.jpg" alt="Is Trump&#x27;s pause on attacking Iranian energy for diplomacy or an escalation?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/news/2026/mar/27/un-slavery-ruling-african-union-reparations-slavery-analysis" target="_blank">UN’s landmark slavery ruling energises African Union’s fight for reparations</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-27 13:07</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&at_campaign=rss" target="_blank">Is Trump&#x27;s pause on attacking Iranian energy for diplomacy or an escalation?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-27 13:17</span>
             </div>
         </div>
 </div>
@@ -107,6 +105,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/27/aetherflux-reportedly-raising-series-b-at-2-billion-valuation/" target="_blank">Aetherflux reportedly raising Series B at $2 billion valuation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-27 17:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/ps-logo-500x500.jpg" alt="Sony is raising PlayStation 5 prices again, this time by between $100 and $150" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,15 +159,6 @@
                 <span class="time">2026-03-27 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/B2026CW00095-500x500.jpg" alt="Rivian and VW Group complete winter testing of new zonal architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/03/rivian-and-vw-group-complete-winter-testing-of-new-zonal-architecture/" target="_blank">Rivian and VW Group complete winter testing of new zonal architecture</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-27 13:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +171,15 @@
                 <span class="title"><a href="https://dev.to/ashishbarmaiya/why-i-ripped-streampipe-out-of-my-nodejs-api-gateway-2ekl" target="_blank">Why I Ripped stream.pipe() Out of My Node.js API Gateway</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-27 16:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/nvidia-595-kde-gnome" target="_blank">KDE Plasma 6.6 Showing Frequent Performance Advantage Over GNOME 50 With NVIDIA R595 Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-27 15:24</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +216,6 @@
                 <span class="title"><a href="https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder" target="_blank">Anatomy of the .claude/ Folder</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-27 14:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/qcon-london-foxwell-dev-teams/en/headerimage/generatedHeaderImage-1774620816755.jpg" alt="QCon London 2026: AI Agents Write Your Code. What’s Left For Humans?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/qcon-london-foxwell-dev-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: AI Agents Write Your Code. What’s Left For Humans?</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-27 14:15</span>
             </div>
         </div>
 </div>
@@ -307,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 16:14 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 17:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
