@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-27 04:02:19 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-27 05:30:54 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, March 27, 2026 - 04:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, March 27, 2026 - 05:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/3/27/malaysias-ships-allowed-to-pass-strait-of-hormuz-pm-anwar-says?traffic_source=rss" target="_blank">Malaysia’s ships allowed to pass Strait of Hormuz, PM Anwar says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-27 04:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -60,6 +74,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774567258954_nn_tco_tsa_agents_being_paid_260326_S3_1920x1080-lsa7t2.jpg" alt="Trump says he will sign order to pay TSA workers following weeks of long lines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-says-he-will-sign-order-to-pay-tsa-workers-following-weeks-of-long-lines-260161093697" target="_blank">Trump says he will sign order to pay TSA workers following weeks of long lines</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-26 23:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/travel-1-ap-gmh-260326_1774547704458_hpMain_4x3t_384.jpg" alt="Trump says he&#x27;ll sign order directing DHS to pay TSA workers as shutdown drags on" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -75,24 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1d936n7445o?at_medium=RSS&at_campaign=rss" target="_blank">Under-5s should not be on screens for more than an hour a day, parents told in new government advice</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-03-26 22:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/oil-tanker-rt-jt-260314_1773503739436_hpMain_4x3t_384.jpg" alt="Trump extends deadline 2nd time for Iran to open the Strait of Hormuz amid talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/trump-extends-deadline-2nd-time-iran-open-strait/story?id=131431039" target="_blank">Trump extends deadline 2nd time for Iran to open the Strait of Hormuz amid talks</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-26 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/26/nx-s1-5762579/ioc-bans-trans-women-events-genetic-testing" target="_blank">The Olympic committee bans trans athletes from women&#x27;s events, raising many questions</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-26 20:56</span>
             </div>
         </div>
 </div>
@@ -163,6 +168,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/_46ea277e677b888e0cd13/moneyprinterturbo-ai-weonkeulrig-syospom-yeongsang-jadong-saengseong-opeunsoseu-53k-stars-enm" target="_blank">MoneyPrinterTurbo: AI 원클릭 숏폼 영상 자동 생성 오픈소스 (53K+ Stars)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-27 05:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://code.claude.com/docs/en/web-scheduled-tasks" target="_blank">Schedule Claude Code tasks on the web</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-27 04:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shaswat_choudhary/why-bcrypt-is-not-enough-in-2026-and-what-we-built-instead-149m" target="_blank">Why bcrypt Is Not Enough in 2026 And What We Built Instead</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-27 03:50</span>
@@ -193,24 +216,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ubuntu-26-04-beta-is-now-available-to-download" target="_blank">Ubuntu 26.04 Beta is now available to download</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-03-26 23:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/andreagriffiths11/openclaw-just-passed-react-heres-what-the-github-star-leaderboard-actually-looks-like-4dam" target="_blank">OpenClaw Just Passed React. Here&#x27;s What the GitHub Star Leaderboard Actually Looks Like.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-26 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fph53v27zmjaz9apt18yl.png" alt="Let&#x27;s Work together as front-end developer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shah_ce535b7ff81cbb5/lets-work-together-as-front-end-developer-1mol" target="_blank">Let&#x27;s Work together as front-end developer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-26 20:00</span>
             </div>
         </div>
 </div>
@@ -323,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 05:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
