@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-27 11:14:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-27 12:10:08 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Kotaku -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, March 27, 2026 - 11:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, March 27, 2026 - 12:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/27/g-s1-115433/up-first-newsletter-dhs-funding-iran-strait-of-hormuz-cpac" target="_blank">Senate votes to fund most of DHS. And, Trump extends Iran&#x27;s deadline to reopen strait</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-27 11:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774610182930_tdy_news_7a_gilchrist_airport_relief_260328_S3_1920x1080-99i2o3.jpg" alt="Is Relief on the Way at Airports After Senate Agrees to Fund DHS?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/will-there-be-relief-at-airports-after-senate-agrees-to-fund-dhs-260180549934" target="_blank">Is Relief on the Way at Airports After Senate Agrees to Fund DHS?</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-27 11:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/dhs-shutdown-vote_1774603980490_hpMain_4x3t_384.jpg" alt="Senate passes bill to fund all parts of DHS except for ICE and parts of CBP" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +98,20 @@
                 <span class="time">2026-03-27 09:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/27/israeli-opposition-leader-rails-against-multi-front-war-without-strategy?traffic_source=rss" target="_blank">Israeli opposition leader rails against ‘multi-front war without strategy’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-27 07:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/artanddesign/2026/mar/27/african-guernica-dumile-feni-on-display-alongside-picasso" target="_blank">‘The violence of racist tyranny’: African Guernica goes on display alongside Picasso masterpiece</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-27 07:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6878257d08a39480606bbdb5/master/pass/The%20Best%20MagSafe%20Wallets.png" alt="13 Best MagSafe Wallets (2026), Tested IRL" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-magsafe-wallets/" target="_blank">13 Best MagSafe Wallets (2026), Tested IRL</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-27 12:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +157,38 @@
                 <span class="time">2026-03-26 23:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c5b0bd07d68ae7468ce59a/master/pass/Apple-Supply-Chain-Risk-Business-2261514689.jpg" alt="Anthropic Supply-Chain Risk Designation Halted By Judge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/" target="_blank">Anthropic Supply-Chain Risk Designation Halted By Judge</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-26 23:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/plasmon_imp/can-spiking-neural-networks-kill-the-gpu-3-papers-show-the-reality-im8" target="_blank">Can Spiking Neural Networks Kill the GPU? 3 Papers Show the Reality</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-27 12:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18920341&w=600" alt="Understanding Dropped Updates in Feed Generation Systems in Modern Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/dropped-updates-feed-generation-systems" target="_blank">Understanding Dropped Updates in Feed Generation Systems in Modern Applications</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-27 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/airbnb-monitoring-alerts/en/headerimage/generatedHeaderImage-1774086724469.jpg" alt="Airbnb Rebuilt Alert Development After Discovering It Wasn’t a Culture Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/airbnb-monitoring-alerts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Airbnb Rebuilt Alert Development After Discovering It Wasn’t a Culture Problem</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-27 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,38 +216,20 @@
                 <span class="time">2026-03-27 09:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/architecting-autonomy-scale/en/headerimage/architecting-autonomy-scale-header-1774360140662.jpg" alt="Article: Architecting Autonomy at Scale: Raising Teams Without Creating Dependencies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/architecting-autonomy-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Architecting Autonomy at Scale: Raising Teams Without Creating Dependencies</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-27 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5on0h3yjk6hc39da1blf.png" alt="Did You Know That LLMs Can Take Architecture as Code to the Next Level?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alexey_pronsky_e3cd77bd7/did-you-know-that-llms-can-take-architecture-as-code-to-the-next-level-dc9" target="_blank">Did You Know That LLMs Can Take Architecture as Code to the Next Level?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-27 08:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/03/27/prevent-agentic-identity-theft/" target="_blank">Prevent agentic identity theft</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-03-27 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2225972757.jpg?fit=1000%2C609&amp;quality=60&amp;ssl=1" alt="Mac Pro line ends, with no plans for future models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/27/mac-pro-line-ends-with-no-plans-for-future-models.html" target="_blank">Mac Pro line ends, with no plans for future models</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-27 11:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/shutterstock_729630679-e1760395336732.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="CBS News ratings reportedly its lowest on record" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +275,6 @@
                 <span class="time">2026-03-26 21:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/netlfix-1280x720.jpg" alt="Netflix Is Jacking Up Prices Again On The Heels Of One Piece Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/netflix-raising-price-one-piece-season-2-2000682303" target="_blank">Netflix Is Jacking Up Prices Again On The Heels Of One Piece Season 2</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-26 21:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,22 +307,13 @@
                 <span class="time">2026-03-26 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/26/the-pax-east-show-store-is-open" target="_blank">The PAX East Show Store Is Open!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-03-26 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 11:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 12:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
