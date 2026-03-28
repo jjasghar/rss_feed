@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-28 05:25:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-28 06:16:25 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, March 28, 2026 - 05:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, March 28, 2026 - 06:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd50/live/22a171c0-2934-11f1-a79a-77e93010d956.png" alt="&#x27;He would have been horrified&#x27; - error in drug warnings &#x27;misled&#x27; families" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckg0xxwn041o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;He would have been horrified&#x27; - error in drug warnings &#x27;misled&#x27; families</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-28 06:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/mike-johnson-1-rt-gmh-260327_1774637773783_hpMain_4x3t_384.jpg" alt="House passes short-term DHS funding bill; top Dem says &#x27;dead on arrival&#x27; in Senate" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -61,6 +73,15 @@
                 <span class="title"><a href="https://www.nbcnews.com/now/video/house-passes-bill-to-fully-fund-dhs-but-measure-unlikely-to-pass-senate-260248133566" target="_blank">House passes bill to fully fund DHS but measure unlikely to pass Senate</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-03-28 03:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79a9/live/b76c9130-2a4d-11f1-8322-4318ee346f27.jpg" alt="Nepal&#x27;s ex-PM arrested over fatal protest crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn89ry7y835o?at_medium=RSS&at_campaign=rss" target="_blank">Nepal&#x27;s ex-PM arrested over fatal protest crackdown</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-28 03:37</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +102,20 @@
                 <span class="time">2026-03-27 23:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/27/houthis-warn-fingers-on-the-trigger-as-us-israeli-war-on-iran-continues?traffic_source=rss" target="_blank">Houthis warn ‘fingers on the trigger’ as US-Israeli war on Iran continues</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-27 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/27/g-s1-115549/new-york-gaza-firebomb-home-plot-activist" target="_blank">Man arrested in plot to firebomb Palestinian activist&#x27;s home after undercover op</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-27 22:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" alt="Meta Quest Promo Codes: $50 Off | March 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/meta-quest-promo-code/" target="_blank">Meta Quest Promo Codes: $50 Off | March 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-28 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +161,20 @@
                 <span class="time">2026-03-27 21:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/" target="_blank">Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-27 21:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/cloudflare-custom-regions/en/headerimage/generatedHeaderImage-1773937162516.jpg" alt="&quot;Pick and Mix&quot; Custom Regions: Cloudflare Introduces Fine-Grained Data Residency Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/cloudflare-custom-regions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">&quot;Pick and Mix&quot; Custom Regions: Cloudflare Introduces Fine-Grained Data Residency Control</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-28 06:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3jzy8s535ff1z4nyz7yx.png" alt="Most Developers Are Using AI Wrong, And It Shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/ioneldigital/ai-video-creation-from-script-to-youtube-in-30-minutes-44lj" target="_blank">AI Video Creation: From Script to YouTube in 30 Minutes</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-27 23:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/web-install-api-origin-trial/en/headerimage/generatedHeaderImage-1774565656612.jpg" alt="Experimental Web Install API Seeks to Improve Application Discovery and Distribution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/web-install-api-origin-trial/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Experimental Web Install API Seeks to Improve Application Discovery and Distribution</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-27 22:50</span>
             </div>
         </div>
 </div>
@@ -327,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 05:25 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 06:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
