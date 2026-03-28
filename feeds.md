@@ -1,42 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-28 14:08:16 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-28 15:05:32 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, March 28, 2026 - 14:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, March 28, 2026 - 15:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -115,6 +105,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/" target="_blank">Anthropic’s Claude popularity with paying consumers is skyrocketing</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-28 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/03/28/what-will-power-the-grid-in-2035-the-race-is-wide-open/" target="_blank">What will power the grid in 2035? The race is wide open</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-28 13:05</span>
@@ -156,20 +155,29 @@
                 <span class="time">2026-03-28 07:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" alt="Meta Quest Promo Codes: $50 Off | March 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/meta-quest-promo-code/" target="_blank">Meta Quest Promo Codes: $50 Off | March 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-28 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-GAIA-0.17-Agent-UI" target="_blank">AMD Introduces GAIA Agent UI For Privacy-First Web App For Local AI Agents</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-28 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/furkiak/meet-your-new-ai-powered-senior-dba-bridging-the-gap-between-metadata-and-architectural-excellence-5aeg" target="_blank">Meet Your New AI-Powered Senior DBA: Bridging the Gap Between Metadata and Architectural Excellence</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-28 14:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,24 +214,6 @@
                 <span class="time">2026-03-28 11:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/andbjo/the-wild-west-of-asp-a-love-letter-to-the-early-web-4j5k" target="_blank">The Wild West of ASP: A Love Letter to the Early Web</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-28 10:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fish-4.6-Released" target="_blank">Fish 4.6 Shell Brings Support For Recent systemd Environment Variables</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-28 10:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/f021ed9407c67288bc1c3b7677642991.jpg" alt="Studio Behind Last Year’s Critically Acclaimed Cozy Sim Shutting Down After Failing To Get Its Cool New Prototype Funded" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/wanderstop-ivy-road-stanley-parable-studio-closure-2000682861" target="_blank">Studio Behind Last Year’s Critically Acclaimed Cozy Sim Shutting Down After Failing To Get Its Cool New Prototype Funded</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-28 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/ghost-in-the-shell-saruhed-1280x853.jpg" alt="The First Proper ‘Ghost in the Shell’ Trailer Is a ’90s Anime Fever Dream" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +287,6 @@
                 <span class="time">2026-03-27 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/GettyImages-2260538908-1280x915.jpg" alt="Epstein Victims Sue Google, Claim AI Mode Exposed Personal Information" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/epstein-victims-sue-google-claim-ai-mode-exposed-personal-information-2000739177" target="_blank">Epstein Victims Sue Google, Claim AI Mode Exposed Personal Information</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-27 21:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 14:08 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 15:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
