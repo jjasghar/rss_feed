@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-28 01:30:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-28 02:56:47 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, March 28, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, March 28, 2026 - 02:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/28/intense-bombing-in-tehran-isfahan?traffic_source=rss" target="_blank">Intense bombing in Tehran, Isfahan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-28 02:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774653021838_nn_nobles_tsa_260327_S3_1920x1080-6dxuf2.jpg" alt="Trump signs emergency order to pay TSA" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/27/nx-s1-5764266/voter-data-trump-doj-dhs" target="_blank">The Justice Department plans to share sensitive voter data with Homeland Security</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-27 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/airborne-9-ht-gmh-260324_1774375255996_hpMain_4x3t_384.jpg" alt="Using US ground troops against Iran could prove very costly, retired generals say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/us-ground-troops-iran-prove-costly-former-generals/story?id=131472934" target="_blank">Using US ground troops against Iran could prove very costly, retired generals say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-27 21:42</span>
             </div>
         </div>
 </div>
@@ -164,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/DRBD-15-Years-Code-Changes" target="_blank">DRBD Driver Working To Land ~15 Years Worth Of Changes Into The Linux Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-28 00:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ioneldigital/ai-video-creation-from-script-to-youtube-in-30-minutes-44lj" target="_blank">AI Video Creation: From Script to YouTube in 30 Minutes</a></span>
                 <span class="feed">DEV Community</span>
@@ -206,15 +214,6 @@
                 <span class="time">2026-03-27 20:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18920445&w=600" alt="Scaling AI Workloads in Java Without Breaking Your APIs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/scaling-ai-workloads-java-apis" target="_blank">Scaling AI Workloads in Java Without Breaking Your APIs</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-27 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KMRQFRXNYRD7JC4T8PZ381MJ/hero-image.png" alt="The Best Deals on Headphones and Earbuds I Found in Amazon&#x27;s Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-headphone-deals-on-amazons-spring-sale-2026?utm_medium=RSS" target="_blank">The Best Deals on Headphones and Earbuds I Found in Amazon&#x27;s Spring Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-27 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/turmp-farming-1280x720.jpg" alt="President Trump Is Now Posting Animal Crossing AI-Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +285,6 @@
                 <span class="title"><a href="https://gizmodo.com/wicked-spot-is-a-fun-sapphic-rom-com-that-yeets-a-witch-into-the-magical-world-of-influencer-culture-2000739011" target="_blank">‘Wicked Spot’ Is a Fun, Sapphic Rom-Com That Yeets a Witch Into the Magical World of Influencer Culture</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-27 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/hosukai-lovecraft.jpg?fit=1200%2C834&amp;quality=60&amp;ssl=1" alt="Artist paints Lovecraft&#x27;s Great Old Ones into all 46 of Hokusai&#x27;s woodblock prints" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/27/artist-paints-lovecrafts-great-old-ones-into-all-46-of-hokusais-woodblock-prints.html" target="_blank">Artist paints Lovecraft&#x27;s Great Old Ones into all 46 of Hokusai&#x27;s woodblock prints</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-27 20:24</span>
             </div>
         </div>
 </div>
@@ -334,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 02:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
