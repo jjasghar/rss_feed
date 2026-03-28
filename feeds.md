@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-28 16:04:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-28 17:06:06 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, March 28, 2026 - 16:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, March 28, 2026 - 17:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,9 +50,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/28/zelenskyy-signs-air-defence-deals-with-uae-qatar-on-gulf-tour?traffic_source=rss" target="_blank">Ukraine’s Zelenskyy signs air defence deals with UAE, Qatar on Gulf tour</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-28 16:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/28/defending-champion-aryna-sabalenka-and-coco-gauff-meet-for-the-miami-open-t?traffic_source=rss" target="_blank">Defending champion Aryna Sabalenka and Coco Gauff meet in Miami Open final</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-28 13:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-caster-semenya-olympics_7205372.jpg?20260328125012" alt="Caster Semenya shapes up for new battle with the International Olympic Committee" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/if-women-must-stop-competing-so-be-it-semenyas-rallying-cry-over-olympics-transgender-athlete-ban-13525463" target="_blank">Caster Semenya shapes up for new battle with the International Olympic Committee</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-28 12:26</span>
             </div>
         </div>
 <div class="story">
@@ -76,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/the-listening-post/2026/3/28/the-war-on-iran-faces-a-maga-backlash?traffic_source=rss" target="_blank">The war on Iran faces a MAGA backlash</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-28 10:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/28/g-s1-114976/crossing-the-line-emotional-abuse-in-college-sports-marta-marija-galic" target="_blank">Crossing the line: Emotional abuse in college sports</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-28 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/28/nepals-ex-pm-arrested-over-alleged-role-in-protest-crackdown?traffic_source=rss" target="_blank">Nepal’s ex-PM Oli detained over alleged role in deadly protest crackdown</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-28 09:50</span>
             </div>
         </div>
 </div>
@@ -164,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/godnick/7-mac-apps-for-developers-getting-back-into-coding-after-a-break-in-2026-50fc" target="_blank">7 Mac Apps for Developers Getting Back Into Coding After a Break in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-28 17:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sakthi_s_daa401cfb84f4108/what-is-useeffect--3k76" target="_blank">What is UseEffect ?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-28 16:03</span>
@@ -190,28 +203,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research" target="_blank">AI overly affirms users asking for personal advice</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-28 14:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kuyacarlo/sage-a-notion-mcp-academic-co-pilot-for-filipino-university-students-3lmb" target="_blank">SAGE — A Notion MCP Academic Co-Pilot for Filipino University Students</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-28 13:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/EnriqueLop/legalize-es" target="_blank">I put all 8,642 Spanish laws in Git – every reform is a commit</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-28 12:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc6-Many-Audio-Fixes" target="_blank">Linux 7.0-rc6 Bringing A Lot Of Audio Quirks / Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-28 11:57</span>
             </div>
         </div>
 </div>
@@ -252,6 +256,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/EaseUS-Data-Recovery-Wizard-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Embrace peace with this EaseUS Data Recovery Wizard subscription" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/28/embrace-peace-with-this-easeus-data-recovery-wizard-subscription.html" target="_blank">Embrace peace with this EaseUS Data Recovery Wizard subscription</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-28 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/ghost-in-the-shell-saruhed-1280x853.jpg" alt="The First Proper ‘Ghost in the Shell’ Trailer Is a ’90s Anime Fever Dream" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -278,20 +291,20 @@
                 <span class="time">2026-03-27 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/turmp-farming-1280x720.jpg" alt="President Trump Is Now Posting Animal Crossing AI-Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/president-trump-is-now-posting-animal-crossing-ai-slop-2000682767" target="_blank">President Trump Is Now Posting Animal Crossing AI-Slop</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-27 22:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1774664956-20260328.png" alt="Saturday Morning Breakfast Cereal - Cure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/cure-3" target="_blank">Saturday Morning Breakfast Cereal - Cure</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-28 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -306,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 16:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 17:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
