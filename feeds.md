@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-28 21:05:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-28 22:03:38 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, March 28, 2026 - 21:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, March 28, 2026 - 22:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -113,6 +110,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/" target="_blank">Mark Zuckerberg texted Elon Musk to offer help with DOGE</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-28 21:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/" target="_blank">Stanford study outlines dangers of asking AI chatbots for personal advice</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-28 20:45</span>
@@ -154,20 +160,20 @@
                 <span class="time">2026-03-28 14:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/28/what-will-power-the-grid-in-2035-the-race-is-wide-open/" target="_blank">What will power the grid in 2035? The race is wide open</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-28 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9pm7zv8735bryqvebah5.jpg" alt="Building an A2A Simulator to Debug Agent-to-Agent Communication" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/agentdm/building-an-a2a-simulator-to-debug-agent-to-agent-communication-4keb" target="_blank">Building an A2A Simulator to Debug Agent-to-Agent Communication</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-28 22:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,20 +219,20 @@
                 <span class="time">2026-03-28 14:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research" target="_blank">AI overly affirms users asking for personal advice</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-28 14:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/Five-Nights-At-Epsteins-EvanProductions-original-image-from-deleted-Itch.io-page-1280x720.jpg" alt="Is An Epstein Version Of Five Nights At Freddy’s Really Going Viral? The Data Tells A More Complex Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/five-nights-epstein-freddys-viral-school-browser-2000682875" target="_blank">Is An Epstein Version Of Five Nights At Freddy’s Really Going Viral? The Data Tells A More Complex Story</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-28 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/superheroes-debut-hed-1280x853.jpg" alt="Ranking 2016’s Superhero Debuts, 10 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +278,6 @@
                 <span class="time">2026-03-28 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/EaseUS-Data-Recovery-Wizard-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Embrace peace with this EaseUS Data Recovery Wizard subscription" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/28/embrace-peace-with-this-easeus-data-recovery-wizard-subscription.html" target="_blank">Embrace peace with this EaseUS Data Recovery Wizard subscription</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-28 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -300,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 21:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 22:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
