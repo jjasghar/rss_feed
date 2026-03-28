@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-28 04:35:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-28 05:25:42 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, March 28, 2026 - 04:35 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, March 28, 2026 - 05:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/mike-johnson-1-rt-gmh-260327_1774637773783_hpMain_4x3t_384.jpg" alt="House passes short-term DHS funding bill; top Dem says &#x27;dead on arrival&#x27; in Senate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/senate-passes-bill-fund-dhs-except-ice-parts/story?id=131461819" target="_blank">House passes short-term DHS funding bill; top Dem says &#x27;dead on arrival&#x27; in Senate</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-28 04:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774669790383_now_brk_house_dhs_vote_260327_S3_1920x1080-bz2i7k.jpg" alt="House passes bill to fully fund DHS but measure unlikely to pass Senate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/house-passes-bill-to-fully-fund-dhs-but-measure-unlikely-to-pass-senate-260248133566" target="_blank">House passes bill to fully fund DHS but measure unlikely to pass Senate</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-28 03:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,24 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/27/g-s1-115549/new-york-gaza-firebomb-home-plot-activist" target="_blank">Man arrested in plot to firebomb Palestinian activist&#x27;s home after undercover op</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-27 22:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-tiger-woods-mugshot_7205138.jpg?20260328024351" alt="Tiger Woods&#x27; mugshot released after his arrest following dramatic car crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/tiger-woods-charged-with-driving-under-the-influence-after-hitting-another-vehicle-and-rolling-his-car-13525329" target="_blank">Tiger Woods&#x27; mugshot released after his arrest following dramatic car crash</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-27 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-tiger-woods-florida_7205091.jpg?20260327225658" alt="Tiger Woods charged with driving under the influence after hitting another vehicle and rolling his car" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/tiger-woods-charged-with-driving-under-the-influence-after-hitting-another-vehicle-and-rolling-his-car-13525329" target="_blank">Tiger Woods charged with driving under the influence after hitting another vehicle and rolling his car</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-27 21:59</span>
             </div>
         </div>
 </div>
@@ -159,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3jzy8s535ff1z4nyz7yx.png" alt="Most Developers Are Using AI Wrong, And It Shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jaideepparashar/most-developers-are-using-ai-wrong-and-it-shows-2dfk" target="_blank">Most Developers Are Using AI Wrong, And It Shows</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-28 05:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/06/security-.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.10 could drop btrfs, ZFS and LUKS support from GRUB" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -179,6 +193,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://jai.scs.stanford.edu/" target="_blank">Go hard on agents, not on your filesystem</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-28 00:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ioneldigital/ai-video-creation-from-script-to-youtube-in-30-minutes-44lj" target="_blank">AI Video Creation: From Script to YouTube in 30 Minutes</a></span>
                 <span class="feed">DEV Community</span>
@@ -192,24 +215,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/03/web-install-api-origin-trial/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Experimental Web Install API Seeks to Improve Application Discovery and Distribution</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-03-27 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vhub_systems_ed5641f65d59/how-to-cut-web-scraping-costs-by-95-using-pay-per-result-actors-vs-49-500mo-tools-47ao" target="_blank">How to Cut Web Scraping Costs by 95% Using Pay-Per-Result Actors (vs $49–$500/mo Tools)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-27 22:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026" target="_blank">Telnyx PyPI package compromised</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-03-27 21:59</span>
             </div>
         </div>
 </div>
@@ -322,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 04:35 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 05:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
