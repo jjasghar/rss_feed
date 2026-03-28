@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-27 23:06:46 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-28 00:09:13 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, March 27, 2026 - 23:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, March 28, 2026 - 00:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -63,6 +69,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-tiger-woods-florida_7205091.jpg?20260327225658" alt="Tiger Woods charged with driving under the influence after hitting another vehicle and rolling his car" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/tiger-woods-charged-with-driving-under-the-influence-after-hitting-another-vehicle-and-rolling-his-car-13525329" target="_blank">Tiger Woods charged with driving under the influence after hitting another vehicle and rolling his car</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-27 21:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -89,20 +104,20 @@
                 <span class="time">2026-03-27 20:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/mike-johnson-1-rt-gmh-260327_1774637773783_hpMain_4x3t_384.jpg" alt="House Republicans reject Senate DHS funding bill, Trump signs memo to pay TSA workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/senate-passes-bill-fund-dhs-except-ice-parts/story?id=131461819" target="_blank">House Republicans reject Senate DHS funding bill, Trump signs memo to pay TSA workers</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-27 20:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/" target="_blank">Physical Intelligence is reportedly in talks to raise $1 billion, again</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-27 23:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +163,6 @@
                 <span class="time">2026-03-27 20:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/902703/white-house-app-iphone-android" target="_blank">The White House has an app now, and Trump wants you to report people to ICE on it</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-27 19:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -192,6 +198,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026" target="_blank">Telnyx PyPI package compromised</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-03-27 21:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Framework-KDE-Patron" target="_blank">Framework Computer Steps Up Their Support For KDE</a></span>
                 <span class="feed">Phoronix</span>
@@ -204,15 +219,6 @@
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/scaling-ai-workloads-java-apis" target="_blank">Scaling AI Workloads in Java Without Breaking Your APIs</a></span>
                 <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-27 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/notjustanna/infisical-is-great-actually-13ho" target="_blank">Infisical is Great, Actually</a></span>
-                <span class="feed">DEV Community</span>
                 <span class="time">2026-03-27 20:00</span>
             </div>
         </div>
@@ -254,6 +260,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/no-i.jpg?fit=1200%2C961&amp;quality=60&amp;ssl=1" alt="A Pulitzer winner wrote a short story without using the letter &quot;I&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/27/a-pulitzer-winner-wrote-a-short-story-without-using-the-letter-i.html" target="_blank">A Pulitzer winner wrote a short story without using the letter &quot;I&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-27 21:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/wicked-spot-kodansha-sal-jiang-1280x853.jpg" alt="‘Wicked Spot’ Is a Fun, Sapphic Rom-Com That Yeets a Witch Into the Magical World of Influencer Culture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -278,15 +293,6 @@
                 <span class="title"><a href="https://kotaku.com/dark-souls-rpg-nostalgia-taurus-demon-2000682716" target="_blank">I Played Dark Souls For The First Time In 2026 And It Really Is The Best Ever</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-27 20:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/nekodesk.jpg?fit=1200%2C669&amp;quality=60&amp;ssl=1" alt="Japanese desk designed for people who work with cats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/27/japanese-desk-designed-for-people-who-work-with-cats.html" target="_blank">Japanese desk designed for people who work with cats</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-27 19:12</span>
             </div>
         </div>
 </div>
@@ -344,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 23:06 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 00:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
