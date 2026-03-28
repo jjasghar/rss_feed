@@ -1,30 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-28 18:04:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-28 19:09:08 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, March 28, 2026 - 18:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, March 28, 2026 - 19:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/28/hundreds-of-thousands-march-through-london-in-stand-against-the-far-right?traffic_source=rss" target="_blank">Hundreds of thousands march through London in stand against the far right</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-28 18:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/no-kings-rally-01-rt-jt-260328_1774717664835_hpMain_4x3t_384.jpg" alt="&#x27;No Kings&#x27; protesters rally in cities, towns across the country" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,15 +94,6 @@
                 <span class="title"><a href="https://news.sky.com/story/if-women-must-stop-competing-so-be-it-semenyas-rallying-cry-over-olympics-transgender-athlete-ban-13525463" target="_blank">Double Olympic champion Caster Semenya shapes up for new battle with the International Olympic Committee</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-03-28 12:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/28/nx-s1-5752219/opinion-white-house-gamifying-iran-war" target="_blank">Opinion: White House &#x27;gamifying&#x27; Iran war updates</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-28 12:00</span>
             </div>
         </div>
 </div>
@@ -232,6 +234,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/1920x1080-1280x720.jpg" alt="PUBG: Blindspot Is Shutting Down After Only Two Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pubg-blindspot-shut-down-closing-2000682865" target="_blank">PUBG: Blindspot Is Shutting Down After Only Two Months</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-28 18:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Sony-Suspends-Orders-for-CFe-and-SD-Memory-Cards-Due-to-SSD-Shortage-copy.jpg?fit=721%2C500&amp;quality=60&amp;ssl=1" alt="Sony suspends sales of memory cards" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -276,15 +287,6 @@
                 <span class="time">2026-03-28 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Handy-Geng-sword-machine-1280x853.png" alt="YouTuber Resolves Fraternal Disagreement With Excavator and Hilariously Large Sword" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/youtuber-resolves-fraternal-disagreement-with-excavator-and-hilariously-large-sword-2000737954" target="_blank">YouTuber Resolves Fraternal Disagreement With Excavator and Hilariously Large Sword</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-28 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 18:04 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 19:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
