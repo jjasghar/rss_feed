@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-28 10:06:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-28 11:05:13 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, March 28, 2026 - 10:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, March 28, 2026 - 11:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-listening-post/2026/3/28/the-war-on-iran-faces-a-maga-backlash?traffic_source=rss" target="_blank">The war on Iran faces a MAGA backlash</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-28 10:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/28/g-s1-114976/crossing-the-line-emotional-abuse-in-college-sports-marta-marija-galic" target="_blank">Crossing the line: Emotional abuse in college sports</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-28 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/28/us-secretary-of-state-says-war-could-conclude-in-weeks-not-months?traffic_source=rss" target="_blank">US Secretary of State says war could conclude in ‘weeks, not months’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-28 06:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd50/live/22a171c0-2934-11f1-a79a-77e93010d956.png" alt="&#x27;He would have been horrified&#x27; - error in drug warnings &#x27;misled&#x27; families" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckg0xxwn041o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;He would have been horrified&#x27; - error in drug warnings &#x27;misled&#x27; families</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-28 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/mike-johnson-1-rt-gmh-260327_1774637773783_hpMain_4x3t_384.jpg" alt="House passes short-term DHS funding bill; top Dem says &#x27;dead on arrival&#x27; in Senate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/senate-passes-bill-fund-dhs-except-ice-parts/story?id=131461819" target="_blank">House passes short-term DHS funding bill; top Dem says &#x27;dead on arrival&#x27; in Senate</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-28 04:19</span>
             </div>
         </div>
 </div>
@@ -165,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/andbjo/the-wild-west-of-asp-a-love-letter-to-the-early-web-4j5k" target="_blank">The Wild West of ASP: A Love Letter to the Early Web</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-28 10:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fish-4.6-Released" target="_blank">Fish 4.6 Shell Brings Support For Recent systemd Environment Variables</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-28 10:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/03/hashicorp-vault-1-21/en/headerimage/generatedHeaderImage-1774614905213.jpg" alt="HashiCorp Vault 1.21 Brings SPIFFE Authentication, Granular Secret Recovery, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -198,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/arcede/how-we-cut-browser-agent-costs-7000x-with-collective-intelligence-3i6o" target="_blank">How We Cut Browser Agent Costs 7,000x with Collective Intelligence</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-28 07:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/cloudflare-custom-regions/en/headerimage/generatedHeaderImage-1773937162516.jpg" alt="&quot;Pick and Mix&quot; Custom Regions: Cloudflare Introduces Fine-Grained Data Residency Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/cloudflare-custom-regions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">&quot;Pick and Mix&quot; Custom Regions: Cloudflare Introduces Fine-Grained Data Residency Control</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-28 06:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3jzy8s535ff1z4nyz7yx.png" alt="Most Developers Are Using AI Wrong, And It Shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jaideepparashar/most-developers-are-using-ai-wrong-and-it-shows-2dfk" target="_blank">Most Developers Are Using AI Wrong, And It Shows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-28 05:16</span>
             </div>
         </div>
 </div>
@@ -319,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 10:06 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 11:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
