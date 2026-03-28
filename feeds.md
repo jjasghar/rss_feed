@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-03-28 17:06:06 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-03-28 18:04:23 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, March 28, 2026 - 17:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, March 28, 2026 - 18:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/no-kings-rally-01-rt-jt-260328_1774717664835_hpMain_4x3t_384.jpg" alt="&#x27;No Kings&#x27; protesters rally in cities, towns across the country" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/kings-protesters-set-rally-cities-towns-country-saturday/story?id=131472712" target="_blank">&#x27;No Kings&#x27; protesters rally in cities, towns across the country</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-28 18:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +94,20 @@
                 <span class="time">2026-03-28 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-listening-post/2026/3/28/the-war-on-iran-faces-a-maga-backlash?traffic_source=rss" target="_blank">The war on Iran faces a MAGA backlash</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-28 10:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/" target="_blank">Elon Musk’s last co-founder reportedly leaves xAI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-28 16:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +153,20 @@
                 <span class="time">2026-03-28 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c6b3f2b2e9941fa7bff511/master/pass/What's-the-Best-Garmin-Watch-Right-Now-.jpg" alt="What Is the Best Garmin Watch Right Now? (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-garmin-watch/" target="_blank">What Is the Best Garmin Watch Right Now? (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-28 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://sytse.com/cancer/" target="_blank">Founder of GitLab battles cancer by founding companies</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-28 17:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +212,6 @@
                 <span class="time">2026-03-28 14:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kuyacarlo/sage-a-notion-mcp-academic-co-pilot-for-filipino-university-students-3lmb" target="_blank">SAGE — A Notion MCP Academic Co-Pilot for Filipino University Students</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-28 13:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Sony-Suspends-Orders-for-CFe-and-SD-Memory-Cards-Due-to-SSD-Shortage-copy.jpg?fit=721%2C500&amp;quality=60&amp;ssl=1" alt="Sony suspends sales of memory cards" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/28/sony-suspends-sales-of-memory-cards.html" target="_blank">Sony suspends sales of memory cards</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-28 17:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/zleda-1280x640.jpg" alt="7 Things We’d Love To See A Zelda: Ocarina Of Time Remake Borrow From Breath Of The Wild" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +285,6 @@
                 <span class="time">2026-03-28 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMRQFRXNYRD7JC4T8PZ381MJ/hero-image.png" alt="The Best Deals on Headphones and Earbuds I Found in Amazon&#x27;s Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-headphone-deals-on-amazons-spring-sale-2026?utm_medium=RSS" target="_blank">The Best Deals on Headphones and Earbuds I Found in Amazon&#x27;s Spring Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-27 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,22 +299,13 @@
                 <span class="time">2026-03-28 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/27/folk-etymologies" target="_blank">Folk Etymologies</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-03-27 17:17</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 17:06 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 18:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
