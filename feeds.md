@@ -1,33 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-03-28 03:49:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-28 04:35:18 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, March 28, 2026 - 03:49 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, March 28, 2026 - 04:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +103,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/27/whoop-has-lebron-now-it-wants-your-mom/" target="_blank">Whoop has LeBron – now it wants your mom</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-28 02:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/" target="_blank">Physical Intelligence is reportedly in talks to raise $1 billion, again</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-27 23:59</span>
@@ -147,20 +153,20 @@
                 <span class="time">2026-03-27 21:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/902499/insta360-link-2c-webcam-amazon-big-spring-sale-2026-deal" target="_blank">Insta360’s last-gen Link 2C is fantastic 4K webcam now that it’s 20 percent off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-27 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/06/security-.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.10 could drop btrfs, ZFS and LUKS support from GRUB" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ubuntu-grub-secure-boot-luks-changes" target="_blank">Ubuntu 26.10 could drop btrfs, ZFS and LUKS support from GRUB</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-28 03:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +210,6 @@
                 <span class="title"><a href="https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026" target="_blank">Telnyx PyPI package compromised</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-03-27 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Framework-KDE-Patron" target="_blank">Framework Computer Steps Up Their Support For KDE</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-27 20:43</span>
             </div>
         </div>
 </div>
@@ -320,22 +317,13 @@
                 <span class="time">2026-03-27 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/satellite_pollution.png" alt="Satellite Pollution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3225/" target="_blank">Satellite Pollution</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-03-27 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 03:49 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 04:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
