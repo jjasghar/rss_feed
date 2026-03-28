@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-28 09:08:48 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-28 10:06:20 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, March 28, 2026 - 09:08 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, March 28, 2026 - 10:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/28/nepals-ex-pm-arrested-over-alleged-role-in-protest-crackdown?traffic_source=rss" target="_blank">Nepal’s ex-PM Oli detained over alleged role in deadly protest crackdown</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-28 09:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-12-rt-gmh-260326_1774529015998_hpMain_4x3t_384.jpg" alt="Where things stand 1 month into the war with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/things-stand-1-month-war-iran/story?id=131476152" target="_blank">Where things stand 1 month into the war with Iran</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-28 09:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +98,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/senate-passes-bill-fund-dhs-except-ice-parts/story?id=131461819" target="_blank">House passes short-term DHS funding bill; top Dem says &#x27;dead on arrival&#x27; in Senate</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-28 04:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774669790383_now_brk_house_dhs_vote_260327_S3_1920x1080-bz2i7k.jpg" alt="House passes bill to fully fund DHS but measure unlikely to pass Senate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/house-passes-bill-to-fully-fund-dhs-but-measure-unlikely-to-pass-senate-260248133566" target="_blank">House passes bill to fully fund DHS but measure unlikely to pass Senate</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-28 03:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79a9/live/b76c9130-2a4d-11f1-8322-4318ee346f27.jpg" alt="Nepal&#x27;s ex-PM arrested over fatal protest crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn89ry7y835o?at_medium=RSS&at_campaign=rss" target="_blank">Nepal&#x27;s ex-PM arrested over fatal protest crackdown</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-28 03:37</span>
             </div>
         </div>
 </div>
@@ -168,6 +165,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/03/hashicorp-vault-1-21/en/headerimage/generatedHeaderImage-1774614905213.jpg" alt="HashiCorp Vault 1.21 Brings SPIFFE Authentication, Granular Secret Recovery, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/hashicorp-vault-1-21/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">HashiCorp Vault 1.21 Brings SPIFFE Authentication, Granular Secret Recovery, and More</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-28 10:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/0012303/triggerdev-has-a-free-api-background-jobs-for-javascript-without-infrastructure-1130" target="_blank">Trigger.dev Has a Free API: Background Jobs for JavaScript Without Infrastructure</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-28 09:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering" target="_blank">CERN uses tiny AI models burned into silicon for real-time LHC data filtering</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-28 08:06</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -192,33 +216,6 @@
                 <span class="title"><a href="https://dev.to/jaideepparashar/most-developers-are-using-ai-wrong-and-it-shows-2dfk" target="_blank">Most Developers Are Using AI Wrong, And It Shows</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-28 05:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/06/security-.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.10 could drop btrfs, ZFS and LUKS support from GRUB" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ubuntu-grub-secure-boot-luks-changes" target="_blank">Ubuntu 26.10 could drop btrfs, ZFS and LUKS support from GRUB</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-28 03:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/DRBD-15-Years-Code-Changes" target="_blank">DRBD Driver Working To Land ~15 Years Worth Of Changes Into The Linux Kernel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-28 00:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://jai.scs.stanford.edu/" target="_blank">Go hard on agents, not on your filesystem</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-28 00:39</span>
             </div>
         </div>
 </div>
@@ -322,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 09:08 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 10:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
