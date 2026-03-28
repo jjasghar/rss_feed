@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-28 12:04:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-28 13:20:17 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, March 28, 2026 - 12:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, March 28, 2026 - 13:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/28/nx-s1-5752219/opinion-white-house-gamifying-iran-war" target="_blank">Opinion: White House &#x27;gamifying&#x27; Iran war updates</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-28 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +99,20 @@
                 <span class="time">2026-03-28 07:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/28/us-secretary-of-state-says-war-could-conclude-in-weeks-not-months?traffic_source=rss" target="_blank">US Secretary of State says war could conclude in ‘weeks, not months’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-28 06:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/28/what-will-power-the-grid-in-2035-the-race-is-wide-open/" target="_blank">What will power the grid in 2035? The race is wide open</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-28 13:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +158,29 @@
                 <span class="time">2026-03-28 02:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/" target="_blank">Physical Intelligence is reportedly in talks to raise $1 billion, again</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-27 23:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kuyacarlo/sage-a-notion-mcp-academic-co-pilot-for-filipino-university-students-3lmb" target="_blank">SAGE — A Notion MCP Academic Co-Pilot for Filipino University Students</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-28 13:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/EnriqueLop/legalize-es" target="_blank">I put all 8,642 Spanish laws in Git – every reform is a commit</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-28 12:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,24 +217,6 @@
                 <span class="time">2026-03-28 10:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Discord Engineers Add Distributed Tracing to Elixir&#x27;s Actor Model Without Performance Penalty" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/discord-elixir-actor-tracing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Discord Engineers Add Distributed Tracing to Elixir&#x27;s Actor Model Without Performance Penalty</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-28 10:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/J-x-Z/cocoa-way" target="_blank">Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-28 10:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/ghost-in-the-shell-saruhed-1280x853.jpg" alt="The First Proper ‘Ghost in the Shell’ Trailer Is a ’90s Anime Fever Dream" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-first-proper-ghost-in-the-shell-trailer-is-a-90s-anime-fever-dream-2000739279" target="_blank">The First Proper ‘Ghost in the Shell’ Trailer Is a ’90s Anime Fever Dream</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-28 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Handy-Geng-sword-machine-1280x853.png" alt="YouTuber Resolves Fraternal Disagreement With Excavator and Hilariously Large Sword" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +290,6 @@
                 <span class="time">2026-03-27 21:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/no-i.jpg?fit=1200%2C961&amp;quality=60&amp;ssl=1" alt="A Pulitzer winner wrote a short story without using the letter &quot;I&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/27/a-pulitzer-winner-wrote-a-short-story-without-using-the-letter-i.html" target="_blank">A Pulitzer winner wrote a short story without using the letter &quot;I&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-27 21:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 12:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 13:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
