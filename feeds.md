@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-28 19:09:08 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-28 20:03:20 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, March 28, 2026 - 19:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, March 28, 2026 - 20:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +51,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260328-Zelenskyy-ch-1329-e119ad.jpg" alt="Russia took satellite images of U.S. air base before Iranian attack, Zelenskyy says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/ukraine/russia-us-base-american-troops-zelenskyy-rcna265612" target="_blank">Russia took satellite images of U.S. air base before Iranian attack, Zelenskyy says</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-28 19:17</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/28/hundreds-of-thousands-march-through-london-in-stand-against-the-far-right?traffic_source=rss" target="_blank">Hundreds of thousands march through London in stand against the far right</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-28 18:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3340/live/d8ed27d0-2ac9-11f1-934f-036468834728.jpg" alt="Iran-backed Houthis join war with attack against Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&at_campaign=rss" target="_blank">Iran-backed Houthis join war with attack against Israel</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-28 18:18</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +104,20 @@
                 <span class="time">2026-03-28 13:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-caster-semenya-olympics_7205372.jpg?20260328125012" alt="Caster Semenya shapes up for new battle with the International Olympic Committee" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/if-women-must-stop-competing-so-be-it-semenyas-rallying-cry-over-olympics-transgender-athlete-ban-13525463" target="_blank">Caster Semenya shapes up for new battle with the International Olympic Committee</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-28 12:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-caster-semenya-olympics_7205372.jpg?20260328125012" alt="Double Olympic champion Caster Semenya shapes up for new battle with the International Olympic Committee" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/if-women-must-stop-competing-so-be-it-semenyas-rallying-cry-over-olympics-transgender-athlete-ban-13525463" target="_blank">Double Olympic champion Caster Semenya shapes up for new battle with the International Olympic Committee</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-28 12:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model" target="_blank">Suno leans into customization with v5.5</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-28 18:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +161,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/03/leading-explanation-for-ancient-giant-flying-insects-gets-squashed/" target="_blank">Explanation for why we don&#x27;t see two-foot-long dragonflies anymore fails</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-03-28 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/" target="_blank">From Moon hotels to cattle herding: 8 startups investors chased at YC Demo Day</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-28 12:00</span>
             </div>
         </div>
 </div>
@@ -234,6 +242,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/superheroes-debut-hed-1280x853.jpg" alt="Ranking 2016’s Superhero Debuts, 10 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/superhero-debuts-bvs-civil-war-rankings-2000735766" target="_blank">Ranking 2016’s Superhero Debuts, 10 Years Later</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-28 18:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/1920x1080-1280x720.jpg" alt="PUBG: Blindspot Is Shutting Down After Only Two Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -278,15 +295,6 @@
                 <span class="time">2026-03-28 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/ghost-in-the-shell-saruhed-1280x853.jpg" alt="The First Proper ‘Ghost in the Shell’ Trailer Is a ’90s Anime Fever Dream" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-first-proper-ghost-in-the-shell-trailer-is-a-90s-anime-fever-dream-2000739279" target="_blank">The First Proper ‘Ghost in the Shell’ Trailer Is a ’90s Anime Fever Dream</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-28 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 19:09 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 20:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
