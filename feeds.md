@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-28 22:03:38 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-28 23:05:05 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, March 28, 2026 - 22:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, March 28, 2026 - 23:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/28/key-moments-in-first-month-of-us-israeli-war-on-iran?traffic_source=rss" target="_blank">Key moments in first month of US-Israeli war on Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-28 22:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/03/28/g-s1-115637/photos-no-kings-protests-across-the-country" target="_blank">Photos: &#x27;No Kings&#x27; Protests Across the Country</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-28 21:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfbf/live/63449610-2ac1-11f1-934f-036468834728.jpg" alt="Three Lebanese journalists killed in Israeli strike, say broadcasters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss" target="_blank">Three Lebanese journalists killed in Israeli strike, say broadcasters</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-28 21:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,33 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/28/hundreds-of-thousands-march-through-london-in-stand-against-the-far-right?traffic_source=rss" target="_blank">Hundreds of thousands march through London in stand against the far right</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-28 18:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3340/live/d8ed27d0-2ac9-11f1-934f-036468834728.jpg" alt="Iran-backed Houthis join war with attack against Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&at_campaign=rss" target="_blank">Iran-backed Houthis join war with attack against Israel</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-28 18:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/no-kings-rally-01-rt-jt-260328_1774717664835_hpMain_4x3t_384.jpg" alt="&#x27;No Kings&#x27; protesters rally in cities, towns across the country" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/kings-protesters-set-rally-cities-towns-country-saturday/story?id=131472712" target="_blank">&#x27;No Kings&#x27; protesters rally in cities, towns across the country</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-28 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/28/zelenskyy-signs-air-defence-deals-with-uae-qatar-on-gulf-tour?traffic_source=rss" target="_blank">Ukraine’s Zelenskyy signs air defence deals with UAE, Qatar on Gulf tour</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-28 16:16</span>
             </div>
         </div>
 </div>
@@ -166,12 +169,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbxa6m3yu5a8qdi0k0sh4.png" alt="Best AI Code Review Tools for Pull Requests in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rahulxsingh/best-ai-code-review-tools-for-pull-requests-in-2026-2n4p" target="_blank">Best AI Code Review Tools for Pull Requests in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-28 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9pm7zv8735bryqvebah5.jpg" alt="Building an A2A Simulator to Debug Agent-to-Agent Communication" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/agentdm/building-an-a2a-simulator-to-debug-agent-to-agent-communication-4keb" target="_blank">Building an A2A Simulator to Debug Agent-to-Agent Communication</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-28 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/teleport-ai-report/en/headerimage/generatedHeaderImage-1774731239942.jpg" alt="Teleport Report Finds Over-Privileged AI Systems Linked to Fourfold Rise in Security Incidents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/teleport-ai-report/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Teleport Report Finds Over-Privileged AI Systems Linked to Fourfold Rise in Security Incidents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-28 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GIMP-3.2.2-Released" target="_blank">GIMP 3.2.2 Released With Minor UI/UX Updates &amp; Bug Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-28 19:58</span>
             </div>
         </div>
 <div class="story">
@@ -192,33 +222,6 @@
                 <span class="time">2026-03-28 17:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sakthi_s_daa401cfb84f4108/what-is-useeffect--3k76" target="_blank">What is UseEffect ?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-28 16:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-GAIA-0.17-Agent-UI" target="_blank">AMD Introduces GAIA Agent UI For Privacy-First Web App For Local AI Agents</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-28 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/furkiak/meet-your-new-ai-powered-senior-dba-bridging-the-gap-between-metadata-and-architectural-excellence-5aeg" target="_blank">Meet Your New AI-Powered Senior DBA: Bridging the Gap Between Metadata and Architectural Excellence</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-28 14:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -231,6 +234,15 @@
                 <span class="title"><a href="https://kotaku.com/five-nights-epstein-freddys-viral-school-browser-2000682875" target="_blank">Is An Epstein Version Of Five Nights At Freddy’s Really Going Viral? The Data Tells A More Complex Story</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-28 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/disclosure-day-emily-blunt-steven-spielberg-1280x853.jpg" alt="Do ‘Disclosure Day’ Prep With a Spielberg Sci-Fi Marathon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/disclosure-day-spielberg-sci-fi-movies-2000739267" target="_blank">Do ‘Disclosure Day’ Prep With a Spielberg Sci-Fi Marathon</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-28 20:15</span>
             </div>
         </div>
 <div class="story">
@@ -269,15 +281,6 @@
                 <span class="time">2026-03-28 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/f021ed9407c67288bc1c3b7677642991.jpg" alt="Studio Behind Last Year’s Critically Acclaimed Cozy Sim Shutting Down After Failing To Get Its Cool New Prototype Funded" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/wanderstop-ivy-road-stanley-parable-studio-closure-2000682861" target="_blank">Studio Behind Last Year’s Critically Acclaimed Cozy Sim Shutting Down After Failing To Get Its Cool New Prototype Funded</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-28 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 22:03 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 23:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
