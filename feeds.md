@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-28 11:05:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-28 12:04:34 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, March 28, 2026 - 11:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, March 28, 2026 - 12:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +112,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/" target="_blank">From Moon hotels to cattle herding: 8 startups investors chased at YC Demo Day</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-28 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69c6b3f2b2e9941fa7bff511/master/pass/What's-the-Best-Garmin-Watch-Right-Now-.jpg" alt="What Is the Best Garmin Watch Right Now? (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-garmin-watch/" target="_blank">What Is the Best Garmin Watch Right Now? (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-28 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/reviews/899289/bluetti-sora-500-review-portable-solar-panel" target="_blank">Bluetti’s Sora 500 solar panel is incredibly powerful for its size</a></span>
                 <span class="feed">The Verge</span>
@@ -142,29 +163,29 @@
                 <span class="time">2026-03-27 23:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/902828/sony-sd-cfexpress-memory-card-shortage" target="_blank">Sony temporarily suspends memory card sales due to shortages</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-27 22:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/wofl3d-1-500x500-1774646731.jpg" alt="Playing Wolfenstein 3D with one hand in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/" target="_blank">Playing Wolfenstein 3D with one hand in 2026</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-27 22:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc6-Many-Audio-Fixes" target="_blank">Linux 7.0-rc6 Bringing A Lot Of Audio Quirks / Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-28 11:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17308126/ubuntu-26-04-deb-in-app-center" target="_blank">After a Long Time, Ubuntu Shows Some Respect to Deb Packages</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-28 11:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,39 +205,21 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2026/03/hashicorp-vault-1-21/en/headerimage/generatedHeaderImage-1774614905213.jpg" alt="HashiCorp Vault 1.21 Brings SPIFFE Authentication, Granular Secret Recovery, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Discord Engineers Add Distributed Tracing to Elixir&#x27;s Actor Model Without Performance Penalty" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/hashicorp-vault-1-21/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">HashiCorp Vault 1.21 Brings SPIFFE Authentication, Granular Secret Recovery, and More</a></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/discord-elixir-actor-tracing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Discord Engineers Add Distributed Tracing to Elixir&#x27;s Actor Model Without Performance Penalty</a></span>
                 <span class="feed">InfoQ</span>
-                <span class="time">2026-03-28 10:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/0012303/triggerdev-has-a-free-api-background-jobs-for-javascript-without-infrastructure-1130" target="_blank">Trigger.dev Has a Free API: Background Jobs for JavaScript Without Infrastructure</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-28 09:55</span>
+                <span class="time">2026-03-28 10:13</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering" target="_blank">CERN uses tiny AI models burned into silicon for real-time LHC data filtering</a></span>
+                <span class="title"><a href="https://github.com/J-x-Z/cocoa-way" target="_blank">Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-03-28 08:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arcede/how-we-cut-browser-agent-costs-7000x-with-collective-intelligence-3i6o" target="_blank">How We Cut Browser Agent Costs 7,000x with Collective Intelligence</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-28 07:08</span>
+                <span class="time">2026-03-28 10:06</span>
             </div>
         </div>
 </div>
@@ -238,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Handy-Geng-sword-machine-1280x853.png" alt="YouTuber Resolves Fraternal Disagreement With Excavator and Hilariously Large Sword" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/youtuber-resolves-fraternal-disagreement-with-excavator-and-hilariously-large-sword-2000737954" target="_blank">YouTuber Resolves Fraternal Disagreement With Excavator and Hilariously Large Sword</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-28 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KMRQFRXNYRD7JC4T8PZ381MJ/hero-image.png" alt="The Best Deals on Headphones and Earbuds I Found in Amazon&#x27;s Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +295,6 @@
                 <span class="time">2026-03-27 21:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/wicked-spot-kodansha-sal-jiang-1280x853.jpg" alt="‘Wicked Spot’ Is a Fun, Sapphic Rom-Com That Yeets a Witch Into the Magical World of Influencer Culture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/wicked-spot-is-a-fun-sapphic-rom-com-that-yeets-a-witch-into-the-magical-world-of-influencer-culture-2000739011" target="_blank">‘Wicked Spot’ Is a Fun, Sapphic Rom-Com That Yeets a Witch Into the Magical World of Influencer Culture</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-27 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 11:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 12:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
