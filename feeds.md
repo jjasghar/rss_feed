@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-28 02:56:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-28 03:49:07 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, March 28, 2026 - 02:56 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, March 28, 2026 - 03:49 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -79,21 +80,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-tiger-woods-mugshot_7205138.jpg?20260328024351" alt="Tiger Woods&#x27; mugshot released after his arrest following dramatic car crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/tiger-woods-charged-with-driving-under-the-influence-after-hitting-another-vehicle-and-rolling-his-car-13525329" target="_blank">Tiger Woods&#x27; mugshot released after his arrest following dramatic car crash</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-27 21:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/03/1920x1080/skynews-tiger-woods-florida_7205091.jpg?20260327225658" alt="Tiger Woods charged with driving under the influence after hitting another vehicle and rolling his car" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/tiger-woods-charged-with-driving-under-the-influence-after-hitting-another-vehicle-and-rolling-his-car-13525329" target="_blank">Tiger Woods charged with driving under the influence after hitting another vehicle and rolling his car</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-03-27 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/27/nx-s1-5764266/voter-data-trump-doj-dhs" target="_blank">The Justice Department plans to share sensitive voter data with Homeland Security</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-27 21:53</span>
             </div>
         </div>
 </div>
@@ -333,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 02:56 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 03:49 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
