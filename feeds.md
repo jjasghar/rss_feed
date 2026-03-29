@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-29 11:06:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-29 12:04:26 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, March 29, 2026 - 11:06 UTC</div>
+    <div class="newspaper-date">Sunday, March 29, 2026 - 12:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/29/nx-s1-5724143/prescription-drug-shopping-deals" target="_blank">How to navigate the maze of drug discounts to get the best price</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-29 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-mourners-funeral_7206145.jpg?20260329120329" alt="Hundreds of mourners gather in pouring rain for funerals of Lebanon journalists" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/hundreds-of-mourners-gather-in-pouring-rain-for-funerals-of-lebanon-journalists-13525792" target="_blank">Hundreds of mourners gather in pouring rain for funerals of Lebanon journalists</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-29 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +100,20 @@
                 <span class="time">2026-03-29 07:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee70/live/22e4b460-2b39-11f1-ae09-057c4478ead7.jpg" alt="Arrest after car hits &#x27;multiple pedestrians&#x27; in Derby" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn78v1yg7p1o?at_medium=RSS&at_campaign=rss" target="_blank">Arrest after car hits &#x27;multiple pedestrians&#x27; in Derby</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-29 07:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-melbourne-tram_7205960.jpg?20260329075527" alt="Free public transport introduced in Australia to combat rising fuel costs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/public-transport-fares-waived-in-two-australian-states-to-combat-rising-fuel-costs-13525726" target="_blank">Free public transport introduced in Australia to combat rising fuel costs</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-29 06:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/image-2-500x500.jpeg" alt="Pints meet prop bets: Polymarket’s “Situation Room” pop-up bar in DC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/03/pints-meet-prop-bets-polymarkets-situation-room-pop-up-bar-in-dc/" target="_blank">Pints meet prop bets: Polymarket’s “Situation Room” pop-up bar in DC</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-29 11:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/liedetector-500x500.jpg" alt="Polygraphs have major flaws. Are there better options?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -109,6 +121,15 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/" target="_blank">Polygraphs have major flaws. Are there better options?</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-03-29 11:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69aa57fa133f03206e0ed537/master/pass/The%20Best%20Android%20Phones%20-%202.png" alt="9 Best Android Phones of 2026, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-android-phones/" target="_blank">9 Best Android Phones of 2026, Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-29 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -136,24 +157,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/" target="_blank">Stanford study outlines dangers of asking AI chatbots for personal advice</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-28 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model" target="_blank">Suno leans into customization with v5.5</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-28 18:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/" target="_blank">Elon Musk’s last co-founder reportedly leaves xAI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-28 16:11</span>
             </div>
         </div>
 </div>
@@ -293,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 11:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 12:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
