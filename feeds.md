@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-29 07:20:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-29 08:07:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, March 29, 2026 - 07:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, March 29, 2026 - 08:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +45,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee70/live/22e4b460-2b39-11f1-ae09-057c4478ead7.jpg" alt="Arrest after car hits &#x27;multiple pedestrians&#x27; in Derby" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn78v1yg7p1o?at_medium=RSS&at_campaign=rss" target="_blank">Arrest after car hits &#x27;multiple pedestrians&#x27; in Derby</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-29 07:10</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/29/israel-adesanya-knocked-out-by-joe-pyfer-at-ufc-fight-night-in-seattle?traffic_source=rss" target="_blank">Israel Adesanya knocked out by Joe Pyfer at UFC Fight Night in Seattle</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-29 05:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-kim-jong-un-test_7205902.jpg?20260329065700" alt="North Korea conducts engine test for missile capable of striking US mainland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/north-korea-conducts-engine-test-for-missile-capable-of-striking-us-mainland-13525716" target="_blank">North Korea conducts engine test for missile capable of striking US mainland</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-29 05:54</span>
             </div>
         </div>
 <div class="story">
@@ -81,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/29/as-war-on-iran-enters-second-month-yemens-houthis-open-new-front?traffic_source=rss" target="_blank">As war on Iran enters second month, Yemen’s Houthis open new front</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-29 00:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/no-kings-new-york-02-ap-jt-260328_1774731130190_hpMain_4x3t_384.jpg" alt="&#x27;No Kings&#x27; protests draw large crowds in cities, towns across US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/kings-protesters-set-rally-cities-towns-country-saturday/story?id=131472712" target="_blank">&#x27;No Kings&#x27; protests draw large crowds in cities, towns across US</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-29 00:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccb2/live/0bcea060-29e0-11f1-b297-95b0a0a8331e.jpg" alt="Trump is waging war based on instinct and it isn&#x27;t working" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss" target="_blank">Trump is waging war based on instinct and it isn&#x27;t working</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-29 00:02</span>
             </div>
         </div>
 </div>
@@ -175,6 +172,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/03/proxysql-multi-tier-release/en/headerimage/generatedHeaderImage-1774076931480.jpg" alt="ProxySQL Introduces Multi-Tier Release Strategy With Stable, Innovative, and AI Tracks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/proxysql-multi-tier-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">ProxySQL Introduces Multi-Tier Release Strategy With Stable, Innovative, and AI Tracks</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-29 07:03</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/masud_suhandi_677020c7dab/how-to-accept-usdc-payments-in-nodejs-using-web3indo-stripe-style-crypto-checkout-3mhn" target="_blank">How to Accept USDC Payments in Node.js Using Web3indo (Stripe-Style Crypto Checkout)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-29 02:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aither_os/aitheros-vs-autogen-which-multi-agent-framework-should-you-use-in-2026-3b4e" target="_blank">AitherOS vs AutoGen: Which Multi-Agent Framework Should You Use in 2026?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-29 01:23</span>
             </div>
         </div>
 </div>
@@ -297,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 07:20 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 08:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
