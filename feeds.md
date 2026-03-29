@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-29 21:05:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-29 22:04:09 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, March 29, 2026 - 21:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, March 29, 2026 - 22:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/29/israeli-police-bar-priest-from-jerusalems-holy-sepulchre-on-palm-sunday?traffic_source=rss" target="_blank">Israeli police bar priest from Jerusalem’s Holy Sepulchre on Palm Sunday</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-29 21:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/03/1920x1080/skynews-artemis-nasa_7206403.jpg?20260329192259" alt="Quarantined astronauts take part in Q&amp;A with days to go until historic moon mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +100,20 @@
                 <span class="time">2026-03-29 14:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774790524844_mtp_full_lankford_260329_S3_1920x1080-ubjbzw.jpg" alt="Sen. Lankford says U.S. is winning Iran war but ‘there’s still work to be done’: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/sen-lankford-says-u-s-is-winning-iran-war-but-there-s-still-work-to-be-done-full-interview-260278853766" target="_blank">Sen. Lankford says U.S. is winning Iran war but ‘there’s still work to be done’: Full interview</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-29 13:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds" target="_blank">Bluesky’s new app is an AI for customizing your feed</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-29 21:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +157,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/03/29/sxsw-rebounds-as-a-top-networking-ideas-festival-for-founders-and-vcs/" target="_blank">SXSW rebounds as a top networking, ideas festival for founders and VCs</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-29 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/902829/birdbuddy-netvue-smart-bird-feeders-amazon-big-spring-sale-2026-deals" target="_blank">Amazon’s Big Spring Sale is a great time to get a fancy, AI-powered bird feeder</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-29 13:00</span>
             </div>
         </div>
 </div>
@@ -222,6 +224,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/lgr-1280x720.jpg" alt="YouTuber Constructs Dedicated Warehouse To Preserve PC Gaming’s Coolest Oddities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lazy-game-reviewer-constructs-dedicated-building-for-esoteric-pc-collection-preservation-youtuber-2000682970" target="_blank">YouTuber Constructs Dedicated Warehouse To Preserve PC Gaming’s Coolest Oddities</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-29 21:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Cleaner-Kit-for-iOS-Premium-Plan.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Bring spring cleaning into the digital space with this iOS Cleaner Kit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/29/bring-spring-cleaning-into-the-digital-space-with-this-ios-cleaner-kit.html" target="_blank">Bring spring cleaning into the digital space with this iOS Cleaner Kit</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-29 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/Resident-Evil-Code-Veronica-1280x720.jpg" alt="Players Keep Finding Veronica Easter Eggs In Resident Evil Requiem" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -257,24 +277,6 @@
                 <span class="time">2026-03-29 17:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/fruit-love-island-jpeg-2.jpg" alt="Whatever Just Happened with ‘Fruit Love Island,’ Nobody Won" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/whatever-just-happened-with-fruit-love-island-nobody-won-2000739498" target="_blank">Whatever Just Happened with ‘Fruit Love Island,’ Nobody Won</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-29 17:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Talamasca_Schwartzman-1280x853.jpg" alt="AMC Puts a Stake in ‘Talamasca’ After One Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/amc-puts-a-stake-in-talamasca-after-one-season-2000739273" target="_blank">AMC Puts a Stake in ‘Talamasca’ After One Season</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-29 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 21:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 22:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
