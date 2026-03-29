@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-29 20:04:04 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-29 21:05:57 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, March 29, 2026 - 20:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, March 29, 2026 - 21:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-artemis-nasa_7206403.jpg?20260329192259" alt="Quarantined astronauts take part in Q&amp;A with days to go until historic moon mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/quarantined-astronauts-take-part-in-qa-with-days-to-go-until-nasas-artemis-ii-moon-mission-13525908" target="_blank">Quarantined astronauts take part in Q&amp;A with days to go until historic moon mission</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-29 17:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17bc/live/01973c70-2b51-11f1-ac93-1955d2dbcfb6.jpg" alt="Counter-terror team join car incident inquiry" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +98,20 @@
                 <span class="time">2026-03-29 13:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/29/nx-s1-5765380/pope-leo-rejects-claims-god-justifies-war-palm-sunday" target="_blank">Pope Leo XIV rejects claims that God justifies war in Palm Sunday Mass message</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-29 12:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/" target="_blank">‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-29 19:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +157,20 @@
                 <span class="time">2026-03-29 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/image-2-500x500.jpeg" alt="Pints meet prop bets: Polymarket’s “Situation Room” pop-up bar in DC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/03/pints-meet-prop-bets-polymarkets-situation-room-pop-up-bar-in-dc/" target="_blank">Pints meet prop bets: Polymarket’s “Situation Room” pop-up bar in DC</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-29 11:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/_boweii/trace-ai-i-pointed-a-camera-at-a-whiteboard-notion-built-the-entire-system-design-doc-37m6" target="_blank">Trace AI: I Pointed a Camera at a Whiteboard. Notion Built the Entire System Design Doc.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-29 21:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/03/android-appfunctions-agents/en/headerimage/android-jetpack-navigation-3-1774814368363.jpeg" alt="Google Unveils AppFunctions to Connect AI Agents and Android Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,6 +199,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2019/08/gpd-micropc.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu MATE’s founder is stepping back after 12 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ubuntu-mate-needs-new-maintainer" target="_blank">Ubuntu MATE’s founder is stepping back after 12 years</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-29 18:46</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,29 +216,29 @@
                 <span class="time">2026-03-29 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why" target="_blank">The bot situation on the internet is worse than you could imagine</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-29 16:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/" target="_blank">Voyager 1 runs on 69 KB of memory and an 8-track tape recorder</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-29 16:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/Resident-Evil-Code-Veronica-1280x720.jpg" alt="Players Keep Finding Veronica Easter Eggs In Resident Evil Requiem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/resident-evil-code-veronica-remake-rumors-requiem-easter-eggs-2000682952" target="_blank">Players Keep Finding Veronica Easter Eggs In Resident Evil Requiem</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-29 20:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/avatar-legends-hed-1280x853.jpg" alt="Even the ‘Avatar’ Fighting Game Is Disrespecting ‘Legend of Korra’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/even-the-avatar-fighting-game-is-disrespecting-legend-of-korra-2000739485" target="_blank">Even the ‘Avatar’ Fighting Game Is Disrespecting ‘Legend of Korra’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-29 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/jay-graber-1280x829.jpg" alt="Bluesky Has a New App, and It’s All About AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -231,6 +246,15 @@
                 <span class="title"><a href="https://gizmodo.com/bluesky-has-a-new-app-and-its-all-about-ai-2000739514" target="_blank">Bluesky Has a New App, and It’s All About AI</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-29 19:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Image-Lupine-Instruments.jpg?fit=1080%2C669&amp;quality=60&amp;ssl=1" alt="Drum machine actually plays the drums" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/29/drum-machine-actually-plays-th-drums.html" target="_blank">Drum machine actually plays the drums</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-29 17:57</span>
             </div>
         </div>
 <div class="story">
@@ -249,33 +273,6 @@
                 <span class="title"><a href="https://gizmodo.com/amc-puts-a-stake-in-talamasca-after-one-season-2000739273" target="_blank">AMC Puts a Stake in ‘Talamasca’ After One Season</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-29 16:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/MSI-Prestige-14-Flip-Ai-3-1280x853.jpg" alt="MSI Prestige 14 Flip AI+ Review: A Solid 2-in-1 Laptop With Some Glaring Flaws" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/msi-prestige-14-flip-ai-review-a-solid-2-in-1-laptop-with-some-glaring-flaws-2000738567" target="_blank">MSI Prestige 14 Flip AI+ Review: A Solid 2-in-1 Laptop With Some Glaring Flaws</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-29 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/shutterstock_2396034011-1280x853.jpg" alt="Ahead of the SpaceX IPO, xAI Has Now Shed All 11 of Its Non-Elon Musk Founders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ahead-of-the-spacex-ipo-xai-has-now-shed-all-11-of-its-non-elon-musk-founders-2000739465" target="_blank">Ahead of the SpaceX IPO, xAI Has Now Shed All 11 of Its Non-Elon Musk Founders</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-29 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/Barbie-Dream-Fest-1280x720.jpg" alt="Fans Are Calling Barbie Dream Fest ‘Barbie Nightmare Fest,’ And It’s Not Hard To See Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/barbie-dream-fest-convention-nightmare-2000682905" target="_blank">Fans Are Calling Barbie Dream Fest ‘Barbie Nightmare Fest,’ And It’s Not Hard To See Why</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-29 01:43</span>
             </div>
         </div>
 </div>
@@ -297,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 20:04 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 21:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
