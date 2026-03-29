@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-29 08:07:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-29 09:09:33 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, March 29, 2026 - 08:07 UTC</div>
+    <div class="newspaper-date">Sunday, March 29, 2026 - 09:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/29/nx-s1-5761340/birth-tourism-citizenship-supreme-court-case" target="_blank">Some critics of birthright citizenship say it&#x27;s a fraud issue. What does that mean?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-29 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/29/us-israel-war-on-iran-whats-happening-on-day-30-of-attacks?traffic_source=rss" target="_blank">US-Israel war on Iran: What’s happening on day 30 of attacks?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-29 08:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee70/live/22e4b460-2b39-11f1-ae09-057c4478ead7.jpg" alt="Man arrested after car hits seven people in Derby" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn78v1yg7p1o?at_medium=RSS&at_campaign=rss" target="_blank">Man arrested after car hits seven people in Derby</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-29 08:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Tehran-DB-260329_1774762375949_hpMain_4x3t_384.jpg" alt="Iran live updates: IDF launches &#x27;widespread&#x27; strikes in Tehran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431" target="_blank">Iran live updates: IDF launches &#x27;widespread&#x27; strikes in Tehran</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-29 07:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee70/live/22e4b460-2b39-11f1-ae09-057c4478ead7.jpg" alt="Arrest after car hits &#x27;multiple pedestrians&#x27; in Derby" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -54,48 +94,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/29/israel-adesanya-knocked-out-by-joe-pyfer-at-ufc-fight-night-in-seattle?traffic_source=rss" target="_blank">Israel Adesanya knocked out by Joe Pyfer at UFC Fight Night in Seattle</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-29 05:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-kim-jong-un-test_7205902.jpg?20260329065700" alt="North Korea conducts engine test for missile capable of striking US mainland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-melbourne-tram_7205960.jpg?20260329075527" alt="Free public transport introduced in Australia to combat rising fuel costs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/north-korea-conducts-engine-test-for-missile-capable-of-striking-us-mainland-13525716" target="_blank">North Korea conducts engine test for missile capable of striking US mainland</a></span>
+                <span class="title"><a href="https://news.sky.com/story/public-transport-fares-waived-in-two-australian-states-to-combat-rising-fuel-costs-13525726" target="_blank">Free public transport introduced in Australia to combat rising fuel costs</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-29 05:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/29/graaff-reinet-robert-sobukwe-south-african-town-name-change-stirs-racial-tensions" target="_blank">Goodbye Graaff-Reinet: South African town’s name change stirs racial tensions</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-29 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd5b/live/a9ed4590-2b0b-11f1-ac84-5bf077e85b89.jpg" alt="Arrest after car strikes &#x27;multiple&#x27; pedestrians in Derby - police" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn78v1yg7p1o?at_medium=RSS&at_campaign=rss" target="_blank">Arrest after car strikes &#x27;multiple&#x27; pedestrians in Derby - police</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-29 01:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/29/as-war-on-iran-enters-second-month-yemens-houthis-open-new-front?traffic_source=rss" target="_blank">As war on Iran enters second month, Yemen’s Houthis open new front</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-29 00:59</span>
+                <span class="time">2026-03-29 06:19</span>
             </div>
         </div>
 </div>
@@ -166,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ohugonnot/research-with-ai-primary-sources-certainty-labeling-and-counter-argumentation-1olf" target="_blank">Research with AI: primary sources, certainty labeling and counter-argumentation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-29 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aws-builders/7-days-002-in-aws-costs-and-3-lessons-i-didnt-expect-a-post-launch-retrospective-35bn" target="_blank">7 Days, $0.02 in AWS Costs, and 3 Lessons I Didn&#x27;t Expect — A Post-Launch Retrospective</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-29 07:17</span>
@@ -207,20 +220,20 @@
                 <span class="time">2026-03-29 03:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/masud_suhandi_677020c7dab/how-to-accept-usdc-payments-in-nodejs-using-web3indo-stripe-style-crypto-checkout-3mhn" target="_blank">How to Accept USDC Payments in Node.js Using Web3indo (Stripe-Style Crypto Checkout)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-29 02:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/shutterstock_2396034011-1280x853.jpg" alt="Ahead of the SpaceX IPO, xAI Has Now Shed All 11 of Its Non-Elon Musk Founders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ahead-of-the-spacex-ipo-xai-has-now-shed-all-11-of-its-non-elon-musk-founders-2000739465" target="_blank">Ahead of the SpaceX IPO, xAI Has Now Shed All 11 of Its Non-Elon Musk Founders</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-29 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/Barbie-Dream-Fest-1280x720.jpg" alt="Fans Are Calling Barbie Dream Fest ‘Barbie Nightmare Fest,’ And It’s Not Hard To See Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +279,6 @@
                 <span class="time">2026-03-28 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/superheroes-debut-hed-1280x853.jpg" alt="Ranking 2016’s Superhero Debuts, 10 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/superhero-debuts-bvs-civil-war-rankings-2000735766" target="_blank">Ranking 2016’s Superhero Debuts, 10 Years Later</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-28 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 08:07 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 09:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
