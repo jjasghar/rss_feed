@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-29 12:04:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-29 13:21:07 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, March 29, 2026 - 12:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, March 29, 2026 - 13:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/902829/birdbuddy-netvue-smart-bird-feeders-amazon-big-spring-sale-2026-deals" target="_blank">Amazon’s Big Spring Sale is a great time to get a fancy, AI-powered bird feeder</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-29 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/image-2-500x500.jpeg" alt="Pints meet prop bets: Polymarket’s “Situation Room” pop-up bar in DC" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -150,20 +157,20 @@
                 <span class="time">2026-03-28 21:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/" target="_blank">Stanford study outlines dangers of asking AI chatbots for personal advice</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-28 20:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/manoit/orchestrating-kubernetes-ai-inference-workloads-with-nvidia-grove-from-dra-ga-to-kai-scheduler-1kla" target="_blank">Orchestrating Kubernetes AI Inference Workloads with NVIDIA Grove — From DRA GA to KAI Scheduler Integration</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-29 13:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,28 +201,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ohugonnot/research-with-ai-primary-sources-certainty-labeling-and-counter-argumentation-1olf" target="_blank">Research with AI: primary sources, certainty labeling and counter-argumentation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-29 09:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/" target="_blank">Overestimation of microplastics potentially caused by scientists&#x27; gloves</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-29 09:46</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/7-days-002-in-aws-costs-and-3-lessons-i-didnt-expect-a-post-launch-retrospective-35bn" target="_blank">7 Days, $0.02 in AWS Costs, and 3 Lessons I Didn&#x27;t Expect — A Post-Launch Retrospective</a></span>
+                <span class="title"><a href="https://dev.to/ohugonnot/research-with-ai-primary-sources-certainty-labeling-and-counter-argumentation-1olf" target="_blank">Research with AI: primary sources, certainty labeling and counter-argumentation</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-03-29 07:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/proxysql-multi-tier-release/en/headerimage/generatedHeaderImage-1774076931480.jpg" alt="ProxySQL Introduces Multi-Tier Release Strategy With Stable, Innovative, and AI Tracks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/proxysql-multi-tier-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">ProxySQL Introduces Multi-Tier Release Strategy With Stable, Innovative, and AI Tracks</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-29 07:03</span>
+                <span class="time">2026-03-29 09:00</span>
             </div>
         </div>
 </div>
@@ -296,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 12:04 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 13:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
