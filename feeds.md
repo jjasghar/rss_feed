@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-29 13:21:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-29 14:08:47 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, March 29, 2026 - 13:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, March 29, 2026 - 14:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/29/nx-s1-5765380/pope-leo-rejects-claims-god-justifies-war-palm-sunday" target="_blank">Pope Leo XIV rejects claims that God justifies war in Palm Sunday Mass message</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-29 12:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +104,20 @@
                 <span class="time">2026-03-29 08:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Tehran-DB-260329_1774762375949_hpMain_4x3t_384.jpg" alt="Iran live updates: IDF launches &#x27;widespread&#x27; strikes in Tehran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431" target="_blank">Iran live updates: IDF launches &#x27;widespread&#x27; strikes in Tehran</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-29 07:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/29/sxsw-rebounds-as-a-top-networking-ideas-festival-for-founders-and-vcs/" target="_blank">SXSW rebounds as a top networking, ideas festival for founders and VCs</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-29 14:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +163,29 @@
                 <span class="time">2026-03-28 23:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/" target="_blank">Mark Zuckerberg texted Elon Musk to offer help with DOGE</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-28 21:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/robertatkinson3570/adding-seo-checks-to-cicd-without-slowing-down-your-pipeline-34dg" target="_blank">Adding SEO Checks to CI/CD Without Slowing Down Your Pipeline</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-29 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-QAT-Gen6-Wireless-Mode" target="_blank">Intel Prepares Wireless Mode Support For QAT Gen6 Hardware</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-29 13:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,29 +222,20 @@
                 <span class="time">2026-03-29 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/" target="_blank">Overestimation of microplastics potentially caused by scientists&#x27; gloves</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-29 09:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ohugonnot/research-with-ai-primary-sources-certainty-labeling-and-counter-argumentation-1olf" target="_blank">Research with AI: primary sources, certainty labeling and counter-argumentation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-29 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/MSI-Prestige-14-Flip-Ai-3-1280x853.jpg" alt="MSI Prestige 14 Flip AI+ Review: A Solid 2-in-1 Laptop With Some Glaring Flaws" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/msi-prestige-14-flip-ai-review-a-solid-2-in-1-laptop-with-some-glaring-flaws-2000738567" target="_blank">MSI Prestige 14 Flip AI+ Review: A Solid 2-in-1 Laptop With Some Glaring Flaws</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-29 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/shutterstock_2396034011-1280x853.jpg" alt="Ahead of the SpaceX IPO, xAI Has Now Shed All 11 of Its Non-Elon Musk Founders" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +281,6 @@
                 <span class="time">2026-03-28 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/disclosure-day-emily-blunt-steven-spielberg-1280x853.jpg" alt="Do ‘Disclosure Day’ Prep With a Spielberg Sci-Fi Marathon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/disclosure-day-spielberg-sci-fi-movies-2000739267" target="_blank">Do ‘Disclosure Day’ Prep With a Spielberg Sci-Fi Marathon</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-28 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 13:21 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 14:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
