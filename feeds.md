@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-29 04:04:59 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-29 05:31:10 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 1 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, March 29, 2026 - 04:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, March 29, 2026 - 05:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/mar/29/graaff-reinet-robert-sobukwe-south-african-town-name-change-stirs-racial-tensions" target="_blank">Goodbye Graaff-Reinet: South African town’s name change stirs racial tensions</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-29 04:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd5b/live/a9ed4590-2b0b-11f1-ac84-5bf077e85b89.jpg" alt="Arrest after car strikes &#x27;multiple&#x27; pedestrians in Derby - police" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/28/key-moments-in-first-month-of-us-israeli-war-on-iran?traffic_source=rss" target="_blank">Key moments in first month of US-Israeli war on Iran</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-28 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-no-kings-chicago-protest_7205795.jpg?20260328222511" alt="Large crowds attend &#x27;No Kings&#x27; rallies against Trump across US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/large-crowds-attend-no-kings-rallies-against-trump-across-us-13525674" target="_blank">Large crowds attend &#x27;No Kings&#x27; rallies against Trump across US</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-28 22:12</span>
             </div>
         </div>
 </div>
@@ -164,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fveda.ng%2Fimages%2Fessays%2Fambient-intelligence.svg%3Fv%3D7" alt="The World as an Interface" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vedangvatsa/the-world-as-an-interface-49o4" target="_blank">The World as an Interface</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-29 05:24</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/rahulxsingh/best-ai-code-review-tools-for-pull-requests-in-2026-2n4p" target="_blank">Best AI Code Review Tools for Pull Requests in 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-28 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9pm7zv8735bryqvebah5.jpg" alt="Building an A2A Simulator to Debug Agent-to-Agent Communication" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/agentdm/building-an-a2a-simulator-to-debug-agent-to-agent-communication-4keb" target="_blank">Building an A2A Simulator to Debug Agent-to-Agent Communication</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-28 22:00</span>
             </div>
         </div>
 </div>
@@ -295,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 04:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 05:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
