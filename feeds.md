@@ -1,42 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-03-29 17:06:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-29 18:05:12 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, March 29, 2026 - 17:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, March 29, 2026 - 18:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17bc/live/01973c70-2b51-11f1-ac93-1955d2dbcfb6.jpg" alt="Counter-terror team join car incident inquiry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn78v1yg7p1o?at_medium=RSS&at_campaign=rss" target="_blank">Counter-terror team join car incident inquiry</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-29 16:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,20 +92,20 @@
                 <span class="time">2026-03-29 12:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/29/nx-s1-5724143/prescription-drug-shopping-deals" target="_blank">How to navigate the maze of drug discounts to get the best price</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-29 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals" target="_blank">The best deals we’ve found from Amazon’s Big Spring Sale (so far)</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-29 16:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -156,15 +151,6 @@
                 <span class="time">2026-03-29 11:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69aa57fa133f03206e0ed537/master/pass/The%20Best%20Android%20Phones%20-%202.png" alt="9 Best Android Phones of 2026, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-android-phones/" target="_blank">9 Best Android Phones of 2026, Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-29 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -186,6 +172,15 @@
                 <span class="title"><a href="https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why" target="_blank">The bot situation on the internet is worse than you could imagine</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-29 16:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/" target="_blank">Voyager 1 runs on 69 KB of memory and an 8-track tape recorder</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-29 16:12</span>
             </div>
         </div>
 <div class="story">
@@ -215,20 +210,20 @@
                 <span class="time">2026-03-29 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-QAT-Gen6-Wireless-Mode" target="_blank">Intel Prepares Wireless Mode Support For QAT Gen6 Hardware</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-29 13:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/fruit-love-island-jpeg-2.jpg" alt="Whatever Just Happened with ‘Fruit Love Island,’ Nobody Won" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/whatever-just-happened-with-fruit-love-island-nobody-won-2000739498" target="_blank">Whatever Just Happened with ‘Fruit Love Island,’ Nobody Won</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-29 17:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Talamasca_Schwartzman-1280x853.jpg" alt="AMC Puts a Stake in ‘Talamasca’ After One Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +269,6 @@
                 <span class="time">2026-03-28 23:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2296015991.jpg?fit=2012%2C1321&amp;quality=60&amp;ssl=1" alt="Secret Service agent assigned to Jill Biden accidentally shot himself" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/28/secret-service-agent-assigned-to-jill-biden-accidentally-shot-himself.html" target="_blank">Secret Service agent assigned to Jill Biden accidentally shot himself</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-28 21:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 17:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 18:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
