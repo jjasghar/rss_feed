@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-29 19:10:56 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-29 20:04:04 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, March 29, 2026 - 19:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, March 29, 2026 - 20:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +110,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/903174/red-rooms-movie-review-serial-killer-dark-web" target="_blank">Red Rooms makes online poker as thrilling as its serial killer</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-29 19:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals" target="_blank">The best deals we’ve found from Amazon’s Big Spring Sale (so far)</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-29 16:30</span>
@@ -153,20 +160,29 @@
                 <span class="time">2026-03-29 11:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/liedetector-500x500.jpg" alt="Polygraphs have major flaws. Are there better options?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/" target="_blank">Polygraphs have major flaws. Are there better options?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-29 11:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/android-appfunctions-agents/en/headerimage/android-jetpack-navigation-3-1774814368363.jpeg" alt="Google Unveils AppFunctions to Connect AI Agents and Android Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/android-appfunctions-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Unveils AppFunctions to Connect AI Agents and Android Apps</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-29 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/actinode/multi-tenant-saas-architecture-what-nobody-tells-you-before-you-build-a4h" target="_blank">Multi-Tenant SaaS Architecture: What Nobody Tells You Before You Build</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-29 19:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/03/kubescape-40/en/headerimage/generatedHeaderImage-1774800906082.jpg" alt="Kubescape 4.0 Brings Runtime Security and AI Agent Scanning to Kubernetes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,29 +219,20 @@
                 <span class="time">2026-03-29 16:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/nuxt-test-utils-4/en/headerimage/generatedHeaderImage-1774782167016.jpg" alt="Nuxt Test Utils v4: Vitest v4 Requirement, Mocking Overhaul and Stricter Environment Setup" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/nuxt-test-utils-4/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Nuxt Test Utils v4: Vitest v4 Requirement, Mocking Overhaul and Stricter Environment Setup</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-29 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Ham-Radio-MKISS-2026" target="_blank">Linux Ham Radio KISS Serial Driver Being Modernized In 2026</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-29 14:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/jay-graber-1280x829.jpg" alt="Bluesky Has a New App, and It’s All About AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/bluesky-has-a-new-app-and-its-all-about-ai-2000739514" target="_blank">Bluesky Has a New App, and It’s All About AI</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-29 19:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/fruit-love-island-jpeg-2.jpg" alt="Whatever Just Happened with ‘Fruit Love Island,’ Nobody Won" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +278,6 @@
                 <span class="time">2026-03-29 01:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/09/a84239aa0e1707324b83fbc943c26638.jpg" alt="Some PC Gaming RAM Actually Got Cheaper For The First Time In Months But It Might Not Last" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ddr5-dram-ram-prices-down-turboquant-2000682888" target="_blank">Some PC Gaming RAM Actually Got Cheaper For The First Time In Months But It Might Not Last</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-28 23:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 19:11 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 20:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
