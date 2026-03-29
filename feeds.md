@@ -1,33 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-03-29 16:04:59 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-29 17:06:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, March 29, 2026 - 16:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, March 29, 2026 - 17:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/29/iran-hits-industrial-zone-in-southern-israel?traffic_source=rss" target="_blank">Iran hits industrial zone in southern Israel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-29 16:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/marines-diego-garcia-20260329-gty-jh_1774791342418_hpMain_4x3t_384.jpg" alt="Scalise on troops in Iran: &#x27;A lot of conversations about what could happen next&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +106,20 @@
                 <span class="time">2026-03-29 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-mourners-funeral_7206145.jpg?20260329120329" alt="Hundreds of mourners gather in pouring rain for funerals of Lebanon journalists" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/hundreds-of-mourners-gather-in-pouring-rain-for-funerals-of-lebanon-journalists-13525792" target="_blank">Hundreds of mourners gather in pouring rain for funerals of Lebanon journalists</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-29 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/" target="_blank">Sora’s shutdown could be a reality check moment for AI video</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-29 16:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +165,29 @@
                 <span class="time">2026-03-29 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/" target="_blank">Bluesky leans into AI with Attie, an app for building custom feeds</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-28 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/peytongreen_dev/mcp-dev-summit-2026-what-python-developers-should-actually-pay-attention-to-5ald" target="_blank">MCP Dev Summit 2026: What Python Developers Should Actually Pay Attention To</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-29 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why" target="_blank">The bot situation on the internet is worse than you could imagine</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-29 16:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/03/nuxt-test-utils-4/en/headerimage/generatedHeaderImage-1774782167016.jpg" alt="Nuxt Test Utils v4: Vitest v4 Requirement, Mocking Overhaul and Stricter Environment Setup" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,29 +224,20 @@
                 <span class="time">2026-03-29 13:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/manoit/orchestrating-kubernetes-ai-inference-workloads-with-nvidia-grove-from-dra-ga-to-kai-scheduler-1kla" target="_blank">Orchestrating Kubernetes AI Inference Workloads with NVIDIA Grove — From DRA GA to KAI Scheduler Integration</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-29 13:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDXDNA-Per-Process-BO-Query" target="_blank">AMDXDNA Driver Introducing Per-Process Memory Usage Queries In Linux 7.1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-29 10:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Talamasca_Schwartzman-1280x853.jpg" alt="AMC Puts a Stake in ‘Talamasca’ After One Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/amc-puts-a-stake-in-talamasca-after-one-season-2000739273" target="_blank">AMC Puts a Stake in ‘Talamasca’ After One Season</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-29 16:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/MSI-Prestige-14-Flip-Ai-3-1280x853.jpg" alt="MSI Prestige 14 Flip AI+ Review: A Solid 2-in-1 Laptop With Some Glaring Flaws" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,13 +283,18 @@
                 <span class="time">2026-03-28 21:56</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/Five-Nights-At-Epsteins-EvanProductions-original-image-from-deleted-Itch.io-page-1280x720.jpg" alt="Is An Epstein Version Of Five Nights At Freddy’s Really Going Viral? The Data Tells A More Complex Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1774664991-20260329.png" alt="Saturday Morning Breakfast Cereal - Water" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/five-nights-epstein-freddys-viral-school-browser-2000682875" target="_blank">Is An Epstein Version Of Five Nights At Freddy’s Really Going Viral? The Data Tells A More Complex Story</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-28 21:00</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/water" target="_blank">Saturday Morning Breakfast Cereal - Water</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-29 15:20</span>
             </div>
         </div>
 </div>
@@ -279,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 16:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 17:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
