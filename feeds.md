@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-28 23:05:05 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-03-29 00:09:35 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, March 28, 2026 - 23:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, March 29, 2026 - 00:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,6 +55,24 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/28/key-moments-in-first-month-of-us-israeli-war-on-iran?traffic_source=rss" target="_blank">Key moments in first month of US-Israeli war on Iran</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-28 22:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-no-kings-chicago-protest_7205795.jpg?20260328222511" alt="Large crowds attend &#x27;No Kings&#x27; rallies against Trump across US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/large-crowds-attend-no-kings-rallies-against-trump-across-us-13525674" target="_blank">Large crowds attend &#x27;No Kings&#x27; rallies against Trump across US</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-03-28 22:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/RAF_SANCHEZ_ZELENSKY__REM_013_1255-1422_260328-f181.mp4.00_14_15_05.Still001-6nulo1.jpg" alt="Volodymyr Zelenskyy says Russia is sharing intelligence with Iran to target U.S. forces" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/volodymyr-zelenskyy-says-russia-is-sharing-intelligence-with-iran-to-target-u-s-forces-260262469615" target="_blank">Volodymyr Zelenskyy says Russia is sharing intelligence with Iran to target U.S. forces</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-28 22:03</span>
             </div>
         </div>
 <div class="story">
@@ -84,24 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/28/palestine-action-supporters-arrested-as-londons-met-police-reverse-policy?traffic_source=rss" target="_blank">Palestine Action supporters arrested as London’s Met Police reverse policy</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-28 20:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260328-Zelenskyy-ch-1329-e119ad.jpg" alt="Russia took satellite images of U.S. air base before Iranian attack, Zelenskyy says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/ukraine/russia-us-base-american-troops-zelenskyy-rcna265612" target="_blank">Russia took satellite images of U.S. air base before Iranian attack, Zelenskyy says</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-28 19:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/28/hundreds-of-thousands-march-through-london-in-stand-against-the-far-right?traffic_source=rss" target="_blank">Hundreds of thousands march through London in stand against the far right</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-28 18:32</span>
             </div>
         </div>
 </div>
@@ -228,6 +226,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/09/a84239aa0e1707324b83fbc943c26638.jpg" alt="Some PC Gaming RAM Actually Got Cheaper For The First Time In Months But It Might Not Last" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ddr5-dram-ram-prices-down-turboquant-2000682888" target="_blank">Some PC Gaming RAM Actually Got Cheaper For The First Time In Months But It Might Not Last</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-28 23:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2296015991.jpg?fit=2012%2C1321&amp;quality=60&amp;ssl=1" alt="Secret Service agent assigned to Jill Biden accidentally shot himself" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/28/secret-service-agent-assigned-to-jill-biden-accidentally-shot-himself.html" target="_blank">Secret Service agent assigned to Jill Biden accidentally shot himself</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-28 21:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/Five-Nights-At-Epsteins-EvanProductions-original-image-from-deleted-Itch.io-page-1280x720.jpg" alt="Is An Epstein Version Of Five Nights At Freddy’s Really Going Viral? The Data Tells A More Complex Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -263,24 +279,6 @@
                 <span class="time">2026-03-28 18:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Sony-Suspends-Orders-for-CFe-and-SD-Memory-Cards-Due-to-SSD-Shortage-copy.jpg?fit=721%2C500&amp;quality=60&amp;ssl=1" alt="Sony suspends sales of memory cards" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/28/sony-suspends-sales-of-memory-cards.html" target="_blank">Sony suspends sales of memory cards</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-28 17:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/zleda-1280x640.jpg" alt="7 Things We’d Love To See A Zelda: Ocarina Of Time Remake Borrow From Breath Of The Wild" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/zelda-ocarina-time-remake-botw-totk-open-world-2000682696" target="_blank">7 Things We’d Love To See A Zelda: Ocarina Of Time Remake Borrow From Breath Of The Wild</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-28 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -300,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 23:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 00:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
