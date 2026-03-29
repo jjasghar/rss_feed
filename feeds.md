@@ -1,36 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-03-29 22:04:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-29 23:06:20 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 2 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, March 29, 2026 - 22:04 UTC</div>
+    <div class="newspaper-date">Sunday, March 29, 2026 - 23:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/29/european-nations-criticise-israels-death-penalty-plans?traffic_source=rss" target="_blank">European nations criticise Israel’s death penalty plans</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-29 22:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +90,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/scalise-lot-conversations-possibility-boots-ground-iran/story?id=131518061" target="_blank">Scalise on troops in Iran: &#x27;A lot of conversations about what could happen next&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-29 14:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17bc/live/01973c70-2b51-11f1-ac93-1955d2dbcfb6.jpg" alt="Counter-terror police join Derby car crash inquiry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn78v1yg7p1o?at_medium=RSS&at_campaign=rss" target="_blank">Counter-terror police join Derby car crash inquiry</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-29 14:51</span>
             </div>
         </div>
 </div>
@@ -167,6 +159,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/" target="_blank">Coding Agents Could Make Free Software Matter Again</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-29 22:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/_boweii/trace-ai-i-pointed-a-camera-at-a-whiteboard-notion-built-the-entire-system-design-doc-37m6" target="_blank">Trace AI: I Pointed a Camera at a Whiteboard. Notion Built the Entire System Design Doc.</a></span>
                 <span class="feed">DEV Community</span>
@@ -207,15 +208,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ubuntu-mate-needs-new-maintainer" target="_blank">Ubuntu MATE’s founder is stepping back after 12 years</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-03-29 18:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/peytongreen_dev/mcp-dev-summit-2026-what-python-developers-should-actually-pay-attention-to-5ald" target="_blank">MCP Dev Summit 2026: What Python Developers Should Actually Pay Attention To</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-29 17:00</span>
             </div>
         </div>
 </div>
@@ -296,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 22:04 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 23:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
