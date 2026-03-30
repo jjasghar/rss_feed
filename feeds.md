@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-30 04:07:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-30 05:40:50 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 2 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, March 30, 2026 - 04:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, March 30, 2026 - 05:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/30/g-s1-115707/central-haitian-town-gang-warfare" target="_blank">Central Haitian town descends into fire and bloodshed from gang warfare</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-30 05:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/29/european-nations-criticise-israels-death-penalty-plans?traffic_source=rss" target="_blank">European nations criticise Israel’s death penalty plans</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-29 22:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/29/israeli-police-bar-priest-from-jerusalems-holy-sepulchre-on-palm-sunday?traffic_source=rss" target="_blank">Israeli police bar priest from Jerusalem’s Holy Sepulchre on Palm Sunday</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-29 21:01</span>
             </div>
         </div>
 </div>
@@ -171,6 +177,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/" target="_blank">Copilot Edited an Ad into My PR</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-30 04:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/03/java-news-roundup-mar23-2026/en/headerimage/java-istock-image-01-1774815893047.jpg" alt="Java News Roundup: GraalVM Build Tools, EclipseLink, Spring Milestones, Open Liberty, Quarkus" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -204,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc6-Released" target="_blank">Linux 7.0-rc6 Released With The Fixes Still Coming In Heavy</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-29 23:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/" target="_blank">Coding Agents Could Make Free Software Matter Again</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-29 22:21</span>
             </div>
         </div>
 </div>
@@ -302,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 04:07 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 05:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
