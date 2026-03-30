@@ -1,30 +1,26 @@
-<!-- Processing 54 RSS feeds at 2026-03-30 11:20:07 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-03-30 12:12:37 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 17 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, March 30, 2026 - 11:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, March 30, 2026 - 12:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +36,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0eb/live/3a0f3d60-2c27-11f1-934f-036468834728.jpg" alt="Scott Mills sacked from BBC Radio 2 over &#x27;personal conduct&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckge1yn50y8o?at_medium=RSS&at_campaign=rss" target="_blank">Scott Mills sacked from BBC Radio 2 over &#x27;personal conduct&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-30 12:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +90,20 @@
                 <span class="time">2026-03-30 06:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/3/30/by-the-50th-anniversary-of-land-day-palestinians-lose-most-of-their-land?traffic_source=rss" target="_blank">By the 50th anniversary of Land Day, Palestinians lose most of their land</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-30 05:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69c6cf4311f836e20d54dee4/master/pass/Nest%20Doorbell%20Wired%203rd%20Gen%201%20SOURCE%20Julian%20Chokkattu.jpg" alt="5 Best Video Doorbell Cameras (2026): Smart, Battery, AI, Budget, and Subscription-Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-video-doorbells/" target="_blank">5 Best Video Doorbell Cameras (2026): Smart, Battery, AI, Budget, and Subscription-Free</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-30 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69c342b9ea56e672b4eef391/master/pass/240203_KOH2024_Reamer.016.jpg" alt="‘Guns, Beer, Titties, Freedom’: Inside the World’s Toughest Off-Road Race" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +149,20 @@
                 <span class="time">2026-03-29 21:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/" target="_blank">‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-29 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.mgrunwald.com/ghostmoon/" target="_blank">Ghostmoon.app – The Swiss Army Knife for your macOS menu bar</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-30 11:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzhnpj9txfg7fmi1omj9.png" alt="Building a RAG Pipeline with Claude API and Supabase" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,13 +208,18 @@
                 <span class="time">2026-03-30 07:21</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17309280/systemd-sysext" target="_blank">How I Add Tools to My Immutable Linux Without Rebooting</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-30 06:54</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/apples-camera-indicator-lights.html" target="_blank">Apple’s Camera Indicator Lights</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-03-30 11:08</span>
             </div>
         </div>
 </div>
@@ -217,6 +227,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/poissons.webp?fit=1000%2C666&amp;quality=55&amp;ssl=1" alt="Renoir, Cézanne, and Matisse masterpieces stolen in 3-minute heist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/30/renoir-cezanne-and-matisse-masterpieces-stolen-in-3-minute-heist.html" target="_blank">Renoir, Cézanne, and Matisse masterpieces stolen in 3-minute heist</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-30 11:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Project-Hail-Mary-Ryan-Gosling-1280x853.jpg" alt="The ‘Project Hail Mary’ Party Continues With a Manga Adaptation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,15 +281,6 @@
                 <span class="time">2026-03-29 22:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/lgr-1280x720.jpg" alt="YouTuber Constructs Dedicated Warehouse To Preserve PC Gaming’s Coolest Oddities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lazy-game-reviewer-constructs-dedicated-building-for-esoteric-pc-collection-preservation-youtuber-2000682970" target="_blank">YouTuber Constructs Dedicated Warehouse To Preserve PC Gaming’s Coolest Oddities</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-29 21:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 11:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 12:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
