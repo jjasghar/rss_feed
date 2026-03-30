@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-30 18:14:27 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-30 19:20:41 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Generated 12 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, March 30, 2026 - 18:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, March 30, 2026 - 19:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774894048382_now_brk_haake_iran_salinization_260330_S3_1920x1080-412tqt.jpg" alt="White House questioned about Trump&#x27;s threat to target Iranian civilian infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/white-house-questioned-about-trump-s-threat-to-target-iranian-civilian-infrastructure-260375109743" target="_blank">White House questioned about Trump&#x27;s threat to target Iranian civilian infrastructure</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-30 18:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,6 +81,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/30/nx-s1-5766046/ilia-malinin-world-champion-figure-skating-season" target="_blank">Figure skating season ends with redemption and heartbreak. What do fans watch next?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-30 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/03/30/nx-s1-5766046/ilia-malinin-world-champion-figure-skating-season" target="_blank">Ilia Malinin rebounds from the Olympics to win his 3rd straight world championship</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-30 16:30</span>
@@ -83,29 +104,20 @@
                 <span class="time">2026-03-30 16:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/30/egypts-president-urges-trump-to-stop-war-on-iran?traffic_source=rss" target="_blank">Egypt’s president urges Trump to stop war on Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-30 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/football/2026/mar/30/congo-brazzaville-jean-guy-blaise-mayolas-fifa-interpol-arrest-warrant" target="_blank">Interpol arrest warrant requested in Congo-Brazzaville for Jean-Guy Blaise Mayolas</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-30 15:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2224516673-500x500.jpg" alt="Authors&#x27; lucky break in court may help class action over Meta torrenting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/meta-hopes-scotus-piracy-ruling-will-help-it-beat-lawsuit-over-torrenting-ai-data/" target="_blank">Authors&#x27; lucky break in court may help class action over Meta torrenting</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-30 19:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +163,29 @@
                 <span class="time">2026-03-30 16:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/30/apple-will-hide-your-email-address-from-apps-and-websites-but-not-cops/" target="_blank">Apple will hide your email address from apps and websites, but not cops</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-30 15:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3dgsk4u72bb6adlrfj24.gif" alt="Step 1: Setup Frontend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nabillatrisnani/step-1-setup-frontend-4i57" target="_blank">Step 1: Setup Frontend</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-30 19:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18922232&w=600" alt="Scaling Kafka Consumers: Proxy vs. Client Library for High-Throughput Architectures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/scaling-kafka-consumers-proxy-vs-client-library" target="_blank">Scaling Kafka Consumers: Proxy vs. Client Library for High-Throughput Architectures</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-30 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw6m64jan707waptmzgpc.JPEG" alt="Optimizing PNG vs JPG: Tips and Tools for WordPress" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,24 +222,6 @@
                 <span class="time">2026-03-30 16:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2510-2604-zen5" target="_blank">Ubuntu 26.04 Showing Nice Gains Over Ubuntu 25.10 On AMD Ryzen 9000 Series</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-30 16:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18922699&w=600" alt="A Developer’s Guide to Integrating Embedded Analytics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/developers-guide-embedded-analytics" target="_blank">A Developer’s Guide to Integrating Embedded Analytics</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-30 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +241,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/01/30ebda4cc4a81c4216b374fe057a5971-1280x720.jpg" alt="Deus Ex Studio Head Leaves After 19 Years As 124 People Lose Their Jobs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/eidos-montreal-deus-ex-sequel-layoffs-2000683242" target="_blank">Deus Ex Studio Head Leaves After 19 Years As 124 People Lose Their Jobs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-30 19:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Scream-7-Ghostface-jump-1280x853.jpg" alt="‘Scream 7’ Comes Home With Deleted Scenes We Hope Will Improve the Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/scream-7-comes-home-with-deleted-scenes-we-hope-will-improve-the-movie-2000739858" target="_blank">‘Scream 7’ Comes Home With Deleted Scenes We Hope Will Improve the Movie</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-30 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KMZTN78KCPRM6Y867GXECV8X/hero-image.jpg" alt="The Best Books, Movies, Video Games, and Podcasts to Check Out After Watching &#x27;Heated Rivalry&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/heated-rivalry-streamalikes-books-movies-video-games-and-podcasts?utm_medium=RSS" target="_blank">The Best Books, Movies, Video Games, and Podcasts to Check Out After Watching &#x27;Heated Rivalry&#x27;</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-30 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/star-trek-strange-new-worlds-captain-pike-1280x853.jpg" alt="Andy Weir Apologizes After ‘Star Trek’ Comment Backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,38 +295,20 @@
                 <span class="time">2026-03-30 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/rokid-ai-glasses-style-review-4-1280x853.jpg" alt="Students Are Now Renting Smart Glasses to Cheat on Exams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/smart-glasses-cheating-exams-2000739723" target="_blank">Students Are Now Renting Smart Glasses to Cheat on Exams</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-30 15:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Babbel-Language-Learning-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Skip the AI tutors and learn a language from real experts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/30/skip-the-ai-tutors-and-learn-a-language-from-real-experts.html" target="_blank">Skip the AI tutors and learn a language from real experts</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-30 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMQKH76Z0FH4B8B78MSHWSWX/hero-image.jpg" alt="Embrace Filming on Analog Video in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/shooting-on-tape-in-2026-retro-tech?utm_medium=RSS" target="_blank">Embrace Filming on Analog Video in 2026</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-30 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/03/30/make-a-strip-2" target="_blank">Make a Strip!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-30 17:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1774665043-20260330.png" alt="Saturday Morning Breakfast Cereal - Humanities" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -338,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 18:14 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 19:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
