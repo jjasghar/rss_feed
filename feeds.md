@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-30 05:40:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-30 06:30:49 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, March 30, 2026 - 05:41 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, March 30, 2026 - 06:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,10 +46,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/3/30/by-the-50th-anniversary-of-land-day-palestinians-lose-most-of-their-land?traffic_source=rss" target="_blank">By the 50th anniversary of Land Day, Palestinians lose most of their land</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-30 05:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/03/30/g-s1-115707/central-haitian-town-gang-warfare" target="_blank">Central Haitian town descends into fire and bloodshed from gang warfare</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-30 05:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/mar/30/urgent-action-needed-to-prevent-surge-in-digital-violence-in-africa-experts-say" target="_blank">Urgent action needed to prevent surge in digital violence in Africa, experts say</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-30 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260329-donald-trump-ww-1935-925756.jpg" alt="Trump says he wants Iran&#x27;s oil and could seize Kharg Island" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-says-preference-take-oil-iran-rcna265747" target="_blank">Trump says he wants Iran&#x27;s oil and could seize Kharg Island</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-30 03:43</span>
             </div>
         </div>
 <div class="story">
@@ -74,33 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/30/netanyahu-orders-deeper-israeli-invasion-into-lebanon?traffic_source=rss" target="_blank">Netanyahu orders deeper Israeli invasion into Lebanon</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-30 01:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/29/nx-s1-5765506/final-four-ncaa-2026" target="_blank">The Final Four is set with UConn stunning Duke to join Illinois, Arizona and Michigan</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-30 00:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/3/30/iran-war-live-worker-killed-in-kuwait-israel-intercepts-drones-from-yemen?traffic_source=rss" target="_blank">Iran war live: Worker killed in Kuwait; Israel intercepts drones from Yemen</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-30 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/29/european-nations-criticise-israels-death-penalty-plans?traffic_source=rss" target="_blank">European nations criticise Israel’s death penalty plans</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-29 22:44</span>
             </div>
         </div>
 </div>
@@ -171,6 +165,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/julianaalbertyn/my-first-python-project-excel-to-sql-pipeline-feedback-welcome-2pma" target="_blank">My first Python project: Excel to SQL pipeline (feedback welcome)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-30 06:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.datagubbe.se/aipixels/" target="_blank">The curious case of retro demo scene graphics</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-30 05:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/7f7867893e654b/how-i-built-an-open-source-llm-security-library-in-python-and-what-i-learned-about-prompt-49hb" target="_blank">How I Built an Open-Source LLM Security Library in Python (and What I Learned About Prompt Injection)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-30 04:05</span>
@@ -201,24 +213,6 @@
                 <span class="title"><a href="https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/" target="_blank">New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-30 01:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/deeflect/i-published-a-book-heres-why-50on" target="_blank">I Published a Book. Here&#x27;s Why.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-30 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc6-Released" target="_blank">Linux 7.0-rc6 Released With The Fixes Still Coming In Heavy</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-29 23:08</span>
             </div>
         </div>
 </div>
@@ -308,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 05:41 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 06:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
