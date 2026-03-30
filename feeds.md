@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-30 20:09:28 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-30 21:12:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, March 30, 2026 - 20:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, March 30, 2026 - 21:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,10 +47,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/30/rubio-says-nato-must-be-re-examined-after-spain-blocks-us-operation-on-iran?traffic_source=rss" target="_blank">Rubio says NATO must be re-examined after Spain blocks US operation on Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-30 20:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/30/nx-s1-5707305/yemen-politician-assassination-us-soldiers-lawsuit" target="_blank">Yemeni politician says former U.S. soldiers tried to kill him. Now he&#x27;s suing in U.S. court</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-30 20:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/03/30/nx-s1-5766344/trump-rolls-back-pause-on-asylum-decisions" target="_blank">Trump rolls back pause on asylum decisions imposed after D.C. National Guard shooting</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-30 19:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/tsa-workers-gty-jt-260327_1774641813848_hpMain_4x3t_384.jpg" alt="TSA officers receive their 1st paychecks in weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/tsa-officers-receive-1st-paychecks-weeks/story?id=131545968" target="_blank">TSA officers receive their 1st paychecks in weeks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-30 19:47</span>
             </div>
         </div>
 <div class="story">
@@ -74,38 +98,20 @@
                 <span class="time">2026-03-30 18:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774894048382_now_brk_haake_iran_salinization_260330_S3_1920x1080-412tqt.jpg" alt="White House questioned about Trump&#x27;s threat to target Iranian civilian infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/white-house-questioned-about-trump-s-threat-to-target-iranian-civilian-infrastructure-260375109743" target="_blank">White House questioned about Trump&#x27;s threat to target Iranian civilian infrastructure</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-30 18:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2026/3/30/aje-onl-tt_isr_greaterisrael_av_v2-300326?traffic_source=rss" target="_blank">What is the ‘Greater Israel’ project?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-30 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/mar/30/ilhan-omar-false-reports-somaliland" target="_blank">News outlets falsely report Somaliland called for extradition of Ilhan Omar</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-30 16:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/judges-gavel-500x500.jpg" alt="Judge halts Nexstar/Tegna merger after FCC let firms exceed TV ownership limit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/judge-halts-nexstar-tegna-merger-after-fcc-let-firms-exceed-tv-ownership-limit/" target="_blank">Judge halts Nexstar/Tegna merger after FCC let firms exceed TV ownership limit</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-30 20:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2224516673-500x500.jpg" alt="Authors&#x27; lucky break in court may help class action over Meta torrenting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +157,20 @@
                 <span class="time">2026-03-30 17:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268527216-500x500.jpg" alt="F1 in Japan: Oh no, what have they done to all the fast corners?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/03/f1-in-japan-oh-no-what-have-they-done-to-all-the-fast-corners/" target="_blank">F1 in Japan: Oh no, what have they done to all the fast corners?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-30 17:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/simplify-bare-metal-operations-for-sovereign-clouds" target="_blank">Simplify bare metal operations for sovereign clouds</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-03-30 21:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,30 +199,21 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw6m64jan707waptmzgpc.JPEG" alt="Optimizing PNG vs JPG: Tips and Tools for WordPress" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/biancarus/optimizing-png-vs-jpg-tips-and-tools-for-wordpress-43g1" target="_blank">Optimizing PNG vs JPG: Tips and Tools for WordPress</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-30 17:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18920968&w=600" alt="The &quot;Bus Factor&quot; Risk in MongoDB, MariaDB, Redis, MySQL, PostgreSQL, and SQLite" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/bus-factor-risks-mongodb-mariadb-redis-mysql-postgresql-sqlite" target="_blank">The &quot;Bus Factor&quot; Risk in MongoDB, MariaDB, Redis, MySQL, PostgreSQL, and SQLite</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-30 17:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/" target="_blank">Fedware: Government apps that spy harder than the apps they ban</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-30 18:16</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17309680/pinetime-pro-early-look" target="_blank">After 5 Years, PineTime Gets a Major Upgrade with AMOLED, GPS, and More</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-30 16:43</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-AIE4-NPU-AMDXDNA" target="_blank">AMD Sends Out Linux Patches For Their Next-Gen AIE4 NPU</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-30 17:29</span>
             </div>
         </div>
 </div>
@@ -238,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/gtaivleak-1280x720.jpg" alt="The Story Behind A Massive GTA 4 Leak 18 Years After Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-story-behind-a-massive-gta-4-leak-18-years-after-launch-2000683244" target="_blank">The Story Behind A Massive GTA 4 Leak 18 Years After Launch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-30 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/seoul-restroom.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Why American public spaces are unbearable" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/andy-weir-star-trek-backlash-apology-2000739821" target="_blank">Andy Weir Apologizes After ‘Star Trek’ Comment Backlash</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-30 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMZTQW0RQA182AB631SQM28G/hero-image.png" alt="This Eufy Robot Vacuum and Mop Combo Is $300 Off During Amazon’s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/eufy-omni-c28-robot-vacuum-and-mop-amazon-big-spring-sale-2026?utm_medium=RSS" target="_blank">This Eufy Robot Vacuum and Mop Combo Is $300 Off During Amazon’s Big Spring Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-30 17:03</span>
             </div>
         </div>
 </div>
@@ -347,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 20:09 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 21:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
