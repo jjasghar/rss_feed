@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-30 16:17:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-30 17:16:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 32 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, March 30, 2026 - 16:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, March 30, 2026 - 17:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/mar/30/ilhan-omar-false-reports-somaliland" target="_blank">News outlets falsely report Somaliland called for extradition of Ilhan Omar</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-30 16:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/30/nx-s1-5766046/ilia-malinin-world-champion-figure-skating-season" target="_blank">Ilia Malinin rebounds from the Olympics to win his 3rd straight world championship</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-30 16:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +103,20 @@
                 <span class="time">2026-03-30 13:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/30/why-have-the-us-and-israel-bombed-more-than-75-iranian-police-facilities?traffic_source=rss" target="_blank">Why have the US and Israel bombed more than 75 Iranian police facilities?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-30 12:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Trump-AF1-DB-260330_1774849855351_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump threatens Iran infrastructure strikes if talks fail" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: Trump threatens Iran infrastructure strikes if talks fail</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-30 12:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/9470308-500x500.jpg" alt="After 16 years and $8 billion, the military&#x27;s new GPS software still doesn&#x27;t work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/03/after-16-years-and-8-billion-the-militarys-new-gps-software-still-doesnt-work/" target="_blank">After 16 years and $8 billion, the military&#x27;s new GPS software still doesn&#x27;t work</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-30 17:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +162,38 @@
                 <span class="time">2026-03-30 13:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/903282/xbox-games-showcase-2026-sgf-date" target="_blank">Xbox’s next big games showcase happens on June 7th</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-30 13:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw6m64jan707waptmzgpc.JPEG" alt="Optimizing PNG vs JPG: Tips and Tools for WordPress" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/biancarus/optimizing-png-vs-jpg-tips-and-tools-for-wordpress-43g1" target="_blank">Optimizing PNG vs JPG: Tips and Tools for WordPress</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-30 17:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17309680/pinetime-pro-early-look" target="_blank">After 5 Years, PineTime Gets a Major Upgrade with AMOLED, GPS, and More</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-30 16:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18956595&w=600" alt="Data-Driven API Testing in Java With REST Assured and TestNG: Part 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/data-driven-api-testing-java-rest-assured-part-5" target="_blank">Data-Driven API Testing in Java With REST Assured and TestNG: Part 5</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-30 16:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,33 +221,6 @@
                 <span class="time">2026-03-30 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Coreboot-26.03-Released" target="_blank">Coreboot 26.03 Released With Support For Intel Panther Lake</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-30 15:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/roman_zh333/building-ai-companions-that-feel-real-a-technical-deep-dive-pjb" target="_blank">Building AI Companions That Feel Real: A Technical Deep Dive</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-30 15:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18921094&w=600" alt="Migrating Legacy Microservices to Modern Java and TypeScript" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/migrating-legacy-microservices-java-typescript" target="_blank">Migrating Legacy Microservices to Modern Java and TypeScript</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-30 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KMZNG2EN3NKWSTSK6GKCD3MQ/hero-image.png" alt="These Are the Best Apple Deals During Amazon&#x27;s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-apple-deals-amazon-big-spring-sale-2026?utm_medium=RSS" target="_blank">These Are the Best Apple Deals During Amazon&#x27;s Big Spring Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-30 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/rokid-ai-glasses-style-review-4-1280x853.jpg" alt="Students Are Now Renting Smart Glasses to Cheat on Exams" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +294,6 @@
                 <span class="time">2026-03-30 14:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/MS0330-spider-man-brand-new-day-1280x853.jpg" alt="The Sadie Sink ‘Spider-Man: Brand New Day’ Rumors Just Keep Swirling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spider-man-brand-new-day-sadie-sink-jean-grey-rumors-mcu-2000739511" target="_blank">The Sadie Sink ‘Spider-Man: Brand New Day’ Rumors Just Keep Swirling</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-30 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,6 +306,15 @@
                 <span class="title"><a href="https://www.smbc-comics.com/comic/humanities-2" target="_blank">Saturday Morning Breakfast Cereal - Humanities</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
                 <span class="time">2026-03-30 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/03/30/dunk-and-egg" target="_blank">Dunk And Egg</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-30 07:01</span>
             </div>
         </div>
 <div class="story">
@@ -333,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 16:18 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 17:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
