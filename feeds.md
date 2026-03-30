@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-30 19:20:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-30 20:09:28 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 31 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, March 30, 2026 - 19:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, March 30, 2026 - 20:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/30/nx-s1-5766344/trump-rolls-back-pause-on-asylum-decisions" target="_blank">Trump rolls back pause on asylum decisions imposed after D.C. National Guard shooting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-30 19:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/30/what-we-know-about-attack-on-key-israeli-oil-refinery?traffic_source=rss" target="_blank">What we know about attack on key Israeli oil refinery</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-30 19:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09ba/live/d4f128a0-29e5-11f1-81d4-f1e3c77fafb4.jpg" alt="Millions of drivers mis-sold car finance to receive average £829 in compensation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss" target="_blank">Millions of drivers mis-sold car finance to receive average £829 in compensation</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-30 18:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774894048382_now_brk_haake_iran_salinization_260330_S3_1920x1080-412tqt.jpg" alt="White House questioned about Trump&#x27;s threat to target Iranian civilian infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,33 +101,6 @@
                 <span class="time">2026-03-30 16:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/30/nx-s1-5766046/ilia-malinin-world-champion-figure-skating-season" target="_blank">Figure skating season ends with redemption and heartbreak. What do fans watch next?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-30 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/30/nx-s1-5766046/ilia-malinin-world-champion-figure-skating-season" target="_blank">Ilia Malinin rebounds from the Olympics to win his 3rd straight world championship</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-30 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/marco-rubio-1-abc-gmh-260330_1774873791272_hpMain_4x3t_384.jpg" alt="Trump says US talking to &#x27;more reasonable&#x27; Iranian regime, Rubio declines to say who" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-us-talking-new-reasonable-iranian-regime-rubio/story?id=131540946" target="_blank">Trump says US talking to &#x27;more reasonable&#x27; Iranian regime, Rubio declines to say who</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-30 16:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -122,9 +119,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/30/what-were-looking-for-in-startup-battlefield-2026-and-how-to-put-your-best-application-forward/" target="_blank">What we’re looking for in Startup Battlefield 2026 and how to put your best application forward</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-30 18:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/" target="_blank">Meta starts testing a premium subscription on Instagram</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-03-30 18:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69caa85c4430ce79614bdc4b/master/pass/Our-Favorite-Amazon-Streaming-Stick-Is-Almost-Half-Off.jpg" alt="Our Favorite Amazon Streaming Stick Is Almost Half Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/fire-tv-stick-max-deal-326/" target="_blank">Our Favorite Amazon Streaming Stick Is Almost Half Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-30 17:58</span>
             </div>
         </div>
 <div class="story">
@@ -145,29 +160,20 @@
                 <span class="time">2026-03-30 17:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/9470308-500x500.jpg" alt="After 16 years and $8 billion, the military&#x27;s new GPS software still doesn&#x27;t work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/03/after-16-years-and-8-billion-the-militarys-new-gps-software-still-doesnt-work/" target="_blank">After 16 years and $8 billion, the military&#x27;s new GPS software still doesn&#x27;t work</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-30 17:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/903280/papure-project-fraunhofer-institute-laser-paper-packaging-recycling" target="_blank">A new manufacturing process uses lasers to seal paper packaging instead of glue</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-30 16:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bukinator/qa-in-chaos-how-do-you-test-anyway-2dpm" target="_blank">QA in chaos. How Do You Test Anyway?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-30 20:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3dgsk4u72bb6adlrfj24.gif" alt="Step 1: Setup Frontend" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -213,15 +219,6 @@
                 <span class="time">2026-03-30 16:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18956595&w=600" alt="Data-Driven API Testing in Java With REST Assured and TestNG: Part 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/data-driven-api-testing-java-rest-assured-part-5" target="_blank">Data-Driven API Testing in Java With REST Assured and TestNG: Part 5</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-30 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/seoul-restroom.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Why American public spaces are unbearable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/30/why-american-public-spaces-are-unbearable.html" target="_blank">Why American public spaces are unbearable</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-30 19:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/01/30ebda4cc4a81c4216b374fe057a5971-1280x720.jpg" alt="Deus Ex Studio Head Leaves After 19 Years As 124 People Lose Their Jobs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/eufy-omni-c28-robot-vacuum-and-mop-amazon-big-spring-sale-2026?utm_medium=RSS" target="_blank">This Eufy Robot Vacuum and Mop Combo Is $300 Off During Amazon’s Big Spring Sale</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-30 17:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMZNG2EN3NKWSTSK6GKCD3MQ/hero-image.png" alt="These Are the Best Apple Deals During Amazon&#x27;s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-apple-deals-amazon-big-spring-sale-2026?utm_medium=RSS" target="_blank">These Are the Best Apple Deals During Amazon&#x27;s Big Spring Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-30 16:30</span>
             </div>
         </div>
 </div>
@@ -350,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 19:20 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 20:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
