@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-30 17:16:36 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-03-30 18:14:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, March 30, 2026 - 17:16 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, March 30, 2026 - 18:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +50,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2026/3/30/aje-onl-tt_isr_greaterisrael_av_v2-300326?traffic_source=rss" target="_blank">What is the ‘Greater Israel’ project?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-30 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
                 <span class="title"><a href="https://www.theguardian.com/us-news/2026/mar/30/ilhan-omar-false-reports-somaliland" target="_blank">News outlets falsely report Somaliland called for extradition of Ilhan Omar</a></span>
                 <span class="feed">World news | The Guardian</span>
@@ -65,6 +72,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/30/nx-s1-5766046/ilia-malinin-world-champion-figure-skating-season" target="_blank">Ilia Malinin rebounds from the Olympics to win his 3rd straight world championship</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-30 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/marco-rubio-1-abc-gmh-260330_1774873791272_hpMain_4x3t_384.jpg" alt="Trump says US talking to &#x27;more reasonable&#x27; Iranian regime, Rubio declines to say who" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-us-talking-new-reasonable-iranian-regime-rubio/story?id=131540946" target="_blank">Trump says US talking to &#x27;more reasonable&#x27; Iranian regime, Rubio declines to say who</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-30 16:22</span>
             </div>
         </div>
 <div class="story">
@@ -85,29 +101,38 @@
                 <span class="time">2026-03-30 15:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/30/nx-s1-5766096/supreme-court-birthright-citizenship-explainer" target="_blank">Who is an American? The Supreme Court will decide</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-30 14:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0eb/live/3a0f3d60-2c27-11f1-934f-036468834728.jpg" alt="Scott Mills sacked from BBC Radio 2 after allegations over &#x27;historic relationship&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckge1yn50y8o?at_medium=RSS&at_campaign=rss" target="_blank">Scott Mills sacked from BBC Radio 2 after allegations over &#x27;historic relationship&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-30 13:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/" target="_blank">Meta starts testing a premium subscription on Instagram</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-30 18:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/903373/beats-powerbeats-fit-pro-2-earbuds-amazon-big-spring-sale-2026-deal" target="_blank">Beats’ gym-friendly Powerbeats Fit are $30 off for Amazon’s Big Spring Sale</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-30 17:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268527216-500x500.jpg" alt="F1 in Japan: Oh no, what have they done to all the fast corners?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/03/f1-in-japan-oh-no-what-have-they-done-to-all-the-fast-corners/" target="_blank">F1 in Japan: Oh no, what have they done to all the fast corners?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-30 17:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/9470308-500x500.jpg" alt="After 16 years and $8 billion, the military&#x27;s new GPS software still doesn&#x27;t work" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,33 +160,6 @@
                 <span class="time">2026-03-30 15:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity" target="_blank">Okta&amp;#8217;s CEO is betting big on AI agent identity</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-30 15:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/30/uber-is-buying-berlin-startup-blacklane-to-bolster-its-elite-offering/" target="_blank">Uber is buying Berlin startup Blacklane to bolster its ‘Elite’ offering</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-30 14:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/01/GettyImages-526100006-scaled-500x500-1774877262.jpg" alt="Trump convenes &quot;God Squad&quot; to override Endangered Species Act, up oil production" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/trump-convenes-god-squad-to-override-endangered-species-act-up-oil-production/" target="_blank">Trump convenes &quot;God Squad&quot; to override Endangered Species Act, up oil production</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-30 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +172,15 @@
                 <span class="title"><a href="https://dev.to/biancarus/optimizing-png-vs-jpg-tips-and-tools-for-wordpress-43g1" target="_blank">Optimizing PNG vs JPG: Tips and Tools for WordPress</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-30 17:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18920968&w=600" alt="The &quot;Bus Factor&quot; Risk in MongoDB, MariaDB, Redis, MySQL, PostgreSQL, and SQLite" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/bus-factor-risks-mongodb-mariadb-redis-mysql-postgresql-sqlite" target="_blank">The &quot;Bus Factor&quot; Risk in MongoDB, MariaDB, Redis, MySQL, PostgreSQL, and SQLite</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-30 17:00</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +219,6 @@
                 <span class="time">2026-03-30 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/" target="_blank">GitHub for Beginners: Getting started with GitHub security</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-03-30 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/star-trek-strange-new-worlds-captain-pike-1280x853.jpg" alt="Andy Weir Apologizes After ‘Star Trek’ Comment Backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/andy-weir-star-trek-backlash-apology-2000739821" target="_blank">Andy Weir Apologizes After ‘Star Trek’ Comment Backlash</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-30 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KMZTQW0RQA182AB631SQM28G/hero-image.png" alt="This Eufy Robot Vacuum and Mop Combo Is $300 Off During Amazon’s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/eufy-omni-c28-robot-vacuum-and-mop-amazon-big-spring-sale-2026?utm_medium=RSS" target="_blank">This Eufy Robot Vacuum and Mop Combo Is $300 Off During Amazon’s Big Spring Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-30 17:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KMZNG2EN3NKWSTSK6GKCD3MQ/hero-image.png" alt="These Are the Best Apple Deals During Amazon&#x27;s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/shooting-on-tape-in-2026-retro-tech?utm_medium=RSS" target="_blank">Embrace Filming on Analog Video in 2026</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-30 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/View-of-Mount-Vesuvius-from-Pompeii-credit-J.-Eber-courtesy-of-the-Ministero-della-Cultura-–-Parco-Acheologico-di-Pompei-1280x853.jpg" alt="Pompeii Study Confirms Roman ‘Wine’ Ritual Previously Known Only From Texts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/pompeii-study-confirms-roman-wine-ritual-previously-known-only-from-texts-2000739384" target="_blank">Pompeii Study Confirms Roman ‘Wine’ Ritual Previously Known Only From Texts</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-30 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KME936P2J3GKT4X4MR5Y166T/hero-image.png" alt="Amazon Big Spring Sale 2026 Live Blog: All the Best Deals From Apple, Kindle, Garmin, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/amazon-big-spring-sale-03-30-2026-live-blog?utm_medium=RSS" target="_blank">Amazon Big Spring Sale 2026 Live Blog: All the Best Deals From Apple, Kindle, Garmin, and More</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-30 14:09</span>
             </div>
         </div>
 </div>
@@ -340,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 17:16 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 18:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
