@@ -1,26 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-30 12:12:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-30 13:29:09 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 17 feeds processed -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, March 30, 2026 - 12:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, March 30, 2026 - 13:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/30/why-have-the-us-and-israel-bombed-more-than-75-iranian-police-facilities?traffic_source=rss" target="_blank">Why have the US and Israel bombed more than 75 Iranian police facilities?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-30 12:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Trump-AF1-DB-260330_1774849855351_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump threatens Iran infrastructure strikes if talks fail" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: Trump threatens Iran infrastructure strikes if talks fail</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-30 12:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0eb/live/3a0f3d60-2c27-11f1-934f-036468834728.jpg" alt="Scott Mills sacked from BBC Radio 2 over &#x27;personal conduct&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,30 +91,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/trump_site-e3xp72.jpg" alt="President Trump claims &#x27;regime change&#x27; has happened in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/environment/2026/mar/30/weather-tracker-thunderstorms-uae-united-arab-emirates-saudi-arabia" target="_blank">Weather tracker: Thunderstorms drench UAE and Saudi Arabia</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-30 09:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/30/trump-wants-to-invade-iran-to-seize-oil-calls-us-objectors-stupid?traffic_source=rss" target="_blank">Trump wants to invade Iran to seize oil, calls US objectors ‘stupid people’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-30 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Trump-AF1-DB-260330_1774849855351_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump touts &#x27;big day&#x27; in Iran with &#x27;many&#x27; strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: Trump touts &#x27;big day&#x27; in Iran with &#x27;many&#x27; strikes</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-30 06:34</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/president-trump-claims-regime-change-has-happened-in-iran-260349509610" target="_blank">President Trump claims &#x27;regime change&#x27; has happened in Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-30 09:51</span>
             </div>
         </div>
 </div>
@@ -95,6 +104,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/" target="_blank">AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-30 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69c6cf4311f836e20d54dee4/master/pass/Nest%20Doorbell%20Wired%203rd%20Gen%201%20SOURCE%20Julian%20Chokkattu.jpg" alt="5 Best Video Doorbell Cameras (2026): Smart, Battery, AI, Budget, and Subscription-Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,20 +158,29 @@
                 <span class="time">2026-03-29 21:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/" target="_blank">The Pixel 10a doesn’t have a camera bump, and it’s great</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-29 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rspamd-4.0-Released" target="_blank">Rspamd 4.0 Released For Open-Source Spam Filtering</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-30 13:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/cyber-security-log4shell/en/mediumimage/Soroosh-Khodami-medium-1774441157934.jpeg" alt="Presentation: Are We Ready for the Next Cyber Security Crisis Like Log4shell?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/cyber-security-log4shell/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Are We Ready for the Next Cyber Security Crisis Like Log4shell?</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-30 12:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,24 +217,6 @@
                 <span class="time">2026-03-30 10:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/how-to-harden-ubuntu-ssh-cloud" target="_blank">How to Harden Ubuntu SSH: From static keys to cloud identity</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-03-30 08:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/georgiaweston/blockchain-education-platforms-with-job-placement-4am5" target="_blank">Blockchain Education Platforms with Job Placement</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-30 07:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,6 +236,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/MS0330-spider-man-brand-new-day-1280x853.jpg" alt="The Sadie Sink ‘Spider-Man: Brand New Day’ Rumors Just Keep Swirling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/spider-man-brand-new-day-sadie-sink-jean-grey-rumors-mcu-2000739511" target="_blank">The Sadie Sink ‘Spider-Man: Brand New Day’ Rumors Just Keep Swirling</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-30 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KMZ565Q8XR6MNX566Q938DPE/hero-image.png" alt="This Philips Smart Lock Is 35% Off for Amazon&#x27;s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/philips-wifi-smart-lock-amazon-spring-sale-2026?utm_medium=RSS" target="_blank">This Philips Smart Lock Is 35% Off for Amazon&#x27;s Big Spring Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-30 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Image-from-_3Ca-href_3D_22https-www.biorxiv.org-cont.jpg?fit=1080%2C583&amp;quality=60&amp;ssl=1" alt="Scientists map clitoris nerve network in unprecedented detail" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/30/scientists-map-clitoris-nerve-network-in-unprecedented-detail.html" target="_blank">Scientists map clitoris nerve network in unprecedented detail</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-30 12:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/poissons.webp?fit=1000%2C666&amp;quality=55&amp;ssl=1" alt="Renoir, Cézanne, and Matisse masterpieces stolen in 3-minute heist" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -252,33 +288,6 @@
                 <span class="title"><a href="https://gizmodo.com/no-more-cheese-grater-the-mac-pro-is-discontinued-2000739518" target="_blank">No More Cheese Grater: The Mac Pro Is Discontinued</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-30 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/Dimension-20-City-Council-of-Darkness.jpg" alt="Dimension 20 Is Finally Doing A Vampire: The Masquerade Campaign And I Am So Stoked" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dimension-20-vampire-the-masquerade-2000682984" target="_blank">Dimension 20 Is Finally Doing A Vampire: The Masquerade Campaign And I Am So Stoked</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-30 01:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/A-No-Kings-march-in-Springfield_2C-Illinois_2C-on-Sa.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="8 million attend No Kings protests across U.S." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/29/8-million-attend-no-kings-protests-across-u-s.html" target="_blank">8 million attend No Kings protests across U.S.</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-30 00:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/Elder-Scrolls-Blades-2-1280x720.jpg" alt="The Elder Scrolls Game You Probably Forgot Even Existed Won’t Be Around Much Longer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/elder-scrolls-blades-mobile-game-shut-down-offline-2000682971" target="_blank">The Elder Scrolls Game You Probably Forgot Even Existed Won’t Be Around Much Longer</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-29 22:45</span>
             </div>
         </div>
 </div>
@@ -318,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 12:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 13:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
