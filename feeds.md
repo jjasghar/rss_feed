@@ -1,28 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-29 23:06:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-30 00:11:33 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 2 new posts out of 20 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, March 29, 2026 - 23:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, March 30, 2026 - 00:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/3/30/iran-war-live-worker-killed-in-kuwait-israel-intercepts-drones-from-yemen?traffic_source=rss" target="_blank">Iran war live: Worker killed in Kuwait; Israel intercepts drones from Yemen</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-30 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,15 +102,6 @@
                 <span class="time">2026-03-29 16:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/marines-diego-garcia-20260329-gty-jh_1774791342418_hpMain_4x3t_384.jpg" alt="Scalise on troops in Iran: &#x27;A lot of conversations about what could happen next&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/scalise-lot-conversations-possibility-boots-ground-iran/story?id=131518061" target="_blank">Scalise on troops in Iran: &#x27;A lot of conversations about what could happen next&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-29 14:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -104,6 +114,15 @@
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds" target="_blank">Bluesky’s new app is an AI for customizing your feed</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-29 21:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/" target="_blank">The Pixel 10a doesn’t have a camera bump, and it’s great</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-29 21:30</span>
             </div>
         </div>
 <div class="story">
@@ -142,20 +161,20 @@
                 <span class="time">2026-03-29 16:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/29/sxsw-rebounds-as-a-top-networking-ideas-festival-for-founders-and-vcs/" target="_blank">SXSW rebounds as a top networking, ideas festival for founders and VCs</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-29 14:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc6-Released" target="_blank">Linux 7.0-rc6 Released With The Fixes Still Coming In Heavy</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-29 23:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -168,10 +187,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/anthropics/claude-code/issues/40710" target="_blank">Claude Code runs Git reset –hard origin/main against project repo every 10 mins</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-29 22:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/_boweii/trace-ai-i-pointed-a-camera-at-a-whiteboard-notion-built-the-entire-system-design-doc-37m6" target="_blank">Trace AI: I Pointed a Camera at a Whiteboard. Notion Built the Entire System Design Doc.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-29 21:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/fosdem-webtransport-vs-websocket/en/headerimage/generatedHeaderImage-1774814306449.jpg" alt="FOSDEM 2026: Intro to WebTransport - the Next WebSocket?!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/fosdem-webtransport-vs-websocket/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">FOSDEM 2026: Intro to WebTransport - the Next WebSocket?!</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-29 20:53</span>
             </div>
         </div>
 <div class="story">
@@ -183,38 +220,20 @@
                 <span class="time">2026-03-29 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/actinode/multi-tenant-saas-architecture-what-nobody-tells-you-before-you-build-a4h" target="_blank">Multi-Tenant SaaS Architecture: What Nobody Tells You Before You Build</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-29 19:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/kubescape-40/en/headerimage/generatedHeaderImage-1774800906082.jpg" alt="Kubescape 4.0 Brings Runtime Security and AI Agent Scanning to Kubernetes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/kubescape-40/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Kubescape 4.0 Brings Runtime Security and AI Agent Scanning to Kubernetes</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-29 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2019/08/gpd-micropc.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu MATE’s founder is stepping back after 12 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/ubuntu-mate-needs-new-maintainer" target="_blank">Ubuntu MATE’s founder is stepping back after 12 years</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-29 18:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/Elder-Scrolls-Blades-2-1280x720.jpg" alt="The Elder Scrolls Game You Probably Forgot Even Existed Won’t Be Around Much Longer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/elder-scrolls-blades-mobile-game-shut-down-offline-2000682971" target="_blank">The Elder Scrolls Game You Probably Forgot Even Existed Won’t Be Around Much Longer</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-29 22:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/lgr-1280x720.jpg" alt="YouTuber Constructs Dedicated Warehouse To Preserve PC Gaming’s Coolest Oddities" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,15 +279,6 @@
                 <span class="time">2026-03-29 19:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Image-Lupine-Instruments.jpg?fit=1080%2C669&amp;quality=60&amp;ssl=1" alt="Drum machine actually plays the drums" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/29/drum-machine-actually-plays-th-drums.html" target="_blank">Drum machine actually plays the drums</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-29 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -288,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 23:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 00:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
