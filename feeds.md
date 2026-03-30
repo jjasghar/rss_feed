@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-30 13:29:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-30 14:28:43 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, March 30, 2026 - 13:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, March 30, 2026 - 14:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +103,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/01/GettyImages-526100006-scaled-500x500-1774877262.jpg" alt="Trump convenes &quot;God Squad&quot; to override Endangered Species Act, up oil production" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/trump-convenes-god-squad-to-override-endangered-species-act-up-oil-production/" target="_blank">Trump convenes &quot;God Squad&quot; to override Endangered Species Act, up oil production</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-30 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/903282/xbox-games-showcase-2026-sgf-date" target="_blank">Xbox’s next big games showcase happens on June 7th</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-30 13:18</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -140,29 +156,20 @@
                 <span class="time">2026-03-30 03:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit" target="_blank">All the latest in AI &amp;#8216;music&amp;#8217;</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-30 01:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds" target="_blank">Bluesky’s new app is an AI for customizing your feed</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-29 21:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/iisalazar/i-missed-the-fun-part-in-software-development-3n59" target="_blank">I missed the &quot;fun&quot; part in software development</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-30 14:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +215,6 @@
                 <span class="time">2026-03-30 10:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-vIOMMU-2026-Linux" target="_blank">AMD Revives Linux Kernel Patches For Hardware-Accelerated vIOMMU</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-30 10:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/View-of-Mount-Vesuvius-from-Pompeii-credit-J.-Eber-courtesy-of-the-Ministero-della-Cultura-–-Parco-Acheologico-di-Pompei-1280x853.jpg" alt="Pompeii Study Confirms Roman ‘Wine’ Ritual Previously Known Only From Texts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/pompeii-study-confirms-roman-wine-ritual-previously-known-only-from-texts-2000739384" target="_blank">Pompeii Study Confirms Roman ‘Wine’ Ritual Previously Known Only From Texts</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-30 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KME936P2J3GKT4X4MR5Y166T/hero-image.png" alt="Amazon Big Spring Sale 2026 Live Blog: All the Best Deals From Apple, Kindle, Garmin, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/amazon-big-spring-sale-03-30-2026-live-blog?utm_medium=RSS" target="_blank">Amazon Big Spring Sale 2026 Live Blog: All the Best Deals From Apple, Kindle, Garmin, and More</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-30 14:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/MS0330-spider-man-brand-new-day-1280x853.jpg" alt="The Sadie Sink ‘Spider-Man: Brand New Day’ Rumors Just Keep Swirling" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +286,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/30/renoir-cezanne-and-matisse-masterpieces-stolen-in-3-minute-heist.html" target="_blank">Renoir, Cézanne, and Matisse masterpieces stolen in 3-minute heist</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-30 11:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Project-Hail-Mary-Ryan-Gosling-1280x853.jpg" alt="The ‘Project Hail Mary’ Party Continues With a Manga Adaptation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-project-hail-mary-party-continues-with-a-manga-adaptation-2000739505" target="_blank">The ‘Project Hail Mary’ Party Continues With a Manga Adaptation</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-30 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/mac-pro-1280x853.jpg" alt="No More Cheese Grater: The Mac Pro Is Discontinued" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/no-more-cheese-grater-the-mac-pro-is-discontinued-2000739518" target="_blank">No More Cheese Grater: The Mac Pro Is Discontinued</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-30 09:00</span>
             </div>
         </div>
 </div>
@@ -327,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 13:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 14:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
