@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-30 08:27:16 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-30 09:26:43 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, March 30, 2026 - 08:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, March 30, 2026 - 09:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/30/trump-wants-to-invade-iran-to-seize-oil-calls-us-objectors-stupid?traffic_source=rss" target="_blank">Trump wants to invade Iran to seize oil, calls US objectors ‘stupid people’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-30 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Trump-AF1-DB-260330_1774849855351_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump touts &#x27;big day&#x27; in Iran with &#x27;many&#x27; strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,20 +97,20 @@
                 <span class="time">2026-03-30 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260329-donald-trump-ww-1935-925756.jpg" alt="Trump says he wants Iran&#x27;s oil and could seize Kharg Island" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-says-preference-take-oil-iran-rcna265747" target="_blank">Trump says he wants Iran&#x27;s oil and could seize Kharg Island</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-30 03:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/" target="_blank">Why OpenAI really shut down Sora</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-30 03:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,15 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/entertainment/903174/red-rooms-movie-review-serial-killer-dark-web" target="_blank">Red Rooms makes online poker as thrilling as its serial killer</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-29 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals" target="_blank">The best deals we’ve found from Amazon’s Big Spring Sale (so far)</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-29 16:30</span>
             </div>
         </div>
 </div>
@@ -218,6 +221,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/mac-pro-1280x853.jpg" alt="No More Cheese Grater: The Mac Pro Is Discontinued" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/no-more-cheese-grater-the-mac-pro-is-discontinued-2000739518" target="_blank">No More Cheese Grater: The Mac Pro Is Discontinued</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-30 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/Dimension-20-City-Council-of-Darkness.jpg" alt="Dimension 20 Is Finally Doing A Vampire: The Masquerade Campaign And I Am So Stoked" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -262,15 +274,6 @@
                 <span class="time">2026-03-29 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/Resident-Evil-Code-Veronica-1280x720.jpg" alt="Players Keep Finding Veronica Easter Eggs In Resident Evil Requiem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/resident-evil-code-veronica-remake-rumors-requiem-easter-eggs-2000682952" target="_blank">Players Keep Finding Veronica Easter Eggs In Resident Evil Requiem</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-29 20:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 08:27 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 09:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
