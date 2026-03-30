@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-03-30 15:24:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-30 16:17:55 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, March 30, 2026 - 15:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, March 30, 2026 - 16:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/30/egypts-president-urges-trump-to-stop-war-on-iran?traffic_source=rss" target="_blank">Egypt’s president urges Trump to stop war on Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-30 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/football/2026/mar/30/congo-brazzaville-jean-guy-blaise-mayolas-fifa-interpol-arrest-warrant" target="_blank">Interpol arrest warrant requested in Congo-Brazzaville for Jean-Guy Blaise Mayolas</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-30 15:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +105,29 @@
                 <span class="time">2026-03-30 12:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0eb/live/3a0f3d60-2c27-11f1-934f-036468834728.jpg" alt="Scott Mills sacked from BBC Radio 2 over &#x27;personal conduct&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckge1yn50y8o?at_medium=RSS&at_campaign=rss" target="_blank">Scott Mills sacked from BBC Radio 2 over &#x27;personal conduct&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-30 12:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/30/nx-s1-5765967/trump-iran-israel-lebanon-kharg-island-oil" target="_blank">Trump weighing all options on Iran&#x27;s Kharg island</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-30 10:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/903280/papure-project-fraunhofer-institute-laser-paper-packaging-recycling" target="_blank">A new manufacturing process uses lasers to seal paper packaging instead of glue</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-30 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/30/apple-will-hide-your-email-address-from-apps-and-websites-but-not-cops/" target="_blank">Apple will hide your email address from apps and websites, but not cops</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-30 15:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +164,38 @@
                 <span class="time">2026-03-30 13:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/" target="_blank">AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-30 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c6cf4311f836e20d54dee4/master/pass/Nest%20Doorbell%20Wired%203rd%20Gen%201%20SOURCE%20Julian%20Chokkattu.jpg" alt="5 Best Video Doorbell Cameras (2026): Smart, Battery, AI, Budget, and Subscription-Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-video-doorbells/" target="_blank">5 Best Video Doorbell Cameras (2026): Smart, Battery, AI, Budget, and Subscription-Free</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-30 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2510-2604-zen5" target="_blank">Ubuntu 26.04 Showing Nice Gains Over Ubuntu 25.10 On AMD Ryzen 9000 Series</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-30 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18922699&w=600" alt="A Developer’s Guide to Integrating Embedded Analytics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/developers-guide-embedded-analytics" target="_blank">A Developer’s Guide to Integrating Embedded Analytics</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-30 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/" target="_blank">GitHub for Beginners: Getting started with GitHub security</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-03-30 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,33 +223,6 @@
                 <span class="time">2026-03-30 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17309586/ubuntu-26-04-minimum-ram-requirement" target="_blank">Ubuntu 26.04 LTS Requires More RAM Than Windows 11?</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-30 14:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/iisalazar/i-missed-the-fun-part-in-software-development-3n59" target="_blank">I missed the &quot;fun&quot; part in software development</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-30 14:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rspamd-4.0-Released" target="_blank">Rspamd 4.0 Released For Open-Source Spam Filtering</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-30 13:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/rokid-ai-glasses-style-review-4-1280x853.jpg" alt="Students Are Now Renting Smart Glasses to Cheat on Exams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/smart-glasses-cheating-exams-2000739723" target="_blank">Students Are Now Renting Smart Glasses to Cheat on Exams</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-30 15:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Babbel-Language-Learning-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Skip the AI tutors and learn a language from real experts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/30/skip-the-ai-tutors-and-learn-a-language-from-real-experts.html" target="_blank">Skip the AI tutors and learn a language from real experts</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-30 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KMQKH76Z0FH4B8B78MSHWSWX/hero-image.jpg" alt="Embrace Filming on Analog Video in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +294,6 @@
                 <span class="title"><a href="https://gizmodo.com/spider-man-brand-new-day-sadie-sink-jean-grey-rumors-mcu-2000739511" target="_blank">The Sadie Sink ‘Spider-Man: Brand New Day’ Rumors Just Keep Swirling</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-30 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMZ565Q8XR6MNX566Q938DPE/hero-image.png" alt="This Philips Smart Lock Is 35% Off for Amazon&#x27;s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/philips-wifi-smart-lock-amazon-spring-sale-2026?utm_medium=RSS" target="_blank">This Philips Smart Lock Is 35% Off for Amazon&#x27;s Big Spring Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-30 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Image-from-_3Ca-href_3D_22https-www.biorxiv.org-cont.jpg?fit=1080%2C583&amp;quality=60&amp;ssl=1" alt="Scientists map clitoris nerve network in unprecedented detail" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/30/scientists-map-clitoris-nerve-network-in-unprecedented-detail.html" target="_blank">Scientists map clitoris nerve network in unprecedented detail</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-30 12:18</span>
             </div>
         </div>
 </div>
@@ -325,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 15:24 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 16:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
