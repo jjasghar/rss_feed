@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-30 09:26:43 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-03-30 10:25:56 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, March 30, 2026 - 09:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, March 30, 2026 - 10:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/30/nx-s1-5765967/trump-iran-israel-lebanon-kharg-island-oil" target="_blank">Trump weighing all options on Iran&#x27;s Kharg island</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-30 10:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/3/30/land-day-in-gaza-between-memory-and-the-fight-for-what-remains?traffic_source=rss" target="_blank">Land Day in Gaza: Between memory and the fight for what remains</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-30 10:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +101,20 @@
                 <span class="time">2026-03-30 05:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/560e/live/cffe1710-2ba5-11f1-934f-036468834728.jpg" alt="&#x27;I dread the phone ringing&#x27;: Inside the kennels responding to vicious XL bully attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cewzw812dd1o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I dread the phone ringing&#x27;: Inside the kennels responding to vicious XL bully attacks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-30 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/mar/30/urgent-action-needed-to-prevent-surge-in-digital-violence-in-africa-experts-say" target="_blank">Urgent action needed to prevent surge in digital violence in Africa, experts say</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-03-30 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69c342b9ea56e672b4eef391/master/pass/240203_KOH2024_Reamer.016.jpg" alt="‘Guns, Beer, Titties, Freedom’: Inside the World’s Toughest Off-Road Race" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/night-of-the-hammers-off-road-race-ultra4/" target="_blank">‘Guns, Beer, Titties, Freedom’: Inside the World’s Toughest Off-Road Race</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-30 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +160,29 @@
                 <span class="time">2026-03-29 19:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/903174/red-rooms-movie-review-serial-killer-dark-web" target="_blank">Red Rooms makes online poker as thrilling as its serial killer</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-29 19:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-vIOMMU-2026-Linux" target="_blank">AMD Revives Linux Kernel Patches For Hardware-Accelerated vIOMMU</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-30 10:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/how-to-harden-ubuntu-ssh-cloud" target="_blank">How to Harden Ubuntu SSH: From static keys to cloud identity</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-03-30 08:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +217,6 @@
                 <span class="title"><a href="https://www.datagubbe.se/aipixels/" target="_blank">The curious case of retro demo scene graphics</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-30 05:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/7f7867893e654b/how-i-built-an-open-source-llm-security-library-in-python-and-what-i-learned-about-prompt-49hb" target="_blank">How I Built an Open-Source LLM Security Library in Python (and What I Learned About Prompt Injection)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-30 04:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/" target="_blank">Copilot Edited an Ad into My PR</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-30 04:04</span>
             </div>
         </div>
 </div>
@@ -311,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 09:26 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 10:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
