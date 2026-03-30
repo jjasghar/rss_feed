@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-30 21:12:27 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-30 22:08:44 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, March 30, 2026 - 21:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, March 30, 2026 - 22:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/30/dangerous-escalation-world-reacts-to-israel-passing-death-penalty-law?traffic_source=rss" target="_blank">‘Dangerous escalation’: World reacts to Israel passing death penalty law</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-30 21:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +100,20 @@
                 <span class="time">2026-03-30 19:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09ba/live/d4f128a0-29e5-11f1-81d4-f1e3c77fafb4.jpg" alt="Millions of drivers mis-sold car finance to receive average £829 in compensation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss" target="_blank">Millions of drivers mis-sold car finance to receive average £829 in compensation</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-30 18:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/" target="_blank">Former Coatue partner raises huge $65M seed for enterprise AI agent startup</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-30 21:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/judges-gavel-500x500.jpg" alt="Judge halts Nexstar/Tegna merger after FCC let firms exceed TV ownership limit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +159,20 @@
                 <span class="time">2026-03-30 17:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/903373/beats-powerbeats-fit-pro-2-earbuds-amazon-big-spring-sale-2026-deal" target="_blank">Beats’ gym-friendly Powerbeats Fit are $30 off for Amazon’s Big Spring Sale</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-30 17:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-WSL-ROCm-ROCDXG" target="_blank">AMD Improves GPU Support Under WSL With Production Open-Source ROCDXG</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-30 21:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +218,6 @@
                 <span class="time">2026-03-30 18:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-AIE4-NPU-AMDXDNA" target="_blank">AMD Sends Out Linux Patches For Their Next-Gen AIE4 NPU</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-30 17:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KN05JMB2QBGRGRGP67912M8S/hero-image.png" alt="What to Buy During Amazon&#x27;s Big Spring Sale If You&#x27;ve Always Wanted to Start Podcasting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/podcasting-audio-equipment-amazon-big-spring-sale-2026?utm_medium=RSS" target="_blank">What to Buy During Amazon&#x27;s Big Spring Sale If You&#x27;ve Always Wanted to Start Podcasting</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-30 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/gtaivleak-1280x720.jpg" alt="The Story Behind A Massive GTA 4 Leak 18 Years After Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +289,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/heated-rivalry-streamalikes-books-movies-video-games-and-podcasts?utm_medium=RSS" target="_blank">The Best Books, Movies, Video Games, and Podcasts to Check Out After Watching &#x27;Heated Rivalry&#x27;</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-30 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/star-trek-strange-new-worlds-captain-pike-1280x853.jpg" alt="Andy Weir Apologizes After ‘Star Trek’ Comment Backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/andy-weir-star-trek-backlash-apology-2000739821" target="_blank">Andy Weir Apologizes After ‘Star Trek’ Comment Backlash</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-30 18:00</span>
             </div>
         </div>
 </div>
@@ -344,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 21:12 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 22:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
