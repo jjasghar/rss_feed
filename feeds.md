@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-30 06:30:49 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-30 07:29:03 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, March 30, 2026 - 06:31 UTC</div>
+    <div class="newspaper-date">Monday, March 30, 2026 - 07:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Trump-AF1-DB-260330_1774849855351_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump touts &#x27;big day&#x27; in Iran with &#x27;many&#x27; strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: Trump touts &#x27;big day&#x27; in Iran with &#x27;many&#x27; strikes</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-30 06:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -62,6 +75,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/560e/live/cffe1710-2ba5-11f1-934f-036468834728.jpg" alt="&#x27;I dread the phone ringing&#x27;: Inside the kennels responding to vicious XL bully attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cewzw812dd1o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I dread the phone ringing&#x27;: Inside the kennels responding to vicious XL bully attacks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-30 05:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
@@ -77,24 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-says-preference-take-oil-iran-rcna265747" target="_blank">Trump says he wants Iran&#x27;s oil and could seize Kharg Island</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-03-30 03:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/30/iaea-says-irans-khondab-heavy-water-reactor-no-longer-operational?traffic_source=rss" target="_blank">IAEA says Iran’s Khondab heavy water reactor no longer operational</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-30 02:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/30/netanyahu-orders-deeper-israeli-invasion-into-lebanon?traffic_source=rss" target="_blank">Netanyahu orders deeper Israeli invasion into Lebanon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-30 01:09</span>
             </div>
         </div>
 </div>
@@ -165,6 +169,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/georgiaweston/blockchain-education-platforms-with-job-placement-4am5" target="_blank">Blockchain Education Platforms with Job Placement</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-30 07:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17309280/systemd-sysext" target="_blank">How I Add Tools to My Immutable Linux Without Rebooting</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-30 06:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/julianaalbertyn/my-first-python-project-excel-to-sql-pipeline-feedback-welcome-2pma" target="_blank">My first Python project: Excel to SQL pipeline (feedback welcome)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-30 06:20</span>
@@ -195,24 +217,6 @@
                 <span class="title"><a href="https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/" target="_blank">Copilot Edited an Ad into My PR</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-30 04:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/java-news-roundup-mar23-2026/en/headerimage/java-istock-image-01-1774815893047.jpg" alt="Java News Roundup: GraalVM Build Tools, EclipseLink, Spring Milestones, Open Liberty, Quarkus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/java-news-roundup-mar23-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: GraalVM Build Tools, EclipseLink, Spring Milestones, Open Liberty, Quarkus</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-30 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/" target="_blank">New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-30 01:43</span>
             </div>
         </div>
 </div>
@@ -280,6 +284,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/03/30/awreatha-franklin" target="_blank">Awreatha Franklin</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-03-30 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5796.png" alt="Mind The Gap" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -302,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 06:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 07:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
