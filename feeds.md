@@ -1,37 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-03-30 10:25:56 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-03-30 11:20:07 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, March 30, 2026 - 10:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, March 30, 2026 - 11:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -68,6 +61,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/environment/2026/mar/30/weather-tracker-thunderstorms-uae-united-arab-emirates-saudi-arabia" target="_blank">Weather tracker: Thunderstorms drench UAE and Saudi Arabia</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-03-30 09:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/30/trump-wants-to-invade-iran-to-seize-oil-calls-us-objectors-stupid?traffic_source=rss" target="_blank">Trump wants to invade Iran to seize oil, calls US objectors ‘stupid people’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -90,15 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/3/30/by-the-50th-anniversary-of-land-day-palestinians-lose-most-of-their-land?traffic_source=rss" target="_blank">By the 50th anniversary of Land Day, Palestinians lose most of their land</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-30 05:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/30/g-s1-115707/central-haitian-town-gang-warfare" target="_blank">Central Haitian town descends into fire and bloodshed from gang warfare</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-30 05:26</span>
             </div>
         </div>
 </div>
@@ -166,6 +159,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzhnpj9txfg7fmi1omj9.png" alt="Building a RAG Pipeline with Claude API and Supabase" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ozfarooq/building-a-rag-pipeline-with-claude-api-and-supabase-1jg9" target="_blank">Building a RAG Pipeline with Claude API and Supabase</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-30 11:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Linux-7.1-Panel-Replay" target="_blank">Intel Graphics Driver For Linux 7.1 Preps Workaround For Dell XPS Panther Lake Laptop</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-30 10:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -201,29 +212,20 @@
                 <span class="time">2026-03-30 06:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/julianaalbertyn/my-first-python-project-excel-to-sql-pipeline-feedback-welcome-2pma" target="_blank">My first Python project: Excel to SQL pipeline (feedback welcome)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-30 06:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.datagubbe.se/aipixels/" target="_blank">The curious case of retro demo scene graphics</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-30 05:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Project-Hail-Mary-Ryan-Gosling-1280x853.jpg" alt="The ‘Project Hail Mary’ Party Continues With a Manga Adaptation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-project-hail-mary-party-continues-with-a-manga-adaptation-2000739505" target="_blank">The ‘Project Hail Mary’ Party Continues With a Manga Adaptation</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-30 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/mac-pro-1280x853.jpg" alt="No More Cheese Grater: The Mac Pro Is Discontinued" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +271,6 @@
                 <span class="time">2026-03-29 21:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Cleaner-Kit-for-iOS-Premium-Plan.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Bring spring cleaning into the digital space with this iOS Cleaner Kit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/29/bring-spring-cleaning-into-the-digital-space-with-this-ios-cleaner-kit.html" target="_blank">Bring spring cleaning into the digital space with this iOS Cleaner Kit</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-29 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,7 +309,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 10:26 UTC
+        🔄 Last Updated: 11:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
