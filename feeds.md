@@ -1,36 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-03-30 22:08:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-30 23:08:21 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, March 30, 2026 - 22:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, March 30, 2026 - 23:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,6 +175,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/introducing-red-hat-universal-base-image" target="_blank">Introducing the Red Hat Universal Base Image</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-03-31 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Archinstall-4.0-Released" target="_blank">Archinstall 4.0 Released For Improved Arch Linux Installer Using Textual UI</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-30 22:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://30u30.fyi" target="_blank">Show HN: 30u30.fyi – Is your startup founder on Forbes&#x27; most fraudulent list?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-30 22:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-WSL-ROCm-ROCDXG" target="_blank">AMD Improves GPU Support Under WSL With Production Open-Source ROCDXG</a></span>
                 <span class="feed">Phoronix</span>
@@ -191,33 +226,6 @@
                 <span class="time">2026-03-30 20:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3dgsk4u72bb6adlrfj24.gif" alt="Step 1: Setup Frontend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nabillatrisnani/step-1-setup-frontend-4i57" target="_blank">Step 1: Setup Frontend</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-30 19:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18922232&w=600" alt="Scaling Kafka Consumers: Proxy vs. Client Library for High-Throughput Architectures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/scaling-kafka-consumers-proxy-vs-client-library" target="_blank">Scaling Kafka Consumers: Proxy vs. Client Library for High-Throughput Architectures</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-30 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/" target="_blank">Fedware: Government apps that spy harder than the apps they ban</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-30 18:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +246,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/dji-osmo-360-review-08-1280x853.jpg" alt="DJI Osmo 360 Review: The Best 360 Camera for the DJI-Pilled" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dji-osmo-360-review-the-best-360-camera-for-the-dji-pilled-2000739210" target="_blank">DJI Osmo 360 Review: The Best 360 Camera for the DJI-Pilled</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-30 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJ6Y2H5W1RQSP23PW623E5MR/hero-image.png" alt="This Keychron K8 QMK Keyboard With Hot-Swappable Switches Is on Sale for Under $85 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/keychron-k8-qmk-keyboard-stacksocial-sale-march-2026?utm_medium=RSS" target="_blank">This Keychron K8 QMK Keyboard With Hot-Swappable Switches Is on Sale for Under $85 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-30 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2022/04/961a6e272058edefda2feafd0e2bd8bd-1280x681.jpg" alt="OpenAI’s Video Plagiarism App Sora Was Reportedly Losing $1 Million A Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/openais-video-plagiarism-app-sora-was-reportedly-losing-1-million-a-day-2000683277" target="_blank">OpenAI’s Video Plagiarism App Sora Was Reportedly Losing $1 Million A Day</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-30 21:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KN05JMB2QBGRGRGP67912M8S/hero-image.png" alt="What to Buy During Amazon&#x27;s Big Spring Sale If You&#x27;ve Always Wanted to Start Podcasting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -247,48 +282,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Plantum-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This $15 app identifies your plants and tells you what you&#x27;re doing wrong" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/30/this-15-app-identifies-your-plants-and-tells-you-what-youre-doing-wrong.html" target="_blank">This $15 app identifies your plants and tells you what you&#x27;re doing wrong</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-30 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/gtaivleak-1280x720.jpg" alt="The Story Behind A Massive GTA 4 Leak 18 Years After Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/the-story-behind-a-massive-gta-4-leak-18-years-after-launch-2000683244" target="_blank">The Story Behind A Massive GTA 4 Leak 18 Years After Launch</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-03-30 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/seoul-restroom.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Why American public spaces are unbearable" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/30/why-american-public-spaces-are-unbearable.html" target="_blank">Why American public spaces are unbearable</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-30 19:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/01/30ebda4cc4a81c4216b374fe057a5971-1280x720.jpg" alt="Deus Ex Studio Head Leaves After 19 Years As 124 People Lose Their Jobs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/eidos-montreal-deus-ex-sequel-layoffs-2000683242" target="_blank">Deus Ex Studio Head Leaves After 19 Years As 124 People Lose Their Jobs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-30 19:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Scream-7-Ghostface-jump-1280x853.jpg" alt="‘Scream 7’ Comes Home With Deleted Scenes We Hope Will Improve the Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/scream-7-comes-home-with-deleted-scenes-we-hope-will-improve-the-movie-2000739858" target="_blank">‘Scream 7’ Comes Home With Deleted Scenes We Hope Will Improve the Movie</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-30 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMZTN78KCPRM6Y867GXECV8X/hero-image.jpg" alt="The Best Books, Movies, Video Games, and Podcasts to Check Out After Watching &#x27;Heated Rivalry&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/heated-rivalry-streamalikes-books-movies-video-games-and-podcasts?utm_medium=RSS" target="_blank">The Best Books, Movies, Video Games, and Podcasts to Check Out After Watching &#x27;Heated Rivalry&#x27;</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-30 19:00</span>
             </div>
         </div>
 </div>
@@ -333,6 +341,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/home_solar.png" alt="Home Solar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3226/" target="_blank">Home Solar</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-03-30 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5796.png" alt="Mind The Gap" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -346,8 +363,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 22:08 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 23:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
