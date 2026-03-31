@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-31 10:18:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-31 11:15:54 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, March 31, 2026 - 10:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, March 31, 2026 - 11:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Israel-fire-DB-260331_1774944890701_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel and Gulf states report new Iranian strikes, tanker hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: Israel and Gulf states report new Iranian strikes, tanker hit</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-31 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c129/live/18c95360-2ceb-11f1-bdf5-ddbf94ae98c3.jpg" alt="China bans storing cremated remains in empty &#x27;bone ash apartments&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm25ynex2zxo?at_medium=RSS&at_campaign=rss" target="_blank">China bans storing cremated remains in empty &#x27;bone ash apartments&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-31 10:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/31/nx-s1-5766991/iran-war-lebanon-israel-dubai" target="_blank">Iran hits oil tanker off Dubai as fighting continues on all fronts</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-31 10:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ecf/live/46e88b10-2cd4-11f1-a79a-77e93010d956.jpg" alt="Police say teenage boy at centre of Scott Mills sexual offences investigation was under 16" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,38 +103,20 @@
                 <span class="time">2026-03-31 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/31/palestine-weekly-wrap-holy-sites-remain-closed-as-deadly-violence-spreads?traffic_source=rss" target="_blank">Palestine weekly wrap: Holy sites remain closed as deadly violence spreads</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-31 08:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Israel-fire-DB-260331_1774944890701_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel, Gulf states report new Iranian strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: Israel, Gulf states report new Iranian strikes</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-31 08:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/ISFAHAN-t3z5d9.jpg" alt="Video shows fire and explosions in Isfahan, Iran, as the conflict continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/video-shows-fire-and-explosions-in-isfahan-iran-as-the-conflict-continues-260421701843" target="_blank">Video shows fire and explosions in Isfahan, Iran, as the conflict continues</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-31 08:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/901418/apple-history-photos" target="_blank">Apple at 50: a visual history</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-31 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69c5c6fcd03999521bd70374/master/pass/Deicer_03.7.jpg" alt="Opposing ICE Might Save the Country. It Could Also Ruin Your Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,20 +162,29 @@
                 <span class="time">2026-03-31 07:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" alt="T-Mobile Business Promo Codes and Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/t-mobile-business-promo-code/" target="_blank">T-Mobile Business Promo Codes and Deals</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-31 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbuxp8q2wudlv789acuu5.png" alt="We Do Not Create from Nowhere" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hidden_developer_5c94d579/we-do-not-create-from-nowhere-4a2e" target="_blank">We Do Not Create from Nowhere</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-31 11:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.04-ROCm-State" target="_blank">The Integrated ROCm Story For Ubuntu 26.04 Still Playing Out</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-31 10:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -166,6 +192,15 @@
                 <span class="title"><a href="https://dev.to/leorasgg/i-spent-3-hours-writing-no-code-and-it-may-have-saved-weeks-on-my-erp-project-2mnk" target="_blank">I spent 3 hours writing no code — and it may have saved weeks on my ERP project</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-31 09:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/event-driven-banking-architecture/en/headerimage/event-driven-banking-architecture-header-1774430827143.jpg" alt="Article: Event-Driven Patterns for Cloud-Native Banking: Lessons from What Works and What Hurts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/event-driven-banking-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Event-Driven Patterns for Cloud-Native Banking: Lessons from What Works and What Hurts</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-31 09:00</span>
             </div>
         </div>
 <div class="story">
@@ -184,47 +219,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/03/kubevirt-18-announcement/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">KubeVirt v1.8 Brings Multi-Hypervisor Support and Confidential Computing to Kubernetes</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-03-31 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17310064/ubuntu-mate-leadership-crisis" target="_blank">&amp;quot;I No Longer Have the Passion&amp;quot; Ubuntu MATE Creator Wants to Hand Over Project</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-31 06:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F800%2F1%2AfL9CshnkldS3Vj9uWxvMsQ.png" alt="How to Tweak Linux Kernel Settings for Maximum Throughput on 10G Links" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/speed_engineer/how-to-tweak-linux-kernel-settings-for-maximum-throughput-on-10g-links-45ph" target="_blank">How to Tweak Linux Kernel Settings for Maximum Throughput on 10G Links</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-31 05:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/burnsideproject/know-your-postgresql-health-before-it-breaks-ai-powered-postgresql-observability-36he" target="_blank">AI-powered PostgreSQL observability</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-31 03:43</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/apples-camera-indicator-lights.html" target="_blank">Apple’s Camera Indicator Lights</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-03-30 11:08</span>
             </div>
         </div>
 </div>
@@ -323,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 10:18 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 147 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 11:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
