@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-31 22:08:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-31 23:06:46 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, March 31, 2026 - 22:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, March 31, 2026 - 23:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/31/eu-warns-oil-and-gas-prices-wont-quickly-return-to-normal-after-iran-war?traffic_source=rss" target="_blank">EU warns oil and gas prices won’t quickly return to normal after Iran war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-31 22:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3518/live/07c5a0c0-2d4d-11f1-934f-036468834728.png" alt="Man charged after seven people hit by car in Derby" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,20 +104,29 @@
                 <span class="time">2026-03-31 20:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8451/live/1c2858e0-2d17-11f1-ba67-f7b8dbc6a466.jpg" alt="More UK troops to be sent to Middle East, defence secretary announces" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c7vq76g45rvo?at_medium=RSS&at_campaign=rss" target="_blank">More UK troops to be sent to Middle East, defence secretary announces</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-31 20:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/904242/amazon-big-spring-sale-2026-baseus-anker-chargers-power-banks-batteries-deals" target="_blank">Amazon is offering up to 50 percent off chargers from Anker and others for its Big Spring Sale</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-31 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/" target="_blank">Salesforce announces an AI-heavy makeover for Slack, with 30 new features</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-31 22:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,24 +161,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/904579/samsung-hearapy-mobile-app-galaxy-buds-motion-sickness-symptoms" target="_blank">Samsung’s new app claims to alleviate motion sickness using sound</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-03-31 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/904033/the-super-mario-galaxy-movie-review" target="_blank">The Super Mario Galaxy Movie is beautiful but a little too busy</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-31 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/31/go-play-this-secret-game-in-your-tiktok-dms/" target="_blank">Go play this secret game in your TikTok DMs</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-31 18:47</span>
             </div>
         </div>
 </div>
@@ -241,6 +242,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/The-Saturnix.-Photo-Yutani.jpg?fit=1080%2C847&amp;quality=60&amp;ssl=1" alt="DIY camera inspired by production design of 1979&#x27;s Alien" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/31/diy-camera-inspired-by-production-design-of-1979s-alien.html" target="_blank">DIY camera inspired by production design of 1979&#x27;s Alien</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-31 22:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KN2YMQCZX9VQ5M28PW7F1XVC/hero-image.png" alt="These Are the Best Last-Minute Deals on Smart Glasses for Amazon&#x27;s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-smart-glasses-amazon-big-spring-sale-2026?utm_medium=RSS" target="_blank">These Are the Best Last-Minute Deals on Smart Glasses for Amazon&#x27;s Big Spring Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-31 22:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/public-school-bathroom-1280x907.jpg" alt="School Forced to Replace Toilets After Kids Flush Vapes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/school-forced-to-replace-toilets-after-kids-flush-vapes-2000740451" target="_blank">School Forced to Replace Toilets After Kids Flush Vapes</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-31 22:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/PS5-grid.jpg" alt="One Chart Shows Buying An Old PlayStation Has Never Been This Expensive Before" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -265,33 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/best-gadgets-march-2026-2000740331" target="_blank">The Best Gadgets of March 2026</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-31 20:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/marios-1280x721.jpg" alt="Mario Galaxy Movie Reviews Say It’s Full Of Crowd-Pleasing Fan Service And Not Much Else" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mario-galaxy-movie-reviews-roundup-rotten-tomatoes-2000683645" target="_blank">Mario Galaxy Movie Reviews Say It’s Full Of Crowd-Pleasing Fan Service And Not Much Else</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-31 20:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_158492423_bacho.jpg?fit=1800%2C1068&amp;quality=60&amp;ssl=1" alt="More research links artificial sweetener erythritol to stroke risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/31/more-research-links-artificial-sweetener-erythritol-to-stroke-risk.html" target="_blank">More research links artificial sweetener erythritol to stroke risk</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-31 19:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/trump-mad.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains&#x27; energy policy: go steal it for yourself!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/31/grandpa-pudding-brains-energy-policy-go-steal-it-for-yourself.html" target="_blank">Grandpa Pudding Brains&#x27; energy policy: go steal it for yourself!</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-31 18:48</span>
             </div>
         </div>
 </div>
@@ -331,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 22:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 23:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
