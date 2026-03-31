@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-31 14:28:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-31 15:23:22 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, March 31, 2026 - 14:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, March 31, 2026 - 15:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/supreme-2-ap-er-260108_1767910920661_hpMain_4x3t_384.jpg" alt="Supreme Court rules against Colorado law banning &#x27;conversion therapy&#x27; for minors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/supreme-court-strikes-colorado-law-banning-conversion-therapy/story?id=129036088" target="_blank">Supreme Court rules against Colorado law banning &#x27;conversion therapy&#x27; for minors</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-31 14:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/31/iran-will-play-world-cup-games-in-us-despite-war-fifas-infantino-says?traffic_source=rss" target="_blank">Iran will play World Cup games in US despite war, FIFA’s Infantino says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-31 14:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +104,38 @@
                 <span class="time">2026-03-31 11:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/war-with-iran-abc-gmh-260303_1772549475149_hpMain_4x3t_384.jpg" alt="LIVE:  Secretary Hegseth holds news conference on Iran war: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Secretary Hegseth holds news conference on Iran war: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-31 11:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/31/g-s1-115928/up-first-newsletter-dubai-iran-middle-east-trump-tsa-dhs-asylum" target="_blank">DHS resumes asylum decisions. And, Iran&#x27;s strike injures over 12 U.S. personnel</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-31 11:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/airplane1-500x500-1774801256.jpg" alt="What&#x27;s the best cabin layout for aircraft evacuation?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/03/whats-the-best-cabin-layout-for-aircraft-evacuation/" target="_blank">What&#x27;s the best cabin layout for aircraft evacuation?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-31 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/" target="_blank">Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-31 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69cac3c8f93c148fe30e4578/master/pass/Politics_Mamdani_Tiktok_GettyImages-2258345821.jpg" alt="In a Big Reversal, Zohran Mamdani Tells NYC Agencies to Use TikTok" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/in-a-big-reversal-zohran-mamdani-tells-nyc-agencies-to-use-tiktok/" target="_blank">In a Big Reversal, Zohran Mamdani Tells NYC Agencies to Use TikTok</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-31 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/NHQ202603270007large-500x500.jpg" alt="After more than 53 years, humans may finally return to the Moon this week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,38 +163,20 @@
                 <span class="time">2026-03-31 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69ca1ce8e1e04f72f973e688/master/pass/How-to-Back-Up-Your-Digital-Life.jpg" alt="Backup Files and Your Entire Digital Life (2026): Hard Drives, Cloud-Based Tools, and Tips" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-back-up-your-digital-life/" target="_blank">Backup Files and Your Entire Digital Life (2026): Hard Drives, Cloud-Based Tools, and Tips</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-31 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/901418/apple-history-photos" target="_blank">Apple at 50: a visual history</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-31 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c5c6fcd03999521bd70374/master/pass/Deicer_03.7.jpg" alt="Opposing ICE Might Save the Country. It Could Also Ruin Your Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/opposing-ice-might-save-the-country-could-also-ruin-your-life/" target="_blank">Opposing ICE Might Save the Country. It Could Also Ruin Your Life</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-31 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/abhishek_sharma_a9792aee8/test-post-from-my-go-script-562p" target="_blank">Test Post from My Go Script</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-31 15:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +222,6 @@
                 <span class="time">2026-03-31 12:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/kubernetes-observability/en/headerimage/generatedHeaderImage-1774787835389.jpg" alt="Kubernetes Autoscaling Demands New Observability Focus Beyond Vendor Tooling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/kubernetes-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Kubernetes Autoscaling Demands New Observability Focus Beyond Vendor Tooling</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-31 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/iScanner-App.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="iScanner&#x27;s here to save tax season at only $26 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/31/iscanners-here-to-save-tax-season-at-only-26-for-life.html" target="_blank">iScanner&#x27;s here to save tax season at only $26 for life</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-31 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KME936P2J3GKT4X4MR5Y166T/hero-image.png" alt="Amazon Big Spring Sale 2026 Live Blog: All the Best Deals From Apple, Kindle, Garmin, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/amazon-big-spring-sale-03-31-2026-live-blog?utm_medium=RSS" target="_blank">Amazon Big Spring Sale 2026 Live Blog: All the Best Deals From Apple, Kindle, Garmin, and More</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-31 14:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/07/b4b89395878106ba5e37cadc5dde028c.jpg" alt="The New Mode Isn’t The Most Important Thing In Mario Kart World’s New Patch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,29 +295,20 @@
                 <span class="time">2026-03-31 12:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Orion-Earth-Artemis1-1280x853.jpg" alt="Artemis 2 by the Numbers: Breaking Down NASA’s Big Return to the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/artemis-2-by-the-numbers-breaking-down-nasas-big-return-to-the-moon-2000713170" target="_blank">Artemis 2 by the Numbers: Breaking Down NASA’s Big Return to the Moon</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-31 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Kris-Jenner-Chinese-Social-Media-1280x853.jpg" alt="China’s Biggest Social Media Celebrity Is… Kris Jenner?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/chinas-biggest-social-media-celebrity-is-kris-jenner-2000739943" target="_blank">China’s Biggest Social Media Celebrity Is… Kris Jenner?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-31 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1774665092-20260331.png" alt="Saturday Morning Breakfast Cereal - Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/up-4" target="_blank">Saturday Morning Breakfast Cereal - Up</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-03-31 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5797.png" alt="Marsupial Supremacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -313,22 +327,13 @@
                 <span class="time">2026-03-30 17:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1774665043-20260330.png" alt="Saturday Morning Breakfast Cereal - Humanities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/humanities-2" target="_blank">Saturday Morning Breakfast Cereal - Humanities</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-03-30 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 14:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 150 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 15:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
