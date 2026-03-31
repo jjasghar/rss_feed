@@ -1,36 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-03-31 07:28:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-31 08:18:54 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, March 31, 2026 - 07:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, March 31, 2026 - 08:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -165,12 +158,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ben_davies/1password-dotenvx-tool-clf" target="_blank">1Password &amp; Dotenvx Tool</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-31 08:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/03/kubevirt-18-announcement/en/headerimage/generatedHeaderImage-1774805714409.jpg" alt="KubeVirt v1.8 Brings Multi-Hypervisor Support and Confidential Computing to Kubernetes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/news/2026/03/kubevirt-18-announcement/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">KubeVirt v1.8 Brings Multi-Hypervisor Support and Confidential Computing to Kubernetes</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-03-31 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17310064/ubuntu-mate-leadership-crisis" target="_blank">&amp;quot;I No Longer Have the Passion&amp;quot; Ubuntu MATE Creator Wants to Hand Over Project</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-31 06:31</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +209,6 @@
                 <span class="title"><a href="https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan" target="_blank">Axios compromised on NPM – Malicious versions drop remote access trojan</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-03-31 02:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan" target="_blank">Axios Compromised on NPM – Malicious Versions Drop Remote Access Trojan</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-31 02:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/amanda_gerdes_c2ce3b31099/starrocks-is-not-enterprise-ready-5hk4" target="_blank">StarRocks Is Not Enterprise Ready</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-31 02:48</span>
             </div>
         </div>
 </div>
@@ -328,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 07:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 08:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
