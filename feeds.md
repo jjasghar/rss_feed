@@ -1,43 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-31 12:12:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-31 13:29:01 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 35 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, March 31, 2026 - 12:12 UTC</div>
+    <div class="newspaper-date">Tuesday, March 31, 2026 - 13:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/31/us-defence-secretary-says-next-few-days-in-iran-war-will-be?traffic_source=rss" target="_blank">US defence secretary says next few days in Iran war will be ‘decisive’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-31 13:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,21 +91,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/International/Israel-fire-DB-260331_1774944890701_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel and Gulf states report new Iranian strikes, tanker hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774956196030_tdy_news_7a_cheung_gas_4_per_gallon_260331_S3_1920x1080-mrohzm.jpg" alt="Gas Prices Top $4 a Gallon as Iran War Sends Price of Oil Soaring" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: Israel and Gulf states report new Iranian strikes, tanker hit</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-31 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c129/live/18c95360-2ceb-11f1-bdf5-ddbf94ae98c3.jpg" alt="China bans storing cremated remains in empty &#x27;bone ash apartments&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm25ynex2zxo?at_medium=RSS&at_campaign=rss" target="_blank">China bans storing cremated remains in empty &#x27;bone ash apartments&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-31 10:53</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/gas-prices-top-4-a-gallon-as-iran-war-sends-price-of-oil-soaring-260427845544" target="_blank">Gas Prices Top $4 a Gallon as Iran War Sends Price of Oil Soaring</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-31 11:23</span>
             </div>
         </div>
 </div>
@@ -172,6 +164,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pushtomaster/i-built-an-uptime-monitor-after-freshping-shut-down-heres-what-i-learned-7b6" target="_blank">I built an uptime monitor after Freshping shut down — here&#x27;s what I learned</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-31 13:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Meta-Optimizing-Proc-Interrupts" target="_blank">Meta Optimizing /proc/interrupts Reading As It&#x27;s Too Costly At Scale: 29% Speedup</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-31 13:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdfp6htpnepvzg9d96usf.webp" alt="The WooCommerce UCP Guide: What Our Monitoring Data Reveals About WordPress Agent Commerce" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,24 +217,6 @@
                 <span class="time">2026-03-31 10:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.04-ROCm-State" target="_blank">The Integrated ROCm Story For Ubuntu 26.04 Still Playing Out</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-31 10:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/leorasgg/i-spent-3-hours-writing-no-code-and-it-may-have-saved-weeks-on-my-erp-project-2mnk" target="_blank">I spent 3 hours writing no code — and it may have saved weeks on my ERP project</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-31 09:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +236,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/07/b4b89395878106ba5e37cadc5dde028c.jpg" alt="The New Mode Isn’t The Most Important Thing In Mario Kart World’s New Patch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mario-kart-world-switch-2-patch-1-6-0-boomerang-bob-omb-2000683540" target="_blank">The New Mode Isn’t The Most Important Thing In Mario Kart World’s New Patch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-31 13:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/rousseau.jpg?fit=958%2C561&amp;quality=60&amp;ssl=1" alt="Air Canada&#x27;s CEO to retire after failing to issue condolences in French" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/31/air-canadas-ceo-to-retire-after-failing-to-issue-condolences-in-french.html" target="_blank">Air Canada&#x27;s CEO to retire after failing to issue condolences in French</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-31 13:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KN1561HPJCFDGHG3ENYRPHMQ/hero-image.png" alt="This Streamlined &#x27;Nothing&#x27; Phone Is $200 Off During Amazon&#x27;s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/nothing-phone-3-amazon-spring-sale-2026?utm_medium=RSS" target="_blank">This Streamlined &#x27;Nothing&#x27; Phone Is $200 Off During Amazon&#x27;s Big Spring Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-31 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/trump-library-wide-1280x707.jpg" alt="Trump Posts Concept Art of His Presidential Library, and It’s AI Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,33 +288,6 @@
                 <span class="title"><a href="https://gizmodo.com/chinas-biggest-social-media-celebrity-is-kris-jenner-2000739943" target="_blank">China’s Biggest Social Media Celebrity Is… Kris Jenner?</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-31 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/democracy-manifest-1280x725.jpg" alt="National Film and Sound Archive of Australia Adds ‘Succulent Chinese Meal’ Guy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/national-film-and-sound-archive-of-australia-adds-succulent-chinese-meal-guy-2000737761" target="_blank">National Film and Sound Archive of Australia Adds ‘Succulent Chinese Meal’ Guy</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-31 01:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/t2_07.jpg?fit=800%2C617&amp;quality=60&amp;ssl=1" alt="Enter the EVO-T2, a $1900 mini PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/30/enter-the-evo-t2-a-1900-mini-pc.html" target="_blank">Enter the EVO-T2, a $1900 mini PC</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-31 00:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKXQ7MHXEETBNV890EM2DSYK/hero-image.png" alt="You Can Get This 2025 11-Inch iPad With Cellular on Sale for Just $360 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/11-inch-ipad-with-cellular-stacksocial-sale-march-2026?utm_medium=RSS" target="_blank">You Can Get This 2025 11-Inch iPad With Cellular on Sale for Just $360 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-31 00:00</span>
             </div>
         </div>
 </div>
@@ -335,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 12:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 13:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
