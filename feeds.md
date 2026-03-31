@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-31 08:18:54 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-03-31 09:20:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, March 31, 2026 - 08:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, March 31, 2026 - 09:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,54 +52,54 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/31/nx-s1-5761354/birthright-citizenship-child-health-medicaid-social-security" target="_blank">Babies are an afterthought in the birthright citizenship case, advocates say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-31 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/31/palestine-weekly-wrap-holy-sites-remain-closed-as-deadly-violence-spreads?traffic_source=rss" target="_blank">Palestine weekly wrap: Holy sites remain closed as deadly violence spreads</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-31 08:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Israel-fire-DB-260331_1774944890701_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel, Gulf states report new Iranian strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: Israel, Gulf states report new Iranian strikes</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-31 08:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/ISFAHAN-t3z5d9.jpg" alt="Video shows fire and explosions in Isfahan, Iran, as the conflict continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/video-shows-fire-and-explosions-in-isfahan-iran-as-the-conflict-continues-260421701843" target="_blank">Video shows fire and explosions in Isfahan, Iran, as the conflict continues</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-31 08:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ecf/live/46e88b10-2cd4-11f1-a79a-77e93010d956.jpg" alt="Scott Mills questioned by police in 2018 over sexual offence allegations against teenage boy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwykq2lqjw7o?at_medium=RSS&at_campaign=rss" target="_blank">Scott Mills questioned by police in 2018 over sexual offence allegations against teenage boy</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-31 06:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/03/31/nx-s1-5766990/army-reviewing-helicopters-kid-rock" target="_blank">Army reviewing after helicopters hovered alongside Kid Rock&#x27;s swimming pool as he saluted</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-31 05:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/31/what-we-learned-from-al-jazeeras-interview-with-marco-rubio?traffic_source=rss" target="_blank">What we learned from Al Jazeera’s interview with Marco Rubio</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-31 03:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260330-trump-vsb-1917-d9b0e5.jpg" alt="Are there talks to end the Iran war? Depends on which side you ask" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/are-talks-end-iran-war-depends-side-ask-rcna265921" target="_blank">Are there talks to end the Iran war? Depends on which side you ask</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-31 00:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/31/at-least-70-killed-30-wounded-in-haiti-gang-attack-rights-group-says?traffic_source=rss" target="_blank">At least 70 killed, 30 wounded in Haiti gang attack, rights group says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-31 00:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2468/live/66f971b0-2c77-11f1-a75a-f95187682629.jpg" alt="Starmer gives doctors 48 hours to cancel strike or lose new jobs package" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c23909pge35o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer gives doctors 48 hours to cancel strike or lose new jobs package</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-30 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2468/live/66f971b0-2c77-11f1-a75a-f95187682629.jpg" alt="PM gives BMA 48 hours to call-off strike or lose 1,000 training posts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c23909pge35o?at_medium=RSS&at_campaign=rss" target="_blank">PM gives BMA 48 hours to call-off strike or lose 1,000 training posts</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-30 22:47</span>
             </div>
         </div>
 </div>
@@ -98,6 +107,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69c31871ea56e672b4eef17c/master/pass/The-Best-Deals-From-the-Amazon-Spring-Sale.jpg" alt="These 40 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-amazon-spring-sale-2026-2/" target="_blank">These 40 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-31 09:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/903906/another-starlink-satellite-has-inexplicably-exploded" target="_blank">Another Starlink satellite has inexplicably exploded</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-31 08:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,29 +161,20 @@
                 <span class="time">2026-03-30 23:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/903543/spring-cleaning-gadgets-vacuums-tools-air-purifiers-amazon-big-spring-sale-2026-deals" target="_blank">Here are our favorite spring cleaning deals from Amazon’s Big Spring Sale</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-30 23:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-486641681-500x500.jpeg" alt="Water utility announces it&#x27;s ditching fluoride—then reveals it did so years ago" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/03/water-utility-announces-its-ditching-fluoride-then-reveals-it-did-so-years-ago/" target="_blank">Water utility announces it&#x27;s ditching fluoride—then reveals it did so years ago</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-30 22:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/leorasgg/i-spent-3-hours-writing-no-code-and-it-may-have-saved-weeks-on-my-erp-project-2mnk" target="_blank">I spent 3 hours writing no code — and it may have saved weeks on my ERP project</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-31 09:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +220,6 @@
                 <span class="time">2026-03-31 03:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan" target="_blank">Axios compromised on NPM – Malicious versions drop remote access trojan</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-31 02:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Kris-Jenner-Chinese-Social-Media-1280x853.jpg" alt="China’s Biggest Social Media Celebrity Is… Kris Jenner?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/chinas-biggest-social-media-celebrity-is-kris-jenner-2000739943" target="_blank">China’s Biggest Social Media Celebrity Is… Kris Jenner?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-31 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/democracy-manifest-1280x725.jpg" alt="National Film and Sound Archive of Australia Adds ‘Succulent Chinese Meal’ Guy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +293,6 @@
                 <span class="time">2026-03-30 23:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/dji-osmo-360-review-08-1280x853.jpg" alt="DJI Osmo 360 Review: The Best 360 Camera for the DJI-Pilled" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dji-osmo-360-review-the-best-360-camera-for-the-dji-pilled-2000739210" target="_blank">DJI Osmo 360 Review: The Best 360 Camera for the DJI-Pilled</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-30 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 08:19 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 09:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
