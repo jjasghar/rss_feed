@@ -1,42 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-03-31 18:14:23 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-31 19:20:55 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 33 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, March 31, 2026 - 18:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, March 31, 2026 - 19:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/31/no-truth-to-us-iranian-negotiations-irans-fm-tells-al-jazeera?traffic_source=rss" target="_blank">Iran’s FM confirms contact with US envoy Witkoff, denies talks under way</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-31 19:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,20 +105,29 @@
                 <span class="time">2026-03-31 15:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2c3/live/b6e32b60-2d0a-11f1-ba67-f7b8dbc6a466.jpg" alt="Carey Mulligan awarded CBE at Windsor Castle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm2rkmv4g7no?at_medium=RSS&at_campaign=rss" target="_blank">Carey Mulligan awarded CBE at Windsor Castle</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-31 15:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/904033/the-super-mario-galaxy-movie-review" target="_blank">The Super Mario Galaxy Movie is beautiful but a little too busy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-31 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/31/go-play-this-secret-game-in-your-tiktok-dms/" target="_blank">Go play this secret game in your TikTok DMs</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-31 18:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69cc098893b7298932e00d6b/master/pass/Our-Favorite-Affordable-Air-Purifier-Is-Temporarily-Even-More-Affordable.jpg" alt="Our Favorite Affordable Air Purifier Is Temporarily Even Cheaper" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,29 +164,29 @@
                 <span class="time">2026-03-31 17:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69cad696a096b304782ee374/master/pass/Senator-Demands-More-Transparency-From-Humans-Behind-Self-Driving-Cars-Gear-2265246664.jpg" alt="Tesla Says Its Robotaxis Are Sometimes Driven by Remote Humans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/tesla-says-its-robotaxis-are-sometimes-driven-by-humans/" target="_blank">Tesla Says Its Robotaxis Are Sometimes Driven by Remote Humans</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-31 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-855684128-500x500-1774971182.jpg" alt="Costco sued for seeking refunds on tariffs customers paid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/costco-sued-for-seeking-refunds-on-tariffs-customers-paid/" target="_blank">Costco sued for seeking refunds on tariffs customers paid</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-31 16:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpnrt7i94qvfd99vvxju3.webp" alt="When Your LLM Becomes Your Twin (and Starts Judging Your Code) 🤖👀" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tomorrmonkey/when-your-llm-becomes-your-twin-and-starts-judging-your-code-4pf6" target="_blank">When Your LLM Becomes Your Twin (and Starts Judging Your Code) 🤖👀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-31 19:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18922328&w=600" alt="Building a Video Evidence Layer: Moment Indexing With Timecoded Retrieval" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-a-video-evidence-layer-moment-indexing-wi" target="_blank">Building a Video Evidence Layer: Moment Indexing With Timecoded Retrieval</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-31 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,24 +223,6 @@
                 <span class="time">2026-03-31 17:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18878168&w=600" alt="Designing Production-Grade AI Tools: Why Architecture Matters More Than Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/designing-production-grade-ai-tools" target="_blank">Designing Production-Grade AI Tools: Why Architecture Matters More Than Models</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-31 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9n2gnww58vzk7adkd7cz.png" alt="Two-level concurrency in Node.js - worker threads and async pools for data integration pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/volodymyr-koval/two-level-concurrency-in-nodejs-worker-threads-and-async-pools-for-data-integration-pipelines-52ac" target="_blank">Two-level concurrency in Node.js - worker threads and async pools for data integration pipelines</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-31 16:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/trump-mad.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains&#x27; energy policy: go steal it for yourself!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/31/grandpa-pudding-brains-energy-policy-go-steal-it-for-yourself.html" target="_blank">Grandpa Pudding Brains&#x27; energy policy: go steal it for yourself!</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-31 18:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KN2DRXARMGWRYJQ5QZ85PV4J/hero-image.jpg" alt="The Best Books, Movies, Video Games, and Podcasts to Check Out After Watching ‘The Boys’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/the-boys-streamalikes-books-movies-video-games-and-podcasts?utm_medium=RSS" target="_blank">The Best Books, Movies, Video Games, and Podcasts to Check Out After Watching ‘The Boys’</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-31 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Gemini_Generated_Milgram.jpg?fit=1200%2C855&amp;quality=60&amp;ssl=1" alt="Audio tapes challenge Milgram obedience findings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,29 +296,20 @@
                 <span class="time">2026-03-31 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Image-Albert89-Shutterstock.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Another Starlink satellite has exploded" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/31/another-starlink-satellite-has-exploded.html" target="_blank">Another Starlink satellite has exploded</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-31 16:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/Screen-Shot-2026-03-31-at-11.56.17-AM-1280x720.jpg" alt="A Tease For A Nier Cosmic Horror Project On April Fools’ Day Is Making Fans Lose It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nier-new-game-tease-yoko-taro-announcement-cosmic-horror-2000683585" target="_blank">A Tease For A Nier Cosmic Horror Project On April Fools’ Day Is Making Fans Lose It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-31 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/loudly/" target="_blank">Loudly</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-03-31 16:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1774665092-20260331.png" alt="Saturday Morning Breakfast Cereal - Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -325,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 18:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 19:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
