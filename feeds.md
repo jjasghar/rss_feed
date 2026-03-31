@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-03-31 09:20:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-31 10:18:14 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, March 31, 2026 - 09:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, March 31, 2026 - 10:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ecf/live/46e88b10-2cd4-11f1-a79a-77e93010d956.jpg" alt="Police say teenage boy at centre of Scott Mills sexual offences investigation was under 16" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwykq2lqjw7o?at_medium=RSS&at_campaign=rss" target="_blank">Police say teenage boy at centre of Scott Mills sexual offences investigation was under 16</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-31 10:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/31/caster-semenya-pledges-to-fight-against-olympic-gender-testing-policy?traffic_source=rss" target="_blank">Caster Semenya pledges to fight against Olympic gender-testing policy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-31 10:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +95,20 @@
                 <span class="time">2026-03-31 08:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ecf/live/46e88b10-2cd4-11f1-a79a-77e93010d956.jpg" alt="Scott Mills questioned by police in 2018 over sexual offence allegations against teenage boy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwykq2lqjw7o?at_medium=RSS&at_campaign=rss" target="_blank">Scott Mills questioned by police in 2018 over sexual offence allegations against teenage boy</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-31 06:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/31/nx-s1-5766990/army-reviewing-helicopters-kid-rock" target="_blank">Army reviewing after helicopters hovered alongside Kid Rock&#x27;s swimming pool as he saluted</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-31 05:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69c5c6fcd03999521bd70374/master/pass/Deicer_03.7.jpg" alt="Opposing ICE Might Save the Country. It Could Also Ruin Your Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/opposing-ice-might-save-the-country-could-also-ruin-your-life/" target="_blank">Opposing ICE Might Save the Country. It Could Also Ruin Your Life</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-31 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69c31871ea56e672b4eef17c/master/pass/The-Best-Deals-From-the-Amazon-Spring-Sale.jpg" alt="These 40 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -114,6 +116,15 @@
                 <span class="title"><a href="https://www.wired.com/story/the-amazon-spring-sale-2026-2/" target="_blank">These 40 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-03-31 09:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/31/airbnb-private-car-pick-up-service-welcome-pickups/" target="_blank">Airbnb is introducing a private car pick-up service</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-31 09:00</span>
             </div>
         </div>
 <div class="story">
@@ -141,24 +152,6 @@
                 <span class="title"><a href="https://www.wired.com/story/t-mobile-business-promo-code/" target="_blank">T-Mobile Business Promo Codes and Deals</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-03-31 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/903885/150-million-users-later-roblox-competitor-rec-room-is-shutting-down" target="_blank">150 million users later, Roblox competitor Rec Room is shutting down</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-31 00:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/" target="_blank">15% of Americans say they’d be willing to work for an AI boss, according to new poll</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-30 23:41</span>
             </div>
         </div>
 </div>
@@ -240,6 +233,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Orion-Earth-Artemis1-1280x853.jpg" alt="Artemis 2 by the Numbers: Breaking Down NASA’s Big Return to the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/artemis-2-by-the-numbers-breaking-down-nasas-big-return-to-the-moon-2000713170" target="_blank">Artemis 2 by the Numbers: Breaking Down NASA’s Big Return to the Moon</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-31 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Kris-Jenner-Chinese-Social-Media-1280x853.jpg" alt="China’s Biggest Social Media Celebrity Is… Kris Jenner?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -284,15 +286,6 @@
                 <span class="time">2026-03-30 23:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/shutterstock_2649710799-1280x853.jpg" alt="Feds Sniffing Around Polymarket After Suspicious Bets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/feds-sniffing-around-polymarket-after-suspicious-bets-2000739973" target="_blank">Feds Sniffing Around Polymarket After Suspicious Bets</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-30 23:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 09:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 10:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
