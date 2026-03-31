@@ -1,40 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-03-31 15:23:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-31 16:18:51 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NPR News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, March 31, 2026 - 15:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, March 31, 2026 - 16:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/31/nx-s1-5768105/supreme-court-conversion-therapy-colorado-ban" target="_blank">Supreme Court strikes Colorado ban on conversion therapy</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-31 15:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/supreme-2-ap-er-260108_1767910920661_hpMain_4x3t_384.jpg" alt="Supreme Court rules against Colorado law banning &#x27;conversion therapy&#x27; for minors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +93,20 @@
                 <span class="time">2026-03-31 12:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6753/live/6e1e1f30-2cfa-11f1-a79a-77e93010d956.jpg" alt="Teenage boy at centre of Scott Mills sexual offences investigation was under 16, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwykq2lqjw7o?at_medium=RSS&at_campaign=rss" target="_blank">Teenage boy at centre of Scott Mills sexual offences investigation was under 16, police say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-31 11:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-855684128-500x500-1774971182.jpg" alt="Costco sued for seeking refunds on tariffs customers paid" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/costco-sued-for-seeking-refunds-on-tariffs-customers-paid/" target="_blank">Costco sued for seeking refunds on tariffs customers paid</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-31 16:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/airplane1-500x500-1774801256.jpg" alt="What&#x27;s the best cabin layout for aircraft evacuation?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +152,29 @@
                 <span class="time">2026-03-31 14:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/897520/apple-without-steve-jobs-90s" target="_blank">Between Jobs</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-31 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9n2gnww58vzk7adkd7cz.png" alt="Two-level concurrency in Node.js - worker threads and async pools for data integration pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/volodymyr-koval/two-level-concurrency-in-nodejs-worker-threads-and-async-pools-for-data-integration-pipelines-52ac" target="_blank">Two-level concurrency in Node.js - worker threads and async pools for data integration pipelines</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-31 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/" target="_blank">Agent-driven development in Copilot Applied Science</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-03-31 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,24 +211,6 @@
                 <span class="time">2026-03-31 13:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Meta-Optimizing-Proc-Interrupts" target="_blank">Meta Optimizing /proc/interrupts Reading As It&#x27;s Too Costly At Scale: 29% Speedup</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-31 13:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdfp6htpnepvzg9d96usf.webp" alt="The WooCommerce UCP Guide: What Our Monitoring Data Reveals About WordPress Agent Commerce" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/benjifisher/the-woocommerce-ucp-guide-what-our-monitoring-data-reveals-about-wordpress-agent-commerce-2439" target="_blank">The WooCommerce UCP Guide: What Our Monitoring Data Reveals About WordPress Agent Commerce</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-31 12:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +230,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Image-Albert89-Shutterstock.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Another Starlink satellite has exploded" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/31/another-starlink-satellite-has-exploded.html" target="_blank">Another Starlink satellite has exploded</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-31 16:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/Screen-Shot-2026-03-31-at-11.56.17-AM-1280x720.jpg" alt="A Tease For A Nier Cosmic Horror Project On April Fools’ Day Is Making Fans Lose It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nier-new-game-tease-yoko-taro-announcement-cosmic-horror-2000683585" target="_blank">A Tease For A Nier Cosmic Horror Project On April Fools’ Day Is Making Fans Lose It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-31 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/iScanner-App.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="iScanner&#x27;s here to save tax season at only $26 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +282,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/31/air-canadas-ceo-to-retire-after-failing-to-issue-condolences-in-french.html" target="_blank">Air Canada&#x27;s CEO to retire after failing to issue condolences in French</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-31 13:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KN1561HPJCFDGHG3ENYRPHMQ/hero-image.png" alt="This Streamlined &#x27;Nothing&#x27; Phone Is $200 Off During Amazon&#x27;s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/nothing-phone-3-amazon-spring-sale-2026?utm_medium=RSS" target="_blank">This Streamlined &#x27;Nothing&#x27; Phone Is $200 Off During Amazon&#x27;s Big Spring Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-31 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/trump-library-wide-1280x707.jpg" alt="Trump Posts Concept Art of His Presidential Library, and It’s AI Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-posts-concept-art-of-his-presidential-library-and-its-ai-slop-2000740095" target="_blank">Trump Posts Concept Art of His Presidential Library, and It’s AI Slop</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-31 12:08</span>
             </div>
         </div>
 </div>
@@ -332,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 150 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 15:23 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 16:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
