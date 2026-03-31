@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-03-31 20:09:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-31 21:09:03 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, March 31, 2026 - 20:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, March 31, 2026 - 21:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-7-ap-gmh-260330_1774875235917_hpMain_4x3t_384.jpg" alt="Trump touts talks with hardline Iranian leader, but says &#x27;we know where he lives&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-touts-iran-talks-hardline-leader-mohammad-ghalibaf/story?id=131582258" target="_blank">Trump touts talks with hardline Iranian leader, but says &#x27;we know where he lives&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-31 20:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/31/zelenskyy-to-ask-us-mediators-to-pass-on-easter-truce-offer-to-kremlin?traffic_source=rss" target="_blank">Ukraine to ask US mediators to pass on Easter ceasefire offer to Russia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-31 20:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8451/live/1c2858e0-2d17-11f1-ba67-f7b8dbc6a466.jpg" alt="More UK troops to be sent to Middle East, defence secretary announces" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7vq76g45rvo?at_medium=RSS&at_campaign=rss" target="_blank">More UK troops to be sent to Middle East, defence secretary announces</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-31 20:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,33 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/31/no-truth-to-us-iranian-negotiations-irans-fm-tells-al-jazeera?traffic_source=rss" target="_blank">Iran’s FM confirms contact with US envoy Witkoff, denies talks under way</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-31 19:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/31/us-israel-launch-major-attacks-as-iranian-authorities-maintain-defiance?traffic_source=rss" target="_blank">US-Israel launch major attacks as Iranian authorities maintain defiance</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-31 18:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/31/nx-s1-5768206/peptides-rfk-fda-compounding-pharmacies" target="_blank">The wellness world is eager for RFK Jr.&#x27;s promised move on peptides</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-31 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-tiger-woods-florida_7205091.jpg?20260327225658" alt="Tiger Woods had pills in his pocket and bloodshot eyes after crash, report says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/tiger-woods-had-pills-in-his-pocket-and-bloodshot-eyes-at-crash-scene-sheriffs-report-says-13526528" target="_blank">Tiger Woods had pills in his pocket and bloodshot eyes after crash, report says</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-03-31 17:34</span>
             </div>
         </div>
 </div>
@@ -161,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/debs_obrien/getting-started-with-claude-code-a-guide-to-slash-commands-and-tips-10n1" target="_blank">Getting Started with Claude Code: A Guide to Slash Commands and Tips</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-31 21:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpnrt7i94qvfd99vvxju3.webp" alt="When Your LLM Becomes Your Twin (and Starts Judging Your Code) 🤖👀" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +215,6 @@
                 <span class="time">2026-03-31 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzxsu96h8cqi83x3js5yn.png" alt="How do private resources in AWS Private Subnets still get updates from the internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ayomtuase/how-do-private-resources-in-aws-private-subnets-still-get-updates-from-the-internet-2hpe" target="_blank">How do private resources in AWS Private Subnets still get updates from the internet</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-31 17:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +244,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/marios-1280x721.jpg" alt="Mario Galaxy Movie Reviews Say It’s Full Of Crowd-Pleasing Fan Service And Not Much Else" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mario-galaxy-movie-reviews-roundup-rotten-tomatoes-2000683645" target="_blank">Mario Galaxy Movie Reviews Say It’s Full Of Crowd-Pleasing Fan Service And Not Much Else</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-31 20:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_158492423_bacho.jpg?fit=1800%2C1068&amp;quality=60&amp;ssl=1" alt="More research links artificial sweetener erythritol to stroke risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/31/more-research-links-artificial-sweetener-erythritol-to-stroke-risk.html" target="_blank">More research links artificial sweetener erythritol to stroke risk</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-31 19:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/trump-mad.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains&#x27; energy policy: go steal it for yourself!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -267,24 +286,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/31/audio-tapes-challenge-milgram-obedience-findings.html" target="_blank">Audio tapes challenge Milgram obedience findings</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-31 17:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/pokemonmmcard-1280x720.jpg" alt="New Lego Contest Teases Big Pokémon TCG Crossover" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/new-lego-contest-teases-big-pokemon-tcg-crossover-2000683615" target="_blank">New Lego Contest Teases Big Pokémon TCG Crossover</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-31 17:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/marathon-1280x757.jpg" alt="Marathon Cracks Down On Viral Movement Exploits That Are ‘Ultimately Unhealthy’ For The Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marathon-patch-exploit-pinwheel-2000683593" target="_blank">Marathon Cracks Down On Viral Movement Exploits That Are ‘Ultimately Unhealthy’ For The Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-31 17:00</span>
             </div>
         </div>
 </div>
@@ -324,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 20:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 21:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
