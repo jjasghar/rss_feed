@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-03-31 04:02:54 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-31 05:31:14 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, March 31, 2026 - 04:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, March 31, 2026 - 05:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +53,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/31/what-we-learned-from-al-jazeeras-interview-with-marco-rubio?traffic_source=rss" target="_blank">What we learned from Al Jazeera’s interview with Marco Rubio</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-31 03:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260330-trump-vsb-1917-d9b0e5.jpg" alt="Are there talks to end the Iran war? Depends on which side you ask" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/are-talks-end-iran-war-depends-side-ask-rcna265921" target="_blank">Are there talks to end the Iran war? Depends on which side you ask</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-31 00:49</span>
             </div>
         </div>
 <div class="story">
@@ -94,20 +100,20 @@
                 <span class="time">2026-03-30 21:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Karoline-leavitt-5-gty-gmh-260330_1774894998707_hpMain_4x3t_384.jpg" alt="Trump urging Congress to cut recess short to end DHS shutdown, White House says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-urging-congress-back-recess-fund-dhs-shutdown/story?id=131551734" target="_blank">Trump urging Congress to cut recess short to end DHS shutdown, White House says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-30 21:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" alt="T-Mobile Business Promo Codes and Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/t-mobile-business-promo-code/" target="_blank">T-Mobile Business Promo Codes and Deals</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-31 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +159,20 @@
                 <span class="time">2026-03-30 21:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/judges-gavel-500x500.jpg" alt="Judge halts Nexstar/Tegna merger after FCC let firms exceed TV ownership limit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/judge-halts-nexstar-tegna-merger-after-fcc-let-firms-exceed-tv-ownership-limit/" target="_blank">Judge halts Nexstar/Tegna merger after FCC let firms exceed TV ownership limit</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-30 20:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F800%2F1%2AfL9CshnkldS3Vj9uWxvMsQ.png" alt="How to Tweak Linux Kernel Settings for Maximum Throughput on 10G Links" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/speed_engineer/how-to-tweak-linux-kernel-settings-for-maximum-throughput-on-10g-links-45ph" target="_blank">How to Tweak Linux Kernel Settings for Maximum Throughput on 10G Links</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-31 05:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -174,6 +180,15 @@
                 <span class="title"><a href="https://dev.to/burnsideproject/know-your-postgresql-health-before-it-breaks-ai-powered-postgresql-observability-36he" target="_blank">AI-powered PostgreSQL observability</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-31 03:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan" target="_blank">Axios compromised on NPM – Malicious versions drop remote access trojan</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-31 02:54</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/ji_ai/open-source-mit-license-fork-of-rtk-the-full-story-1pp0" target="_blank">Open Source, MIT License, Fork of RTK — The Full Story</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-31 01:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/drona23/claude-token-efficient" target="_blank">Universal Claude.md – cut Claude output tokens by 63%</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-31 01:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Optimization-Zone" target="_blank">Intel Announces The &quot;Optimization Zone&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-31 00:20</span>
             </div>
         </div>
 </div>
@@ -349,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 04:03 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 05:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
