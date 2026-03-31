@@ -1,44 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-03-30 23:08:21 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-03-31 00:10:29 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 36 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, March 30, 2026 - 23:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, March 31, 2026 - 00:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -61,6 +57,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/30/dangerous-escalation-world-reacts-to-israel-passing-death-penalty-law?traffic_source=rss" target="_blank">‘Dangerous escalation’: World reacts to Israel passing death penalty law</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-30 21:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Karoline-leavitt-5-gty-gmh-260330_1774894998707_hpMain_4x3t_384.jpg" alt="Trump urging Congress to cut recess short to end DHS shutdown, White House says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-urging-congress-back-recess-fund-dhs-shutdown/story?id=131551734" target="_blank">Trump urging Congress to cut recess short to end DHS shutdown, White House says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-30 21:12</span>
             </div>
         </div>
 <div class="story">
@@ -99,20 +104,38 @@
                 <span class="time">2026-03-30 19:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/30/what-we-know-about-attack-on-key-israeli-oil-refinery?traffic_source=rss" target="_blank">What we know about attack on key Israeli oil refinery</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-30 19:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/" target="_blank">15% of Americans say they’d be willing to work for an AI boss, according to new poll</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-30 23:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/903543/spring-cleaning-gadgets-vacuums-tools-air-purifiers-amazon-big-spring-sale-2026-deals" target="_blank">Here are our favorite spring cleaning deals from Amazon’s Big Spring Sale</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-30 23:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-486641681-500x500.jpeg" alt="Water utility announces it&#x27;s ditching fluoride—then reveals it did so years ago" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/03/water-utility-announces-its-ditching-fluoride-then-reveals-it-did-so-years-ago/" target="_blank">Water utility announces it&#x27;s ditching fluoride—then reveals it did so years ago</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-30 22:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,33 +163,6 @@
                 <span class="time">2026-03-30 19:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/30/what-were-looking-for-in-startup-battlefield-2026-and-how-to-put-your-best-application-forward/" target="_blank">What we’re looking for in Startup Battlefield 2026 and how to put your best application forward</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-30 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/" target="_blank">Meta starts testing a premium subscription on Instagram</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-30 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69caa85c4430ce79614bdc4b/master/pass/Our-Favorite-Amazon-Streaming-Stick-Is-Almost-Half-Off.jpg" alt="Our Favorite Amazon Streaming Stick Is Almost Half Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/fire-tv-stick-max-deal-326/" target="_blank">Our Favorite Amazon Streaming Stick Is Almost Half Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-30 17:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,10 +171,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dohkoai/5-ai-powered-code-review-pipelines-you-can-build-this-weekend-2683" target="_blank">5 AI-Powered Code Review Pipelines You Can Build This Weekend</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-31 00:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-hat-cowboy"></span>
                 <span class="title"><a href="https://www.redhat.com/en/blog/introducing-red-hat-universal-base-image" target="_blank">Introducing the Red Hat Universal Base Image</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-31 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/google-drive-nautilus-file-manager-gnome.webp?resize=406%2C232&amp;ssl=1" alt="GNOME 50 dropped support for accessing Google Drive files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/google-drive-not-working-nautilus-ubuntu-26-04" target="_blank">GNOME 50 dropped support for accessing Google Drive files</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-03-30 23:13</span>
             </div>
         </div>
 <div class="story">
@@ -208,24 +222,6 @@
                 <span class="time">2026-03-30 21:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/simplify-bare-metal-operations-for-sovereign-clouds" target="_blank">Simplify bare metal operations for sovereign clouds</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-03-30 21:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bukinator/qa-in-chaos-how-do-you-test-anyway-2dpm" target="_blank">QA in chaos. How Do You Test Anyway?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-30 20:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Photo-Chigago-Museum-of-Art.jpg?fit=1080%2C715&amp;quality=60&amp;ssl=1" alt="Rembrandt copy was copied by the master himself" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/30/rembrandt-copy-was-copied-by-the-master-himself.html" target="_blank">Rembrandt copy was copied by the master himself</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-30 23:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/shutterstock_2649710799-1280x853.jpg" alt="Feds Sniffing Around Polymarket After Suspicious Bets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/feds-sniffing-around-polymarket-after-suspicious-bets-2000739973" target="_blank">Feds Sniffing Around Polymarket After Suspicious Bets</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-30 23:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/dji-osmo-360-review-08-1280x853.jpg" alt="DJI Osmo 360 Review: The Best 360 Camera for the DJI-Pilled" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +293,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/podcasting-audio-equipment-amazon-big-spring-sale-2026?utm_medium=RSS" target="_blank">What to Buy During Amazon&#x27;s Big Spring Sale If You&#x27;ve Always Wanted to Start Podcasting</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-30 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Plantum-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This $15 app identifies your plants and tells you what you&#x27;re doing wrong" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/30/this-15-app-identifies-your-plants-and-tells-you-what-youre-doing-wrong.html" target="_blank">This $15 app identifies your plants and tells you what you&#x27;re doing wrong</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-30 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/gtaivleak-1280x720.jpg" alt="The Story Behind A Massive GTA 4 Leak 18 Years After Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-story-behind-a-massive-gta-4-leak-18-years-after-launch-2000683244" target="_blank">The Story Behind A Massive GTA 4 Leak 18 Years After Launch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-30 20:15</span>
             </div>
         </div>
 </div>
@@ -363,8 +359,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 23:08 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 141 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 00:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
