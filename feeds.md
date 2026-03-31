@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-31 21:09:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-31 22:08:22 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, March 31, 2026 - 21:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, March 31, 2026 - 22:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3518/live/07c5a0c0-2d4d-11f1-934f-036468834728.png" alt="Man charged after seven people hit by car in Derby" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwywd5ek9x9o?at_medium=RSS&at_campaign=rss" target="_blank">Man charged after seven people hit by car in Derby</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-31 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/31/nx-s1-5508948/trump-voter-list-mail-ballots-executive-order" target="_blank">Trump signs a new executive order on voting. Experts say he lacks the authority</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-31 21:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/3/31/russian-tanker-reaches-cuba-amid-critical-energy-shortage?traffic_source=rss" target="_blank">Russian tanker reaches Cuba amid critical energy shortage</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-31 21:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-7-ap-gmh-260330_1774875235917_hpMain_4x3t_384.jpg" alt="Trump touts talks with hardline Iranian leader, but says &#x27;we know where he lives&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,38 +103,38 @@
                 <span class="time">2026-03-31 20:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/31/nx-s1-5768446/judge-rules-white-house-ballroom-construction-must-halt-until-congress-oks-it" target="_blank">Judge rules White House ballroom construction must halt until Congress OK&#x27;s it</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-31 19:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/31/how-pakistan-positioned-itself-at-the-center-of-global-crisis-management?traffic_source=rss" target="_blank">How Pakistan positioned itself at the center of global crisis management</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-31 19:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/31/no-truth-to-us-iranian-negotiations-irans-fm-tells-al-jazeera?traffic_source=rss" target="_blank">Iran’s FM confirms contact with US envoy Witkoff, denies talks under way</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-31 19:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/904698/govee-smart-a19-led-color-bulbs-amazon-big-spring-sale-2026-deal" target="_blank">You can grab a four-pack of Govee’s color-changing smart bulbs for just $27</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-31 21:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-500x500.jpg" alt="RFK Jr. wants Americans to use peptides that were banned over safety risks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/03/rfk-jr-s-fda-expected-to-lift-restrictions-on-risky-unproven-peptides/" target="_blank">RFK Jr. wants Americans to use peptides that were banned over safety risks</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-31 21:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/31/robotaxi-companies-refuse-to-say-how-often-their-avs-need-remote-help/" target="_blank">Robotaxi companies refuse to say how often their AVs need remote help</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-03-31 21:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,33 +162,6 @@
                 <span class="time">2026-03-31 18:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69cc098893b7298932e00d6b/master/pass/Our-Favorite-Affordable-Air-Purifier-Is-Temporarily-Even-More-Affordable.jpg" alt="Our Favorite Affordable Air Purifier Is Temporarily Even Cheaper" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/coway-airmega-mighty-deal-326/" target="_blank">Our Favorite Affordable Air Purifier Is Temporarily Even Cheaper</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-31 18:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/904372/hisense-u6-mini-led-tv-4k-amazon-big-spring-sale-2026-deal" target="_blank">Hisense’s 75-inch U6 mini-LED TV is cheaper than its 65-inch model</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-31 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/gmail-app-1-500x500.jpg" alt="You can finally change the goofy Gmail address you chose years ago" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/03/you-can-finally-change-the-goofy-gmail-address-you-chose-years-ago/" target="_blank">You can finally change the goofy Gmail address you chose years ago</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-31 17:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +174,24 @@
                 <span class="title"><a href="https://dev.to/debs_obrien/getting-started-with-claude-code-a-guide-to-slash-commands-and-tips-10n1" target="_blank">Getting Started with Claude Code: A Guide to Slash Commands and Tips</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-31 21:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/litellm-supply-chain-attack/en/headerimage/litellm-supply-chain-attack-1774987285804.jpeg" alt="PyPI Supply Chain Attack Compromises LiteLLM, Enabling the Exfiltration of Sensitive Information" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/litellm-supply-chain-attack/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">PyPI Supply Chain Attack Compromises LiteLLM, Enabling the Exfiltration of Sensitive Information</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-31 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18923942&w=600" alt="Reliability Is Security: Why SRE Teams Are Becoming the Frontline of Cloud Defense" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/reliability-is-security-sre-teams-frontline-defense" target="_blank">Reliability Is Security: Why SRE Teams Are Becoming the Frontline of Cloud Defense</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-31 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +221,6 @@
                 <span class="time">2026-03-31 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shakewithabhi/how-i-built-secure-firebase-cloud-functions-with-admin-permissions-and-rate-limiting-2p8" target="_blank">How I Built Secure Firebase Cloud Functions with Admin Permissions and Rate Limiting</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-31 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18922323&w=600" alt="Kubernetes Autoscaling: What Breaks Under Real Traffic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/kubernetes-autoscaling-what-breaks-under" target="_blank">Kubernetes Autoscaling: What Breaks Under Real Traffic</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-31 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/PS5-grid.jpg" alt="One Chart Shows Buying An Old PlayStation Has Never Been This Expensive Before" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/one-chart-shows-buying-an-old-playstation-has-never-been-this-expensive-before-2000683668" target="_blank">One Chart Shows Buying An Old PlayStation Has Never Been This Expensive Before</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-31 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/HR-Block-Tax-Software-Deluxe.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Get affordable support with your federal and state taxes with H&amp;R Block Deluxe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/31/get-affordable-support-with-your-federal-and-state-taxes-with-hr-block-deluxe.html" target="_blank">Get affordable support with your federal and state taxes with H&amp;R Block Deluxe</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-31 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Best-Gadgets-March-2026-1280x853.png" alt="The Best Gadgets of March 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +292,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/31/grandpa-pudding-brains-energy-policy-go-steal-it-for-yourself.html" target="_blank">Grandpa Pudding Brains&#x27; energy policy: go steal it for yourself!</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-31 18:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KN2DRXARMGWRYJQ5QZ85PV4J/hero-image.jpg" alt="The Best Books, Movies, Video Games, and Podcasts to Check Out After Watching ‘The Boys’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/the-boys-streamalikes-books-movies-video-games-and-podcasts?utm_medium=RSS" target="_blank">The Best Books, Movies, Video Games, and Podcasts to Check Out After Watching ‘The Boys’</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-31 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Gemini_Generated_Milgram.jpg?fit=1200%2C855&amp;quality=60&amp;ssl=1" alt="Audio tapes challenge Milgram obedience findings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/31/audio-tapes-challenge-milgram-obedience-findings.html" target="_blank">Audio tapes challenge Milgram obedience findings</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-31 17:58</span>
             </div>
         </div>
 </div>
@@ -325,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 21:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 22:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
