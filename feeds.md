@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-03-31 02:58:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-31 04:02:54 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, March 31, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, March 31, 2026 - 04:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/31/what-we-learned-from-al-jazeeras-interview-with-marco-rubio?traffic_source=rss" target="_blank">What we learned from Al Jazeera’s interview with Marco Rubio</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-31 03:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +101,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/trump-urging-congress-back-recess-fund-dhs-shutdown/story?id=131551734" target="_blank">Trump urging Congress to cut recess short to end DHS shutdown, White House says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-03-30 21:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/30/rubio-says-nato-must-be-re-examined-after-spain-blocks-us-operation-on-iran?traffic_source=rss" target="_blank">Rubio says NATO must be re-examined after Spain blocks US operation on Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-30 20:32</span>
             </div>
         </div>
 </div>
@@ -169,6 +171,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/burnsideproject/know-your-postgresql-health-before-it-breaks-ai-powered-postgresql-observability-36he" target="_blank">AI-powered PostgreSQL observability</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-31 03:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan" target="_blank">Axios Compromised on NPM – Malicious Versions Drop Remote Access Trojan</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-31 02:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/amanda_gerdes_c2ce3b31099/starrocks-is-not-enterprise-ready-5hk4" target="_blank">StarRocks Is Not Enterprise Ready</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-31 02:48</span>
@@ -199,24 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Optimization-Zone" target="_blank">Intel Announces The &quot;Optimization Zone&quot;</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-03-31 00:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dohkoai/5-ai-powered-code-review-pipelines-you-can-build-this-weekend-2683" target="_blank">5 AI-Powered Code Review Pipelines You Can Build This Weekend</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-31 00:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/introducing-red-hat-universal-base-image" target="_blank">Introducing the Red Hat Universal Base Image</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-03-31 00:00</span>
             </div>
         </div>
 </div>
@@ -342,22 +344,13 @@
                 <span class="time">2026-03-30 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/home_solar.png" alt="Home Solar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3226/" target="_blank">Home Solar</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-03-30 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 143 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 04:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
