@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-03-31 01:31:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-31 02:58:51 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, March 31, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, March 31, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +54,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/3/31/at-least-70-killed-30-wounded-in-haiti-gang-attack-rights-group-says?traffic_source=rss" target="_blank">At least 70 killed, 30 wounded in Haiti gang attack, rights group says</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-03-31 00:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2468/live/66f971b0-2c77-11f1-a75a-f95187682629.jpg" alt="Starmer gives doctors 48 hours to cancel strike or lose new jobs package" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c23909pge35o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer gives doctors 48 hours to cancel strike or lose new jobs package</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-30 22:47</span>
             </div>
         </div>
 <div class="story">
@@ -93,20 +101,20 @@
                 <span class="time">2026-03-30 20:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/30/nx-s1-5707305/yemen-politician-assassination-us-soldiers-lawsuit" target="_blank">Yemeni politician says former U.S. soldiers tried to kill him. Now he&#x27;s suing in U.S. court</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-30 20:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/903885/150-million-users-later-roblox-competitor-rec-room-is-shutting-down" target="_blank">150 million users later, Roblox competitor Rec Room is shutting down</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-31 00:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +160,6 @@
                 <span class="time">2026-03-30 20:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2224516673-500x500.jpg" alt="Authors&#x27; lucky break in court may help class action over Meta torrenting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/03/meta-hopes-scotus-piracy-ruling-will-help-it-beat-lawsuit-over-torrenting-ai-data/" target="_blank">Authors&#x27; lucky break in court may help class action over Meta torrenting</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-30 19:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,9 +169,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/amanda_gerdes_c2ce3b31099/starrocks-is-not-enterprise-ready-5hk4" target="_blank">StarRocks Is Not Enterprise Ready</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-31 02:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ji_ai/open-source-mit-license-fork-of-rtk-the-full-story-1pp0" target="_blank">Open Source, MIT License, Fork of RTK — The Full Story</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-31 01:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/drona23/claude-token-efficient" target="_blank">Universal Claude.md – cut Claude output tokens by 63%</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-31 01:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Optimization-Zone" target="_blank">Intel Announces The &quot;Optimization Zone&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-31 00:20</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +217,6 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/introducing-red-hat-universal-base-image" target="_blank">Introducing the Red Hat Universal Base Image</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-03-31 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/google-drive-nautilus-file-manager-gnome.webp?resize=406%2C232&amp;ssl=1" alt="GNOME 50 dropped support for accessing Google Drive files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/03/google-drive-not-working-nautilus-ubuntu-26-04" target="_blank">GNOME 50 dropped support for accessing Google Drive files</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-03-30 23:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Archinstall-4.0-Released" target="_blank">Archinstall 4.0 Released For Improved Arch Linux Installer Using Textual UI</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-30 22:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://30u30.fyi" target="_blank">Show HN: 30u30.fyi – Is your startup founder on Forbes&#x27; most fraudulent list?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-03-30 22:10</span>
             </div>
         </div>
 </div>
@@ -299,6 +298,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5797.png" alt="Marsupial Supremacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5797" target="_blank">Marsupial Supremacy</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-03-31 00:43</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -348,8 +356,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 143 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
