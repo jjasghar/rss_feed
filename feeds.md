@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-03-31 00:10:29 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-03-31 01:31:11 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, March 31, 2026 - 00:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, March 31, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/3/31/at-least-70-killed-30-wounded-in-haiti-gang-attack-rights-group-says?traffic_source=rss" target="_blank">At least 70 killed, 30 wounded in Haiti gang attack, rights group says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-31 00:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2468/live/66f971b0-2c77-11f1-a75a-f95187682629.jpg" alt="PM gives BMA 48 hours to call-off strike or lose 1,000 training posts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c23909pge35o?at_medium=RSS&at_campaign=rss" target="_blank">PM gives BMA 48 hours to call-off strike or lose 1,000 training posts</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-30 22:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/03/30/nx-s1-5707305/yemen-politician-assassination-us-soldiers-lawsuit" target="_blank">Yemeni politician says former U.S. soldiers tried to kill him. Now he&#x27;s suing in U.S. court</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-30 20:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/30/nx-s1-5766344/trump-rolls-back-pause-on-asylum-decisions" target="_blank">Trump rolls back pause on asylum decisions imposed after D.C. National Guard shooting</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-30 19:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/tsa-workers-gty-jt-260327_1774641813848_hpMain_4x3t_384.jpg" alt="TSA officers receive their 1st paychecks in weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/tsa-officers-receive-1st-paychecks-weeks/story?id=131545968" target="_blank">TSA officers receive their 1st paychecks in weeks</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-03-30 19:47</span>
             </div>
         </div>
 </div>
@@ -172,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ji_ai/open-source-mit-license-fork-of-rtk-the-full-story-1pp0" target="_blank">Open Source, MIT License, Fork of RTK — The Full Story</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-31 01:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dohkoai/5-ai-powered-code-review-pipelines-you-can-build-this-weekend-2683" target="_blank">5 AI-Powered Code Review Pipelines You Can Build This Weekend</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-31 00:04</span>
@@ -213,15 +220,6 @@
                 <span class="time">2026-03-30 22:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-WSL-ROCm-ROCDXG" target="_blank">AMD Improves GPU Support Under WSL With Production Open-Source ROCDXG</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-03-30 21:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +239,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/democracy-manifest-1280x725.jpg" alt="National Film and Sound Archive of Australia Adds ‘Succulent Chinese Meal’ Guy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/national-film-and-sound-archive-of-australia-adds-succulent-chinese-meal-guy-2000737761" target="_blank">National Film and Sound Archive of Australia Adds ‘Succulent Chinese Meal’ Guy</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-31 01:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/t2_07.jpg?fit=800%2C617&amp;quality=60&amp;ssl=1" alt="Enter the EVO-T2, a $1900 mini PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/30/enter-the-evo-t2-a-1900-mini-pc.html" target="_blank">Enter the EVO-T2, a $1900 mini PC</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-03-31 00:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKXQ7MHXEETBNV890EM2DSYK/hero-image.png" alt="You Can Get This 2025 11-Inch iPad With Cellular on Sale for Just $360 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/11-inch-ipad-with-cellular-stacksocial-sale-march-2026?utm_medium=RSS" target="_blank">You Can Get This 2025 11-Inch iPad With Cellular on Sale for Just $360 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-03-31 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Photo-Chigago-Museum-of-Art.jpg?fit=1080%2C715&amp;quality=60&amp;ssl=1" alt="Rembrandt copy was copied by the master himself" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,33 +291,6 @@
                 <span class="title"><a href="https://gizmodo.com/dji-osmo-360-review-the-best-360-camera-for-the-dji-pilled-2000739210" target="_blank">DJI Osmo 360 Review: The Best 360 Camera for the DJI-Pilled</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-03-30 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJ6Y2H5W1RQSP23PW623E5MR/hero-image.png" alt="This Keychron K8 QMK Keyboard With Hot-Swappable Switches Is on Sale for Under $85 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/keychron-k8-qmk-keyboard-stacksocial-sale-march-2026?utm_medium=RSS" target="_blank">This Keychron K8 QMK Keyboard With Hot-Swappable Switches Is on Sale for Under $85 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-30 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2022/04/961a6e272058edefda2feafd0e2bd8bd-1280x681.jpg" alt="OpenAI’s Video Plagiarism App Sora Was Reportedly Losing $1 Million A Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/openais-video-plagiarism-app-sora-was-reportedly-losing-1-million-a-day-2000683277" target="_blank">OpenAI’s Video Plagiarism App Sora Was Reportedly Losing $1 Million A Day</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-30 21:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KN05JMB2QBGRGRGP67912M8S/hero-image.png" alt="What to Buy During Amazon&#x27;s Big Spring Sale If You&#x27;ve Always Wanted to Start Podcasting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/podcasting-audio-equipment-amazon-big-spring-sale-2026?utm_medium=RSS" target="_blank">What to Buy During Amazon&#x27;s Big Spring Sale If You&#x27;ve Always Wanted to Start Podcasting</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-30 21:30</span>
             </div>
         </div>
 </div>
@@ -345,22 +343,13 @@
                 <span class="time">2026-03-30 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5796.png" alt="Mind The Gap" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5796" target="_blank">Mind The Gap</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-03-30 00:57</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 141 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 00:10 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
