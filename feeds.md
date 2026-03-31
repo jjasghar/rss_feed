@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-03-31 16:18:51 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-03-31 17:18:27 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Generated 12 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, March 31, 2026 - 16:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, March 31, 2026 - 17:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,10 +47,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2026/3/31/aje-onl-tt_irn_whatcouldendthewar_av_v2-310326?traffic_source=rss" target="_blank">Why Iran believes it can outlast the US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-31 17:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/03/31/nx-s1-5768105/supreme-court-conversion-therapy-colorado-ban" target="_blank">Supreme Court strikes Colorado ban on conversion therapy</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-03-31 15:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2c3/live/b6e32b60-2d0a-11f1-ba67-f7b8dbc6a466.jpg" alt="Carey Mulligan awarded CBE at Windsor Castle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm2rkmv4g7no?at_medium=RSS&at_campaign=rss" target="_blank">Carey Mulligan awarded CBE at Windsor Castle</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-31 15:55</span>
             </div>
         </div>
 <div class="story">
@@ -67,30 +90,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774967457631_now_brk_reilly_conversion_scotus_260331_S3_1920x1080-iqlw5l.jpg" alt="Supreme Court rules against Colorado ban on conversion therapy aimed at LGBTQ youth" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/31/nx-s1-5763689/alex-jones-infowars-josh-owens-the-madness-of-believing" target="_blank">Former Alex Jones employee says: &#x27;It was nonsense, it was lies&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-31 14:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/31/us-defence-secretary-says-next-few-days-in-iran-war-will-be?traffic_source=rss" target="_blank">US defence secretary says next few days in Iran war will be ‘decisive’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-31 13:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/31/iranian-rescuers-save-two-civilians-from-rubble-after-us-israeli-strikes?traffic_source=rss" target="_blank">Iranian rescuers save two civilians from rubble after US-Israeli strikes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-31 12:01</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/supreme-court-rules-against-colorado-ban-on-conversion-therapy-aimed-at-lgbtq-youth-260439109676" target="_blank">Supreme Court rules against Colorado ban on conversion therapy aimed at LGBTQ youth</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-31 14:31</span>
             </div>
         </div>
 </div>
@@ -98,6 +103,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/55165944221_60d35d49b5_k-500x500.jpg" alt="This is my third Orion launch, but it feels totally different" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/03/this-is-my-third-orion-launch-but-it-feels-totally-different/" target="_blank">This is my third Orion launch, but it feels totally different</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-31 17:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69cad696a096b304782ee374/master/pass/Senator-Demands-More-Transparency-From-Humans-Behind-Self-Driving-Cars-Gear-2265246664.jpg" alt="Tesla Says Its Robotaxis Are Sometimes Driven by Remote Humans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/tesla-says-its-robotaxis-are-sometimes-driven-by-humans/" target="_blank">Tesla Says Its Robotaxis Are Sometimes Driven by Remote Humans</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-31 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-855684128-500x500-1774971182.jpg" alt="Costco sued for seeking refunds on tariffs customers paid" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,29 +157,29 @@
                 <span class="time">2026-03-31 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/NHQ202603270007large-500x500.jpg" alt="After more than 53 years, humans may finally return to the Moon this week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/03/after-more-than-53-years-humans-may-finally-return-to-the-moon-this-week/" target="_blank">After more than 53 years, humans may finally return to the Moon this week</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-31 14:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/903999/okcupid-settles-claims-it-shared-user-photos-with-a-facial-recognition-company" target="_blank">OkCupid settles claims it shared user photos with a facial recognition company</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-31 14:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzxsu96h8cqi83x3js5yn.png" alt="How do private resources in AWS Private Subnets still get updates from the internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ayomtuase/how-do-private-resources-in-aws-private-subnets-still-get-updates-from-the-internet-2hpe" target="_blank">How do private resources in AWS Private Subnets still get updates from the internet</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-31 17:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18878168&w=600" alt="Designing Production-Grade AI Tools: Why Architecture Matters More Than Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/designing-production-grade-ai-tools" target="_blank">Designing Production-Grade AI Tools: Why Architecture Matters More Than Models</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-03-31 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9n2gnww58vzk7adkd7cz.png" alt="Two-level concurrency in Node.js - worker threads and async pools for data integration pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,24 +216,6 @@
                 <span class="time">2026-03-31 14:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/culture-systems-teams-careers/en/mediumimage/medium-shawna-dan-1774442937059.jpg" alt="Presentation: Hidden Decisions You Don’t Know You’re Making" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/culture-systems-teams-careers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Hidden Decisions You Don’t Know You’re Making</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-31 13:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pushtomaster/i-built-an-uptime-monitor-after-freshping-shut-down-heres-what-i-learned-7b6" target="_blank">I built an uptime monitor after Freshping shut down — here&#x27;s what I learned</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-31 13:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/marathon-1280x757.jpg" alt="Marathon Cracks Down On Viral Movement Exploits That Are ‘Ultimately Unhealthy’ For The Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marathon-patch-exploit-pinwheel-2000683593" target="_blank">Marathon Cracks Down On Viral Movement Exploits That Are ‘Ultimately Unhealthy’ For The Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-03-31 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Backrooms-1280x853.jpg" alt="The New ‘Backrooms’ Trailer Is Packed Full of Endless Dread" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/backrooms-trailer-chiwetel-ejiofor-renate-reinsve-2000740396" target="_blank">The New ‘Backrooms’ Trailer Is Packed Full of Endless Dread</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-31 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Image-Albert89-Shutterstock.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Another Starlink satellite has exploded" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,24 +287,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/amazon-big-spring-sale-03-31-2026-live-blog?utm_medium=RSS" target="_blank">Amazon Big Spring Sale 2026 Live Blog: All the Best Deals From Apple, Kindle, Garmin, and More</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-03-31 14:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/b4b89395878106ba5e37cadc5dde028c.jpg" alt="The New Mode Isn’t The Most Important Thing In Mario Kart World’s New Patch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mario-kart-world-switch-2-patch-1-6-0-boomerang-bob-omb-2000683540" target="_blank">The New Mode Isn’t The Most Important Thing In Mario Kart World’s New Patch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-31 13:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/rousseau.jpg?fit=958%2C561&amp;quality=60&amp;ssl=1" alt="Air Canada&#x27;s CEO to retire after failing to issue condolences in French" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/31/air-canadas-ceo-to-retire-after-failing-to-issue-condolences-in-french.html" target="_blank">Air Canada&#x27;s CEO to retire after failing to issue condolences in French</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-31 13:04</span>
             </div>
         </div>
 </div>
@@ -321,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 16:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 17:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
