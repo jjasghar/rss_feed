@@ -1,41 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-03-31 19:20:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-31 20:09:14 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, March 31, 2026 - 19:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, March 31, 2026 - 20:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/31/nx-s1-5768446/judge-rules-white-house-ballroom-construction-must-halt-until-congress-oks-it" target="_blank">Judge rules White House ballroom construction must halt until Congress OK&#x27;s it</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-31 19:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/31/how-pakistan-positioned-itself-at-the-center-of-global-crisis-management?traffic_source=rss" target="_blank">How Pakistan positioned itself at the center of global crisis management</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-31 19:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +96,20 @@
                 <span class="time">2026-03-31 17:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2026/3/31/aje-onl-tt_irn_whatcouldendthewar_av_v2-310326?traffic_source=rss" target="_blank">Why Iran believes it can outlast the US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-31 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/31/nx-s1-5768105/supreme-court-conversion-therapy-colorado-ban" target="_blank">Supreme Court strikes Colorado ban on conversion therapy</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-31 15:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/904579/samsung-hearapy-mobile-app-galaxy-buds-motion-sickness-symptoms" target="_blank">Samsung’s new app claims to alleviate motion sickness using sound</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-31 19:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,15 +155,6 @@
                 <span class="time">2026-03-31 17:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/55165944221_60d35d49b5_k-500x500.jpg" alt="This is my third Orion launch, but it feels totally different" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/03/this-is-my-third-orion-launch-but-it-feels-totally-different/" target="_blank">This is my third Orion launch, but it feels totally different</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-31 17:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +167,15 @@
                 <span class="title"><a href="https://dev.to/tomorrmonkey/when-your-llm-becomes-your-twin-and-starts-judging-your-code-4pf6" target="_blank">When Your LLM Becomes Your Twin (and Starts Judging Your Code) 🤖👀</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-31 19:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://damrnelson.github.io/github-historical-uptime/" target="_blank">GitHub&#x27;s Historic Uptime</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-03-31 19:01</span>
             </div>
         </div>
 <div class="story">
@@ -214,15 +214,6 @@
                 <span class="time">2026-03-31 17:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!FctC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff39fe534-3703-4096-acc3-fcc01d4d5d00_1600x1200.jpeg" alt="What is inference engineering? Deepdive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering" target="_blank">What is inference engineering? Deepdive</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-03-31 17:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Best-Gadgets-March-2026-1280x853.png" alt="The Best Gadgets of March 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/best-gadgets-march-2026-2000740331" target="_blank">The Best Gadgets of March 2026</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-31 20:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/trump-mad.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains&#x27; energy policy: go steal it for yourself!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +287,6 @@
                 <span class="time">2026-03-31 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Backrooms-1280x853.jpg" alt="The New ‘Backrooms’ Trailer Is Packed Full of Endless Dread" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/backrooms-trailer-chiwetel-ejiofor-renate-reinsve-2000740396" target="_blank">The New ‘Backrooms’ Trailer Is Packed Full of Endless Dread</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-31 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 19:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 20:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
