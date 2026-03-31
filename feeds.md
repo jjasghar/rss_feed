@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-03-31 13:29:01 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-03-31 14:28:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, March 31, 2026 - 13:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, March 31, 2026 - 14:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/31/nx-s1-5763689/alex-jones-infowars-josh-owens-the-madness-of-believing" target="_blank">Former Alex Jones employee says: &#x27;It was nonsense, it was lies&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-31 14:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +99,29 @@
                 <span class="time">2026-03-31 11:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774956196030_tdy_news_7a_cheung_gas_4_per_gallon_260331_S3_1920x1080-mrohzm.jpg" alt="Gas Prices Top $4 a Gallon as Iran War Sends Price of Oil Soaring" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/gas-prices-top-4-a-gallon-as-iran-war-sends-price-of-oil-soaring-260427845544" target="_blank">Gas Prices Top $4 a Gallon as Iran War Sends Price of Oil Soaring</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-31 11:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/NHQ202603270007large-500x500.jpg" alt="After more than 53 years, humans may finally return to the Moon this week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/03/after-more-than-53-years-humans-may-finally-return-to-the-moon-this-week/" target="_blank">After more than 53 years, humans may finally return to the Moon this week</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-03-31 14:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/903999/okcupid-settles-claims-it-shared-user-photos-with-a-facial-recognition-company" target="_blank">OkCupid settles claims it shared user photos with a facial recognition company</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-31 14:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +158,29 @@
                 <span class="time">2026-03-31 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c31871ea56e672b4eef17c/master/pass/The-Best-Deals-From-the-Amazon-Spring-Sale.jpg" alt="These 40 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-amazon-spring-sale-2026-2/" target="_blank">These 40 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-03-31 09:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/31/airbnb-private-car-pick-up-service-welcome-pickups/" target="_blank">Airbnb is introducing a private car pick-up service</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-31 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rust-DRM-For-Linux-7.1" target="_blank">A Lot Of Rust Graphics Driver Changes For Linux 7.1, NVIDIA Nova Driver Additions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-03-31 14:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/culture-systems-teams-careers/en/mediumimage/medium-shawna-dan-1774442937059.jpg" alt="Presentation: Hidden Decisions You Don’t Know You’re Making" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/culture-systems-teams-careers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Hidden Decisions You Don’t Know You’re Making</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-31 13:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +215,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/03/kubernetes-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Kubernetes Autoscaling Demands New Observability Focus Beyond Vendor Tooling</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-03-31 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbuxp8q2wudlv789acuu5.png" alt="We Do Not Create from Nowhere" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hidden_developer_5c94d579/we-do-not-create-from-nowhere-4a2e" target="_blank">We Do Not Create from Nowhere</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-31 11:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17310237/libreoffice-vs-onlyoffice" target="_blank">LibreOffice vs ONLYOFFICE - Which One Is Right For You?</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-03-31 10:32</span>
             </div>
         </div>
 </div>
@@ -327,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 13:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 14:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
