@@ -1,39 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-03-31 11:15:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-03-31 12:12:43 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 13 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, March 31, 2026 - 11:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, March 31, 2026 - 12:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +53,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/31/iranian-rescuers-save-two-civilians-from-rubble-after-us-israeli-strikes?traffic_source=rss" target="_blank">Iranian rescuers save two civilians from rubble after US-Israeli strikes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-03-31 12:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6753/live/6e1e1f30-2cfa-11f1-a79a-77e93010d956.jpg" alt="Teenage boy at centre of Scott Mills sexual offences investigation was under 16, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwykq2lqjw7o?at_medium=RSS&at_campaign=rss" target="_blank">Teenage boy at centre of Scott Mills sexual offences investigation was under 16, police say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-03-31 11:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/war-with-iran-abc-gmh-260303_1772549475149_hpMain_4x3t_384.jpg" alt="LIVE:  Secretary Hegseth holds news conference on Iran war: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Secretary Hegseth holds news conference on Iran war: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-03-31 11:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/03/31/g-s1-115928/up-first-newsletter-dubai-iran-middle-east-trump-tsa-dhs-asylum" target="_blank">DHS resumes asylum decisions. And, Iran&#x27;s strike injures over 12 U.S. personnel</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-03-31 11:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Israel-fire-DB-260331_1774944890701_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel and Gulf states report new Iranian strikes, tanker hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,47 +107,29 @@
                 <span class="time">2026-03-31 10:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/31/nx-s1-5766991/iran-war-lebanon-israel-dubai" target="_blank">Iran hits oil tanker off Dubai as fighting continues on all fronts</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-31 10:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ecf/live/46e88b10-2cd4-11f1-a79a-77e93010d956.jpg" alt="Police say teenage boy at centre of Scott Mills sexual offences investigation was under 16" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwykq2lqjw7o?at_medium=RSS&at_campaign=rss" target="_blank">Police say teenage boy at centre of Scott Mills sexual offences investigation was under 16</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-31 10:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/3/31/caster-semenya-pledges-to-fight-against-olympic-gender-testing-policy?traffic_source=rss" target="_blank">Caster Semenya pledges to fight against Olympic gender-testing policy</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-31 10:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/31/nx-s1-5761354/birthright-citizenship-child-health-medicaid-social-security" target="_blank">Babies are an afterthought in the birthright citizenship case, advocates say</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-31 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/897520/apple-without-steve-jobs-90s" target="_blank">Between Jobs</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-03-31 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69ca1ce8e1e04f72f973e688/master/pass/How-to-Back-Up-Your-Digital-Life.jpg" alt="Backup Files and Your Entire Digital Life (2026): Hard Drives, Cloud-Based Tools, and Tips" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-back-up-your-digital-life/" target="_blank">Backup Files and Your Entire Digital Life (2026): Hard Drives, Cloud-Based Tools, and Tips</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-03-31 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +166,29 @@
                 <span class="time">2026-03-31 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/903906/another-starlink-satellite-has-inexplicably-exploded" target="_blank">Another Starlink satellite has inexplicably exploded</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-31 08:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/31/the-silicon-valley-congressional-race-is-getting-ugly/" target="_blank">The Silicon Valley congressional race is getting ugly</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-31 07:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdfp6htpnepvzg9d96usf.webp" alt="The WooCommerce UCP Guide: What Our Monitoring Data Reveals About WordPress Agent Commerce" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/benjifisher/the-woocommerce-ucp-guide-what-our-monitoring-data-reveals-about-wordpress-agent-commerce-2439" target="_blank">The WooCommerce UCP Guide: What Our Monitoring Data Reveals About WordPress Agent Commerce</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-03-31 12:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/03/kubernetes-observability/en/headerimage/generatedHeaderImage-1774787835389.jpg" alt="Kubernetes Autoscaling Demands New Observability Focus Beyond Vendor Tooling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/03/kubernetes-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Kubernetes Autoscaling Demands New Observability Focus Beyond Vendor Tooling</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-03-31 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbuxp8q2wudlv789acuu5.png" alt="We Do Not Create from Nowhere" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -174,6 +196,15 @@
                 <span class="title"><a href="https://dev.to/hidden_developer_5c94d579/we-do-not-create-from-nowhere-4a2e" target="_blank">We Do Not Create from Nowhere</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-03-31 11:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17310237/libreoffice-vs-onlyoffice" target="_blank">LibreOffice vs ONLYOFFICE - Which One Is Right For You?</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-03-31 10:32</span>
             </div>
         </div>
 <div class="story">
@@ -194,31 +225,18 @@
                 <span class="time">2026-03-31 09:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/event-driven-banking-architecture/en/headerimage/event-driven-banking-architecture-header-1774430827143.jpg" alt="Article: Event-Driven Patterns for Cloud-Native Banking: Lessons from What Works and What Hurts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/event-driven-banking-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Event-Driven Patterns for Cloud-Native Banking: Lessons from What Works and What Hurts</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-31 09:00</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ben_davies/1password-dotenvx-tool-clf" target="_blank">1Password &amp; Dotenvx Tool</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-31 08:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/kubevirt-18-announcement/en/headerimage/generatedHeaderImage-1774805714409.jpg" alt="KubeVirt v1.8 Brings Multi-Hypervisor Support and Confidential Computing to Kubernetes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/kubevirt-18-announcement/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">KubeVirt v1.8 Brings Multi-Hypervisor Support and Confidential Computing to Kubernetes</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-31 07:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/inventors-of-quantum-cryptography-win-turing-award.html" target="_blank">Inventors of Quantum Cryptography Win Turing Award</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-03-31 11:05</span>
             </div>
         </div>
 </div>
@@ -226,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/trump-library-wide-1280x707.jpg" alt="Trump Posts Concept Art of His Presidential Library, and It’s AI Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-posts-concept-art-of-his-presidential-library-and-its-ai-slop-2000740095" target="_blank">Trump Posts Concept Art of His Presidential Library, and It’s AI Slop</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-03-31 12:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Orion-Earth-Artemis1-1280x853.jpg" alt="Artemis 2 by the Numbers: Breaking Down NASA’s Big Return to the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +298,6 @@
                 <span class="time">2026-03-31 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Photo-Chigago-Museum-of-Art.jpg?fit=1080%2C715&amp;quality=60&amp;ssl=1" alt="Rembrandt copy was copied by the master himself" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/30/rembrandt-copy-was-copied-by-the-master-himself.html" target="_blank">Rembrandt copy was copied by the master himself</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-30 23:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 147 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 11:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 12:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
