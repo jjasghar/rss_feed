@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-01 11:17:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-01 12:12:20 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, April 01, 2026 - 11:18 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, April 01, 2026 - 12:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/01/g-s1-116034/up-first-newsletter-iran-war-strait-of-hormuz-birthright-citizenship-white-house-ballroom-npr-pbs" target="_blank">Trump to address nation on Iran war. And, SCOTUS considers birthright citizenship</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-01 11:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +100,20 @@
                 <span class="time">2026-04-01 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/298d/live/f62c1cf0-2d91-11f1-a79a-77e93010d956.jpg" alt="Energy bill help would be based on household income, Reeves says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&at_campaign=rss" target="_blank">Energy bill help would be based on household income, Reeves says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-01 06:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china" target="_blank">Baidu’s robotaxis froze in traffic, creating chaos</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-01 10:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +159,20 @@
                 <span class="time">2026-04-01 01:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals" target="_blank">The best deals to shop during the last few hours of Amazon’s Big Spring Sale</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-01 01:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/principal-engineer-path/en/mediumimage/sophie-weston-medium-1774440461802.jpg" alt="Presentation: The Principal Engineer’s Path: Skills, Strategies, and Lessons Learned" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/principal-engineer-path/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: The Principal Engineer’s Path: Skills, Strategies, and Lessons Learned</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-01 11:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,13 +218,18 @@
                 <span class="time">2026-04-01 08:11</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts" target="_blank">CERN levels up with new superconducting karts</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-01 07:27</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/a-taxonomy-of-cognitive-security.html" target="_blank">A Taxonomy of Cognitive Security</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-04-01 09:59</span>
             </div>
         </div>
 </div>
@@ -226,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KME936P2J3GKT4X4MR5Y166T/hero-image.png" alt="Amazon Big Spring Sale 2026 Live Blog: All the Best Deals From Apple, Kindle, Garmin, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/amazon-big-spring-sale-live-blog?utm_medium=RSS" target="_blank">Amazon Big Spring Sale 2026 Live Blog: All the Best Deals From Apple, Kindle, Garmin, and More</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-01 10:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Supergirl.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="Krypto is in trouble in the new Supergirl trailer and he had better be OK" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +289,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/31/diy-camera-inspired-by-production-design-of-1979s-alien.html" target="_blank">DIY camera inspired by production design of 1979&#x27;s Alien</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-03-31 22:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KN2YMQCZX9VQ5M28PW7F1XVC/hero-image.png" alt="These Are the Best Last-Minute Deals on Smart Glasses for Amazon&#x27;s Big Spring Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-smart-glasses-amazon-big-spring-sale-2026?utm_medium=RSS" target="_blank">These Are the Best Last-Minute Deals on Smart Glasses for Amazon&#x27;s Big Spring Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-03-31 22:16</span>
             </div>
         </div>
 </div>
@@ -326,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 11:18 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 12:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
