@@ -1,27 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-01 14:29:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-01 15:25:08 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 18 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, April 01, 2026 - 14:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, April 01, 2026 - 15:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/01/g-s1-115929/israel-south-lebanon-evacuation" target="_blank">After Israel&#x27;s invasion, many in southern Lebanon worry they&#x27;ll never go home</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-01 15:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,20 +99,38 @@
                 <span class="time">2026-04-01 11:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/01/nx-s1-5769805/iran-war-trump" target="_blank">Trump to address nation after saying U.S. may leave war within weeks</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-01 10:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/905189/raspberry-pi-price-increases-pi-4-3gb" target="_blank">These Raspberry Pi price hikes are no joke</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-01 15:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69cc3b08e44f7d6c4c984a2e/master/pass/politics_militia_influencer_recruit.jpg" alt="The New Era of Militia Influencers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-new-era-of-militia-influencers/" target="_blank">The New Era of Militia Influencers</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-01 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/01/hasbro-hacked-may-take-several-weeks-to-recover/" target="_blank">Hasbro says it was hacked, and may take ‘several weeks’ to recover</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-01 14:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -123,38 +158,20 @@
                 <span class="time">2026-04-01 10:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china" target="_blank">Baidu’s robotaxis froze in traffic creating chaos</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-01 10:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" alt="Babbel Promo Code: Up to 65% Off in April 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/babbel-promo-code/" target="_blank">Babbel Promo Code: Up to 65% Off in April 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-01 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/" target="_blank">Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-01 01:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/05/ubuntu-circuit.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu quietly raises its minimum system requirements" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/ubuntu-2604-system-requriments" target="_blank">Ubuntu quietly raises its minimum system requirements</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-01 14:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18921452&w=600" alt="SELECT AI Query Integration Using Oracle Autonomous Database 26AI and OpenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -185,28 +202,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17311610/arch-installer-4-0-release" target="_blank">Arch Installer Goes 4.0 With a New Face and Fewer &amp;#x27;Curses&amp;#x27;</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-01 12:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/principal-engineer-path/en/mediumimage/sophie-weston-medium-1774440461802.jpg" alt="Presentation: The Principal Engineer’s Path: Skills, Strategies, and Lessons Learned" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/principal-engineer-path/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: The Principal Engineer’s Path: Skills, Strategies, and Lessons Learned</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-01 11:48</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://isbgpsafeyet.com/" target="_blank">Is BGP Safe Yet? No. Test Your ISP</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-01 13:10</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17311547/gnome-drops-google-drive-support" target="_blank">GNOME 50 Drops Google Drive Integration (For Valid Reasons)</a></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17311610/arch-installer-4-0-release" target="_blank">Arch Installer Goes 4.0 With a New Face and Fewer &amp;#x27;Curses&amp;#x27;</a></span>
                 <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-01 11:15</span>
+                <span class="time">2026-04-01 12:36</span>
             </div>
         </div>
 </div>
@@ -228,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/ASUS-Chromebook-CM30.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This refurbished ASUS Chromebook flips between laptop and tablet for just $150" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/01/this-refurbished-asus-chromebook-flips-between-laptop-and-tablet-for-just-150.html" target="_blank">This refurbished ASUS Chromebook flips between laptop and tablet for just $150</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-01 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/unbound.jpg" alt="Resident Evil Creator’s New Studio Teams Up With The Maker Of Stellar Blade" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,20 +290,20 @@
                 <span class="time">2026-04-01 04:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Pastor-and-convicted-pedophile-Robert-Morris-in-.jpg?fit=1080%2C810&amp;quality=60&amp;ssl=1" alt="Megachurch pastor who abused 12-year-old is free after 6 months in jail" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/31/megachurch-pastor-who-abused-12-year-old-girl-free-after-6-months-in-jail.html" target="_blank">Megachurch pastor who abused 12-year-old is free after 6 months in jail</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-01 02:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1774994016-20260401.png" alt="Saturday Morning Breakfast Cereal - Loot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/loot" target="_blank">Saturday Morning Breakfast Cereal - Loot</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-01 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -314,22 +331,13 @@
                 <span class="time">2026-03-31 16:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1774665092-20260331.png" alt="Saturday Morning Breakfast Cereal - Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/up-4" target="_blank">Saturday Morning Breakfast Cereal - Up</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-03-31 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 14:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 15:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
