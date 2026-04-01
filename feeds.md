@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-01 02:59:22 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-04-01 04:08:48 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 20 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, April 01, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, April 01, 2026 - 04:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/1/judge-halts-trump-ballroom-project-trump-says-work-can-go-on?traffic_source=rss" target="_blank">Judge halts Trump ballroom project; Trump says work can go on</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-01 03:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,15 +96,6 @@
                 <span class="title"><a href="https://news.sky.com/story/tiger-woods-stepping-away-for-treatment-after-not-guilty-plea-13526673" target="_blank">Tiger Woods releases first statement since car crash</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-03-31 22:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3518/live/07c5a0c0-2d4d-11f1-934f-036468834728.png" alt="Man charged after seven people hit by car in Derby" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwywd5ek9x9o?at_medium=RSS&at_campaign=rss" target="_blank">Man charged after seven people hit by car in Derby</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-03-31 22:01</span>
             </div>
         </div>
 </div>
@@ -161,9 +166,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/agentq/forms-validations-in-rails-3lmd" target="_blank">Forms &amp; Validations in Rails</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-01 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/lucas_ferreira/como-o-ataque-a-cadeia-de-suprimentos-do-npm-axios-acontece-e-como-proteger-seus-projetos-de-api-3ik9" target="_blank">Como o Ataque à Cadeia de Suprimentos do NPM Axios Acontece (E Como Proteger Seus Projetos de API)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-01 02:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/" target="_blank">We intercepted the White House app&#x27;s traffic. 77% of requests go to 3rd parties</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-01 01:58</span>
             </div>
         </div>
 <div class="story">
@@ -193,24 +216,6 @@
                 <span class="time">2026-03-31 21:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/03/litellm-supply-chain-attack/en/headerimage/litellm-supply-chain-attack-1774987285804.jpeg" alt="PyPI Supply Chain Attack Compromises LiteLLM, Enabling the Exfiltration of Sensitive Information" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/03/litellm-supply-chain-attack/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">PyPI Supply Chain Attack Compromises LiteLLM, Enabling the Exfiltration of Sensitive Information</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-03-31 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18923942&w=600" alt="Reliability Is Security: Why SRE Teams Are Becoming the Frontline of Cloud Defense" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/reliability-is-security-sre-teams-frontline-defense" target="_blank">Reliability Is Security: Why SRE Teams Are Becoming the Frontline of Cloud Defense</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-03-31 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Pastor-and-convicted-pedophile-Robert-Morris-in-.jpg?fit=1080%2C810&amp;quality=60&amp;ssl=1" alt="Megachurch pastor who abused 12-year-old is free after 6 months in jail" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/31/megachurch-pastor-who-abused-12-year-old-girl-free-after-6-months-in-jail.html" target="_blank">Megachurch pastor who abused 12-year-old is free after 6 months in jail</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-01 02:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/new-posters-for-kane-parsons-backrooms-v0-90e1b36mk6sg1.webp?fit=1080%2C790&amp;quality=55&amp;ssl=1" alt="Backrooms trailer clips into existence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,20 +289,20 @@
                 <span class="time">2026-03-31 22:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/PS5-grid.jpg" alt="One Chart Shows Buying An Old PlayStation Has Never Been This Expensive Before" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/one-chart-shows-buying-an-old-playstation-has-never-been-this-expensive-before-2000683668" target="_blank">One Chart Shows Buying An Old PlayStation Has Never Been This Expensive Before</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-03-31 21:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5798.png" alt="Walking The Plank" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5798" target="_blank">Walking The Plank</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-04-01 00:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -312,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 04:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
