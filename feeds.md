@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-01 06:29:22 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-01 07:28:51 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, April 01, 2026 - 06:29 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, April 01, 2026 - 07:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/1/iran-war-what-is-happening-on-day-33-of-us-israel-attacks?traffic_source=rss" target="_blank">Iran war: What is happening on day 33 of US-Israel attacks?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-01 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/298d/live/f62c1cf0-2d91-11f1-a79a-77e93010d956.jpg" alt="Energy bill help would be based on household income, Reeves says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&at_campaign=rss" target="_blank">Energy bill help would be based on household income, Reeves says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-01 06:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/298d/live/f62c1cf0-2d91-11f1-a79a-77e93010d956.jpg" alt="Energy bill support would be based on household income, Reeves says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +97,20 @@
                 <span class="time">2026-04-01 00:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Trump-AF1-DB-260330_1774849855351_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump to address nation with &#x27;important update&#x27; on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: Trump to address nation with &#x27;important update&#x27; on Iran</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-01 00:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774999557981_now_hallie_trump_birthright_citizenship_hallie_260331_S3_1920x1080-77zm2c.jpg" alt="Trump addresses birthright citizenship, mail-in ballots during executive order signing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-addresses-birthright-citizenship-mail-in-ballots-during-executive-order-signing-260472389872" target="_blank">Trump addresses birthright citizenship, mail-in ballots during executive order signing</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-03-31 23:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" alt="Babbel Promo Code: Up to 65% Off in April 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/babbel-promo-code/" target="_blank">Babbel Promo Code: Up to 65% Off in April 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-01 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,27 +142,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal" target="_blank">The AirPods Pro 3 are nearly matching their best-ever price for Amazon’s Big Spring Sale</a></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals" target="_blank">The best deals to shop during the last few hours of Amazon’s Big Spring Sale</a></span>
                 <span class="feed">The Verge</span>
-                <span class="time">2026-03-31 23:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/ollama-speed-500x500.jpg" alt="Running local models on Macs gets faster with Ollama&#x27;s MLX support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/" target="_blank">Running local models on Macs gets faster with Ollama&#x27;s MLX support</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-03-31 23:00</span>
+                <span class="time">2026-04-01 01:14</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/904242/amazon-big-spring-sale-2026-baseus-anker-chargers-power-banks-batteries-deals" target="_blank">Amazon is offering up to 50 percent off chargers from Anker and others for its Big Spring Sale</a></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal" target="_blank">The AirPods Pro 3 are nearly matching their best-ever price for Amazon’s Big Spring Sale</a></span>
                 <span class="feed">The Verge</span>
-                <span class="time">2026-03-31 23:00</span>
+                <span class="time">2026-03-31 23:53</span>
             </div>
         </div>
 </div>
@@ -185,6 +182,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ccunpacked.dev/" target="_blank">Claude Code Unpacked : A visual guide</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-01 05:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/agentq/forms-validations-in-rails-3lmd" target="_blank">Forms &amp; Validations in Rails</a></span>
                 <span class="feed">DEV Community</span>
@@ -207,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/lucas_ferreira/como-o-ataque-a-cadeia-de-suprimentos-do-npm-axios-acontece-e-como-proteger-seus-projetos-de-api-3ik9" target="_blank">Como o Ataque à Cadeia de Suprimentos do NPM Axios Acontece (E Como Proteger Seus Projetos de API)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-01 02:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/" target="_blank">We intercepted the White House app&#x27;s traffic. 77% of requests go to 3rd parties</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-01 01:58</span>
             </div>
         </div>
 </div>
@@ -297,6 +294,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/04/01/awreatha-franklin" target="_blank">Awreatha Franklin</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-04-01 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5798.png" alt="Walking The Plank" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -328,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 06:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 153 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 07:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
