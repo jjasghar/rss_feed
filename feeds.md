@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-01 05:38:12 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-01 06:29:22 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, April 01, 2026 - 05:38 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, April 01, 2026 - 06:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/298d/live/f62c1cf0-2d91-11f1-a79a-77e93010d956.jpg" alt="Energy bill support would be based on household income, Reeves says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&at_campaign=rss" target="_blank">Energy bill support would be based on household income, Reeves says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-01 06:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +100,20 @@
                 <span class="time">2026-03-31 23:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/3/31/eu-warns-oil-and-gas-prices-wont-quickly-return-to-normal-after-iran-war?traffic_source=rss" target="_blank">EU warns oil and gas prices won’t quickly return to normal after Iran war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-03-31 22:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/" target="_blank">Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-01 01:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1238720256-500x500.jpg" alt="NASA is leading the way to the Moon, but the military won&#x27;t be far behind" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,20 +159,20 @@
                 <span class="time">2026-03-31 23:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/" target="_blank">Salesforce announces an AI-heavy makeover for Slack, with 30 new features</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-03-31 22:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/swaroop_kolasani_/before-you-upgrade-hardware-fix-the-software-292k" target="_blank">Before You Upgrade Hardware, Fix the Software</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-01 06:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p1ff5t7gmvkr8axwmsy.webp" alt="The Tab Hoarding Trap: Why We Feel Busy but Get Less Done" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -180,6 +194,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17311246/onlyoffice-forked" target="_blank">ONLYOFFICE Gets Forked as &amp;quot;Made in Europe&amp;quot;, Sparks Licensing and Trust Debate</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-01 03:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/lucas_ferreira/como-o-ataque-a-cadeia-de-suprimentos-do-npm-axios-acontece-e-como-proteger-seus-projetos-de-api-3ik9" target="_blank">Como o Ataque à Cadeia de Suprimentos do NPM Axios Acontece (E Como Proteger Seus Projetos de API)</a></span>
                 <span class="feed">DEV Community</span>
@@ -193,24 +216,6 @@
                 <span class="title"><a href="https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/" target="_blank">We intercepted the White House app&#x27;s traffic. 77% of requests go to 3rd parties</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-01 01:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Gaim-3-In-Development" target="_blank">Gaim 3 Is In Development For Restoring The Original Gaim Instant Messaging App In GTK4</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-01 00:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/commenterthe9/cx-dev-log-2026-03-25-5cj1" target="_blank">Cx Dev Log — 2026-03-25</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-01 00:05</span>
             </div>
         </div>
 </div>
@@ -323,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 05:38 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 06:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
