@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-01 16:16:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-01 17:16:19 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Error processing https://kotaku.com/rss: The read operation timed out -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, April 01, 2026 - 16:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, April 01, 2026 - 17:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/01/nx-s1-5754762/trump-supreme-court-birthright-citizenship" target="_blank">Supreme Court hears challenge to birthright citizenship as Trump attends arguments</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-01 17:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e7f/live/6b402fe0-2de7-11f1-934f-036468834728.jpg" alt="What do Trump&#x27;s latest comments on leaving Nato mean for the alliance?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&at_campaign=rss" target="_blank">What do Trump&#x27;s latest comments on leaving Nato mean for the alliance?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-01 16:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +96,20 @@
                 <span class="time">2026-04-01 15:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfd5/live/b65924b0-2dd7-11f1-a186-bdbec3fa8607.jpg" alt="Trump to give primetime address on war as questions swirl over his next move" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c74vqd8k3g1o?at_medium=RSS&at_campaign=rss" target="_blank">Trump to give primetime address on war as questions swirl over his next move</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-01 14:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2026/4/1/can-russia-help-fill-the-global-energy-gap?traffic_source=rss" target="_blank">Can Russia help fill the global energy gap?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-01 13:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/905292/shokz-openrun-pro-2-ember-mug-2-deal-sale" target="_blank">The Shokz OpenRun Pro 2 are now at their lowest price in months</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-01 17:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +153,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/904614/playstation-5-ps5-pro-digital-edition-refurbished-deal-sale-price-increase" target="_blank">Today is the final day to save up to $150 on a PS5 before the price goes up</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-01 13:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/KSC-20260324-PH-JBS01_0016large-500x500.jpg" alt="Launch day has arrived for NASA&#x27;s Artemis II mission—here&#x27;s what to expect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/04/launch-day-has-arrived-for-nasas-artemis-ii-mission-heres-what-to-expect/" target="_blank">Launch day has arrived for NASA&#x27;s Artemis II mission—here&#x27;s what to expect</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-01 13:04</span>
             </div>
         </div>
 </div>
@@ -239,6 +234,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/Super-Mario-Galaxy-Peach-fighting-1280x853.jpg" alt="Of Course, ‘The Super Mario Galaxy Movie’ Post Credit Scene Is Another Big Cameo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/super-mario-galaxy-post-credits-scene-explained-daisy-2000740929" target="_blank">Of Course, ‘The Super Mario Galaxy Movie’ Post Credit Scene Is Another Big Cameo</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-01 17:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/three-color.jpg?fit=1280%2C568&amp;quality=60&amp;ssl=1" alt="James Webb telescope captures star formation &quot;factory&quot; in fine detail" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/01/james-webb-telescope-captures-star-formation-factory-in-fine-detail.html" target="_blank">James Webb telescope captures star formation &quot;factory&quot; in fine detail</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-01 17:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Uri-Tupka-Cover-1.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="&quot;Uri Tupka and the Gods&quot; is a cold, dark, and magnificent trek through Mike Mignola&#x27;s Lands Unknown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -272,24 +285,6 @@
                 <span class="title"><a href="https://kotaku.com/shinji-mikami-unbound-shift-up-stellar-blade-2-2000683899" target="_blank">Resident Evil Creator’s New Studio Teams Up With The Maker Of Stellar Blade</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-01 13:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/Artemis-2-crew-in-front-of-SLS-1280x853.jpg" alt="Artemis 2 Live Updates: Countdown to the Moon 🔴" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/artemis-2-live-updates-countdown-to-the-moon-%f0%9f%94%b4-2000740775" target="_blank">Artemis 2 Live Updates: Countdown to the Moon 🔴</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-01 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KN45C704WHJ968TB3WXYH0FW/hero-image.png" alt="This 40-Hour JBL Party Speaker Is $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/jbl-boombox-4-sale-april-2026?utm_medium=RSS" target="_blank">This 40-Hour JBL Party Speaker Is $100 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-01 12:30</span>
             </div>
         </div>
 </div>
@@ -329,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 16:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 17:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
