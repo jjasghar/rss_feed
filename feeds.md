@@ -1,35 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-04-01 01:31:09 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-01 02:59:22 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Error processing https://kotaku.com/rss: The read operation timed out -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, April 01, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, April 01, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -64,6 +58,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1774999557981_now_hallie_trump_birthright_citizenship_hallie_260331_S3_1920x1080-77zm2c.jpg" alt="Trump addresses birthright citizenship, mail-in ballots during executive order signing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-addresses-birthright-citizenship-mail-in-ballots-during-executive-order-signing-260472389872" target="_blank">Trump addresses birthright citizenship, mail-in ballots during executive order signing</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-03-31 23:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -90,20 +93,20 @@
                 <span class="time">2026-03-31 22:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/03/31/nx-s1-5508948/trump-voter-list-mail-ballots-executive-order" target="_blank">Trump signs a new executive order on voting. Experts say he lacks the authority</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-03-31 21:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1238720256-500x500.jpg" alt="NASA is leading the way to the Moon, but the military won&#x27;t be far behind" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/03/nasa-is-leading-the-way-to-the-moon-but-the-military-wont-be-far-behind/" target="_blank">NASA is leading the way to the Moon, but the military won&#x27;t be far behind</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-01 01:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69cc3bb3cffd08e188ce13ed/master/pass/Robotax-Outage-Business-2265792252.jpg" alt="Robotaxi Outage in China Leaves Passengers Stranded on Highways" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +152,20 @@
                 <span class="time">2026-03-31 22:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/904698/govee-smart-a19-led-color-bulbs-amazon-big-spring-sale-2026-deal" target="_blank">You can grab a four-pack of Govee’s color-changing smart bulbs for just $27</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-31 21:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lucas_ferreira/como-o-ataque-a-cadeia-de-suprimentos-do-npm-axios-acontece-e-como-proteger-seus-projetos-de-api-3ik9" target="_blank">Como o Ataque à Cadeia de Suprimentos do NPM Axios Acontece (E Como Proteger Seus Projetos de API)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-01 02:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +211,6 @@
                 <span class="time">2026-03-31 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpnrt7i94qvfd99vvxju3.webp" alt="When Your LLM Becomes Your Twin (and Starts Judging Your Code) 🤖👀" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tomorrmonkey/when-your-llm-becomes-your-twin-and-starts-judging-your-code-4pf6" target="_blank">When Your LLM Becomes Your Twin (and Starts Judging Your Code) 🤖👀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-03-31 19:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +230,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/new-posters-for-kane-parsons-backrooms-v0-90e1b36mk6sg1.webp?fit=1080%2C790&amp;quality=55&amp;ssl=1" alt="Backrooms trailer clips into existence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/03/31/backrooms-trailer-clips-into-existence.html" target="_blank">Backrooms trailer clips into existence</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-01 01:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/GettyImages-2220744156-1280x853.jpg" alt="Tesla Goes Ahead and Admits Its Robotaxis Are Sometimes Fully Human-Controlled" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tesla-goes-ahead-and-admits-its-robotaxis-are-sometimes-fully-human-controlled-2000740641" target="_blank">Tesla Goes Ahead and Admits Its Robotaxis Are Sometimes Fully Human-Controlled</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-01 01:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/The-Saturnix.-Photo-Yutani.jpg?fit=1080%2C847&amp;quality=60&amp;ssl=1" alt="DIY camera inspired by production design of 1979&#x27;s Alien" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +284,6 @@
                 <span class="time">2026-03-31 21:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/HR-Block-Tax-Software-Deluxe.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Get affordable support with your federal and state taxes with H&amp;R Block Deluxe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/31/get-affordable-support-with-your-federal-and-state-taxes-with-hr-block-deluxe.html" target="_blank">Get affordable support with your federal and state taxes with H&amp;R Block Deluxe</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-31 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Best-Gadgets-March-2026-1280x853.png" alt="The Best Gadgets of March 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/best-gadgets-march-2026-2000740331" target="_blank">The Best Gadgets of March 2026</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-03-31 20:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
