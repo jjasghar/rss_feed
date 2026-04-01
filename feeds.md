@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-01 20:10:33 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-01 21:12:04 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 31 feeds processed -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, April 01, 2026 - 20:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, April 01, 2026 - 21:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/1/smoke-and-embers-seen-over-irans-isfahan-after-strike?traffic_source=rss" target="_blank">Smoke and embers seen over Iran’s Isfahan after strike</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-01 21:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +99,29 @@
                 <span class="time">2026-04-01 19:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/artemis-abc-gmh-260326_1774539923624_hpMain_4x3t_384.jpg" alt="LIVE:  Artemis II astronauts on board Orion crew module: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Artemis II astronauts on board Orion crew module: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-01 19:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/nvidia-500x500.jpg" alt="Nvidia rolls out its fix for PC gaming&#x27;s &quot;compiling shaders&quot; wait times" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/" target="_blank">Nvidia rolls out its fix for PC gaming&#x27;s &quot;compiling shaders&quot; wait times</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-01 20:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/01/a-new-dating-app-sonder-has-a-deliberately-annoying-sign-up-process-and-its-working/" target="_blank">A new dating app, Sonder, has a deliberately annoying sign-up process (and it’s working)</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-01 20:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/claude-no-ads-500x500.png" alt="Here&#x27;s what that Claude Code source leak reveals about Anthropic&#x27;s plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -129,37 +143,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/" target="_blank">Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-01 19:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/npr-pbs-rally-500x500-1752771686.jpg" alt="Trump defunding of NPR and PBS blocked by judge, but damage is already done" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/trump-defunding-of-npr-and-pbs-blocked-by-judge-but-damage-is-already-done/" target="_blank">Trump defunding of NPR and PBS blocked by judge, but damage is already done</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-01 18:02</span>
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/905406/artemis-ii-moon-base-law" target="_blank">The Artemis Moon base project is legally dubious</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-01 19:05</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/905398/apple-iphone-anniversary-jobs-release" target="_blank">Everything is iPhone now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-01 18:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69cd5895969ce77a468721ec/master/pass/Our-Favorite-Budget-Smartwatch-is-$69.jpg" alt="Our Favorite Budget Smartwatch is $69" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nothing-watch-3-pro-deal-426/" target="_blank">Our Favorite Budget Smartwatch is $69</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-01 17:45</span>
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/" target="_blank">Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-01 19:02</span>
             </div>
         </div>
 </div>
@@ -174,6 +170,15 @@
                 <span class="title"><a href="https://dzone.com/articles/streaming-optimization-kafka-delta" target="_blank">End-to-End Streaming Optimization: Kafka to Delta With Exactly-Once Guarantees</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-01 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.foks.pub/posts/domain-separation-in-idl/" target="_blank">Signing data structures the wrong way</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-01 19:52</span>
             </div>
         </div>
 <div class="story">
@@ -204,21 +209,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/02/pi-price-increase.jpg?resize=406%2C232&amp;ssl=1" alt="Raspberry Pi gets eye-watering price rises, new 3GB RAM model" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/scaling-uber-with-thuan-pham-ubers" target="_blank">Scaling Uber with Thuan Pham (Uber’s first CTO)</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-04-01 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.cloudflare.com/emdash-wordpress/" target="_blank">EmDash – a spiritual successor to WordPress that solves plugin security</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-01 16:14</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/raspberry-pi-4-3gb-announced" target="_blank">Raspberry Pi gets eye-watering price rises, new 3GB RAM model</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-01 17:02</span>
             </div>
         </div>
 </div>
@@ -249,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/turin-shroud-positive-negative-photographs-top-1280x853.jpg" alt="DNA Study Casts Even More Doubt on Shroud of Turin’s True Origin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dna-study-casts-even-more-doubt-on-shroud-of-turins-true-origin-2000741141" target="_blank">DNA Study Casts Even More Doubt on Shroud of Turin’s True Origin</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-01 21:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/Screenshot-2026-04-01-160039-e1775073727639.jpg" alt="Super Mario Bros. Speedrunner Claims He’s Being Sabotaged" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/super-mario-bros-speedrunner-niftski-speedrun-tas-input-world-record-2000684012" target="_blank">Super Mario Bros. Speedrunner Claims He’s Being Sabotaged</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-01 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/2570_FP_1144432U_00088596-H-2025-1280x721.jpg" alt="Nintendo Pushed Mario Into Movies Because Console Growth Is Tapped Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,24 +299,6 @@
                 <span class="time">2026-04-01 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/nitrile-gloves.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Lab gloves shed particles that fool microplastic detectors, inflating counts by 20x" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/01/lab-gloves-shed-particles-that-fool-microplastic-detectors-inflating-counts-by-20x.html" target="_blank">Lab gloves shed particles that fool microplastic detectors, inflating counts by 20x</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-01 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2012/04/Lieder_Mantis_07101021.jpg?fit=200%2C200&amp;quality=60&amp;ssl=1" alt="Man rides giant praying mantis bicycle through Colombia streets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/01/man-rides-giant-praying-mantis-bicycle-through-colombia-streets.html" target="_blank">Man rides giant praying mantis bicycle through Colombia streets</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-01 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,6 +332,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/creation.png" alt="Creation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3227/" target="_blank">Creation</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-04-01 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5798.png" alt="Walking The Plank" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -349,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 20:10 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 21:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
