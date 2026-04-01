@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-01 21:12:04 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-01 22:08:41 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, April 01, 2026 - 21:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, April 01, 2026 - 22:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/artemis-2-ht-gmh-260401._1775045893070_hpMain_4x3t_384.jpg" alt="Artemis II live updates: NASA troubleshooting battery temperature issue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306" target="_blank">Artemis II live updates: NASA troubleshooting battery temperature issue</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-01 21:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/01/nx-s1-5770566/dhs-shutdown-congress-republicans" target="_blank">Republicans in Congress say they have a deal to end the record-long shutdown at DHS</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-01 21:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/1/nasa-moon-mission-a-contrast-to-us-war-on-iran-says-us-senator?traffic_source=rss" target="_blank">NASA moon mission a ‘contrast’ to US war on Iran, says US senator</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-01 21:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6753/live/6e1e1f30-2cfa-11f1-a79a-77e93010d956.jpg" alt="BBC sacked Scott Mills after learning alleged victim in police investigation was under 16" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gv7yj71llo?at_medium=RSS&at_campaign=rss" target="_blank">BBC sacked Scott Mills after learning alleged victim in police investigation was under 16</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-01 21:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -63,47 +101,20 @@
                 <span class="time">2026-04-01 20:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/1/crete-turns-orange-as-saharan-dust-sweeps-in?traffic_source=rss" target="_blank">Crete turns orange as Saharan dust sweeps in</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-01 19:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260228-Mike-Johnson-John-Thune-ch-1115-85b1b3.jpg" alt="Republican leaders announce two-track plan to end the DHS shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/republicans-announce-plan-end-dhs-shutdown-tsa-airport-delays-rcna266286" target="_blank">Republican leaders announce two-track plan to end the DHS shutdown</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-01 19:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6753/live/6e1e1f30-2cfa-11f1-a79a-77e93010d956.jpg" alt="Scott Mills confirms he was investigated by police in first statement since sacking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gv7yj71llo?at_medium=RSS&at_campaign=rss" target="_blank">Scott Mills confirms he was investigated by police in first statement since sacking</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-01 19:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/1/palestinians-in-west-bank-protest-strike-against-israeli-death-penalty-law?traffic_source=rss" target="_blank">Palestinians in West Bank protest, strike against Israeli death penalty law</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-01 19:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/" target="_blank">The reputation of troubled YC startup Delve has gotten even worse</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-01 21:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/nvidia-500x500.jpg" alt="Nvidia rolls out its fix for PC gaming&#x27;s &quot;compiling shaders&quot; wait times" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +160,29 @@
                 <span class="time">2026-04-01 19:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/" target="_blank">Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-01 19:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://mkennedy.codes/posts/cutting-python-web-app-memory-over-31-percent/" target="_blank">Cutting Python Web App Memory Over 31%</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-04-01 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-Rejects-systemd-Feature" target="_blank">Fedora Rejects Proposal To Use systemd For Managing Per-User Environment Variables</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-01 20:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18923332&w=600" alt="End-to-End Streaming Optimization: Kafka to Delta With Exactly-Once Guarantees" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,24 +219,6 @@
                 <span class="time">2026-04-01 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18923327&w=600" alt="From Load Testing to Performance Engineering: Why the Shift Matters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/performance-engineering-vs-load-testing-cloud-systems" target="_blank">From Load Testing to Performance Engineering: Why the Shift Matters</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-01 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/02/pi-price-increase.jpg?resize=406%2C232&amp;ssl=1" alt="Raspberry Pi gets eye-watering price rises, new 3GB RAM model" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/raspberry-pi-4-3gb-announced" target="_blank">Raspberry Pi gets eye-watering price rises, new 3GB RAM model</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-01 17:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/7106NYA4Z2L._AC_UF8941000_QL80_.jpg?fit=894%2C609&amp;quality=60&amp;ssl=1" alt="Ninja Creami, the PacoJet for the rest of us" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/01/ninja-creami-the-pacojet-for-the-rest-of-us.html" target="_blank">Ninja Creami, the PacoJet for the rest of us</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-01 21:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/turin-shroud-positive-negative-photographs-top-1280x853.jpg" alt="DNA Study Casts Even More Doubt on Shroud of Turin’s True Origin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +299,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/01/musk-says-robot-works-great-just-not-ready-to-show-anyone-yet.html" target="_blank">Musk says robot works great, just not ready to show anyone yet</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-01 19:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KN52MVJXQ0T5N0BFM1T9TKXH/hero-image.jpg" alt="iOS26.5 Includes One Very Annoying New iPhone Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/everything-we-know-about-ios-265?utm_medium=RSS" target="_blank">iOS26.5 Includes One Very Annoying New iPhone Change</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-01 19:00</span>
             </div>
         </div>
 </div>
@@ -354,8 +356,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 21:12 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 22:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
