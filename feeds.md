@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-01 07:28:51 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-01 08:23:25 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, April 01, 2026 - 07:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, April 01, 2026 - 08:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c986/live/ee232120-2d96-11f1-bcc4-a5db6c57338c.jpg" alt="China is trying to play peacemaker in the Iran war - will it work?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss" target="_blank">China is trying to play peacemaker in the Iran war - will it work?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-01 07:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/1/judge-halts-trump-ballroom-project-trump-says-work-can-go-on?traffic_source=rss" target="_blank">Judge halts Trump ballroom project; Trump says work can go on</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-01 03:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/1/emergency-workers-search-for-victims-of-israeli-airstrikes-on-beirut?traffic_source=rss" target="_blank">Emergency workers search for victims of Israeli airstrikes on Beirut</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-01 00:56</span>
             </div>
         </div>
 </div>
@@ -162,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcolab.research.google.com%2Fassets%2Fcolab-badge.svg" alt="MCMC Island Hopping: An Intuitive Guide to the Metropolis-Hastings Algorithm" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/berkan_sesen/mcmc-island-hopping-an-intuitive-guide-to-the-metropolis-hastings-algorithm-531d" target="_blank">MCMC Island Hopping: An Intuitive Guide to the Metropolis-Hastings Algorithm</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-01 08:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,15 +216,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17311246/onlyoffice-forked" target="_blank">ONLYOFFICE Gets Forked as &amp;quot;Made in Europe&amp;quot;, Sparks Licensing and Trust Debate</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-04-01 03:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lucas_ferreira/como-o-ataque-a-cadeia-de-suprimentos-do-npm-axios-acontece-e-como-proteger-seus-projetos-de-api-3ik9" target="_blank">Como o Ataque à Cadeia de Suprimentos do NPM Axios Acontece (E Como Proteger Seus Projetos de API)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-01 02:55</span>
             </div>
         </div>
 </div>
@@ -334,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 153 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 07:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 08:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
