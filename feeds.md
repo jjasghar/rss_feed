@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-01 17:16:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-01 18:13:02 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Error processing https://kotaku.com/rss: The read operation timed out -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, April 01, 2026 - 17:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, April 01, 2026 - 18:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/scotus-gty-er-260330_1774902569305_hpMain_2_4x3t_384.jpg" alt="Supreme Court appears skeptical of Trump&#x27;s case to end birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/oral-arguments-underway-supreme-courts-landmark-birthright-citizenship/story?id=131590625" target="_blank">Supreme Court appears skeptical of Trump&#x27;s case to end birthright citizenship</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-01 17:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +94,38 @@
                 <span class="time">2026-04-01 15:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/01/g-s1-115929/israel-south-lebanon-evacuation" target="_blank">After Israel&#x27;s invasion, many in southern Lebanon worry they&#x27;ll never go home</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-01 15:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/npr-pbs-rally-500x500-1752771686.jpg" alt="Trump defunding of NPR and PBS blocked by judge, but damage is already done" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/trump-defunding-of-npr-and-pbs-blocked-by-judge-but-damage-is-already-done/" target="_blank">Trump defunding of NPR and PBS blocked by judge, but damage is already done</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-01 18:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/905398/apple-iphone-anniversary-jobs-release" target="_blank">Everything is iPhone now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-01 18:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69cd5895969ce77a468721ec/master/pass/Our-Favorite-Budget-Smartwatch-is-$69.jpg" alt="Our Favorite Budget Smartwatch is $69" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nothing-watch-3-pro-deal-426/" target="_blank">Our Favorite Budget Smartwatch is $69</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-01 17:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -114,45 +139,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/" target="_blank">Cognichip wants AI to design the chips that power AI, and just raised $60M to try</a></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/01/cameo-partners-with-tiktok-to-boost-popularity/" target="_blank">Cameo partners with TikTok to boost popularity</a></span>
                 <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-01 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/905189/raspberry-pi-price-increases-pi-4-3gb" target="_blank">These Raspberry Pi price hikes are no joke</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-01 15:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69cc3b08e44f7d6c4c984a2e/master/pass/politics_militia_influencer_recruit.jpg" alt="The New Era of Militia Influencers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-new-era-of-militia-influencers/" target="_blank">The New Era of Militia Influencers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-01 15:00</span>
+                <span class="time">2026-04-01 17:11</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/01/hasbro-hacked-may-take-several-weeks-to-recover/" target="_blank">Hasbro says it was hacked, and may take ‘several weeks’ to recover</a></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/" target="_blank">Cognichip wants AI to design the chips that power AI, and just raised $60M to try</a></span>
                 <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-01 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/904614/playstation-5-ps5-pro-digital-edition-refurbished-deal-sale-price-increase" target="_blank">Today is the final day to save up to $150 on a PS5 before the price goes up</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-01 13:21</span>
+                <span class="time">2026-04-01 16:00</span>
             </div>
         </div>
 </div>
@@ -161,12 +159,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18923327&w=600" alt="From Load Testing to Performance Engineering: Why the Shift Matters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/performance-engineering-vs-load-testing-cloud-systems" target="_blank">From Load Testing to Performance Engineering: Why the Shift Matters</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-01 18:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kim_namhyun_e7535f3dc4c69/xoul-v011-beta-released-4h5g" target="_blank">Xoul - v0.1.1-beta released</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-01 16:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/eslint-10-release/en/headerimage/generatedHeaderImage-1774868620518.jpg" alt="ESLint v10: Flat Config Completion and JSX Tracking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/eslint-10-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">ESLint v10: Flat Config Completion and JSX Tracking</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-01 15:27</span>
             </div>
         </div>
 <div class="story">
@@ -196,29 +212,20 @@
                 <span class="time">2026-04-01 14:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18921452&w=600" alt="SELECT AI Query Integration Using Oracle Autonomous Database 26AI and OpenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/select-ai-oracle-26ai-openai" target="_blank">SELECT AI Query Integration Using Oracle Autonomous Database 26AI and OpenAI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-01 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Preps-For-Rust-1.85-Base" target="_blank">The Linux Kernel&#x27;s Minimum Rust Version Supported Prepares For Rust 1.85 Baseline</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-01 13:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/is-hackback-official-us-cybersecurity-strategy.html" target="_blank">Is “Hackback” Official US Cybersecurity Strategy?</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-04-01 16:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -233,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2012/04/Lieder_Mantis_07101021.jpg?fit=200%2C200&amp;quality=60&amp;ssl=1" alt="Man rides giant praying mantis bicycle through Colombia streets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/01/man-rides-giant-praying-mantis-bicycle-through-colombia-streets.html" target="_blank">Man rides giant praying mantis bicycle through Colombia streets</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-01 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/Super-Mario-Galaxy-Peach-fighting-1280x853.jpg" alt="Of Course, ‘The Super Mario Galaxy Movie’ Post Credit Scene Is Another Big Cameo" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,20 +294,20 @@
                 <span class="time">2026-04-01 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/unbound.jpg" alt="Resident Evil Creator’s New Studio Teams Up With The Maker Of Stellar Blade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/shinji-mikami-unbound-shift-up-stellar-blade-2-2000683899" target="_blank">Resident Evil Creator’s New Studio Teams Up With The Maker Of Stellar Blade</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-01 13:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/04/01/awreatha-franklin" target="_blank">Awreatha Franklin</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-04-01 17:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1774994016-20260401.png" alt="Saturday Morning Breakfast Cereal - Loot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -324,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 17:16 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 18:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
