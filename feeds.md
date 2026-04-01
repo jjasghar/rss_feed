@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-01 19:21:58 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-01 20:10:33 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 12 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, April 01, 2026 - 19:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, April 01, 2026 - 20:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +52,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/01/nx-s1-5760899/weight-loss-pill-foundayo" target="_blank">The FDA approves a new obesity pill, giving patients another option</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-01 20:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/1/crete-turns-orange-as-saharan-dust-sweeps-in?traffic_source=rss" target="_blank">Crete turns orange as Saharan dust sweeps in</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-01 19:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260228-Mike-Johnson-John-Thune-ch-1115-85b1b3.jpg" alt="Republican leaders announce two-track plan to end the DHS shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/republicans-announce-plan-end-dhs-shutdown-tsa-airport-delays-rcna266286" target="_blank">Republican leaders announce two-track plan to end the DHS shutdown</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-01 19:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6753/live/6e1e1f30-2cfa-11f1-a79a-77e93010d956.jpg" alt="Scott Mills confirms he was investigated by police in first statement since sacking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gv7yj71llo?at_medium=RSS&at_campaign=rss" target="_blank">Scott Mills confirms he was investigated by police in first statement since sacking</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-01 19:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/1/palestinians-in-west-bank-protest-strike-against-israeli-death-penalty-law?traffic_source=rss" target="_blank">Palestinians in West Bank protest, strike against Israeli death penalty law</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -62,47 +103,38 @@
                 <span class="time">2026-04-01 19:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775064718017_now_daily_a_odonnell_birthright_scotus_260401_S3_1920x1080-brtvzh.jpg" alt="Supreme Court appears skeptical of Trump&#x27;s effort to limit birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/supreme-court-appears-skeptical-of-trump-s-effort-to-limit-birthright-citizenship-260525125663" target="_blank">Supreme Court appears skeptical of Trump&#x27;s effort to limit birthright citizenship</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-01 17:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/scotus-gty-er-260330_1774902569305_hpMain_2_4x3t_384.jpg" alt="Supreme Court appears skeptical of Trump&#x27;s case to end birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/oral-arguments-underway-supreme-courts-landmark-birthright-citizenship/story?id=131590625" target="_blank">Supreme Court appears skeptical of Trump&#x27;s case to end birthright citizenship</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-01 17:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/01/nx-s1-5754762/trump-supreme-court-birthright-citizenship" target="_blank">Supreme Court hears challenge to birthright citizenship as Trump attends arguments</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-01 17:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e7f/live/6b402fe0-2de7-11f1-934f-036468834728.jpg" alt="What do Trump&#x27;s latest comments on leaving Nato mean for the alliance?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&at_campaign=rss" target="_blank">What do Trump&#x27;s latest comments on leaving Nato mean for the alliance?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-01 16:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/claude-no-ads-500x500.png" alt="Here&#x27;s what that Claude Code source leak reveals about Anthropic&#x27;s plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/" target="_blank">Here&#x27;s what that Claude Code source leak reveals about Anthropic&#x27;s plans</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-01 20:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69c575593a554cc7e92a4ff3/master/pass/Our-Favorite-Samsung-OLED-TV-is-At-the-Lowest-Price-I've-Seen-on-Amazon.jpg" alt="Samsung’s Best OLED TV Is $300 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/samsung-s95f-tv-deal-326/" target="_blank">Samsung’s Best OLED TV Is $300 Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-01 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/" target="_blank">Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-01 19:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/npr-pbs-rally-500x500-1752771686.jpg" alt="Trump defunding of NPR and PBS blocked by judge, but damage is already done" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,38 +162,20 @@
                 <span class="time">2026-04-01 17:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/905292/shokz-openrun-pro-2-ember-mug-2-deal-sale" target="_blank">The Shokz OpenRun Pro 2 are now at their lowest price in months</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-01 17:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/01/cameo-partners-with-tiktok-to-boost-popularity/" target="_blank">Cameo partners with TikTok to boost popularity</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-01 17:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/" target="_blank">Cognichip wants AI to design the chips that power AI, and just raised $60M to try</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-01 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18923332&w=600" alt="End-to-End Streaming Optimization: Kafka to Delta With Exactly-Once Guarantees" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/streaming-optimization-kafka-delta" target="_blank">End-to-End Streaming Optimization: Kafka to Delta With Exactly-Once Guarantees</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-01 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +221,6 @@
                 <span class="time">2026-04-01 16:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kim_namhyun_e7535f3dc4c69/xoul-v011-beta-released-4h5g" target="_blank">Xoul - v0.1.1-beta released</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-01 16:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +250,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/2570_FP_1144432U_00088596-H-2025-1280x721.jpg" alt="Nintendo Pushed Mario Into Movies Because Console Growth Is Tapped Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mario-galaxy-movie-miyamoto-switch-2-2000683993" target="_blank">Nintendo Pushed Mario Into Movies Because Console Growth Is Tapped Out</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-01 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HN0ZP8S1KSR9CY579D4F5JF6/hero-image.png" alt="Amazon Prime Members Can Get Two Free E-Books in April" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/free-kindle-books-april-2026?utm_medium=RSS" target="_blank">Amazon Prime Members Can Get Two Free E-Books in April</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-01 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Tdiner-e1753471820584.jpg?fit=600%2C340&amp;quality=60&amp;ssl=1" alt="Musk says robot works great, just not ready to show anyone yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/01/musk-says-robot-works-great-just-not-ready-to-show-anyone-yet.html" target="_blank">Musk says robot works great, just not ready to show anyone yet</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-01 19:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KN52MVJXQ0T5N0BFM1T9TKXH/hero-image.jpg" alt="iOS26.5 Includes One Very Annoying New iPhone Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -269,33 +301,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/01/man-rides-giant-praying-mantis-bicycle-through-colombia-streets.html" target="_blank">Man rides giant praying mantis bicycle through Colombia streets</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-01 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/Super-Mario-Galaxy-Peach-fighting-1280x853.jpg" alt="Of Course, ‘The Super Mario Galaxy Movie’ Post Credit Scene Is Another Big Cameo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/super-mario-galaxy-post-credits-scene-explained-daisy-2000740929" target="_blank">Of Course, ‘The Super Mario Galaxy Movie’ Post Credit Scene Is Another Big Cameo</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-01 17:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/three-color.jpg?fit=1280%2C568&amp;quality=60&amp;ssl=1" alt="James Webb telescope captures star formation &quot;factory&quot; in fine detail" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/01/james-webb-telescope-captures-star-formation-factory-in-fine-detail.html" target="_blank">James Webb telescope captures star formation &quot;factory&quot; in fine detail</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-01 17:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Uri-Tupka-Cover-1.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="&quot;Uri Tupka and the Gods&quot; is a cold, dark, and magnificent trek through Mike Mignola&#x27;s Lands Unknown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/01/uri-tupka-and-the-gods-is-a-cold-dark-and-magnificent-trek-through-mike-mignolas-lands-unknown.html" target="_blank">&quot;Uri Tupka and the Gods&quot; is a cold, dark, and magnificent trek through Mike Mignola&#x27;s Lands Unknown</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-01 15:30</span>
             </div>
         </div>
 </div>
@@ -344,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 19:22 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 20:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
