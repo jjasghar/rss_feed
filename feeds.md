@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-01 08:23:25 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-01 09:22:41 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, April 01, 2026 - 08:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, April 01, 2026 - 09:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/1/turkiye-beat-kosovo-to-end-24-year-world-cup-wait?traffic_source=rss" target="_blank">‘An incredible feeling’: Turkiye beat Kosovo to end 24-year World Cup wait</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-01 09:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/rubio-1-rt-er-260331_1774995531119_hpMain_4x3t_384.jpg" alt="White House signals it seeks a diplomatic solution in Iran: Experts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/white-house-signals-seeks-diplomatic-solution-iran-experts/story?id=131588505" target="_blank">White House signals it seeks a diplomatic solution in Iran: Experts</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-01 09:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c986/live/ee232120-2d96-11f1-bcc4-a5db6c57338c.jpg" alt="China is trying to play peacemaker in the Iran war - will it work?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,24 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&at_campaign=rss" target="_blank">Energy bill support would be based on household income, Reeves says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-01 06:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/01/nx-s1-5769800/suspension-lifted-helicopter-pilots-kid-rock" target="_blank">Suspension lifted for helicopter pilots who hovered near Kid Rock&#x27;s home</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-01 05:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/1/judge-halts-trump-ballroom-project-trump-says-work-can-go-on?traffic_source=rss" target="_blank">Judge halts Trump ballroom project; Trump says work can go on</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-01 03:28</span>
             </div>
         </div>
 </div>
@@ -176,6 +176,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts" target="_blank">CERN levels up with new superconducting karts</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-01 07:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/swaroop_kolasani_/before-you-upgrade-hardware-fix-the-software-292k" target="_blank">Before You Upgrade Hardware, Fix the Software</a></span>
                 <span class="feed">DEV Community</span>
@@ -207,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/agentq/forms-validations-in-rails-3lmd" target="_blank">Forms &amp; Validations in Rails</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-01 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17311246/onlyoffice-forked" target="_blank">ONLYOFFICE Gets Forked as &amp;quot;Made in Europe&amp;quot;, Sparks Licensing and Trust Debate</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-01 03:35</span>
             </div>
         </div>
 </div>
@@ -337,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 08:23 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 09:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
