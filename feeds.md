@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-01 12:12:20 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-01 13:28:54 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, April 01, 2026 - 12:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, April 01, 2026 - 13:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/1/lebanon-faces-growing-displacement-crisis?traffic_source=rss" target="_blank">Lebanon faces growing displacement crisis</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-01 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/01/nx-s1-5767068/london-uk-covid-memorial-wall" target="_blank">Greetings from London, where a big COVID memorial holds vigil over the halls of power</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-01 12:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +101,29 @@
                 <span class="time">2026-04-01 09:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c986/live/ee232120-2d96-11f1-bcc4-a5db6c57338c.jpg" alt="China is trying to play peacemaker in the Iran war - will it work?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss" target="_blank">China is trying to play peacemaker in the Iran war - will it work?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-01 07:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/1/iran-war-what-is-happening-on-day-33-of-us-israel-attacks?traffic_source=rss" target="_blank">Iran war: What is happening on day 33 of US-Israel attacks?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-01 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/904614/playstation-5-ps5-pro-digital-edition-refurbished-deal-sale-price-increase" target="_blank">Today is the final day to save up to $150 on a PS5 before the price goes up</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-01 13:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/KSC-20260324-PH-JBS01_0016large-500x500.jpg" alt="Launch day has arrived for NASA&#x27;s Artemis II mission—here&#x27;s what to expect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/04/launch-day-has-arrived-for-nasas-artemis-ii-mission-heres-what-to-expect/" target="_blank">Launch day has arrived for NASA&#x27;s Artemis II mission—here&#x27;s what to expect</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-01 13:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +160,38 @@
                 <span class="time">2026-04-01 01:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1238720256-500x500.jpg" alt="NASA is leading the way to the Moon, but the military won&#x27;t be far behind" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/03/nasa-is-leading-the-way-to-the-moon-but-the-military-wont-be-far-behind/" target="_blank">NASA is leading the way to the Moon, but the military won&#x27;t be far behind</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-01 01:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69cc3bb3cffd08e188ce13ed/master/pass/Robotax-Outage-Business-2265792252.jpg" alt="Robotaxi Outage in China Leaves Passengers Stranded on Highways" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/" target="_blank">Robotaxi Outage in China Leaves Passengers Stranded on Highways</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-01 01:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Preps-For-Rust-1.85-Base" target="_blank">The Linux Kernel&#x27;s Minimum Rust Version Supported Prepares For Rust 1.85 Baseline</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-01 13:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hammadahmad56/systems-thinking-and-predictive-logic-lessons-from-bumpy-johnsons-harlem-4aa7" target="_blank">Systems Thinking and Predictive Logic: Lessons from Bumpy Johnson’s Harlem</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-01 13:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17311610/arch-installer-4-0-release" target="_blank">Arch Installer Goes 4.0 With a New Face and Fewer &amp;#x27;Curses&amp;#x27;</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-01 12:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/principal-engineer-path/en/mediumimage/sophie-weston-medium-1774440461802.jpg" alt="Presentation: The Principal Engineer’s Path: Skills, Strategies, and Lessons Learned" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -191,33 +219,6 @@
                 <span class="time">2026-04-01 11:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Dell-XPS-13-9345-EC-Driver" target="_blank">Dell XPS 13 Snapdragon Elite Laptop Sees New EC Linux Driver To Improve Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-01 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/brian001/learn-python-data-structures-30kk" target="_blank">Learn Python Data Structures</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-01 10:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcolab.research.google.com%2Fassets%2Fcolab-badge.svg" alt="MCMC Island Hopping: An Intuitive Guide to the Metropolis-Hastings Algorithm" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/berkan_sesen/mcmc-island-hopping-an-intuitive-guide-to-the-metropolis-hastings-algorithm-531d" target="_blank">MCMC Island Hopping: An Intuitive Guide to the Metropolis-Hastings Algorithm</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-01 08:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/Artemis-2-crew-in-front-of-SLS-1280x853.jpg" alt="Artemis 2 Live Updates: Countdown to the Moon 🔴" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/artemis-2-live-updates-countdown-to-the-moon-%f0%9f%94%b4-2000740775" target="_blank">Artemis 2 Live Updates: Countdown to the Moon 🔴</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-01 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KN45C704WHJ968TB3WXYH0FW/hero-image.png" alt="This 40-Hour JBL Party Speaker Is $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/jbl-boombox-4-sale-april-2026?utm_medium=RSS" target="_blank">This 40-Hour JBL Party Speaker Is $100 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-01 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KME936P2J3GKT4X4MR5Y166T/hero-image.png" alt="Amazon Big Spring Sale 2026 Live Blog: All the Best Deals From Apple, Kindle, Garmin, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +290,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/31/backrooms-trailer-clips-into-existence.html" target="_blank">Backrooms trailer clips into existence</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-01 01:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/GettyImages-2220744156-1280x853.jpg" alt="Tesla Goes Ahead and Admits Its Robotaxis Are Sometimes Fully Human-Controlled" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tesla-goes-ahead-and-admits-its-robotaxis-are-sometimes-fully-human-controlled-2000740641" target="_blank">Tesla Goes Ahead and Admits Its Robotaxis Are Sometimes Fully Human-Controlled</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-01 01:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/The-Saturnix.-Photo-Yutani.jpg?fit=1080%2C847&amp;quality=60&amp;ssl=1" alt="DIY camera inspired by production design of 1979&#x27;s Alien" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/31/diy-camera-inspired-by-production-design-of-1979s-alien.html" target="_blank">DIY camera inspired by production design of 1979&#x27;s Alien</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-03-31 22:21</span>
             </div>
         </div>
 </div>
@@ -337,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 12:12 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 13:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
