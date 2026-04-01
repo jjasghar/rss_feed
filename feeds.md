@@ -1,37 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-04-01 13:28:54 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-01 14:29:19 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, April 01, 2026 - 13:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, April 01, 2026 - 14:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +41,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2026/4/1/can-russia-help-fill-the-global-energy-gap?traffic_source=rss" target="_blank">Can Russia help fill the global energy gap?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-01 13:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/1/lebanon-faces-growing-displacement-crisis?traffic_source=rss" target="_blank">Lebanon faces growing displacement crisis</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-01 13:00</span>
@@ -63,6 +62,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/01/nx-s1-5767068/london-uk-covid-memorial-wall" target="_blank">Greetings from London, where a big COVID memorial holds vigil over the halls of power</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-01 12:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/scotus_build-006inc.jpg" alt="Supreme Court hears arguments in Trump&#x27;s attempt to limit birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/listen-live-supreme-court-hears-arguments-in-trump-s-attempt-to-limit-birthright-citizenship-260502085612" target="_blank">Supreme Court hears arguments in Trump&#x27;s attempt to limit birthright citizenship</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-01 12:37</span>
             </div>
         </div>
 <div class="story">
@@ -81,24 +89,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/01/nx-s1-5769805/iran-war-trump" target="_blank">Trump to address nation after saying U.S. may leave war within weeks</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-01 10:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/1/turkiye-beat-kosovo-to-end-24-year-world-cup-wait?traffic_source=rss" target="_blank">‘An incredible feeling’: Turkiye beat Kosovo to end 24-year World Cup wait</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-01 09:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/rubio-1-rt-er-260331_1774995531119_hpMain_4x3t_384.jpg" alt="White House signals it seeks a diplomatic solution in Iran: Experts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/white-house-signals-seeks-diplomatic-solution-iran-experts/story?id=131588505" target="_blank">White House signals it seeks a diplomatic solution in Iran: Experts</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-01 09:05</span>
             </div>
         </div>
 </div>
@@ -166,6 +156,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18921452&w=600" alt="SELECT AI Query Integration Using Oracle Autonomous Database 26AI and OpenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/select-ai-oracle-26ai-openai" target="_blank">SELECT AI Query Integration Using Oracle Autonomous Database 26AI and OpenAI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-01 14:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -210,15 +209,6 @@
                 <span class="time">2026-04-01 11:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sakibsnaz/fastest-lightweight-maintenance-plugin-for-wordpress-43dg" target="_blank">Fastest Lightweight Maintenance Plugin for WordPress</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-01 11:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +228,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/unbound.jpg" alt="Resident Evil Creator’s New Studio Teams Up With The Maker Of Stellar Blade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/shinji-mikami-unbound-shift-up-stellar-blade-2-2000683899" target="_blank">Resident Evil Creator’s New Studio Teams Up With The Maker Of Stellar Blade</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-01 13:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/Artemis-2-crew-in-front-of-SLS-1280x853.jpg" alt="Artemis 2 Live Updates: Countdown to the Moon 🔴" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +280,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/03/31/megachurch-pastor-who-abused-12-year-old-girl-free-after-6-months-in-jail.html" target="_blank">Megachurch pastor who abused 12-year-old is free after 6 months in jail</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-01 02:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/new-posters-for-kane-parsons-backrooms-v0-90e1b36mk6sg1.webp?fit=1080%2C790&amp;quality=55&amp;ssl=1" alt="Backrooms trailer clips into existence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/31/backrooms-trailer-clips-into-existence.html" target="_blank">Backrooms trailer clips into existence</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-01 01:33</span>
             </div>
         </div>
 </div>
@@ -338,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 13:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 14:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
