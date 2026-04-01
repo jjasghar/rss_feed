@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-01 09:22:41 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-01 10:18:40 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 1 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, April 01, 2026 - 09:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, April 01, 2026 - 10:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -165,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/brian001/learn-python-data-structures-30kk" target="_blank">Learn Python Data Structures</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-01 10:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcolab.research.google.com%2Fassets%2Fcolab-badge.svg" alt="MCMC Island Hopping: An Intuitive Guide to the Metropolis-Hastings Algorithm" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +211,6 @@
                 <span class="title"><a href="https://ccunpacked.dev/" target="_blank">Claude Code Unpacked : A visual guide</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-01 05:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/agentq/forms-validations-in-rails-3lmd" target="_blank">Forms &amp; Validations in Rails</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-01 04:01</span>
             </div>
         </div>
 </div>
@@ -337,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 09:22 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 10:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
