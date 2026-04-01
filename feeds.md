@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-01 15:25:08 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-01 16:16:34 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, April 01, 2026 - 15:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, April 01, 2026 - 16:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,9 +51,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app" target="_blank">Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-01 16:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2952/live/95f06840-2dbf-11f1-934f-036468834728.jpg" alt="UK will seek closer ties with EU in light of Iran war, Starmer says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62l6w03lwzo?at_medium=RSS&at_campaign=rss" target="_blank">UK will seek closer ties with EU in light of Iran war, Starmer says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-01 16:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/1/russia-to-continue-helping-cuba-after-first-oil-shipment-arrives-diplomat?traffic_source=rss" target="_blank">Russia to continue helping Cuba after first oil shipment arrives: diplomat</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-01 15:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/04/01/g-s1-115929/israel-south-lebanon-evacuation" target="_blank">After Israel&#x27;s invasion, many in southern Lebanon worry they&#x27;ll never go home</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-01 15:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfd5/live/b65924b0-2dd7-11f1-a186-bdbec3fa8607.jpg" alt="Trump to give primetime address on war as questions swirl over his next move" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c74vqd8k3g1o?at_medium=RSS&at_campaign=rss" target="_blank">Trump to give primetime address on war as questions swirl over his next move</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-01 14:59</span>
             </div>
         </div>
 <div class="story">
@@ -63,47 +101,20 @@
                 <span class="time">2026-04-01 13:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/1/lebanon-faces-growing-displacement-crisis?traffic_source=rss" target="_blank">Lebanon faces growing displacement crisis</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-01 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/01/nx-s1-5767068/london-uk-covid-memorial-wall" target="_blank">Greetings from London, where a big COVID memorial holds vigil over the halls of power</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-01 12:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/scotus_build-006inc.jpg" alt="Supreme Court hears arguments in Trump&#x27;s attempt to limit birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/listen-live-supreme-court-hears-arguments-in-trump-s-attempt-to-limit-birthright-citizenship-260502085612" target="_blank">Supreme Court hears arguments in Trump&#x27;s attempt to limit birthright citizenship</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-01 12:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/01/g-s1-116034/up-first-newsletter-iran-war-strait-of-hormuz-birthright-citizenship-white-house-ballroom-npr-pbs" target="_blank">Trump to address nation on Iran war. And, SCOTUS considers birthright citizenship</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-01 11:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/" target="_blank">Cognichip wants AI to design the chips that power AI, and just raised $60M to try</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-01 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +160,38 @@
                 <span class="time">2026-04-01 13:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china" target="_blank">Baidu’s robotaxis froze in traffic, creating chaos</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-01 10:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kim_namhyun_e7535f3dc4c69/xoul-v011-beta-released-4h5g" target="_blank">Xoul - v0.1.1-beta released</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-01 16:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/HarfBuzz-14.0-Released" target="_blank">HarfBuzz 14.0 Released With New GPU Accelerated Text Rendering Library</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-01 15:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/" target="_blank">Run multiple agents at once with /fleet in Copilot CLI</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-04-01 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/05/ubuntu-circuit.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu quietly raises its minimum system requirements" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -190,33 +219,6 @@
                 <span class="time">2026-04-01 13:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hammadahmad56/systems-thinking-and-predictive-logic-lessons-from-bumpy-johnsons-harlem-4aa7" target="_blank">Systems Thinking and Predictive Logic: Lessons from Bumpy Johnson’s Harlem</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-01 13:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://isbgpsafeyet.com/" target="_blank">Is BGP Safe Yet? No. Test Your ISP</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-01 13:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17311610/arch-installer-4-0-release" target="_blank">Arch Installer Goes 4.0 With a New Face and Fewer &amp;#x27;Curses&amp;#x27;</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-01 12:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Uri-Tupka-Cover-1.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="&quot;Uri Tupka and the Gods&quot; is a cold, dark, and magnificent trek through Mike Mignola&#x27;s Lands Unknown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/01/uri-tupka-and-the-gods-is-a-cold-dark-and-magnificent-trek-through-mike-mignolas-lands-unknown.html" target="_blank">&quot;Uri Tupka and the Gods&quot; is a cold, dark, and magnificent trek through Mike Mignola&#x27;s Lands Unknown</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-01 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJZAHTF3GVG7QNTENAJPDENW/hero-image.jpg" alt="10 Hacks Every Samsung Galaxy S26 Owner Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-galaxy-s26-owner-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Samsung Galaxy S26 Owner Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-01 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/ASUS-Chromebook-CM30.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This refurbished ASUS Chromebook flips between laptop and tablet for just $150" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +292,6 @@
                 <span class="time">2026-04-01 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KME936P2J3GKT4X4MR5Y166T/hero-image.png" alt="Amazon Big Spring Sale 2026 Live Blog: All the Best Deals From Apple, Kindle, Garmin, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/amazon-big-spring-sale-live-blog?utm_medium=RSS" target="_blank">Amazon Big Spring Sale 2026 Live Blog: All the Best Deals From Apple, Kindle, Garmin, and More</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-01 10:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Supergirl.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="Krypto is in trouble in the new Supergirl trailer and he had better be OK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/03/31/krypto-is-in-trouble-in-the-new-supergirl-trailer-and-he-had-better-be-ok.html" target="_blank">Krypto is in trouble in the new Supergirl trailer and he had better be OK</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-01 04:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,22 +324,13 @@
                 <span class="time">2026-04-01 00:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/loudly/" target="_blank">Loudly</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-03-31 16:04</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 15:25 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 16:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
