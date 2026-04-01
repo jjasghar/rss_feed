@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-01 18:13:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-01 19:21:58 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 22 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, April 01, 2026 - 18:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, April 01, 2026 - 19:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/1/palestinians-in-west-bank-protest-strike-against-israeli-death-penalty-law?traffic_source=rss" target="_blank">Palestinians in West Bank protest, strike against Israeli death penalty law</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-01 19:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/artemis-abc-gmh-260326_1774539923624_hpMain_4x3t_384.jpg" alt="LIVE:  Artemis II astronauts on board Orion crew module: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Artemis II astronauts on board Orion crew module: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-01 19:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775064718017_now_daily_a_odonnell_birthright_scotus_260401_S3_1920x1080-brtvzh.jpg" alt="Supreme Court appears skeptical of Trump&#x27;s effort to limit birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/supreme-court-appears-skeptical-of-trump-s-effort-to-limit-birthright-citizenship-260525125663" target="_blank">Supreme Court appears skeptical of Trump&#x27;s effort to limit birthright citizenship</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-01 17:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/scotus-gty-er-260330_1774902569305_hpMain_2_4x3t_384.jpg" alt="Supreme Court appears skeptical of Trump&#x27;s case to end birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -65,33 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&at_campaign=rss" target="_blank">What do Trump&#x27;s latest comments on leaving Nato mean for the alliance?</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-01 16:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app" target="_blank">Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-01 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2952/live/95f06840-2dbf-11f1-934f-036468834728.jpg" alt="UK will seek closer ties with EU in light of Iran war, Starmer says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62l6w03lwzo?at_medium=RSS&at_campaign=rss" target="_blank">UK will seek closer ties with EU in light of Iran war, Starmer says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-01 16:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/1/russia-to-continue-helping-cuba-after-first-oil-shipment-arrives-diplomat?traffic_source=rss" target="_blank">Russia to continue helping Cuba after first oil shipment arrives: diplomat</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-01 15:39</span>
             </div>
         </div>
 </div>
@@ -159,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/" target="_blank">Securing the open source supply chain across GitHub</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-04-01 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18923337&w=600" alt="Avoiding Markdowns: Optimizing Order Sourcing Through the Agentic Shift" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/optimizing-order-sourcing-agentic-ai-shift" target="_blank">Avoiding Markdowns: Optimizing Order Sourcing Through the Agentic Shift</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-01 19:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18923327&w=600" alt="From Load Testing to Performance Engineering: Why the Shift Matters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -170,46 +192,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/scaling-uber-with-thuan-pham-ubers" target="_blank">Scaling Uber with Thuan Pham (Uber’s first CTO)</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-04-01 16:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.cloudflare.com/emdash-wordpress/" target="_blank">EmDash – a spiritual successor to WordPress that solves plugin security</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-01 16:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kim_namhyun_e7535f3dc4c69/xoul-v011-beta-released-4h5g" target="_blank">Xoul - v0.1.1-beta released</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-01 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/eslint-10-release/en/headerimage/generatedHeaderImage-1774868620518.jpg" alt="ESLint v10: Flat Config Completion and JSX Tracking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/eslint-10-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">ESLint v10: Flat Config Completion and JSX Tracking</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-01 15:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/HarfBuzz-14.0-Released" target="_blank">HarfBuzz 14.0 Released With New GPU Accelerated Text Rendering Library</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-01 15:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/" target="_blank">Run multiple agents at once with /fleet in Copilot CLI</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-04-01 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/05/ubuntu-circuit.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu quietly raises its minimum system requirements" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/ubuntu-2604-system-requriments" target="_blank">Ubuntu quietly raises its minimum system requirements</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-01 14:52</span>
             </div>
         </div>
 </div>
@@ -240,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KN52MVJXQ0T5N0BFM1T9TKXH/hero-image.jpg" alt="iOS26.5 Includes One Very Annoying New iPhone Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/everything-we-know-about-ios-265?utm_medium=RSS" target="_blank">iOS26.5 Includes One Very Annoying New iPhone Change</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-01 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/nitrile-gloves.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Lab gloves shed particles that fool microplastic detectors, inflating counts by 20x" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/01/lab-gloves-shed-particles-that-fool-microplastic-detectors-inflating-counts-by-20x.html" target="_blank">Lab gloves shed particles that fool microplastic detectors, inflating counts by 20x</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-01 18:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2012/04/Lieder_Mantis_07101021.jpg?fit=200%2C200&amp;quality=60&amp;ssl=1" alt="Man rides giant praying mantis bicycle through Colombia streets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +296,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/01/uri-tupka-and-the-gods-is-a-cold-dark-and-magnificent-trek-through-mike-mignolas-lands-unknown.html" target="_blank">&quot;Uri Tupka and the Gods&quot; is a cold, dark, and magnificent trek through Mike Mignola&#x27;s Lands Unknown</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-01 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJZAHTF3GVG7QNTENAJPDENW/hero-image.jpg" alt="10 Hacks Every Samsung Galaxy S26 Owner Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-galaxy-s26-owner-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Samsung Galaxy S26 Owner Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-01 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/ASUS-Chromebook-CM30.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This refurbished ASUS Chromebook flips between laptop and tablet for just $150" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/01/this-refurbished-asus-chromebook-flips-between-laptop-and-tablet-for-just-150.html" target="_blank">This refurbished ASUS Chromebook flips between laptop and tablet for just $150</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-01 15:00</span>
             </div>
         </div>
 </div>
@@ -340,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 18:13 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 19:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
