@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-01 10:18:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-01 11:17:46 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, April 01, 2026 - 10:18 UTC</div>
+    <div class="newspaper-date">Wednesday, April 01, 2026 - 11:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/01/nx-s1-5769805/iran-war-trump" target="_blank">Trump to address nation after saying U.S. may leave war within weeks</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-01 10:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +103,20 @@
                 <span class="time">2026-04-01 06:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/298d/live/f62c1cf0-2d91-11f1-a79a-77e93010d956.jpg" alt="Energy bill support would be based on household income, Reeves says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&at_campaign=rss" target="_blank">Energy bill support would be based on household income, Reeves says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-01 06:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china" target="_blank">Baidu’s robotaxis froze in traffic creating chaos</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-01 10:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" alt="Babbel Promo Code: Up to 65% Off in April 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,20 +162,38 @@
                 <span class="time">2026-04-01 01:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal" target="_blank">The AirPods Pro 3 are nearly matching their best-ever price for Amazon’s Big Spring Sale</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-03-31 23:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17311547/gnome-drops-google-drive-support" target="_blank">GNOME 50 Drops Google Drive Integration (For Valid Reasons)</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-01 11:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sakibsnaz/fastest-lightweight-maintenance-plugin-for-wordpress-43dg" target="_blank">Fastest Lightweight Maintenance Plugin for WordPress</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-01 11:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Dell-XPS-13-9345-EC-Driver" target="_blank">Dell XPS 13 Snapdragon Elite Laptop Sees New EC Linux Driver To Improve Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-01 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,47 +219,6 @@
                 <span class="title"><a href="https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts" target="_blank">CERN levels up with new superconducting karts</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-01 07:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/swaroop_kolasani_/before-you-upgrade-hardware-fix-the-software-292k" target="_blank">Before You Upgrade Hardware, Fix the Software</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-01 06:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p1ff5t7gmvkr8axwmsy.webp" alt="The Tab Hoarding Trap: Why We Feel Busy but Get Less Done" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/d33pto3/the-tab-hoarding-trap-why-we-feel-busy-but-get-less-done-137l" target="_blank">The Tab Hoarding Trap: Why We Feel Busy but Get Less Done</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-01 05:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ccunpacked.dev/" target="_blank">Claude Code Unpacked : A visual guide</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-01 05:15</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/03/inventors-of-quantum-cryptography-win-turing-award.html" target="_blank">Inventors of Quantum Cryptography Win Turing Award</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-03-31 11:05</span>
             </div>
         </div>
 </div>
@@ -332,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 10:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 11:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
