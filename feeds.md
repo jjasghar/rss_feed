@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-02 09:18:58 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-02 10:16:51 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, April 02, 2026 - 09:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, April 02, 2026 - 10:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +49,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/4/2/zimbabweans-fear-planned-constitutional-change-will-kill-political-choice?traffic_source=rss" target="_blank">Zimbabweans fear planned constitutional change will kill political choice</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-02 09:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/04/02/nx-s1-5770599/artemis-ii-10-day-mission-preview" target="_blank">In a thunderous launch, Artemis II astronauts leave Earth. Here&#x27;s what&#x27;s next</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -64,6 +71,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/2/french-court-denies-extradition-of-ex-tunisian-presidents-daughter?traffic_source=rss" target="_blank">French court denies extradition of ex-Tunisian President Ben Ali’s daughter</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-02 08:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11e7/live/7b5c1ab0-2e6e-11f1-97bf-db9f3eb092dc.jpg" alt="UK to host talks on plan to reopen Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2d0md89v2o?at_medium=RSS&at_campaign=rss" target="_blank">UK to host talks on plan to reopen Strait of Hormuz</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-02 08:48</span>
             </div>
         </div>
 <div class="story">
@@ -84,29 +100,20 @@
                 <span class="time">2026-04-02 06:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/2/how-long-will-artemis-ii-take-to-reach-the-moon-and-what-happens-next?traffic_source=rss" target="_blank">How long will Artemis II take to reach the moon, and what happens next?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-02 05:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/2/tiger-woods-declines-2027-ryder-cup-captaincy-can-leave-us-for-treatment?traffic_source=rss" target="_blank">Tiger Woods declines 2027 Ryder Cup captaincy; can leave US for treatment</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-02 04:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69c6c6213cca8267ad98901d/master/pass/WIRED-BORTAC-Top-Art.gif" alt="Unmasking the Paramilitary Agents Behind Trump’s Violent Immigration Crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/border-patrol-bortac-borstar-use-of-force-midway-blitz/" target="_blank">Unmasking the Paramilitary Agents Behind Trump’s Violent Immigration Crackdown</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-02 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="1Password Coupon: Score a Free Trial in April" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +159,20 @@
                 <span class="time">2026-04-01 23:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/905649/trump-supreme-court-birthright-citizenship-scotus-arguments" target="_blank">Trump’s birthright citizenship ban may fail — but the administration already got too far</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-01 23:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-MR-Zink-By-Default" target="_blank">Proposed Wine Code Uses Zink For OpenGL-On-Vulkan By Default</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-02 10:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +218,6 @@
                 <span class="time">2026-04-02 06:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Libinput-Lua-Security-Issues" target="_blank">Libinput Hit By Worrying Security Issues With Its Lua Plug-In System</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-02 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,18 +227,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/is-hackback-official-us-cybersecurity-strategy.html" target="_blank">Is “Hackback” Official US Cybersecurity Strategy?</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/possible-us-government-iphone-hacking-tool-leaked.html" target="_blank">Possible US Government iPhone Hacking Tool Leaked</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-01 16:57</span>
+                <span class="time">2026-04-02 10:05</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/a-taxonomy-of-cognitive-security.html" target="_blank">A Taxonomy of Cognitive Security</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/is-hackback-official-us-cybersecurity-strategy.html" target="_blank">Is “Hackback” Official US Cybersecurity Strategy?</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-01 09:59</span>
+                <span class="time">2026-04-01 16:57</span>
             </div>
         </div>
 </div>
@@ -339,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 09:19 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 10:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
