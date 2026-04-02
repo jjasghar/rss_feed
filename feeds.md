@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-02 03:59:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-02 04:51:56 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, April 02, 2026 - 03:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, April 02, 2026 - 04:52 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/2/tiger-woods-declines-2027-ryder-cup-captaincy-can-leave-us-for-treatment?traffic_source=rss" target="_blank">Tiger Woods declines 2027 Ryder Cup captaincy; can leave US for treatment</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-02 04:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-15-rt-gmh-04012026_1775091979075_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says US objectives in Iran &#x27;nearing completion&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +104,6 @@
                 <span class="time">2026-04-02 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss" target="_blank">Iran war live: Trump addresses nation; Tehran denies seeking ceasefire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-02 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -109,6 +116,15 @@
                 <span class="title"><a href="https://www.wired.com/story/artemis-ii-moon-mission-launches-successfully/" target="_blank">Artemis II Mission Launches Successfully</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-04-02 01:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_0752-copy-500x500.jpg" alt="Artemis II, NASA&#x27;s boldest mission in generations, launches crew to the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/04/four-astronauts-depart-for-the-moon-with-a-fiery-send-off-from-cape-canaveral/" target="_blank">Artemis II, NASA&#x27;s boldest mission in generations, launches crew to the Moon</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-02 00:04</span>
             </div>
         </div>
 <div class="story">
@@ -147,20 +163,20 @@
                 <span class="time">2026-04-01 22:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/" target="_blank">The reputation of troubled YC startup Delve has gotten even worse</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-01 21:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Libinput-Lua-Security-Issues" target="_blank">Libinput Hit By Worrying Security Issues With Its Lua Plug-In System</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-02 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +222,6 @@
                 <span class="time">2026-04-01 23:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://mkennedy.codes/posts/cutting-python-web-app-memory-over-31-percent/" target="_blank">Cutting Python Web App Memory Over 31%</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-04-01 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -253,6 +260,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/charliedayluigi-1280x720.jpg" alt="Super Mario Galaxy Movie’s Charlie Day Ranks Luigi Mangione As His 2nd Favorite Luigi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/super-mario-galaxy-movies-charlie-day-ranks-luigi-mangione-as-his-2nd-favorite-luigi-2000684046" target="_blank">Super Mario Galaxy Movie’s Charlie Day Ranks Luigi Mangione As His 2nd Favorite Luigi</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-02 02:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/The-Olive-Garden-Compass.jpg?fit=1080%2C652&amp;quality=60&amp;ssl=1" alt="A compass that only points to the Times Square Olive Garden" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -286,15 +302,6 @@
                 <span class="title"><a href="https://kotaku.com/super-mario-bros-speedrunner-niftski-speedrun-tas-input-world-record-2000684012" target="_blank">Super Mario Bros. Speedrunner Claims He’s Being Sabotaged</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-01 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/2570_FP_1144432U_00088596-H-2025-1280x721.jpg" alt="Nintendo Pushed Mario Into Movies Because Console Growth Is Tapped Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mario-galaxy-movie-miyamoto-switch-2-2000683993" target="_blank">Nintendo Pushed Mario Into Movies Because Console Growth Is Tapped Out</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-01 20:00</span>
             </div>
         </div>
 </div>
@@ -338,22 +345,13 @@
                 <span class="time">2026-04-01 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/creation.png" alt="Creation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3227/" target="_blank">Creation</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-04-01 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 03:59 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 04:52 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
