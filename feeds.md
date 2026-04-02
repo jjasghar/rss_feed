@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-02 16:16:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-02 17:14:58 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 15 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, April 02, 2026 - 16:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, April 02, 2026 - 17:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260107-pam-bondi-donald-trump-vl-1122a-d2a314.jpg" alt="Trump fires Pam Bondi as attorney general, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/bondi-fired-attorney-general-trump-rcna266378" target="_blank">Trump fires Pam Bondi as attorney general, sources say</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-02 17:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/02/nx-s1-5771486/artemis-moon-mission-apollo-1972" target="_blank">Ziggy Stardust and Hacky Sack: What life was like the last time we went to the moon</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-02 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement" target="_blank">Uganda receives first US deportation flight under third-country agreement</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-02 16:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-19-epa-gmh-04012026_1775092868441_hpMain_4x3t_384.jpg" alt="Trump says he&#x27;ll sign order to pay all DHS employees as shutdown continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-hell-sign-order-pay-dhs-employees-shutdown/story?id=131650312" target="_blank">Trump says he&#x27;ll sign order to pay all DHS employees as shutdown continues</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-02 16:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-19-epa-gmh-04012026_1775092868441_hpMain_4x3t_384.jpg" alt="Trump says he’ll sign order to pay all DHS employees as shutdown continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,47 +104,38 @@
                 <span class="time">2026-04-02 14:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/02/nx-s1-5763755/stay-alive-berlin-ian-buruma-review" target="_blank">&#x27;Stay Alive,&#x27; about daily life in Nazi Berlin, shows how easy it is to just go along</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-02 13:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4141/live/ac0f5800-2e89-11f1-b297-95b0a0a8331e.jpg" alt="Macron calls Trump&#x27;s remarks on his marriage &#x27;inelegant&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/videos/c70dxqp0q2do?at_medium=RSS&at_campaign=rss" target="_blank">Macron calls Trump&#x27;s remarks on his marriage &#x27;inelegant&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-02 12:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1e3/live/b800bf50-2e89-11f1-b297-95b0a0a8331e.jpg" alt="Funeral director admits preventing 30 burials and theft" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c70kenjyjr8o?at_medium=RSS&at_campaign=rss" target="_blank">Funeral director admits preventing 30 burials and theft</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-02 12:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Iraq-militia-DB-260402_1775125495016_hpMain_4x3t_384.jpg" alt="Iran live updates: US Embassy tells Americans to leave Iraq, cites terror threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: US Embassy tells Americans to leave Iraq, cites terror threat</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-02 11:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69cc30f8d49844d66356c85d/master/pass/Model-Behavior-Cursor-Build-Own-AI-Business%202%20(0-00-07-17).jpg" alt="Cursor Launches a New AI Agent Experience to Take on Claude Code and Codex" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/" target="_blank">Cursor Launches a New AI Agent Experience to Take on Claude Code and Codex</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-02 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/" target="_blank">Microsoft takes on AI rivals with three new foundational models</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-02 16:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/905964/hisense-canvastv-deal-sale" target="_blank">Hisense’s art-inspired CanvasTV has hit a new low price</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-02 16:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemma-4_keyart_header-dark_16_9-500x500.png" alt="Google announces Gemma 4 open AI models, switches to Apache 2.0 license" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,38 +163,38 @@
                 <span class="time">2026-04-02 14:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/02/uniteds-mobile-app-now-shows-tsa-wait-times-at-select-airports/" target="_blank">United’s mobile app now shows TSA wait times at select airports</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-02 14:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/905309/rising-gas-prices-are-good-news-for-ev-sales-for-now" target="_blank">Rising gas prices are good news for EV sales, for now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-02 13:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69cd7c367deee9ab4c68331c/master/pass/The-15-Best-Gifts-for-Lego-Lovers.jpg" alt="Best Lego Gifts for Brick Builders (2026): Smart Bricks, Video Games, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/gifts-for-lego-lovers/" target="_blank">Best Lego Gifts for Brick Builders (2026): Smart Bricks, Video Games, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-02 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/qasim157/manage-google-calendar-from-the-command-line-no-api-setup-5c9d" target="_blank">Manage Google Calendar from the Command Line — No API Setup</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-02 17:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18924976&w=600" alt="When One Giant Payload Must Serve Many Small Consumers: Designing a Scalable Fanout Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/designing-a-scalable-fanout-service" target="_blank">When One Giant Payload Must Serve Many Small Consumers: Designing a Scalable Fanout Service</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-02 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://gist.github.com/MostAwesomeDude/560185c24f959f6fec229739cb5a6735" target="_blank">Activating Two Trap Cards at Once, or: A Gentle Response to the Popularity of Vibecoding</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-04-02 16:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/02/Ubuntu-cli.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04’s sudo-rs gets a password feedback toggle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -175,46 +207,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Cache-Aware-Sched-v4" target="_blank">Intel Posts Fourth Version Of Cache Aware Scheduling For Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-02 15:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rohith_kn/the-best-web-apps-feel-like-conversations-odp" target="_blank">The Best Web Apps Feel Like Conversations</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-02 15:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://blog.pypi.org/posts/2026-04-02-incident-report-litellm-telnyx-supply-chain-attack/" target="_blank">Incident Report: LiteLLM/Telnyx supply-chain attacks, with guidance</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-04-02 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/github-ai-accessibility-workflow/en/headerimage/intakeworkflow-1774202211278.jpeg" alt="Github Integrates AI to Improve Accessibility Issue Management and Automate Feedback Triage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/github-ai-accessibility-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Github Integrates AI to Improve Accessibility Issue Management and Automate Feedback Triage</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-02 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2604-strix-halo" target="_blank">AMD Ryzen AI Max &quot;Strix Halo&quot; Enjoys Great Performance Gains With Latest Linux Software</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-02 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fftyvnhrboyje96adoj9p.webp" alt="Implementing Automatic LLM Provider Fallback In AI Agents Using an LLM Gateway (OpenAI, Anthropic, Gemini &amp; Bifrost)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/crosspostr/implementing-automatic-llm-provider-fallback-in-ai-agents-using-an-llm-gateway-openai-anthropic-kg2" target="_blank">Implementing Automatic LLM Provider Fallback In AI Agents Using an LLM Gateway (OpenAI, Anthropic, Gemini &amp; Bifrost)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-02 14:22</span>
             </div>
         </div>
 </div>
@@ -231,20 +236,29 @@
                 <span class="time">2026-04-02 10:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/is-hackback-official-us-cybersecurity-strategy.html" target="_blank">Is “Hackback” Official US Cybersecurity Strategy?</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-01 16:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/Project-Hail-Mary-Rocky-sleeping-1280x853.jpg" alt="You Can Now Watch Rocky From ‘Project Hail Mary’ Sleep With the Perfect Accompaniment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/project-hail-mary-soundtrack-rocky-sleep-video-2000741615" target="_blank">You Can Now Watch Rocky From ‘Project Hail Mary’ Sleep With the Perfect Accompaniment</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-02 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/ravens-1280x739.jpg" alt="Raven Software Cofounder Retires After 36 Years, Reminding People Of All The Cool Stuff It Used To Make Before Call Of Duty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/raven-software-brian-raffel-hexen-call-duty-2000684262" target="_blank">Raven Software Cofounder Retires After 36 Years, Reminding People Of All The Cool Stuff It Used To Make Before Call Of Duty</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-02 16:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/empedocles-physica-papyrus-1280x853.jpg" alt="30 Unpublished Poems From Iconic Greek Philosopher Discovered in Cairo" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,29 +295,20 @@
                 <span class="time">2026-04-02 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/resievil.jpg" alt="Capcom Just Cannot Stop Deliberately Breaking Its Games With DRM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/capcom-resident-evil-trilogy-enigma-drm-steam-2000684223" target="_blank">Capcom Just Cannot Stop Deliberately Breaking Its Games With DRM</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-02 14:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KN74FPNQH8PWBNNNM6F9PKDP/hero-image.jpg" alt="Six Things to Know When Switching From Windows to macOS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/things-to-know-when-switching-from-windows-to-macos?utm_medium=RSS" target="_blank">Six Things to Know When Switching From Windows to macOS</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-02 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1774994067-20260402 - Copy.png" alt="Saturday Morning Breakfast Cereal - Special" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/special-5" target="_blank">Saturday Morning Breakfast Cereal - Special</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-02 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5799.png" alt="Moray Is Competent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -313,22 +318,13 @@
                 <span class="time">2026-04-02 00:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/04/01/awreatha-franklin" target="_blank">Awreatha Franklin</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-04-01 17:09</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 16:16 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 17:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
