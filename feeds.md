@@ -1,40 +1,23 @@
-<!-- Processing 54 RSS feeds at 2026-04-02 17:14:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-02 18:12:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 15 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 15 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, April 02, 2026 - 17:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, April 02, 2026 - 18:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +33,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/02/g-s1-115077/trump-bondi-attorney-general-departure" target="_blank">Attorney General Pam Bondi out at DOJ</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-02 17:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260107-pam-bondi-donald-trump-vl-1122a-d2a314.jpg" alt="Trump fires Pam Bondi as attorney general, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,15 +85,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/trump-hell-sign-order-pay-dhs-employees-shutdown/story?id=131650312" target="_blank">Trump says he’ll sign order to pay all DHS employees as shutdown continues</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-02 15:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/4/2/why-lebanon-should-join-the-international-criminal-court?traffic_source=rss" target="_blank">Why Lebanon should join the International Criminal Court</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-02 14:15</span>
             </div>
         </div>
 </div>
@@ -187,6 +170,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!Lw9q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf88b1aa-309a-49a2-bf21-63c4b281cefa_1552x456.png" alt="The Pulse: Industry leaders return to coding with AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-industry-leaders-return" target="_blank">The Pulse: Industry leaders return to coding with AI</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-04-02 16:29</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
@@ -213,15 +205,6 @@
                 <span class="time">2026-04-02 15:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rohith_kn/the-best-web-apps-feel-like-conversations-odp" target="_blank">The Best Web Apps Feel Like Conversations</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-02 15:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +224,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/chainsaw-man-tatsuki-fujimoto-shonen-jump-3-1280x853.jpg" alt="Revisiting the Ending of ‘Chainsaw Man’ Through the Lens of Japanese Folklore" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/chainsaw-man-ending-pochita-yokai-manga-2000741505" target="_blank">Revisiting the Ending of ‘Chainsaw Man’ Through the Lens of Japanese Folklore</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-02 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0A5YQV8NHT9EYETBKVNWBKX/hero-image.png" alt="This Is the Ultrawide Curved Gaming Monitor I Would Buy If I Were on a Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/samsung-odyssey-g5-curved-gaming-monitor-deal?utm_medium=RSS" target="_blank">This Is the Ultrawide Curved Gaming Monitor I Would Buy If I Were on a Budget</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-02 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/Project-Hail-Mary-Rocky-sleeping-1280x853.jpg" alt="You Can Now Watch Rocky From ‘Project Hail Mary’ Sleep With the Perfect Accompaniment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,24 +278,6 @@
                 <span class="time">2026-04-02 15:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KN7BA241N1RCEPQZ9SF1KYKS/hero-image.png" alt="Would You Buy This Dual-Screen Smartphone With Both E-Ink and LCD Displays?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/would-you-buy-this-dual-screen-smartphone-with-both-e-ink-and-lcd-displays?utm_medium=RSS" target="_blank">Would You Buy This Dual-Screen Smartphone With Both E-Ink and LCD Displays?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-02 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/VoiceType-AI-Voice-to-Text.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Treat yourself to unlimited AI voice-to-text for $45" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/02/treat-yourself-to-unlimited-ai-voice-to-text-for-45.html" target="_blank">Treat yourself to unlimited AI voice-to-text for $45</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-02 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 17:15 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 18:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
