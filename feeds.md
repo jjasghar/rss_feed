@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-02 08:17:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-02 09:18:58 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, April 02, 2026 - 08:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, April 02, 2026 - 09:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/02/nx-s1-5770599/artemis-ii-10-day-mission-preview" target="_blank">In a thunderous launch, Artemis II astronauts leave Earth. Here&#x27;s what&#x27;s next</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-02 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/2/french-court-denies-extradition-of-ex-tunisian-presidents-daughter?traffic_source=rss" target="_blank">French court denies extradition of ex-Tunisian President Ben Ali’s daughter</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-02 08:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Abu-Dhabi-DB-260402_1775113972029_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel, UAE, Saudi Arabia report drone and missile attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: Israel, UAE, Saudi Arabia report drone and missile attacks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-02 07:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,33 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/2/tiger-woods-declines-2027-ryder-cup-captaincy-can-leave-us-for-treatment?traffic_source=rss" target="_blank">Tiger Woods declines 2027 Ryder Cup captaincy; can leave US for treatment</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-02 04:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-15-rt-gmh-04012026_1775091979075_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says US objectives in Iran &#x27;nearing completion&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: Trump says US objectives in Iran &#x27;nearing completion&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-02 01:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775093598556_nbc_spec_trump_nearing_completion_260401_S3_1920x1080-77w9l3.jpg" alt="Trump says U.S. &#x27;nearing completion&#x27; of its strategic objectives in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-says-u-s-nearing-completion-of-its-strategic-objectives-in-iran-260554821820" target="_blank">Trump says U.S. &#x27;nearing completion&#x27; of its strategic objectives in Iran</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-02 01:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/trump-address-abc-gmh-260401_1775051718224_hpMain_4x3t_384.jpg" alt="LIVE:  Trump addresses nation on war with Iran: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Trump addresses nation on war with Iran: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-02 01:00</span>
             </div>
         </div>
 </div>
@@ -167,6 +170,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mistaike_ai/axios-has-100-million-weekly-downloads-north-korea-backdoored-it-in-39-minutes-30e5" target="_blank">Axios Has 100 Million Weekly Downloads. North Korea Backdoored It in 39 Minutes.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-02 09:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/beyond-rag-context-aware/en/headerimage/beyond-rag-context-aware-header-1774531119239.jpg" alt="Article: Beyond RAG: Architecting Context-Aware AI Systems with Spring Boot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/beyond-rag-context-aware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Beyond RAG: Architecting Context-Aware AI Systems with Spring Boot</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-02 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing" target="_blank">IBM Announces Strategic Collaboration with Arm</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-02 08:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/alexcloudstar/the-ai-powered-agency-a-developer-playbook-for-selling-ai-services-in-2026-23ci" target="_blank">The AI-Powered Agency: A Developer Playbook for Selling AI Services in 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-02 08:15</span>
@@ -188,33 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Libinput-Lua-Security-Issues" target="_blank">Libinput Hit By Worrying Security Issues With Its Lua Plug-In System</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-02 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/duke897/building-a-simple-ai-video-tool-after-veo-31-lite-apis-became-available-2l4" target="_blank">Building a Simple AI Video Tool After Veo 3.1 Lite APIs Became Available</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-02 03:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://pyre-lang.org/" target="_blank">Python Yet Reforged Entirely</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-04-02 02:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/denisarruda/observabilidade-de-agentes-de-ia-com-langchain4j-ncd" target="_blank">Observabilidade de agentes de IA com LangChain4j</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-02 01:26</span>
             </div>
         </div>
 </div>
@@ -245,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/subaru-getaway-ev-1280x864.jpeg" alt="New Getaway Means Subaru Has an Electric SUV in Every Size" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/new-getaway-means-subaru-has-an-electric-suv-in-every-size-2000741132" target="_blank">New Getaway Means Subaru Has an Electric SUV in Every Size</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-02 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/apollo-go-1280x853.jpg" alt="Getting Stuck Inside a Glitching Robotaxi Is a Whole New Thing to Be Scared of" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +302,6 @@
                 <span class="time">2026-04-01 21:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/Screenshot-2026-04-01-160039-e1775073727639.jpg" alt="Super Mario Bros. Speedrunner Claims He’s Being Sabotaged" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/super-mario-bros-speedrunner-niftski-speedrun-tas-input-world-record-2000684012" target="_blank">Super Mario Bros. Speedrunner Claims He’s Being Sabotaged</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-01 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 08:17 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 09:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
