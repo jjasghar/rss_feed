@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-02 12:12:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-02 13:28:25 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, April 02, 2026 - 12:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, April 02, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4141/live/ac0f5800-2e89-11f1-b297-95b0a0a8331e.jpg" alt="Macron calls Trump&#x27;s remarks on his marriage &#x27;inelegant&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/videos/c70dxqp0q2do?at_medium=RSS&at_campaign=rss" target="_blank">Macron calls Trump&#x27;s remarks on his marriage &#x27;inelegant&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-02 12:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1e3/live/b800bf50-2e89-11f1-b297-95b0a0a8331e.jpg" alt="Funeral director admits preventing 30 burials and theft" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c70kenjyjr8o?at_medium=RSS&at_campaign=rss" target="_blank">Funeral director admits preventing 30 burials and theft</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-02 12:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Iraq-militia-DB-260402_1775125495016_hpMain_4x3t_384.jpg" alt="Iran live updates: US Embassy tells Americans to leave Iraq, cites terror threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: US Embassy tells Americans to leave Iraq, cites terror threat</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-02 11:33</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +99,29 @@
                 <span class="time">2026-04-02 11:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/4/2/zimbabweans-fear-planned-constitutional-change-will-kill-political-choice?traffic_source=rss" target="_blank">Zimbabweans fear planned constitutional change will kill political choice</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-02 09:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/02/nx-s1-5770599/artemis-ii-10-day-mission-preview" target="_blank">In a thunderous launch, Artemis II astronauts leave Earth. Here&#x27;s what&#x27;s next</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-02 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/905309/rising-gas-prices-are-good-news-for-ev-sales-for-now" target="_blank">Rising gas prices are good news for EV sales, for now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-02 13:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69cd7c367deee9ab4c68331c/master/pass/The-15-Best-Gifts-for-Lego-Lovers.jpg" alt="Best Lego Gifts for Brick Builders (2026): Smart Bricks, Video Games, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/gifts-for-lego-lovers/" target="_blank">Best Lego Gifts for Brick Builders (2026): Smart Bricks, Video Games, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-02 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +158,38 @@
                 <span class="time">2026-04-02 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69cdc8b72391edcacfeb9147/master/pass/2269453122" alt="Artemis II Mission Launches Successfully" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/artemis-ii-moon-mission-launches-successfully/" target="_blank">Artemis II Mission Launches Successfully</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-02 01:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_0752-copy-500x500.jpg" alt="Artemis II, NASA&#x27;s boldest mission in generations, launches crew to the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/04/four-astronauts-depart-for-the-moon-with-a-fiery-send-off-from-cape-canaveral/" target="_blank">Artemis II, NASA&#x27;s boldest mission in generations, launches crew to the Moon</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-02 00:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff54mrnqxpvvq2n4bz99o.png" alt="How I built a Blog app using Edge Functions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sujalluhar/how-i-built-a-blog-app-using-edge-functions-531j" target="_blank">How I built a Blog app using Edge Functions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-02 13:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18924923&w=600" alt="Mastering Azure Kubernetes Service: The Ultimate Guide to Scaling, Security, and Cost Optimization" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/mastering-azure-kubernetes-service-guide" target="_blank">Mastering Azure Kubernetes Service: The Ultimate Guide to Scaling, Security, and Cost Optimization</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-02 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/helidon-4-4-released/en/headerimage/helidon-440-release-1775134445673.jpg" alt="Helidon 4.4.0 Introduces Alignment with OpenJDK Cadence and Support via Java Verified Portfolio" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/helidon-4-4-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Helidon 4.4.0 Introduces Alignment with OpenJDK Cadence and Support via Java Verified Portfolio</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-02 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/04/trust-psychological-safety-scale/en/headerimage/trust-psychological-safety-header-1774870136735.jpg" alt="How to Handle Trusts and Psychological Safety When Scaling Organizations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,33 +215,6 @@
                 <span class="title"><a href="https://dev.to/mistaike_ai/axios-has-100-million-weekly-downloads-north-korea-backdoored-it-in-39-minutes-30e5" target="_blank">Axios Has 100 Million Weekly Downloads. North Korea Backdoored It in 39 Minutes.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-02 09:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/beyond-rag-context-aware/en/headerimage/beyond-rag-context-aware-header-1774531119239.jpg" alt="Article: Beyond RAG: Architecting Context-Aware AI Systems with Spring Boot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/beyond-rag-context-aware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Beyond RAG: Architecting Context-Aware AI Systems with Spring Boot</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-02 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing" target="_blank">IBM Announces Strategic Collaboration with Arm</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-02 08:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alexcloudstar/the-ai-powered-agency-a-developer-playbook-for-selling-ai-services-in-2026-23ci" target="_blank">The AI-Powered Agency: A Developer Playbook for Selling AI Services in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-02 08:15</span>
             </div>
         </div>
 </div>
@@ -246,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/07/19dcb586d554e0b30fc296fa6ffd4bdb.jpg" alt="Last Of Us Online Dev Says It Was Around ‘80 Percent’ Complete Before Its ‘Soul-Crushing’ Cancellation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/last-of-us-online-naughty-dog-canceled-vinit-agarwal-2000684224" target="_blank">Last Of Us Online Dev Says It Was Around ‘80 Percent’ Complete Before Its ‘Soul-Crushing’ Cancellation</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-02 13:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/hasbro-marvel-legends-deadpool-and-wolverine-shirtless-wolverine-1280x853.jpg" alt="The ‘Deadpool &amp; Wolverine’ Moment Designed for You to Gawk at Hugh Jackman’s Chiseled Body Is Now an Action Figure" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +299,6 @@
                 <span class="time">2026-04-02 02:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/The-Olive-Garden-Compass.jpg?fit=1080%2C652&amp;quality=60&amp;ssl=1" alt="A compass that only points to the Times Square Olive Garden" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/01/a-compass-that-only-points-to-the-times-square-olive-garden.html" target="_blank">A compass that only points to the Times Square Olive Garden</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-01 23:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -337,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 12:12 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
