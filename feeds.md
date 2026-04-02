@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-02 02:58:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-02 03:59:42 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, April 02, 2026 - 02:58 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, April 02, 2026 - 03:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +50,15 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: Trump says US objectives in Iran &#x27;nearing completion&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-02 01:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775093598556_nbc_spec_trump_nearing_completion_260401_S3_1920x1080-77w9l3.jpg" alt="Trump says U.S. &#x27;nearing completion&#x27; of its strategic objectives in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-says-u-s-nearing-completion-of-its-strategic-objectives-in-iran-260554821820" target="_blank">Trump says U.S. &#x27;nearing completion&#x27; of its strategic objectives in Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-02 01:33</span>
             </div>
         </div>
 <div class="story">
@@ -88,20 +97,20 @@
                 <span class="time">2026-04-02 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/artemis-2-ht-gmh-260401._1775045893070_hpMain_4x3t_384.jpg" alt="Artemis II live updates: NASA troubleshooting battery temperature issue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306" target="_blank">Artemis II live updates: NASA troubleshooting battery temperature issue</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-01 21:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69cdc8b72391edcacfeb9147/master/pass/2269453122" alt="Artemis II Mission Launches Successfully" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/artemis-ii-moon-mission-launches-successfully/" target="_blank">Artemis II Mission Launches Successfully</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-02 01:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69cda3ce9e2d7ad269770417/master/pass/California-Temporarily-Lets-VCs-Off-the-Hook-For-DEI-Reporting-Business-2263930943.jpg" alt="California Suspends Enforcement of Law Requiring VCs to Report Diversity Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +156,20 @@
                 <span class="time">2026-04-01 21:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/nvidia-500x500.jpg" alt="Nvidia rolls out its fix for PC gaming&#x27;s &quot;compiling shaders&quot; wait times" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/" target="_blank">Nvidia rolls out its fix for PC gaming&#x27;s &quot;compiling shaders&quot; wait times</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-01 20:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/duke897/building-a-simple-ai-video-tool-after-veo-31-lite-apis-became-available-2l4" target="_blank">Building a Simple AI Video Tool After Veo 3.1 Lite APIs Became Available</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-02 03:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +215,6 @@
                 <span class="time">2026-04-01 22:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/" target="_blank">DRAM pricing is killing the hobbyist SBC market</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-01 21:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/apollo-go-1280x853.jpg" alt="Getting Stuck Inside a Glitching Robotaxi Is a Whole New Thing to Be Scared of" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/getting-stuck-inside-a-glitching-robotaxi-is-a-whole-new-thing-to-be-scared-of-2000740644" target="_blank">Getting Stuck Inside a Glitching Robotaxi Is a Whole New Thing to Be Scared of</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-02 02:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/The-Olive-Garden-Compass.jpg?fit=1080%2C652&amp;quality=60&amp;ssl=1" alt="A compass that only points to the Times Square Olive Garden" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +294,6 @@
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/mario-galaxy-movie-miyamoto-switch-2-2000683993" target="_blank">Nintendo Pushed Mario Into Movies Because Console Growth Is Tapped Out</a></span>
                 <span class="feed">Kotaku</span>
-                <span class="time">2026-04-01 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HN0ZP8S1KSR9CY579D4F5JF6/hero-image.png" alt="Amazon Prime Members Can Get Two Free E-Books in April" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/free-kindle-books-april-2026?utm_medium=RSS" target="_blank">Amazon Prime Members Can Get Two Free E-Books in April</a></span>
-                <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-01 20:00</span>
             </div>
         </div>
@@ -352,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 02:58 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 03:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
