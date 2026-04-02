@@ -1,50 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-02 15:19:23 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-02 16:16:29 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 40 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, April 02, 2026 - 15:19 UTC</div>
+    <div class="newspaper-date">Thursday, April 02, 2026 - 16:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -120,6 +105,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemma-4_keyart_header-dark_16_9-500x500.png" alt="Google announces Gemma 4 open AI models, switches to Apache 2.0 license" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/" target="_blank">Google announces Gemma 4 open AI models, switches to Apache 2.0 license</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-02 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/" target="_blank">Google now lets you direct avatars through prompts in its Vids app</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-02 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/55182918876_4bbdf92613_k-500x500.jpg" alt="Why is NASA bothering to go back to the Moon if we&#x27;ve already been there?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -155,29 +158,20 @@
                 <span class="time">2026-04-02 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/905427/uber-go-electric-grant-driver-switch-ev" target="_blank">Uber expands its $4,000 ‘Go Electric’ grant to drivers nationwide</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-02 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c6c6213cca8267ad98901d/master/pass/WIRED-BORTAC-Top-Art.gif" alt="Unmasking the Paramilitary Agents Behind Trump’s Violent Immigration Crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/border-patrol-bortac-borstar-use-of-force-midway-blitz/" target="_blank">Unmasking the Paramilitary Agents Behind Trump’s Violent Immigration Crackdown</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-02 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/02/Ubuntu-cli.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04’s sudo-rs gets a password feedback toggle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/sudo-rs-password-feedback-toggle" target="_blank">Ubuntu 26.04’s sudo-rs gets a password feedback toggle</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-02 15:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,6 +191,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/04/github-ai-accessibility-workflow/en/headerimage/intakeworkflow-1774202211278.jpeg" alt="Github Integrates AI to Improve Accessibility Issue Management and Automate Feedback Triage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/github-ai-accessibility-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Github Integrates AI to Improve Accessibility Issue Management and Automate Feedback Triage</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-02 14:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -212,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/crosspostr/implementing-automatic-llm-provider-fallback-in-ai-agents-using-an-llm-gateway-openai-anthropic-kg2" target="_blank">Implementing Automatic LLM Provider Fallback In AI Agents Using an LLM Gateway (OpenAI, Anthropic, Gemini &amp; Bifrost)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-02 14:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17312387/foss-weekly-26-14" target="_blank">FOSS Weekly #26.14: Open Source Office Drama, Ubuntu MATE Troubles, Conky With Ease, Session Management in Wayland and More Linux Stuff</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-02 13:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff54mrnqxpvvq2n4bz99o.png" alt="How I built a Blog app using Edge Functions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sujalluhar/how-i-built-a-blog-app-using-edge-functions-531j" target="_blank">How I built a Blog app using Edge Functions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-02 13:19</span>
             </div>
         </div>
 </div>
@@ -261,12 +246,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/empedocles-physica-papyrus-1280x853.jpg" alt="30 Unpublished Poems From Iconic Greek Philosopher Discovered in Cairo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/30-unpublished-poems-from-iconic-greek-philosopher-discovered-in-cairo-2000741535" target="_blank">30 Unpublished Poems From Iconic Greek Philosopher Discovered in Cairo</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-02 16:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/image-49.jpg" alt="How Much Longer Will Valve Make Fans Wait For A Steam Deck 2?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/steam-deck-2-rumor-mario-galaxy-box-office-2000684222" target="_blank">How Much Longer Will Valve Make Fans Wait For A Steam Deck 2?</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-02 15:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KN7BA241N1RCEPQZ9SF1KYKS/hero-image.png" alt="Would You Buy This Dual-Screen Smartphone With Both E-Ink and LCD Displays?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/would-you-buy-this-dual-screen-smartphone-with-both-e-ink-and-lcd-displays?utm_medium=RSS" target="_blank">Would You Buy This Dual-Screen Smartphone With Both E-Ink and LCD Displays?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-02 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -296,24 +299,6 @@
                 <span class="time">2026-04-02 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/19dcb586d554e0b30fc296fa6ffd4bdb.jpg" alt="Last Of Us Online Dev Says It Was Around ‘80 Percent’ Complete Before Its ‘Soul-Crushing’ Cancellation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/last-of-us-online-naughty-dog-canceled-vinit-agarwal-2000684224" target="_blank">Last Of Us Online Dev Says It Was Around ‘80 Percent’ Complete Before Its ‘Soul-Crushing’ Cancellation</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-02 13:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/hasbro-marvel-legends-deadpool-and-wolverine-shirtless-wolverine-1280x853.jpg" alt="The ‘Deadpool &amp; Wolverine’ Moment Designed for You to Gawk at Hugh Jackman’s Chiseled Body Is Now an Action Figure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/hasbro-marvel-legends-deadpool-and-wolverine-shirtless-wolverine-2000741167" target="_blank">The ‘Deadpool &amp; Wolverine’ Moment Designed for You to Gawk at Hugh Jackman’s Chiseled Body Is Now an Action Figure</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-02 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -337,22 +322,13 @@
                 <span class="time">2026-04-01 17:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1774994016-20260401.png" alt="Saturday Morning Breakfast Cereal - Loot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/loot" target="_blank">Saturday Morning Breakfast Cereal - Loot</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-01 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 15:19 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 16:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
