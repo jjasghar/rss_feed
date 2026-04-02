@@ -1,39 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-04-02 06:21:14 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing 54 RSS feeds at 2026-04-02 07:27:09 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Generated 1 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, April 02, 2026 - 06:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, April 02, 2026 - 07:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -335,22 +324,13 @@
                 <span class="time">2026-04-01 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/04/01/awreatha-franklin" target="_blank">Awreatha Franklin</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-04-01 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 06:21 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 07:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
