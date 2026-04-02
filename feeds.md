@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-02 00:09:36 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-02 01:31:04 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, April 02, 2026 - 00:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, April 02, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/trump-address-abc-gmh-260401_1775051718224_hpMain_4x3t_384.jpg" alt="LIVE:  Trump addresses nation on war with Iran: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Trump addresses nation on war with Iran: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-02 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/01/nx-s1-5770629/appeals-court-rejects-hud-homelessness-overhaul" target="_blank">Appeals court rejects HUD homelessness overhaul saying it would be &quot;disastrous&quot;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-02 00:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss" target="_blank">Iran war live: Trump addresses nation; Tehran denies seeking ceasefire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-02 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/artemis-2-ht-gmh-260401._1775045893070_hpMain_4x3t_384.jpg" alt="Artemis II live updates: NASA troubleshooting battery temperature issue" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,33 +96,6 @@
                 <span class="time">2026-04-01 21:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6753/live/6e1e1f30-2cfa-11f1-a79a-77e93010d956.jpg" alt="BBC sacked Scott Mills after learning alleged victim in police investigation was under 16" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gv7yj71llo?at_medium=RSS&at_campaign=rss" target="_blank">BBC sacked Scott Mills after learning alleged victim in police investigation was under 16</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-01 21:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/1/smoke-and-embers-seen-over-irans-isfahan-after-strike?traffic_source=rss" target="_blank">Smoke and embers seen over Iran’s Isfahan after strike</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-01 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/01/nx-s1-5760899/weight-loss-pill-foundayo" target="_blank">The FDA approves a new obesity pill, giving patients another option</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-01 20:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -121,6 +117,15 @@
                 <span class="title"><a href="https://www.theverge.com/policy/905649/trump-supreme-court-birthright-citizenship-scotus-arguments" target="_blank">Trump’s birthright citizenship ban may fail — but the administration already got too far</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-01 23:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/" target="_blank">De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-01 22:58</span>
             </div>
         </div>
 <div class="story">
@@ -150,20 +155,20 @@
                 <span class="time">2026-04-01 20:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/01/a-new-dating-app-sonder-has-a-deliberately-annoying-sign-up-process-and-its-working/" target="_blank">A new dating app, Sonder, has a deliberately annoying sign-up process (and it’s working)</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-01 20:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/denisarruda/observabilidade-de-agentes-de-ia-com-langchain4j-ncd" target="_blank">Observabilidade de agentes de IA com LangChain4j</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-02 01:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +214,6 @@
                 <span class="time">2026-04-01 20:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18923332&w=600" alt="End-to-End Streaming Optimization: Kafka to Delta With Exactly-Once Guarantees" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/streaming-optimization-kafka-delta" target="_blank">End-to-End Streaming Optimization: Kafka to Delta With Exactly-Once Guarantees</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-01 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/The-Olive-Garden-Compass.jpg?fit=1080%2C652&amp;quality=60&amp;ssl=1" alt="A compass that only points to the Times Square Olive Garden" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/01/a-compass-that-only-points-to-the-times-square-olive-garden.html" target="_blank">A compass that only points to the Times Square Olive Garden</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-01 23:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/7106NYA4Z2L._AC_UF8941000_QL80_.jpg?fit=894%2C609&amp;quality=60&amp;ssl=1" alt="Ninja Creami, the PacoJet for the rest of us" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,20 +296,20 @@
                 <span class="time">2026-04-01 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Tdiner-e1753471820584.jpg?fit=600%2C340&amp;quality=60&amp;ssl=1" alt="Musk says robot works great, just not ready to show anyone yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/01/musk-says-robot-works-great-just-not-ready-to-show-anyone-yet.html" target="_blank">Musk says robot works great, just not ready to show anyone yet</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-01 19:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5799.png" alt="Moray Is Competent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5799" target="_blank">Moray Is Competent</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-04-02 00:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -341,22 +346,13 @@
                 <span class="time">2026-04-01 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5798.png" alt="Walking The Plank" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5798" target="_blank">Walking The Plank</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-04-01 00:41</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 00:09 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
