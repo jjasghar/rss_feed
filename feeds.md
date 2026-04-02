@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-02 19:18:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-02 20:07:41 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 12 new posts out of 29 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, April 02, 2026 - 19:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, April 02, 2026 - 20:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/02/nx-s1-5771635/trump-cftc-kalshi-polymarket-lawsuits" target="_blank">Trump administration sues three states over attempts to regulate prediction markets</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-02 19:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,21 +90,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260107-pam-bondi-donald-trump-vl-1122a-d2a314.jpg" alt="Trump fires Pam Bondi as attorney general, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775150313957_nbc_spec_pam_bondi_firing_260402_S3_1920x1080-20n2vx.jpg" alt="Special Report: Trump fires Attorney General Pam Bondi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/bondi-fired-attorney-general-trump-rcna266378" target="_blank">Trump fires Pam Bondi as attorney general, sources say</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-fires-attorney-general-pam-bondi-260595269706" target="_blank">Special Report: Trump fires Attorney General Pam Bondi</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-02 17:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/02/nx-s1-5771486/artemis-moon-mission-apollo-1972" target="_blank">Ziggy Stardust and Hacky Sack: What life was like the last time we went to the moon</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-02 16:41</span>
+                <span class="time">2026-04-02 17:18</span>
             </div>
         </div>
 </div>
@@ -106,6 +103,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/" target="_blank">Artemis II is NASA’s last Moon mission without Silicon Valley</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-02 20:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +157,20 @@
                 <span class="time">2026-04-02 16:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/" target="_blank">Google now lets you direct avatars through prompts in its Vids app</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-02 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Microsoft-AI-Agent-Governance" target="_blank">Microsoft&#x27;s Newest Open-Source Project: Runtime Security For AI Agents</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-02 19:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,20 +216,20 @@
                 <span class="time">2026-04-02 16:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://gist.github.com/MostAwesomeDude/560185c24f959f6fec229739cb5a6735" target="_blank">Activating Two Trap Cards at Once, or: A Gentle Response to the Popularity of Vibecoding</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-04-02 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/us-bans-all-foreign-made-consumer-routers.html" target="_blank">US Bans All Foreign-Made Consumer Routers</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-04-02 17:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -239,12 +245,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KMDB1TRMY96JXCTTA9MZ8KVD/hero-image.jpg" alt="10 Hacks Every MacBook Neo Owner Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/macbook-neo-hacks-and-tips?utm_medium=RSS" target="_blank">10 Hacks Every MacBook Neo Owner Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-02 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KF1VCPBQQVEYEP14708NDPYC/hero-image.png" alt="This Budget Samsung OLED TV Is Now $500 Off Its Original Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/samsung-s85f-oled-tv-deal-april-2026?utm_medium=RSS" target="_blank">This Budget Samsung OLED TV Is Now $500 Off Its Original Price</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-02 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/yotsuba-4chan.jpg?fit=889%2C500&amp;quality=60&amp;ssl=1" alt="4chan&#x27;s lawyer wrote a free speech bill for the UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/02/4chans-lawyer-wrote-a-free-speech-bill-for-the-uk.html" target="_blank">4chan&#x27;s lawyer wrote a free speech bill for the UK</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-02 18:59</span>
             </div>
         </div>
 <div class="story">
@@ -272,24 +296,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/samsung-odyssey-g5-curved-gaming-monitor-deal?utm_medium=RSS" target="_blank">This Is the Ultrawide Curved Gaming Monitor I Would Buy If I Were on a Budget</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-02 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/Project-Hail-Mary-Rocky-sleeping-1280x853.jpg" alt="You Can Now Watch Rocky From ‘Project Hail Mary’ Sleep With the Perfect Accompaniment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/project-hail-mary-soundtrack-rocky-sleep-video-2000741615" target="_blank">You Can Now Watch Rocky From ‘Project Hail Mary’ Sleep With the Perfect Accompaniment</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-02 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/ravens-1280x739.jpg" alt="Raven Software Cofounder Retires After 36 Years, Reminding People Of All The Cool Stuff It Used To Make Before Call Of Duty" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/raven-software-brian-raffel-hexen-call-duty-2000684262" target="_blank">Raven Software Cofounder Retires After 36 Years, Reminding People Of All The Cool Stuff It Used To Make Before Call Of Duty</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-02 16:54</span>
             </div>
         </div>
 </div>
@@ -320,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 19:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 20:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
