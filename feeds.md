@@ -1,35 +1,50 @@
-<!-- Processing 54 RSS feeds at 2026-04-02 14:24:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-02 15:19:23 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 13 new posts out of 40 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, April 02, 2026 - 14:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, April 02, 2026 - 15:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +60,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-19-epa-gmh-04012026_1775092868441_hpMain_4x3t_384.jpg" alt="Trump says he’ll sign order to pay all DHS employees as shutdown continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-hell-sign-order-pay-dhs-employees-shutdown/story?id=131650312" target="_blank">Trump says he’ll sign order to pay all DHS employees as shutdown continues</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-02 15:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +114,29 @@
                 <span class="time">2026-04-02 11:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/02/g-s1-116162/up-first-newsletter-iran-war-trump-birthright-citizenship-va-program" target="_blank">Trump makes case for Iran war. And, SCOTUS leans toward upholding birthright citizenship</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-02 11:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/55182918876_4bbdf92613_k-500x500.jpg" alt="Why is NASA bothering to go back to the Moon if we&#x27;ve already been there?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/04/artemis-ii-is-unlikely-to-be-the-cultural-touchstone-apollo-8-was-and-thats-ok/" target="_blank">Why is NASA bothering to go back to the Moon if we&#x27;ve already been there?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-02 14:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/02/uniteds-mobile-app-now-shows-tsa-wait-times-at-select-airports/" target="_blank">United’s mobile app now shows TSA wait times at select airports</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-02 14:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +173,38 @@
                 <span class="time">2026-04-02 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="1Password Coupon: Score a Free Trial in April" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/1password-coupon/" target="_blank">1Password Coupon: Score a Free Trial in April</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-02 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="OnePlus Promo Code: $70 Off | April 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/oneplus-promo-code/" target="_blank">OnePlus Promo Code: $70 Off | April 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-02 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rohith_kn/the-best-web-apps-feel-like-conversations-odp" target="_blank">The Best Web Apps Feel Like Conversations</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-02 15:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.pypi.org/posts/2026-04-02-incident-report-litellm-telnyx-supply-chain-attack/" target="_blank">Incident Report: LiteLLM/Telnyx supply-chain attacks, with guidance</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-04-02 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2604-strix-halo" target="_blank">AMD Ryzen AI Max &quot;Strix Halo&quot; Enjoys Great Performance Gains With Latest Linux Software</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-02 14:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fftyvnhrboyje96adoj9p.webp" alt="Implementing Automatic LLM Provider Fallback In AI Agents Using an LLM Gateway (OpenAI, Anthropic, Gemini &amp; Bifrost)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -188,33 +230,6 @@
                 <span class="title"><a href="https://dev.to/sujalluhar/how-i-built-a-blog-app-using-edge-functions-531j" target="_blank">How I built a Blog app using Edge Functions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-02 13:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18924923&w=600" alt="Mastering Azure Kubernetes Service: The Ultimate Guide to Scaling, Security, and Cost Optimization" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/mastering-azure-kubernetes-service-guide" target="_blank">Mastering Azure Kubernetes Service: The Ultimate Guide to Scaling, Security, and Cost Optimization</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-02 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/helidon-4-4-released/en/headerimage/helidon-440-release-1775134445673.jpg" alt="Helidon 4.4.0 Introduces Alignment with OpenJDK Cadence and Support via Java Verified Portfolio" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/helidon-4-4-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Helidon 4.4.0 Introduces Alignment with OpenJDK Cadence and Support via Java Verified Portfolio</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-02 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/trust-psychological-safety-scale/en/headerimage/trust-psychological-safety-header-1774870136735.jpg" alt="How to Handle Trusts and Psychological Safety When Scaling Organizations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/trust-psychological-safety-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How to Handle Trusts and Psychological Safety When Scaling Organizations</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-02 11:04</span>
             </div>
         </div>
 </div>
@@ -246,12 +261,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/image-49.jpg" alt="How Much Longer Will Valve Make Fans Wait For A Steam Deck 2?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/steam-deck-2-rumor-mario-galaxy-box-office-2000684222" target="_blank">How Much Longer Will Valve Make Fans Wait For A Steam Deck 2?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-02 15:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/VoiceType-AI-Voice-to-Text.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Treat yourself to unlimited AI voice-to-text for $45" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/02/treat-yourself-to-unlimited-ai-voice-to-text-for-45.html" target="_blank">Treat yourself to unlimited AI voice-to-text for $45</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-02 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/resievil.jpg" alt="Capcom Just Cannot Stop Deliberately Breaking Its Games With DRM" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/capcom-resident-evil-trilogy-enigma-drm-steam-2000684223" target="_blank">Capcom Just Cannot Stop Deliberately Breaking Its Games With DRM</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-02 14:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KN74FPNQH8PWBNNNM6F9PKDP/hero-image.jpg" alt="Six Things to Know When Switching From Windows to macOS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/things-to-know-when-switching-from-windows-to-macos?utm_medium=RSS" target="_blank">Six Things to Know When Switching From Windows to macOS</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-02 13:30</span>
             </div>
         </div>
 <div class="story">
@@ -270,33 +312,6 @@
                 <span class="title"><a href="https://gizmodo.com/hasbro-marvel-legends-deadpool-and-wolverine-shirtless-wolverine-2000741167" target="_blank">The ‘Deadpool &amp; Wolverine’ Moment Designed for You to Gawk at Hugh Jackman’s Chiseled Body Is Now an Action Figure</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-02 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/Super-Mario-Galaxy-Yoshi-Toad-1280x853.jpg" alt="Don’t Hold Your Breath for a ‘Super Smash Bros.’ Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dont-hold-your-breath-for-a-super-smash-bros-movie-2000741146" target="_blank">Don’t Hold Your Breath for a ‘Super Smash Bros.’ Movie</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-02 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/subaru-getaway-ev-1280x864.jpeg" alt="New Getaway Means Subaru Has an Electric SUV in Every Size" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/new-getaway-means-subaru-has-an-electric-suv-in-every-size-2000741132" target="_blank">New Getaway Means Subaru Has an Electric SUV in Every Size</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-02 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/apollo-go-1280x853.jpg" alt="Getting Stuck Inside a Glitching Robotaxi Is a Whole New Thing to Be Scared of" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/getting-stuck-inside-a-glitching-robotaxi-is-a-whole-new-thing-to-be-scared-of-2000740644" target="_blank">Getting Stuck Inside a Glitching Robotaxi Is a Whole New Thing to Be Scared of</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-02 02:48</span>
             </div>
         </div>
 </div>
@@ -336,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 14:25 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 15:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
