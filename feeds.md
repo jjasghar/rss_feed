@@ -1,23 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-02 18:12:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-02 19:18:24 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 15 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 12 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, April 02, 2026 - 18:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, April 02, 2026 - 19:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -33,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/2/gcc-chief-urges-un-to-halt-iranian-attacks-protect-gulf-waterways?traffic_source=rss" target="_blank">GCC chief urges UN to halt Iranian attacks, protect Gulf waterways</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-02 18:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/02/nx-s1-5771155/epa-microplastics-pharmaceuticals-drinking-water" target="_blank">EPA flags microplastics, pharmaceuticals as contaminants in drinking water</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-02 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/pam-bondi-5-gty-gmh-260402_1775151560263_hpMain_4x3t_384.jpg" alt="Trump replacing Pam Bondi as attorney general, Todd Blanche to step in" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/trump-replacing-pam-bondi-attorney-general-todd-blanche/story?id=131647710" target="_blank">Trump replacing Pam Bondi as attorney general, Todd Blanche to step in</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-02 18:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -60,38 +101,20 @@
                 <span class="time">2026-04-02 16:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement" target="_blank">Uganda receives first US deportation flight under third-country agreement</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-02 16:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-19-epa-gmh-04012026_1775092868441_hpMain_4x3t_384.jpg" alt="Trump says he&#x27;ll sign order to pay all DHS employees as shutdown continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-hell-sign-order-pay-dhs-employees-shutdown/story?id=131650312" target="_blank">Trump says he&#x27;ll sign order to pay all DHS employees as shutdown continues</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-02 16:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-19-epa-gmh-04012026_1775092868441_hpMain_4x3t_384.jpg" alt="Trump says he’ll sign order to pay all DHS employees as shutdown continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-hell-sign-order-pay-dhs-employees-shutdown/story?id=131650312" target="_blank">Trump says he’ll sign order to pay all DHS employees as shutdown continues</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-02 15:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/905961/pam-bondi-fired" target="_blank">Trump fires attorney general Pam Bondi.</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-02 19:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69cc30f8d49844d66356c85d/master/pass/Model-Behavior-Cursor-Build-Own-AI-Business%202%20(0-00-07-17).jpg" alt="Cursor Launches a New AI Agent Experience to Take on Claude Code and Codex" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,20 +160,29 @@
                 <span class="time">2026-04-02 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/55182918876_4bbdf92613_k-500x500.jpg" alt="Why is NASA bothering to go back to the Moon if we&#x27;ve already been there?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/04/artemis-ii-is-unlikely-to-be-the-cultural-touchstone-apollo-8-was-and-thats-ok/" target="_blank">Why is NASA bothering to go back to the Moon if we&#x27;ve already been there?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-02 14:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mindmagic/the-deployment-that-taught-me-more-than-any-tutorial-4011" target="_blank">The Deployment That Taught Me More Than Any Tutorial</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-02 19:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18925002&w=600" alt="AI-Assisted Testing: Real-Life Use Cases vs. Myths" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-assisted-testing-real-life-use-cases" target="_blank">AI-Assisted Testing: Real-Life Use Cases vs. Myths</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-02 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,24 +219,6 @@
                 <span class="time">2026-04-02 16:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/02/Ubuntu-cli.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04’s sudo-rs gets a password feedback toggle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/sudo-rs-password-feedback-toggle" target="_blank">Ubuntu 26.04’s sudo-rs gets a password feedback toggle</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-02 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Cache-Aware-Sched-v4" target="_blank">Intel Posts Fourth Version Of Cache Aware Scheduling For Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-02 15:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -224,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KF1VCPBQQVEYEP14708NDPYC/hero-image.png" alt="This Budget Samsung OLED TV Is Now $500 Off Its Original Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-s85f-oled-tv-deal-april-2026?utm_medium=RSS" target="_blank">This Budget Samsung OLED TV Is Now $500 Off Its Original Price</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-02 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/20260401165137_1-1280x720.jpg" alt="My New Favorite Way To Watch Classic Movies On VHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/retro-rewind-how-to-install-custom-movies-mod-help-handbrake-download-vhs-2000684030" target="_blank">My New Favorite Way To Watch Classic Movies On VHS</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-02 18:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/chainsaw-man-tatsuki-fujimoto-shonen-jump-3-1280x853.jpg" alt="Revisiting the Ending of ‘Chainsaw Man’ Through the Lens of Japanese Folklore" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,24 +292,6 @@
                 <span class="time">2026-04-02 16:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/empedocles-physica-papyrus-1280x853.jpg" alt="30 Unpublished Poems From Iconic Greek Philosopher Discovered in Cairo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/30-unpublished-poems-from-iconic-greek-philosopher-discovered-in-cairo-2000741535" target="_blank">30 Unpublished Poems From Iconic Greek Philosopher Discovered in Cairo</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-02 16:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/image-49.jpg" alt="How Much Longer Will Valve Make Fans Wait For A Steam Deck 2?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/steam-deck-2-rumor-mario-galaxy-box-office-2000684222" target="_blank">How Much Longer Will Valve Make Fans Wait For A Steam Deck 2?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-02 15:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 18:12 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 19:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
