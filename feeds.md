@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-01 23:09:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-02 00:09:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, April 01, 2026 - 23:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, April 02, 2026 - 00:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +106,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69cda3ce9e2d7ad269770417/master/pass/California-Temporarily-Lets-VCs-Off-the-Hook-For-DEI-Reporting-Business-2263930943.jpg" alt="California Suspends Enforcement of Law Requiring VCs to Report Diversity Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/california-temporarily-lets-vcs-off-the-hook-for-dei-reporting/" target="_blank">California Suspends Enforcement of Law Requiring VCs to Report Diversity Data</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-01 23:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/905649/trump-supreme-court-birthright-citizenship-scotus-arguments" target="_blank">Trump’s birthright citizenship ban may fail — but the administration already got too far</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-01 23:39</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -136,29 +159,20 @@
                 <span class="time">2026-04-01 20:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/claude-no-ads-500x500.png" alt="Here&#x27;s what that Claude Code source leak reveals about Anthropic&#x27;s plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/" target="_blank">Here&#x27;s what that Claude Code source leak reveals about Anthropic&#x27;s plans</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-01 20:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69c575593a554cc7e92a4ff3/master/pass/Our-Favorite-Samsung-OLED-TV-is-At-the-Lowest-Price-I've-Seen-on-Amazon.jpg" alt="Samsung’s Best OLED TV Is $300 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/samsung-s95f-tv-deal-326/" target="_blank">Samsung’s Best OLED TV Is $300 Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-01 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/walesteve/i-fixed-a-clients-email-system-that-was-losing-leads-daily-heres-what-was-wrong-9ch" target="_blank">I fixed a client’s email system that was losing leads daily - here’s what was wrong</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-02 00:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -180,6 +194,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/" target="_blank">DRAM pricing is killing the hobbyist SBC market</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-01 21:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Fedora-Rejects-systemd-Feature" target="_blank">Fedora Rejects Proposal To Use systemd For Managing Per-User Environment Variables</a></span>
                 <span class="feed">Phoronix</span>
@@ -193,24 +216,6 @@
                 <span class="title"><a href="https://dzone.com/articles/streaming-optimization-kafka-delta" target="_blank">End-to-End Streaming Optimization: Kafka to Delta With Exactly-Once Guarantees</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-01 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.foks.pub/posts/domain-separation-in-idl/" target="_blank">Signing data structures the wrong way</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-01 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/" target="_blank">Securing the open source supply chain across GitHub</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-04-01 19:20</span>
             </div>
         </div>
 </div>
@@ -351,7 +356,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 31 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 23:09 UTC
+        🔄 Last Updated: 00:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
