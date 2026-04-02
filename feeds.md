@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-02 10:16:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-02 11:14:58 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, April 02, 2026 - 10:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, April 02, 2026 - 11:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/2/libyan-military-leader-may-have-combat-drones-despite-un-embargo?traffic_source=rss" target="_blank">Libyan military leader may have combat drones despite UN embargo</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-02 11:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +102,20 @@
                 <span class="time">2026-04-02 07:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/02/g-s1-116142/u-s-lift-sanctions-venezuela-president-delcy-rodriguez" target="_blank">U.S. lifts sanctions on Venezuela&#x27;s acting President Delcy Rodríguez</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-02 06:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/905427/uber-go-electric-grant-driver-switch-ev" target="_blank">Uber expands its $4,000 ‘Go Electric’ grant to drivers nationwide</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-02 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69c6c6213cca8267ad98901d/master/pass/WIRED-BORTAC-Top-Art.gif" alt="Unmasking the Paramilitary Agents Behind Trump’s Violent Immigration Crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +161,20 @@
                 <span class="time">2026-04-02 00:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69cda3ce9e2d7ad269770417/master/pass/California-Temporarily-Lets-VCs-Off-the-Hook-For-DEI-Reporting-Business-2263930943.jpg" alt="California Suspends Enforcement of Law Requiring VCs to Report Diversity Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/california-temporarily-lets-vcs-off-the-hook-for-dei-reporting/" target="_blank">California Suspends Enforcement of Law Requiring VCs to Report Diversity Data</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-01 23:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/trust-psychological-safety-scale/en/headerimage/trust-psychological-safety-header-1774870136735.jpg" alt="How to Handle Trusts and Psychological Safety When Scaling Organizations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/trust-psychological-safety-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How to Handle Trusts and Psychological Safety When Scaling Organizations</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-02 11:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +220,6 @@
                 <span class="time">2026-04-02 08:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ascoos/why-developers-should-build-native-ai-applications-1gn0" target="_blank">Why Developers Should Build Native AI Applications</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-02 06:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/Super-Mario-Galaxy-Yoshi-Toad-1280x853.jpg" alt="Don’t Hold Your Breath for a ‘Super Smash Bros.’ Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dont-hold-your-breath-for-a-super-smash-bros-movie-2000741146" target="_blank">Don’t Hold Your Breath for a ‘Super Smash Bros.’ Movie</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-02 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/subaru-getaway-ev-1280x864.jpeg" alt="New Getaway Means Subaru Has an Electric SUV in Every Size" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +302,6 @@
                 <span class="time">2026-04-01 21:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/turin-shroud-positive-negative-photographs-top-1280x853.jpg" alt="DNA Study Casts Even More Doubt on Shroud of Turin’s True Origin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dna-study-casts-even-more-doubt-on-shroud-of-turins-true-origin-2000741141" target="_blank">DNA Study Casts Even More Doubt on Shroud of Turin’s True Origin</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-01 21:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -337,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 10:17 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 11:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
