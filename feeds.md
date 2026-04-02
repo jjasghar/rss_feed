@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-02 11:14:58 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-02 12:12:20 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, April 02, 2026 - 11:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, April 02, 2026 - 12:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1e3/live/b800bf50-2e89-11f1-b297-95b0a0a8331e.jpg" alt="Funeral director admits preventing 30 burials and theft" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c70kenjyjr8o?at_medium=RSS&at_campaign=rss" target="_blank">Funeral director admits preventing 30 burials and theft</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-02 12:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/02/g-s1-116162/up-first-newsletter-iran-war-trump-birthright-citizenship-va-program" target="_blank">Trump makes case for Iran war. And, SCOTUS leans toward upholding birthright citizenship</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-02 11:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775129480552_tdy_news_7a_gutierrez_welker_trump_address_260402_S3_1920x1080-d2tisc.jpg" alt="Trump Vows to Hit Iran &#x27;Extremely Hard&#x27; in Coming Weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-vows-to-bring-iran-back-to-the-stone-ages-iran-responds-260572741971" target="_blank">Trump Vows to Hit Iran &#x27;Extremely Hard&#x27; in Coming Weeks</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-02 11:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,33 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/02/nx-s1-5770599/artemis-ii-10-day-mission-preview" target="_blank">In a thunderous launch, Artemis II astronauts leave Earth. Here&#x27;s what&#x27;s next</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-02 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/2/french-court-denies-extradition-of-ex-tunisian-presidents-daughter?traffic_source=rss" target="_blank">French court denies extradition of ex-Tunisian President Ben Ali’s daughter</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-02 08:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11e7/live/7b5c1ab0-2e6e-11f1-97bf-db9f3eb092dc.jpg" alt="UK to host talks on plan to reopen Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2d0md89v2o?at_medium=RSS&at_campaign=rss" target="_blank">UK to host talks on plan to reopen Strait of Hormuz</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-02 08:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Abu-Dhabi-DB-260402_1775113972029_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel, UAE, Saudi Arabia report drone and missile attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: Israel, UAE, Saudi Arabia report drone and missile attacks</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-02 07:37</span>
             </div>
         </div>
 </div>
@@ -249,6 +247,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/hasbro-marvel-legends-deadpool-and-wolverine-shirtless-wolverine-1280x853.jpg" alt="The ‘Deadpool &amp; Wolverine’ Moment Designed for You to Gawk at Hugh Jackman’s Chiseled Body Is Now an Action Figure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/hasbro-marvel-legends-deadpool-and-wolverine-shirtless-wolverine-2000741167" target="_blank">The ‘Deadpool &amp; Wolverine’ Moment Designed for You to Gawk at Hugh Jackman’s Chiseled Body Is Now an Action Figure</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-02 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/Super-Mario-Galaxy-Yoshi-Toad-1280x853.jpg" alt="Don’t Hold Your Breath for a ‘Super Smash Bros.’ Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -293,15 +300,6 @@
                 <span class="time">2026-04-01 23:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/7106NYA4Z2L._AC_UF8941000_QL80_.jpg?fit=894%2C609&amp;quality=60&amp;ssl=1" alt="Ninja Creami, the PacoJet for the rest of us" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/01/ninja-creami-the-pacojet-for-the-rest-of-us.html" target="_blank">Ninja Creami, the PacoJet for the rest of us</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-01 21:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -339,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 11:15 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 12:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
