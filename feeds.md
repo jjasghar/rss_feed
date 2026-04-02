@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-02 22:07:15 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-02 23:06:40 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, April 02, 2026 - 22:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, April 02, 2026 - 23:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/artemis-1-ht-gmh-260402_1775132474466_hpMain_4x3t_384.jpg" alt="Artemis II live updates: Crucial translunar injection burn is a &#x27;go&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306" target="_blank">Artemis II live updates: Crucial translunar injection burn is a &#x27;go&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-02 21:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/02/nx-s1-5771155/epa-microplastics-pharmaceuticals-drinking-water" target="_blank">EPA flags microplastics, pharmaceuticals as contaminants in drinking water</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-02 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/pam-bondi-5-gty-gmh-260402_1775151560263_hpMain_4x3t_384.jpg" alt="Trump replacing Pam Bondi as attorney general, Todd Blanche to step in" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/trump-replacing-pam-bondi-attorney-general-todd-blanche/story?id=131647710" target="_blank">Trump replacing Pam Bondi as attorney general, Todd Blanche to step in</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-02 18:05</span>
             </div>
         </div>
 </div>
@@ -283,21 +281,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KN7YEK9377EAN328XWYNH67D/hero-image.jpg" alt="I Tried ChatGPT in CarPlay, and It Immediately Hallucinated" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/i-tried-chatgpt-in-carplay-and-it-hallucinated-immediately?utm_medium=RSS" target="_blank">I Tried ChatGPT in CarPlay, and It Immediately Hallucinated</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-02 20:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KMDB1TRMY96JXCTTA9MZ8KVD/hero-image.jpg" alt="10 Hacks Every MacBook Neo Owner Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/macbook-neo-hacks-and-tips?utm_medium=RSS" target="_blank">10 Hacks Every MacBook Neo Owner Should Know</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-02 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KF1VCPBQQVEYEP14708NDPYC/hero-image.png" alt="This Budget Samsung OLED TV Is Now $500 Off Its Original Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-s85f-oled-tv-deal-april-2026?utm_medium=RSS" target="_blank">This Budget Samsung OLED TV Is Now $500 Off Its Original Price</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-02 19:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 22:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 23:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
