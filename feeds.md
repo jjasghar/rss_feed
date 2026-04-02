@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-02 20:07:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-02 21:08:12 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, April 02, 2026 - 20:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, April 02, 2026 - 21:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +105,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2253795243-500x500.jpg" alt="Perplexity&#x27;s &quot;Incognito Mode&quot; is a &quot;sham,&quot; lawsuit says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/" target="_blank">Perplexity&#x27;s &quot;Incognito Mode&quot; is a &quot;sham,&quot; lawsuit says</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-02 20:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/" target="_blank">Artemis II is NASA’s last moon mission without Silicon Valley</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-02 20:06</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -139,29 +158,29 @@
                 <span class="time">2026-04-02 16:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/905964/hisense-canvastv-deal-sale" target="_blank">Hisense’s art-inspired CanvasTV has hit a new low price</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-02 16:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemma-4_keyart_header-dark_16_9-500x500.png" alt="Google announces Gemma 4 open AI models, switches to Apache 2.0 license" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/" target="_blank">Google announces Gemma 4 open AI models, switches to Apache 2.0 license</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-02 16:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc7-Networking-Fixes" target="_blank">Linux Fixes Performance Bug Affecting Qualcomm Ath11k &amp; Ath12k WiFi Drivers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-02 20:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18925017&w=600" alt="Context Graphs: From Outcomes to Decisions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/context-graphs-from-outcomes-to-decisions" target="_blank">Context Graphs: From Outcomes to Decisions</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-02 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +217,6 @@
                 <span class="time">2026-04-02 17:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18924976&w=600" alt="When One Giant Payload Must Serve Many Small Consumers: Designing a Scalable Fanout Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/designing-a-scalable-fanout-service" target="_blank">When One Giant Payload Must Serve Many Small Consumers: Designing a Scalable Fanout Service</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-02 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!Lw9q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf88b1aa-309a-49a2-bf21-63c4b281cefa_1552x456.png" alt="The Pulse: Industry leaders return to coding with AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-industry-leaders-return" target="_blank">The Pulse: Industry leaders return to coding with AI</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-04-02 16:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/Invincible-Sandra-Oh-Prime-Video-1280x853.jpg" alt="‘Invincible’ Season 4 Is Doing Right By Debbie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/invincible-season-4-debbie-omni-man-reunion-sandra-oh-2000741691" target="_blank">‘Invincible’ Season 4 Is Doing Right By Debbie</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-02 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KMDB1TRMY96JXCTTA9MZ8KVD/hero-image.jpg" alt="10 Hacks Every MacBook Neo Owner Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +299,6 @@
                 <span class="time">2026-04-02 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0A5YQV8NHT9EYETBKVNWBKX/hero-image.png" alt="This Is the Ultrawide Curved Gaming Monitor I Would Buy If I Were on a Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/samsung-odyssey-g5-curved-gaming-monitor-deal?utm_medium=RSS" target="_blank">This Is the Ultrawide Curved Gaming Monitor I Would Buy If I Were on a Budget</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-02 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 20:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 21:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
