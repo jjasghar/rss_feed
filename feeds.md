@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-02 05:30:10 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-04-02 06:21:14 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 22 feeds processed -->
+<!-- Generated 2 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, April 02, 2026 - 05:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, April 02, 2026 - 06:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/2/how-long-will-artemis-ii-take-to-reach-the-moon-and-what-happens-next?traffic_source=rss" target="_blank">How long will Artemis II take to reach the moon, and what happens next?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-02 05:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/01/nx-s1-5770629/appeals-court-rejects-hud-homelessness-overhaul" target="_blank">Appeals court rejects HUD homelessness overhaul saying it would be &quot;disastrous&quot;</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-02 00:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss" target="_blank">Iran war live: Trump claims goals nearing completion, vows to ‘finish job’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-02 00:00</span>
             </div>
         </div>
 </div>
@@ -162,6 +170,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ascoos/why-developers-should-build-native-ai-applications-1gn0" target="_blank">Why Developers Should Build Native AI Applications</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-02 06:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Libinput-Lua-Security-Issues" target="_blank">Libinput Hit By Worrying Security Issues With Its Lua Plug-In System</a></span>
                 <span class="feed">Phoronix</span>
@@ -202,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/walesteve/i-fixed-a-clients-email-system-that-was-losing-leads-daily-heres-what-was-wrong-9ch" target="_blank">I fixed a client’s email system that was losing leads daily - here’s what was wrong</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-02 00:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/iamadnank9/how-i-started-using-ai-agents-for-end-to-end-testing-autonoma-ai-2dpj" target="_blank">How I Started Using AI Agents for End-to-End Testing (Autonoma AI)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-01 23:03</span>
             </div>
         </div>
 </div>
@@ -341,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 05:30 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 06:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
