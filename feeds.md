@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-02 21:08:12 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-02 22:07:15 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, April 02, 2026 - 21:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, April 02, 2026 - 22:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/2/unbridled-bosnian-joy-marks-world-cup-qualification-win-over-italy?traffic_source=rss" target="_blank">Unbridled Bosnian joy marks World Cup qualification win over Italy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-02 21:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/lively-baldoni-split-1-gty-bb-250107_1736276364081_hpMain_v16x9_4x3t_384.jpg" alt="Blake Lively&#x27;s lawsuit against Justin Baldoni gutted by judge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/judge-guts-blake-livelys-lawsuit-justin-baldoni/story?id=131668004" target="_blank">Blake Lively&#x27;s lawsuit against Justin Baldoni gutted by judge</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-02 21:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +100,29 @@
                 <span class="time">2026-04-02 18:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/02/g-s1-115077/trump-bondi-attorney-general-departure" target="_blank">Attorney General Pam Bondi out at DOJ</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-02 17:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775150313957_nbc_spec_pam_bondi_firing_260402_S3_1920x1080-20n2vx.jpg" alt="Special Report: Trump fires Attorney General Pam Bondi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-fires-attorney-general-pam-bondi-260595269706" target="_blank">Special Report: Trump fires Attorney General Pam Bondi</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-02 17:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/" target="_blank">Telehealth giant Hims &amp; Hers says its customer support system was hacked</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-02 21:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69cda03bbbb99516b24f8b5f/master/pass/Uncanny-Valley-Trump-Iran-Tech-Companies-Security-2268129741.jpg" alt="‘Uncanny Valley’: Iran’s Threats on US Tech, Trump’s Plans for Midterms, and Polymarket’s Pop-up Flop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-iran-targets-us-tech-polymarket-pop-up-trump-midterms/" target="_blank">‘Uncanny Valley’: Iran’s Threats on US Tech, Trump’s Plans for Midterms, and Polymarket’s Pop-up Flop</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-02 21:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2253795243-500x500.jpg" alt="Perplexity&#x27;s &quot;Incognito Mode&quot; is a &quot;sham,&quot; lawsuit says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +159,20 @@
                 <span class="time">2026-04-02 19:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69cc30f8d49844d66356c85d/master/pass/Model-Behavior-Cursor-Build-Own-AI-Business%202%20(0-00-07-17).jpg" alt="Cursor Launches a New AI Agent Experience to Take on Claude Code and Codex" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/" target="_blank">Cursor Launches a New AI Agent Experience to Take on Claude Code and Codex</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-02 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/" target="_blank">Microsoft takes on AI rivals with three new foundational models</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-02 16:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fllikh31wtq3ve1lkzi7g.png" alt="GitHub Copilot Code Review: Complete Guide (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rahulxsingh/github-copilot-code-review-complete-guide-2026-255h" target="_blank">GitHub Copilot Code Review: Complete Guide (2026)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-02 22:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +218,6 @@
                 <span class="time">2026-04-02 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/qasim157/manage-google-calendar-from-the-command-line-no-api-setup-5c9d" target="_blank">Manage Google Calendar from the Command Line — No API Setup</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-02 17:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,11 +247,38 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/taketwo2logo1-1280x720.jpg" alt="Take-Two Reshuffles Its AI Team" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/take-two-ai-zynga-layoffs-gta-2000684344" target="_blank">Take-Two Reshuffles Its AI Team</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-02 22:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/Labubu-Wacky-Mart-Pop-Mart--1280x853.jpg" alt="Labubus Might Be Labu-Bust After Pop Mart Posts Record Share Loss" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/labubu-pop-mart-stock-value-crash-2000741807" target="_blank">Labubus Might Be Labu-Bust After Pop Mart Posts Record Share Loss</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-02 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/Invincible-Sandra-Oh-Prime-Video-1280x853.jpg" alt="‘Invincible’ Season 4 Is Doing Right By Debbie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/invincible-season-4-debbie-omni-man-reunion-sandra-oh-2000741691" target="_blank">‘Invincible’ Season 4 Is Doing Right By Debbie</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-02 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/AdGuard-VPN-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Keep internet lurkers at bay with five years of AdGuard for only $50" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/02/keep-internet-lurkers-at-bay-with-five-years-of-adguard-for-only-50.html" target="_blank">Keep internet lurkers at bay with five years of AdGuard for only $50</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-02 21:00</span>
             </div>
         </div>
@@ -270,33 +298,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/samsung-s85f-oled-tv-deal-april-2026?utm_medium=RSS" target="_blank">This Budget Samsung OLED TV Is Now $500 Off Its Original Price</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-02 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/yotsuba-4chan.jpg?fit=889%2C500&amp;quality=60&amp;ssl=1" alt="4chan&#x27;s lawyer wrote a free speech bill for the UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/02/4chans-lawyer-wrote-a-free-speech-bill-for-the-uk.html" target="_blank">4chan&#x27;s lawyer wrote a free speech bill for the UK</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-02 18:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/20260401165137_1-1280x720.jpg" alt="My New Favorite Way To Watch Classic Movies On VHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/retro-rewind-how-to-install-custom-movies-mod-help-handbrake-download-vhs-2000684030" target="_blank">My New Favorite Way To Watch Classic Movies On VHS</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-02 18:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/chainsaw-man-tatsuki-fujimoto-shonen-jump-3-1280x853.jpg" alt="Revisiting the Ending of ‘Chainsaw Man’ Through the Lens of Japanese Folklore" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/chainsaw-man-ending-pochita-yokai-manga-2000741505" target="_blank">Revisiting the Ending of ‘Chainsaw Man’ Through the Lens of Japanese Folklore</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-02 18:00</span>
             </div>
         </div>
 </div>
@@ -327,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 21:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 22:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
