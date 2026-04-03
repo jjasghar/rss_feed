@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-03 01:30:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-03 02:58:48 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, April 03, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, April 03, 2026 - 02:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/3/iran-vows-retaliation-after-deadly-us-strike-on-bridge-in-karaj?traffic_source=rss" target="_blank">Iran vows retaliation after deadly US strike on bridge in Karaj</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-03 02:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/artemis-10-ht-gmh-260402_1775173422003_hpMain_4x3t_384.jpg" alt="Artemis II live updates: Crew headed to moon after critical translunar injection burn" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +93,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-fires-pam-bondi-as-attorney-general-260622405845" target="_blank">Trump fires Pam Bondi as Attorney General</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-04-02 23:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/artemis-1-ht-gmh-260402_1775132474466_hpMain_4x3t_384.jpg" alt="Artemis II live updates: Crucial translunar injection burn is a &#x27;go&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306" target="_blank">Artemis II live updates: Crucial translunar injection burn is a &#x27;go&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-02 21:56</span>
             </div>
         </div>
 </div>
@@ -166,9 +163,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/designrai/the-headless-cms-pattern-3bpm" target="_blank">The Headless CMS Pattern</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-03 02:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/wellallytech/sleep-hacking-build-a-local-sleep-apnea-snore-monitor-with-whisper-and-fft-20kp" target="_blank">Sleep Hacking: Build a Local Sleep Apnea &amp; Snore Monitor with Whisper and FFT 🌙💤</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-03 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-P-State-Linux-7.1" target="_blank">AMD P-State Driver Introducing New Features With Linux 7.1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-03 00:26</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +211,6 @@
                 <span class="title"><a href="https://dev.to/rahulxsingh/github-copilot-code-review-complete-guide-2026-255h" target="_blank">GitHub Copilot Code Review: Complete Guide (2026)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-02 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc7-Networking-Fixes" target="_blank">Linux Fixes Performance Bug Affecting Qualcomm Ath11k &amp; Ath12k WiFi Drivers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-02 20:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18925017&w=600" alt="Context Graphs: From Outcomes to Decisions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/context-graphs-from-outcomes-to-decisions" target="_blank">Context Graphs: From Outcomes to Decisions</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-02 20:00</span>
             </div>
         </div>
 </div>
@@ -326,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 02:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
