@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-03 20:05:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-03 21:07:07 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, April 03, 2026 - 20:06 UTC</div>
+    <div class="newspaper-date">Friday, April 03, 2026 - 21:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +107,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed" target="_blank">NASA did eventually solve Artemis II&amp;#8217;s Outlook glitch</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-03 20:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/04/03/best-ipad-apps-to-boost-productivity-make-your-life-easier/" target="_blank">Best iPad apps to boost productivity and make your life easier</a></span>
                 <span class="feed">TechCrunch</span>
@@ -152,20 +158,29 @@
                 <span class="time">2026-04-03 17:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/03/the-final-days-of-the-tesla-model-x-and-s-are-here-all-bets-are-on-the-cybercab/" target="_blank">The final days of the Tesla Model X and S are here. All bets are on the Cybercab.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-03 16:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sessionzero_ai/from-rest-api-to-mcp-server-how-i-gave-ai-agents-native-access-to-korean-web-data-1anp" target="_blank">From REST API to MCP Server: How I Gave AI Agents Native Access to Korean Web Data</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-03 21:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18926250&w=600" alt="5 Proven Strategies for Modernizing Legacy .NET Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/5-proven-strategies-for-modernising-legacy-net" target="_blank">5 Proven Strategies for Modernizing Legacy .NET Applications</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-03 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +217,6 @@
                 <span class="time">2026-04-03 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.inaturalist.org/" target="_blank">iNaturalist</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-03 17:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/brianmello/single-model-vs-multi-model-ai-code-review-what-i-learned-running-both-2i22" target="_blank">Single-Model vs Multi-Model AI Code Review: What I Learned Running Both</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-03 17:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/stealingcars1-1280x720.jpg" alt="Is GTA 6‘s Long Development The Result Of A Complete Engine Rebuild? It’s Probably More Complicated Than That" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/is-gta-6s-long-development-the-result-of-a-complete-engine-rebuild-its-probably-more-complicated-than-that-2000684709" target="_blank">Is GTA 6‘s Long Development The Result Of A Complete Engine Rebuild? It’s Probably More Complicated Than That</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-03 21:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/Project-Hail-Mary-Crew-1280x853.jpg" alt="Here’s the Perfect Excuse to See ‘Project Hail Mary’ Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/project-hail-mary-directors-commentary-theaterears-2000742154" target="_blank">Here’s the Perfect Excuse to See ‘Project Hail Mary’ Again</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-03 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/maiross.jpg" alt="The 7 Best Games To Play After Watching The Super Mario Galaxy Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,29 +290,20 @@
                 <span class="time">2026-04-03 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/showmans-rest.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Historic cemetery honors circus performers and train victims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/03/historic-cemetery-honors-circus-performers-and-train-victims.html" target="_blank">Historic cemetery honors circus performers and train victims</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-03 17:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/Mackenyu-official-Netflix-image-for-One-Piece-season-1-1280x947.jpg" alt="Esquire AI-Generated A Fake Interview With Live-Action One Piece Actor Mackenyu Because He Was Busy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/one-piece-netflix-live-action-mackenyu-interview-esquire-ai-singapore-2000684648" target="_blank">Esquire AI-Generated A Fake Interview With Live-Action One Piece Actor Mackenyu Because He Was Busy</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-03 16:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/04/03/stage-delights" target="_blank">Stage Delights</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-04-03 18:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1774994123-20260403.png" alt="Saturday Morning Breakfast Cereal - Bad" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -339,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 270 |
-        🔄 Last Updated: 20:06 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 21:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
