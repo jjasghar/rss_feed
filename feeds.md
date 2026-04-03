@@ -1,29 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-03 12:07:17 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-03 13:25:55 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 21 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, April 03, 2026 - 12:07 UTC</div>
+    <div class="newspaper-date">Friday, April 03, 2026 - 13:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/3/how-the-us-and-israel-are-waging-war-on-irans-medicines-vaccines?traffic_source=rss" target="_blank">How the US and Israel are waging war on Iran’s medicines, vaccines</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-03 12:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,20 +97,20 @@
                 <span class="time">2026-04-03 10:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/03/nx-s1-5764306/big-tech-lawsuits-verdicts-accountability-social-media-harms" target="_blank">Verdicts against Meta and Google may bring a new era of big tech accountability</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-03 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/906548/best-apple-product-vergecast" target="_blank">Apple’s best product ever</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-03 12:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,15 +154,6 @@
                 <span class="title"><a href="https://www.wired.com/story/doordash-promo-code/" target="_blank">50% Off DoorDash Promo Code | April 2026</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-04-03 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/KSC-SLS_03302026_Artemis-II-Launch-wide_1medium-500x500.jpg" alt="Four astronauts are now inexorably bound for the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/04/four-astronauts-are-now-inexorably-bound-for-the-moon/" target="_blank">Four astronauts are now inexorably bound for the Moon</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-03 02:17</span>
             </div>
         </div>
 </div>
@@ -240,6 +244,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/gamestopclosed-1280x720.jpg" alt="GameStop Thought Buying Games Online Was A ‘Passing Phase,’ Says Former Business Developer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gamestop-steam-impulse-gdc-larry-kuperman-digital-distribution-2000684593" target="_blank">GameStop Thought Buying Games Online Was A ‘Passing Phase,’ Says Former Business Developer</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-03 12:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/mission-control-during-TLI-1280x853.jpg" alt="Artemis 2 Crew Become First Humans to Travel Beyond Earth Orbit Since the 1970s" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -284,15 +297,6 @@
                 <span class="time">2026-04-02 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KN7YEK9377EAN328XWYNH67D/hero-image.jpg" alt="I Tried ChatGPT in CarPlay, and It Immediately Hallucinated" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/i-tried-chatgpt-in-carplay-and-it-hallucinated-immediately?utm_medium=RSS" target="_blank">I Tried ChatGPT in CarPlay, and It Immediately Hallucinated</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-02 20:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 12:07 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 13:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
