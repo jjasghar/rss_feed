@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-03 16:07:46 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-04-03 17:08:36 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, April 03, 2026 - 16:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, April 03, 2026 - 17:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl-abc-ml-250107_1736267930625_hpMain_4x3t_384.jpg" alt="LIVE:  1 crew member rescued from downed fighter jet: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  1 crew member rescued from downed fighter jet: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-03 17:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775233725883_nbc_spec_kube_pilot_rescue_260403_S3_1920x1080-wdgopy.jpg" alt="One U.S. pilot rescued after F-15 jet shot down over Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/one-u-s-pilot-rescued-after-f-15-jet-shot-down-over-iran-260668997793" target="_blank">One U.S. pilot rescued after F-15 jet shot down over Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-03 16:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/3/french-owned-container-ship-transits-hormuz-strait-in-first-since-iran-war?traffic_source=rss" target="_blank">French-owned container ship transits Hormuz Strait in first since Iran war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-03 16:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,33 +99,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: US jet appears to have been shot down by Iran, US official says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-03 15:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/03/nx-s1-5773108/american-jet-shot-down-iran" target="_blank">A U.S. jet goes down over Iran, a U.S. official confirms</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-03 14:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/3/israel-threatens-to-destroy-more-lebanon-bridges-as-crisis-mounts?traffic_source=rss" target="_blank">Israel threatens to destroy more Lebanon bridges as crisis mounts</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-03 14:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/03/nx-s1-5772696/jobs-employment-economy-labor-market" target="_blank">The labor market springs back to life in March as employers add 178,000 jobs</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-03 13:24</span>
             </div>
         </div>
 </div>
@@ -162,6 +166,42 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/brianmello/single-model-vs-multi-model-ai-code-review-what-i-learned-running-both-2i22" target="_blank">Single-Model vs Multi-Model AI Code Review: What I Learned Running Both</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-03 17:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/swift-6-3-android-c-interop/en/headerimage/swift-6-3-released-1775232816383.jpeg" alt="Swift 6.3 Stabilizes Android SDK, Extends C Interop, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/swift-6-3-android-c-interop/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Swift 6.3 Stabilizes Android SDK, Extends C Interop, and More</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-03 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-NPU-Linux-Driver-1.32" target="_blank">Intel Linux NPU Driver 1.32 Adds Wildcat Lake Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-03 16:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/" target="_blank">The uphill climb of making diff lines performant</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-04-03 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18925914&w=600" alt="From Concept to Production: A Strategic Framework for AI/ML Project Success" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -177,42 +217,6 @@
                 <span class="title"><a href="https://dev.to/rahulxsingh/is-snyk-worth-the-cost-complete-pricing-breakdown-for-2026-39m1" target="_blank">Is Snyk Worth the Cost? Complete Pricing Breakdown for 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-03 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ozereray/how-to-build-resilient-ai-agents-stop-flaky-llm-calls-from-crashing-your-app-194f" target="_blank">How to Build Resilient AI Agents: Stop Flaky LLM Calls from Crashing Your App 🛡️</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-03 15:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/cachyos-panther-lake" target="_blank">CachyOS Delivers More Performance Out Of Intel Panther Lake</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-03 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/martschweiger/build-an-agora-transcription-bot-with-assemblyai-universal-3-pro-51jb" target="_blank">Build an Agora Transcription Bot with AssemblyAI Universal-3 Pro</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-03 14:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-GCN-1.1-APUs-Default" target="_blank">AMDGPU Driver Ready To Be The Default For Aging Kaveri / Kabini / Mullins APUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-03 13:15</span>
             </div>
         </div>
 </div>
@@ -243,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/Mackenyu-official-Netflix-image-for-One-Piece-season-1-1280x947.jpg" alt="Esquire AI-Generated A Fake Interview With Live-Action One Piece Actor Mackenyu Because He Was Busy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/one-piece-netflix-live-action-mackenyu-interview-esquire-ai-singapore-2000684648" target="_blank">Esquire AI-Generated A Fake Interview With Live-Action One Piece Actor Mackenyu Because He Was Busy</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-03 16:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/For-All-Mankind-S5-Cynthy-Wu-1280x853.jpg" alt="We Landed On Mars, A.K.A. the Set of ‘For All Mankind’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,20 +301,20 @@
                 <span class="time">2026-04-03 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/gamestopclosed-1280x720.jpg" alt="GameStop Thought Buying Games Online Was A ‘Passing Phase,’ Says Former Business Developer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gamestop-steam-impulse-gdc-larry-kuperman-digital-distribution-2000684593" target="_blank">GameStop Thought Buying Games Online Was A ‘Passing Phase,’ Says Former Business Developer</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-03 12:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1774994123-20260403.png" alt="Saturday Morning Breakfast Cereal - Bad" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/bad-4" target="_blank">Saturday Morning Breakfast Cereal - Bad</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-03 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -334,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 16:07 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 17:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
