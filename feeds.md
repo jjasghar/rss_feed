@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-03 02:58:48 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-03 04:00:47 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, April 03, 2026 - 02:58 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, April 03, 2026 - 04:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +105,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/KSC-SLS_03302026_Artemis-II-Launch-wide_1medium-500x500.jpg" alt="Four astronauts are now inexorably bound for the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/04/four-astronauts-are-now-inexorably-bound-for-the-moon/" target="_blank">Four astronauts are now inexorably bound for the Moon</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-03 02:17</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -145,20 +158,20 @@
                 <span class="time">2026-04-02 20:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/" target="_blank">Artemis II is NASA’s last moon mission without Silicon Valley</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-02 20:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4oyy02bv4kn9xdm2zubf.png" alt="What does Cursor 3 mean for API developers?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/apilover/what-does-cursor-3-mean-for-api-developers-37o5" target="_blank">What does Cursor 3 mean for API developers?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-03 03:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,28 +202,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jangwanankit/how-to-optimise-backend-performance-a-practical-playbook-1485" target="_blank">How to Optimise Backend Performance: A Practical Playbook</a></span>
-                <span class="feed">DEV Community</span>
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-april-3-2026-red-hat" target="_blank">Friday Five — April 3, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-04-03 00:00</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/linux-app-release-roundup-march.webp?resize=406%2C232&amp;ssl=1" alt="Linux App Release Roundup (March 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/linux-release-roundup-march-2026" target="_blank">Linux App Release Roundup (March 2026)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-02 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fllikh31wtq3ve1lkzi7g.png" alt="GitHub Copilot Code Review: Complete Guide (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rahulxsingh/github-copilot-code-review-complete-guide-2026-255h" target="_blank">GitHub Copilot Code Review: Complete Guide (2026)</a></span>
+                <span class="title"><a href="https://dev.to/jangwanankit/how-to-optimise-backend-performance-a-practical-playbook-1485" target="_blank">How to Optimise Backend Performance: A Practical Playbook</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-04-02 22:00</span>
+                <span class="time">2026-04-03 00:00</span>
             </div>
         </div>
 </div>
@@ -323,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 02:58 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 04:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
