@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-03 17:08:36 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-03 18:07:55 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, April 03, 2026 - 17:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, April 03, 2026 - 18:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/03/nx-s1-5772665/trump-ballroom-underground-military-bunker" target="_blank">Trump&#x27;s ballroom fight sheds new light on an underground White House bunker</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-03 17:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/abcnewsl-abc-ml-250107_1736267930625_hpMain_4x3t_384.jpg" alt="LIVE:  1 crew member rescued from downed fighter jet: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +96,29 @@
                 <span class="time">2026-04-03 15:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-6-ht-gmh-260403_1775219910817_hpMain_4x3t_384.jpg" alt="Iran live updates: US jet appears to have been shot down by Iran, US official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: US jet appears to have been shot down by Iran, US official says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-03 15:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/21280354/best-ipad-deals-apple" target="_blank">The best iPad deals you can get right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-03 17:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/03/the-final-days-of-the-tesla-model-x-and-s-are-here-all-bets-are-on-the-cybercab/" target="_blank">The final days of the Tesla Model X and S are here. All bets are on the Cybercab.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-03 16:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +155,20 @@
                 <span class="time">2026-04-03 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/" target="_blank">The Facebook insider building content moderation for the AI era</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-03 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/906548/best-apple-product-vergecast" target="_blank">Apple’s best product ever</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-03 12:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18923351&w=600" alt="Not AI-First — Work-First!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/not-ai-first-work-first" target="_blank">Not AI-First — Work-First!</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-03 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +214,6 @@
                 <span class="time">2026-04-03 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkjvaoxeyonhcutzft0e.png" alt="Is Snyk Worth the Cost? Complete Pricing Breakdown for 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rahulxsingh/is-snyk-worth-the-cost-complete-pricing-breakdown-for-2026-39m1" target="_blank">Is Snyk Worth the Cost? Complete Pricing Breakdown for 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-03 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,20 +228,29 @@
                 <span class="time">2026-04-03 11:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/us-bans-all-foreign-made-consumer-routers.html" target="_blank">US Bans All Foreign-Made Consumer Routers</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-02 17:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGMY2W2GXP0NP5Y7HPWDDC6T/hero-image.png" alt="This Nothing Smartwatch With AI-Powered Tracking Is on Sale for $45 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-nothing-cmf-watch-3-pro-deal-april-2026?utm_medium=RSS" target="_blank">This Nothing Smartwatch With AI-Powered Tracking Is on Sale for $45 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-03 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/showmans-rest.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Historic cemetery honors circus performers and train victims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/03/historic-cemetery-honors-circus-performers-and-train-victims.html" target="_blank">Historic cemetery honors circus performers and train victims</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-03 17:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/Mackenyu-official-Netflix-image-for-One-Piece-season-1-1280x947.jpg" alt="Esquire AI-Generated A Fake Interview With Live-Action One Piece Actor Mackenyu Because He Was Busy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +285,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/03/if-youre-sick-of-paying-99-99-year-for-microsoft-365-then-switch-to-a-microsoft-office-lifetime-license-thats-actually-cheaper.html" target="_blank">If you&#x27;re sick of paying $99.99/year for Microsoft 365, then switch to a Microsoft Office lifetime license that&#x27;s actually cheaper</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-03 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/Doctor-Who-Daleks-Master-Plan-Missing-Episodes-William-Hartnell-1280x853.jpg" alt="You Can Watch the Two Recovered Missing Episodes of ‘Doctor Who’ Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/doctor-who-new-missing-episodes-streaming-free-us-2000742056" target="_blank">You Can Watch the Two Recovered Missing Episodes of ‘Doctor Who’ Right Now</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-03 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KN8XQVEXEYDMDVV1NE2NA8CE/hero-image.png" alt="These Bowers &amp; Wilkins Over-Ear Headphones Are 42% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/bowers-wilkins-px7-s3-headphones-sale-april-2026?utm_medium=RSS" target="_blank">These Bowers &amp; Wilkins Over-Ear Headphones Are 42% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-03 13:30</span>
             </div>
         </div>
 </div>
@@ -347,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 17:08 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 18:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
