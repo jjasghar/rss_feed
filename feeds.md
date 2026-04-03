@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-03 18:07:55 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-04-03 19:13:10 UTC -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, April 03, 2026 - 18:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, April 03, 2026 - 19:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/3/drone-strike-on-sudan-hospital-kills-10-medical-charity-msf-says?traffic_source=rss" target="_blank">Drone strike on Sudan hospital kills 10, medical charity MSF says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-03 18:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383b/live/6c4ec320-2f7b-11f1-934f-036468834728.jpg" alt="Artemis II crew take &#x27;spectacular&#x27; image of Earth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss" target="_blank">Artemis II crew take &#x27;spectacular&#x27; image of Earth</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-03 18:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +100,20 @@
                 <span class="time">2026-04-03 16:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/3/trump-says-with-more-time-us-can-take-the-oil-in-iran?traffic_source=rss" target="_blank">Trump says with more time, US can ‘take the oil’ in Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-03 15:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260403-us-f-15-jet-mn-0930-ad71f7.jpg" alt="U.S. fighter jet went down over Iran, search and rescue mission underway, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/military/us-fighter-jet-went-iran-search-rescue-mission-underway-officials-say-rcna266523" target="_blank">U.S. fighter jet went down over Iran, search and rescue mission underway, officials say</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-03 15:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2250244723-500x500.jpg" alt="Netflix must refund customers for years of price hikes, Italian court rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/netflix-ordered-to-refund-subscribers-up-to-e500-for-unlawful-price-hikes/" target="_blank">Netflix must refund customers for years of price hikes, Italian court rules</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-03 17:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +159,38 @@
                 <span class="time">2026-04-03 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/jfk-jr-john-perry-barlow-friendship-love-story/" target="_blank">John Perry Barlow, JFK Jr., and a Night of Grief I Can’t Forget</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-03 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jesuspinarte/multiplayer-challenges-1onb" target="_blank">Multiplayer Challenges</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-03 19:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18954559&w=600" alt="Chat with Your Oracle Database: SQLcl MCP + GitHub Copilot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/hat-with-your-oracle-database-sqlcl-mcp-github" target="_blank">Chat with Your Oracle Database: SQLcl MCP + GitHub Copilot</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-03 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-New-CPU-Sched" target="_blank">Redox OS Introducing New CPU Scheduler For ~1.5x Performance In Heavy Tasks</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-03 18:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18923351&w=600" alt="Not AI-First — Work-First!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -172,46 +203,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.inaturalist.org/" target="_blank">iNaturalist</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-03 17:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/brianmello/single-model-vs-multi-model-ai-code-review-what-i-learned-running-both-2i22" target="_blank">Single-Model vs Multi-Model AI Code Review: What I Learned Running Both</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-03 17:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/swift-6-3-android-c-interop/en/headerimage/swift-6-3-released-1775232816383.jpeg" alt="Swift 6.3 Stabilizes Android SDK, Extends C Interop, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/swift-6-3-android-c-interop/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Swift 6.3 Stabilizes Android SDK, Extends C Interop, and More</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-03 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-NPU-Linux-Driver-1.32" target="_blank">Intel Linux NPU Driver 1.32 Adds Wildcat Lake Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-03 16:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/" target="_blank">The uphill climb of making diff lines performant</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-04-03 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18925914&w=600" alt="From Concept to Production: A Strategic Framework for AI/ML Project Success" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-lifecycle-framework-for-successful-projects" target="_blank">From Concept to Production: A Strategic Framework for AI/ML Project Success</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-03 16:00</span>
             </div>
         </div>
 </div>
@@ -233,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/f-15e-strike-eagle-2025-1280x853.jpg" alt="Fake Videos Are Already Spreading After Two US Air Force Planes Go Down Near Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/fake-videos-are-already-spreading-after-two-us-air-force-planes-go-down-near-iran-2000742160" target="_blank">Fake Videos Are Already Spreading After Two US Air Force Planes Go Down Near Iran</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-03 19:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KN9YQZT1KGGV6WJ73NW9VWMH/hero-image.jpg" alt="Are Smartwatches Really Waterproof?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/are-smartwatches-really-waterproof?utm_medium=RSS" target="_blank">Are Smartwatches Really Waterproof?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-03 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KGMY2W2GXP0NP5Y7HPWDDC6T/hero-image.png" alt="This Nothing Smartwatch With AI-Powered Tracking Is on Sale for $45 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/for-all-mankind-season-5-mars-set-visit-interview-2000741027" target="_blank">We Landed On Mars, A.K.A. the Set of ‘For All Mankind’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-03 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/Uncharted-Legacy-of-Thieves-Collection-official-artwork-1280x729.jpg" alt="Fans Think Naughty Dog’s Creative Director Is Teasing Uncharted 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/uncharted-5-naughty-dog-new-game-naughty-dog-neil-druckmann-2000684609" target="_blank">Fans Think Naughty Dog’s Creative Director Is Teasing Uncharted 5</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-03 15:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Microsoft.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="If you&#x27;re sick of paying $99.99/year for Microsoft 365, then switch to a Microsoft Office lifetime license that&#x27;s actually cheaper" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/03/if-youre-sick-of-paying-99-99-year-for-microsoft-365-then-switch-to-a-microsoft-office-lifetime-license-thats-actually-cheaper.html" target="_blank">If you&#x27;re sick of paying $99.99/year for Microsoft 365, then switch to a Microsoft Office lifetime license that&#x27;s actually cheaper</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-03 15:00</span>
             </div>
         </div>
 </div>
@@ -333,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 18:08 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 270 |
+        🔄 Last Updated: 19:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
