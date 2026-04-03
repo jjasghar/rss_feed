@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-03 09:15:09 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-04-03 10:11:36 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, April 03, 2026 - 09:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, April 03, 2026 - 10:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/03/nx-s1-5764306/big-tech-lawsuits-verdicts-accountability-social-media-harms" target="_blank">Verdicts against Meta and Google may bring a new era of big tech accountability</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-03 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7508/live/8e8b1a70-2f0c-11f1-ba11-cba8df57c4f4.jpg" alt="Artemis II leaves Earth&#x27;s orbit on track for far side of the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,6 +79,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db04/live/86ffeb10-2f1a-11f1-a70a-0d0fc2b74d5f.jpg" alt="M&amp;S boss calls for more action on crime and abuse of staff" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crk16j2j1ygo?at_medium=RSS&at_campaign=rss" target="_blank">M&amp;S boss calls for more action on crime and abuse of staff</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-03 07:29</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -80,29 +96,20 @@
                 <span class="time">2026-04-03 07:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/artemis-19-ht-gmh-260402_1775187290463_hpMain_4x3t_384.jpg" alt="From stunning Earth views to toilet fix, Artemis II crew talks to ABC News from space" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/entire-globe-artemis-ii-astronauts-speak-abc-news/story?id=131674209" target="_blank">From stunning Earth views to toilet fix, Artemis II crew talks to ABC News from space</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-03 07:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/3/iran-war-what-is-happening-on-day-35-of-us-israeli-attacks?traffic_source=rss" target="_blank">Iran war: What is happening on day 35 of US-Israeli attacks?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-03 06:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69cf2644509ecd3ce9a7b4ec/master/pass/Everything-You-Need-to-Know-About-Samsung's-2026-OLED-and-Frame-TV-Models.jpg" alt="Samsung Frame Pro and OLED TV News: What You Need To Know in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/samsung-frame-oled-tvs-news-2026/" target="_blank">Samsung Frame Pro and OLED TV News: What You Need To Know in 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-03 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="$20 Chewy Promo Code | April 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +155,20 @@
                 <span class="time">2026-04-02 22:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/" target="_blank">Telehealth giant Hims &amp; Hers says its customer support system was hacked</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-02 21:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/panel-complexity-architecture/en/mediumimage/ln-540x400-1774440712030.jpg" alt="Presentation: Panel: Taking Architecture Out of the Echo Chamber" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/panel-complexity-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Panel: Taking Architecture Out of the Echo Chamber</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-03 09:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -183,6 +190,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.sambent.com/proton-meet-isnt-what-they-told-you/" target="_blank">Proton Meet Isn&#x27;t What They Told You It Was</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-03 08:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2026/04/03/seizing-the-means-of-messenger-production/" target="_blank">Seizing the means of messenger production</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -198,24 +214,6 @@
                 <span class="time">2026-04-03 06:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/neurolink/mcp-is-the-future-of-ai-tools-heres-how-to-use-it-in-typescript-25b0" target="_blank">MCP is the Future of AI Tools: Here&#x27;s How to Use It in TypeScript</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-03 05:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4oyy02bv4kn9xdm2zubf.png" alt="What does Cursor 3 mean for API developers?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/apilover/what-does-cursor-3-mean-for-api-developers-37o5" target="_blank">What does Cursor 3 mean for API developers?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-03 03:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,15 +226,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/us-bans-all-foreign-made-consumer-routers.html" target="_blank">US Bans All Foreign-Made Consumer Routers</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-04-02 17:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/possible-us-government-iphone-hacking-tool-leaked.html" target="_blank">Possible US Government iPhone Hacking Tool Leaked</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-02 10:05</span>
             </div>
         </div>
 </div>
@@ -335,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 09:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 10:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
