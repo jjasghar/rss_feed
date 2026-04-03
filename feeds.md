@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-03 19:13:10 UTC -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing 54 RSS feeds at 2026-04-03 20:05:47 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, April 03, 2026 - 19:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, April 03, 2026 - 20:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -74,6 +76,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-7-ht-gmh-260403_1775219910292_hpMain_4x3t_384.jpg" alt="US fighter jet down in Iran: 1 crew member rescued as search continues, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/us-fighter-jet-iran-search-rescue-officials/story?id=131685787" target="_blank">US fighter jet down in Iran: 1 crew member rescued as search continues, officials say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-03 17:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/abcnewsl-abc-ml-250107_1736267930625_hpMain_4x3t_384.jpg" alt="LIVE:  1 crew member rescued from downed fighter jet: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -91,20 +102,38 @@
                 <span class="time">2026-04-03 16:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/3/french-owned-container-ship-transits-hormuz-strait-in-first-since-iran-war?traffic_source=rss" target="_blank">French-owned container ship transits Hormuz Strait in first since Iran war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-03 16:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/03/best-ipad-apps-to-boost-productivity-make-your-life-easier/" target="_blank">Best iPad apps to boost productivity and make your life easier</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-03 19:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69d0149cf17585df8fd63f56/master/pass/Fidji-Leave-of-Absence-Business-2198337396.jpg" alt="OpenAI&#x27;s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/" target="_blank">OpenAI&#x27;s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-03 19:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/906752/lenovo-legion-go-2-suddenly-costs-650-more-as-ramageddon-lays-waste-to-gaming-hardware" target="_blank">Lenovo Legion Go 2 suddenly costs $650 more as RAMageddon lays waste to gaming hardware</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-03 19:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2250244723-500x500.jpg" alt="Netflix must refund customers for years of price hikes, Italian court rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,33 +159,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/04/03/the-final-days-of-the-tesla-model-x-and-s-are-here-all-bets-are-on-the-cybercab/" target="_blank">The final days of the Tesla Model X and S are here. All bets are on the Cybercab.</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-04-03 16:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/03/europes-cyber-agency-blames-hacking-gangs-for-massive-data-breach-and-leak/" target="_blank">Europe’s cyber agency blames hacking gangs for massive data breach and leak</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-03 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/906539/mercedes-steer-by-wire-steering-yoke-eqs" target="_blank">Mercedes adds steer-by-wire — and a dang steering yoke — to the EQS</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-03 15:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2269134483-500x500-1775226238.jpg" alt="EV adoption in America: Who&#x27;s winning, who&#x27;s losing?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/04/ev-adoption-in-america-whos-winning-whos-losing/" target="_blank">EV adoption in America: Who&#x27;s winning, who&#x27;s losing?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-03 15:00</span>
             </div>
         </div>
 </div>
@@ -238,6 +240,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/maiross.jpg" alt="The 7 Best Games To Play After Watching The Super Mario Galaxy Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mario-galaxy-movie-best-games-switch-2000684702" target="_blank">The 7 Best Games To Play After Watching The Super Mario Galaxy Movie</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-03 19:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/f-15e-strike-eagle-2025-1280x853.jpg" alt="Fake Videos Are Already Spreading After Two US Air Force Planes Go Down Near Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -280,15 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/one-piece-netflix-live-action-mackenyu-interview-esquire-ai-singapore-2000684648" target="_blank">Esquire AI-Generated A Fake Interview With Live-Action One Piece Actor Mackenyu Because He Was Busy</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-03 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/For-All-Mankind-S5-Cynthy-Wu-1280x853.jpg" alt="We Landed On Mars, A.K.A. the Set of ‘For All Mankind’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/for-all-mankind-season-5-mars-set-visit-interview-2000741027" target="_blank">We Landed On Mars, A.K.A. the Set of ‘For All Mankind’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-03 16:00</span>
             </div>
         </div>
 </div>
@@ -337,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 270 |
-        🔄 Last Updated: 19:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 270 |
+        🔄 Last Updated: 20:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
