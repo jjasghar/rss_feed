@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-03 08:13:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-03 09:15:09 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, April 03, 2026 - 08:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, April 03, 2026 - 09:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7508/live/8e8b1a70-2f0c-11f1-ba11-cba8df57c4f4.jpg" alt="Artemis II leaves Earth&#x27;s orbit on track for far side of the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss" target="_blank">Artemis II leaves Earth&#x27;s orbit on track for far side of the Moon</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-03 09:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/03/nx-s1-5766260/epstein-files-arrests-doj-prosecutors" target="_blank">After the release of the Epstein files, why have there been so few arrests?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-03 09:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/3/kuwait-desalination-plant-oil-refinery-hit-by-missile-and-drone-strikes?traffic_source=rss" target="_blank">Kuwait desalination plant, oil refinery hit by missile and drone strikes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-03 08:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,33 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/3/iran-war-what-is-happening-on-day-35-of-us-israeli-attacks?traffic_source=rss" target="_blank">Iran war: What is happening on day 35 of US-Israeli attacks?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-03 06:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament?traffic_source=rss" target="_blank">Myanmar’s coup leader elected president by pro-military parliament</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-03 06:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/03/g-s1-116297/cuba-releasing-2-010-prisoners-as-the-us-pressures-the-islands-government" target="_blank">Cuba releasing 2,010 prisoners as the US pressures the island&#x27;s government</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-03 05:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss" target="_blank">Iran war live: Trump warns assault on infrastructure ‘hasn’t even started’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-03 05:00</span>
             </div>
         </div>
 </div>
@@ -168,6 +165,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aayushghimirey/6-things-every-backend-engineer-should-know-that-ai-wont-tell-you-41hg" target="_blank">#6 Things Every Backend Engineer Should Know (That AI Won&#x27;t Tell You)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-03 09:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/replacing-database-sequences/en/headerimage/replacing-database-sequences-header-1774603762739.jpg" alt="Article: Replacing Database Sequences at Scale Without Breaking 100+ Services" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/replacing-database-sequences/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Replacing Database Sequences at Scale Without Breaking 100+ Services</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-03 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2026/04/03/seizing-the-means-of-messenger-production/" target="_blank">Seizing the means of messenger production</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -199,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/apilover/what-does-cursor-3-mean-for-api-developers-37o5" target="_blank">What does Cursor 3 mean for API developers?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-03 03:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/designrai/the-headless-cms-pattern-3bpm" target="_blank">The Headless CMS Pattern</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-03 02:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wellallytech/sleep-hacking-build-a-local-sleep-apnea-snore-monitor-with-whisper-and-fft-20kp" target="_blank">Sleep Hacking: Build a Local Sleep Apnea &amp; Snore Monitor with Whisper and FFT 🌙💤</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-03 01:20</span>
             </div>
         </div>
 </div>
@@ -338,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 08:14 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 09:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
