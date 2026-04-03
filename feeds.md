@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-03 22:05:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-03 23:06:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, April 03, 2026 - 22:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, April 03, 2026 - 23:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/3/lawyers-search-for-epstein-survivors-for-bank-of-america-72-5m-settlement?traffic_source=rss" target="_blank">Lawyers search for Epstein survivors for Bank of America $72.5m settlement</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-03 22:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/trump-2-gty-er-250403_1775255657811_hpMain_4x3t_384.jpg" alt="&#x27;No air defenses&#x27;: Trump, Hegseth touted American dominance before jet was downed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/air-defenses-trump-hegseth-touted-american-dominance-iran/story?id=131690203" target="_blank">&#x27;No air defenses&#x27;: Trump, Hegseth touted American dominance before jet was downed</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-03 22:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775252964154_now_hallie_aircraft_downed_iran_260403_S3_1920x1080-uqr6a1.jpg" alt="Second U.S. aircraft struck by Iranian fire after downed jet, U.S. official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/second-u-s-aircraft-struck-by-iranian-fire-after-downed-jet-u-s-official-says-260685893649" target="_blank">Second U.S. aircraft struck by Iranian fire after downed jet, U.S. official says</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-03 21:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +102,29 @@
                 <span class="time">2026-04-03 20:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/3/drone-strike-on-sudan-hospital-kills-10-medical-charity-msf-says?traffic_source=rss" target="_blank">Drone strike on Sudan hospital kills 10, medical charity MSF says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-03 18:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383b/live/6c4ec320-2f7b-11f1-934f-036468834728.jpg" alt="Artemis II crew take &#x27;spectacular&#x27; image of Earth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss" target="_blank">Artemis II crew take &#x27;spectacular&#x27; image of Earth</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-03 18:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/03/nx-s1-5772665/trump-ballroom-underground-military-bunker" target="_blank">Trump&#x27;s ballroom fight sheds new light on an underground White House bunker</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-03 17:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/iceage2-500x500.jpg" alt="Ice Age dice show early Native Americans may have understood probability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/04/ice-age-dice-show-early-native-americans-may-have-understood-probability/" target="_blank">Ice Age dice show early Native Americans may have understood probability</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-03 22:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/" target="_blank">The anonymous social app that thinks it can work in Saudi Arabia</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-03 22:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +161,29 @@
                 <span class="time">2026-04-03 19:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2250244723-500x500.jpg" alt="Netflix must refund customers for years of price hikes, Italian court rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/netflix-ordered-to-refund-subscribers-up-to-e500-for-unlawful-price-hikes/" target="_blank">Netflix must refund customers for years of price hikes, Italian court rules</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-03 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/21280354/best-ipad-deals-apple" target="_blank">The best iPad deals you can get right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-03 17:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.6-Released" target="_blank">Wine 11.6 Begins Reviving Its Android Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-03 22:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18962353&w=600" alt="Hadoop on AmpereOne Reference Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/hadoop-on-ampereone-reference-architecture" target="_blank">Hadoop on AmpereOne Reference Architecture</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-03 22:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,37 +205,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jesuspinarte/multiplayer-challenges-1onb" target="_blank">Multiplayer Challenges</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-03 19:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18954559&w=600" alt="Chat with Your Oracle Database: SQLcl MCP + GitHub Copilot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/hat-with-your-oracle-database-sqlcl-mcp-github" target="_blank">Chat with Your Oracle Database: SQLcl MCP + GitHub Copilot</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-03 19:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce8jzr423p9o" target="_blank">Artemis II crew take &#x27;spectacular&#x27; image of Earth</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-03 19:35</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-New-CPU-Sched" target="_blank">Redox OS Introducing New CPU Scheduler For ~1.5x Performance In Heavy Tasks</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-03 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18923351&w=600" alt="Not AI-First — Work-First!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/not-ai-first-work-first" target="_blank">Not AI-First — Work-First!</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-03 18:00</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jesuspinarte/multiplayer-challenges-1onb" target="_blank">Multiplayer Challenges</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-03 19:05</span>
             </div>
         </div>
 </div>
@@ -236,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-03 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/04/7bf825228bc5a4348589aff4ffc376c7.jpg" alt="Ex-Nintendo Sales Lead Explains The Three Factors Making A Switch 2 Price Hike ‘Inevitable’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +291,6 @@
                 <span class="title"><a href="https://gizmodo.com/fake-videos-are-already-spreading-after-two-us-air-force-planes-go-down-near-iran-2000742160" target="_blank">Fake Videos Are Already Spreading After Two US Air Force Planes Go Down Near Iran</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-03 19:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KN9YQZT1KGGV6WJ73NW9VWMH/hero-image.jpg" alt="Are Smartwatches Really Waterproof?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/are-smartwatches-really-waterproof?utm_medium=RSS" target="_blank">Are Smartwatches Really Waterproof?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-03 18:30</span>
             </div>
         </div>
 </div>
@@ -345,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 22:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 23:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
