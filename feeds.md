@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-03 00:10:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-03 01:30:47 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, April 03, 2026 - 00:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, April 03, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/artemis-10-ht-gmh-260402_1775173422003_hpMain_4x3t_384.jpg" alt="Artemis II live updates: Crew headed to moon after critical translunar injection burn" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306" target="_blank">Artemis II live updates: Crew headed to moon after critical translunar injection burn</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-03 01:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260331-hegseth-pentagon-mb-1315-71f63f.jpg" alt="Pete Hegseth has intervened in military promotions for more than a dozen senior officers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/national-security/hegseth-intervened-military-promotions-dozen-senior-officers-rcna266062" target="_blank">Pete Hegseth has intervened in military promotions for more than a dozen senior officers</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-03 00:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6a/live/c6c715f0-2ef4-11f1-b297-95b0a0a8331e.jpg" alt="Trump removes US Attorney General Pam Bondi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss" target="_blank">Trump removes US Attorney General Pam Bondi</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-03 00:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,33 +96,6 @@
                 <span class="title"><a href="https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306" target="_blank">Artemis II live updates: Crucial translunar injection burn is a &#x27;go&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-02 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/2/unbridled-bosnian-joy-marks-world-cup-qualification-win-over-italy?traffic_source=rss" target="_blank">Unbridled Bosnian joy marks World Cup qualification win over Italy</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-02 21:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/lively-baldoni-split-1-gty-bb-250107_1736276364081_hpMain_v16x9_4x3t_384.jpg" alt="Blake Lively&#x27;s lawsuit against Justin Baldoni gutted by judge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/judge-guts-blake-livelys-lawsuit-justin-baldoni/story?id=131668004" target="_blank">Blake Lively&#x27;s lawsuit against Justin Baldoni gutted by judge</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-02 21:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/02/nx-s1-5771635/trump-cftc-kalshi-polymarket-lawsuits" target="_blank">Trump administration sues three states over attempts to regulate prediction markets</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-02 19:54</span>
             </div>
         </div>
 </div>
@@ -168,9 +166,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wellallytech/sleep-hacking-build-a-local-sleep-apnea-snore-monitor-with-whisper-and-fft-20kp" target="_blank">Sleep Hacking: Build a Local Sleep Apnea &amp; Snore Monitor with Whisper and FFT 🌙💤</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-03 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jangwanankit/how-to-optimise-backend-performance-a-practical-playbook-1485" target="_blank">How to Optimise Backend Performance: A Practical Playbook</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-03 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/linux-app-release-roundup-march.webp?resize=406%2C232&amp;ssl=1" alt="Linux App Release Roundup (March 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/linux-release-roundup-march-2026" target="_blank">Linux App Release Roundup (March 2026)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-02 22:01</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +214,6 @@
                 <span class="title"><a href="https://dzone.com/articles/context-graphs-from-outcomes-to-decisions" target="_blank">Context Graphs: From Outcomes to Decisions</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-02 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Microsoft-AI-Agent-Governance" target="_blank">Microsoft&#x27;s Newest Open-Source Project: Runtime Security For AI Agents</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-02 19:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mindmagic/the-deployment-that-taught-me-more-than-any-tutorial-4011" target="_blank">The Deployment That Taught Me More Than Any Tutorial</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-02 19:10</span>
             </div>
         </div>
 </div>
@@ -246,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/mission-control-during-TLI-1280x853.jpg" alt="Artemis 2 Crew Become First Humans to Travel Beyond Earth Orbit Since the 1970s" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/artemis-2-crew-become-first-humans-to-travel-beyond-earth-orbit-since-the-1970s-2000741686" target="_blank">Artemis 2 Crew Become First Humans to Travel Beyond Earth Orbit Since the 1970s</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-03 00:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/taketwo2logo1-1280x720.jpg" alt="Take-Two Reshuffles Its AI Team" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,20 +298,20 @@
                 <span class="time">2026-04-02 20:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMDB1TRMY96JXCTTA9MZ8KVD/hero-image.jpg" alt="10 Hacks Every MacBook Neo Owner Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/macbook-neo-hacks-and-tips?utm_medium=RSS" target="_blank">10 Hacks Every MacBook Neo Owner Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-02 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5800.png" alt="Or A Boson" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5800" target="_blank">Or A Boson</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-04-03 00:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1774994067-20260402 - Copy.png" alt="Saturday Morning Breakfast Cereal - Special" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -314,22 +321,13 @@
                 <span class="time">2026-04-02 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5799.png" alt="Moray Is Competent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5799" target="_blank">Moray Is Competent</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-04-02 00:57</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 00:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
