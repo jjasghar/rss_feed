@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-03 04:00:47 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-04-03 05:30:22 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, April 03, 2026 - 04:00 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, April 03, 2026 - 05:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/03/g-s1-116297/cuba-releasing-2-010-prisoners-as-the-us-pressures-the-islands-government" target="_blank">Cuba releasing 2,010 prisoners as the US pressures the island&#x27;s government</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-03 05:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss" target="_blank">Iran war live: Trump warns assault on infrastructure ‘hasn’t even started’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-03 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/artemis-19-ht-gmh-260402_1775187290463_hpMain_4x3t_384.jpg" alt="Artemis II crew talks to ABC News from space: Their journey so far and what&#x27;s ahead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/entire-globe-artemis-ii-astronauts-speak-abc-news/story?id=131674209" target="_blank">Artemis II crew talks to ABC News from space: Their journey so far and what&#x27;s ahead</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-03 04:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +101,20 @@
                 <span class="time">2026-04-03 00:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6a/live/c6c715f0-2ef4-11f1-b297-95b0a0a8331e.jpg" alt="Trump removes US Attorney General Pam Bondi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss" target="_blank">Trump removes US Attorney General Pam Bondi</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-03 00:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/2/trump-unveils-100-percent-tariff-on-drugs-to-push-for-pharmaceutical-deals?traffic_source=rss" target="_blank">Trump unveils 100 percent tariff on drugs to push for pharmaceutical deals</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-02 23:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775171306425_nn_kod_trumpfirespambondiag_260402_S3_1920x1080-x2mw4s.jpg" alt="Trump fires Pam Bondi as Attorney General" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-fires-pam-bondi-as-attorney-general-260622405845" target="_blank">Trump fires Pam Bondi as Attorney General</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-02 23:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg" alt="50% Off DoorDash Promo Code | April 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/doordash-promo-code/" target="_blank">50% Off DoorDash Promo Code | April 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-03 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/KSC-SLS_03302026_Artemis-II-Launch-wide_1medium-500x500.jpg" alt="Four astronauts are now inexorably bound for the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +160,20 @@
                 <span class="time">2026-04-02 21:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2253795243-500x500.jpg" alt="Perplexity&#x27;s &quot;Incognito Mode&quot; is a &quot;sham,&quot; lawsuit says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/" target="_blank">Perplexity&#x27;s &quot;Incognito Mode&quot; is a &quot;sham,&quot; lawsuit says</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-02 20:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/neurolink/mcp-is-the-future-of-ai-tools-heres-how-to-use-it-in-typescript-25b0" target="_blank">MCP is the Future of AI Tools: Here&#x27;s How to Use It in TypeScript</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-03 05:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4oyy02bv4kn9xdm2zubf.png" alt="What does Cursor 3 mean for API developers?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,15 +216,6 @@
                 <span class="fa fa-fw fa-hat-cowboy"></span>
                 <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-april-3-2026-red-hat" target="_blank">Friday Five — April 3, 2026</a></span>
                 <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-04-03 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jangwanankit/how-to-optimise-backend-performance-a-practical-playbook-1485" target="_blank">How to Optimise Backend Performance: A Practical Playbook</a></span>
-                <span class="feed">DEV Community</span>
                 <span class="time">2026-04-03 00:00</span>
             </div>
         </div>
@@ -327,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 04:00 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 05:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
