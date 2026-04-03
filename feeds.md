@@ -1,37 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-04-03 11:12:56 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-03 12:07:17 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, April 03, 2026 - 11:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, April 03, 2026 - 12:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,10 +42,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/03/g-s1-116325/up-first-newsletter-pam-bondi-doj-iran-strait-of-hormuz-nasa" target="_blank">Pam Bondi is out at DOJ. And, NASA&#x27;s Artemis II has left Earth&#x27;s orbit</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-03 11:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/3/over-100-us-legal-experts-condemn-strikes-on-iran-as-possible-war-crimes?traffic_source=rss" target="_blank">Over 100 US legal experts condemn strikes on Iran as possible ‘war crimes’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-03 10:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/artemis-19-ht-gmh-260402_1775187290463_hpMain_4x3t_384.jpg" alt="&#x27;You look amazing&#x27;: Artemis II crew talks to ABC News on the way to the moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/entire-globe-artemis-ii-astronauts-speak-abc-news/story?id=131674209" target="_blank">&#x27;You look amazing&#x27;: Artemis II crew talks to ABC News on the way to the moon</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-03 10:39</span>
             </div>
         </div>
 <div class="story">
@@ -68,37 +78,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore" target="_blank">People of Burkina Faso should forget about democracy, says military ruler</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-03 10:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/04/03/nx-s1-5764306/big-tech-lawsuits-verdicts-accountability-social-media-harms" target="_blank">Verdicts against Meta and Google may bring a new era of big tech accountability</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-03 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7508/live/8e8b1a70-2f0c-11f1-ba11-cba8df57c4f4.jpg" alt="Artemis II leaves Earth&#x27;s orbit on track for far side of the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss" target="_blank">Artemis II leaves Earth&#x27;s orbit on track for far side of the Moon</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-03 09:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/03/nx-s1-5766260/epstein-files-arrests-doj-prosecutors" target="_blank">After the release of the Epstein files, why have there been so few arrests?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-03 09:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/3/kuwait-desalination-plant-oil-refinery-hit-by-missile-and-drone-strikes?traffic_source=rss" target="_blank">Kuwait desalination plant, oil refinery hit by missile and drone strikes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-03 08:59</span>
             </div>
         </div>
 </div>
@@ -106,6 +98,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs" target="_blank">Chatbots are now prescribing psychiatric drugs</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-03 11:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69ced2e8b3e67db87f57d6c7/master/pass/ipad-air-m4-04%20(1).jpg" alt="The Best iPad to Buy (and Some to Avoid) in 2026: Compare the Air, Pro, Mini" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/the-best-ipad/" target="_blank">The Best iPad to Buy (and Some to Avoid) in 2026: Compare the Air, Pro, Mini</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-03 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69cf2644509ecd3ce9a7b4ec/master/pass/Everything-You-Need-to-Know-About-Samsung's-2026-OLED-and-Frame-TV-Models.jpg" alt="Samsung Frame Pro and OLED TV News: What You Need To Know in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +152,38 @@
                 <span class="time">2026-04-03 02:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/" target="_blank">Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-02 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/906346/ao3-archive-of-our-own-beta-exit" target="_blank">AO3 is finally out of beta after 17 years</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-02 22:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18925012&w=600" alt="AI-Generated DataWeave in MuleSoft: Production Failure Modes and How to Make It Safe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-generated-dataweave-mulesoft-production-safety" target="_blank">AI-Generated DataWeave in MuleSoft: Production Failure Modes and How to Make It Safe</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-03 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/trivy-supply-chain-attack/en/headerimage/generatedHeaderImage-1774788388998.jpg" alt="Open Source Security Tool Trivy Hit by Supply Chain Attack, Prompting Urgent Industry Response" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/trivy-supply-chain-attack/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Open Source Security Tool Trivy Hit by Supply Chain Attack, Prompting Urgent Industry Response</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-03 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17313017/proton-workspace-launch" target="_blank">Proton Launches Workspace and Meet, Takes Aim at Google and Microsoft</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-03 11:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,33 +209,6 @@
                 <span class="title"><a href="https://www.infoq.com/presentations/panel-complexity-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Panel: Taking Architecture Out of the Echo Chamber</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-04-03 09:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aayushghimirey/6-things-every-backend-engineer-should-know-that-ai-wont-tell-you-41hg" target="_blank">#6 Things Every Backend Engineer Should Know (That AI Won&#x27;t Tell You)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-03 09:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/replacing-database-sequences/en/headerimage/replacing-database-sequences-header-1774603762739.jpg" alt="Article: Replacing Database Sequences at Scale Without Breaking 100+ Services" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/replacing-database-sequences/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Replacing Database Sequences at Scale Without Breaking 100+ Services</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-03 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.sambent.com/proton-meet-isnt-what-they-told-you/" target="_blank">Proton Meet Isn&#x27;t What They Told You It Was</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-03 08:59</span>
             </div>
         </div>
 </div>
@@ -338,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 11:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 271 |
+        🔄 Last Updated: 12:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
