@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-03 21:07:07 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-03 22:05:13 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, April 03, 2026 - 21:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, April 03, 2026 - 22:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss" target="_blank">Christians in Lebanon observe Good Friday under Israeli attacks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-03 21:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9197/live/5bf0bfa0-2f8b-11f1-8892-ef888cf9f8d2.jpg" alt="How elite US teams tackle combat rescue missions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss" target="_blank">How elite US teams tackle combat rescue missions</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-03 20:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775248057128_now_mtp_clip_ablock_260403_S3_1920x1080-wnif8i.jpg" alt="Exclusive: Trump says downed U.S. jet won&#x27;t affect Iran negotiations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/hed-exclusive-trump-says-downed-u-s-jet-won-t-affect-iran-negotiations-260680773952" target="_blank">Exclusive: Trump says downed U.S. jet won&#x27;t affect Iran negotiations</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-03 20:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,33 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/03/nx-s1-5772665/trump-ballroom-underground-military-bunker" target="_blank">Trump&#x27;s ballroom fight sheds new light on an underground White House bunker</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-03 17:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-7-ht-gmh-260403_1775219910292_hpMain_4x3t_384.jpg" alt="US fighter jet down in Iran: 1 crew member rescued as search continues, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/us-fighter-jet-iran-search-rescue-officials/story?id=131685787" target="_blank">US fighter jet down in Iran: 1 crew member rescued as search continues, officials say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-03 17:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl-abc-ml-250107_1736267930625_hpMain_4x3t_384.jpg" alt="LIVE:  1 crew member rescued from downed fighter jet: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  1 crew member rescued from downed fighter jet: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-03 17:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775233725883_nbc_spec_kube_pilot_rescue_260403_S3_1920x1080-wdgopy.jpg" alt="One U.S. pilot rescued after F-15 jet shot down over Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/one-u-s-pilot-rescued-after-f-15-jet-shot-down-over-iran-260668997793" target="_blank">One U.S. pilot rescued after F-15 jet shot down over Iran</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-03 16:28</span>
             </div>
         </div>
 </div>
@@ -237,6 +237,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/04/7bf825228bc5a4348589aff4ffc376c7.jpg" alt="Ex-Nintendo Sales Lead Explains The Three Factors Making A Switch 2 Price Hike ‘Inevitable’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/switch-2-price-ram-iran-oil-trump-tariffs-2000684755" target="_blank">Ex-Nintendo Sales Lead Explains The Three Factors Making A Switch 2 Price Hike ‘Inevitable’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-03 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/stealingcars1-1280x720.jpg" alt="Is GTA 6‘s Long Development The Result Of A Complete Engine Rebuild? It’s Probably More Complicated Than That" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -279,15 +288,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/are-smartwatches-really-waterproof?utm_medium=RSS" target="_blank">Are Smartwatches Really Waterproof?</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-03 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGMY2W2GXP0NP5Y7HPWDDC6T/hero-image.png" alt="This Nothing Smartwatch With AI-Powered Tracking Is on Sale for $45 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/the-nothing-cmf-watch-3-pro-deal-april-2026?utm_medium=RSS" target="_blank">This Nothing Smartwatch With AI-Powered Tracking Is on Sale for $45 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-03 17:30</span>
             </div>
         </div>
 </div>
@@ -345,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 21:07 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 22:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
