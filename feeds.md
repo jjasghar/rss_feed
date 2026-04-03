@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-03 14:13:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-03 15:12:34 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, April 03, 2026 - 14:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, April 03, 2026 - 15:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-6-ht-gmh-260403_1775219910817_hpMain_4x3t_384.jpg" alt="Iran live updates: US jet appears to have been shot down by Iran, US official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: US jet appears to have been shot down by Iran, US official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-03 15:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/03/nx-s1-5773108/american-jet-shot-down-iran" target="_blank">A U.S. jet goes down over Iran, a U.S. official confirms</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-03 14:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/3/israel-threatens-to-destroy-more-lebanon-bridges-as-crisis-mounts?traffic_source=rss" target="_blank">Israel threatens to destroy more Lebanon bridges as crisis mounts</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-03 14:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,38 +101,29 @@
                 <span class="time">2026-04-03 12:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/03/g-s1-116325/up-first-newsletter-pam-bondi-doj-iran-strait-of-hormuz-nasa" target="_blank">Pam Bondi is out at DOJ. And, NASA&#x27;s Artemis II has left Earth&#x27;s orbit</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-03 11:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/3/over-100-us-legal-experts-condemn-strikes-on-iran-as-possible-war-crimes?traffic_source=rss" target="_blank">Over 100 US legal experts condemn strikes on Iran as possible ‘war crimes’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-03 10:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/artemis-19-ht-gmh-260402_1775187290463_hpMain_4x3t_384.jpg" alt="&#x27;You look amazing&#x27;: Artemis II crew talks to ABC News on the way to the moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/entire-globe-artemis-ii-astronauts-speak-abc-news/story?id=131674209" target="_blank">&#x27;You look amazing&#x27;: Artemis II crew talks to ABC News on the way to the moon</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-03 10:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2269134483-500x500-1775226238.jpg" alt="EV adoption in America: Who&#x27;s winning, who&#x27;s losing?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/04/ev-adoption-in-america-whos-winning-whos-losing/" target="_blank">EV adoption in America: Who&#x27;s winning, who&#x27;s losing?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-03 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/jfk-jr-john-perry-barlow-friendship-love-story/" target="_blank">John Perry Barlow, JFK Jr., and a Night of Grief I Can’t Forget</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-03 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,29 +160,20 @@
                 <span class="time">2026-04-03 11:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69ced2e8b3e67db87f57d6c7/master/pass/ipad-air-m4-04%20(1).jpg" alt="The Best iPad to Buy (and Some to Avoid) in 2026: Compare the Air, Pro, Mini" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/the-best-ipad/" target="_blank">The Best iPad to Buy (and Some to Avoid) in 2026: Compare the Air, Pro, Mini</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-03 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69cf2644509ecd3ce9a7b4ec/master/pass/Everything-You-Need-to-Know-About-Samsung's-2026-OLED-and-Frame-TV-Models.jpg" alt="Samsung Frame Pro and OLED TV News: What You Need To Know in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/samsung-frame-oled-tvs-news-2026/" target="_blank">Samsung Frame Pro and OLED TV News: What You Need To Know in 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-03 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ozereray/how-to-build-resilient-ai-agents-stop-flaky-llm-calls-from-crashing-your-app-194f" target="_blank">How to Build Resilient AI Agents: Stop Flaky LLM Calls from Crashing Your App 🛡️</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-03 15:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +219,6 @@
                 <span class="time">2026-04-03 11:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-Newer-GPU-Drivers-2026" target="_blank">FreeBSD Laptop Project Hopes To Port Newer Linux Graphics Drivers This Year</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-03 10:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -250,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/Uncharted-Legacy-of-Thieves-Collection-official-artwork-1280x729.jpg" alt="Fans Think Naughty Dog’s Creative Director Is Teasing Uncharted 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/uncharted-5-naughty-dog-new-game-naughty-dog-neil-druckmann-2000684609" target="_blank">Fans Think Naughty Dog’s Creative Director Is Teasing Uncharted 5</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-03 15:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/Doctor-Who-Daleks-Master-Plan-Missing-Episodes-William-Hartnell-1280x853.jpg" alt="You Can Watch the Two Recovered Missing Episodes of ‘Doctor Who’ Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +299,6 @@
                 <span class="title"><a href="https://kotaku.com/take-two-ai-zynga-layoffs-gta-2000684344" target="_blank">Take-Two Reshuffles Its AI Team</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-02 22:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/Labubu-Wacky-Mart-Pop-Mart--1280x853.jpg" alt="Labubus Might Be Labu-Bust After Pop Mart Posts Record Share Loss" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/labubu-pop-mart-stock-value-crash-2000741807" target="_blank">Labubus Might Be Labu-Bust After Pop Mart Posts Record Share Loss</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-02 22:00</span>
             </div>
         </div>
 </div>
@@ -350,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 14:13 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 15:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
