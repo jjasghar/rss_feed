@@ -1,29 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-04 18:05:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-04 19:10:07 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, April 04, 2026 - 18:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, April 04, 2026 - 19:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-34-ht-gmh-260403_1775242505239_hpMain_4x3t_384.jpg" alt="Iran live updates: Search for missing US crew member enters 2nd day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: Search for missing US crew member enters 2nd day</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-04 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336c/live/47b79c30-3048-11f1-bcfc-dda6bbc21b25.jpg" alt="What we know so far about the US fighter jet shot down over Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss" target="_blank">What we know so far about the US fighter jet shot down over Iran</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-04 17:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2abc/live/1e9f9c60-3036-11f1-b297-95b0a0a8331e.jpg" alt="UN watchdog voices &#x27;deep concern&#x27; as Iran reports new attacks on nuclear plant" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,24 +94,6 @@
                 <span class="title"><a href="https://www.today.com/video/search-underway-for-airman-after-us-jet-shot-down-over-iran-260714053805" target="_blank">Search Enters 2nd Day for US Airman After Jet Shot Down in Iran</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-04-04 12:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/04/nx-s1-5766048/london-falling-review-patrick-radden-keefe" target="_blank">&#x27;London Falling&#x27;: A teenage imposter, an aging gangster and a body in the Thames</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-04 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/04/nx-s1-5773436/iran-war-updates" target="_blank">Iran war enters its 6th week as military searches for downed jet crew member</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-04 10:48</span>
             </div>
         </div>
 </div>
@@ -298,22 +301,13 @@
                 <span class="time">2026-04-04 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/04/03/stage-delights" target="_blank">Stage Delights</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-04-03 18:38</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 18:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 19:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
