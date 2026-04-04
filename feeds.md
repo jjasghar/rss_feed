@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-04 14:08:31 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-04-04 15:06:12 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, April 04, 2026 - 14:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, April 04, 2026 - 15:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +109,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/906843/nintendo-switch-2-game-sale-target-circle-deal" target="_blank">Buy two Nintendo Switch games, get $30 off at Target</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-04 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69d0af083bc34c44e4bea83a/master/pass/Review--Sonos-Play-Speaker.jpg" alt="Sonos Play Review: Performance Meets Convenience" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/sonos-play/" target="_blank">Sonos Play Review: Performance Meets Convenience</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-04 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/" target="_blank">After fighting malware for decades, this cybersecurity veteran is now hacking drones</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-04 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content" target="_blank">Really, you made this without AI? Prove it</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-04 13:00</span>
@@ -133,38 +159,20 @@
                 <span class="time">2026-04-04 07:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" alt="Maytag Promo Codes and Deals: Appliances Under $300" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/maytag-promo-code/" target="_blank">Maytag Promo Codes and Deals: Appliances Under $300</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-04 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/" target="_blank">Anthropic is having a moment in the private markets; SpaceX could spoil the party</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-04 01:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/" target="_blank">Lucid blames dip in Q1 sales on seat supplier issue</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-04 01:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmgm9ahn9q0db3y58bos.webp" alt="50 Hours Building a Next.js Boilerplate So You Can Ship in 30 Minutes!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/salmanshahriar/50-hours-building-a-nextjs-boilerplate-so-you-can-ship-in-30-minutes-4ho9" target="_blank">50 Hours Building a Next.js Boilerplate So You Can Ship in 30 Minutes!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-04 14:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9zmay2t9d1aahzeivlhq.png" alt="The Prototype Tax: Why AI Makes Production-First Architecture the Smarter Default" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Coreboot-Progress-MSI-B850" target="_blank">3mdeb Makes Progress Bringing AMD openSIL + Coreboot To Ryzen AM5 Motherboard</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-04 10:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiv.org/abs/2604.01193" target="_blank">Simple self-distillation improves code generation</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-04 10:26</span>
             </div>
         </div>
 </div>
@@ -320,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 14:08 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 15:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
