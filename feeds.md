@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-04 19:10:07 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-04 20:03:56 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, April 04, 2026 - 19:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, April 04, 2026 - 20:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +44,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/4/universities-hit-as-us-israel-ramp-up-attacks-on-irans-infrastructure?traffic_source=rss" target="_blank">Universities hit as US, Israel ramp up attacks on Iran’s infrastructure</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-04 19:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/iran-34-ht-gmh-260403_1775242505239_hpMain_4x3t_384.jpg" alt="Iran live updates: Search for missing US crew member enters 2nd day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: Search for missing US crew member enters 2nd day</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-04 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/04/nx-s1-5773915/judge-halts-trump-effort-college-admissions-race" target="_blank">Judge halts Trump effort requiring colleges to show they don&#x27;t consider race in admissions</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-04 17:13</span>
             </div>
         </div>
 <div class="story">
@@ -76,24 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/clyjrrl17j1o?at_medium=RSS&at_campaign=rss" target="_blank">Fourth suspect arrested over Jewish charity ambulance arson attack</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-04 15:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/4/israeli-strikes-damage-hospital-in-lebanons-tyre?traffic_source=rss" target="_blank">Israeli strikes damage hospital in Lebanon’s Tyre; ground invasion advances</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-04 13:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775304262125_tdy_sat_raf_kube_airman_search_iran_260404_S3_1920x1080-w3qcps.jpg" alt="Search Enters 2nd Day for US Airman After Jet Shot Down in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/search-underway-for-airman-after-us-jet-shot-down-over-iran-260714053805" target="_blank">Search Enters 2nd Day for US Airman After Jet Shot Down in Iran</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-04 12:04</span>
             </div>
         </div>
 </div>
@@ -163,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/programmingcentral/unit-testing-prompts-the-key-to-reliable-ai-in-production-4gho" target="_blank">Unit Testing Prompts: The Key to Reliable AI in Production</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-04 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc7-Input-Fixes" target="_blank">Razer Wolverine V3 Pro &amp; Betop KP50 Controllers To Be Supported By Linux 7.0</a></span>
                 <span class="feed">Phoronix</span>
@@ -205,15 +215,6 @@
                 <span class="time">2026-04-04 14:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/anthropic-three-agent-harness-ai/en/headerimage/generatedHeaderImage-1774590768994.jpg" alt="Anthropic’s  Designs Three-Agent Harness Supports Long-Running Full-Stack AI Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/anthropic-three-agent-harness-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic’s  Designs Three-Agent Harness Supports Long-Running Full-Stack AI Development</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-04 14:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/spaceballs-2-table-read-1280x853.jpg" alt="No Fooling, ‘Spaceballs 2’ Will Hit Theaters April 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/no-fooling-spaceballs-2-will-hit-theaters-april-2027-2000742420" target="_blank">No Fooling, ‘Spaceballs 2’ Will Hit Theaters April 2027</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-04 18:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/maul-shadow-lord-poster-1280x853.jpg" alt="The First ‘Maul: Shadow Lord’ Reactions Are Most Solid" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +288,6 @@
                 <span class="time">2026-04-03 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/jojos-bizarre-adventure-steel-ball-run-1280x853.jpg" alt="Two Songs We Really Wish Were the Anime Outros for ‘Steel Ball Run’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/steel-ball-run-ending-songs-theories-netflix-2000742132" target="_blank">Two Songs We Really Wish Were the Anime Outros for ‘Steel Ball Run’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-03 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 19:10 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 20:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
