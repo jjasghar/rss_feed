@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-04 03:47:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-04 04:32:46 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, April 04, 2026 - 03:47 UTC</div>
+    <div class="newspaper-date">Saturday, April 04, 2026 - 04:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/04/nx-s1-5760948/high-housing-costs-seniors-seeking-roommates" target="_blank">65, single, seeking a roommate: More seniors are being priced out of living alone</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-04 04:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9197/live/5bf0bfa0-2f8b-11f1-8892-ef888cf9f8d2.jpg" alt="Rescue team in Iran face &#x27;harrowing and dangerous&#x27; search for US crew member" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +102,6 @@
                 <span class="time">2026-04-03 22:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/trump-2-gty-er-250403_1775255657811_hpMain_4x3t_384.jpg" alt="&#x27;No air defenses&#x27;: Trump, Hegseth touted American dominance before jet was downed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/air-defenses-trump-hegseth-touted-american-dominance-iran/story?id=131690203" target="_blank">&#x27;No air defenses&#x27;: Trump, Hegseth touted American dominance before jet was downed</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-03 22:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -128,6 +135,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/55185418641_c81ccfeefb_k-500x500.jpg" alt="Trump proposes steep cut to NASA budget as astronauts head for the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/" target="_blank">Trump proposes steep cut to NASA budget as astronauts head for the Moon</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-03 23:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/iceage2-500x500.jpg" alt="Ice Age dice show early Native Americans may have understood probability" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -145,20 +161,20 @@
                 <span class="time">2026-04-03 22:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d0349ce79739f75ca71863/master/pass/security_Mercor3_GettyImages-1429228638-copy-2.jpg" alt="Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/" target="_blank">Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-03 21:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/stackandsails/is-railway-reliable-for-nodejs-in-2026-pb2" target="_blank">Is Railway Reliable for Node.js in 2026?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-04 04:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +218,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/skyscraper-bluesky-terminal-client-linux" target="_blank">Skyscraper brings Bluesky to the Linux terminal</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-04-03 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.6-Released" target="_blank">Wine 11.6 Begins Reviving Its Android Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-03 22:36</span>
             </div>
         </div>
 </div>
@@ -327,22 +334,13 @@
                 <span class="time">2026-04-03 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/day_counter.png" alt="Day Counter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3228/" target="_blank">Day Counter</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-04-03 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 03:47 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 04:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
