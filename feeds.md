@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-04 09:10:58 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-04-04 10:06:55 UTC -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, April 04, 2026 - 09:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, April 04, 2026 - 10:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/04/nx-s1-5771819/lamb-cakes-easter" target="_blank">Buttercream wool and jelly bean eyes: The art of the Easter lamb cake</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-04 09:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-kribi-route-osint-strait-of-hormuz_7210674.png?20260404094401" alt="&lt;a href=&quot;https://news.sky.com/story/iran-war-latest-trump-tehran-us-israel-kharg-island-netanyahu-lebanon-strikes-drone-live-sky-news-13509565?postid=11458523#liveblog-body&quot; target=&quot;_blank&quot;&gt;French-owned ship transits through Iran-controlled Strait of Hormuz route&lt;/a&gt;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/french-owned-ship-transits-through-iran-controlled-strait-of-hormuz-13527829" target="_blank">&lt;a href=&quot;https://news.sky.com/story/iran-war-latest-trump-tehran-us-israel-kharg-island-netanyahu-lebanon-strikes-drone-live-sky-news-13509565?postid=11458523#liveblog-body&quot; target=&quot;_blank&quot;&gt;French-owned ship transits through Iran-controlled Strait of Hormuz route&lt;/a&gt;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-04 08:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +93,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss" target="_blank">Rescue team in Iran face &#x27;harrowing and dangerous&#x27; search for US crew member</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-04 02:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/04/03/nx-s1-5773282/artemis-ii-nasa-photos" target="_blank">NASA&#x27;s Artemis II crew are quite the photographers. See what they&#x27;ve snapped so far</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-04 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/4/palestinian-christians-in-gaza-mark-good-friday?traffic_source=rss" target="_blank">Palestinian Christians in Gaza mark Good Friday</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-04 00:30</span>
             </div>
         </div>
 </div>
@@ -163,6 +160,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rahulxsingh/best-python-code-quality-tools-compared-5dfi" target="_blank">Best Python Code Quality Tools Compared</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-04 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/tigerfs-postgresql-filesystem/en/headerimage/generatedHeaderImage-1774426958711.jpg" alt="TigerFS Mounts PostgreSQL Databases as a Filesystem for Developers and AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/tigerfs-postgresql-filesystem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">TigerFS Mounts PostgreSQL Databases as a Filesystem for Developers and AI Agents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-04 08:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhxivmwvhqvpookal78zh.jpg" alt="SVG Path Animations with CSS Keyframes: A Complete Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,24 +211,6 @@
                 <span class="title"><a href="https://dev.to/rdin777/finding-a-critical-logic-flaw-in-legion-protocols-epoch-vesting-39g6" target="_blank">Finding a Critical Logic Flaw in Legion Protocol’s Epoch Vesting</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-04 05:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/stackandsails/is-railway-reliable-for-nodejs-in-2026-pb2" target="_blank">Is Railway Reliable for Node.js in 2026?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-04 04:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ji_ai/docker-build-output-50-lines-you-dont-need-4cpi" target="_blank">Docker Build Output: 50 Lines You Don&#x27;t Need</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-04 02:47</span>
             </div>
         </div>
 </div>
@@ -326,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 09:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 10:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
