@@ -1,31 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-04-04 10:06:55 UTC -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-04-04 11:06:21 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, April 04, 2026 - 10:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, April 04, 2026 - 11:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +53,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/04/nx-s1-5773436/iran-war-updates" target="_blank">Iran war enters its 6th week as military searches for downed jet crew member</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-04 10:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/4/1997?traffic_source=rss" target="_blank">At least four people killed in Russian attacks on Ukraine</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-04 10:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +105,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/4/nasa-unveils-first-images-of-earth-from-artemis-ii?traffic_source=rss" target="_blank">NASA unveils first images of Earth from Artemis II</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-04 04:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/04/nx-s1-5760948/high-housing-costs-seniors-seeking-roommates" target="_blank">65, single, seeking a roommate: More seniors are being priced out of living alone</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-04 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9197/live/5bf0bfa0-2f8b-11f1-8892-ef888cf9f8d2.jpg" alt="Rescue team in Iran face &#x27;harrowing and dangerous&#x27; search for US crew member" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss" target="_blank">Rescue team in Iran face &#x27;harrowing and dangerous&#x27; search for US crew member</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-04 02:52</span>
             </div>
         </div>
 </div>
@@ -160,6 +172,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The AI Coding Productivity Illusion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rawveg/the-ai-coding-productivity-illusion-4kde" target="_blank">The AI Coding Productivity Illusion</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-04 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Coreboot-Progress-MSI-B850" target="_blank">3mdeb Makes Progress Bringing AMD openSIL + Coreboot To Ryzen AM5 Motherboard</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-04 10:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -193,24 +223,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17313430/git-plain-text-writing" target="_blank">Git Isn’t Just for Developers. It Might Be the Best Writing Tool Ever</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-04-04 06:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fps6k7c11kvik7x1rmp09.png" alt="5 Signs You&#x27;re Ready to Build Your SaaS (And 3 Signs You&#x27;re Not)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sergey_kuzmich_/5-signs-youre-ready-to-build-your-saas-and-3-signs-youre-not-1705" target="_blank">5 Signs You&#x27;re Ready to Build Your SaaS (And 3 Signs You&#x27;re Not)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-04 06:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe4wauowxv0z7lgwroubg.png" alt="Finding a Critical Logic Flaw in Legion Protocol’s Epoch Vesting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rdin777/finding-a-critical-logic-flaw-in-legion-protocols-epoch-vesting-39g6" target="_blank">Finding a Critical Logic Flaw in Legion Protocol’s Epoch Vesting</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-04 05:15</span>
             </div>
         </div>
 </div>
@@ -323,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 10:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 11:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
