@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-04 01:30:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-04 02:56:01 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, April 04, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, April 04, 2026 - 02:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +106,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/" target="_blank">Anthropic is having a moment in the private markets; SpaceX could spoil the party</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-04 01:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/" target="_blank">Lucid blames dip in Q1 sales on seat supplier issue</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-04-04 01:03</span>
@@ -139,21 +148,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media.wired.com/photos/69d0349ce79739f75ca71863/master/pass/security_Mercor3_GettyImages-1429228638-copy-2.jpg" alt="Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed" target="_blank">NASA did eventually solve Artemis II&amp;#8217;s Outlook glitch</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-03 20:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/03/best-ipad-apps-to-boost-productivity-make-your-life-easier/" target="_blank">Best iPad apps to boost productivity and make your life easier</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-03 19:56</span>
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/" target="_blank">Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-03 21:28</span>
             </div>
         </div>
 </div>
@@ -161,6 +161,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ji_ai/docker-build-output-50-lines-you-dont-need-4cpi" target="_blank">Docker Build Output: 50 Lines You Don&#x27;t Need</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-04 02:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +213,6 @@
                 <span class="title"><a href="https://dzone.com/articles/hadoop-on-ampereone-reference-architecture" target="_blank">Hadoop on AmpereOne Reference Architecture</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-03 22:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sessionzero_ai/from-rest-api-to-mcp-server-how-i-gave-ai-agents-native-access-to-korean-web-data-1anp" target="_blank">From REST API to MCP Server: How I Gave AI Agents Native Access to Korean Web Data</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-03 21:04</span>
             </div>
         </div>
 </div>
@@ -334,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 02:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
