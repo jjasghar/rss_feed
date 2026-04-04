@@ -1,41 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-04 00:09:29 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-04 01:30:55 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 33 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, April 04, 2026 - 00:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, April 04, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/4/palestinian-christians-in-gaza-mark-good-friday?traffic_source=rss" target="_blank">Palestinian Christians in Gaza mark Good Friday</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-04 00:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775257589598_nn_cku_search_airman_260403_S3_1920x1080-n8ebpy.jpg" alt="Exhaustive search underway in Iran to rescue downed F-15 airman" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -96,20 +97,20 @@
                 <span class="time">2026-04-03 21:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss" target="_blank">Christians in Lebanon observe Good Friday under Israeli attacks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-03 21:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/" target="_blank">Lucid blames dip in Q1 sales on seat supplier issue</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-04 01:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,15 +156,6 @@
                 <span class="time">2026-04-03 19:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d0149cf17585df8fd63f56/master/pass/Fidji-Leave-of-Absence-Business-2198337396.jpg" alt="OpenAI&#x27;s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/" target="_blank">OpenAI&#x27;s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-03 19:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +168,15 @@
                 <span class="title"><a href="https://dev.to/beck_moulton/privacy-first-ai-building-a-federated-health-tracker-with-flower-and-scikit-learn-16j6" target="_blank">Privacy-First AI: Building a Federated Health Tracker with Flower and Scikit-Learn</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://news.ycombinator.com/item?id=47633396" target="_blank">Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-03 22:55</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/sessionzero_ai/from-rest-api-to-mcp-server-how-i-gave-ai-agents-native-access-to-korean-web-data-1anp" target="_blank">From REST API to MCP Server: How I Gave AI Agents Native Access to Korean Web Data</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-03 21:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18926250&w=600" alt="5 Proven Strategies for Modernizing Legacy .NET Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/5-proven-strategies-for-modernising-legacy-net" target="_blank">5 Proven Strategies for Modernizing Legacy .NET Applications</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-03 20:00</span>
             </div>
         </div>
 </div>
@@ -337,22 +329,13 @@
                 <span class="time">2026-04-03 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5800.png" alt="Or A Boson" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5800" target="_blank">Or A Boson</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-04-03 00:59</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 00:09 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
