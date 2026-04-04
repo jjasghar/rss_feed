@@ -1,30 +1,46 @@
-<!-- Processing 54 RSS feeds at 2026-04-04 16:04:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-04 17:07:14 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Generated 8 new posts out of 38 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, April 04, 2026 - 16:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, April 04, 2026 - 17:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +56,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2abc/live/1e9f9c60-3036-11f1-b297-95b0a0a8331e.jpg" alt="UN watchdog voices &#x27;deep concern&#x27; as Iran reports new attacks on nuclear plant" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss" target="_blank">UN watchdog voices &#x27;deep concern&#x27; as Iran reports new attacks on nuclear plant</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-04 16:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/164f/live/63f11bc0-28ea-11f1-a95f-75471ca6e71e.jpg" alt="Fourth suspect arrested over Jewish charity ambulance arson attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,20 +110,20 @@
                 <span class="time">2026-04-04 10:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/04/nx-s1-5771819/lamb-cakes-easter" target="_blank">Buttercream wool and jelly bean eyes: The art of the Easter lamb cake</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-04 09:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/" target="_blank">Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-04 16:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +169,29 @@
                 <span class="time">2026-04-04 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ" target="_blank">Anker’s Nebula P1 projector is the portable sound king</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-04 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc7-Input-Fixes" target="_blank">Razer Wolverine V3 Pro &amp; Betop KP50 Controllers To Be Supported By Linux 7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-04 16:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/resources-showtime-yaru-icons.jpg?resize=406%2C232&amp;ssl=1" alt="More new icons arrive in Ubuntu 26.04 LTS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/yaru-new-icons-resources-showtime" target="_blank">More new icons arrive in Ubuntu 26.04 LTS</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-04 15:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/resources-showtime-yaru-icons.jpg?resize=406%2C232&amp;ssl=1" alt="More New Ubuntu 26.04 Yaru Icons" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -194,24 +228,6 @@
                 <span class="time">2026-04-04 14:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxq15l6irmdmp6tr7bxjv.png" alt="File Archiving to AWS S3 using AWS SDK for Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ershubham/file-archiving-to-aws-s3-using-aws-sdk-for-java-4o2b" target="_blank">File Archiving to AWS S3 using AWS SDK for Java</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-04 11:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop" target="_blank">AWS Engineer Reports PostgreSQL Performance Halved By Linux 7.0, But A Fix May Not Be Easy</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-04 11:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/maul-shadow-lord-poster-1280x853.jpg" alt="The First ‘Maul: Shadow Lord’ Reactions Are Most Solid" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-first-maul-shadow-lord-reactions-are-most-solid-2000742433" target="_blank">The First ‘Maul: Shadow Lord’ Reactions Are Most Solid</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-04 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Microsoft-Office-Pro-2021-for-Windows.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Be the Excel guru at work with this Microsoft Office 2021 Pro suite and Training Bundle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/04/be-the-excel-guru-at-work-with-this-microsoft-office-2021-pro-suite-and-training-bundle.html" target="_blank">Be the Excel guru at work with this Microsoft Office 2021 Pro suite and Training Bundle</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-04 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/Elden-Ring-key-art-Bandai-Namco-1280x709.jpg" alt="A Fan Claims To Have Found A Set From Alex Garland’s Elden Ring Movie Out In The Wild" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,29 +301,20 @@
                 <span class="time">2026-04-03 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/04/7bf825228bc5a4348589aff4ffc376c7.jpg" alt="Ex-Nintendo Sales Lead Explains The Three Factors Making A Switch 2 Price Hike ‘Inevitable’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/switch-2-price-ram-iran-oil-trump-tariffs-2000684755" target="_blank">Ex-Nintendo Sales Lead Explains The Three Factors Making A Switch 2 Price Hike ‘Inevitable’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-03 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/stealingcars1-1280x720.jpg" alt="Is GTA 6‘s Long Development The Result Of A Complete Engine Rebuild? It’s Probably More Complicated Than That" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/is-gta-6s-long-development-the-result-of-a-complete-engine-rebuild-its-probably-more-complicated-than-that-2000684709" target="_blank">Is GTA 6‘s Long Development The Result Of A Complete Engine Rebuild? It’s Probably More Complicated Than That</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-03 21:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1774994166-20260404.png" alt="Saturday Morning Breakfast Cereal - Super" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/super-3" target="_blank">Saturday Morning Breakfast Cereal - Super</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-04 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -304,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 16:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 17:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
