@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-04 15:06:12 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-04-04 16:04:46 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, April 04, 2026 - 15:06 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, April 04, 2026 - 16:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/164f/live/63f11bc0-28ea-11f1-a95f-75471ca6e71e.jpg" alt="Fourth suspect arrested over Jewish charity ambulance arson attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyjrrl17j1o?at_medium=RSS&at_campaign=rss" target="_blank">Fourth suspect arrested over Jewish charity ambulance arson attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-04 15:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +92,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/04/nx-s1-5771819/lamb-cakes-easter" target="_blank">Buttercream wool and jelly bean eyes: The art of the Easter lamb cake</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-04 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-kribi-route-osint-strait-of-hormuz_7210674.png?20260404094401" alt="&lt;a href=&quot;https://news.sky.com/story/iran-war-latest-trump-tehran-us-israel-kharg-island-netanyahu-lebanon-strikes-drone-live-sky-news-13509565?postid=11458523#liveblog-body&quot; target=&quot;_blank&quot;&gt;French-owned ship transits through Iran-controlled Strait of Hormuz route&lt;/a&gt;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/french-owned-ship-transits-through-iran-controlled-strait-of-hormuz-13527829" target="_blank">&lt;a href=&quot;https://news.sky.com/story/iran-war-latest-trump-tehran-us-israel-kharg-island-netanyahu-lebanon-strikes-drone-live-sky-news-13509565?postid=11458523#liveblog-body&quot; target=&quot;_blank&quot;&gt;French-owned ship transits through Iran-controlled Strait of Hormuz route&lt;/a&gt;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-04 08:44</span>
             </div>
         </div>
 </div>
@@ -165,12 +159,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/resources-showtime-yaru-icons.jpg?resize=406%2C232&amp;ssl=1" alt="More New Ubuntu 26.04 Yaru Icons" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/yaru-new-icons-resources-showtime" target="_blank">More New Ubuntu 26.04 Yaru Icons</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-04 15:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmgm9ahn9q0db3y58bos.webp" alt="50 Hours Building a Next.js Boilerplate So You Can Ship in 30 Minutes!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/salmanshahriar/50-hours-building-a-nextjs-boilerplate-so-you-can-ship-in-30-minutes-4ho9" target="_blank">50 Hours Building a Next.js Boilerplate So You Can Ship in 30 Minutes!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-04 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/anthropic-three-agent-harness-ai/en/headerimage/generatedHeaderImage-1774590768994.jpg" alt="Anthropic’s  Designs Three-Agent Harness Supports Long-Running Full-Stack AI Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/anthropic-three-agent-harness-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic’s  Designs Three-Agent Harness Supports Long-Running Full-Stack AI Development</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-04 14:24</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +210,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop" target="_blank">AWS Engineer Reports PostgreSQL Performance Halved By Linux 7.0, But A Fix May Not Be Easy</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-04 11:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The AI Coding Productivity Illusion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rawveg/the-ai-coding-productivity-illusion-4kde" target="_blank">The AI Coding Productivity Illusion</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-04 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Coreboot-Progress-MSI-B850" target="_blank">3mdeb Makes Progress Bringing AMD openSIL + Coreboot To Ryzen AM5 Motherboard</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-04 10:50</span>
             </div>
         </div>
 </div>
@@ -305,22 +299,13 @@
                 <span class="time">2026-04-03 18:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1774994123-20260403.png" alt="Saturday Morning Breakfast Cereal - Bad" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/bad-4" target="_blank">Saturday Morning Breakfast Cereal - Bad</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-03 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 15:06 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 16:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
