@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-04 20:03:56 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-04 21:05:49 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, April 04, 2026 - 20:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, April 04, 2026 - 21:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/4/4/how-will-pakistan-deal-with-the-fallout-from-iran-war?traffic_source=rss" target="_blank">How will Pakistan deal with the fallout from Iran war?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-04 20:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f49/live/002930e0-305c-11f1-a79a-77e93010d956.jpg" alt="Search for missing airman presents serious test for US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss" target="_blank">Search for missing airman presents serious test for US</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-04 20:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +102,29 @@
                 <span class="time">2026-04-04 17:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2abc/live/1e9f9c60-3036-11f1-b297-95b0a0a8331e.jpg" alt="UN watchdog voices &#x27;deep concern&#x27; as Iran reports new attacks on nuclear plant" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss" target="_blank">UN watchdog voices &#x27;deep concern&#x27; as Iran reports new attacks on nuclear plant</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-04 16:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/164f/live/63f11bc0-28ea-11f1-a95f-75471ca6e71e.jpg" alt="Fourth suspect arrested over Jewish charity ambulance arson attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyjrrl17j1o?at_medium=RSS&at_campaign=rss" target="_blank">Fourth suspect arrested over Jewish charity ambulance arson attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-04 15:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/" target="_blank">Embattled startup Delve has ‘parted ways’ with Y Combinator</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-04 21:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/11/computer-repair-500x500.jpg" alt="Tech companies are trying to neuter Colorado’s landmark right-to-repair law" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/" target="_blank">Tech companies are trying to neuter Colorado’s landmark right-to-repair law</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-04 20:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,24 +158,6 @@
                 <span class="fa fa-fw fa-bolt"></span>
                 <span class="title"><a href="https://www.wired.com/review/sonos-play/" target="_blank">Sonos Play Review: Performance Meets Convenience</a></span>
                 <span class="feed">WIRED</span>
-                <span class="time">2026-04-04 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/" target="_blank">After fighting malware for decades, this cybersecurity veteran is now hacking drones</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-04 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content" target="_blank">Really, you made this without AI? Prove it</a></span>
-                <span class="feed">The Verge</span>
                 <span class="time">2026-04-04 13:00</span>
             </div>
         </div>
@@ -235,6 +240,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/animorphs-cover-hed-1280x853.jpg" alt="Ryan Coogler Is Shifting ‘Animorphs’ Into a Disney+ Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ryan-coogler-is-shifting-animorphs-into-a-disney-show-2000742259" target="_blank">Ryan Coogler Is Shifting ‘Animorphs’ Into a Disney+ Show</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-04 20:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/spaceballs-2-table-read-1280x853.jpg" alt="No Fooling, ‘Spaceballs 2’ Will Hit Theaters April 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -279,15 +293,6 @@
                 <span class="time">2026-04-04 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-03 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -307,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 20:04 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 21:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
