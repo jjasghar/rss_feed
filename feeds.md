@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-04 02:56:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-04 03:47:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, April 04, 2026 - 02:56 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, April 04, 2026 - 03:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9197/live/5bf0bfa0-2f8b-11f1-8892-ef888cf9f8d2.jpg" alt="Rescue team in Iran face &#x27;harrowing and dangerous&#x27; search for US crew member" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss" target="_blank">Rescue team in Iran face &#x27;harrowing and dangerous&#x27; search for US crew member</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-04 02:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/04/03/nx-s1-5773282/artemis-ii-nasa-photos" target="_blank">NASA&#x27;s Artemis II crew are quite the photographers. See what they&#x27;ve snapped so far</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-04 00:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +93,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/air-defenses-trump-hegseth-touted-american-dominance-iran/story?id=131690203" target="_blank">&#x27;No air defenses&#x27;: Trump, Hegseth touted American dominance before jet was downed</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-03 22:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4099/live/2bd06e80-2fa7-11f1-b297-95b0a0a8331e.jpg" alt="Three charged over Jewish charity ambulance fires" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz0ey7z2jx3o?at_medium=RSS&at_campaign=rss" target="_blank">Three charged over Jewish charity ambulance fires</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-03 22:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775252964154_now_hallie_aircraft_downed_iran_260403_S3_1920x1080-uqr6a1.jpg" alt="Second U.S. aircraft struck by Iranian fire after downed jet, U.S. official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/second-u-s-aircraft-struck-by-iranian-fire-after-downed-jet-u-s-official-says-260685893649" target="_blank">Second U.S. aircraft struck by Iranian fire after downed jet, U.S. official says</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-03 21:49</span>
             </div>
         </div>
 </div>
@@ -182,6 +180,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/OpenRazer-3.12.1-Released" target="_blank">OpenRazer 3.12.1 Enables Two More Razer Devices Under Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-03 23:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://news.ycombinator.com/item?id=47633396" target="_blank">Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw</a></span>
                 <span class="feed">Hacker News</span>
@@ -206,20 +213,20 @@
                 <span class="time">2026-04-03 22:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18962353&w=600" alt="Hadoop on AmpereOne Reference Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/hadoop-on-ampereone-reference-architecture" target="_blank">Hadoop on AmpereOne Reference Architecture</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-03 22:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-jurassic-fish-chokes-on-squid.html" target="_blank">Friday Squid Blogging: Jurassic Fish Chokes on Squid</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-04-03 21:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -334,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 02:56 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 03:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
