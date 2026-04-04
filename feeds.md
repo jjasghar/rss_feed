@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-04 21:05:49 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-04-04 22:03:43 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, April 04, 2026 - 21:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, April 04, 2026 - 22:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e76/live/3d4d3850-306f-11f1-9582-d1ec97d5b335.png" alt="US and Iran trade threats to unleash &#x27;hell&#x27; as search for missing US airman continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran trade threats to unleash &#x27;hell&#x27; as search for missing US airman continues</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-04 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/4/lewandowski-claims-late-la-liga-win-for-barcelona-at-atletico?traffic_source=rss" target="_blank">Lewandowski claims late La Liga win for Barcelona at Atletico</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-04 21:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +96,20 @@
                 <span class="time">2026-04-04 18:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/04/nx-s1-5773915/judge-halts-trump-effort-college-admissions-race" target="_blank">Judge halts Trump effort requiring colleges to show they don&#x27;t consider race in admissions</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-04 17:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336c/live/47b79c30-3048-11f1-bcfc-dda6bbc21b25.jpg" alt="What we know so far about the US fighter jet shot down over Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss" target="_blank">What we know so far about the US fighter jet shot down over Iran</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-04 17:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/" target="_blank">Unpacking Peter Thiel’s big bet on solar-powered cow collars</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-04 21:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +153,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/906843/nintendo-switch-2-game-sale-target-circle-deal" target="_blank">Buy two Nintendo Switch games, get $30 off at Target</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-04 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d0af083bc34c44e4bea83a/master/pass/Review--Sonos-Play-Speaker.jpg" alt="Sonos Play Review: Performance Meets Convenience" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/sonos-play/" target="_blank">Sonos Play Review: Performance Meets Convenience</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-04 13:00</span>
             </div>
         </div>
 </div>
@@ -218,20 +212,6 @@
                 <span class="title"><a href="https://dev.to/salmanshahriar/50-hours-building-a-nextjs-boilerplate-so-you-can-ship-in-30-minutes-4ho9" target="_blank">50 Hours Building a Next.js Boilerplate So You Can Ship in 30 Minutes!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-04 14:55</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-jurassic-fish-chokes-on-squid.html" target="_blank">Friday Squid Blogging: Jurassic Fish Chokes on Squid</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-03 21:07</span>
             </div>
         </div>
 </div>
@@ -312,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 21:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 22:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
