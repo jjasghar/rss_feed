@@ -1,46 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-04-04 17:07:14 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-04-04 18:05:00 UTC -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 38 feeds processed -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, April 04, 2026 - 17:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, April 04, 2026 - 18:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -84,6 +67,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775304262125_tdy_sat_raf_kube_airman_search_iran_260404_S3_1920x1080-w3qcps.jpg" alt="Search Enters 2nd Day for US Airman After Jet Shot Down in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/search-underway-for-airman-after-us-jet-shot-down-over-iran-260714053805" target="_blank">Search Enters 2nd Day for US Airman After Jet Shot Down in Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-04 12:04</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -101,20 +93,20 @@
                 <span class="time">2026-04-04 10:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/4/1997?traffic_source=rss" target="_blank">At least four people killed in Russian attacks on Ukraine</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-04 10:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright" target="_blank">A folk musician became a target for AI fakes and a copyright troll</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-04 17:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -160,15 +152,6 @@
                 <span class="time">2026-04-04 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/904202/super-meat-boy-3d-review" target="_blank">Super Meat Boy 3D makes suffering fun</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-04 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -181,6 +164,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc7-Input-Fixes" target="_blank">Razer Wolverine V3 Pro &amp; Betop KP50 Controllers To Be Supported By Linux 7.0</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-04 16:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://jaso1024.com/mvidia/" target="_blank">Show HN: A game where you build a GPU</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-04 16:45</span>
             </div>
         </div>
 <div class="story">
@@ -217,15 +209,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/04/anthropic-three-agent-harness-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic’s  Designs Three-Agent Harness Supports Long-Running Full-Stack AI Development</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-04-04 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9zmay2t9d1aahzeivlhq.png" alt="The Prototype Tax: Why AI Makes Production-First Architecture the Smarter Default" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aiavenger/the-prototype-tax-why-ai-makes-production-first-architecture-the-smarter-default-3b3l" target="_blank">The Prototype Tax: Why AI Makes Production-First Architecture the Smarter Default</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-04 14:02</span>
             </div>
         </div>
 </div>
@@ -329,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 17:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 18:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
