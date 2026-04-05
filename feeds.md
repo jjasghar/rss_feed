@@ -1,30 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-05 11:06:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-05 12:04:32 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, April 05, 2026 - 11:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, April 05, 2026 - 12:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -86,12 +86,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-german-soldiers-troops_7211423.jpg?20260405112657" alt="German men could require military permission to leave country for more than three months" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/4/5/israels-attack-on-unrwa-is-central-to-its-genocide-of-the-palestinians?traffic_source=rss" target="_blank">Israel’s attack on UNRWA is central to its genocide of the Palestinians</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-05 08:40</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/german-men-could-require-military-permission-to-leave-country-for-more-than-three-months-13528140" target="_blank">German men could require military permission to leave country for more than three months</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-05 08:46</span>
             </div>
         </div>
 </div>
@@ -99,6 +99,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga" target="_blank">Grammarly’s sloppelganger saga</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-05 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69cfeeb9d4c18da3282280c6/master/pass/The-Best-Robot-Lawn-Mowers.jpg" alt="3 Best Robot Lawn Mowers (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +153,29 @@
                 <span class="time">2026-04-04 21:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/11/computer-repair-500x500.jpg" alt="Tech companies are trying to neuter Colorado’s landmark right-to-repair law" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/" target="_blank">Tech companies are trying to neuter Colorado’s landmark right-to-repair law</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-04 20:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shimo4228/how-ethics-emerged-from-episode-logs-17-days-of-contemplative-agent-design-1kk5" target="_blank">How Ethics Emerged from Episode Logs — 17 Days of Contemplative Agent Design</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-05 11:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-More-AI-Security-Docs" target="_blank">Linux 7.0-rc7 Adding More Documentation For AI Tools To Send Better Security Bug Reports</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-05 11:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,24 +210,6 @@
                 <span class="title"><a href="https://dev.to/alex_vega_77/why-we-ditched-bedrock-agents-for-nova-pro-and-built-a-custom-orchestrator-364h" target="_blank">Why We Ditched Bedrock Agents for Nova Pro and Built a Custom Orchestrator</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-05 07:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lisette.run/" target="_blank">Lisette a little language inspired by Rust that compiles to Go</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-05 06:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flxss48wc6hufwj35yu1n.jpeg" alt="5 Patterns for Building Resilient Event-Driven Integrations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/137foundry/5-patterns-for-building-resilient-event-driven-integrations-3i8h" target="_blank">5 Patterns for Building Resilient Event-Driven Integrations</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-05 05:21</span>
             </div>
         </div>
 </div>
@@ -290,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 11:07 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 12:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
