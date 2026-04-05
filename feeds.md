@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-05 16:05:47 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-04-05 17:07:15 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, April 05, 2026 - 16:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, April 05, 2026 - 17:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/5/at-least-14-people-killed-in-israeli-strikes-across-lebanon?traffic_source=rss" target="_blank">At least 14 people killed in Israeli strikes across Lebanon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-05 16:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +101,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: Missing F-15 airman rescued in &#x27;daring&#x27; raid, Trump says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-05 13:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/05/nx-s1-5773315/shellear-climbing-fish-congo-waterfall" target="_blank">These rock-climbing fish can shimmy up a 50-foot waterfall</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-05 11:00</span>
             </div>
         </div>
 </div>
@@ -166,6 +168,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1noii8km9a36ovzs6f2z.jpg" alt="Your Monitoring Didn&#x27;t Miss the Incident. It Was Never Designed to See It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ntctech/your-monitoring-didnt-miss-the-incident-it-was-never-designed-to-see-it-2n8l" target="_blank">Your Monitoring Didn&#x27;t Miss the Incident. It Was Never Designed to See It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-05 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Phasing-Out-i486" target="_blank">Linux 7.1 Expected To Begin Removing i486 CPU Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-05 16:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fid5jvbatb7drwkk5ns2g.png" alt="Qodo vs SonarQube: AI-Powered vs Traditional Analysis (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,29 +221,29 @@
                 <span class="time">2026-04-05 11:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-More-AI-Security-Docs" target="_blank">Linux 7.0-rc7 Adding More Documentation For AI Tools To Send Better Security Bug Reports</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-05 11:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/frihet/zero-admin-the-complete-stack-to-run-your-business-on-autopilot-3mbl" target="_blank">Zero Admin: The Complete Stack to Run Your Business on Autopilot</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-05 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/mass-effect-3-endings-1280x853.jpg" alt="The ‘Mass Effect’ Show is Getting Rewritten to Get Greenlit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-mass-effect-show-is-getting-rewritten-to-get-greenlit-2000742629" target="_blank">The ‘Mass Effect’ Show is Getting Rewritten to Get Greenlit</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-05 16:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Nintendo-Switch.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This is your sign to finally buy the Nintendo Switch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/05/this-is-your-sign-to-finally-buy-the-nintendo-switch.html" target="_blank">This is your sign to finally buy the Nintendo Switch</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-05 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/smb_app_poster.jpg" alt="The Weird Appeal Of The Bob Hoskins Mario Movie Will Endure Forever" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,24 +280,6 @@
                 <span class="time">2026-04-04 19:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/spaceballs-2-table-read-1280x853.jpg" alt="No Fooling, ‘Spaceballs 2’ Will Hit Theaters April 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/no-fooling-spaceballs-2-will-hit-theaters-april-2027-2000742420" target="_blank">No Fooling, ‘Spaceballs 2’ Will Hit Theaters April 2027</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-04 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/maul-shadow-lord-poster-1280x853.jpg" alt="The First ‘Maul: Shadow Lord’ Reactions Are Most Solid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-first-maul-shadow-lord-reactions-are-most-solid-2000742433" target="_blank">The First ‘Maul: Shadow Lord’ Reactions Are Most Solid</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-04 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 16:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 17:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
