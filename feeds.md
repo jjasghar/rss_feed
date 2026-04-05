@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-05 04:04:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-05 05:31:46 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, April 05, 2026 - 04:05 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, April 05, 2026 - 05:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2026/4/5/trumps-unpopular-war-on-iran?traffic_source=rss" target="_blank">Trump’s unpopular war on Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-05 05:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-34-ht-gmh-260403_1775242505239_hpMain_4x3t_384.jpg" alt="Iran live updates: 2nd US airman rescued from Iran after F-15 shot down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: 2nd US airman rescued from Iran after F-15 shot down</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-05 04:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +104,6 @@
                 <span class="time">2026-04-04 21:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/04/nx-s1-5763625/german-researchers-set-right-the-story-of-a-9-000-year-old-shamans-grave" target="_blank">German researchers set right the story of a 9,000-year-old shaman&#x27;s grave</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-04 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775338143196_now_brk_full_costello_artemis_interview_260404_S3_1920x1080-a1uvt2.jpg" alt="Tom Costello speaks with Artemis II crew during their moon mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/nbc-news-speaks-with-artemis-ii-crew-during-their-moon-mission-260717637901" target="_blank">Tom Costello speaks with Artemis II crew during their moon mission</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-04 21:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,6 +116,15 @@
                 <span class="title"><a href="https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/" target="_blank">Artemis II is going so well that we&#x27;re left to talk about frozen urine</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-05 00:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/" target="_blank">Peter Thiel’s big bet on solar-powered cow collars</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-04 21:30</span>
             </div>
         </div>
 <div class="story">
@@ -148,20 +163,29 @@
                 <span class="time">2026-04-04 17:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/" target="_blank">Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-04 16:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flxss48wc6hufwj35yu1n.jpeg" alt="5 Patterns for Building Resilient Event-Driven Integrations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/137foundry/5-patterns-for-building-resilient-event-driven-integrations-3i8h" target="_blank">5 Patterns for Building Resilient Event-Driven Integrations</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-05 05:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17313745/firefox-survival-with-vpn-ai" target="_blank">Can Free VPN and AI Save Firefox From Decline?</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-05 04:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/ranting_sage/x-y-k-and-other-things-i-shouldve-learned-sooner-ofe" target="_blank">x * y = k, and Other Things I Should&#x27;ve Learned Sooner</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-04 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/programmingcentral/unit-testing-prompts-the-key-to-reliable-ai-in-production-4gho" target="_blank">Unit Testing Prompts: The Key to Reliable AI in Production</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-04 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Debian-Undecided-Age-Laws" target="_blank">Debian Is Figuring Out How Age Verification Laws Will Impact It</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-04 19:05</span>
             </div>
         </div>
 </div>
@@ -294,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 04:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 05:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
