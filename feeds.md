@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-05 08:08:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-05 09:11:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, April 05, 2026 - 08:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, April 05, 2026 - 09:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,10 +50,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/05/nx-s1-5745032/questions-to-help-you-get-financially-naked-with-your-partner" target="_blank">Questions to help you get &#x27;financially naked&#x27; with your partner</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-05 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/4/5/israels-attack-on-unrwa-is-central-to-its-genocide-of-the-palestinians?traffic_source=rss" target="_blank">Israel’s attack on UNRWA is central to its genocide of the Palestinians</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-05 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/4/5/under-israeli-restrictions-palestinian-christians-mark-quiet-holy-week?traffic_source=rss" target="_blank">Under Israeli restrictions, Palestinian Christians mark quiet Holy Week</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-05 07:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336c/live/47b79c30-3048-11f1-bcfc-dda6bbc21b25.jpg" alt="What we know so far about rescue of US airman in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss" target="_blank">What we know so far about rescue of US airman in Iran</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-05 06:59</span>
             </div>
         </div>
 <div class="story">
@@ -68,33 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/05/nx-s1-5774368/u-s-military-rescue-airman-iran" target="_blank">Trump says U.S. military has rescued airman shot down over Iran</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-05 05:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2026/4/5/trumps-unpopular-war-on-iran?traffic_source=rss" target="_blank">Trump’s unpopular war on Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-05 05:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775365382897_nbc_spec_full_airman_rescued_260404_S3_1920x1080-ordiew.jpg" alt="Special report: Second airman that was shot down over Iran rescued safely, U.S. officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/special-report-second-airman-that-was-shot-down-over-iran-rescued-safely-u-s-officials-say-260727365659" target="_blank">Special report: Second airman that was shot down over Iran rescued safely, U.S. officials say</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-05 05:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-34-ht-gmh-260403_1775242505239_hpMain_4x3t_384.jpg" alt="Iran live updates: 2nd US airman rescued from Iran after F-15 shot down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: 2nd US airman rescued from Iran after F-15 shot down</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-05 04:46</span>
             </div>
         </div>
 </div>
@@ -165,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ohugonnot/persistent-memory-in-claude-code-whats-worth-keeping-54ck" target="_blank">Persistent memory in Claude Code: what&#x27;s worth keeping</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-05 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/alex_vega_77/why-we-ditched-bedrock-agents-for-nova-pro-and-built-a-custom-orchestrator-364h" target="_blank">Why We Ditched Bedrock Agents for Nova Pro and Built a Custom Orchestrator</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-05 07:22</span>
@@ -204,15 +217,6 @@
                 <span class="title"><a href="https://composerprogrammer.com/introductiontocomputermusic.pdf" target="_blank">Introduction to Computer Music (2009) [pdf]</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-05 01:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/piiiico/the-flat-subscription-problem-why-agents-break-ai-pricing-h1j" target="_blank">The Flat Subscription Problem: Why Agents Break AI Pricing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-05 01:16</span>
             </div>
         </div>
 </div>
@@ -293,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 08:08 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 09:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
