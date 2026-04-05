@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-05 12:04:32 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-05 13:21:58 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, April 05, 2026 - 12:04 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, April 05, 2026 - 13:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/F-15-ht-er-260403_1775254116752_hpMain_4x3t_384.jpg" alt="Iran live updates: Missing F-15 airman rescued in &#x27;daring&#x27; raid, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: Missing F-15 airman rescued in &#x27;daring&#x27; raid, Trump says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-05 13:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +99,20 @@
                 <span class="time">2026-04-05 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-german-soldiers-troops_7211423.jpg?20260405112657" alt="German men could require military permission to leave country for more than three months" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/german-men-could-require-military-permission-to-leave-country-for-more-than-three-months-13528140" target="_blank">German men could require military permission to leave country for more than three months</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-05 08:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69d03c4f7025f3dd6d8df7bf/master/pass/The-Best-Apple-Watch-Bands,-According-to-Years-of-All-Day-Wear.jpg" alt="Best Apple Watch Bands of 2026: Nike, Hermés, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-apple-watch-bands/" target="_blank">Best Apple Watch Bands of 2026: Nike, Hermés, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-05 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -106,6 +120,15 @@
                 <span class="title"><a href="https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga" target="_blank">Grammarly’s sloppelganger saga</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-05 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/08/GettyImages-925067740-500x500.jpg" alt="CBP facility codes sure seem to have leaked via online flashcards" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/" target="_blank">CBP facility codes sure seem to have leaked via online flashcards</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-05 11:07</span>
             </div>
         </div>
 <div class="story">
@@ -133,24 +156,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/" target="_blank">Peter Thiel’s big bet on solar-powered cow collars</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-04-04 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/" target="_blank">Unpacking Peter Thiel’s big bet on solar-powered cow collars</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-04 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/" target="_blank">Embattled startup Delve has ‘parted ways’ with Y Combinator</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-04 21:03</span>
             </div>
         </div>
 </div>
@@ -188,6 +193,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ergosphere.blog/posts/the-machines-are-fine/" target="_blank">The threat is comfortable drift toward not understanding what you&#x27;re doing</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-05 09:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ohugonnot/persistent-memory-in-claude-code-whats-worth-keeping-54ck" target="_blank">Persistent memory in Claude Code: what&#x27;s worth keeping</a></span>
                 <span class="feed">DEV Community</span>
@@ -201,15 +215,6 @@
                 <span class="title"><a href="https://github.com/JuliusBrussee/caveman" target="_blank">Talk like caveman</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-05 08:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alex_vega_77/why-we-ditched-bedrock-agents-for-nova-pro-and-built-a-custom-orchestrator-364h" target="_blank">Why We Ditched Bedrock Agents for Nova Pro and Built a Custom Orchestrator</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-05 07:22</span>
             </div>
         </div>
 </div>
@@ -290,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 12:04 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 13:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
