@@ -1,39 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-04-05 17:07:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-05 18:05:36 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, April 05, 2026 - 17:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, April 05, 2026 - 18:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,9 +55,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/5/opec-agrees-to-hike-oil-output-warns-of-slow-recovery-after-attacks?traffic_source=rss" target="_blank">OPEC+ agrees to hike oil output, warns of slow recovery after attacks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-05 17:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/F-15-ht-er-260403_1775254116752_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says &#x27;we&#x27;re blowing up&#x27; Iran if no peace deal in 48 hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: Trump says &#x27;we&#x27;re blowing up&#x27; Iran if no peace deal in 48 hours</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-05 17:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ff4/live/1a5813f0-30c0-11f1-9a33-4dcb3f23e392.jpg" alt="Seriously wounded US airman rescued from Iran, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr41evk126go?at_medium=RSS&at_campaign=rss" target="_blank">Seriously wounded US airman rescued from Iran, Trump says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-05 16:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/5/at-least-14-people-killed-in-israeli-strikes-across-lebanon?traffic_source=rss" target="_blank">At least 14 people killed in Israeli strikes across Lebanon</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-05 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-police-germany_7080329.jpg?20251112172310" alt="Baby among three killed after tree topples during Easter egg hunt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/baby-and-mother-among-three-killed-after-tree-topples-during-easter-egg-hunt-in-germany-13528237" target="_blank">Baby among three killed after tree topples during Easter egg hunt</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-05 15:51</span>
             </div>
         </div>
 <div class="story">
@@ -65,42 +103,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/gallery/2026/4/5/earth-in-rear-view-of-artemis-ii-astronauts?traffic_source=rss" target="_blank">Earth in rear-view of Artemis II astronauts</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-05 15:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/183b/live/c46ba8f0-30e5-11f1-934f-036468834728.jpg" alt="Pepsi withdraws as UK festival sponsor after Kanye West backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss" target="_blank">Pepsi withdraws as UK festival sponsor after Kanye West backlash</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-05 15:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-orban-vucic-hungary_7211542.jpg?20260405152656" alt="&#x27;Devastating&#x27; explosives found near pipeline supplying Russian gas to Hungary and Serbia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/explosives-with-devastating-power-found-near-pipeline-supplying-russian-gas-to-hungary-and-serbia-13528189" target="_blank">&#x27;Devastating&#x27; explosives found near pipeline supplying Russian gas to Hungary and Serbia</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-05 13:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/183b/live/c46ba8f0-30e5-11f1-934f-036468834728.jpg" alt="Starmer &#x27;concerned&#x27; over Kanye West UK festival dates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer &#x27;concerned&#x27; over Kanye West UK festival dates</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-05 13:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/F-15-ht-er-260403_1775254116752_hpMain_4x3t_384.jpg" alt="Iran live updates: Missing F-15 airman rescued in &#x27;daring&#x27; raid, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: Missing F-15 airman rescued in &#x27;daring&#x27; raid, Trump says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-05 13:06</span>
             </div>
         </div>
 </div>
@@ -168,6 +170,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/foxybimbo/open-source-release-help-2img" target="_blank">Open Source Release Help</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-05 18:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1noii8km9a36ovzs6f2z.jpg" alt="Your Monitoring Didn&#x27;t Miss the Incident. It Was Never Designed to See It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +221,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/videos/ce3d5gkd2geo" target="_blank">Artemis II crew see first glimpse of far side of Moon [video]</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-05 14:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shimo4228/how-ethics-emerged-from-episode-logs-17-days-of-contemplative-agent-design-1kk5" target="_blank">How Ethics Emerged from Episode Logs — 17 Days of Contemplative Agent Design</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-05 11:55</span>
             </div>
         </div>
 </div>
@@ -299,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 17:07 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 18:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
