@@ -1,37 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-04-05 09:11:30 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-05 10:07:05 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, April 05, 2026 - 09:11 UTC</div>
+    <div class="newspaper-date">Sunday, April 05, 2026 - 10:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +37,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/C-130-DB-260405_1775372058995_hpMain_2_4x3t_384.jpg" alt="Iran live updates: US destroyed 2 stuck C-130s during rescue mission, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: US destroyed 2 stuck C-130s during rescue mission, official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-05 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +91,20 @@
                 <span class="time">2026-04-05 06:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/05/nx-s1-5774368/u-s-military-rescue-airman-iran" target="_blank">Trump says U.S. military has rescued airman shot down over Iran</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-05 05:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69cfeeb9d4c18da3282280c6/master/pass/The-Best-Robot-Lawn-Mowers.jpg" alt="3 Best Robot Lawn Mowers (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-robot-lawn-mowers/" target="_blank">3 Best Robot Lawn Mowers (2026), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-05 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e004357large-500x500.jpg" alt="Artemis II is going so well that we&#x27;re left to talk about frozen urine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +150,20 @@
                 <span class="time">2026-04-04 20:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright" target="_blank">A folk musician became a target for AI fakes and a copyright troll</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-04 17:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/frihet/zero-admin-the-complete-stack-to-run-your-business-on-autopilot-3mbl" target="_blank">Zero Admin: The Complete Stack to Run Your Business on Autopilot</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-05 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,6 +183,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lisette.run/" target="_blank">Lisette a little language inspired by Rust that compiles to Go</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-05 06:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flxss48wc6hufwj35yu1n.jpeg" alt="5 Patterns for Building Resilient Event-Driven Integrations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -199,24 +207,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17313745/firefox-survival-with-vpn-ai" target="_blank">Can Free VPN and AI Save Firefox From Decline?</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-04-05 04:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maanu07/optimize-react-re-renders-devtools-memoization-guide-2fh0" target="_blank">Optimize React Re-renders: DevTools &amp; Memoization Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-05 03:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://composerprogrammer.com/introductiontocomputermusic.pdf" target="_blank">Introduction to Computer Music (2009) [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-05 01:54</span>
             </div>
         </div>
 </div>
@@ -297,8 +287,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 09:11 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 10:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
