@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-05 13:21:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-05 14:09:07 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, April 05, 2026 - 13:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, April 05, 2026 - 14:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/183b/live/c46ba8f0-30e5-11f1-934f-036468834728.jpg" alt="Starmer &#x27;concerned&#x27; over Kanye West UK festival dates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer &#x27;concerned&#x27; over Kanye West UK festival dates</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-05 13:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/F-15-ht-er-260403_1775254116752_hpMain_4x3t_384.jpg" alt="Iran live updates: Missing F-15 airman rescued in &#x27;daring&#x27; raid, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +103,20 @@
                 <span class="time">2026-04-05 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/05/nx-s1-5745032/questions-to-help-you-get-financially-naked-with-your-partner" target="_blank">Questions to help you get &#x27;financially naked&#x27; with your partner</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-05 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/" target="_blank">In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-05 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d03c4f7025f3dd6d8df7bf/master/pass/The-Best-Apple-Watch-Bands,-According-to-Years-of-All-Day-Wear.jpg" alt="Best Apple Watch Bands of 2026: Nike, Hermés, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,15 +160,6 @@
                 <span class="title"><a href="https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/" target="_blank">Artemis II is going so well that we&#x27;re left to talk about frozen urine</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-05 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/" target="_blank">Peter Thiel’s big bet on solar-powered cow collars</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-04 21:30</span>
             </div>
         </div>
 </div>
@@ -223,6 +227,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/melting-brain-1280x853.jpg" alt="‘Cognitive Surrender’ Is a New and Useful Term for How AI Melts Brains" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/cognitive-surrender-is-a-new-and-useful-term-for-how-ai-melts-brains-2000742595" target="_blank">‘Cognitive Surrender’ Is a New and Useful Term for How AI Melts Brains</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-05 13:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/animorphs-cover-hed-1280x853.jpg" alt="Ryan Coogler Is Shifting ‘Animorphs’ Into a Disney+ Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -267,15 +280,6 @@
                 <span class="time">2026-04-04 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/Elden-Ring-key-art-Bandai-Namco-1280x709.jpg" alt="A Fan Claims To Have Found A Set From Alex Garland’s Elden Ring Movie Out In The Wild" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/elden-ring-moavie-alex-garland-filming-set-2000684895" target="_blank">A Fan Claims To Have Found A Set From Alex Garland’s Elden Ring Movie Out In The Wild</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-04 13:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 13:22 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 14:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
