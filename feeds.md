@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-05 15:07:02 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-05 16:05:47 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, April 05, 2026 - 15:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, April 05, 2026 - 16:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/4/5/earth-in-rear-view-of-artemis-ii-astronauts?traffic_source=rss" target="_blank">Earth in rear-view of Artemis II astronauts</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-05 15:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/183b/live/c46ba8f0-30e5-11f1-934f-036468834728.jpg" alt="Pepsi withdraws as UK festival sponsor after Kanye West backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss" target="_blank">Pepsi withdraws as UK festival sponsor after Kanye West backlash</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-05 15:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-orban-vucic-hungary_7211542.jpg?20260405152656" alt="&#x27;Devastating&#x27; explosives found near pipeline supplying Russian gas to Hungary and Serbia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/explosives-with-devastating-power-found-near-pipeline-supplying-russian-gas-to-hungary-and-serbia-13528189" target="_blank">&#x27;Devastating&#x27; explosives found near pipeline supplying Russian gas to Hungary and Serbia</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-05 13:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/183b/live/c46ba8f0-30e5-11f1-934f-036468834728.jpg" alt="Starmer &#x27;concerned&#x27; over Kanye West UK festival dates" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,38 +101,29 @@
                 <span class="time">2026-04-05 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b969/live/d25257c0-30bd-11f1-b297-95b0a0a8331e.jpg" alt="Keir Starmer &#x27;concerned&#x27; over Kanye West UK festival dates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss" target="_blank">Keir Starmer &#x27;concerned&#x27; over Kanye West UK festival dates</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-05 10:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/5/lamine-yamals-anger-after-barcelonas-la-liga-win-downplayed-by-flick?traffic_source=rss" target="_blank">Lamine Yamal’s anger after Barcelona’s La Liga win downplayed by Flick</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-05 10:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/C-130-DB-260405_1775372058995_hpMain_2_4x3t_384.jpg" alt="Iran live updates: US destroyed 2 stuck C-130s during rescue mission, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311" target="_blank">Iran live updates: US destroyed 2 stuck C-130s during rescue mission, official says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-05 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/" target="_blank">TechCrunch Mobility: ‘A stunning lack of transparency’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-05 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers" target="_blank">Suno is a music copyright nightmare</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-05 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +160,20 @@
                 <span class="time">2026-04-05 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/08/GettyImages-925067740-500x500.jpg" alt="CBP facility codes sure seem to have leaked via online flashcards" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/" target="_blank">CBP facility codes sure seem to have leaked via online flashcards</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-05 11:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69cfeeb9d4c18da3282280c6/master/pass/The-Best-Robot-Lawn-Mowers.jpg" alt="3 Best Robot Lawn Mowers (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-robot-lawn-mowers/" target="_blank">3 Best Robot Lawn Mowers (2026), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-05 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fid5jvbatb7drwkk5ns2g.png" alt="Qodo vs SonarQube: AI-Powered vs Traditional Analysis (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rahulxsingh/qodo-vs-sonarqube-ai-powered-vs-traditional-analysis-2026-49ia" target="_blank">Qodo vs SonarQube: AI-Powered vs Traditional Analysis (2026)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-05 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -167,6 +181,15 @@
                 <span class="title"><a href="https://dev.to/lorikeesmart/the-3-2-1-backup-rule-how-to-never-lose-your-data-again-4eof" target="_blank">The 3-2-1 Backup Rule: How to Never Lose Your Data Again</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-05 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bbc.com/news/videos/ce3d5gkd2geo" target="_blank">Artemis II crew see first glimpse of far side of Moon [video]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-05 14:18</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/frihet/zero-admin-the-complete-stack-to-run-your-business-on-autopilot-3mbl" target="_blank">Zero Admin: The Complete Stack to Run Your Business on Autopilot</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-05 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ergosphere.blog/posts/the-machines-are-fine/" target="_blank">The threat is comfortable drift toward not understanding what you&#x27;re doing</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-05 09:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ohugonnot/persistent-memory-in-claude-code-whats-worth-keeping-54ck" target="_blank">Persistent memory in Claude Code: what&#x27;s worth keeping</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-05 09:00</span>
             </div>
         </div>
 </div>
@@ -279,12 +284,12 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1774994166-20260404.png" alt="Saturday Morning Breakfast Cereal - Super" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1775358890-20260405.png" alt="Saturday Morning Breakfast Cereal - Hi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/super-3" target="_blank">Saturday Morning Breakfast Cereal - Super</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/hi" target="_blank">Saturday Morning Breakfast Cereal - Hi</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-04 15:20</span>
+                <span class="time">2026-04-05 15:20</span>
             </div>
         </div>
 </div>
@@ -292,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 15:07 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 16:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
