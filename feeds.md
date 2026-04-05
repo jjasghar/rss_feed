@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-05 14:09:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-05 15:07:02 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, April 05, 2026 - 14:09 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, April 05, 2026 - 15:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +104,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/907015/gemini-google-maps-hands-on" target="_blank">I let Gemini in Google Maps plan my day and it went surprisingly well</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-05 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/" target="_blank">In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants</a></span>
                 <span class="feed">TechCrunch</span>
@@ -153,20 +155,20 @@
                 <span class="time">2026-04-05 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e004357large-500x500.jpg" alt="Artemis II is going so well that we&#x27;re left to talk about frozen urine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/" target="_blank">Artemis II is going so well that we&#x27;re left to talk about frozen urine</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-05 00:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lorikeesmart/the-3-2-1-backup-rule-how-to-never-lose-your-data-again-4eof" target="_blank">The 3-2-1 Backup Rule: How to Never Lose Your Data Again</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-05 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,20 +214,20 @@
                 <span class="time">2026-04-05 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/JuliusBrussee/caveman" target="_blank">Talk like caveman</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-05 08:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/smb_app_poster.jpg" alt="The Weird Appeal Of The Bob Hoskins Mario Movie Will Endure Forever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-weird-appeal-of-the-bob-hoskins-mario-movie-forever-endures-2000684929" target="_blank">The Weird Appeal Of The Bob Hoskins Mario Movie Will Endure Forever</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-05 14:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/melting-brain-1280x853.jpg" alt="‘Cognitive Surrender’ Is a New and Useful Term for How AI Melts Brains" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +273,6 @@
                 <span class="time">2026-04-04 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Microsoft-Office-Pro-2021-for-Windows.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Be the Excel guru at work with this Microsoft Office 2021 Pro suite and Training Bundle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/04/be-the-excel-guru-at-work-with-this-microsoft-office-2021-pro-suite-and-training-bundle.html" target="_blank">Be the Excel guru at work with this Microsoft Office 2021 Pro suite and Training Bundle</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-04 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -300,7 +293,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 14:09 UTC
+        🔄 Last Updated: 15:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
