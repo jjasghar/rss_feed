@@ -1,27 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-05 10:07:05 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-05 11:06:59 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 19 feeds processed -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, April 05, 2026 - 10:07 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, April 05, 2026 - 11:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +40,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/05/nx-s1-5773315/shellear-climbing-fish-congo-waterfall" target="_blank">These rock-climbing fish can shimmy up a 50-foot waterfall</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-05 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b969/live/d25257c0-30bd-11f1-b297-95b0a0a8331e.jpg" alt="Keir Starmer &#x27;concerned&#x27; over Kanye West UK festival dates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss" target="_blank">Keir Starmer &#x27;concerned&#x27; over Kanye West UK festival dates</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-05 10:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/5/lamine-yamals-anger-after-barcelonas-la-liga-win-downplayed-by-flick?traffic_source=rss" target="_blank">Lamine Yamal’s anger after Barcelona’s La Liga win downplayed by Flick</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-05 10:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/C-130-DB-260405_1775372058995_hpMain_2_4x3t_384.jpg" alt="Iran live updates: US destroyed 2 stuck C-130s during rescue mission, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -62,33 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2026/4/5/israels-attack-on-unrwa-is-central-to-its-genocide-of-the-palestinians?traffic_source=rss" target="_blank">Israel’s attack on UNRWA is central to its genocide of the Palestinians</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-05 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/4/5/under-israeli-restrictions-palestinian-christians-mark-quiet-holy-week?traffic_source=rss" target="_blank">Under Israeli restrictions, Palestinian Christians mark quiet Holy Week</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-05 07:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336c/live/47b79c30-3048-11f1-bcfc-dda6bbc21b25.jpg" alt="What we know so far about rescue of US airman in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss" target="_blank">What we know so far about rescue of US airman in Iran</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-05 06:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/4/5/nothing-prepares-you-the-invisible-lives-of-carers-in-the-uk?traffic_source=rss" target="_blank">‘Nothing prepares you’: The invisible lives of carers in the UK</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-05 06:08</span>
             </div>
         </div>
 </div>
@@ -176,6 +179,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/JuliusBrussee/caveman" target="_blank">Talk like caveman</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-05 08:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/alex_vega_77/why-we-ditched-bedrock-agents-for-nova-pro-and-built-a-custom-orchestrator-364h" target="_blank">Why We Ditched Bedrock Agents for Nova Pro and Built a Custom Orchestrator</a></span>
                 <span class="feed">DEV Community</span>
@@ -198,15 +210,6 @@
                 <span class="title"><a href="https://dev.to/137foundry/5-patterns-for-building-resilient-event-driven-integrations-3i8h" target="_blank">5 Patterns for Building Resilient Event-Driven Integrations</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-05 05:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17313745/firefox-survival-with-vpn-ai" target="_blank">Can Free VPN and AI Save Firefox From Decline?</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-05 04:54</span>
             </div>
         </div>
 </div>
@@ -287,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 10:07 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 11:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
