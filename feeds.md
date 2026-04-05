@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-05 00:09:25 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-05 01:30:53 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, April 05, 2026 - 00:09 UTC</div>
+    <div class="newspaper-date">Sunday, April 05, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -164,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/piiiico/the-flat-subscription-problem-why-agents-break-ai-pricing-h1j" target="_blank">The Flat Subscription Problem: Why Agents Break AI Pricing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-05 01:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq8rsvoiysuvmafy3jg19.png" alt="Fortune 500 AI Disclosure Analysis: How America&#x27;s Largest Companies Talk About AI in SEC Filings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -194,27 +199,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc7-Input-Fixes" target="_blank">Razer Wolverine V3 Pro &amp; Betop KP50 Controllers To Be Supported By Linux 7.0</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Debian-Undecided-Age-Laws" target="_blank">Debian Is Figuring Out How Age Verification Laws Will Impact It</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-04-04 16:51</span>
+                <span class="time">2026-04-04 19:05</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://jaso1024.com/mvidia/" target="_blank">Show HN: A game where you build a GPU</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-04 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/resources-showtime-yaru-icons.jpg?resize=406%2C232&amp;ssl=1" alt="More new icons arrive in Ubuntu 26.04 LTS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/yaru-new-icons-resources-showtime" target="_blank">More new icons arrive in Ubuntu 26.04 LTS</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-04 15:59</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc7-Input-Fixes" target="_blank">Razer Wolverine V3 Pro &amp; Betop KP50 Controllers To Be Supported By Linux 7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-04 16:51</span>
             </div>
         </div>
 </div>
@@ -295,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 00:09 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
