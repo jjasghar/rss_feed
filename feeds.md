@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-05 20:04:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-05 21:05:54 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, April 05, 2026 - 20:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, April 05, 2026 - 21:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc2/live/122ce0c0-30de-11f1-8ddd-d1b5840720ab.jpg" alt="How rescue of US airman in remote part of Iran unfolded" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss" target="_blank">How rescue of US airman in remote part of Iran unfolded</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-05 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +96,6 @@
                 <span class="title"><a href="https://news.sky.com/story/baby-and-mother-among-three-killed-after-tree-topples-during-easter-egg-hunt-in-germany-13528237" target="_blank">Baby among three killed after tree topples during Easter egg hunt</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-04-05 15:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/4/5/earth-in-rear-view-of-artemis-ii-astronauts?traffic_source=rss" target="_blank">Earth in rear-view of Artemis II astronauts</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-05 15:46</span>
             </div>
         </div>
 </div>
@@ -165,9 +166,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-54gc" target="_blank">Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-05 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/drakkotarkin/we-made-ai-too-agreeable-heres-what-it-cost-us-apc" target="_blank">We Made AI Too Agreeable. Here&#x27;s What It Cost Us.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-05 19:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337" target="_blank">Gemma 4 on iPhone</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-05 18:45</span>
             </div>
         </div>
 <div class="story">
@@ -197,29 +216,20 @@
                 <span class="time">2026-04-05 16:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fid5jvbatb7drwkk5ns2g.png" alt="Qodo vs SonarQube: AI-Powered vs Traditional Analysis (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rahulxsingh/qodo-vs-sonarqube-ai-powered-vs-traditional-analysis-2026-49ia" target="_blank">Qodo vs SonarQube: AI-Powered vs Traditional Analysis (2026)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-05 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lorikeesmart/the-3-2-1-backup-rule-how-to-never-lose-your-data-again-4eof" target="_blank">The 3-2-1 Backup Rule: How to Never Lose Your Data Again</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-05 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/kidpix.jpg" alt="Artist Recreates 17th Century Baroque Masterpiece On Kid Pix" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/artist-recreates-17th-century-baroque-masterpiece-on-kid-pix-cat-graffam-2000684972" target="_blank">Artist Recreates 17th Century Baroque Masterpiece On Kid Pix</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-05 20:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/GettyImages-2268677104-1280x853.jpg" alt="Trump Is Reportedly Going Full Steam Ahead With The Golden Dome" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +275,6 @@
                 <span class="time">2026-04-05 14:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/melting-brain-1280x853.jpg" alt="‘Cognitive Surrender’ Is a New and Useful Term for How AI Melts Brains" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/cognitive-surrender-is-a-new-and-useful-term-for-how-ai-melts-brains-2000742595" target="_blank">‘Cognitive Surrender’ Is a New and Useful Term for How AI Melts Brains</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-05 13:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 20:04 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 21:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
