@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-06 19:20:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-06 20:09:15 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, April 06, 2026 - 19:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, April 06, 2026 - 20:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/artemis-17-ht-gmh-260406_1775499306076_hpMain_4x3t_384.jpg" alt="Artemis II live updates: Crew begins lunar flyby after breaking distance record" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306" target="_blank">Artemis II live updates: Crew begins lunar flyby after breaking distance record</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-06 19:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/06/nx-s1-5775669/trump-iran-war-deadline-press-conference" target="_blank">Trump set to hold press conference after profanity-laced post on Iran</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-06 16:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/06/nx-s1-5773372/medication-abortion-jama-safety-mifipristone-misoprostol" target="_blank">Over-the-counter medication abortion? These researchers say it would be safe</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-06 15:42</span>
             </div>
         </div>
 </div>
@@ -167,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fnpm%2Fv%2Fkiattp.svg%3Fcolor%3D007EC6" alt="I Got Mad at an npm Hack, Spent 3 Days Yelling at an AI, and Accidentally Built a Library 4 Faster Than Axios" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dev-dami/i-got-mad-at-an-npm-hack-spent-3-days-yelling-at-an-ai-and-accidentally-built-a-library-4-faster-1bld" target="_blank">I Got Mad at an npm Hack, Spent 3 Days Yelling at an AI, and Accidentally Built a Library 4 Faster Than Axios</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-06 20:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -196,28 +203,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-AGESA-Version-Linux-7.1" target="_blank">A Small But Useful Debugging Addition For AMD Zen Systems With Linux 7.1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-06 17:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdms624wqvmfczhk5sc03.png" alt="Windows Program Icon Update Issue: Resolving Taskbar and Header Icon Persistence Despite Modifications" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/serbyte/windows-program-icon-update-issue-resolving-taskbar-and-header-icon-persistence-despite-433j" target="_blank">Windows Program Icon Update Issue: Resolving Taskbar and Header Icon Persistence Despite Modifications</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-06 16:05</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.wesnoth.org" target="_blank">Battle for Wesnoth: open-source, turn-based strategy game</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-06 17:37</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/entalogics/what-we-learned-delivering-600-software-project-4onc" target="_blank">What We Learned Delivering 600+ Software Project</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-06 15:05</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-AGESA-Version-Linux-7.1" target="_blank">A Small But Useful Debugging Addition For AMD Zen Systems With Linux 7.1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-06 17:03</span>
             </div>
         </div>
 </div>
@@ -248,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/Punisher-One-Last-Kill-first-look-1280x853.jpg" alt="All Hell Breaks Loose in a Tease of the End of ‘Daredevil: Born Again’ Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/all-hell-breaks-loose-in-a-tease-of-the-end-of-daredevil-born-again-season-2-2000743087" target="_blank">All Hell Breaks Loose in a Tease of the End of ‘Daredevil: Born Again’ Season 2</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-06 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2019/08/v2ofqin61wipgqri6yde-1024x576.jpg" alt="Wisconsin Remains a Gooning Sanctuary State After Governor Rejects Age Verification Bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +298,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/jbl-partybox-720-speaker-sale-april-2026?utm_medium=RSS" target="_blank">This High-Powered JBL Party Speaker Is $300 Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-06 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/TheTestaments_interviewtopart-1280x853.jpg" alt="‘The Testaments’ Cast on How Their Show Mirrors Our Real-Life Dystopia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/testaments-interview-handmaids-tale-real-life-2000740556" target="_blank">‘The Testaments’ Cast on How Their Show Mirrors Our Real-Life Dystopia</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-06 15:00</span>
             </div>
         </div>
 </div>
@@ -348,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 19:21 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 20:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
