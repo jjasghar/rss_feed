@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-06 13:28:13 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-06 14:17:43 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, April 06, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, April 06, 2026 - 14:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/06/nx-s1-5647647/supreme-court-bannon" target="_blank">Supreme Court clears the way for Bannon contempt case to be dismissed</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-06 13:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/4/6/the-us-could-still-try-to-play-the-ethnic-card-in-iran?traffic_source=rss" target="_blank">The US could still try to play the ethnic card in Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-06 13:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,29 +98,20 @@
                 <span class="time">2026-04-06 10:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/6/world-cup-qualification-earns-iraq-coach-arnold-a-heros-welcome-in-sydney?traffic_source=rss" target="_blank">World Cup qualification earns Iraq coach Arnold a hero’s welcome in Sydney</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-06 09:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/6/man-city-captain-silva-to-leave-premier-league-club-at-seasons-end?traffic_source=rss" target="_blank">Man City captain Silva to leave Premier League club at season’s end</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-06 06:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/" target="_blank">How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-06 14:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/news-040626a-lg-500x500.jpg" alt="Why will today&#x27;s lunar flyby only beam back low-resolution video?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,20 +157,29 @@
                 <span class="time">2026-04-06 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/06/xiaomi-17-ultra-review-camera-leica-specs-photography-kit-pro/" target="_blank">The Xiaomi 17 Ultra has some impressive add-ons that make snapping photos really fun</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-06 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-Staging-11.6" target="_blank">Wine Staging 11.6 Ships Big Patch Series For Working On DirectComposition</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-06 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18857042&w=600" alt="Integrating OpenID Connect (OIDC) Authentication in Angular and React" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/integrating-openid-connect-oidc-authentication-in" target="_blank">Integrating OpenID Connect (OIDC) Authentication in Angular and React</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-06 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18926261&w=600" alt="The 2026 Guide to Ecommerce Security and Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,24 +216,6 @@
                 <span class="time">2026-04-06 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18926254&w=600" alt="Clock Synchronization and Ordering Events in Distributed Systems: Lamport Clocks vs. Vector Clocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/clock-synchronization-and-ordering-events" target="_blank">Clock Synchronization and Ordering Events in Distributed Systems: Lamport Clocks vs. Vector Clocks</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-06 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dahkenangnon/i-built-a-better-documentation-site-for-oidc-provider-1f11" target="_blank">I built a better documentation site for oidc-provider</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-06 11:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/image-51.jpg" alt="Nintendo Hits Another Home Run In Hollywood As Mario Galaxy Movie Tops $350 Million" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mario-galaxy-box-office-record-halo-ce-date-2000685153" target="_blank">Nintendo Hits Another Home Run In Hollywood As Mario Galaxy Movie Tops $350 Million</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-06 14:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/Steel-Ball-Run-Netflix-David-Production-Anime-1280x853.jpg" alt="Netflix Wants You to Stop Yelling at It About ‘Steel Ball Run’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/netflix-steel-ball-run-stage-2-release-date-schedule-2000742832" target="_blank">Netflix Wants You to Stop Yelling at It About ‘Steel Ball Run’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-06 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Super-Mario-Galaxy-final-poster-1280x853.jpg" alt="‘The Super Mario Galaxy Movie’ Jumps to Big Opening Weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +296,6 @@
                 <span class="title"><a href="https://gizmodo.com/sounds-like-amazon-will-see-rings-of-power-to-the-end-2000742594" target="_blank">Amazon Is Sticking With ‘Rings of Power’ to the End</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-05 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/kidpix.jpg" alt="Artist Recreates 17th Century Baroque Masterpiece On Kid Pix" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/artist-recreates-17th-century-baroque-masterpiece-on-kid-pix-cat-graffam-2000684972" target="_blank">Artist Recreates 17th Century Baroque Masterpiece On Kid Pix</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-05 20:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/GettyImages-2268677104-1280x853.jpg" alt="Trump Is Reportedly Going Full Steam Ahead With The Golden Dome" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-is-reportedly-going-full-steam-ahead-with-the-golden-dome-2000742636" target="_blank">Trump Is Reportedly Going Full Steam Ahead With The Golden Dome</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-05 19:48</span>
             </div>
         </div>
 </div>
@@ -330,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 14:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
