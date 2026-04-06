@@ -1,45 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-06 00:10:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-06 01:31:04 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 36 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, April 06, 2026 - 00:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, April 06, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8493/live/fba08020-313a-11f1-819d-c96a4978551d.jpg" alt="Trump issues expletive-laden threat to Iran over Hormuz Strait blockage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss" target="_blank">Trump issues expletive-laden threat to Iran over Hormuz Strait blockage</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-06 00:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de0d/live/4e8fd160-2e9c-11f1-90b9-6ffcd881a7dc.jpg" alt="Benefits and pensions rise as two-child cap ends" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -98,15 +99,6 @@
                 <span class="title"><a href="https://abcnews.com/International/trump-blowing-country-iran-deal-reached-48-hours/story?id=131744086" target="_blank">Trump says &#x27;we&#x27;re blowing up the whole country&#x27; if no Iran deal in 48 hours</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-05 20:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc2/live/122ce0c0-30de-11f1-8ddd-d1b5840720ab.jpg" alt="How rescue of US airman in remote part of Iran unfolded" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss" target="_blank">How rescue of US airman in remote part of Iran unfolded</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-05 20:00</span>
             </div>
         </div>
 </div>
@@ -177,9 +169,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rodrigo_caetano_a69bd0726/ai-wont-save-bad-code-why-senior-developers-matter-more-than-ever-oi4" target="_blank">AI Won&#x27;t Save Bad Code: Why Senior Developers Matter More Than Ever</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-06 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/techpulselab/budget-breakdown-100k-salary-after-taxes-youre-not-rich-3jmf" target="_blank">Budget Breakdown: $100K Salary After Taxes — You&#x27;re Not Rich</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-06 00:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/01/ubuntu-pro.jpg?resize=406%2C232&amp;ssl=1" alt="You can now enable Ubuntu Pro from the OS setup tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/ubuntu-pro-initial-setup-tool" target="_blank">You can now enable Ubuntu Pro from the OS setup tool</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-05 23:57</span>
             </div>
         </div>
 <div class="story">
@@ -207,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/ggondim/o-claude-terminou-com-o-openclaw-sera-mesmo-8bl" target="_blank">O Claude terminou com o OpenClaw… Será mesmo?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-05 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-54gc" target="_blank">Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-05 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/drakkotarkin/we-made-ai-too-agreeable-heres-what-it-cost-us-apc" target="_blank">We Made AI Too Agreeable. Here&#x27;s What It Cost Us.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-05 19:06</span>
             </div>
         </div>
 </div>
@@ -305,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 00:10 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
