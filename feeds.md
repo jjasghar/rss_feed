@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-06 11:16:24 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-06 12:11:27 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, April 06, 2026 - 11:16 UTC</div>
+    <div class="newspaper-date">Monday, April 06, 2026 - 12:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/6/has-trump-confirmed-irans-claim-that-protesters-were-us-armed?traffic_source=rss" target="_blank">Has Trump confirmed Iran’s claim that protesters were US-armed?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-06 11:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775474215063_tdy_news_7a_gutierrez_iran_ceasefire_260406_S3_1920x1080-nkc9ld.jpg" alt="Iran and US Receive Proposal for 45-Day Ceasefire: Report" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-issues-profane-filled-threat-for-iran-to-open-hormuz-260753989779" target="_blank">Iran and US Receive Proposal for 45-Day Ceasefire: Report</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-06 11:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +104,29 @@
                 <span class="time">2026-04-06 06:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Haifa-impact-DB-260406_1775453984328_hpMain_4x3t_384.jpg" alt="Iran live updates: Casualties reported from missile strikes in Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Casualties reported from missile strikes in Israel</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-06 06:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/6/steph-curry-returns-from-injury-with-29-points-but-warriors-lose-to-rockets?traffic_source=rss" target="_blank">Steph Curry returns from injury with 29 points but Warriors lose to Rockets</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-06 06:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69d0b281ac880fc9063fd00d/master/pass/The-Best-Apple-Watch-Accessories-to-Get-More-Out-of-Your-Device.jpg" alt="8 Best Apple Watch Accessories (2026): Bands, Chargers, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-apple-watch-accessories/" target="_blank">8 Best Apple Watch Accessories (2026): Bands, Chargers, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-06 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing" target="_blank">Can AI responses be influenced? The SEO industry is trying</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-06 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69cffdb3640c23d3efe3532c/master/pass/snake_bite_antivenom_top.gif" alt="Snake Bros Keep Getting Bitten by Their Lethal Pets. Only Zoos Can Save Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +163,29 @@
                 <span class="time">2026-04-05 19:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/" target="_blank">Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-05 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/907174/los-thuthanaka-waka-review" target="_blank">Los Thuthanaka’s Wak&amp;#8217;a is a mellower follow-up to last year’s surprise Pitchfork favorite</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-05 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/horizondev/what-is-a-legacy-platform-rebuild-5-revenue-signals-1n8b" target="_blank">What Is a Legacy Platform Rebuild? 5 Revenue Signals</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-06 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18926254&w=600" alt="Clock Synchronization and Ordering Events in Distributed Systems: Lamport Clocks vs. Vector Clocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/clock-synchronization-and-ordering-events" target="_blank">Clock Synchronization and Ordering Events in Distributed Systems: Lamport Clocks vs. Vector Clocks</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-06 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,30 +214,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wg9ll0ijo9sp1sx8cml.png" alt="Why Strong IT Careers Are Built in Communities, Not in Isolation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/growcluster/why-strong-it-careers-are-built-in-communities-not-in-isolation-3cg7" target="_blank">Why Strong IT Careers Are Built in Communities, Not in Isolation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-06 08:19</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/Sidenai/sidex" target="_blank">SideX – A Tauri-based port of Visual Studio Code</a></span>
+                <span class="title"><a href="https://tboteproject.com/surveillancefindings/" target="_blank">Age Verification as Mass Surveillance Infrastructure</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-04-06 06:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5qyyk9l43af9cn16gok0.png" alt="I Built A Monster Model Before I Built a Working One" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/harshith_halejolad/i-built-a-monster-model-before-i-built-a-working-one-4iep" target="_blank">I Built A Monster Model Before I Built a Working One</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-06 05:36</span>
+                <span class="time">2026-04-06 10:33</span>
             </div>
         </div>
 </div>
@@ -223,6 +227,15 @@
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html" target="_blank">Google Wants to Transition to Post-Quantum Cryptography by 2029</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-04-06 10:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -237,6 +250,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Super-Mario-Galaxy-final-poster-1280x853.jpg" alt="‘The Super Mario Galaxy Movie’ Jumps to Big Opening Weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-super-mario-galaxy-movie-jumps-to-big-opening-weekend-2000742674" target="_blank">‘The Super Mario Galaxy Movie’ Jumps to Big Opening Weekend</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-06 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/star-wars-maul-shadow-lord-review-1280x853.jpg" alt="‘Maul: Shadow Lord’ Is a Fine Prequel to a Great TV Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +304,6 @@
                 <span class="time">2026-04-05 19:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Super-Mario-Galaxy-party-1280x853.jpg" alt="Twitter Just Can’t Stop Leaking Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/twitter-super-mario-galaxy-avatar-3-leaks-2000742646" target="_blank">Twitter Just Can’t Stop Leaking Movies</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-05 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 83 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 11:16 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 12:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
