@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-06 04:07:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-06 05:40:42 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, April 06, 2026 - 04:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, April 06, 2026 - 05:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/06/nx-s1-5773187/nasa-artemis-ii-moon-lunar-flyby" target="_blank">NASA&#x27;s Artemis II crew readies for Monday&#x27;s lunar flyby. Here&#x27;s what you need to know</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-06 05:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/05/nx-s1-5774517/hollywood-studios-wga-tentative-agreement-writers-union" target="_blank">Hollywood studios reach a tentative agreement with writers union</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-05 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/5/uk-police-arrest-seven-protesters-near-raf-base-used-by-us?traffic_source=rss" target="_blank">UK police arrest seven protesters near RAF base used by US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-05 21:05</span>
             </div>
         </div>
 </div>
@@ -161,6 +167,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5qyyk9l43af9cn16gok0.png" alt="I Built A Monster Model Before I Built a Working One" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/harshith_halejolad/i-built-a-monster-model-before-i-built-a-working-one-4iep" target="_blank">I Built A Monster Model Before I Built a Working One</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-06 05:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Dynamic Languages Faster and Cheaper in 13-Language Claude Code Benchmark" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/ai-coding-language-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Dynamic Languages Faster and Cheaper in 13-Language Claude Code Benchmark</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-06 04:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -196,22 +220,18 @@
                 <span class="time">2026-04-06 01:21</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://playlists.at/youtube/search/" target="_blank">Show HN: YouTube search barely works, I made a search form with advanced filters</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-06 00:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/techpulselab/budget-breakdown-100k-salary-after-taxes-youre-not-rich-3jmf" target="_blank">Budget Breakdown: $100K Salary After Taxes — You&#x27;re Not Rich</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-06 00:07</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/" target="_blank">Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-04-06 02:07</span>
             </div>
         </div>
 </div>
@@ -301,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 04:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 05:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
