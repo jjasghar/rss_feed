@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-06 14:17:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-06 15:13:03 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, April 06, 2026 - 14:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, April 06, 2026 - 15:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/6/ukraine-strikes-russian-black-sea-energy-hub-novorossiysk?traffic_source=rss" target="_blank">Ukraine strikes Russian Black Sea energy hub Novorossiysk</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-06 14:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +104,20 @@
                 <span class="time">2026-04-06 10:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Tehran-DB-260406_1775470656245_hpMain_4x3t_384.jpg" alt="Iran live updates: IRGC says Strait of Hormuz will &#x27;never&#x27; revert to pre-war state" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: IRGC says Strait of Hormuz will &#x27;never&#x27; revert to pre-war state</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-06 10:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/" target="_blank">Startup Battlefield 200 applications open: A chance for VC access, TechCrunch coverage, and $100K</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-06 14:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +163,38 @@
                 <span class="time">2026-04-06 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d0010ebd20ea771b0078c1/master/pass/Intel-Copackaging-Business-DSC01068.jpg" alt="The Ridiculously Nerdy Intel Bet That Could Rake in Billions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/" target="_blank">The Ridiculously Nerdy Intel Bet That Could Rake in Billions</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-06 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/entalogics/what-we-learned-delivering-600-software-project-4onc" target="_blank">What We Learned Delivering 600+ Software Project</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-06 15:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18829550&w=600" alt="Smart Controls for Infrastructure as Code with LLMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/smart-controls-for-infrastructure-as-code" target="_blank">Smart Controls for Infrastructure as Code with LLMs</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-06 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.0xsid.com/blog/wont-download-your-app" target="_blank">I Won&#x27;t Download Your App. The Web Version Is A-OK</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-06 14:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,33 +220,6 @@
                 <span class="title"><a href="https://dzone.com/articles/2026-guide-to-ecommerce-security-and-development" target="_blank">The 2026 Guide to Ecommerce Security and Development</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-06 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://belief.horse/notes/what-being-ripped-off-taught-me/" target="_blank">What Being Ripped Off Taught Me</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-06 12:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/duolingo-eks-kubernetes/en/mediumimage/Franka-Passing-medium-1774441713171.jpg" alt="Presentation: Duolingo&#x27;s Kubernetes Leap" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/duolingo-eks-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Duolingo&#x27;s Kubernetes Leap</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-06 12:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/horizondev/what-is-a-legacy-platform-rebuild-5-revenue-signals-1n8b" target="_blank">What Is a Legacy Platform Rebuild? 5 Revenue Signals</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-06 12:00</span>
             </div>
         </div>
 </div>
@@ -245,6 +251,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/TheTestaments_interviewtopart-1280x853.jpg" alt="‘The Testaments’ Cast on How Their Show Mirrors Our Real-Life Dystopia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/testaments-interview-handmaids-tale-real-life-2000740556" target="_blank">‘The Testaments’ Cast on How Their Show Mirrors Our Real-Life Dystopia</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-06 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/doubledrag.jpg" alt="Double Dragon, River City Creator Yoshihisa Kishimoto Passes Away At 64" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/double-dragon-river-city-creator-yoshihisa-kishimoto-passes-away-at-64-kunio-kun-2000685183" target="_blank">Double Dragon, River City Creator Yoshihisa Kishimoto Passes Away At 64</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-06 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Screenshot-WPXI.jpg?fit=1080%2C595&amp;quality=60&amp;ssl=1" alt="Assault charge for man who groped Easter Bunny at Pittsburgh mall" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/06/assault-charge-for-man-who-groped-easter-bunny-at-pittsburgh-mall.html" target="_blank">Assault charge for man who groped Easter Bunny at Pittsburgh mall</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-06 14:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/image-51.jpg" alt="Nintendo Hits Another Home Run In Hollywood As Mario Galaxy Movie Tops $350 Million" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -269,33 +302,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-super-mario-galaxy-movie-jumps-to-big-opening-weekend-2000742674" target="_blank">‘The Super Mario Galaxy Movie’ Jumps to Big Opening Weekend</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-06 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/star-wars-maul-shadow-lord-review-1280x853.jpg" alt="‘Maul: Shadow Lord’ Is a Fine Prequel to a Great TV Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/maul-shadow-lord-review-star-wars-disney-plus-2000740086" target="_blank">‘Maul: Shadow Lord’ Is a Fine Prequel to a Great TV Show</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-06 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/shutterstock_2442151057-1280x619.jpg" alt="Apple App Store Experiences Surge in New Apps Amid Vibe Coding Boom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/apple-app-store-experiences-surge-in-new-apps-amid-vibe-coding-boom-2000742653" target="_blank">Apple App Store Experiences Surge in New Apps Amid Vibe Coding Boom</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-06 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/lotr-rings-of-power-hed-1280x853.jpg" alt="Amazon Is Sticking With ‘Rings of Power’ to the End" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sounds-like-amazon-will-see-rings-of-power-to-the-end-2000742594" target="_blank">Amazon Is Sticking With ‘Rings of Power’ to the End</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-05 21:00</span>
             </div>
         </div>
 </div>
@@ -335,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 14:17 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 15:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
